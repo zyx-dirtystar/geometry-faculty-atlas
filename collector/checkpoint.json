@@ -236176,19 +236176,6 @@
       "checked_at": "2026-11-23"
     },
     {
-      "url": "https://www.math.unipd.it/%7Ebottacin/",
-      "cache_id": "profile-16fc608b6515c7e0",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "https://www.math.unipd.it/%7Ebottacin/curriculum.htm",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
       "url": "https://www.math.unipd.it/%7Ecandiler/geom.html",
       "cache_id": "profile-448ce9f552a8445d",
       "status": "parsed",
@@ -236210,19 +236197,6 @@
         "homepage": "",
         "cv": "",
         "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.math.unipd.it/%7Eernesto/",
-      "cache_id": "profile-eb190ad87e2c66b2",
-      "status": "parsed",
-      "record": {
-        "research": "My research interests: - Vector bundles on projective varieties, their moduli spaces, positivity; - Chow rings of projective varieties; - Moduli spaces of curves; - Complex surfaces.",
-        "homepage": "",
-        "cv": "",
-        "publications": "https://www.math.unipd.it/%7Eernesto/publications.html",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -236326,19 +236300,6 @@
       "checked_at": "2026-11-23"
     },
     {
-      "url": "https://www.math.unipd.it/dipartimento/persone/ernesto_carlo.mistretta/",
-      "cache_id": "profile-9327549845082104",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
       "url": "https://www.math.unipd.it/dipartimento/persone/fabio.risi/",
       "cache_id": "profile-14d3bc4b3fc39568",
       "status": "parsed",
@@ -236354,19 +236315,6 @@
     {
       "url": "https://www.math.unipd.it/dipartimento/persone/federico.bambozzi/",
       "cache_id": "profile-34e952076fccd449",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.math.unipd.it/dipartimento/persone/francesco.bottacin/",
-      "cache_id": "profile-5620907802d7db48",
       "status": "parsed",
       "record": {
         "research": "",
@@ -245058,19 +245006,6 @@
       "checked_at": "2026-11-23"
     },
     {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N94-2099",
-      "cache_id": "profile-2426134d32fd7bb4",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "http://www2.math.uu.se/%7Etobias/papers2.html",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
       "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N94-2157",
       "cache_id": "profile-f4ca23003bcc8697",
       "status": "parsed",
@@ -248556,6 +248491,27 @@
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5033780845"
+    },
+    "michael-wemyss": {
+      "status": "review_ready",
+      "author_id": "A5038032650",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5038032650",
+        "orcid": "https://orcid.org/0000-0003-4760-7750",
+        "url": "https://openalex.org/authors/A5038032650",
+        "authorApiUrl": "https://api.openalex.org/authors/A5038032650",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5038032650,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 33,
+        "works": 47,
+        "citations": 1249,
+        "hIndex": 18,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "mihnea-popa": {
       "status": "review_ready",

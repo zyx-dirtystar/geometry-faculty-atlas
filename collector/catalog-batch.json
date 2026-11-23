@@ -1415,7 +1415,7 @@
     {
       "id": "pisa",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，13 条任职或方向待核。",
+      "coverageNote": "已解析 1/3 个登记来源，13 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 0。 已查看数学系 Geometry 页面及研究生研究方向说明，覆盖复／微分、代数与算术等研究组。用校级个人档案确认部分任职，其他人仍待与本校当前人员列表对账。",
       "rosterLinks": [
         [
           "Dipartimento di Matematica · Docenti",
@@ -1931,7 +1931,7 @@
     {
       "id": "padua",
       "coverage": "sample",
-      "coverageNote": "已解析 2/5 个登记来源，20 条任职或方向待核。",
+      "coverageNote": "已解析 2/5 个登记来源，18 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 0、指标 0。 已用数学系现任个人档案确认部分代数几何组成员的职级。其他研究组和只有旧主页的任职仍待核。",
       "rosterLinks": [
         [
           "Area :: Dipartimento di Matematica “Tullio Levi-Civita”",
@@ -1991,7 +1991,7 @@
     {
       "id": "uppsala",
       "coverage": "sample",
-      "coverageNote": "已解析 1/4 个登记来源，85 条任职或方向待核。",
+      "coverageNote": "已解析 1/4 个登记来源，84 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 0。 已检查数学系 Geometry and Physics 研究和交叉中心成员入口，并用校级目录确认现任教授。其余方向分组与跨校任职仍待对账。",
       "rosterLinks": [
         [
           "数学系 Academic Staff",
@@ -2463,7 +2463,7 @@
     {
       "id": "bristol",
       "coverage": "limited",
-      "coverageNote": "已解析 0/4 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverageNote": "已解析 0/4 个登记来源，1 条任职或方向待核。 官方目录内容待提取。 已查看数学系研究领域、研究人员公开名册和个人任职页，确认 Heilbronn 讲席，短期 Research Fellow 单列。其余人员及联合研究单位范围仍待对账。",
       "rosterLinks": [
         [
           "Academic Staff",
@@ -2942,8 +2942,8 @@
     },
     {
       "id": "ucas",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 0、指标 0。 官方目录内容待提取。 已查看数学科学学院相关名录及校级个人页，核对两位教师的教授任职与研究方向。中科院相关院所双聘和院系覆盖仍待核。",
       "rosterLinks": [
         [
           "师资队伍",
@@ -3814,8 +3814,8 @@
     },
     {
       "id": "glasgow",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 1。 官方目录内容待提取。 已核对数学与统计学院代数几何和几何拓扑组页面，以及校方标明了专业和 ORCID 的个人页。其他组内成员和跨机构任职仍待确认。",
       "rosterLinks": [
         [
           "University of Glasgow - Schools - School of Mathematics & Statistics - Research - Research",
@@ -8856,6 +8856,79 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "michael-wemyss",
+      "name": "Michael Wemyss",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "glasgow",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/michaelwemyss/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.maths.gla.ac.uk/~mwemyss/",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/michaelwemyss/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5038032650",
+          "orcid": "https://orcid.org/0000-0003-4760-7750",
+          "url": "https://openalex.org/authors/A5038032650",
+          "authorApiUrl": "https://api.openalex.org/authors/A5038032650",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5038032650,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 33,
+          "works": 47,
+          "citations": 1249,
+          "hIndex": 18,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Stringy Kähler moduli, mutation and monodromy",
+          "year": 2025,
+          "type": "期刊论文",
+          "url": "https://doi.org/10.4310/jdg/1736262124",
+          "relation": "研究 Kähler 模、变异与单值性之间的联系。"
+        },
+        {
+          "title": "Splitting symplectic monodromy",
+          "year": 2026,
+          "type": "期刊论文",
+          "url": "https://doi.org/10.3842/SIGMA.2026.080",
+          "relation": "与 Ailsa Keating、Ivan Smith 合作研究辛单值性。"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, birational geometry, singularities and derived categories",
+          "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/michaelwemyss/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/michaelwemyss/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -18030,6 +18103,110 @@
       "recordStatus": "directory"
     },
     {
+      "id": "ernesto-carlo-mistretta",
+      "name": "Ernesto Carlo Mistretta",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "padua",
+          "department": "数学系",
+          "title": "Professore Associato",
+          "url": "https://www.math.unipd.it/en/department/people/ernesto_carlo.mistretta/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "(Vector bundles, positivity, stability",
+        "Moduli spaces",
+        "Projective varieties)",
+        "Algebraic and arithmetic geometry research group",
+        "Algebraic geometry, curves, and vector bundles"
+      ],
+      "homepage": "https://www.math.unipd.it/~ernesto/",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "(Vector bundles, positivity, stability.; Moduli spaces; Projective varieties)",
+          "url": "https://www.math.unipd.it/en//research/research-areas/sub-area/research-area/17/"
+        },
+        {
+          "text": "Algebraic and arithmetic geometry research group",
+          "url": "https://www.math.unipd.it/~bertapel/geometry.html"
+        },
+        {
+          "text": "Algebraic geometry, curves, and vector bundles",
+          "url": "https://www.math.unipd.it/~ernesto/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "francesco-bottacin",
+      "name": "Francesco Bottacin",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "padua",
+          "department": "数学系",
+          "title": "Professore Ordinario",
+          "url": "https://www.math.unipd.it/en/department/people/francesco.bottacin/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "(vector bundles",
+        "higgs bundles",
+        "moduli spaces)",
+        "Algebraic and arithmetic geometry research group",
+        "Algebraic geometry and Poisson structures on moduli spaces"
+      ],
+      "homepage": "https://www.math.unipd.it/~bottacin/",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "(vector bundles; higgs bundles; moduli spaces)",
+          "url": "https://www.math.unipd.it/en//research/research-areas/sub-area/research-area/17/"
+        },
+        {
+          "text": "Algebraic and arithmetic geometry research group",
+          "url": "https://www.math.unipd.it/~bertapel/geometry.html"
+        },
+        {
+          "text": "Algebraic geometry and Poisson structures on moduli spaces",
+          "url": "https://www.math.unipd.it/users/~bottacin/ricerca_en.htm"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
       "id": "antoine-chambert-loir",
       "name": "Antoine Chambert-Loir",
       "aliases": [],
@@ -19313,6 +19490,46 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "andrea-di-lorenzo",
+      "name": "Andrea Di Lorenzo",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "pisa",
+          "department": "数学系",
+          "title": "Ricercatore a tempo determinato L.240/2010",
+          "url": "https://www.unipi.it/ateneo/organizzazione/persone/andrea-di-lorenzo-195217/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry and moduli theory"
+      ],
+      "homepage": "https://anddil.github.io/",
+      "cvUrl": "https://anddil.github.io/_pages/CV.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and moduli theory",
+          "url": "https://anddil.github.io/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -27477,6 +27694,92 @@
       "recordStatus": "directory"
     },
     {
+      "id": "person-d52d2c11ebcc",
+      "name": "邓富声",
+      "aliases": [
+        "Fusheng Deng"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "ucas",
+          "department": "数学系",
+          "title": "特聘教授",
+          "url": "https://people.ucas.ac.cn/~fshdeng",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "complex"
+      ],
+      "tags": [
+        "多复变与复几何、全纯向量丛、L²方法"
+      ],
+      "homepage": "https://people.ucas.ac.cn/~fshdeng",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "多复变与复几何、全纯向量丛、L²方法",
+          "url": "https://people.ucas.ac.cn/~fshdeng"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-aba26db60b9f",
+      "name": "郑恺",
+      "aliases": [
+        "Kai Zheng"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "ucas",
+          "department": "数学系",
+          "title": "教授",
+          "url": "https://people.ucas.ac.cn/~KaiZheng",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex",
+        "differential"
+      ],
+      "tags": [
+        "复几何、几何分析、偏微分方程与代数几何"
+      ],
+      "homepage": "https://people.ucas.ac.cn/~KaiZheng",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "复几何、几何分析、偏微分方程与代数几何",
+          "url": "https://people.ucas.ac.cn/~KaiZheng"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
       "id": "kevin-corlette",
       "name": "Kevin Corlette",
       "aliases": [],
@@ -30657,6 +30960,44 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "tobias-ekholm",
+      "name": "Tobias Ekholm",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uppsala",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.uu.se/en/contact-and-organisation/staff?query=N94-2099",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.uu.se/en/contact-and-organisation/staff?query=N94-2099",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Symplectic and contact geometry, differential geometry of immersions and geometric topology",
+          "url": "https://www.uu.se/en/department/mathematics/collaboration/knowledge-and-inspiration/tobias-ekholm"
+        }
+      ],
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
