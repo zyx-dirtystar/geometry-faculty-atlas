@@ -63,14 +63,20 @@
     },
     {
       id:"chi-li", name:"Chi Li", nameZh:"李驰", initials:"CL",
-      affiliations:[affiliation("rutgers","数学系","教授","https://www.math.rutgers.edu/people/department-directory/detail/344-department-directory/1957-li-chi")],
+      affiliations:[
+        {...affiliation("rutgers","数学系","Professor of Mathematics","https://www.math.rutgers.edu/people/department-directory/detail/344-department-directory/1957-li-chi"),checkedAt:"2026-11-24"},
+        {...affiliation("johns-hopkins","数学系","Research Professor","https://mathematics.jhu.edu/people/"),type:"联合任职",checkedAt:"2026-11-24"}
+      ],
       fields:["complex","differential","algebraic"], tags:["紧化","Reeb 动力学","辛同调","Kähler","Fano","K-稳定性"],
-      homepage:"https://sites.math.rutgers.edu/~cl1412/", cvUrl:"https://sites.math.rutgers.edu/~cl1412/ChiLi-CV.pdf",
-      publicationsUrl:"https://sites.math.rutgers.edu/~cl1412/",
+      homepage:"https://math.jhu.edu/~chili/", cvUrl:"https://math.jhu.edu/~chili/ChiLi-CV.pdf",
+      publicationsUrl:"https://sites.math.rutgers.edu/~cl1412/papers.html",
       metrics:openAlex("A5100351591","0000-0001-8725-9389",28,41,1840,22),
       identityNote:"由《Kähler compactification…》的出版 DOI 反查作者 ID，并用论文所列的 Rutgers 机构核对。名字检索的高位候选属于其他领域。",
       papers:[work("Kähler compactification of ℂⁿ and Reeb dynamics",2025,"https://doi.org/10.1007/s00222-025-01377-2"),
-        work("Special test configuration and K-stability of Fano varieties",2014,"https://doi.org/10.4007/annals.2014.180.1.4")],
+        work("Special test configuration and K-stability of Fano varieties",2014,"https://doi.org/10.4007/annals.2014.180.1.4"),
+        {title:"On the Yau-Tian-Donaldson Conjecture for Singular Fano Varieties",year:2021,url:"https://doi.org/10.1002/cpa.21936",
+         type:"期刊论文",relation:"与田刚、王枫合著，研究奇异 Fano 簇上的度量存在性与稳定性。"}],
+      directoryEvidence:[{text:"2026 年 8 月的公开 CV 列出罗格斯教授和约翰斯·霍普金斯研究教授两个在任职位。",url:"https://math.jhu.edu/~chili/ChiLi-CV.pdf"}],
       relevance:"Li–Zhou 的工作与 Henry 的紧化问题在 Reeb 动力学和辛同调方法上直接相邻，适合带着一条具体技术依赖阅读。"
     },
     {

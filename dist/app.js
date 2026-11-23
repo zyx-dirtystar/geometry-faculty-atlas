@@ -158,8 +158,8 @@ function loadCatalog(next) {
   byId("sampled-total").textContent = number.format(schoolCounts.size);
   byId("faculty-total").textContent = number.format(next.people.length);
   const reviewed = next.schools.filter(item => item.coverage === "verified").length;
-  const pending = next.schools.filter(item => labelCoverage(item) === "pending").length;
-  byId("coverage-text").textContent = `${schoolCounts.size} 所院校有记录，${reviewed} 所完成目录对账，${pending} 所待采集。`;
+  const remaining = next.schools.length - reviewed;
+  byId("coverage-text").textContent = `${schoolCounts.size} 所院校有学者档案，${reviewed} 所完成全校名册对账，${remaining} 所仍待对账。`;
   const latest = next.people.map(person => person.checkedAt || "").sort().at(-1);
   if (latest) byId("footer-date").textContent = `资料更新至 ${latest}`;
   updateSavedCount();
