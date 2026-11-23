@@ -58,6 +58,14 @@ PROFILE_HOSTS = {
     "washington": {"math.washington.edu", "sites.math.washington.edu", "www.math.washington.edu"},
     "hebrew-jerusalem": {"mathematics.huji.ac.il", "math.huji.ac.il", "www.math.huji.ac.il"},
     "harvard": {"www.math.harvard.edu", "people.math.harvard.edu"},
+    "barcelona": {"www.ub.edu", "www.maia.ub.edu", "sira.ub.edu", "webgrec.ub.edu"},
+    "cambridge": {"www.dpmms.cam.ac.uk", "www.maths.cam.ac.uk", "dow.cam.ac.uk", "www.joh.cam.ac.uk"},
+    "fudan": {"faculty.fudan.edu.cn", "math.fudan.edu.cn", "scms.fudan.edu.cn"},
+    "johns-hopkins": {"mathematics.jhu.edu", "math.jhu.edu", "www.math.jhu.edu"},
+    "minnesota": {"cse.umn.edu", "www.math.umn.edu", "math.umn.edu"},
+    "shanghai-university": {"math.shu.edu.cn", "scicol.shu.edu.cn"},
+    "turin": {"www.dipmatematica.unito.it", "www.mathphd.unito.it", "www.matematica.unito.it"},
+    "ut-austin": {"math.utexas.edu", "web.ma.utexas.edu"},
     "edinburgh": {"webhomes.maths.ed.ac.uk", "www.maths.ed.ac.uk", "www.research.ed.ac.uk"},
     "tsinghua": {"math.tsinghua.edu.cn", "www.math.tsinghua.edu.cn", "ymsc.tsinghua.edu.cn"},
 }
@@ -188,11 +196,16 @@ def seen_date(meta):
 
 
 def ingest_rosters(db, seed):
+    configured_sources = load_sources()
+    configured_ids = {source["id"] for source in configured_sources}
     with db:
         db.executemany("INSERT OR REPLACE INTO schools VALUES (?,?)", [(s["id"], json_text(s)) for s in seed["schools"]])
+        retired = [(row["id"],) for row in db.execute("SELECT id FROM sources") if row["id"] not in configured_ids]
+        db.executemany("DELETE FROM sightings WHERE source=?", retired)
+        db.executemany("DELETE FROM sources WHERE id=?", retired)
     transcript_path = ROOT / "official-roster-transcripts.json"
     transcripts = json.loads(transcript_path.read_text(encoding="utf-8")) if transcript_path.is_file() else {}
-    for source in load_sources():
+    for source in configured_sources:
         meta, document = read_snapshot(source["id"])
         transcript = transcripts.get(source["id"])
         if not transcript and meta is None and db.execute("SELECT 1 FROM sources WHERE id=? AND url=?", (source["id"], source["url"])).fetchone():
@@ -276,11 +289,13 @@ def population(db):
         evidence = group["evidence"]
         active = next((row for row in evidence if row["source_kind"] in ("department","center") and row["title"]), None)
         review = reviewed.get((group["school"],name_key(group["name"])), {})
-        group["title"] = review.get("title") or (active["title"] if active else "")
+        group["profile"] = review.get("affiliation") or next((row["profile"] for row in evidence if row["profile"]), "")
+        directory_profile = profiles.get(group["profile"], {})
+        official_title = directory_profile.get("official_title", "") if group["school"] == "uab" else ""
+        group["title"] = review.get("title") or (active["title"] if active else official_title)
         group["unit"] = review.get("unit") or (active.get("unit") if active else None)
         group["role"] = split_role(group["title"])
-        group["affiliation_url"] = review.get("affiliation") or (active["profile"] or active["source_url"] if active else "")
-        group["profile"] = review.get("affiliation") or next((row["profile"] for row in evidence if row["profile"]), "")
+        group["affiliation_url"] = review.get("affiliation") or (active["profile"] or active["source_url"] if active else group["profile"] if official_title else "")
         group["homepage"] = review.get("homepage") or next((row["homepage"] for row in evidence if row["homepage"]), "")
         sources = [
             {"text":row["research"], "url":row["source_url"]} for row in evidence
@@ -345,11 +360,13 @@ def fetch_profiles(db, schools, refresh=False, max_profiles=0):
         if (schools and school not in schools) or person["role"] in ("emeritus","associated","other"):
             continue
         topical = " ".join(item["text"] for item in person["topic_sources"])
-        if person["role"] == "unverified" and not topical:
+        if person["role"] == "unverified" and not topical and school not in ("uab", "sichuan"):
             continue
         if school == "stanford" and not re.search(r"geometry|analysis|algebra",topical,re.I):
             continue
-        if school in ("stony-brook","bonn","pku","rutgers") and person["decision"] != "candidate":
+        if school in ("stony-brook","bonn","pku") and person["decision"] != "candidate":
+            continue
+        if school == "rutgers" and person["decision"] != "candidate" and not ADJACENT.search(topical):
             continue
         if person["decision"] == "other_topic" and person["title"] != "Academic Faculty":
             continue
@@ -401,7 +418,7 @@ def metrics_evidence():
     return {row["id"]:row for row in anchors}, findings, reviewed.get("accepted",{}), reviewed.get("notes",{})
 
 
-def make_patch(seed, data, source_rows):
+def make_patch(seed, data, source_rows, scope_notes):
     original = {(a["schoolId"], name_key(p["name"])):p for p in seed["people"] for a in p["affiliations"]}
     original_names = {name for _, name in original}
     cross_school = Counter(name_key(p["name"]) for p in data if p["decision"] == "candidate")
@@ -481,6 +498,8 @@ def make_patch(seed, data, source_rows):
             note += f" 已收录 {len(people)} 位学者，" + "、".join(covers) + "。"
         if not parsed:
             note += " 官方目录内容待提取。"
+        if school_id in scope_notes:
+            note += " " + scope_notes[school_id]
         state = "sample" if people or parsed else "limited"
         latest_check = max((item["checked_at"] or "" for item in successful), default="") or school.get("checkedAt")
         school_patches.append({"id":school_id, "coverage":state, "coverageNote":note,
@@ -524,11 +543,16 @@ def export_checkpoint(db, profile_urls):
 def export(db, seed):
     candidates = population(db)
     sources = list(db.execute("SELECT * FROM sources ORDER BY school,id"))
-    patch = make_patch(seed,candidates,sources)
+    cohort_path = ROOT / "cohort-review.json"
+    cohorts = json.loads(cohort_path.read_text(encoding="utf-8")) if cohort_path.is_file() else {}
+    scope_notes = cohorts.get("scopeNotes", {})
+    patch = make_patch(seed,candidates,sources,scope_notes)
     profile_urls = {
         url for person in candidates if person["role"] in ("faculty", "unverified")
         for url in (person["profile"], person["homepage"]) if url
     }
+    # UAB directory entries depend on the personal page for their appointment category.
+    profile_urls.update(person["profile"] for person in candidates if person["school"] == "uab" and person["profile"])
     export_checkpoint(db, profile_urls)
     atomic_write(OUTPUT / "collection.js", "window.geometryCollection = " + json_text(patch).replace("</", "<\\/") + ";\n")
     atomic_write(ROOT / "catalog-batch.json", json.dumps(patch,ensure_ascii=False,indent=2) + "\n")
@@ -555,9 +579,6 @@ def export(db, seed):
     metrics = sum(bool(p.get("metrics")) for p in seed["people"] + patch["people"])
     cv_count = sum(bool(p.get("cvUrl")) for p in seed["people"] + patch["people"])
     homepage_count = sum(bool(p.get("homepage")) for p in seed["people"] + patch["people"])
-    cohort_path = ROOT / "cohort-review.json"
-    cohorts = json.loads(cohort_path.read_text(encoding="utf-8")) if cohort_path.is_file() else {}
-    scope_notes = cohorts.get("scopeNotes", {})
     lines = [
         "# 几何学者库进度",
         "",

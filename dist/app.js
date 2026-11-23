@@ -407,8 +407,8 @@ function showProfile(id, schoolFilter) {
       item.type && item.type !== "primary" ? `（${item.type}）` : "",
       item.checkedAt ? node("small",{},` · 核对 ${item.checkedAt}`) : null
     ))),
-    !person.homepage ? node("p",{},node("small",{},person.homepageStatus || "个人主页待查。")) : null,
-    !person.cvUrl ? node("p",{},node("small",{},person.cvStatus || "独立 CV 待查。")) : null
+    !person.homepage ? node("p",{},node("small",{},person.homepageStatus || "个人主页待核。")) : null,
+    !person.cvUrl ? node("p",{},node("small",{},person.cvStatus || "独立 CV 待核。")) : null
   );
   const papers = detailSection("代表作与研究联系",
     person.papers?.length
@@ -428,7 +428,7 @@ function showProfile(id, schoolFilter) {
     record.articleScope ? node("p",{},node("small",{},`文章口径 ${record.articleScope}。引用口径 ${record.citationScope || "待补充"}。`)) : null
   ));
   const metrics = detailSection("计量与作者核验",
-    displayedMetrics.length ? displayedMetrics : node("p",{},"指标待核。"),
+    displayedMetrics.length ? displayedMetrics : node("p",{},"论文数和引用量待核。"),
     person.identityNote ? node("p",{},person.identityNote) : null,
     external("查看待复核档案",person.identityUrl)
   );
