@@ -4,7 +4,12 @@
 
 打开 `dist/index.html` 可浏览目录。用 Node.js 执行 `node build-offline.mjs` 可生成便于转发的单文件网页 `geometry-faculty-atlas.html`。外部来源链接需要联网。协作和提交流程见 [贡献说明](CONTRIBUTING.md)。
 
-学校池合并 QS 2026 数学前 200 与软科 GRAS 2026 数学前百，去重为 222 所。QS 151–200 区间全部正式纳入，保留榜单发布的并列名次和区间。覆盖情况见 [采集进度](collector/PROGRESS.md)，个人字段缺口见 [字段待核表](collector/field-review.csv)。
+学校池合并 QS 2026 数学前 200 与软科 GRAS 2026 数学前百，去重为 222 所。QS 151–200 区间全部正式纳入，保留榜单发布的并列名次和区间。
+
+- [采集进度](collector/PROGRESS.md) 汇总可解析名录、已确认学者和字段覆盖率。
+- [逐校名录复核表](collector/school-review.csv) 记录各校实际查过的名录、访问结果、核对日期和仍待确认的范围。
+- [人员与任职复核表](collector/review-queue.csv) 记录纳入、荣休、联合或其他任职，以及待核的原因和来源。
+- [已收录学者字段表](collector/field-review.csv) 记录个人主页、CV、发表列表、计量与代表作的来源及缺口。
 
 ## 继续运行
 
