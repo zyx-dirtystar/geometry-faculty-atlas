@@ -831,11 +831,23 @@
     {
       "id": "caltech",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，18 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 1。",
+      "coverageNote": "已解析 4/5 个登记来源，14 条任职或方向待核。 已收录 5 位学者，个人主页 2、CV 0、指标 1。 数学系官方 People 页列出 19 位 Professorial Faculty 和 6 位荣休教授。已对照代数几何、几何与拓扑组及个别访问任职，现任与荣休或访问记录分别保留。仍有部分个人研究方向、其他院系联合任职及完整访问名单待核。",
       "rosterLinks": [
         [
           "PMA Professorial Faculty",
           "https://www.pma.caltech.edu/people/faculty"
+        ],
+        [
+          "数学系 · Algebraic Geometry",
+          "https://mathematics.caltech.edu/research/research-areas/algebraic-geometry"
+        ],
+        [
+          "数学系 · Geometry and Topology",
+          "https://mathematics.caltech.edu/research/research-areas/geometry-and-topology"
+        ],
+        [
+          "数学系 · Visiting Associates",
+          "https://mathematics.caltech.edu/people/visiting-associates"
         ],
         [
           "数学系 People",
@@ -871,7 +883,7 @@
     {
       "id": "sjtu",
       "coverage": "sample",
-      "coverageNote": "已解析 1/4 个登记来源，3 条任职或方向待核。",
+      "coverageNote": "已解析 1/4 个登记来源，0 条任职或方向待核。",
       "rosterLinks": [
         [
           "RESEARCH GROUPS - 高校国际化示范学院推进计划网站",
@@ -895,7 +907,7 @@
     {
       "id": "ubc",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，332 条任职或方向待核。 已收录 5 位学者，个人主页 5、CV 0、指标 0。",
+      "coverageNote": "已解析 1/3 个登记来源，332 条任职或方向待核。 已收录 5 位学者，个人主页 5、CV 1、指标 0。",
       "rosterLinks": [
         [
           "温哥华校区数学系 Faculty Directory",
@@ -947,7 +959,7 @@
     {
       "id": "ucsd",
       "coverage": "sample",
-      "coverageNote": "已解析 1/4 个登记来源，42 条任职或方向待核。 已收录 8 位学者，个人主页 8、CV 1、指标 0。",
+      "coverageNote": "已解析 1/4 个登记来源，41 条任职或方向待核。 已收录 8 位学者，个人主页 8、CV 1、指标 0。",
       "rosterLinks": [
         [
           "数学系 Faculty",
@@ -1867,7 +1879,7 @@
     {
       "id": "uiuc",
       "coverage": "sample",
-      "coverageNote": "已解析 2/2 个登记来源，68 条任职或方向待核。 已收录 4 位学者，个人主页 0、CV 0、指标 0。",
+      "coverageNote": "已解析 2/2 个登记来源，56 条任职或方向待核。 已收录 8 位学者，个人主页 8、CV 2、指标 0。",
       "rosterLinks": [
         [
           "Algebraic Geometry",
@@ -3664,6 +3676,10 @@
         {
           "text": "Differential geometry, conformal geometry, parabolic geometry and twistor theory",
           "url": "https://www.math.auckland.ac.nz/~gover/"
+        },
+        {
+          "text": "My research interests include differential geometry, twistor theory and mathematical physics. I am especially focussed on a class of differential geometries known as parabolic geometries. This class includes conformal geometries, CR geometries (which turn up in complex analysis), quaternionic geometries, projective differential geometries and many other structures.",
+          "url": "https://www.math.auckland.ac.nz/~gover/"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -4407,6 +4423,156 @@
         {
           "text": "个人研究或论文来源",
           "url": "https://www.pma.caltech.edu/people/antoine-song"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "elena-mantovan",
+      "name": "Elena Mantovan",
+      "affiliations": [
+        {
+          "schoolId": "caltech",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://directory.caltech.edu/personnel/mantovan",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmetic geometry and Shimura varieties"
+      ],
+      "homepage": "https://www.its.caltech.edu/~mantovan/",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic geometry and Shimura varieties",
+          "url": "https://mathematics.caltech.edu/research/research-areas/algebraic-geometry"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "thomas-b-graber",
+      "name": "Thomas B. Graber",
+      "affiliations": [
+        {
+          "schoolId": "caltech",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.pma.caltech.edu/people/thomas-b-graber",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry, moduli spaces and Gromov–Witten theory"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://feeds.library.caltech.edu/people/Graber-T-B/",
+      "publicationCounts": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, moduli spaces and Gromov–Witten theory",
+          "url": "https://www.pma.caltech.edu/people/thomas-b-graber"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "tony-yue-yu",
+      "name": "Tony Yue Yu",
+      "affiliations": [
+        {
+          "schoolId": "caltech",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.pma.caltech.edu/people/tony-yue-yu",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://tyy.caltech.edu/",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://feeds.library.caltech.edu/people/Yu-Tony-Yue/",
+      "publicationCounts": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, birational geometry, enumerative geometry and mirror symmetry",
+          "url": "https://www.pma.caltech.edu/people/tony-yue-yu"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "vesselin-dimitrov",
+      "name": "Vesselin Dimitrov",
+      "affiliations": [
+        {
+          "schoolId": "caltech",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.pma.caltech.edu/people/vesselin-dimitrov",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Number theory, Diophantine geometry and algebraic geometry"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://feeds.library.caltech.edu/people/Dimitrov-Vesselin/",
+      "publicationCounts": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Number theory, Diophantine geometry and algebraic geometry",
+          "url": "https://www.pma.caltech.edu/people/vesselin-dimitrov"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -8539,13 +8705,23 @@
       "fields": [
         "complex"
       ],
-      "tags": [],
+      "tags": [
+        "Mathematics",
+        "Research interests Mathematics"
+      ],
       "homepage": null,
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "https://www.kcl.ac.uk/people/dmitri-panov",
-      "publicationCounts": [],
+      "publicationsUrl": "https://kclpure.kcl.ac.uk/portal/en/persons/dmitri.panov/",
+      "publicationCounts": [
+        {
+          "value": 28,
+          "scope": "KCL Pure 个人档案的 Article 分类",
+          "checkedAt": "2026-11-23",
+          "url": "https://kclpure.kcl.ac.uk/portal/en/persons/dmitri.panov/"
+        }
+      ],
       "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
       "metrics": [],
       "identityUrl": null,
@@ -8553,6 +8729,10 @@
       "directoryEvidence": [
         {
           "text": "Complex geometry, symplectic geometry and polyhedral Kähler geometry",
+          "url": "https://www.kcl.ac.uk/people/dmitri-panov"
+        },
+        {
+          "text": "Mathematics / Dmitri's research area is geometry, mainly complex, symplectic, and hyperbolic. In particular, he studies geometric structures called polyhedral Kahler structures, and as well definite connections. / Research interests Mathematics",
           "url": "https://www.kcl.ac.uk/people/dmitri-panov"
         }
       ],
@@ -8576,14 +8756,30 @@
         "algebraic"
       ],
       "tags": [
-        "Algebraic geometry, mirror symmetry and representation theory"
+        "Algebraic geometry, mirror symmetry and representation theory",
+        "Mathematics",
+        "Lie theory Quantum cohomology Mirror symmetry Positivity",
+        "Research interests Mathematics"
       ],
       "homepage": null,
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
       "publicationsUrl": "https://kclpure.kcl.ac.uk/portal/en/persons/konstanze.rietsch/",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 23,
+          "scope": "KCL Pure 个人档案的 Article 分类",
+          "checkedAt": "2026-11-23",
+          "url": "https://kclpure.kcl.ac.uk/portal/en/persons/konstanze.rietsch/"
+        },
+        {
+          "value": 31,
+          "scope": "KCL Pure 个人档案的 Research Outputs 总数，含多种成果类型",
+          "checkedAt": "2026-11-23",
+          "url": "https://kclpure.kcl.ac.uk/portal/en/persons/konstanze.rietsch/"
+        }
+      ],
       "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
       "metrics": [],
       "identityUrl": null,
@@ -8592,6 +8788,10 @@
         {
           "text": "Algebraic geometry, mirror symmetry and representation theory",
           "url": "https://www.kcl.ac.uk/research/geometry"
+        },
+        {
+          "text": "Mathematics / Lie theory Quantum cohomology Mirror symmetry Positivity / Research interests Mathematics",
+          "url": "https://www.kcl.ac.uk/people/konstanze-rietsch"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -19351,8 +19551,21 @@
       "cvUrl": "https://www.math.cit.tum.de/algebra/liedtke/curriculum-vitae/",
       "cvType": null,
       "cvStatus": null,
-      "publicationsUrl": "https://www.math.cit.tum.de/algebra/kemper/publications/",
-      "publicationCounts": [],
+      "publicationsUrl": "https://portal.fis.tum.de/en/persons/christian-liedtke/",
+      "publicationCounts": [
+        {
+          "value": 27,
+          "scope": "TUM FIS 个人档案的 Article 分类",
+          "checkedAt": "2026-11-23",
+          "url": "https://portal.fis.tum.de/en/persons/christian-liedtke/"
+        },
+        {
+          "value": 31,
+          "scope": "TUM FIS 个人档案的 Research Outputs 总数，含多种成果类型",
+          "checkedAt": "2026-11-23",
+          "url": "https://portal.fis.tum.de/en/persons/christian-liedtke/"
+        }
+      ],
       "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
       "metrics": [
         {
@@ -19735,9 +19948,9 @@
         "Applied algebraic geometry and algebraic statistics"
       ],
       "homepage": "https://www.math.ubc.ca/~erobeva/index.html",
-      "cvUrl": null,
+      "cvUrl": "https://personal.math.ubc.ca/~erobeva/ElinaRobevaResumeSep2024.pdf",
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": null,
       "publicationsUrl": "https://www.math.ubc.ca/~erobeva/publications.html",
       "publicationCounts": [],
       "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
@@ -20532,6 +20745,125 @@
       "recordStatus": "directory"
     },
     {
+      "id": "alexander-tumanov",
+      "name": "Alexander Tumanov",
+      "affiliations": [
+        {
+          "schoolId": "uiuc",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://math.illinois.edu/directory/profile/tumanov",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://tumanov.web.illinois.edu/",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Analysis Differential Equations and Applied Mathematics (DEAM) Geometry and Topology / Several complex variables, differential geometry, partial differenital equations.",
+          "url": "https://math.illinois.edu/directory/profile/tumanov"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alexander-yong",
+      "name": "Alexander Yong",
+      "affiliations": [
+        {
+          "schoolId": "uiuc",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://math.illinois.edu/directory/profile/ayong",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        ", Combinatorial aspects of algebra and geometry",
+        "algebraic combinatorics",
+        "Algebra Algebraic Geometry Combinatorics"
+      ],
+      "homepage": "https://ayong.web.illinois.edu/",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": ", Combinatorial aspects of algebra and geometry; algebraic combinatorics",
+          "url": "https://math.illinois.edu/research/areas/algebraic-geometry"
+        },
+        {
+          "text": "Algebra Algebraic Geometry Combinatorics",
+          "url": "https://math.illinois.edu/directory/profile/ayong"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "benjamin-tod-castle",
+      "name": "Benjamin Tod Castle",
+      "affiliations": [
+        {
+          "schoolId": "uiuc",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://math.illinois.edu/directory/profile/btcastl2",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic Geometry Combinatorics",
+        "I study model theory, a branch of mathematical logic"
+      ],
+      "homepage": "https://bencastle.web.illinois.edu",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic Geometry Combinatorics / I study model theory, a branch of mathematical logic. I am most interested in interactions between model theory, geometry, and combinatorics -- particularly those involving the so-called \"Zilber trichotomy.\"",
+          "url": "https://math.illinois.edu/directory/profile/btcastl2"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
       "id": "felix-janda",
       "name": "Felix Janda",
       "affiliations": [
@@ -20548,9 +20880,52 @@
         "algebraic"
       ],
       "tags": [
-        ", Algebraic geometry, Moduli Stacks, Gromov-Witten theory"
+        ", Algebraic geometry, Moduli Stacks, Gromov-Witten theory",
+        "Algebraic Geometry"
       ],
-      "homepage": null,
+      "homepage": "https://fjanda.web.illinois.edu/",
+      "cvUrl": "https://fjanda.web.illinois.edu/cv.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": ", Algebraic geometry, Moduli Stacks, Gromov-Witten theory.",
+          "url": "https://math.illinois.edu/research/areas/algebraic-geometry"
+        },
+        {
+          "text": "Algebraic Geometry",
+          "url": "https://math.illinois.edu/directory/profile/fjanda"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "igor-nikolaev",
+      "name": "Igor Nikolaev",
+      "affiliations": [
+        {
+          "schoolId": "uiuc",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://math.illinois.edu/directory/profile/inik",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Analysis Geometry and Topology"
+      ],
+      "homepage": "https://publish.illinois.edu/ignik-main/",
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
@@ -20562,8 +20937,8 @@
       "papers": [],
       "directoryEvidence": [
         {
-          "text": ", Algebraic geometry, Moduli Stacks, Gromov-Witten theory.",
-          "url": "https://math.illinois.edu/research/areas/algebraic-geometry"
+          "text": "Analysis Geometry and Topology / Quasiconformal mappings, Monge-Ampere equations, regularity problems in Riemannian geometry.",
+          "url": "https://math.illinois.edu/directory/profile/inik"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -20586,9 +20961,10 @@
         "algebraic"
       ],
       "tags": [
-        ", Motivic homotopy theory, algebraic cycles and K-theory"
+        ", Motivic homotopy theory, algebraic cycles and K-theory",
+        "Algebra Algebraic Geometry Geometry and Topology"
       ],
-      "homepage": null,
+      "homepage": "https://faculty.math.illinois.edu/~jbheller/",
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
@@ -20602,6 +20978,10 @@
         {
           "text": ", Motivic homotopy theory, algebraic cycles and K-theory.",
           "url": "https://math.illinois.edu/research/areas/algebraic-geometry"
+        },
+        {
+          "text": "Algebra Algebraic Geometry Geometry and Topology",
+          "url": "https://math.illinois.edu/directory/profile/jbheller"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -20623,11 +21003,13 @@
       "fields": [
         "algebraic"
       ],
-      "tags": [],
-      "homepage": null,
-      "cvUrl": null,
+      "tags": [
+        "Algebraic Geometry"
+      ],
+      "homepage": "https://lji.web.illinois.edu/",
+      "cvUrl": "https://lji.web.illinois.edu/lena-cv.pdf",
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": null,
       "publicationsUrl": null,
       "publicationCounts": [],
       "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
@@ -20638,6 +21020,10 @@
         {
           "text": ", Algebraic and arithmetic geometry, rationality problems, Fano varieties.",
           "url": "https://math.illinois.edu/research/areas/algebraic-geometry"
+        },
+        {
+          "text": "Algebraic Geometry",
+          "url": "https://math.illinois.edu/directory/profile/lji"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -20660,9 +21046,10 @@
         "algebraic"
       ],
       "tags": [
-        ", Algebraic geometry, string theory"
+        ", Algebraic geometry, string theory",
+        "Algebra Algebraic Geometry Physical Mathematics"
       ],
-      "homepage": null,
+      "homepage": "https://katzs.web.illinois.edu/",
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
@@ -20676,6 +21063,10 @@
         {
           "text": ", Algebraic geometry, string theory.",
           "url": "https://math.illinois.edu/research/areas/algebraic-geometry"
+        },
+        {
+          "text": "Algebra Algebraic Geometry Physical Mathematics",
+          "url": "https://math.illinois.edu/directory/profile/katzs"
         }
       ],
       "checkedAt": "2026-11-23",

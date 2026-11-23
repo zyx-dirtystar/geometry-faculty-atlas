@@ -352,6 +352,36 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "caltech-math-algebraic-geometry",
+      "school": "caltech",
+      "url": "https://mathematics.caltech.edu/research/research-areas/algebraic-geometry",
+      "label": "数学系 · Algebraic Geometry",
+      "status": "parsed",
+      "count": 8,
+      "checked_at": "2026-11-23",
+      "note": "已核录该研究页公开展示的人员；个人方向以对应个人简介为准。"
+    },
+    {
+      "id": "caltech-math-geometry-topology",
+      "school": "caltech",
+      "url": "https://mathematics.caltech.edu/research/research-areas/geometry-and-topology",
+      "label": "数学系 · Geometry and Topology",
+      "status": "parsed",
+      "count": 2,
+      "checked_at": "2026-11-23",
+      "note": "已核录该研究页公开展示的人员；个人方向以对应个人简介为准。"
+    },
+    {
+      "id": "caltech-math-visiting",
+      "school": "caltech",
+      "url": "https://mathematics.caltech.edu/people/visiting-associates",
+      "label": "数学系 · Visiting Associates",
+      "status": "parsed",
+      "count": 1,
+      "checked_at": "2026-11-23",
+      "note": "从数学系人员页核到 Paolo Aluffi 的访问任职，完整访问名单仍待核。"
+    },
+    {
       "id": "caltech-people",
       "school": "caltech",
       "url": "https://mathematics.caltech.edu/people",
@@ -13420,6 +13450,182 @@
         "topics": [],
         "source_kind": "research",
         "source_url": "https://mathematics.brown.edu/research/geometry-and-topology",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "caltech-math-algebraic-geometry",
+      "person_key": "antoinesong",
+      "school": "caltech",
+      "record": {
+        "name": "Antoine Song",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.caltech.edu/research/research-areas/algebraic-geometry",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "caltech-math-algebraic-geometry",
+      "person_key": "dinakarramakrishnan",
+      "school": "caltech",
+      "record": {
+        "name": "Dinakar Ramakrishnan",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.caltech.edu/research/research-areas/algebraic-geometry",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "caltech-math-algebraic-geometry",
+      "person_key": "elenamantovan",
+      "school": "caltech",
+      "record": {
+        "name": "Elena Mantovan",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.caltech.edu/research/research-areas/algebraic-geometry",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "caltech-math-algebraic-geometry",
+      "person_key": "ericmrains",
+      "school": "caltech",
+      "record": {
+        "name": "Eric M. Rains",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.caltech.edu/research/research-areas/algebraic-geometry",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "caltech-math-algebraic-geometry",
+      "person_key": "matthiasflach",
+      "school": "caltech",
+      "record": {
+        "name": "Matthias Flach",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.caltech.edu/research/research-areas/algebraic-geometry",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "caltech-math-algebraic-geometry",
+      "person_key": "thomasbgraber",
+      "school": "caltech",
+      "record": {
+        "name": "Thomas B. Graber",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.caltech.edu/research/research-areas/algebraic-geometry",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "caltech-math-algebraic-geometry",
+      "person_key": "tonyyueyu",
+      "school": "caltech",
+      "record": {
+        "name": "Tony Yue Yu",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.caltech.edu/research/research-areas/algebraic-geometry",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "caltech-math-algebraic-geometry",
+      "person_key": "vesselindimitrov",
+      "school": "caltech",
+      "record": {
+        "name": "Vesselin Dimitrov",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.caltech.edu/research/research-areas/algebraic-geometry",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "caltech-math-geometry-topology",
+      "person_key": "sergeigukov",
+      "school": "caltech",
+      "record": {
+        "name": "Sergei Gukov",
+        "title": "Professor of Theoretical Physics and Mathematics",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.caltech.edu/research/research-areas/geometry-and-topology",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "caltech-math-geometry-topology",
+      "person_key": "yini",
+      "school": "caltech",
+      "record": {
+        "name": "Yi Ni",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.caltech.edu/research/research-areas/geometry-and-topology",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "caltech-math-visiting",
+      "person_key": "paoloaluffi",
+      "school": "caltech",
+      "record": {
+        "name": "Paolo Aluffi",
+        "title": "Visiting Professor in Mathematics",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.caltech.edu/people/visiting-associates",
         "checked_at": "2026-11-23"
       }
     },
@@ -161324,6 +161530,19 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://math.gatech.edu/people/john-mccuan",
+      "cache_id": "profile-acc044ecf8ef63d1",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
       "url": "https://math.gatech.edu/people/josephine-yu",
       "cache_id": "profile-63851b8616753ca9",
       "status": "parsed",
@@ -161378,6 +161597,19 @@
     {
       "url": "https://math.gatech.edu/people/mohammad-ghomi",
       "cache_id": "profile-1166d30427c7a6b0",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.gatech.edu/people/plamen-iliev",
+      "cache_id": "profile-68565ced943eb8fe",
       "status": "parsed",
       "record": {
         "research": "",
@@ -161539,8 +161771,47 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://math.iitm.ac.in/innerfaculty.php?fname=Anwoy%20Maitra",
+      "cache_id": "profile-d90d137da335cacd",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://math.iitm.ac.in/mainpublications.php",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.iitm.ac.in/innerfaculty.php?fname=Aprameyan%20P",
+      "cache_id": "profile-a6a3e4a7ff83f695",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://math.iitm.ac.in/mainpublications.php",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
       "url": "https://math.iitm.ac.in/innerfaculty.php?fname=Arijit",
       "cache_id": "profile-c45956691ffd2e40",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://math.iitm.ac.in/mainpublications.php",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.iitm.ac.in/innerfaculty.php?fname=Ramesh%20Kasilingam",
+      "cache_id": "profile-2caaa269b1f49944",
       "status": "parsed",
       "record": {
         "research": "",
@@ -161560,6 +161831,423 @@
         "homepage": "",
         "cv": "",
         "publications": "https://math.iitm.ac.in/mainpublications.php",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.iitm.ac.in/innerfaculty.php?fname=Sarang%20Sane",
+      "cache_id": "profile-b0603fb734b3ad5b",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://math.iitm.ac.in/mainpublications.php",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.iitm.ac.in/innerfaculty.php?fname=Soumen%20Sarkar",
+      "cache_id": "profile-9e20a46a70e653f0",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://math.iitm.ac.in/mainpublications.php",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.iitm.ac.in/innerfaculty.php?fname=Uma%20V",
+      "cache_id": "profile-556ed825c7febee3",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://math.iitm.ac.in/mainpublications.php",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.iitm.ac.in/innerfaculty.php?fname=Venkata%20Balaji%20T%20E%20(Thiruvalloor%20Eesanaipaadi)",
+      "cache_id": "profile-ef865ca39ebd18c0",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://math.iitm.ac.in/mainpublications.php",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/aimo",
+      "cache_id": "profile-467330d5454f73eb",
+      "status": "parsed",
+      "record": {
+        "research": "Analysis Geometry and Topology / One complex variable, quasiconformal maps, complex dynamics.",
+        "homepage": "https://aimo.web.illinois.edu/",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/ayong",
+      "cache_id": "profile-baee57e561e8c03a",
+      "status": "parsed",
+      "record": {
+        "research": "Algebra Algebraic Geometry Combinatorics",
+        "homepage": "https://ayong.web.illinois.edu/",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/ayoung86",
+      "cache_id": "profile-a162d5ca906fb560",
+      "status": "parsed",
+      "record": {
+        "research": "Differential Equations and Applied Mathematics (DEAM) Physical Mathematics / Analysis, Mathematical Physics",
+        "homepage": "https://publish.illinois.edu/ayoung86/",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/btcastl2",
+      "cache_id": "profile-597f1bd28faaa166",
+      "status": "parsed",
+      "record": {
+        "research": "Algebraic Geometry Combinatorics / I study model theory, a branch of mathematical logic. I am most interested in interactions between model theory, geometry, and combinatorics -- particularly those involving the so-called \"Zilber trichotomy.\"",
+        "homepage": "https://bencastle.web.illinois.edu",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/cavey",
+      "cache_id": "profile-129a62bb1abec4e8",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/csdodd2",
+      "cache_id": "profile-e59511675a41856f",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/danbe",
+      "cache_id": "profile-48148b8aa34d01bc",
+      "status": "parsed",
+      "record": {
+        "research": "Geometry and Topology / I got my PhD in 2013 from UC Berkeley, working with Peter Teichner, and then was a Szego Assistant Professor at Stanford from 2013-2015 before moving to the University of Illinois at Urbana-Champaign.",
+        "homepage": "http://danbe.web.illinois.edu/",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/dbcoone2",
+      "cache_id": "profile-cae1bc60fefd8fa2",
+      "status": "parsed",
+      "record": {
+        "research": "Differential Equations and Applied Mathematics (DEAM) / Mathematical Biology and Applied Dynamical Systems",
+        "homepage": "https://publish.illinois.edu/danielbcooney/",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/denka",
+      "cache_id": "profile-ace2490736700643",
+      "status": "parsed",
+      "record": {
+        "research": "Analysis",
+        "homepage": "https://denka.web.illinois.edu",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/ecchen",
+      "cache_id": "profile-6670195dbe7fed57",
+      "status": "parsed",
+      "record": {
+        "research": "Analysis Geometry and Topology",
+        "homepage": "https://ecchen.web.illinois.edu/",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/ekerman",
+      "cache_id": "profile-c246f56d0e2da2ca",
+      "status": "parsed",
+      "record": {
+        "research": "Analysis Geometry and Topology / Hamiltonian dynamics and symplectic topology.",
+        "homepage": "https://sites.google.com/view/elykerman",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/ekirr",
+      "cache_id": "profile-355195dd021c5a46",
+      "status": "parsed",
+      "record": {
+        "research": "Analysis Differential Equations and Applied Mathematics (DEAM) Probability / Partial Differential Equations, Nonlinear Analysis",
+        "homepage": "https://ekirr.web.illinois.edu/",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/fjanda",
+      "cache_id": "profile-9e9ec2de21155ad4",
+      "status": "parsed",
+      "record": {
+        "research": "Algebraic Geometry",
+        "homepage": "https://fjanda.web.illinois.edu/",
+        "cv": "https://fjanda.web.illinois.edu/cv.pdf",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/genlik",
+      "cache_id": "profile-d031df4bebb6fa1b",
+      "status": "parsed",
+      "record": {
+        "research": "Algebraic Geometry",
+        "homepage": "https://www.denizgenlik.net",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/hirani",
+      "cache_id": "profile-9f4a0fc1841ef0e4",
+      "status": "parsed",
+      "record": {
+        "research": "Differential Equations and Applied Mathematics (DEAM) Geometry and Topology Physical Mathematics",
+        "homepage": "https://hirani.web.illinois.edu",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/inik",
+      "cache_id": "profile-a6a94347f20e22e7",
+      "status": "parsed",
+      "record": {
+        "research": "Analysis Geometry and Topology / Quasiconformal mappings, Monge-Ampere equations, regularity problems in Riemannian geometry.",
+        "homepage": "https://publish.illinois.edu/ignik-main/",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/jbheller",
+      "cache_id": "profile-cc99e4a363a50b2e",
+      "status": "parsed",
+      "record": {
+        "research": "Algebra Algebraic Geometry Geometry and Topology",
+        "homepage": "https://faculty.math.illinois.edu/~jbheller/",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/katzs",
+      "cache_id": "profile-17b0f59572ddfe1d",
+      "status": "parsed",
+      "record": {
+        "research": "Algebra Algebraic Geometry Physical Mathematics",
+        "homepage": "https://katzs.web.illinois.edu/",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/lanave",
+      "cache_id": "profile-393e5e03db87cb05",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/leditzky",
+      "cache_id": "profile-525517040a26814a",
+      "status": "parsed",
+      "record": {
+        "research": "Differential Equations and Applied Mathematics (DEAM) Physical Mathematics / Mathematical and computational aspects of quantum information theory, in particular: Quantum channels and their capacities Additivity problems in information theory Multipartite entanglement Representation-theoretic methods in quantum information Quantum teleportation, dense coding, state discrimination Entropic quantities and their properties Classical and quantum network information theory",
+        "homepage": "",
+        "cv": "https://felixleditzky.info/files/cv.pdf",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/lerman",
+      "cache_id": "profile-9da12f6e0088d473",
+      "status": "parsed",
+      "record": {
+        "research": "Geometry and Topology / Hamiltonian systems with symmetry, singular reduction, contact toric manifolds, orbifolds and stacks, Lie 2-groups and Lie 2-algebras, coupled cell networks and dynamics on networks in general, hybrid dynamical systems, differential spaces and more general C ∞ -ringed spaces.",
+        "homepage": "https://lerman.web.illinois.edu/",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/lji",
+      "cache_id": "profile-e0d1dae286bb5023",
+      "status": "parsed",
+      "record": {
+        "research": "Algebraic Geometry",
+        "homepage": "https://lji.web.illinois.edu/",
+        "cv": "https://lji.web.illinois.edu/lena-cv.pdf",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/methuku",
+      "cache_id": "profile-093778700bb17732",
+      "status": "parsed",
+      "record": {
+        "research": "Combinatorics",
+        "homepage": "https://sites.google.com/view/abhishekmethuku",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/mineyev",
+      "cache_id": "profile-ac09c5fc199921f2",
+      "status": "parsed",
+      "record": {
+        "research": "Algebra Geometry and Topology / Geometric group theory, large-scale geometry, hyperbolic groups, various types of homology and cohomology of groups and spaces, topology of manifolds and cell complexes, metric conformal structures, metric geometry.",
+        "homepage": "https://mineyev.web.illinois.edu/",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/rezk",
+      "cache_id": "profile-1ee996db3ddac9e4",
+      "status": "parsed",
+      "record": {
+        "research": "Geometry and Topology / Algebraic topology.",
+        "homepage": "",
+        "cv": "https://rezk.web.illinois.edu/cv-rezk-2024.pdf",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/reznick",
+      "cache_id": "profile-bde923aab899d657",
+      "status": "parsed",
+      "record": {
+        "research": "Algebra Algebraic Geometry Analysis Number Theory / Combinatorial methods in algebra, analysis, number theory, combinatorics, geometry.",
+        "homepage": "https://reznick.web.illinois.edu/",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/tumanov",
+      "cache_id": "profile-2399724c5423b945",
+      "status": "parsed",
+      "record": {
+        "research": "Analysis Differential Equations and Applied Mathematics (DEAM) Geometry and Topology / Several complex variables, differential geometry, partial differenital equations.",
+        "homepage": "https://tumanov.web.illinois.edu/",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/zaharesc",
+      "cache_id": "profile-2f0250247f11894d",
+      "status": "parsed",
+      "record": {
+        "research": "Number Theory",
+        "homepage": "http://www.math.illinois.edu/~zaharesc/",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.illinois.edu/directory/profile/zquan",
+      "cache_id": "profile-e169f9ef86d313ac",
+      "status": "parsed",
+      "record": {
+        "research": "Actuarial Science - tree-based models, text mining and natural language processing, data science application in insurance, social media research, Insurtech. Office: CAB 270",
+        "homepage": "https://www.zhiyuquan.net/",
+        "cv": "",
+        "publications": "",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -163720,6 +164408,58 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://math.ucsd.edu/~fmanners/",
+      "cache_id": "profile-df45a859cd1e4523",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.ucsd.edu/~idumitriu/",
+      "cache_id": "profile-f106b87ab8f76618",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.ucsd.edu/~lwarnke/",
+      "cache_id": "profile-88797c8370bdd2e1",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://mathweb.ucsd.edu/~lwarnke/#publications",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.ucsd.edu/~nkomarova/",
+      "cache_id": "profile-7fdb284064a0ee9a",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "https://mathweb.ucsd.edu/~nkomarova/new_cv.html",
+        "publications": "https://mathweb.ucsd.edu/~nkomarova/new_publ.html",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
       "url": "https://math.ucsd.edu/~ruz071/",
       "cache_id": "profile-7444de95ffe5016c",
       "status": "parsed",
@@ -163727,6 +164467,19 @@
         "research": "",
         "homepage": "",
         "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://math.ucsd.edu/~tiz161/",
+      "cache_id": "profile-cfd1ef52df3edd63",
+      "status": "parsed",
+      "record": {
+        "research": "Random walks on groups, isoperimetric profiles, harmonic functions, entropy, growth of groups.",
+        "homepage": "",
+        "cv": "https://mathweb.ucsd.edu/~tiz161/CVZheng2025.pdf",
         "publications": "",
         "checked_at": "2026-11-23"
       },
@@ -164656,19 +165409,6 @@
       "checked_at": "2026-11-23"
     },
     {
-      "url": "https://mathematics.caltech.edu/people/elena-mantovan",
-      "cache_id": "profile-59b02b4282b5a7f8",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "http://www.its.caltech.edu/~mantovan/",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
       "url": "https://mathematics.caltech.edu/people/hiroshi-hirosi-ooguri-oguri",
       "cache_id": "profile-13fe4f519bec10ae",
       "status": "parsed",
@@ -164779,45 +165519,6 @@
       "record": {
         "research": "",
         "homepage": "https://www.gukov.caltech.edu/",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://mathematics.caltech.edu/people/thomas-b-graber",
-      "cache_id": "profile-ee5c9d7ac8499c37",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://mathematics.caltech.edu/people/tony-yue-yu",
-      "cache_id": "profile-df1268445fbe5ac2",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "https://tyy.caltech.edu/",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://mathematics.caltech.edu/people/vesselin-dimitrov",
-      "cache_id": "profile-cb8ab9b6f1a66960",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
         "cv": "",
         "publications": "",
         "checked_at": "2026-11-23"
@@ -166082,6 +166783,19 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://maths.anu.edu.au/people/ben-andrews",
+      "cache_id": "profile-25d2023629df7f8d",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
       "url": "https://people.epfl.ch/emmanuel.abbe?lang=en",
       "cache_id": "profile-bcd88a87ed6a3304",
       "status": "source_error",
@@ -166722,6 +167436,19 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://profiles.imperial.ac.uk/a.caraiani",
+      "cache_id": "profile-dd118f0f2448a1fc",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://profiles.imperial.ac.uk/a.caraiani/publications",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
       "url": "https://profiles.imperial.ac.uk/a.corti",
       "cache_id": "profile-91f8fdd544b1af13",
       "status": "parsed",
@@ -166930,6 +167657,19 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://profiles.imperial.ac.uk/s.feyzbakhsh",
+      "cache_id": "profile-8f0fd1eedfde64e7",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://profiles.imperial.ac.uk/s.feyzbakhsh/publications",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
       "url": "https://profiles.imperial.ac.uk/s.sivek",
       "cache_id": "profile-dfa350f96709c0e5",
       "status": "parsed",
@@ -167016,6 +167756,201 @@
         "homepage": "",
         "cv": "",
         "publications": "https://profiles.imperial.ac.uk/zhiyuan.zhang/publications",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://profiles.sydney.edu.au/alexander.fish",
+      "cache_id": "profile-f5295cd1166f5783",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://profiles.sydney.edu.au/andreas-stephan.elsenhans",
+      "cache_id": "profile-4afa357ebd7ebce7",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://profiles.sydney.edu.au/c.bertram",
+      "cache_id": "profile-3bb1d58cfb153fd3",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://profiles.sydney.edu.au/d.allen",
+      "cache_id": "profile-20bbd0d482d1eeb8",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://profiles.sydney.edu.au/daniel.daners",
+      "cache_id": "profile-7dffc42cb8f141f2",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://profiles.sydney.edu.au/david.easdown",
+      "cache_id": "profile-35cab270909b165a",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://profiles.sydney.edu.au/dzmitry.badziahin",
+      "cache_id": "profile-66afa9f23b3da61d",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://profiles.sydney.edu.au/florica.cirstea",
+      "cache_id": "profile-4365af0b6ff0ec94",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://profiles.sydney.edu.au/holger.dullin",
+      "cache_id": "profile-99d6890bdd84f395",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://profiles.sydney.edu.au/jennifer.chan",
+      "cache_id": "profile-1533c472077735cd",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://profiles.sydney.edu.au/kevin.coulembier",
+      "cache_id": "profile-bdaa7553fc557e02",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://profiles.sydney.edu.au/nathan.brownlowe",
+      "cache_id": "profile-337069eeaf2c7181",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://profiles.sydney.edu.au/tiangang.cui",
+      "cache_id": "profile-eae73ae1bd8e3296",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://profiles.sydney.edu.au/zsuzsanna.dancso",
+      "cache_id": "profile-87d5c16bc75373cc",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://research.cuhk.edu.hk/en/persons/man-chun-lee/",
+      "cache_id": "profile-bddafb35534c8c7d",
+      "status": "parsed",
+      "record": {
+        "research": "Differential geometry, Complex geometry, Geometric partial differential equations, Compactness of geometric objects",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -168594,6 +169529,32 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://sites.google.com/ucsd.edu/moang",
+      "cache_id": "profile-e49a6e303b729bf3",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://sites.google.com/ucsd.edu/rwebber/",
+      "cache_id": "profile-6a0146ffddd8327d",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "https://drive.google.com/file/d/16IwJuFZC1XV7FUTjzY-gihVTD7ksu5K0/view?usp=sharing",
+        "publications": "https://sites.google.com/ucsd.edu/rwebber/papers",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
       "url": "https://sites.google.com/view/alexander-sherman/home",
       "cache_id": "profile-7967b7dbafd686f2",
       "status": "parsed",
@@ -168620,6 +169581,19 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://sites.google.com/view/kelly-delp/home",
+      "cache_id": "profile-04b3537ea19bf5e8",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
       "url": "https://sites.google.com/view/lycsympgeo",
       "cache_id": "profile-49374778c2a1e55b",
       "status": "parsed",
@@ -168627,6 +169601,19 @@
         "research": "",
         "homepage": "",
         "cv": "https://drive.google.com/file/d/1Cc3KOQi0_QgyGO4rIwkeU14PaAOA5lAw/view?usp=sharing",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://sites.google.com/view/mcleemath/home",
+      "cache_id": "profile-727aa3e2376ed663",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "https://drive.google.com/file/d/1Z6AmNZu9h4ppK13bTiZWkZ52IUm_NAGE/view?usp=drive_link",
         "publications": "",
         "checked_at": "2026-11-23"
       },
@@ -168746,6 +169733,19 @@
         "research": "",
         "homepage": "",
         "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://vivo.brown.edu/display/mchan2",
+      "cache_id": "profile-66a4ea3dfff3c979",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "https://sites.google.com/brown.edu/melody-chan/home",
+        "cv": "https://vivo.brown.edu/source-documents/docs/m/mchan2_cv.pdf?dt=050915214",
         "publications": "",
         "checked_at": "2026-11-23"
       },
@@ -170321,8 +171321,14 @@
     {
       "url": "https://wucms.sjtu.edu.cn/ry_js/418.html",
       "cache_id": "profile-c8f04182edf13950",
-      "status": "source_error",
-      "record": null,
+      "status": "parsed",
+      "record": {
+        "research": "No content",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
       "checked_at": "2026-11-23"
     },
     {
@@ -170367,8 +171373,14 @@
     {
       "url": "https://wucms.sjtu.edu.cn/ry_js/422.html",
       "cache_id": "profile-9683e6e5f67c8b3b",
-      "status": "source_error",
-      "record": null,
+      "status": "parsed",
+      "record": {
+        "research": "No content",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
       "checked_at": "2026-11-23"
     },
     {
@@ -170387,8 +171399,14 @@
     {
       "url": "https://wucms.sjtu.edu.cn/ry_js/469.html",
       "cache_id": "profile-a4be029d16104949",
-      "status": "source_error",
-      "record": null,
+      "status": "parsed",
+      "record": {
+        "research": "No content",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
       "checked_at": "2026-11-23"
     },
     {
@@ -172357,6 +173375,32 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://www.kcl.ac.uk/people/dmitri-panov",
+      "cache_id": "profile-eef3f7f388ec3f92",
+      "status": "parsed",
+      "record": {
+        "research": "Mathematics / Dmitri's research area is geometry, mainly complex, symplectic, and hyperbolic. In particular, he studies geometric structures called polyhedral Kahler structures, and as well definite connections. / Research interests Mathematics",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/people/konstanze-rietsch",
+      "cache_id": "profile-cb2e05234c877e0b",
+      "status": "parsed",
+      "record": {
+        "research": "Mathematics / Lie theory Quantum cohomology Mirror symmetry Positivity / Research interests Mathematics",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
       "url": "https://www.kth.se/profile/akto",
       "cache_id": "profile-73b80b36631550b0",
       "status": "source_error",
@@ -173700,6 +174744,32 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://www.math.auckland.ac.nz/Directory/academic.php",
+      "cache_id": "profile-a61cd9cf216c2336",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.auckland.ac.nz/~gover/",
+      "cache_id": "profile-23f437a0215ce5eb",
+      "status": "parsed",
+      "record": {
+        "research": "My research interests include differential geometry, twistor theory and mathematical physics. I am especially focussed on a class of differential geometries known as parabolic geometries. This class includes conformal geometries, CR geometries (which turn up in complex analysis), quaternionic geometries, projective differential geometries and many other structures.",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
       "url": "https://www.math.brown.edu/jk17/",
       "cache_id": "profile-076273c9631ea20c",
       "status": "parsed",
@@ -173708,6 +174778,19 @@
         "homepage": "",
         "cv": "",
         "publications": "https://www.math.brown.edu/jk17/papers.html",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.brown.edu/mchan2/",
+      "cache_id": "profile-ef1917043a11153a",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "https://www.math.brown.edu/mchan2/MChanCV.pdf",
+        "publications": "",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -176004,6 +177087,19 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://www.math.ubc.ca/~erobeva/index.html",
+      "cache_id": "profile-eacbc3feb5d3fd79",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "https://personal.math.ubc.ca/~erobeva/ElinaRobevaResumeSep2024.pdf",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
       "url": "https://www.math.ucla.edu/people/grad/aaz",
       "cache_id": "profile-6ae7d81daac2a3d0",
       "status": "parsed",
@@ -176820,6 +177916,306 @@
         "publications": "https://www.math.uni-bielefeld.de/~zink/z_publ.html",
         "checked_at": "2026-11-23"
       },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/%7Ebaldassa/",
+      "cache_id": "profile-dd2a18437746dda9",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "https://www.math.unipd.it/%7Ebaldassa/cv_bald.pdf",
+        "publications": "https://www.math.unipd.it/%7Ebaldassa/pub_bald.pdf",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/%7Ebertapel/",
+      "cache_id": "profile-0571979dc3f7a916",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/%7Ebottacin/",
+      "cache_id": "profile-16fc608b6515c7e0",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "https://www.math.unipd.it/%7Ebottacin/curriculum.htm",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/%7Ecandiler/geom.html",
+      "cache_id": "profile-448ce9f552a8445d",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/%7Echiarbru/",
+      "cache_id": "profile-2389011bce7ca6ef",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/%7Eernesto/",
+      "cache_id": "profile-eb190ad87e2c66b2",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.math.unipd.it/%7Eernesto/publications.html",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/%7Efiorot",
+      "cache_id": "profile-ad2232249b31b1da",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/%7Efrank/",
+      "cache_id": "profile-415ab7a4d73e69cf",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/%7Elanguasc/",
+      "cache_id": "profile-d2d28bf324d61a21",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/%7Emaurizio/",
+      "cache_id": "profile-1d27bbbf1713d602",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/%7Emgaruti/",
+      "cache_id": "profile-3e42982fb0f57fb4",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/dipartimento/persone/alessandra.bertapelle/",
+      "cache_id": "profile-ee6fe707fc1b6fec",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/dipartimento/persone/bruno.chiarellotto/",
+      "cache_id": "profile-a27ea4e8bed277a2",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/dipartimento/persone/david.klompenhouwer/",
+      "cache_id": "profile-4606d1367a03385e",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/dipartimento/persone/ernesto_carlo.mistretta/",
+      "cache_id": "profile-9327549845082104",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/dipartimento/persone/fabio.risi/",
+      "cache_id": "profile-14d3bc4b3fc39568",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/dipartimento/persone/federico.bambozzi/",
+      "cache_id": "profile-34e952076fccd449",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/dipartimento/persone/francesco.bottacin/",
+      "cache_id": "profile-5620907802d7db48",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/dipartimento/persone/jakob.scholbach/",
+      "cache_id": "profile-067e19bf42a405a4",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/dipartimento/persone/luisa.fiorot/",
+      "cache_id": "profile-2f312cd5310e44d1",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/dipartimento/persone/maurizio.cailotto/",
+      "cache_id": "profile-e1ae523dd90d1897",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/dipartimento/persone/orsola.tommasi/",
+      "cache_id": "profile-9a75dcbe9cf44024",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/dipartimento/persone/sergej.monavari/",
+      "cache_id": "profile-dfce664b98204123",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.math.unipd.it/~bertolin",
+      "cache_id": "profile-3380501481d3c976",
+      "status": "source_error",
+      "record": null,
       "checked_at": "2026-11-23"
     },
     {
@@ -178553,6 +179949,19 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://www.pma.caltech.edu/people/antoine-song",
+      "cache_id": "profile-f9364ca2ed1b6072",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
       "url": "https://www.polyu.edu.hk/ama/people/academic-staff/dr-li-hao/",
       "cache_id": "profile-5c9cc3aec5fb43b3",
       "status": "parsed",
@@ -179431,6 +180840,19 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://www.uni-muenster.de/Diffgeo/christophboehm.html",
+      "cache_id": "profile-deea0ca743d08aa1",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
       "url": "https://www.uni-muenster.de/FB10/Service/show_perspage.shtml?id=1053",
       "cache_id": "profile-3333d54aa5fee08b",
       "status": "parsed",
@@ -180164,6 +181586,227 @@
       "status": "parsed",
       "record": {
         "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=1210",
+      "cache_id": "profile-94783add25905eba",
+      "status": "parsed",
+      "record": {
+        "research": "Research Interests $\\bullet$ Arithmetic algebraic geometry, in particular the Langlands programme. $\\bullet$ $p$-adic Hodge theory and $p$-adic Galois representations. $\\bullet$ Automorphy of Galois representations. $\\bullet$ $p$-adic aspects of the theory of automorphic forms.",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=1305",
+      "cache_id": "profile-3fd9f5fdf1ab146e",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=1513",
+      "cache_id": "profile-92c495d56be0b825",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=1521",
+      "cache_id": "profile-fbc98d39fa48c9b9",
+      "status": "parsed",
+      "record": {
+        "research": "Research Interests $\\bullet$ Kähler geometry $\\bullet$ Einstein metrics, Ricci flow $\\bullet$ Geometry and analysis on singular spaces $\\bullet$ Elliptic PDEs, singular perturbations and asymptotics",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=1592",
+      "cache_id": "profile-53575e8d81dc8e13",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=1674",
+      "cache_id": "profile-1ad064ae7f9c8213",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=1680",
+      "cache_id": "profile-0560adddd16b6c4c",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=176",
+      "cache_id": "profile-a57df6af8b591a2e",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=1878",
+      "cache_id": "profile-abef340be6162b83",
+      "status": "parsed",
+      "record": {
+        "research": "Research Interests $\\bullet$ Geometric group theory $\\bullet$ profinite rigidity $\\bullet$ Automatic continuity",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=275",
+      "cache_id": "profile-246dc9b15125ef2f",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=317",
+      "cache_id": "profile-8261d00cf87d0d8c",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=381",
+      "cache_id": "profile-84f35dde039a5ad2",
+      "status": "parsed",
+      "record": {
+        "research": "Research Interests $\\bullet$ Geometry $\\bullet$ Lie groups and locally compact groups $\\bullet$ Geometric group theory $\\bullet$ Nonpositive curvature",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=408",
+      "cache_id": "profile-9c2843a9b9fd6001",
+      "status": "parsed",
+      "record": {
+        "research": "Research Interests $\\bullet$ Arithmetic algebraic geometry. $\\bullet$ Algebraic number theory. $\\bullet$ Arithmetic of function fields. $\\bullet$ Structure theory of Shimura varieties and their function field analogues. $\\bullet$ $p$-adic Hodge theory. $\\bullet$ $p$-adic Langlands programme. $\\bullet$ Model theory.",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=470",
+      "cache_id": "profile-36488841fd243653",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=50",
+      "cache_id": "profile-235d6ee5e2281475",
+      "status": "parsed",
+      "record": {
+        "research": "Research Interests $\\bullet$ Ricci flow. $\\bullet$ Group actions on Riemannian manifolds. $\\bullet$ Manifolds of positive curvature. $\\bullet$ Singular spaces and convergence of manifolds to singular spaces.",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=62",
+      "cache_id": "profile-7ade46a3fc3bec1e",
+      "status": "parsed",
+      "record": {
+        "research": "Research Interests $\\bullet$ Algebraic number theory. $\\bullet$ Arithmetic and algebraic geometry. $\\bullet$ Ergodic theory. $\\bullet$ Analysis on manifolds, foliations, dynamical systems. $\\bullet$ von Neumann algebras.",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=773",
+      "cache_id": "profile-365446ec97f254fd",
+      "status": "parsed",
+      "record": {
+        "research": "Research Interests $\\bullet$ Algebraic number theory. $\\bullet$ Arithmetic geometry. $\\bullet$ Representation theory. $\\bullet$ $p$-Adic analysis.",
         "homepage": "",
         "cv": "",
         "publications": "",

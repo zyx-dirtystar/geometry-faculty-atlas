@@ -1,9 +1,9 @@
 # 几何学者库进度
 
 更新日期 2026-11-23。核心学校池 180 所，另列 QS 151–200 边界候选 42 所。合计 222 所，已登记来源 222 所，至少有一个已解析来源 116 所。
-目录去重后共 8551 条学者与学校记录，来源外的任职或研究交叉需要继续复核。
-网页收录 485 位，覆盖 91 所。有个人主页 242 位、公开 CV 77 位、发表列表 83 位、机构或作者计数 3 位、OpenAlex 指标 54 位。
-已解析 1843 个个人页面。校级全名单对账完成 0 所。
+目录去重后共 8552 条学者与学校记录，来源外的任职或研究交叉需要继续复核。
+网页收录 493 位，覆盖 91 所。有个人主页 252 位、公开 CV 80 位、发表列表 86 位、机构或作者计数 6 位、OpenAlex 指标 54 位。
+已解析 1953 个个人页面。校级全名单对账完成 0 所。
 
 ## 原待查批次
 
@@ -55,13 +55,13 @@
 | 魏茨曼科学研究所 | — | 38 | 工作名单 | [Research Interests by Faculty Member](https://www.weizmann.ac.il/math/about/research-interests-faculty-member) · [Faculty of Mathematics and Computer Science · People](https://www.weizmann.ac.il/math/people) · [Faculty of Mathematics and Computer Science · Mathematics research](https://www.weizmann.ac.il/math/research/mathematics) | 4 | 3 / 1 / 0 | 6 |
 | 普渡大学西拉法叶分校 | 92 | 39 | 工作名单 | [数学系 Faculty Directory](https://www.math.purdue.edu/people/faculty) | 12 | 11 / 0 / 0 | 18 |
 | 南方科技大学 | — | 40 | 工作名单 | [Research-Research Areas](https://math.sustech.edu.cn/research_areas.html?lang=en) · [数学系科研教学系列](https://math.sustech.edu.cn/user/6.html) · [数学系介绍](https://math.sustech.edu.cn/news/about_us.html?lang=zh) | 0 | 0 / 0 / 0 | 46 |
-| 加州理工学院 | 20 | 41 | 工作名单 | [PMA Professorial Faculty](https://www.pma.caltech.edu/people/faculty) · [数学系 People](https://mathematics.caltech.edu/people) | 1 | 0 / 0 / 1 | 18 |
+| 加州理工学院 | 20 | 41 | 工作名单 | [PMA Professorial Faculty](https://www.pma.caltech.edu/people/faculty) · [数学系 · Algebraic Geometry](https://mathematics.caltech.edu/research/research-areas/algebraic-geometry) · [数学系 · Geometry and Topology](https://mathematics.caltech.edu/research/research-areas/geometry-and-topology) · [数学系 · Visiting Associates](https://mathematics.caltech.edu/people/visiting-associates) · [数学系 People](https://mathematics.caltech.edu/people) | 5 | 2 / 0 / 1 | 14 |
 | 阿卜杜勒阿齐兹国王大学 | =58 | 42 | 来源待复核 | [Faculty of Science · Mathematics Department](https://kau.edu.sa/faculty/en/science/page/mathematics-department) · [Department of Mathematics Faculty Members](https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a) · [Department of Mathematics · Management and faculty links](https://kau.edu.sa/faculty/en/science/page/Management-of-Mathematics-Department) · [数学系阿拉伯语教师入口 · Research Directory](https://research.kau.edu.sa/) | 0 | 0 / 0 / 0 | 0 |
-| 上海交通大学 | 27 | 42 | 工作名单 | [RESEARCH GROUPS - 高校国际化示范学院推进计划网站](https://nice-math.sjtu.edu.cn/Data/List/RESEARCHGROUPS) · [吴文俊数学中心基础数学团队](https://wucms.sjtu.edu.cn/yj_gruop/74.html) · [吴文俊数学中心 Faculty](https://wucms.sjtu.edu.cn/ry.html) · [吴文俊数学中心 Staff](https://wucms.sjtu.edu.cn/ry_staff.html) | 0 | 0 / 0 / 0 | 3 |
-| 不列颠哥伦比亚大学 | 40 | 44 | 工作名单 | [温哥华校区数学系 Faculty Directory](https://www.math.ubc.ca/about-our-department/directory/1000) · [Algebra and Algebraic Geometry](https://www.math.ubc.ca/research/research-topics/algebra-and-algebraic-geometry) · [温哥华校区数学系任职名单](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/academic-staff/department-mathematics) | 5 | 5 / 0 / 0 | 332 |
+| 上海交通大学 | 27 | 42 | 工作名单 | [RESEARCH GROUPS - 高校国际化示范学院推进计划网站](https://nice-math.sjtu.edu.cn/Data/List/RESEARCHGROUPS) · [吴文俊数学中心基础数学团队](https://wucms.sjtu.edu.cn/yj_gruop/74.html) · [吴文俊数学中心 Faculty](https://wucms.sjtu.edu.cn/ry.html) · [吴文俊数学中心 Staff](https://wucms.sjtu.edu.cn/ry_staff.html) | 0 | 0 / 0 / 0 | 0 |
+| 不列颠哥伦比亚大学 | 40 | 44 | 工作名单 | [温哥华校区数学系 Faculty Directory](https://www.math.ubc.ca/about-our-department/directory/1000) · [Algebra and Algebraic Geometry](https://www.math.ubc.ca/research/research-topics/algebra-and-algebraic-geometry) · [温哥华校区数学系任职名单](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/academic-staff/department-mathematics) | 5 | 5 / 1 / 0 | 332 |
 | 巴黎文理研究大学 | =22 | 45 | 工作名单 | [Algèbre et géométrie – Département de mathématiques et applications](https://www.math.ens.psl.eu/la-recherche/algebre-geometrie/) · [École normale supérieure · Département de mathématiques et applications](https://www.math.ens.psl.eu/en/welcome/) · [ENS Département de mathématiques et applications · Members](https://www.math.ens.psl.eu/en/members/) | 0 | 0 / 0 / 0 | 37 |
 | 西北大学（美国） | =125 | 46 | 工作名单 | [数学系 Core Faculty](https://www.math.northwestern.edu/people/faculty/) | 7 | 5 / 0 / 0 | 20 |
-| 加州大学圣迭戈分校 | =62 | 47 | 工作名单 | [数学系 Faculty](https://www.math.ucsd.edu/people/faculty) · [Algebraic Geometry](https://www.math.ucsd.edu/research/algebraic-geometry) · [Geometric Analysis](https://www.math.ucsd.edu/research/geometric-analysis) · [数学系 People](https://www.math.ucsd.edu/people) | 8 | 8 / 1 / 0 | 42 |
+| 加州大学圣迭戈分校 | =62 | 47 | 工作名单 | [数学系 Faculty](https://www.math.ucsd.edu/people/faculty) · [Algebraic Geometry](https://www.math.ucsd.edu/research/algebraic-geometry) · [Geometric Analysis](https://www.math.ucsd.edu/research/geometric-analysis) · [数学系 People](https://www.math.ucsd.edu/people) | 8 | 8 / 1 / 0 | 41 |
 | 马德里康普顿斯大学 | 151-200 | 48 | 工作名单 | [Ciencias Matemáticas](https://produccioncientifica.ucm.es/unidades/768/grupos) · [Geometría y Topología · Personal](https://www.ucm.es/geometria_topologia/personal) | 0 | 0 / 0 / 0 | 0 |
 | 中国科学技术大学 | =74 | 49 | 工作名单 | [数学系教师列表](https://hqyulab.ustc.edu.cn/xyjslb.jsp?id=1003&lang=zh_CN&st=0&urltype=tsites.CollegeTeacherList&wbtreeid=1014) · [数学科学学院教师按字母排序](https://math.ustc.edu.cn/azcp/list.htm) · [数学科学学院师资队伍](https://math.ustc.edu.cn/szdw/list.htm) | 17 | 3 / 0 / 0 | 19 |
 | 浙江大学 | =46 | 50 | 工作名单 | [浙江大学王枫公开主页](https://mypage.zju.edu.cn/0014136) · [数学科学学院江文帅教师主页](https://person.zju.edu.cn/0016170) · [数学科学学院教师王枫（英文版）](https://person.zju.edu.cn/en/0014136) · [数学科学学院吴洁教师主页](https://person.zju.edu.cn/0014168) | 6 | 6 / 0 / 0 | 0 |
@@ -109,7 +109,7 @@
 | 加州大学欧文分校 | — | 76-100 | 工作名单 | [Department of Mathematics · Academic Catalogue](https://catalogue.uci.edu/schoolofphysicalsciences/departmentofmathematics/) | 5 | 0 / 0 / 0 | 3 |
 | 埃尔朗根-纽伦堡大学 | — | 76-100 | 工作名单 | [Department of Mathematics Chairs and Professorships](https://en.www.math.fau.de/department/chairs-and-professorships/) · [Department of Mathematics Algebra and Geometry](https://en.www.math.fau.de/algebra-and-geometry/) | 0 | 0 / 0 / 0 | 3 |
 | 格拉纳达大学 | =135 | 76-100 | 工作名单 | [FACULTAD DE CIENCIAS](https://produccioncientifica.ugr.es/unidades/8868/investigadores) · [Departamento de Geometría y Topología](https://www.ugr.es/universidad/organizacion/entidades/departamento-geometria-topologia) | 0 | 0 / 0 / 0 | 0 |
-| 伊利诺伊大学厄巴纳-香槟分校 | =60 | 76-100 | 工作名单 | [Algebraic Geometry](https://math.illinois.edu/research/areas/algebraic-geometry) · [数学系 Faculty](https://math.illinois.edu/directory/faculty) | 4 | 0 / 0 / 0 | 68 |
+| 伊利诺伊大学厄巴纳-香槟分校 | =60 | 76-100 | 工作名单 | [Algebraic Geometry](https://math.illinois.edu/research/areas/algebraic-geometry) · [数学系 Faculty](https://math.illinois.edu/directory/faculty) | 8 | 8 / 2 / 0 | 56 |
 | 于韦斯屈莱大学 | — | 76-100 | 工作名单 | [Department of Mathematics and Statistics · Contact Information](https://www.jyu.fi/en/science/maths/contact-information) | 1 | 1 / 0 / 1 | 8 |
 | 帕多瓦大学 | =141 | 76-100 | 工作名单 | [Area :: Dipartimento di Matematica “Tullio Levi-Civita”](https://www.math.unipd.it/en//research/research-areas/sub-area/research-area/17/) · [Dipartimento di Matematica · Personale](https://wss.math.unipd.it/display/Pages/Personale.php) · [Geometry Group](https://www.math.unipd.it/~bertapel/geometry.html) · [Geometria Algebrica e Teoria dei Numeri · People](https://docenti.math.unipd.it/geometria/people) · [Docenti · Dipartimento di Matematica](https://docenti.math.unipd.it/) | 0 | 0 / 0 / 0 | 20 |
 | 雷根斯堡大学 | — | 76-100 | 工作名单 | [Fakultät für Mathematik · Professorinnen und Professoren](https://www.uni-regensburg.de/mathematik/forschen/personen/professorinnen-und-professoren) · [Globale Analysis und Geometrie](https://www.uni-regensburg.de/mathematik/forschen/forschungsschwerpunkte/globale-analysis-und-geometrie) | 1 | 1 / 0 / 1 | 22 |
@@ -249,6 +249,7 @@
 - 罗格斯大学新布朗斯维克分校。已读取 New Brunswick 的学校目录及领域页。目录混有教师和学生，并按显示职位分类，人士更名及未公开方向待核。
 - 日内瓦大学。院系全名录的直接访问呈安全验证。已核录院系研究组可索引的代数与几何组可见成员及个别当前个人档案。
 - 复旦大学。上海数学中心 Current Faculty & Researchers 名册已核录。数学科学学院教职员工目录的名单未随页面静态返回，两个院系的其他人员及重叠任职待核。
+- 加州理工学院。数学系官方 People 页列出 19 位 Professorial Faculty 和 6 位荣休教授。已对照代数几何、几何与拓扑组及个别访问任职，现任与荣休或访问记录分别保留。仍有部分个人研究方向、其他院系联合任职及完整访问名单待核。
 - 阿卜杜勒阿齐兹国王大学。已查数学系英语名册文件与阿拉伯语研究目录入口。前者文件无法读取，后者网页和浏览器请求都失败。当前教师名册待核。
 - 浙江大学。数学科学学院全名册入口在静态及浏览器请求中均未加载。已通过学校官方个人档案补录明确任职和方向。
 - 中南大学。已提取校级教师门户公开的五页数学与统计学院名录。名录中的职位按门户原标签保存，未公开方向的教师留待核。
