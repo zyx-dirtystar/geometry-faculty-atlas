@@ -172,6 +172,56 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "central-south-math-page-1",
+      "school": "central-south",
+      "url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+      "label": "数学与统计学院教师名录 · 第 1 页",
+      "status": "parsed",
+      "count": 20,
+      "checked_at": "2026-11-23",
+      "note": ""
+    },
+    {
+      "id": "central-south-math-page-2",
+      "school": "central-south",
+      "url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+      "label": "数学与统计学院教师名录 · 第 2 页",
+      "status": "parsed",
+      "count": 20,
+      "checked_at": "2026-11-23",
+      "note": ""
+    },
+    {
+      "id": "central-south-math-page-3",
+      "school": "central-south",
+      "url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+      "label": "数学与统计学院教师名录 · 第 3 页",
+      "status": "parsed",
+      "count": 20,
+      "checked_at": "2026-11-23",
+      "note": ""
+    },
+    {
+      "id": "central-south-math-page-4",
+      "school": "central-south",
+      "url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+      "label": "数学与统计学院教师名录 · 第 4 页",
+      "status": "parsed",
+      "count": 20,
+      "checked_at": "2026-11-23",
+      "note": ""
+    },
+    {
+      "id": "central-south-math-page-5",
+      "school": "central-south",
+      "url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+      "label": "数学与统计学院教师名录 · 第 5 页",
+      "status": "parsed",
+      "count": 19,
+      "checked_at": "2026-11-23",
+      "note": ""
+    },
+    {
       "id": "central-south-professors",
       "school": "central-south",
       "url": "https://math.csu.edu.cn/szdw/jcsxx/js.htm",
@@ -372,6 +422,16 @@
       "note": "HTTPS 连接或证书校验失败。"
     },
     {
+      "id": "geneva-english-staff",
+      "school": "geneva",
+      "url": "https://www.unige.ch/math/en/section/enseignants-et-chercheurs-2",
+      "label": "Section of Mathematics · Faculty and Researchers",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-23",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
       "id": "geneva-groups",
       "school": "geneva",
       "url": "https://www.unige.ch/math/recherche/groupes-de-recherche",
@@ -386,6 +446,26 @@
       "school": "geneva",
       "url": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs",
       "label": "Section de mathématiques · Enseignants et chercheurs",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-23",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "geneva-research-groups",
+      "school": "geneva",
+      "url": "https://www.unige.ch/math/recherche/groupes-de-recherche",
+      "label": "Section de mathématiques · Groupes de recherche",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-23",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "geneva-tropical-group",
+      "school": "geneva",
+      "url": "https://www.unige.ch/math/tggroup/doku.php?id=start",
+      "label": "Geneva University Tropical Group",
       "status": "needs_adapter",
       "count": 0,
       "checked_at": "2026-11-23",
@@ -496,20 +576,20 @@
       "school": "paris-cite",
       "url": "https://www.imj-prg.fr/tga/membres/",
       "label": "IMJ-PRG TGA（联合机构，任职逐人核对）",
-      "status": "needs_adapter",
-      "count": 0,
+      "status": "parsed",
+      "count": 8,
       "checked_at": "2026-11-23",
-      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+      "note": ""
     },
     {
       "id": "imj-tga-sorbonne",
       "school": "sorbonne",
       "url": "https://www.imj-prg.fr/tga/membres/",
       "label": "IMJ-PRG TGA（联合机构，任职逐人核对）",
-      "status": "needs_adapter",
-      "count": 0,
+      "status": "parsed",
+      "count": 10,
       "checked_at": "2026-11-23",
-      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+      "note": ""
     },
     {
       "id": "imperial-geometry",
@@ -566,6 +646,16 @@
       "school": "jean-monnet",
       "url": "https://www.univ-st-etienne.fr/fr/icj.html",
       "label": "Institut Camille Jordan",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-23",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "jean-monnet-icj-all-members",
+      "school": "jean-monnet",
+      "url": "https://math.univ-lyon1.fr/icj/annuaire-des-personnels/",
+      "label": "Institut Camille Jordan · Annuaire des personnels",
       "status": "needs_adapter",
       "count": 0,
       "checked_at": "2026-11-23",
@@ -630,6 +720,16 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "来源返回的内容需要另行读取。"
+    },
+    {
+      "id": "king-abdulaziz-math-management",
+      "school": "king-abdulaziz",
+      "url": "https://kau.edu.sa/faculty/en/science/page/Management-of-Mathematics-Department",
+      "label": "Department of Mathematics · Management and faculty links",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-23",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
       "id": "king-khalid-dept",
@@ -1296,10 +1396,10 @@
       "school": "sichuan",
       "url": "https://faculty.scu.edu.cn/xyjs.jsp?id=1028&lang=zh_CN&st=0&urltype=tsites.CollegeTeacherList&wbtreeid=1012",
       "label": "数学学院教师列表",
-      "status": "needs_adapter",
-      "count": 0,
+      "status": "parsed",
+      "count": 7,
       "checked_at": "2026-11-23",
-      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+      "note": ""
     },
     {
       "id": "sissa-geo",
@@ -1592,6 +1692,16 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "toronto-mississauga-faculty",
+      "school": "toronto",
+      "url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+      "label": "Mississauga · Mathematics Faculty",
+      "status": "parsed",
+      "count": 33,
+      "checked_at": "2026-11-23",
+      "note": ""
+    },
+    {
       "id": "tsinghua-algebra",
       "school": "tsinghua",
       "url": "https://www.math.tsinghua.edu.cn/info/1013/1631.htm",
@@ -1862,6 +1972,26 @@
       "note": ""
     },
     {
+      "id": "ut-austin-algebra",
+      "school": "ut-austin",
+      "url": "https://math.utexas.edu/research/algebra",
+      "label": "数学系 Algebra",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-23",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "ut-austin-geometry",
+      "school": "ut-austin",
+      "url": "https://math.utexas.edu/research/geometry",
+      "label": "数学系 Geometry",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-23",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
       "id": "ut-austin-math",
       "school": "ut-austin",
       "url": "https://math.utexas.edu/directory",
@@ -2082,10 +2212,30 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "zju-jiang-profile",
+      "school": "zju",
+      "url": "https://person.zju.edu.cn/0016170",
+      "label": "数学科学学院江文帅教师主页",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-23",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
       "id": "zju-wang-profile",
       "school": "zju",
       "url": "https://person.zju.edu.cn/en/0014136",
       "label": "数学科学学院教师王枫（英文版）",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-23",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "zju-wu-profile",
+      "school": "zju",
+      "url": "https://person.zju.edu.cn/0014168",
+      "label": "数学科学学院吴洁教师主页",
       "status": "needs_adapter",
       "count": 0,
       "checked_at": "2026-11-23",
@@ -11230,6 +11380,1590 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.caltech.edu/people",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "冯立华",
+      "school": "central-south",
+      "record": {
+        "name": "冯立华",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/fenglihua/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "岑秀丽",
+      "school": "central-south",
+      "record": {
+        "name": "岑秀丽",
+        "title": "特聘副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/cenxiuli/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "巩佳佳",
+      "school": "central-south",
+      "record": {
+        "name": "巩佳佳",
+        "title": "助理研究员",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/gongjiajia/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "戴斌祥",
+      "school": "central-south",
+      "record": {
+        "name": "戴斌祥",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/daibinxiang/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "方秋莲",
+      "school": "central-south",
+      "record": {
+        "name": "方秋莲",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/FANGQL76/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "甘四清",
+      "school": "central-south",
+      "record": {
+        "name": "甘四清",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/gansiqing/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "董国志",
+      "school": "central-south",
+      "record": {
+        "name": "董国志",
+        "title": "特聘副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/dongguozhi/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "谌昭",
+      "school": "central-south",
+      "record": {
+        "name": "谌昭",
+        "title": "讲师",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/shenzhao/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "邓又军",
+      "school": "central-south",
+      "record": {
+        "name": "邓又军",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/dengyoujun/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "邓松海",
+      "school": "central-south",
+      "record": {
+        "name": "邓松海",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/dengsonghai/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "邓淋穗",
+      "school": "central-south",
+      "record": {
+        "name": "邓淋穗",
+        "title": "",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/denglinsui/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "郝晨旭",
+      "school": "central-south",
+      "record": {
+        "name": "郝晨旭",
+        "title": "",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/haochenxu/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "郭尧琦",
+      "school": "central-south",
+      "record": {
+        "name": "郭尧琦",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/guoyaoqi/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "郭铁信",
+      "school": "central-south",
+      "record": {
+        "name": "郭铁信",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/guotiexin/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "郭骥",
+      "school": "central-south",
+      "record": {
+        "name": "郭骥",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/guoji/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "陆长青",
+      "school": "central-south",
+      "record": {
+        "name": "陆长青",
+        "title": "",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/luchangqing/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "陈凯",
+      "school": "central-south",
+      "record": {
+        "name": "陈凯",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/chenkai12/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "陈和柏",
+      "school": "central-south",
+      "record": {
+        "name": "陈和柏",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/chenhebai/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "陈思彤",
+      "school": "central-south",
+      "record": {
+        "name": "陈思彤",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/chensitong/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-1",
+      "person_key": "陈海波",
+      "school": "central-south",
+      "record": {
+        "name": "陈海波",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/chenhaibo/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "何伟",
+      "school": "central-south",
+      "record": {
+        "name": "何伟",
+        "title": "讲师",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/hewei/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "侯木舟",
+      "school": "central-south",
+      "record": {
+        "name": "侯木舟",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/houmuzhou/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "刘再明",
+      "school": "central-south",
+      "record": {
+        "name": "刘再明",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/liuzaiming/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "刘圣军",
+      "school": "central-south",
+      "record": {
+        "name": "刘圣军",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/liushengjun/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "刘心歌",
+      "school": "central-south",
+      "record": {
+        "name": "刘心歌",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/liuxinge/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "刘新儒",
+      "school": "central-south",
+      "record": {
+        "name": "刘新儒",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/liuxinru/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "刘桥",
+      "school": "central-south",
+      "record": {
+        "name": "刘桥",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/liuqiao/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "刘源远",
+      "school": "central-south",
+      "record": {
+        "name": "刘源远",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/liuyuanyuan/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "刘诚",
+      "school": "central-south",
+      "record": {
+        "name": "刘诚",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/liucheng/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "刘路",
+      "school": "central-south",
+      "record": {
+        "name": "刘路",
+        "title": "研究员",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/liujiayi/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "李周欣",
+      "school": "central-south",
+      "record": {
+        "name": "李周欣",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/lizhouxin/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "李小爱",
+      "school": "central-south",
+      "record": {
+        "name": "李小爱",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/lixiaoai/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "李志保",
+      "school": "central-south",
+      "record": {
+        "name": "李志保",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/lizhibao/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "李振振",
+      "school": "central-south",
+      "record": {
+        "name": "李振振",
+        "title": "",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/lizhenzhen12/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "李欣叶",
+      "school": "central-south",
+      "record": {
+        "name": "李欣叶",
+        "title": "讲师",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/lixinye/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "李江涛",
+      "school": "central-south",
+      "record": {
+        "name": "李江涛",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/lijiangtao12/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "梁瑞喜",
+      "school": "central-south",
+      "record": {
+        "name": "梁瑞喜",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/liangruixi/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "胡志",
+      "school": "central-south",
+      "record": {
+        "name": "胡志",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/huzhi/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "贺兵",
+      "school": "central-south",
+      "record": {
+        "name": "贺兵",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/hebing/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-2",
+      "person_key": "贺福利",
+      "school": "central-south",
+      "record": {
+        "name": "贺福利",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/hefuli/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "乔艺晓",
+      "school": "central-south",
+      "record": {
+        "name": "乔艺晓",
+        "title": "特聘教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/qiaoyixiao/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "任叶庆",
+      "school": "central-south",
+      "record": {
+        "name": "任叶庆",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/renyeqing/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "吕骏",
+      "school": "central-south",
+      "record": {
+        "name": "吕骏",
+        "title": "讲师",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/lvjun/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "唐先华",
+      "school": "central-south",
+      "record": {
+        "name": "唐先华",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/tangxianhua/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "唐美兰",
+      "school": "central-south",
+      "record": {
+        "name": "唐美兰",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/tangmeilan/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "唐长洋",
+      "school": "central-south",
+      "record": {
+        "name": "唐长洋",
+        "title": "",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/tangchangyang/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "宁家福",
+      "school": "central-south",
+      "record": {
+        "name": "宁家福",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/ningjiafu/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "宋林昊",
+      "school": "central-south",
+      "record": {
+        "name": "宋林昊",
+        "title": "讲师",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/songlinhao/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "彭丽华",
+      "school": "central-south",
+      "record": {
+        "name": "彭丽华",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/penglihua/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "彭君",
+      "school": "central-south",
+      "record": {
+        "name": "彭君",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/pengjun2/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "曲扬",
+      "school": "central-south",
+      "record": {
+        "name": "曲扬",
+        "title": "讲师",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/quyang/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "潘克家",
+      "school": "central-south",
+      "record": {
+        "name": "潘克家",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/pankejia/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "牛原玲",
+      "school": "central-south",
+      "record": {
+        "name": "牛原玲",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/niuyuanling/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "石坐顺华",
+      "school": "central-south",
+      "record": {
+        "name": "石坐顺华",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/shizuoshunhua/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "秦栋栋",
+      "school": "central-south",
+      "record": {
+        "name": "秦栋栋",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/qindongdong/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "罗思捷",
+      "school": "central-south",
+      "record": {
+        "name": "罗思捷",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/luosijie/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "苗存强",
+      "school": "central-south",
+      "record": {
+        "name": "苗存强",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/miaocunqiang/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "马攀",
+      "school": "central-south",
+      "record": {
+        "name": "马攀",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/mapan/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "鲁卢",
+      "school": "central-south",
+      "record": {
+        "name": "鲁卢",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/lulu/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-3",
+      "person_key": "龙珑",
+      "school": "central-south",
+      "record": {
+        "name": "龙珑",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/longlong/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "万中",
+      "school": "central-south",
+      "record": {
+        "name": "万中",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/wanzhong/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "向淑晃",
+      "school": "central-south",
+      "record": {
+        "name": "向淑晃",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/xiangshuhuang/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "吴恋",
+      "school": "central-south",
+      "record": {
+        "name": "吴恋",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/wulian/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "吴晓春",
+      "school": "central-south",
+      "record": {
+        "name": "吴晓春",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/wuxiaochun/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "吴玉锋",
+      "school": "central-south",
+      "record": {
+        "name": "吴玉锋",
+        "title": "讲师",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/wuyufeng/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "吴锦标",
+      "school": "central-south",
+      "record": {
+        "name": "吴锦标",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/wujinbiao/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "汪泓泽",
+      "school": "central-south",
+      "record": {
+        "name": "汪泓泽",
+        "title": "",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/wanghongze/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "温哲鑫",
+      "school": "central-south",
+      "record": {
+        "name": "温哲鑫",
+        "title": "讲师",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/wenzhexin1/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "熊春河",
+      "school": "central-south",
+      "record": {
+        "name": "熊春河",
+        "title": "讲师",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/xiongchunhe/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "王凯",
+      "school": "central-south",
+      "record": {
+        "name": "王凯",
+        "title": "讲师",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/wangkai12/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "王小捷",
+      "school": "central-south",
+      "record": {
+        "name": "王小捷",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/wangxiaojie/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "王明",
+      "school": "central-south",
+      "record": {
+        "name": "王明",
+        "title": "特聘教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/wangming/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "王洪",
+      "school": "central-south",
+      "record": {
+        "name": "王洪",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/wh/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "王洪桥",
+      "school": "central-south",
+      "record": {
+        "name": "王洪桥",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/wanghongqiao/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "王炜飚",
+      "school": "central-south",
+      "record": {
+        "name": "王炜飚",
+        "title": "讲师",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/wangweibiao/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "王理",
+      "school": "central-south",
+      "record": {
+        "name": "王理",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/wangli12345678/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "王璐",
+      "school": "central-south",
+      "record": {
+        "name": "王璐",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/wanglu/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "许灏",
+      "school": "central-south",
+      "record": {
+        "name": "许灏",
+        "title": "",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/xuhao/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "谢广亨",
+      "school": "central-south",
+      "record": {
+        "name": "谢广亨",
+        "title": "特聘副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/xieguangheng1/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-4",
+      "person_key": "谢维洪",
+      "school": "central-south",
+      "record": {
+        "name": "谢维洪",
+        "title": "助理研究员",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/xieweihong/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "周华成",
+      "school": "central-south",
+      "record": {
+        "name": "周华成",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/zhouhuacheng/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "周岳",
+      "school": "central-south",
+      "record": {
+        "name": "周岳",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/zhouyue/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "周德俭",
+      "school": "central-south",
+      "record": {
+        "name": "周德俭",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/zhoudejian/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "周清平",
+      "school": "central-south",
+      "record": {
+        "name": "周清平",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/zhouqingping/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "尹智",
+      "school": "central-south",
+      "record": {
+        "name": "尹智",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/yinzhi/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "应金勇",
+      "school": "central-south",
+      "record": {
+        "name": "应金勇",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/yingjinyong/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "张奥",
+      "school": "central-south",
+      "record": {
+        "name": "张奥",
+        "title": "",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/zhangao/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "张宏伟",
+      "school": "central-south",
+      "record": {
+        "name": "张宏伟",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/zhanghongwei/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "张晓江",
+      "school": "central-south",
+      "record": {
+        "name": "张晓江",
+        "title": "助理研究员",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/zhangxiaojiang/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "张炜",
+      "school": "central-south",
+      "record": {
+        "name": "张炜",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/zhangwei/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "张胥",
+      "school": "central-south",
+      "record": {
+        "name": "张胥",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/zhangxu/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "徐宇锋",
+      "school": "central-south",
+      "record": {
+        "name": "徐宇锋",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/xuyufeng/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "杨东辉",
+      "school": "central-south",
+      "record": {
+        "name": "杨东辉",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/yangdonghui/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "杨志红",
+      "school": "central-south",
+      "record": {
+        "name": "杨志红",
+        "title": "讲师",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/yangzhihong12/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "杨柳青",
+      "school": "central-south",
+      "record": {
+        "name": "杨柳青",
+        "title": "讲师",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/yangliuqing/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "杨蕊",
+      "school": "central-south",
+      "record": {
+        "name": "杨蕊",
+        "title": "副教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/yangrui/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "运东方",
+      "school": "central-south",
+      "record": {
+        "name": "运东方",
+        "title": "助理研究员",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/yundongfang/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "邹勇攀",
+      "school": "central-south",
+      "record": {
+        "name": "邹勇攀",
+        "title": "",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/zouyongpan/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "central-south-math-page-5",
+      "person_key": "郑洲顺",
+      "school": "central-south",
+      "record": {
+        "name": "郑洲顺",
+        "title": "教授",
+        "research": "",
+        "profile": "https://faculty.csu.edu.cn/zhengzhoushun/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002",
         "checked_at": "2026-11-23"
       }
     },
@@ -25846,6 +27580,312 @@
         "source_url": "https://math.hit.edu.cn/js/list.htm",
         "checked_at": "2026-11-23",
         "unit": "数学学院"
+      }
+    },
+    {
+      "source": "imj-tga-paris-cite",
+      "person_key": "antoinechambertloir",
+      "school": "paris-cite",
+      "record": {
+        "name": "Antoine Chambert-Loir",
+        "title": "Professeur des universités",
+        "research": "IMJ-PRG geometry and topology group",
+        "profile": "",
+        "homepage": "http://webusers.imj-prg.fr/~antoine.chambert-loir/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.imj-prg.fr/tga/membres/",
+        "checked_at": "2026-11-23",
+        "unit": "Institut de Mathématiques de Jussieu – Paris Rive Gauche"
+      }
+    },
+    {
+      "source": "imj-tga-paris-cite",
+      "person_key": "catherinegille",
+      "school": "paris-cite",
+      "record": {
+        "name": "Catherine Gille",
+        "title": "Maîtresse de conférences",
+        "research": "IMJ-PRG geometry and topology group",
+        "profile": "",
+        "homepage": "http://webusers.imj-prg.fr/~catherine.gille/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.imj-prg.fr/tga/membres/",
+        "checked_at": "2026-11-23",
+        "unit": "Institut de Mathématiques de Jussieu – Paris Rive Gauche"
+      }
+    },
+    {
+      "source": "imj-tga-paris-cite",
+      "person_key": "emmanuelwagner",
+      "school": "paris-cite",
+      "record": {
+        "name": "Emmanuel Wagner",
+        "title": "Professeur des universités",
+        "research": "IMJ-PRG geometry and topology group",
+        "profile": "",
+        "homepage": "https://wagner.perso.math.cnrs.fr/index.html/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.imj-prg.fr/tga/membres/",
+        "checked_at": "2026-11-23",
+        "unit": "Institut de Mathématiques de Jussieu – Paris Rive Gauche"
+      }
+    },
+    {
+      "source": "imj-tga-paris-cite",
+      "person_key": "frederichan",
+      "school": "paris-cite",
+      "record": {
+        "name": "Frédéric Han",
+        "title": "Maître de conférences",
+        "research": "IMJ-PRG geometry and topology group",
+        "profile": "",
+        "homepage": "http://webusers.imj-prg.fr/~frederic.han/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.imj-prg.fr/tga/membres/",
+        "checked_at": "2026-11-23",
+        "unit": "Institut de Mathématiques de Jussieu – Paris Rive Gauche"
+      }
+    },
+    {
+      "source": "imj-tga-paris-cite",
+      "person_key": "gentianadanila",
+      "school": "paris-cite",
+      "record": {
+        "name": "Gentiana Danila",
+        "title": "Maîtresse de conférences",
+        "research": "IMJ-PRG geometry and topology group",
+        "profile": "",
+        "homepage": "http://webusers.imj-prg.fr/~gentiana.danila/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.imj-prg.fr/tga/membres/",
+        "checked_at": "2026-11-23",
+        "unit": "Institut de Mathématiques de Jussieu – Paris Rive Gauche"
+      }
+    },
+    {
+      "source": "imj-tga-paris-cite",
+      "person_key": "muriellivernet",
+      "school": "paris-cite",
+      "record": {
+        "name": "Muriel Livernet",
+        "title": "Professeure des universités",
+        "research": "IMJ-PRG geometry and topology group",
+        "profile": "",
+        "homepage": "http://webusers.imj-prg.fr/~muriel.livernet/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.imj-prg.fr/tga/membres/",
+        "checked_at": "2026-11-23",
+        "unit": "Institut de Mathématiques de Jussieu – Paris Rive Gauche"
+      }
+    },
+    {
+      "source": "imj-tga-paris-cite",
+      "person_key": "najibidrissi",
+      "school": "paris-cite",
+      "record": {
+        "name": "Najib Idrissi",
+        "title": "Maître de conférences",
+        "research": "IMJ-PRG geometry and topology group",
+        "profile": "",
+        "homepage": "https://idrissi.eu",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.imj-prg.fr/tga/membres/",
+        "checked_at": "2026-11-23",
+        "unit": "Institut de Mathématiques de Jussieu – Paris Rive Gauche"
+      }
+    },
+    {
+      "source": "imj-tga-paris-cite",
+      "person_key": "olivierdebarre",
+      "school": "paris-cite",
+      "record": {
+        "name": "Olivier Debarre",
+        "title": "Professeur des universités",
+        "research": "IMJ-PRG geometry and topology group",
+        "profile": "",
+        "homepage": "http://webusers.imj-prg.fr/~olivier.debarre/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.imj-prg.fr/tga/membres/",
+        "checked_at": "2026-11-23",
+        "unit": "Institut de Mathématiques de Jussieu – Paris Rive Gauche"
+      }
+    },
+    {
+      "source": "imj-tga-sorbonne",
+      "person_key": "alessandrochiodo",
+      "school": "sorbonne",
+      "record": {
+        "name": "Alessandro Chiodo",
+        "title": "Professeur des universités",
+        "research": "IMJ-PRG geometry and topology group",
+        "profile": "",
+        "homepage": "http://webusers.imj-prg.fr/~alessandro.chiodo/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.imj-prg.fr/tga/membres/",
+        "checked_at": "2026-11-23",
+        "unit": "Institut de Mathématiques de Jussieu – Paris Rive Gauche"
+      }
+    },
+    {
+      "source": "imj-tga-sorbonne",
+      "person_key": "antoineducros",
+      "school": "sorbonne",
+      "record": {
+        "name": "Antoine Ducros",
+        "title": "Professeur des universités",
+        "research": "IMJ-PRG geometry and topology group",
+        "profile": "",
+        "homepage": "http://webusers.imj-prg.fr/~antoine.ducros/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.imj-prg.fr/tga/membres/",
+        "checked_at": "2026-11-23",
+        "unit": "Institut de Mathématiques de Jussieu – Paris Rive Gauche"
+      }
+    },
+    {
+      "source": "imj-tga-sorbonne",
+      "person_key": "cyrildemarche",
+      "school": "sorbonne",
+      "record": {
+        "name": "Cyril Demarche",
+        "title": "Maître de conférences",
+        "research": "IMJ-PRG geometry and topology group",
+        "profile": "",
+        "homepage": "http://webusers.imj-prg.fr/~cyril.demarche/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.imj-prg.fr/tga/membres/",
+        "checked_at": "2026-11-23",
+        "unit": "Institut de Mathématiques de Jussieu – Paris Rive Gauche"
+      }
+    },
+    {
+      "source": "imj-tga-sorbonne",
+      "person_key": "elbagarciafailde",
+      "school": "sorbonne",
+      "record": {
+        "name": "Elba Garcia-Failde",
+        "title": "Maîtresse de conférences",
+        "research": "IMJ-PRG geometry and topology group",
+        "profile": "",
+        "homepage": "https://elbagarciafailde.wixsite.com/math",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.imj-prg.fr/tga/membres/",
+        "checked_at": "2026-11-23",
+        "unit": "Institut de Mathématiques de Jussieu – Paris Rive Gauche"
+      }
+    },
+    {
+      "source": "imj-tga-sorbonne",
+      "person_key": "emmanuellepage",
+      "school": "sorbonne",
+      "record": {
+        "name": "Emmanuel Lepage",
+        "title": "Maître de conférences",
+        "research": "IMJ-PRG geometry and topology group",
+        "profile": "",
+        "homepage": "http://webusers.imj-prg.fr/~emmanuel.lepage/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.imj-prg.fr/tga/membres/",
+        "checked_at": "2026-11-23",
+        "unit": "Institut de Mathématiques de Jussieu – Paris Rive Gauche"
+      }
+    },
+    {
+      "source": "imj-tga-sorbonne",
+      "person_key": "laurentkoelblen",
+      "school": "sorbonne",
+      "record": {
+        "name": "Laurent Koelblen",
+        "title": "Maître de conférences",
+        "research": "IMJ-PRG geometry and topology group",
+        "profile": "",
+        "homepage": "http://webusers.imj-prg.fr/~laurent.koelblen/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.imj-prg.fr/tga/membres/",
+        "checked_at": "2026-11-23",
+        "unit": "Institut de Mathématiques de Jussieu – Paris Rive Gauche"
+      }
+    },
+    {
+      "source": "imj-tga-sorbonne",
+      "person_key": "lioneldarondeau",
+      "school": "sorbonne",
+      "record": {
+        "name": "Lionel Darondeau",
+        "title": "Maître de conférences",
+        "research": "IMJ-PRG geometry and topology group",
+        "profile": "",
+        "homepage": "http://webusers.imj-prg.fr/~lionel.darondeau/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.imj-prg.fr/tga/membres/",
+        "checked_at": "2026-11-23",
+        "unit": "Institut de Mathématiques de Jussieu – Paris Rive Gauche"
+      }
+    },
+    {
+      "source": "imj-tga-sorbonne",
+      "person_key": "marcomaculan",
+      "school": "sorbonne",
+      "record": {
+        "name": "Marco Maculan",
+        "title": "Maître de conférences",
+        "research": "IMJ-PRG geometry and topology group",
+        "profile": "",
+        "homepage": "http://webusers.imj-prg.fr/~marco.maculan/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.imj-prg.fr/tga/membres/",
+        "checked_at": "2026-11-23",
+        "unit": "Institut de Mathématiques de Jussieu – Paris Rive Gauche"
+      }
+    },
+    {
+      "source": "imj-tga-sorbonne",
+      "person_key": "mathieuflorence",
+      "school": "sorbonne",
+      "record": {
+        "name": "Mathieu Florence",
+        "title": "Maître de conférences",
+        "research": "IMJ-PRG geometry and topology group",
+        "profile": "",
+        "homepage": "http://webusers.imj-prg.fr/~mathieu.florence/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.imj-prg.fr/tga/membres/",
+        "checked_at": "2026-11-23",
+        "unit": "Institut de Mathématiques de Jussieu – Paris Rive Gauche"
+      }
+    },
+    {
+      "source": "imj-tga-sorbonne",
+      "person_key": "vleremehmeti",
+      "school": "sorbonne",
+      "record": {
+        "name": "Vlerë Mehmeti",
+        "title": "Maîtresse de conférences",
+        "research": "IMJ-PRG geometry and topology group",
+        "profile": "",
+        "homepage": "http://webusers.imj-prg.fr/~vlere.mehmeti/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.imj-prg.fr/tga/membres/",
+        "checked_at": "2026-11-23",
+        "unit": "Institut de Mathématiques de Jussieu – Paris Rive Gauche"
       }
     },
     {
@@ -70019,6 +72059,118 @@
       }
     },
     {
+      "source": "sichuan-math",
+      "person_key": "熊昌伟",
+      "school": "sichuan",
+      "record": {
+        "name": "熊昌伟",
+        "title": "",
+        "research": "",
+        "profile": "http://faculty.scu.edu.cn/xiongchangwei/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.scu.edu.cn/xyjs.jsp?id=1028&lang=zh_CN&st=0&urltype=tsites.CollegeTeacherList&wbtreeid=1012",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "sichuan-math",
+      "person_key": "申力立",
+      "school": "sichuan",
+      "record": {
+        "name": "申力立",
+        "title": "",
+        "research": "",
+        "profile": "http://faculty.scu.edu.cn/shenlili/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.scu.edu.cn/xyjs.jsp?id=1028&lang=zh_CN&st=0&urltype=tsites.CollegeTeacherList&wbtreeid=1012",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "sichuan-math",
+      "person_key": "石云峰",
+      "school": "sichuan",
+      "record": {
+        "name": "石云峰",
+        "title": "",
+        "research": "",
+        "profile": "http://faculty.scu.edu.cn/shiyunfeng/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.scu.edu.cn/xyjs.jsp?id=1028&lang=zh_CN&st=0&urltype=tsites.CollegeTeacherList&wbtreeid=1012",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "sichuan-math",
+      "person_key": "程建峰",
+      "school": "sichuan",
+      "record": {
+        "name": "程建峰",
+        "title": "",
+        "research": "",
+        "profile": "http://faculty.scu.edu.cn/chengjianfeng/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.scu.edu.cn/xyjs.jsp?id=1028&lang=zh_CN&st=0&urltype=tsites.CollegeTeacherList&wbtreeid=1012",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "sichuan-math",
+      "person_key": "耿圣飞",
+      "school": "sichuan",
+      "record": {
+        "name": "耿圣飞",
+        "title": "",
+        "research": "",
+        "profile": "http://faculty.scu.edu.cn/gengshengfei/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.scu.edu.cn/xyjs.jsp?id=1028&lang=zh_CN&st=0&urltype=tsites.CollegeTeacherList&wbtreeid=1012",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "sichuan-math",
+      "person_key": "赖洪亮",
+      "school": "sichuan",
+      "record": {
+        "name": "赖洪亮",
+        "title": "",
+        "research": "",
+        "profile": "http://faculty.scu.edu.cn/laihongliang/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.scu.edu.cn/xyjs.jsp?id=1028&lang=zh_CN&st=0&urltype=tsites.CollegeTeacherList&wbtreeid=1012",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "sichuan-math",
+      "person_key": "马强",
+      "school": "sichuan",
+      "record": {
+        "name": "马强",
+        "title": "",
+        "research": "",
+        "profile": "http://faculty.scu.edu.cn/maqiang/zh_CN/index.htm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.scu.edu.cn/xyjs.jsp?id=1028&lang=zh_CN&st=0&urltype=tsites.CollegeTeacherList&wbtreeid=1012",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
       "source": "sissa-geo",
       "person_key": "alessandrotanzini",
       "school": "sissa",
@@ -78667,6 +80819,567 @@
         "source_url": "https://db.ipmu.jp/member/memberen.html",
         "checked_at": "2026-11-23",
         "unit": "Kavli IPMU"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "alexanderrennet",
+      "school": "toronto",
+      "record": {
+        "name": "Alexander Rennet",
+        "title": "Associate Professor, Teaching Stream & Associate Chair (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/alexander-rennet",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "alimousavidehshikh",
+      "school": "toronto",
+      "record": {
+        "name": "Ali Mousavidehshikh",
+        "title": "Assistant Professor, Teaching Stream, (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/ali-mousavidehshikh",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "andrijanaandieburazin",
+      "school": "toronto",
+      "record": {
+        "name": "Andrijana (Andie) Burazin",
+        "title": "Associate Professor, Teaching Stream (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/andrijana-andie-burazin",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "arulshankar",
+      "school": "toronto",
+      "record": {
+        "name": "Arul Shankar",
+        "title": "Professor (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/arul-shankar",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "duncandauvergne",
+      "school": "toronto",
+      "record": {
+        "name": "Duncan Dauvergne",
+        "title": "Assistant Professor (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/duncan-dauvergne",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "ehsaanhossain",
+      "school": "toronto",
+      "record": {
+        "name": "Ehsaan Hossain",
+        "title": "Assistant Professor, Teaching Stream (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/ehsaan-hossain",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "emmymurphy",
+      "school": "toronto",
+      "record": {
+        "name": "Emmy Murphy",
+        "title": "Professor (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/emmy-murphy",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "iliabinder",
+      "school": "toronto",
+      "record": {
+        "name": "Ilia Binder",
+        "title": "Professor (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/ilia-binder",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "ivankhatchatourian",
+      "school": "toronto",
+      "record": {
+        "name": "Ivan Khatchatourian",
+        "title": "Assistant Professor, Teaching Stream (LTA) (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/ivan-khatchatourian",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "jacopodesimoi",
+      "school": "toronto",
+      "record": {
+        "name": "Jacopo De Simoi",
+        "title": "Professor (MATH) & Chair",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/jacopo-de-simoi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "jaimalthind",
+      "school": "toronto",
+      "record": {
+        "name": "Jaimal Thind",
+        "title": "Associate Professor, Teaching Stream (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/jaimal-thind",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "jonathanherman",
+      "school": "toronto",
+      "record": {
+        "name": "Jonathan Herman",
+        "title": "Assistant Professor, Teaching Stream (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/jonathan-herman",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "juliedesjardins",
+      "school": "toronto",
+      "record": {
+        "name": "Julie Desjardins",
+        "title": "Assistant Professor (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/julie-desjardins",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "kezhang",
+      "school": "toronto",
+      "record": {
+        "name": "Ke Zhang",
+        "title": "Professor (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/ke-zhang",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "konstantinkhanin",
+      "school": "toronto",
+      "record": {
+        "name": "Konstantin Khanin",
+        "title": "Professor (MATH) (on sabbatical)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/konstantin-khanin",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "luisseco",
+      "school": "toronto",
+      "record": {
+        "name": "Luis Seco",
+        "title": "Professor (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/luis-seco",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "mariawesslen",
+      "school": "toronto",
+      "record": {
+        "name": "Maria Wesslén",
+        "title": "Associate Professor, Teaching Stream (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/maria-wesslen",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "marinatvalavadze",
+      "school": "toronto",
+      "record": {
+        "name": "Marina Tvalavadze",
+        "title": "Associate Professor, Teaching Stream (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/marina-tvalavadze",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "maryamkhaqan",
+      "school": "toronto",
+      "record": {
+        "name": "Maryam Khaqan",
+        "title": "Assistant Professor, Teaching Stream (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/maryam-khaqan",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "michaelgroechenig",
+      "school": "toronto",
+      "record": {
+        "name": "Michael Groechenig",
+        "title": "Professor (MATH) & Vice Chair (MATH & STATS)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/michael-groechenig",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "michaelyampolsky",
+      "school": "toronto",
+      "record": {
+        "name": "Michael Yampolsky",
+        "title": "Professor (MATH) & Director, Centre for Nonlinear Analysis and Modeling (CNAM)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/michael-yampolsky",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "michealpawliuk",
+      "school": "toronto",
+      "record": {
+        "name": "Micheal Pawliuk",
+        "title": "Assistant Professor, Teaching Stream (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/micheal-pawliuk",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "nadyaaskaripour",
+      "school": "toronto",
+      "record": {
+        "name": "Nadya Askaripour",
+        "title": "Assistant Professor, Teaching Stream (LTA) (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/nadya-askaripour",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "nikimyrtomavraki",
+      "school": "toronto",
+      "record": {
+        "name": "Niki Myrto Mavraki",
+        "title": "Assistant Profesor (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/niki-myrto-mavraki",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "qunwang",
+      "school": "toronto",
+      "record": {
+        "name": "Qun Wang",
+        "title": "Assistant Professor, Teaching Stream (LTA) (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/qun-wang",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "shayfuchs",
+      "school": "toronto",
+      "record": {
+        "name": "Shay Fuchs",
+        "title": "Professor, Teaching Stream (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/shay-fuchs",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "spencerunger",
+      "school": "toronto",
+      "record": {
+        "name": "Spencer Unger",
+        "title": "Associate Professor (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/spencer-unger",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "stephenstevekudla",
+      "school": "toronto",
+      "record": {
+        "name": "Stephen (Steve) Kudla",
+        "title": "Professor (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/stephen-steve-kudla",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "timothyyusun",
+      "school": "toronto",
+      "record": {
+        "name": "Timothy Yusun",
+        "title": "Associate Professor, Teaching Stream (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/timothy-yusun",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "tylerholden",
+      "school": "toronto",
+      "record": {
+        "name": "Tyler Holden",
+        "title": "Associate Professor, Teaching Stream (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/tyler-holden",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "vasutewari",
+      "school": "toronto",
+      "record": {
+        "name": "Vasu Tewari",
+        "title": "Assistant Professor (CLTA) (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/vasu-tewari",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "yakovshlapentokhrothman",
+      "school": "toronto",
+      "record": {
+        "name": "Yakov Shlapentokh-Rothman",
+        "title": "Assistant Professor (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/yakov-shlapentokh-rothman",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
+      }
+    },
+    {
+      "source": "toronto-mississauga-faculty",
+      "person_key": "yevgenyliokumovich",
+      "school": "toronto",
+      "record": {
+        "name": "Yevgeny Liokumovich",
+        "title": "Associate Professor (MATH)",
+        "research": "",
+        "profile": "https://www.utm.utoronto.ca/math-cs-stats/people/yevgeny-liokumovich",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.utm.utoronto.ca/math-cs-stats/people",
+        "checked_at": "2026-11-23",
+        "unit": "University of Toronto Mississauga"
       }
     },
     {
@@ -113646,6 +116359,899 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://faculty.csu.edu.cn/FANGQL76/zh_CN/index.htm",
+      "cache_id": "profile-30a6d1e624c245fa",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/cenxiuli/zh_CN/index.htm",
+      "cache_id": "profile-86065f1b121678a4",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 微分方程定性与分支理论",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/chenhaibo/zh_CN/index.htm",
+      "cache_id": "profile-5cfcaf8d88938892",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/chenhebai/zh_CN/index.htm",
+      "cache_id": "profile-c43ed1924abd507f",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/chenkai12/zh_CN/index.htm",
+      "cache_id": "profile-6b648c46e180e6cc",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/chensitong/zh_CN/index.htm",
+      "cache_id": "profile-08c4ddfd2819d487",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/daibinxiang/zh_CN/index.htm",
+      "cache_id": "profile-cb7258093fdaedca",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 泛函微分方程与离散动力系统。",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/dengsonghai/zh_CN/index.htm",
+      "cache_id": "profile-60330ef66d602d6e",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/dengyoujun/zh_CN/index.htm",
+      "cache_id": "profile-6afde00ed6e4ef29",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 隐形",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/dongguozhi/zh_CN/index.htm",
+      "cache_id": "profile-e6d414b683da4384",
+      "status": "parsed",
+      "record": {
+        "research": "[1] Mathematics of scientific deep learning and their applications",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/fenglihua/zh_CN/index.htm",
+      "cache_id": "profile-4ca47929f57f8c04",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 极值组合学，代数组合学，组合矩阵论，图论及其应用",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/gansiqing/zh_CN/index.htm",
+      "cache_id": "profile-6c3eca8ca8dde506",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/gongjiajia/zh_CN/index.htm",
+      "cache_id": "profile-e3f51c5cc5dd8270",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/guoji/zh_CN/index.htm",
+      "cache_id": "profile-e8b7b4d98fa3d9d6",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 数论（丢番图几何），复变函数（值分布理论）",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/guotiexin/zh_CN/index.htm",
+      "cache_id": "profile-c47484c19d13018c",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 泛函分析",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/guoyaoqi/zh_CN/index.htm",
+      "cache_id": "profile-6a5a45295b491a04",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/hebing/zh_CN/index.htm",
+      "cache_id": "profile-979193d0ebbb089a",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/hefuli/zh_CN/index.htm",
+      "cache_id": "profile-77c5023c091c7397",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 复分析",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/houmuzhou/zh_CN/index.htm",
+      "cache_id": "profile-ee342b2e1a83c73b",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/huzhi/zh_CN/index.htm",
+      "cache_id": "profile-4c21d22f573f414c",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/liangruixi/zh_CN/index.htm",
+      "cache_id": "profile-16a84dbf75501891",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/lijiangtao12/zh_CN/index.htm",
+      "cache_id": "profile-8abb47c364d32782",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/liucheng/zh_CN/index.htm",
+      "cache_id": "profile-b0cfb83e3cf8bde7",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 组合优化，物流工程",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/liujiayi/zh_CN/index.htm",
+      "cache_id": "profile-cd69e86dacaa8f2d",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/liuqiao/zh_CN/index.htm",
+      "cache_id": "profile-c455d481796a8092",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/liushengjun/zh_CN/index.htm",
+      "cache_id": "profile-a85b43e93e377d5b",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 几何智能计算",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/liuxinge/zh_CN/index.htm",
+      "cache_id": "profile-59b898db34625ea4",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 神经网络,",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/liuxinru/zh_CN/index.htm",
+      "cache_id": "profile-8714375e16d88bfa",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/liuyuanyuan/zh_CN/index.htm",
+      "cache_id": "profile-dce03165763ec88b",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 应用概率；马氏过程；数理金融；排队网络",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/liuzaiming/zh_CN/index.htm",
+      "cache_id": "profile-583408246198f9d7",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 马尔可夫过程及其应用",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/lixiaoai/zh_CN/index.htm",
+      "cache_id": "profile-0b9daea25463a2aa",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/lizhibao/zh_CN/index.htm",
+      "cache_id": "profile-d1c048258b3a1476",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 数学优化方法与应用：半变分不等式、张量方程组",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/lizhouxin/zh_CN/index.htm",
+      "cache_id": "profile-8bb191cbde8a1d73",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/longlong/zh_CN/index.htm",
+      "cache_id": "profile-466c98fb0a78a28e",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/lulu/zh_CN/index.htm",
+      "cache_id": "profile-4a264a940091b935",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/luosijie/zh_CN/index.htm",
+      "cache_id": "profile-5594cd3ea0320b7b",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/mapan/zh_CN/index.htm",
+      "cache_id": "profile-434c639f48588695",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/miaocunqiang/zh_CN/index.htm",
+      "cache_id": "profile-cb9656dced59a4a5",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/ningjiafu/zh_CN/index.htm",
+      "cache_id": "profile-39fef5868da20f04",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 多复变与复几何",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/niuyuanling/zh_CN/index.htm",
+      "cache_id": "profile-358603820abbfae2",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/pankejia/zh_CN/index.htm",
+      "cache_id": "profile-ba463cceb9469817",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/pengjun2/zh_CN/index.htm",
+      "cache_id": "profile-02fa65c05d1ecb7f",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/penglihua/zh_CN/index.htm",
+      "cache_id": "profile-9db32d980092d8e4",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/qiaoyixiao/zh_CN/index.htm",
+      "cache_id": "profile-002636c267f6496a",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/qindongdong/zh_CN/index.htm",
+      "cache_id": "profile-299f1c087ddffa06",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/renyeqing/zh_CN/index.htm",
+      "cache_id": "profile-ba41f03f36618f4e",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/shizuoshunhua/zh_CN/index.htm",
+      "cache_id": "profile-92e56e81e236fcf6",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/tangmeilan/zh_CN/index.htm",
+      "cache_id": "profile-ec51e718d59aeb3c",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/tangxianhua/zh_CN/index.htm",
+      "cache_id": "profile-e485cd0f2a964c01",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 非线性偏微分方程、泛函微分方程理论及应用、差分方程理论及应用、Hamilton系统.",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/wanghongqiao/zh_CN/index.htm",
+      "cache_id": "profile-f882e8d13c233ffe",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/wangli12345678/zh_CN/index.htm",
+      "cache_id": "profile-99b35d60cd286578",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/wanglu/zh_CN/index.htm",
+      "cache_id": "profile-be30d72df0631efb",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/wangming/zh_CN/index.htm",
+      "cache_id": "profile-b500523aa1958c9d",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/wangxiaojie/zh_CN/index.htm",
+      "cache_id": "profile-a4b6c005f5b5567e",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/wanzhong/zh_CN/index.htm",
+      "cache_id": "profile-2757872ca7a98d9d",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 在数据驱动建模和机器学习优化算法研究方面，提出了刻画复杂数据分布的新型不确定性集构造优化方法，它能在一定置信水平下用最小区域覆盖尽量多样本点，克服了已有鲁棒优化存在的过保守性；构建了基于正则化技术的非负矩阵分解优化模型和算法，能精准聚类、降维和特征辨识。主要成果发表于《Pattern Recognition》，《EAAI》",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/wh/zh_CN/index.htm",
+      "cache_id": "profile-b119b6a31d35c5a1",
+      "status": "source_error",
+      "record": null,
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/wujinbiao/zh_CN/index.htm",
+      "cache_id": "profile-dc41fb07deb89296",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/wulian/zh_CN/index.htm",
+      "cache_id": "profile-e955edf98f83b9a8",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 非交换分析",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/wuxiaochun/zh_CN/index.htm",
+      "cache_id": "profile-5eb645b0fd4ba09a",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 偏微分方程",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/xiangshuhuang/zh_CN/index.htm",
+      "cache_id": "profile-7fc6e00b7159a42b",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/xieguangheng1/zh_CN/index.htm",
+      "cache_id": "profile-7990bad577b7bc85",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/xieweihong/zh_CN/index.htm",
+      "cache_id": "profile-fcb7e0ee133e3612",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 非线性偏微分方程与共形几何",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/xuyufeng/zh_CN/index.htm",
+      "cache_id": "profile-30a47bf1a62a7242",
+      "status": "parsed",
+      "record": {
+        "research": "[1] Mathematical Models from Combustion Process",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/yangdonghui/zh_CN/index.htm",
+      "cache_id": "profile-a0ca363fcc253faf",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 偏微分方程的控制理论、偏微分的形状最优化理论。如若查阅论文，请见 AMS。",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/yangrui/zh_CN/index.htm",
+      "cache_id": "profile-147e42abc1da6c87",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/yingjinyong/zh_CN/index.htm",
+      "cache_id": "profile-a09eeb7e53cce3ba",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/yinzhi/zh_CN/index.htm",
+      "cache_id": "profile-f63f707cc921b73e",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/yundongfang/zh_CN/index.htm",
+      "cache_id": "profile-823022bbad9b427c",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/zhanghongwei/zh_CN/index.htm",
+      "cache_id": "profile-1b78ad677e023597",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/zhangwei/zh_CN/index.htm",
+      "cache_id": "profile-d580eac2c335d74f",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 应用统计",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/zhangxiaojiang/zh_CN/index.htm",
+      "cache_id": "profile-01772b9d3d576fb5",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/zhangxu/zh_CN/index.htm",
+      "cache_id": "profile-aeda82294c0b0284",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 非线性泛函分析",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/zhengzhoushun/zh_CN/index.htm",
+      "cache_id": "profile-e517a83484804a80",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/zhoudejian/zh_CN/index.htm",
+      "cache_id": "profile-a3248bd555dcb899",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 经典鞅论与非交换鞅论：鞅论、泛函分析、调和分析以及算子代数的交叉学科，属于基础数学",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/zhouhuacheng/zh_CN/index.htm",
+      "cache_id": "profile-3f21c08aad77da42",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 分布参数系统",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/zhouqingping/zh_CN/index.htm",
+      "cache_id": "profile-a79944e17b372b3e",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://faculty.csu.edu.cn/zhouyue/zh_CN/index.htm",
+      "cache_id": "profile-ed3c526b19eb1cc6",
+      "status": "parsed",
+      "record": {
+        "research": "[1] 代数组合学",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-23"
+      },
+      "checked_at": "2026-11-23"
+    },
+    {
       "url": "https://irma.math.unistra.fr/~ancona/",
       "cache_id": "profile-a87533b9dbc6ca4e",
       "status": "parsed",
@@ -131127,6 +134733,10 @@
     }
   ],
   "metrics": {
+    "andrew-dancer": {
+      "status": "identity_review",
+      "reason": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。"
+    },
     "anton-mellit": {
       "status": "review_ready",
       "author_id": "A5055419764",
@@ -131322,6 +134932,10 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "damian-charles-rossler": {
+      "status": "identity_review",
+      "reason": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。"
+    },
     "diane-maclagan": {
       "status": "review_ready",
       "author_id": "A5026259487",
@@ -131374,6 +134988,26 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "francis-brown": {
+      "status": "review_ready",
+      "author_id": "A5057969937",
+      "papers": [],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5057969937",
+        "orcid": "https://orcid.org/0000-0002-9295-2572",
+        "url": "https://openalex.org/authors/A5057969937",
+        "authorApiUrl": "https://api.openalex.org/authors/A5057969937",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5057969937,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-23",
+        "articles": 42,
+        "works": 95,
+        "citations": 5259,
+        "hIndex": 36,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "jarod-daniel-alper": {
       "status": "review_ready",
       "author_id": "A5023719219",
@@ -131399,6 +135033,10 @@
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
       }
+    },
+    "jason-d-lotay": {
+      "status": "identity_review",
+      "reason": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。"
     },
     "jeffrey-case": {
       "status": "review_ready",
@@ -131447,6 +135085,46 @@
         "works": 84,
         "citations": 1270,
         "hIndex": 21,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "konstantin-ardakov": {
+      "status": "review_ready",
+      "author_id": "A5002685409",
+      "papers": [],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5002685409",
+        "orcid": "https://orcid.org/0000-0002-5011-022X",
+        "url": "https://openalex.org/authors/A5002685409",
+        "authorApiUrl": "https://api.openalex.org/authors/A5002685409",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5002685409,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-23",
+        "articles": 29,
+        "works": 47,
+        "citations": 626,
+        "hIndex": 14,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "li-buyang": {
+      "status": "review_ready",
+      "author_id": "A5039197834",
+      "papers": [],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5039197834",
+        "orcid": "https://orcid.org/0000-0001-7566-3464",
+        "url": "https://openalex.org/authors/A5039197834",
+        "authorApiUrl": "https://api.openalex.org/authors/A5039197834",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5039197834,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-23",
+        "articles": 129,
+        "works": 162,
+        "citations": 4950,
+        "hIndex": 37,
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
       }
@@ -131705,6 +135383,26 @@
       "status": "identity_review",
       "reason": "论文作者姓名没有唯一匹配。"
     },
+    "tapio-rajala": {
+      "status": "review_ready",
+      "author_id": "A5041041984",
+      "papers": [],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5041041984",
+        "orcid": "https://orcid.org/0000-0001-6450-9656",
+        "url": "https://openalex.org/authors/A5041041984",
+        "authorApiUrl": "https://api.openalex.org/authors/A5041041984",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5041041984,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-23",
+        "articles": 64,
+        "works": 82,
+        "citations": 1536,
+        "hIndex": 19,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "tobias-holck-colding": {
       "status": "review_ready",
       "author_id": "A5014724625",
@@ -131757,6 +135455,10 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "victor-flynn": {
+      "status": "identity_review",
+      "reason": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。"
+    },
     "william-minicozzi": {
       "status": "review_ready",
       "author_id": "A5070168028",
@@ -131782,6 +135484,10 @@
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
       }
+    },
+    "xenia-de-la-ossa": {
+      "status": "identity_review",
+      "reason": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。"
     },
     "yoshinori-namikawa": {
       "status": "identity_review",

@@ -59,7 +59,7 @@
     {
       "id": "oxford",
       "coverage": "sample",
-      "coverageNote": "已解析 2/4 个登记来源，17 条任职或方向待核。 已收录 9 位学者，个人主页 0、CV 3、指标 0。",
+      "coverageNote": "已解析 2/4 个登记来源，17 条任职或方向待核。 已收录 9 位学者，个人主页 0、CV 3、指标 2。",
       "rosterLinks": [
         [
           "Mathematical Institute Algebra Group",
@@ -118,15 +118,15 @@
     },
     {
       "id": "sorbonne",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/1 个登记来源，10 条任职或方向待核。",
       "rosterLinks": [
         [
           "IMJ-PRG TGA（联合机构，任职逐人核对）",
           "https://www.imj-prg.fr/tga/membres/"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "stanford",
@@ -214,9 +214,17 @@
     },
     {
       "id": "ut-austin",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 0/4 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 0、CV 0、指标 0。 官方目录内容待提取。",
       "rosterLinks": [
+        [
+          "数学系 Algebra",
+          "https://math.utexas.edu/research/algebra"
+        ],
+        [
+          "数学系 Geometry",
+          "https://math.utexas.edu/research/geometry"
+        ],
         [
           "数学系 Directory",
           "https://math.utexas.edu/directory"
@@ -314,20 +322,20 @@
     },
     {
       "id": "paris-cite",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/1 个登记来源，8 条任职或方向待核。",
       "rosterLinks": [
         [
           "IMJ-PRG TGA（联合机构，任职逐人核对）",
           "https://www.imj-prg.fr/tga/membres/"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "toronto",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/4 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/5 个登记来源，32 条任职或方向待核。 已收录 3 位学者，个人主页 2、CV 1、指标 0。",
       "rosterLinks": [
         [
           "数学系 About the Department（旧站）",
@@ -344,9 +352,13 @@
         [
           "数学 Graduate Calendar",
           "https://sgs.calendar.utoronto.ca/degree/Mathematics"
+        ],
+        [
+          "Mississauga · Mathematics Faculty",
+          "https://www.utm.utoronto.ca/math-cs-stats/people"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "columbia",
@@ -486,9 +498,13 @@
     },
     {
       "id": "geneva",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 0/5 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 0、CV 0、指标 0。 官方目录内容待提取。",
       "rosterLinks": [
+        [
+          "Section of Mathematics · Faculty and Researchers",
+          "https://www.unige.ch/math/en/section/enseignants-et-chercheurs-2"
+        ],
         [
           "Section de mathématiques · Groupes de recherche",
           "https://www.unige.ch/math/recherche/groupes-de-recherche"
@@ -496,6 +512,14 @@
         [
           "Section de mathématiques · Enseignants et chercheurs",
           "https://www.unige.ch/math/la-section/enseignants-et-chercheurs"
+        ],
+        [
+          "Section de mathématiques · Groupes de recherche",
+          "https://www.unige.ch/math/recherche/groupes-de-recherche"
+        ],
+        [
+          "Geneva University Tropical Group",
+          "https://www.unige.ch/math/tggroup/doku.php?id=start"
         ]
       ],
       "checkedAt": null
@@ -743,7 +767,7 @@
     {
       "id": "king-abdulaziz",
       "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
       "rosterLinks": [
         [
           "Faculty of Science · Mathematics Department",
@@ -752,6 +776,10 @@
         [
           "Department of Mathematics Faculty Members",
           "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a"
+        ],
+        [
+          "Department of Mathematics · Management and faculty links",
+          "https://kau.edu.sa/faculty/en/science/page/Management-of-Mathematics-Department"
         ]
       ],
       "checkedAt": null
@@ -871,15 +899,23 @@
     {
       "id": "zju",
       "coverage": "sample",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 0。 官方目录内容待提取。",
+      "coverageNote": "已解析 0/4 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 0、指标 0。 官方目录内容待提取。",
       "rosterLinks": [
         [
           "浙江大学王枫公开主页",
           "https://mypage.zju.edu.cn/0014136"
         ],
         [
+          "数学科学学院江文帅教师主页",
+          "https://person.zju.edu.cn/0016170"
+        ],
+        [
           "数学科学学院教师王枫（英文版）",
           "https://person.zju.edu.cn/en/0014136"
+        ],
+        [
+          "数学科学学院吴洁教师主页",
+          "https://person.zju.edu.cn/0014168"
         ]
       ],
       "checkedAt": null
@@ -910,8 +946,8 @@
     },
     {
       "id": "central-south",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/5 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 5/10 个登记来源，75 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 0。",
       "rosterLinks": [
         [
           "数学与统计学院专任教师",
@@ -926,6 +962,26 @@
           "https://math.csu.edu.cn/szdw.htm"
         ],
         [
+          "数学与统计学院教师名录 · 第 1 页",
+          "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=1&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002"
+        ],
+        [
+          "数学与统计学院教师名录 · 第 2 页",
+          "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=2&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002"
+        ],
+        [
+          "数学与统计学院教师名录 · 第 3 页",
+          "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=3&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002"
+        ],
+        [
+          "数学与统计学院教师名录 · 第 4 页",
+          "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=4&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002"
+        ],
+        [
+          "数学与统计学院教师名录 · 第 5 页",
+          "https://faculty.csu.edu.cn/er_teacher_list.jsp?PAGENUM=5&id=1008&lang=zh_CN&st=0&totalpage=5&urltype=tsites.CollegeTeacherList&wbtreeid=1002"
+        ],
+        [
           "基础数学系教授",
           "https://math.csu.edu.cn/szdw/jcsxx/js.htm"
         ],
@@ -934,7 +990,7 @@
           "https://math.csu.edu.cn/szdw/jcsxx.htm"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "georgia-tech",
@@ -1362,12 +1418,16 @@
     },
     {
       "id": "jean-monnet",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 0/4 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 0。 官方目录内容待提取。",
       "rosterLinks": [
         [
           "Institut Camille Jordan",
           "https://www.univ-st-etienne.fr/fr/icj.html"
+        ],
+        [
+          "Institut Camille Jordan · Annuaire des personnels",
+          "https://math.univ-lyon1.fr/icj/annuaire-des-personnels/"
         ],
         [
           "Institut Camille Jordan · Membres du site stéphanois",
@@ -1478,15 +1538,15 @@
     },
     {
       "id": "sichuan",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/1 个登记来源，7 条任职或方向待核。",
       "rosterLinks": [
         [
           "数学学院教师列表",
           "https://faculty.scu.edu.cn/xyjs.jsp?id=1028&lang=zh_CN&st=0&urltype=tsites.CollegeTeacherList&wbtreeid=1012"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "technion",
@@ -1503,7 +1563,7 @@
     {
       "id": "polyu",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，42 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 0。",
+      "coverageNote": "已解析 1/1 个登记来源，42 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 1。",
       "rosterLinks": [
         [
           "应用数学系 Academic Staff",
@@ -1567,7 +1627,7 @@
     {
       "id": "jyvaskyla",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，8 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 0。",
+      "coverageNote": "已解析 1/1 个登记来源，8 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 1。",
       "rosterLinks": [
         [
           "Department of Mathematics and Statistics · Contact Information",
@@ -2090,6 +2150,42 @@
       "recordStatus": "directory"
     },
     {
+      "id": "person-4e61ea310f91",
+      "name": "宁家福",
+      "affiliations": [
+        {
+          "schoolId": "central-south",
+          "department": "数学系",
+          "title": "副教授",
+          "url": "https://faculty.csu.edu.cn/ningjiafu/zh_CN/index.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "complex"
+      ],
+      "tags": [
+        "[1] 多复变与复几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "[1] 多复变与复几何",
+          "url": "https://faculty.csu.edu.cn/ningjiafu/zh_CN/index.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
       "id": "chao-li",
       "name": "Chao Li",
       "affiliations": [
@@ -2494,6 +2590,78 @@
       "recordStatus": "directory"
     },
     {
+      "id": "dario-beraldo",
+      "name": "Dario Beraldo",
+      "affiliations": [
+        {
+          "schoolId": "geneva",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/dario-beraldo",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Geometric representation theory and arithmetic geometry"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometric representation theory and arithmetic geometry",
+          "url": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/dario-beraldo"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "grigory-mikhalkin",
+      "name": "Grigory Mikhalkin",
+      "affiliations": [
+        {
+          "schoolId": "geneva",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/grigory-mikhalkin",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Tropical algebraic geometry and enumerative geometry"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Tropical algebraic geometry and enumerative geometry",
+          "url": "https://www.unige.ch/math/tggroup/doku.php?id=start"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
       "id": "philippe-eyssidieux",
       "name": "Philippe Eyssidieux",
       "affiliations": [
@@ -2807,6 +2975,42 @@
       "recordStatus": "directory"
     },
     {
+      "id": "michael-bulois",
+      "name": "Michaël Bulois",
+      "affiliations": [
+        {
+          "schoolId": "jean-monnet",
+          "department": "Institut Camille Jordan",
+          "title": "Maître de conférences",
+          "url": "https://perso.univ-st-etienne.fr/bm29130h/pageperso/index.php?lg=fr",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry and representation theory"
+      ],
+      "homepage": "https://perso.univ-st-etienne.fr/bm29130h/pageperso/index.php?lg=fr",
+      "cvUrl": "https://perso.univ-st-etienne.fr/bm29130h/pageperso/pdf/CV_bulois_francais.pdf",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and representation theory",
+          "url": "https://perso.univ-st-etienne.fr/bm29130h/pageperso/index.php?lg=fr"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
       "id": "tapio-rajala",
       "name": "Tapio Rajala",
       "affiliations": [
@@ -2827,8 +3031,24 @@
       "cvUrl": null,
       "cvStatus": "独立 CV 待核对。",
       "publicationsUrl": "https://users.jyu.fi/~tamaraja/publications.html",
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5041041984",
+          "orcid": "https://orcid.org/0000-0001-6450-9656",
+          "url": "https://openalex.org/authors/A5041041984",
+          "authorApiUrl": "https://api.openalex.org/authors/A5041041984",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5041041984,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 64,
+          "works": 82,
+          "citations": 1536,
+          "hIndex": 19,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
@@ -2838,6 +3058,10 @@
         },
         {
           "text": "My research focuses on geometric analysis, geometric measure theory, and metric geometry. In particular, I study Sobolev-spaces both in the Euclidean setting as well as in general metric measure spaces. One tool in studying Sobolev-spaces has been optimal mass transportation. I have also studied questions in optimal mass transportation more generally and for example its connections to curvature lower bounds and to density functional theory. / Research interests My research focuses on geometric analysis, geometric measure theory, and metric geometry. In particular, I study Sobolev-spaces both in the Euclidean setting as well as in general metric measure spaces. One tool in studying Sobolev-spaces has been optimal mass transportation. I have also studied questions in optimal mass transportation more generally and for example its connections to curvature lower bounds and to density functional theory.",
+          "url": "https://www.jyu.fi/en/people/tapio-rajala"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://www.jyu.fi/en/people/tapio-rajala"
         }
       ],
@@ -4276,7 +4500,7 @@
       "cvUrl": null,
       "cvStatus": "独立 CV 待核对。",
       "publicationsUrl": null,
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。",
       "metrics": [],
       "identityUrl": null,
       "papers": [],
@@ -4287,6 +4511,10 @@
         },
         {
           "text": "Differential geometry, especially metrics of special curvature such as Einstein metrics and Ricci solitons. Symplectic, hyperkahler and other special geometries. / Research groups Geometry / Research interests Differential geometry, especially metrics of special curvature such as Einstein metrics and Ricci solitons. Symplectic, hyperkahler and other special geometries.",
+          "url": "https://www.maths.ox.ac.uk/people/andrew.dancer"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://www.maths.ox.ac.uk/people/andrew.dancer"
         }
       ],
@@ -4319,7 +4547,7 @@
       "cvUrl": null,
       "cvStatus": "独立 CV 待核对。",
       "publicationsUrl": null,
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。",
       "metrics": [],
       "identityUrl": null,
       "papers": [],
@@ -4330,6 +4558,10 @@
         },
         {
           "text": "Arithmetic algebraic geometry; more precisely: Riemann-Roch theorems, Arakelov theory, values of L-functions, rational points, applications of mathematical logic to diophantine problems, Manin-Mumford and Mordell-Lang conjecture. / Research groups Algebra Geometry Number Theory / Research interests Arithmetic algebraic geometry; more precisely: Riemann-Roch theorems, Arakelov theory, values of L-functions, rational points, applications of mathematical logic to diophantine problems, Manin-Mumford and Mordell-Lang conjecture.",
+          "url": "https://www.maths.ox.ac.uk/people/damian.rossler"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://www.maths.ox.ac.uk/people/damian.rossler"
         }
       ],
@@ -4366,13 +4598,33 @@
       "cvUrl": null,
       "cvStatus": "独立 CV 待核对。",
       "publicationsUrl": null,
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5057969937",
+          "orcid": "https://orcid.org/0000-0002-9295-2572",
+          "url": "https://openalex.org/authors/A5057969937",
+          "authorApiUrl": "https://api.openalex.org/authors/A5057969937",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5057969937,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 42,
+          "works": 95,
+          "citations": 5259,
+          "hIndex": 36,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
         {
           "text": "Mathematical physics and algebraic geometry. Postdoctoral and Ph.D positions available on the ERC synergy grant `Mathematics of Scattering Amplitudes' ( https://inspirehep.net/jobs/2847714 ). For postdoctoral positions in Oxford, see: https://my.corehr.com/pls/uoxrecruit/erq_jobspec_details_form.jobspec?p_id=176934 For D.Phil positions, please apply through the Mathematical Institute, research group `Mathematical Physics', and preferably mention funding source ERC Synergy (not obligatory). / Research groups Number Theory Mathematical Physics",
+          "url": "https://www.maths.ox.ac.uk/people/francis.brown"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://www.maths.ox.ac.uk/people/francis.brown"
         }
       ],
@@ -4444,7 +4696,7 @@
       "cvUrl": null,
       "cvStatus": "独立 CV 待核对。",
       "publicationsUrl": null,
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。",
       "metrics": [],
       "identityUrl": null,
       "papers": [],
@@ -4455,6 +4707,10 @@
         },
         {
           "text": "I work on differential geometry and geometric analysis. I am particularly interested in geometry related with special holonomy and calibrated submanifolds, geometric flows including Lagrangian mean curvature flow and the G 2 -Laplacian flow, as well as gauge theory, typically in higher dimensions, and geometric problems arising from theoretical physics, such as M-Theory and heterotic String Theory. / Research groups Geometry Mathematical Physics Oxford Centre for Nonlinear PDE / Research interests I work on differential geometry and geometric analysis. I am particularly interested in geometry related with special holonomy and calibrated submanifolds, geometric flows including Lagrangian mean curvature flow and the G 2 -Laplacian flow, as well as gauge theory, typically in higher dimensions, and geometric problems arising from theoretical physics, such as M-Theory and heterotic String Theory.",
+          "url": "https://www.maths.ox.ac.uk/people/jason.lotay"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://www.maths.ox.ac.uk/people/jason.lotay"
         }
       ],
@@ -4521,8 +4777,24 @@
       "cvUrl": "https://www.maths.ox.ac.uk/system/files/users/cvs/CV_14.pdf",
       "cvStatus": null,
       "publicationsUrl": null,
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5002685409",
+          "orcid": "https://orcid.org/0000-0002-5011-022X",
+          "url": "https://openalex.org/authors/A5002685409",
+          "authorApiUrl": "https://api.openalex.org/authors/A5002685409",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5002685409,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 29,
+          "works": 47,
+          "citations": 626,
+          "hIndex": 14,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
@@ -4532,6 +4804,10 @@
         },
         {
           "text": "Geometric representation theory Arithmetic algebraic geometry Noncommutative algebra / Research groups Algebra Geometry Number Theory / Research interests Geometric representation theory Arithmetic algebraic geometry Noncommutative algebra",
+          "url": "https://www.maths.ox.ac.uk/people/konstantin.ardakov"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://www.maths.ox.ac.uk/people/konstantin.ardakov"
         }
       ],
@@ -4563,13 +4839,17 @@
       "cvUrl": null,
       "cvStatus": "独立 CV 待核对。",
       "publicationsUrl": null,
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。",
       "metrics": [],
       "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
         {
           "text": "Number Theory, Arithmetic Geometry. In particular, arithmetic problems on Abelian varieties, such as Jacobians of curves; properties of the Shafarevich-Tate group, visualisation, and the Brauer-Manin obstruction. / Research groups Number Theory / Research interests Number Theory, Arithmetic Geometry. In particular, arithmetic problems on Abelian varieties, such as Jacobians of curves; properties of the Shafarevich-Tate group, visualisation, and the Brauer-Manin obstruction.",
+          "url": "https://www.maths.ox.ac.uk/people/victor.flynn"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://www.maths.ox.ac.uk/people/victor.flynn"
         }
       ],
@@ -4600,13 +4880,17 @@
       "cvUrl": null,
       "cvStatus": "独立 CV 待核对。",
       "publicationsUrl": null,
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。",
       "metrics": [],
       "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
         {
           "text": "My research interests are in Mathematical Physics, Geometry and Theoretical Physics, specifically in the mathematical structures arising in String Theory. These include Conformal Field Theories, Differential Geometry, Algebraic Geometry and the Arithmetic of Calabi-Yau Manifolds. / Research groups Mathematical Physics / Research interests My research interests are in Mathematical Physics, Geometry and Theoretical Physics, specifically in the mathematical structures arising in String Theory. These include Conformal Field Theories, Differential Geometry, Algebraic Geometry and the Arithmetic of Calabi-Yau Manifolds.",
+          "url": "https://www.maths.ox.ac.uk/people/xenia.delaossa"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://www.maths.ox.ac.uk/people/xenia.delaossa"
         }
       ],
@@ -6080,14 +6364,34 @@
       "cvUrl": "https://libuyang.com/CV.pdf",
       "cvStatus": null,
       "publicationsUrl": "https://www.polyu.edu.hk/ama/profile/byli/#publication",
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5039197834",
+          "orcid": "https://orcid.org/0000-0001-7566-3464",
+          "url": "https://openalex.org/authors/A5039197834",
+          "authorApiUrl": "https://api.openalex.org/authors/A5039197834",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5039197834,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 129,
+          "works": 162,
+          "citations": 4950,
+          "hIndex": 37,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
         {
           "text": "Interface-tracking FEM for moving interface problems / Unfitted mesh finite element methods / Surface evolution under geometric curvature flows, finite element methods (FEMs) / Pointwise estimates of FEMs, arbitrary Lagrangian-Eulerian method, moving boundary problems / Shape optimization, moving interface, arbitrary Lagrangian-Eulerian method, subidffusion equation / Geometric curvature flows, low-regularity integrators, harmonic map heat flows, maximal L / Nonlinear Schrödinger equation, Navier-Stokes equations, nonsmooth initial data, exponential integrator / Stokes-Darcy system, subdiffusion equation, phase field problems, BDF methods, convolution quadrature / Computational curvature flows, geometric PDEs / Low-regularity integrators for nonlinear dispersive and wave equations / Compressible Euler equations, arbitrary Lagrangian-Eulerian finite element methods, remapping techniques / Geometric curvature flows, finite element methods, fully nonlinear elliptic PDEs / Fluid-structure interaction, geometric curvature flow, surface evolution / Fractional PDEs, NLS equation / Neural network approximation to wave propagation, phase-field problems, multi-scale FEM / Harmonic map heat flow, Landau-Lifshitz equations, numerical solution of stochastic PDEs, inverse scattering problems / Low-regularity integrators for nonlinear dispersive equations, computational modelling of semi-conductors / Incompressible two-phase flow, arbitrary Lagrangian-Eulerian method, Cahn-Hilliard-Navier-Stokes equations / Mean curvature flow, Willmore flow, surface diffusion, evolving surface FEM, nonlinear Schrödinger equation / Computing rough solutions of nonlinear dispersive and wave equations / Helmholtz equation with large wave numbers, continuous interior penalty FEM, perfectly matched layer method / Structure-preserving algorithms for phase field equations and the Navier-Stokes equations / Navier-Stokes equations, decoupling methods for strongly coupled parabolic systems",
           "url": "https://www.polyu.edu.hk/ama/profile/byli/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.polyu.edu.hk/ama/people/academic-staff/prof-li-buyang/"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -8796,6 +9100,114 @@
       "recordStatus": "directory"
     },
     {
+      "id": "benjamin-gammage",
+      "name": "Benjamin Gammage",
+      "affiliations": [
+        {
+          "schoolId": "toronto",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://www.artsci.utoronto.ca/about/glance/new-faculty/2025-26/benjamin-gammage",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry and homological mirror symmetry"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and homological mirror symmetry",
+          "url": "https://www.artsci.utoronto.ca/about/glance/new-faculty/2025-26/benjamin-gammage"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "robert-haslhofer",
+      "name": "Robert Haslhofer",
+      "affiliations": [
+        {
+          "schoolId": "toronto",
+          "department": "University of Toronto Scarborough",
+          "title": "Professor",
+          "url": "https://www.mathematics.utoronto.ca/people/directories/all-faculty/robert-haslhofer",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometric analysis, mean curvature flow and Ricci flow"
+      ],
+      "homepage": "https://www.math.utoronto.ca/roberth/",
+      "cvUrl": "https://www.math.utoronto.ca/roberth/cv_haslhofer.pdf",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometric analysis, mean curvature flow and Ricci flow",
+          "url": "https://www.math.utoronto.ca/roberth/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "yevgeny-liokumovich",
+      "name": "Yevgeny Liokumovich",
+      "affiliations": [
+        {
+          "schoolId": "toronto",
+          "department": "University of Toronto Mississauga",
+          "title": "Associate Professor",
+          "url": "https://www.utm.utoronto.ca/math-cs-stats/people/yevgeny-liokumovich",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometric analysis and metric geometry"
+      ],
+      "homepage": "https://www.math.toronto.edu/ylio/",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometric analysis and metric geometry",
+          "url": "https://www.utm.utoronto.ca/math-cs-stats/people/yevgeny-liokumovich"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
       "id": "akito-futaki",
       "name": "Akito Futaki",
       "affiliations": [
@@ -10968,6 +11380,76 @@
       "recordStatus": "directory"
     },
     {
+      "id": "bernd-siebert",
+      "name": "Bernd Siebert",
+      "affiliations": [
+        {
+          "schoolId": "ut-austin",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://math.utexas.edu/directory/bernd-siebert",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry and mirror symmetry"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and mirror symmetry",
+          "url": "https://math.utexas.edu/directory/bernd-siebert"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "sean-keel",
+      "name": "Sean Keel",
+      "affiliations": [
+        {
+          "schoolId": "ut-austin",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://math.utexas.edu/directory/sean-keel",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, moduli, birational geometry and mirror symmetry",
+          "url": "https://math.utexas.edu/directory/sean-keel"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
       "id": "andreas-cap",
       "name": "Andreas Cap",
       "affiliations": [
@@ -12332,6 +12814,42 @@
         {
           "text": "Arithmetic Algebraic Geometry Geometry Representation Theory Mathematical Physics",
           "url": "https://math.yale.edu/profile/alexander-goncharov"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-7c7ad1ee93b5",
+      "name": "江文帅",
+      "affiliations": [
+        {
+          "schoolId": "zju",
+          "department": "数学科学学院",
+          "title": "教授",
+          "url": "https://person.zju.edu.cn/wsjiang",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "几何分析"
+      ],
+      "homepage": "https://person.zju.edu.cn/wsjiang",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "几何分析",
+          "url": "https://person.zju.edu.cn/wsjiang"
         }
       ],
       "checkedAt": "2026-11-23",

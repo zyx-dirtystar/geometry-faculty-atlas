@@ -555,6 +555,9 @@ def export(db, seed):
     metrics = sum(bool(p.get("metrics")) for p in seed["people"] + patch["people"])
     cv_count = sum(bool(p.get("cvUrl")) for p in seed["people"] + patch["people"])
     homepage_count = sum(bool(p.get("homepage")) for p in seed["people"] + patch["people"])
+    cohort_path = ROOT / "cohort-review.json"
+    cohorts = json.loads(cohort_path.read_text(encoding="utf-8")) if cohort_path.is_file() else {}
+    scope_notes = cohorts.get("scopeNotes", {})
     lines = [
         "# 几何学者库进度",
         "",
@@ -564,9 +567,22 @@ def export(db, seed):
         f"有个人主页 {homepage_count} 位、公开 CV {cv_count} 位、OpenAlex 论文及引用指标 {metrics} 位。缺失字段标为待核。",
         f"已解析 {profile_count} 个个人页面。校级全名单对账完成 0 所。",
         "",
+    ]
+    if cohorts:
+        parsed_schools = {row["school"] for row in sources if row["status"] == "parsed"}
+        review_groups = cohorts["cohorts"]
+        lines.extend(["## 原待查批次", ""])
+        for key, description in (("needs_adapter", "原已找到官网、待提取名册"), ("source_error", "原官网暂无法读取")):
+            ids = set(review_groups[key])
+            pending_schools = [s["nameZh"] for s in seed["schools"] if s["id"] in ids - parsed_schools]
+            lines.append(f"- {description}的 {len(ids)} 所中，已有可提取名册 {len(ids & parsed_schools)} 所。")
+            if pending_schools:
+                lines.append(f"  名册待核 {len(pending_schools)} 所，包括{'、'.join(pending_schools)}。")
+        lines.extend(["", "出现在可提取名册中的学校仍需核实院系范围和未公开的人员字段。", ""])
+    lines.extend([
         "| 学校 | 状态 | 官方来源 | 网页学者 | 主页 / CV / 指标 | 待核任职或方向 |",
         "| --- | --- | --- | ---: | ---: | ---: |",
-    ]
+    ])
     for school in seed["schools"]:
         sl = [row for row in sources if row["school"] == school["id"]]
         pl = [p for p in candidates if p["school"] == school["id"]]
@@ -576,6 +592,11 @@ def export(db, seed):
         coverage = " / ".join(str(sum(bool(p.get(field)) for p in listed)) for field in ("homepage","cvUrl","metrics"))
         pending = sum(p["decision"] in ("topic_review","role_review","affiliation_review") for p in pl)
         lines.append(f"| {school['nameZh']} | {label} | {links} | {len(listed)} | {coverage} | {pending} |")
+    if scope_notes:
+        lines.extend(["", "## 名册覆盖与待核原因", ""])
+        for school in seed["schools"]:
+            if note := scope_notes.get(school["id"]):
+                lines.append(f"- {school['nameZh']}。{note}")
     lines += ["", "## 来源待处理", ""]
     for row in sources:
         if row["status"] != "parsed":

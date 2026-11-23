@@ -1109,6 +1109,73 @@ def parse_padua_group(document, base):
     ]
 
 
+def parse_imj_tga(document, base, employer):
+    records = []
+    for modal in document.xpath("//div[@class='modal-content'][.//h4[@class='modal-title']]"):
+        body = modal.xpath(".//div[@class='modal-body']")
+        if not body:
+            continue
+        labels = [clean(t) for t in body[0].xpath("./text()") if clean(t)]
+        if employer not in labels or "Permanents" not in labels:
+            continue
+        index = labels.index("Permanents")
+        if len(labels) <= index+1:
+            continue
+        name = text_at(modal,".//h4[@class='modal-title']")
+        parts = name.split()
+        prefix = [p for p in parts if not p.isupper()]
+        suffix = [p.title() for p in parts if p.isupper()]
+        name = " ".join(prefix + suffix)
+        page = next((url for _,url in urls(body[0],base)),"")
+        records.append(Entry(name,labels[index+1],"IMJ-PRG geometry and topology group",homepage=page))
+    return records
+
+
+def parse_imj_sorbonne(document,base):
+    return parse_imj_tga(document,base,"Sorbonne Université")
+
+
+def parse_imj_paris_cite(document,base):
+    return parse_imj_tga(document,base,"UPC")
+
+
+def parse_china_faculty_portal(document, base):
+    records = []
+    for link in document.xpath(f"//a[{class_token('lib_title')} and @href and normalize-space()]"):
+        panel = link.getparent()
+        title = text_at(panel, f"./a/div[{class_token('unit')}][1]")
+        records.append(Entry(contents(link),title,profile=profile_link(base,link.get("href"))))
+    for card in document.xpath("//div[contains(@class,'result-wz')][h2]"):
+        name = text_at(card,"./h2")
+        href = next((url for _,url in urls(card.getparent(),base) if urlparse(url).path.endswith((".htm",".html"))),"")
+        if name:
+            records.append(Entry(name,profile=href))
+    return records
+
+
+def parse_ut_group(document,base):
+    records = []
+    for link in document.xpath("//main//a[starts-with(@href,'/directory/')][normalize-space()]"):
+        name=contents(link)
+        if len(name.split())>1:
+            records.append(Entry(name,research="Geometry or algebra research group",profile=profile_link(base,link.get("href"))))
+    return records
+
+
+def parse_toronto_mississauga(document, base):
+    records = []
+    for heading in document.xpath("//h2[normalize-space()='Faculty - Mathematics']"):
+        lists = heading.xpath("./following-sibling::*[1][contains(@class,'people-list')]")
+        for panel in lists:
+            for card in panel.xpath(f".//div[{class_token('people-primary-details')}]"):
+                links = card.xpath(f"./div[{class_token('people-name')}]/a[@href]")
+                title = text_at(card, f"./span[{class_token('people-position')}]").removeprefix("Title/Position ")
+                if links and "(MATH)" in title:
+                    link = links[0]
+                    records.append(Entry(contents(link), title, profile=profile_link(base, link.get("href"))))
+    return records
+
+
 PARSERS = {
     "stanford": parse_stanford, "stonybrook": parse_stonybrook, "stonybrook_group": parse_stonybrook_group,
     "bonn": parse_bonn, "bicmr": parse_bicmr, "princeton": parse_princeton, "princeton_group": parse_princeton_group,
@@ -1136,6 +1203,9 @@ PARSERS = {
     "lmo":parse_lmo,"zjnu":parse_zjnu,"sydney_profiles":parse_sydney_profiles,
     "tamu":parse_tamu,"wisconsin":parse_wisconsin,"psau_profiles":parse_psau_profiles,
     "aix":parse_aix,"padua_group":parse_padua_group,
+    "imj_sorbonne":parse_imj_sorbonne,"imj_paris_cite":parse_imj_paris_cite,
+    "china_faculty_portal":parse_china_faculty_portal, "ut_group":parse_ut_group,
+    "toronto_mississauga":parse_toronto_mississauga,
 }
 
 
@@ -1144,7 +1214,7 @@ def profile_fields(document, base):
     main = (document.xpath("//main") or document.xpath("//body") or [document])[0]
     research = []
     for label in main.xpath(".//h2|.//h3|.//h4|.//dt|.//div[not(*) and @class]|.//strong|.//b"):
-        title = contents(label).strip(":").lower()
+        title = contents(label).strip(":：").lower()
         if title not in {"field of interest", "research field", "research interests", "research area", "research areas", "research area(s)", "research interests and areas", "research specialization", "専門分野", "研究方向", "研究领域", "科研方向", "thèmes de recherche", "forschungsinteressen", "forskningsintressen"}:
             continue
         following = label.getnext()
