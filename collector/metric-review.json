@@ -1,5 +1,12 @@
 {
   "accepted": {
+    "antoine-song": "A5041943056",
+    "richard-thomas": "A5038890583",
+    "daniel-stern": "A5007567471",
+    "zhihan-wang": "A5101865879",
+    "christian-liedtke": "A5102713593",
+    "behrouz-taji": "A5052182828",
+    "alexander-perry": "A5108254938",
     "fernando-coda-marques": "A5031318225",
     "claude-lebrun": "A5074780350",
     "mark-andrea-de-cataldo": "A5079605187",
@@ -39,6 +46,9 @@
     "milena-hering": "A5017113686"
   },
   "notes": {
+    "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
+    "alessandro-ottazzi": "UNSW 机构档案中两篇数学论文在 OpenAlex 指向不同作者 ID，累计指标待核。",
+    "ruobing-zhang": "已定位几何作者档案，尚需逐篇核实高引列表中的早期跨方向论文，累计指标待核。",
     "christian-schnell": "DOI 中的数学家和同名医学作者被归入同一 OpenAlex 档案。前五篇高引文献属于医学或生物学，累计指标暂留待核。",
     "yoshinori-namikawa": "两篇已核论文在 OpenAlex 中未能对应到同一个有效作者 ID，论文数和引用量待核。",
     "bernd-siebert": "已匹配镜像对称论文，但 OpenAlex 作者档案混入同名或缩写相符的物理测量论文。累计指标待核。",

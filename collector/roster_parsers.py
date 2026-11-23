@@ -71,7 +71,7 @@ def parse_structured_directory(document, base, layout):
         name = value(card, "name")
         if not name:
             continue
-        name = re.sub(r"^(?:(?:Prof|Professor|Dr|Professeur)\.?\s+)+", "", name, flags=re.I)
+        name = re.sub(r"^(?:(?:A/Prof|Prof|Professor|Dr|Professeur)\.?\s+)+", "", name, flags=re.I)
         title = value(card, "title") or layout.get("default_title", "")
         rows.append(Entry(name, title, value(card, "research"), link(card, "profile"), link(card, "homepage")))
     return rows
