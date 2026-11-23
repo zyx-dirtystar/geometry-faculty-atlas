@@ -18,7 +18,7 @@ class Entry:
 
 
 TOPICS = {
-    "complex": re.compile(r"complex (?:differential |algebraic )?geometr|k[äa]hler|hyperk[äa]hler|géométrie complexe|geometr[ií]a comple[jx]a|komplexe geometrie|複素(?:微分)?幾何|ケーラー|复几何", re.I),
+    "complex": re.compile(r"complex (?:differential |algebraic )?geometr|k[äa]hler|hyperk[äa]hler|géométrie complexe|geometr[ií]a comple[jx]a|komplexe geometrie|複素(?:微分)?幾何|ケーラー|复几何|\bCR\s*几何", re.I),
     "differential": re.compile(r"differential geometr|riemannian (?:geometr|(?:sub)?manifolds)|submanifold geometry|hyperbolic geometry|lorentzian geometry|(?<!asymptotic )geometric analys|ricci flow|mean curvature flow|scalar curvature|geometric flows?|gauge theory|géométrie (?:différentielle|riemannienne)|analyse géométrique|geometr[ií]a (?:differenziale|diferencial|riemanniana)|an[aá]lisis geom[eé]trico|differentialgeometrie|微分幾何|幾何解析|平均曲率流|リッチフロー|微分几何|几何分析", re.I),
     "algebraic": re.compile(r"algebraic (?:(?:and|&) arithmetic )?geometr|arithmetic geometr|birational geometr|enumerative geometr|tropical (?:algebra and )?geometr|higher dimensional geometr|algebraic varieties|algebraic (?:surface|cycles)|hodge theory|derived algebraic|schemes and stacks|géométrie (?:algébrique|arithmétique|birationnelle)|geometr[ií]a (?:alg[eé]brica|algebrica|aritm[eé]tica|biracional)|algebraische geometrie|代[数數][幾几]何|算[术術][幾几]何|双有理", re.I),
 }
@@ -70,6 +70,7 @@ def parse_structured_directory(document, base, layout):
         return url if parsed.scheme in ("http", "https") and not parsed.username and not parsed.password else ""
 
     rows = []
+    linked = {}
     for card in document.xpath(layout["cards"]):
         name = value(card, "name")
         if not name:
@@ -80,7 +81,18 @@ def parse_structured_directory(document, base, layout):
         if layout.get("surname_first"):
             name = display_name(name)
         title = value(card, "title") or layout.get("default_title", "")
-        rows.append(Entry(name, title, value(card, "research"), link(card, "profile"), link(card, "homepage")))
+        research = value(card, "research")
+        profile = link(card, "profile")
+        homepage = link(card, "homepage")
+        prior = linked.get((name, profile)) if profile else None
+        if prior is not None:
+            if research and research != prior.research:
+                prior.research = " / ".join(dict.fromkeys(filter(None, [*prior.research.split(" / "), research])))
+            continue
+        row = Entry(name, title, research, profile, homepage)
+        if profile:
+            linked[name, profile] = row
+        rows.append(row)
     return rows
 
 
@@ -104,7 +116,7 @@ def split_role(title, region=None):
         return "other" if re.search(r"teaching|education|placement", title, re.I) else "faculty"
     if re.search(r"post.?doc|postdoktor|instructor|lecturer|student|\bph\.?d\.? candidate\b|professional services staff|^former faculty$|^lecteur|^dottorand|^doctorand|^講師$|博士后", title, re.I):
         return "other"
-    if re.search(r"\bprofessor\b|\bacademic faculty\b|\btenure-track researcher\b|\breader\b|universitetslektor|prof\. dr\.|univ\.-prof\.|assoz\. prof\.|professeur|professore (?:ordinario|associato)|catedr[aá]tic[ao]|titular de universidad|contratad[oa] doctor|ma[iî]tr(?:e|esse) de conf[ée]rences|研究员|教授|^助教$", title, re.I):
+    if re.search(r"\bprofessor\b|\bacademic faculty\b|\btenure-track researcher\b|\breader\b|universitetslektor|prof\. dr\.|univ\.-prof\.|assoz\. prof\.|professeur|professor(?:e|essa) (?:ordinari[oa]|associat[oa])|catedr[aá]tic[ao]|titular de universidad|contratad[oa] doctor|ma[iî]tr(?:e|esse) de conf[ée]rences|研究员|教授|^助教$", title, re.I):
         return "faculty"
     if re.search(r"\bfellow\b|research assistant", title, re.I):
         return "other"
@@ -1374,6 +1386,64 @@ def parse_durham_geometry(document, base):
     return rows
 
 
+def parse_sustech_graduate(document, base):
+    rows = []
+    for card in document.xpath("//div[contains(@class,'posFosterBottom')]/div[@class='tabRow'][span[@class='name']/a]"):
+        link = card.xpath("./span[@class='name']/a")[0]
+        summary = text_at(card, "./p")
+        title = re.match(r"^(?:讲席|特聘|教学)?(?:助理|副)?教授", summary)
+        topic = text_at(card, "./span[2]")
+        explicit_interest = re.search(r"(?:研究方向|研究领域|主要科研方向|研究专长|研究兴趣)(?:为|是|在|包括|[：:])([^。]{3,230})", summary)
+        if explicit_interest:
+            topic = "；".join(filter(None, [topic, explicit_interest[1]]))
+        if title:
+            rows.append(Entry(contents(link), title[0], topic, profile_link(base, link.get("href"))))
+    return rows
+
+
+def parse_kit_geometry(document, base):
+    rows = []
+    for link in document.xpath("//table[contains(@class,'collapseTable')]//a[@itemprop='name']"):
+        label = contents(link)
+        title = re.match(r"^(?:Prof\. Dr\.|Dr\.)", label)
+        name = display_name(re.sub(r",?\s+M\.Sc\.?$", "", label.removeprefix(title[0]).strip() if title else label))
+        role = title[0] if title else ""
+        rows.append(Entry(name, role, "Differential geometry research group", profile_link(base,link.get("href"))))
+    return rows
+
+
+def parse_heidelberg_algebra(document, base):
+    rows = []
+    for card in document.xpath("//main//a[h3 or .//h3][.//div[contains(@class,'DateLine_')]]"):
+        heading = text_at(card, ".//h3")
+        rank = re.match(r"^(?:Jun\.\s*)?Prof\.\s+(?:Dr\.\s+)?", heading)
+        if rank is None:
+            continue
+        area = text_at(card, ".//div[contains(@class,'DateLine_')]")
+        if re.search(r"arithmetische geometrie|arithmetic geometry", area, re.I):
+            area += " / Arithmetic geometry"
+        rows.append(Entry(heading[rank.end():], rank[0].strip(), area, homepage=profile_link(base, card.get("href"))))
+    return rows
+
+
+def parse_ufrj_graduate(document, base):
+    rows = []
+    for card in document.xpath("//div[contains(@class,'panel-group')]//div[div[@class='panel-heading'] and .//div[@class='panel-body']]"):
+        name = text_at(card, "./div[@class='panel-heading']")
+        research = []
+        for label in card.xpath(".//strong[contains(.,'Área de pesquisa') or contains(.,'Research Area')]"):
+            following = label.getnext()
+            value = clean(label.tail or "")
+            if not value and following is not None and following.tag == "a":
+                value = contents(following)
+            if value:
+                research.append(value)
+        homepage = next((url for label,url in urls(card,base) if label == "Homepage"), "")
+        if name:
+            rows.append(Entry(name, research=" / ".join(dict.fromkeys(research)), homepage=homepage))
+    return rows
+
+
 PARSERS = {
     "stanford": parse_stanford, "stonybrook": parse_stonybrook, "stonybrook_group": parse_stonybrook_group,
     "bonn": parse_bonn, "bicmr": parse_bicmr, "princeton": parse_princeton, "princeton_group": parse_princeton_group,
@@ -1408,6 +1478,8 @@ PARSERS = {
     "michigan":parse_michigan, "uab":parse_uab, "uab_arithmetic":parse_uab_arithmetic,
     "waseda_japanese":parse_waseda_japanese, "usp_staff":parse_usp_staff,
     "usp_geometry":parse_usp_geometry, "durham_geometry":parse_durham_geometry,
+    "sustech_graduate":parse_sustech_graduate,
+    "kit_geometry":parse_kit_geometry, "heidelberg_algebra":parse_heidelberg_algebra, "ufrj_graduate":parse_ufrj_graduate,
 }
 
 

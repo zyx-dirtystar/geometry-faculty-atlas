@@ -353,6 +353,8 @@ def population(db):
         group["decision"] = decision
         group["decision_note"] = review.get("reason", "")
         group["opportunities"] = review.get("opportunities", [])
+        group["papers"] = review.get("papers", [])
+        group["aliases"] = review.get("aliases", [])
         dates = [row.get("checked_at") or "" for row in evidence]
         group["checked_at"] = max(dates + [review.get("checkedAt","")]) or None
     return sorted(result.values(), key=lambda group: (group["school"],group["name"]))
@@ -480,14 +482,19 @@ def make_patch(seed, data, source_rows, scope_notes, school_reviews):
                 opportunities = {item["url"]: item for item in updated.get("opportunities", [])}
                 opportunities.update({item["url"]: item for item in person["opportunities"]})
                 updated["opportunities"] = list(opportunities.values())
+            if person["papers"]:
+                papers = {paper["url"]: paper for paper in updated.get("papers", []) + person["papers"]}
+                updated["papers"] = list(papers.values())
+            if person["aliases"]:
+                updated["aliases"] = list(dict.fromkeys(updated.get("aliases", []) + person["aliases"]))
             finding = findings.get(seeded["id"], {})
             if finding.get("author_id") and finding["author_id"] == reviewed.get(seeded["id"]) and finding.get("snapshot"):
                 snapshot = finding["snapshot"]
                 metrics = {(m["source"],m["authorId"],m["checkedAt"]):m for m in updated.get("metrics", [])}
                 metrics[(snapshot["source"],snapshot["authorId"],snapshot["checkedAt"])] = snapshot
                 updated["metrics"] = list(metrics.values())
-                papers = {p["url"]:p for p in updated.get("papers", [])}
-                papers.update({p["url"]:p for p in finding.get("papers", [])})
+                papers = {p["url"]:p for p in finding.get("papers", [])}
+                papers.update({p["url"]:p for p in updated.get("papers", [])})
                 updated["papers"] = list(papers.values())
             if updated != seeded:
                 updated["checkedAt"] = max(updated.get("checkedAt") or "", person["checked_at"] or "")
@@ -511,7 +518,7 @@ def make_patch(seed, data, source_rows, scope_notes, school_reviews):
         if anchor.get("source"):
             sources.append({"text":"个人研究或论文来源","url":anchor["source"]})
         additions.append({
-            "id":slug, "name":person["name"], "affiliations":[{
+            "id":slug, "name":person["name"], "aliases":person["aliases"], "affiliations":[{
                 "schoolId":school, "department":person["unit"] or UNITS.get(school,"数学系"),"title":person["title"],
                 "url":person["affiliation_url"],"type":"primary","checkedAt":person["checked_at"],
             }],
@@ -525,7 +532,8 @@ def make_patch(seed, data, source_rows, scope_notes, school_reviews):
             "identityNote":reason, "metrics":[finding["snapshot"]] if known else [],
             "identityUrl":(finding.get("candidate_url") or finding.get("snapshot",{}).get("url"))
                 if slug in review_notes or finding.get("status") == "identity_review" else None,
-            "papers":finding.get("papers",[]), "directoryEvidence":sources,
+            "papers":list({p["url"]: p for p in finding.get("papers", []) + person["papers"]}.values()),
+            "directoryEvidence":sources,
             "checkedAt":person["checked_at"], "recordStatus":"directory",
         })
     school_patches = []
@@ -631,7 +639,8 @@ def export(db, seed):
     decisions = Counter(p["decision"] for p in candidates)
     with (ROOT / "review-queue.csv.tmp").open("w",encoding="utf-8-sig",newline="") as handle:
         rows = csv.writer(handle)
-        rows.writerow(["学校 ID","姓名","职位","目录判定","方向","公开任职","主页","CV","论文数","累计引用","指标来源","指标日期","研究依据","判定备注"])
+        rows.writerow(["学校 ID","姓名","职位","目录判定","方向","公开任职","主页","CV","论文数","累计引用","指标来源","指标日期",
+                       "研究依据","判定备注","本次名录或职务来源","核对日期"])
         by_affiliation = {
             (a["schoolId"],name_key(p["name"])):p
             for p in public_people for a in p["affiliations"]
@@ -639,11 +648,25 @@ def export(db, seed):
         for p in candidates:
             public = by_affiliation.get((p["school"], name_key(p["name"])), {})
             metric = next(iter(public.get("metrics") or []), {})
-            pending = "待核" if p["decision"] in ("candidate","topic_review","role_review","affiliation_review") else ""
+            decision = p["decision"]
+            pending = "待核" if decision in ("candidate","topic_review","role_review","affiliation_review") else ""
+            appointment_source = p["affiliation_url"] or p["profile"] or next(
+                (evidence["source_url"] for evidence in p["evidence"]), ""
+            )
+            decision_note = p["decision_note"] or {
+                "topic_review": "公开方向资料不足，或目录只披露相邻领域。",
+                "role_review": "已有相关方向依据，公开名录仍缺可确认的现任科研职位。",
+                "affiliation_review": "不同学校的姓名相同，现任或联合任职关系仍待核。",
+                "emeritus": "公开职称显示为荣休或退休。",
+                "associated": "公开职称显示为访问、兼职、附属或荣誉任职。",
+                "other": "公开职称显示为博士后、教学岗、学生或其他非主名单职位。",
+                "other_topic": "已提取的方向说明中未确认三个收录方向。",
+            }.get(decision, "")
             rows.writerow([p["school"],p["name"],p["title"],p["decision"]," / ".join(p["fields"]),p["affiliation_url"],
                            public.get("homepage") or p["homepage"] or pending,public.get("cvUrl") or p["cv"] or pending,
                            metric.get("articles", pending),metric.get("citations", pending),metric.get("url", ""),metric.get("checkedAt", ""),
-                           " | ".join(f"{x['text']} [{x['url']}]" for x in p["topic_sources"]), p["decision_note"]])
+                           " | ".join(f"{x['text']} [{x['url']}]" for x in p["topic_sources"]), decision_note,
+                           appointment_source, p["checked_at"] or ""])
     (ROOT / "review-queue.csv.tmp").replace(ROOT / "review-queue.csv")
     page_attempts = {row["url"]:row for row in db.execute("SELECT url, status, checked_at FROM profiles WHERE status != 'queued'")}
     _, findings, _, _ = metrics_evidence()

@@ -428,7 +428,11 @@ function showProfile(id, schoolFilter) {
   );
   const papers = detailSection("代表作与研究联系",
     person.papers?.length
-      ? node("ul",{},person.papers.map(paper => node("li",{},external(paper.title,paper.url),paper.year ? ` · ${paper.year}` : "")))
+      ? node("ul",{},person.papers.map(paper => {
+        const details = [paper.type, paper.year].filter(Boolean).join(" · ");
+        return node("li",{},external(paper.title,paper.url),details ? ` · ${details}` : "",
+          paper.relation ? node("div",{},paper.relation) : null);
+      }))
       : node("p",{},"代表作待补充。"),
     person.relevance ? node("p",{},person.relevance) : null,
     person.directoryEvidence?.length
