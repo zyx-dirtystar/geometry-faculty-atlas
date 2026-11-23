@@ -40,6 +40,20 @@ PROFILE_HOSTS = {
     "bonn": {"www.math.uni-bonn.de", "www.mathematics.uni-bonn.de"},
     "pku": {"bicmr.pku.edu.cn", "math.pku.edu.cn", "math-en.pku.edu.cn"},
     "rutgers": {"sites.math.rutgers.edu", "math.rutgers.edu", "www.math.rutgers.edu"},
+    "mit": {"math.mit.edu", "www.mit.edu"},
+    "oxford": {"www.maths.ox.ac.uk", "people.maths.ox.ac.uk"},
+    "nyu": {"math.nyu.edu", "cims.nyu.edu", "www.cims.nyu.edu"},
+    "eth": {"math.ethz.ch", "people.math.ethz.ch", "people.ethz.ch", "www.mis.mpg.de"},
+    "epfl": {"people.epfl.ch", "www.epfl.ch", "cag.epfl.ch", "sma.epfl.ch", "egg.epfl.ch"},
+    "ucla": {"ww3.math.ucla.edu", "www.math.ucla.edu", "math.ucla.edu"},
+    "berkeley": {"math.berkeley.edu", "www.math.berkeley.edu"},
+    "yale": {"math.yale.edu", "users.math.yale.edu", "www.math.yale.edu"},
+    "kyoto": {"www.math.kyoto-u.ac.jp", "www.kurims.kyoto-u.ac.jp"},
+    "warwick": {"warwick.ac.uk", "www.warwick.ac.uk", "homepages.warwick.ac.uk"},
+    "duke": {"math.duke.edu", "scholars.duke.edu", "www.math.duke.edu", "services.math.duke.edu"},
+    "uchicago": {"mathematics.uchicago.edu", "math.uchicago.edu"},
+    "imperial": {"profiles.imperial.ac.uk", "www.imperial.ac.uk"},
+    "brown": {"mathematics.brown.edu", "www.math.brown.edu"},
 }
 UNITS = {"stanford":"数学系", "princeton":"数学系", "stony-brook":"数学系", "bonn":"Bonn Mathematics", "pku":"北京国际数学研究中心"}
 
@@ -208,16 +222,25 @@ def population(db):
         group = result.setdefault((school,sighting["person_key"]), {"school":school, "name":row["name"],"evidence":[]})
         group["evidence"].append(row)
     profiles = {item["url"]:json.loads(item["record"]) for item in db.execute("SELECT url,record FROM profiles WHERE record IS NOT NULL")}
+    review_path = ROOT / "verified-profiles.json"
+    reviews = json.loads(review_path.read_text(encoding="utf-8")) if review_path.is_file() else []
+    reviewed = {(row["school"],name_key(row["name"])):row for row in reviews}
+    for row in reviews:
+        result.setdefault((row["school"],name_key(row["name"])), {"school":row["school"],"name":row["name"],"evidence":[]})
     for group in result.values():
         evidence = group["evidence"]
         active = next((row for row in evidence if row["source_kind"] in ("department","center") and row["title"]), None)
-        group["role"] = split_role(active["title"]) if active else "unverified"
-        group["title"] = active["title"] if active else ""
-        group["affiliation_url"] = active["profile"] or active["source_url"] if active else ""
-        group["profile"] = next((row["profile"] for row in evidence if row["profile"]), "")
-        group["homepage"] = next((row["homepage"] for row in evidence if row["homepage"]), "")
+        review = reviewed.get((group["school"],name_key(group["name"])), {})
+        group["title"] = review.get("title") or (active["title"] if active else "")
+        group["role"] = split_role(group["title"])
+        group["affiliation_url"] = review.get("affiliation") or (active["profile"] or active["source_url"] if active else "")
+        group["profile"] = review.get("affiliation") or next((row["profile"] for row in evidence if row["profile"]), "")
+        group["homepage"] = review.get("homepage") or next((row["homepage"] for row in evidence if row["homepage"]), "")
         sources = [{"text":row["research"], "url":row["source_url"]} for row in evidence if row["research"]]
-        cv = publications = ""
+        if review.get("research"):
+            sources.append({"text":review["research"],"url":review["research_source"]})
+        cv = review.get("cv") or ""
+        publications = review.get("publications") or ""
         for url in dict.fromkeys([group["profile"], group["homepage"]]):
             profile = profiles.get(url, {})
             if profile.get("research"):
@@ -243,33 +266,43 @@ def population(db):
         else:
             decision = "candidate"
         group["decision"] = decision
-        group["checked_at"] = max((row.get("checked_at") or "" for row in evidence), default="") or None
+        dates = [row.get("checked_at") or "" for row in evidence]
+        group["checked_at"] = max(dates + [review.get("checkedAt","")]) or None
     return sorted(result.values(), key=lambda group: (group["school"],group["name"]))
 
 
 def allowed_profile(school, url):
     result = urlparse(url)
-    return result.scheme == "https" and result.hostname in PROFILE_HOSTS.get(school, set()) and result.path not in ("", "/")
+    return (
+        result.scheme == "https" and not result.username and not result.password
+        and result.hostname in PROFILE_HOSTS.get(school, set()) and result.path not in ("", "/")
+        and not result.path.lower().endswith(".pdf")
+    )
 
 
 def fetch_profiles(db, schools, refresh=False, max_profiles=0):
     queue = {}
     current = {row["url"]:row["status"] for row in db.execute("SELECT url,status FROM profiles")}
-    for person in population(db):
+    people = sorted(population(db), key=lambda row: (row["decision"] != "candidate", row["school"], row["name"]))
+    for person in people:
         school = person["school"]
-        if (schools and school not in schools) or person["role"] != "faculty":
+        if (schools and school not in schools) or person["role"] in ("emeritus","associated","other"):
             continue
         topical = " ".join(item["text"] for item in person["topic_sources"])
+        if person["role"] == "unverified" and not topical:
+            continue
         if school == "stanford" and not re.search(r"geometry|analysis|algebra",topical,re.I):
             continue
         if school in ("stony-brook","bonn","pku","rutgers") and person["decision"] != "candidate":
             continue
-        target = person["profile"] or person["homepage"]
-        if not target or not allowed_profile(school, target) or (not refresh and current.get(target) == "parsed"):
+        if person["decision"] == "other_topic" and person["title"] != "Academic Faculty":
             continue
-        cache_id = "profile-" + sha256(target.encode()).hexdigest()[:16]
-        queue[target] = {"id":cache_id, "school":school, "name":person["name"], "url":target, "kind":"profile",
-                         "transport":"system" if school == "bonn" else None}
+        for target in (person["profile"], person["homepage"]):
+            if not target or not allowed_profile(school, target) or (not refresh and current.get(target) == "parsed"):
+                continue
+            cache_id = "profile-" + sha256(target.encode()).hexdigest()[:16]
+            queue[target] = {"id":cache_id, "school":school, "name":person["name"], "url":target, "kind":"profile",
+                             "transport":"system" if school == "bonn" else None}
     jobs = list(queue.values())
     if max_profiles:
         jobs = jobs[:max_profiles]
@@ -385,12 +418,14 @@ def atomic_write(path, value):
     pending.replace(path)
 
 
-def export_checkpoint(db):
+def export_checkpoint(db, profile_urls):
     checkpoint = {"schemaVersion":1}
     for table, columns in CHECKPOINT_TABLES.items():
         rows = []
         for item in db.execute(f"SELECT {','.join(columns)} FROM {table} ORDER BY 1,2"):
             row = dict(item)
+            if table == "profiles" and (row["url"] not in profile_urls or row["status"] == "queued"):
+                continue
             if row.get("record") is not None:
                 row["record"] = json.loads(row["record"])
             rows.append(row)
@@ -414,29 +449,43 @@ def export(db, seed):
     candidates = population(db)
     sources = list(db.execute("SELECT * FROM sources ORDER BY school,id"))
     patch = make_patch(seed,candidates,sources)
-    export_checkpoint(db)
+    profile_urls = {
+        url for person in candidates if person["role"] in ("faculty", "unverified")
+        for url in (person["profile"], person["homepage"]) if url
+    }
+    export_checkpoint(db, profile_urls)
     atomic_write(OUTPUT / "collection.js", "window.geometryCollection = " + json_text(patch).replace("</", "<\\/") + ";\n")
     atomic_write(ROOT / "catalog-batch.json", json.dumps(patch,ensure_ascii=False,indent=2) + "\n")
     decisions = Counter(p["decision"] for p in candidates)
     with (ROOT / "review-queue.csv.tmp").open("w",encoding="utf-8-sig",newline="") as handle:
         rows = csv.writer(handle)
-        rows.writerow(["学校 ID","姓名","职位","目录判定","方向","公开任职","主页","CV","研究依据"])
+        rows.writerow(["学校 ID","姓名","职位","目录判定","方向","公开任职","主页","CV","论文数","累计引用","指标来源","指标日期","研究依据"])
+        by_affiliation = {
+            (a["schoolId"],name_key(p["name"])):p
+            for p in seed["people"] + patch["people"] for a in p["affiliations"]
+        }
         for p in candidates:
-            rows.writerow([p["school"],p["name"],p["title"],p["decision"]," / ".join(p["fields"]),p["affiliation_url"],p["homepage"],p["cv"],
+            public = by_affiliation.get((p["school"], name_key(p["name"])), {})
+            metric = next(iter(public.get("metrics") or []), {})
+            pending = "待核" if p["decision"] in ("candidate","topic_review","role_review","affiliation_review") else ""
+            rows.writerow([p["school"],p["name"],p["title"],p["decision"]," / ".join(p["fields"]),p["affiliation_url"],
+                           public.get("homepage") or p["homepage"] or pending,public.get("cvUrl") or p["cv"] or pending,
+                           metric.get("articles", pending),metric.get("citations", pending),metric.get("url", ""),metric.get("checkedAt", ""),
                            " | ".join(f"{x['text']} [{x['url']}]" for x in p["topic_sources"])])
     (ROOT / "review-queue.csv.tmp").replace(ROOT / "review-queue.csv")
     scope_size = db.execute("SELECT COUNT(*) FROM schools").fetchone()[0]
     checked = len({row["school"] for row in sources if row["status"] == "parsed"})
-    profile_count = db.execute("SELECT COUNT(*) FROM profiles WHERE status='parsed'").fetchone()[0]
+    profile_count = sum(row["url"] in profile_urls for row in db.execute("SELECT url FROM profiles WHERE status='parsed'"))
     metrics = sum(bool(p.get("metrics")) for p in seed["people"] + patch["people"])
     cv_count = sum(bool(p.get("cvUrl")) for p in seed["people"] + patch["people"])
+    homepage_count = sum(bool(p.get("homepage")) for p in seed["people"] + patch["people"])
     lines = [
         "# 几何学者库进度",
         "",
         f"更新日期 {now_date()}。学校任务池 {scope_size} 所，已登记来源 {len({row['school'] for row in sources})} 所，已解析来源 {checked} 所。",
         f"目录去重后共 {len(candidates)} 条学者与学校记录，来源外的任职或研究交叉需要继续复核。",
-        f"网页初始样本 {len(seed['people'])} 位，本轮新增 {len(patch['people'])} 位，合计 {len(seed['people']) + len(patch['people'])} 位。",
-        f"已找到 {cv_count} 条公开 CV 链接。共有 {metrics} 位的 OpenAlex 指标。其余作者等待消歧。",
+        f"网页收录 {len(seed['people']) + len(patch['people'])} 位，其中 {len(patch['people'])} 位来自逐校采集。",
+        f"有个人主页 {homepage_count} 位、公开 CV {cv_count} 位、OpenAlex 论文及引用指标 {metrics} 位。缺失字段标为待核。",
         f"已解析 {profile_count} 个个人页面。校级全名单对账完成 0 所。",
         "",
         "| 学校 | 状态 | 目录 | 已分类相关人员 | 待核任职或方向 |",
