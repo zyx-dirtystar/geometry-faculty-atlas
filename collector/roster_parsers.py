@@ -16,9 +16,9 @@ class Entry:
 
 
 TOPICS = {
-    "complex": re.compile(r"complex (?:differential |algebraic )?geometr|k[äa]hler|hyperk[äa]hler|géométrie complexe|複素(?:微分)?幾何|ケーラー|复几何", re.I),
-    "differential": re.compile(r"differential geometr|riemannian geometr|geometric analys|ricci flow|mean curvature flow|scalar curvature|geometric flows?|gauge theory|géométrie (?:différentielle|riemannienne)|analyse géométrique|微分幾何|幾何解析|平均曲率流|リッチフロー|微分几何|几何分析", re.I),
-    "algebraic": re.compile(r"algebraic (?:(?:and|&) arithmetic )?geometr|arithmetic geometr|birational geometr|enumerative geometr|higher dimensional geometr|algebraic varieties|algebraic (?:surface|cycles)|hodge theory|derived algebraic|schemes and stacks|géométrie (?:algébrique|arithmétique|birationnelle)|代数幾何|代数几何|双有理", re.I),
+    "complex": re.compile(r"complex (?:differential |algebraic )?geometr|k[äa]hler|hyperk[äa]hler|géométrie complexe|geometr[ií]a comple[jx]a|komplexe geometrie|複素(?:微分)?幾何|ケーラー|复几何", re.I),
+    "differential": re.compile(r"differential geometr|riemannian geometr|geometric analys|ricci flow|mean curvature flow|scalar curvature|geometric flows?|gauge theory|géométrie (?:différentielle|riemannienne)|analyse géométrique|geometr[ií]a (?:differenziale|diferencial|riemanniana)|an[aá]lisis geom[eé]trico|differentialgeometrie|微分幾何|幾何解析|平均曲率流|リッチフロー|微分几何|几何分析", re.I),
+    "algebraic": re.compile(r"algebraic (?:(?:and|&) arithmetic )?geometr|arithmetic geometr|birational geometr|enumerative geometr|higher dimensional geometr|algebraic varieties|algebraic (?:surface|cycles)|hodge theory|derived algebraic|schemes and stacks|géométrie (?:algébrique|arithmétique|birationnelle)|geometr[ií]a (?:alg[eé]brica|algebrica|aritm[eé]tica|biracional)|algebraische geometrie|代数幾何|代数几何|双有理", re.I),
 }
 ADJACENT = re.compile(r"symplectic|contact geometry|several complex variables|complex analysis|geometric topology|geometry|g[ée]om[ée]trie|几何|幾何|多复变", re.I)
 
@@ -52,14 +52,16 @@ def matched_fields(research):
 
 
 def split_role(title):
-    if re.search(r"emerit|retired|in memoriam|荣休", title, re.I):
+    if re.search(r"emerit|émérit|emérit|retired|in memoriam|honoraire|jubilad|荣休", title, re.I):
         return "emeritus"
-    if re.search(r"visiting|visitor|adjunct|courtesy|affiliate|访问|兼职", title, re.I):
+    if re.search(r"visiting|visitor|adjunct|courtesy|affiliate|secondary appointment|profesor[ae]? asociad|^invit[ée]|访问|兼职", title, re.I):
         return "associated"
-    if re.search(r"postdoc|instructor|lecturer|fellow|student|professional services staff|^講師$|博士后", title, re.I):
+    if re.search(r"post.?doc|instructor|lecturer|student|professional services staff|^lecteur|^dottorand|^doctorand|^講師$|博士后", title, re.I):
         return "other"
-    if re.search(r"\bprofessor\b|\bacademic faculty\b|\breader\b|prof\. dr\.|研究员|教授|^助教$", title, re.I):
+    if re.search(r"\bprofessor\b|\bacademic faculty\b|\breader\b|prof\. dr\.|professeur|professore (?:ordinario|associato)|catedr[aá]tic[ao]|titular de universidad|contratad[oa] doctor|ma[iî]tr(?:e|esse) de conf[ée]rences|研究员|教授|^助教$", title, re.I):
         return "faculty"
+    if re.search(r"\bfellow\b|research assistant", title, re.I):
+        return "other"
     return "unverified"
 
 
@@ -711,6 +713,179 @@ def parse_tsinghua_ymsc(document, base):
     return records
 
 
+def parse_usc(document, base):
+    records = []
+    for card in document.xpath("//div[@class='text-container'][h3 and div[contains(@class,'f--description')]]"):
+        heading = card.xpath("./h3")[0]
+        bio = text_at(card, "./div[contains(@class,'f--description')]/p[1]")
+        title = re.split(r"\b(?:Email|Phone|Office|Website)\s*:", bio, 1, flags=re.I)[0].strip()
+        title = title if len(title) <= 150 else ""
+        url = next((link for _, link in urls(heading, base)), "")
+        records.append(Entry(display_name(contents(heading)), title, profile=url))
+    return records
+
+
+def parse_usc_group(document, base):
+    return [
+        Entry(display_name(name), research="Algebra and geometry research group", homepage=link)
+        for section in document.xpath("//h4[.='Tenured and Tenure-Track Faculty']/following-sibling::ul[1]")
+        for name, link in urls(section, base)
+    ]
+
+
+def parse_columbia(document, base):
+    records = []
+    for row in document.xpath(f"//div[{class_token('cn-list-row')}][.//h3/a]"):
+        link = row.xpath(".//h3/a")[0]
+        title = text_at(row, f".//span[{class_token('title')}]")
+        if not title and {"senior-faculty","junior-faculty"}.intersection(row.get("class","").split()):
+            title = "Academic Faculty"
+        homepage = next((url for label,url in urls(row,base) if label.casefold() in {"website","homepage","personal website"}),"")
+        records.append(Entry(contents(link),title,profile=profile_link(base,link.get("href")),homepage=homepage))
+    return records
+
+
+def parse_ucsd(document, base):
+    records = []
+    for row in document.xpath("//tr[td[6] and td[5]/a[@href]]"):
+        name = text_at(row, "./td[position()<=2]")
+        title = text_at(row, "./td[6]")
+        url = profile_link(base, row.xpath("./td[5]/a/@href")[0])
+        if name and title and name != "First Name Last Name":
+            records.append(Entry(name,title,homepage=url))
+    return records
+
+
+def parse_psu(document, base):
+    records = []
+    for link in document.xpath("//div[contains(@class,'views-field-field-name')]//a[contains(@href,'/math/people/')]"):
+        panel = next((e for e in link.iterancestors() if "faculty-card" in e.get("class","").split()), link.getparent().getparent())
+        title = text_at(panel, ".//div[contains(@class,'views-field-field-staff-title')]/div")
+        research = text_at(panel, ".//div[contains(@class,'views-field-field-res')]/div")
+        records.append(Entry(contents(link),title,research,profile_link(base,link.get("href"))))
+    return records
+
+
+def parse_complutense(document, base):
+    records = []
+    for cell in document.xpath("//tr/td[1][p[1][contains(.,',')] and p[2]]"):
+        name = text_at(cell,"./p[1]")
+        last, _, given = name.partition(",")
+        title = contents(cell).removeprefix(name).strip()
+        role = split_role(title)
+        if name and role != "unverified":
+            records.append(Entry(f"{given.strip()} {last.title()}", title, "Geometría y Topología"))
+    return records
+
+
+def parse_granada(document, base):
+    records = []
+    for row in document.xpath("//div[@class='personal']/div[@class='persona']"):
+        links = row.xpath(".//div[@class='nombre']/a[starts-with(@href,'/personal/')]")
+        if links:
+            link = links[0]
+            records.append(Entry(contents(link),text_at(row,".//div[@class='cargo']"),"Geometría y Topología",profile_link(base,link.get("href"))))
+    return records
+
+
+def parse_jyvaskyla(document, base):
+    records = []
+    for link in document.xpath(f"//a[{class_token('liftup--person')} and starts-with(@href,'/en/people/')]"):
+        title = text_at(link, ".//div[contains(@class,'field--name-field-person-title')]")
+        if split_role(title) in ("faculty","emeritus","associated"):
+            records.append(Entry(text_at(link,f".//span[{class_token('heading')}]"),title,profile=profile_link(base,link.get("href"))))
+    return records
+
+
+def parse_polyu(document, base):
+    records = []
+    for row in document.xpath("//div[@class='ppl-detail-blk'][.//span[contains(@class,'ppl-detail-blk__name')]]"):
+        title = text_at(row, ".//p[contains(@class,'ppl-detail-blk__title')]")
+        label = text_at(row, ".//span[contains(@class,'ppl-detail-blk__name')]")
+        profile = next((url for _,url in urls(row,base) if "/ama/people/academic-staff/" in urlparse(url).path),"")
+        homepage = next((url for name,url in urls(row,base) if name.casefold() in {"personal website","website"}),"")
+        records.append(Entry(untitled(label),title,profile=profile,homepage=homepage))
+    return records
+
+
+def parse_weizmann(document, base):
+    records = []
+    for row in document.xpath("//div[@class='person-wrap'][div[@class='second-side']/h2[contains(@class,'font-22')]]"):
+        research = text_at(row,"./div[@class='second-side']/div[@class='person-position']")
+        homepage = next((url for label,url in urls(row,base) if label.casefold() in {"homepage","home page"}),"")
+        name = text_at(row,"./div[@class='second-side']/h2")
+        if name:
+            records.append(Entry(name,"Academic Faculty",research,homepage=homepage))
+    return records
+
+
+def parse_ucl(document, base):
+    records = []
+    for row in document.xpath("//table[.//strong[.='Name']]//tr[td[3] and not(.//strong[.='Name'])]"):
+        name_cell = row.xpath("./td[1]")[0]
+        name = next((clean(t) for t in name_cell.xpath("./text()") if clean(t)), "")
+        title = "Professor" if re.match(r"^Prof(?:essor)?\.? ",name) else "Academic and Lecturing Staff"
+        profile = next((url for label,url in urls(name_cell,base) if label.casefold()=="ucl profile"),"")
+        homepage = next((url for label,url in urls(row,base) if label.casefold() in {"website","personal website","homepage"}),"")
+        if name:
+            records.append(Entry(untitled(name),title,text_at(row,"./td[2]"),profile,homepage))
+    return records
+
+
+def parse_polimi(document, base):
+    records = []
+    for heading in document.xpath("//h2[.='Full Professors' or .='Associate Professors' or .='Assistant Professors']"):
+        section = heading.getparent()
+        for listing in section.itersiblings():
+            if listing.xpath(".//h2"):
+                break
+            if listing.get("class") != "personale":
+                continue
+            row = listing.xpath("./li")[0]
+            links = row.xpath("./a[contains(@href,'?id=') and span[normalize-space()]]")
+            if not links:
+                continue
+            link = links[0]
+            homepage = next((url for label,url in urls(row,base) if "visita la pagina personale" in label.casefold()),"")
+            records.append(Entry(text_at(link,"./span[last()]"),contents(heading).removesuffix("s"),profile=profile_link(base,link.get("href")),homepage=homepage))
+    return records
+
+
+def parse_sapienza(document, base):
+    records = []
+    for row in document.xpath("//tr[td[5] and td[last()]/a[contains(@href,'/lecturer/')]]"):
+        title = text_at(row,"./td[5]")
+        name = text_at(row,"./td[2]") + " " + text_at(row,"./td[1]")
+        records.append(Entry(clean(name),title,profile=profile_link(base,row.xpath("./td[last()]/a/@href")[0])))
+    return records
+
+
+def parse_sns(document, base):
+    return [
+        Entry(contents(link),"Mathematics Teaching Staff",profile=profile_link(base,link.get("href")))
+        for link in document.xpath("//article[.//h2[.='Docenti']]//a[starts-with(@href,'/it/persona/')]")
+    ]
+
+
+def parse_ubc(document, base):
+    records = []
+    for link in document.xpath("//td[contains(@class,'views-field-field-full-name')]/a[starts-with(@href,'/user/')]"):
+        name = contents(link)
+        if name and not name.startswith("["):
+            records.append(Entry(display_name(name),profile=profile_link(base,link.get("href"))))
+    return records
+
+
+def parse_ens(document, base):
+    records = []
+    for panel in document.xpath("//div[@class='awsm-personal-info'][h3 and span]"):
+        title = text_at(panel,"./span")
+        name = text_at(panel,"./h3")
+        if name and title:
+            records.append(Entry(name,title))
+    return records
+
+
 PARSERS = {
     "stanford": parse_stanford, "stonybrook": parse_stonybrook, "stonybrook_group": parse_stonybrook_group,
     "bonn": parse_bonn, "bicmr": parse_bicmr, "princeton": parse_princeton, "princeton_group": parse_princeton_group,
@@ -728,6 +903,10 @@ PARSERS = {
     "technion": parse_technion, "regensburg": parse_regensburg, "fau": parse_fau,
     "grenoble": parse_grenoble, "bielefeld_ag": parse_bielefeld_ag, "muenster_crc": parse_muenster_crc,
     "tsinghua": parse_tsinghua, "tsinghua_ymsc": parse_tsinghua_ymsc, "edinburgh_hodge": parse_edinburgh_hodge,
+    "usc":parse_usc, "usc_group":parse_usc_group, "columbia":parse_columbia, "ucsd":parse_ucsd, "psu":parse_psu,
+    "complutense":parse_complutense, "granada":parse_granada, "jyvaskyla":parse_jyvaskyla, "polyu":parse_polyu,
+    "weizmann":parse_weizmann, "ucl":parse_ucl, "polimi":parse_polimi, "sapienza":parse_sapienza, "sns":parse_sns,
+    "ubc":parse_ubc, "ens":parse_ens,
 }
 
 
