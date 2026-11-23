@@ -1,5 +1,7 @@
 # 几何学者索引
 
+[打开在线学者目录](https://zyx-dirtystar.github.io/geometry-faculty-atlas/)。每次更新 `main` 分支时，GitHub Pages 会重新部署 `dist/` 中的网页。
+
 打开 `dist/index.html` 可浏览目录。用 Node.js 执行 `node build-offline.mjs` 可生成便于转发的单文件网页 `geometry-faculty-atlas.html`。外部来源链接需要联网。协作和提交流程见 [贡献说明](CONTRIBUTING.md)。
 
 名录以 2026 年软科 GRAS 数学 Top 100 为学校池。起始的手工样本和后续采集记录一同显示。学校、个人页、身份和计量的实际覆盖见 [采集进度](collector/PROGRESS.md)。
