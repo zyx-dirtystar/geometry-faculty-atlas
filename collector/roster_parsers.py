@@ -18,7 +18,7 @@ class Entry:
 TOPICS = {
     "complex": re.compile(r"complex (?:differential |algebraic )?geometr|k[äa]hler|hyperk[äa]hler|géométrie complexe|複素(?:微分)?幾何|ケーラー|复几何", re.I),
     "differential": re.compile(r"differential geometr|riemannian geometr|geometric analys|ricci flow|mean curvature flow|scalar curvature|geometric flows?|gauge theory|géométrie (?:différentielle|riemannienne)|analyse géométrique|微分幾何|幾何解析|平均曲率流|リッチフロー|微分几何|几何分析", re.I),
-    "algebraic": re.compile(r"algebraic geometr|birational geometr|enumerative geometr|higher dimensional geometr|algebraic varieties|algebraic (?:surface|cycles)|hodge theory|derived algebraic|schemes and stacks|géométrie (?:algébrique|birationnelle)|代数幾何|代数几何|双有理", re.I),
+    "algebraic": re.compile(r"algebraic (?:(?:and|&) arithmetic )?geometr|arithmetic geometr|birational geometr|enumerative geometr|higher dimensional geometr|algebraic varieties|algebraic (?:surface|cycles)|hodge theory|derived algebraic|schemes and stacks|géométrie (?:algébrique|arithmétique|birationnelle)|代数幾何|代数几何|双有理", re.I),
 }
 ADJACENT = re.compile(r"symplectic|contact geometry|several complex variables|complex analysis|geometric topology|geometry|geometrie|辛几何|多复变", re.I)
 
@@ -407,6 +407,209 @@ def parse_brown_geometry(document, base):
     ]
 
 
+def parse_tokyo(document, base):
+    records = []
+    for table in document.xpath("//table[@class='ichiran_gojyuon']"):
+        name = table.xpath(".//tr[td[1][normalize-space()='Name']]/td[2]")
+        if not name:
+            continue
+        label = contents(name[0])
+        match = re.match(r"(.+?)\s*【([^】]+)】(.*)", label)
+        if not match:
+            continue
+        profile = next((url for _, url in urls(name[0], base)), "")
+        field_cell = table.xpath(".//tr[td[1][normalize-space()='Field of Interest']]/td[2]")
+        for hidden in table.xpath(".//del | .//s | .//strike"):
+            hidden.drop_tree()
+        field = contents(field_cell[0]) if field_cell else ""
+        records.append(Entry(display_name(match[1].title()), (match[2] + match[3]).strip(), field, profile))
+    return records
+
+
+def parse_tokyo_ipmu(document, base):
+    records = []
+    for row in document.xpath("//h4[.='Faculty Members']/following-sibling::table[1]//tr[td[1]//a and td[2]]"):
+        if text_at(row, "./td[2]") != "Mathematics":
+            continue
+        link = row.xpath("./td[1]//a")[0]
+        name = display_name(contents(link)).replace("Todor Eliseev Milanov", "Todor Milanov")
+        records.append(Entry(name, "Academic Faculty", profile=profile_link(base, link.get("href"))))
+    return records
+
+
+def parse_kyoto_rims(document, base):
+    records = []
+    for link in document.xpath("//h3[.='Staff']/following-sibling::div[1]/p[@class='name-le']/a"):
+        title = contents(link.getparent()).removeprefix(contents(link)).strip()
+        name = display_name(contents(link).title())
+        records.append(Entry(name, title, homepage=profile_link(base, link.get("href"))))
+    return records
+
+
+def parse_northwestern(document, base):
+    records = []
+    for card in document.xpath("//div[@class='people-content'][h3/a]"):
+        link = card.xpath("./h3/a")[0]
+        label = next((line for line in card.xpath(".//text()") if "Field(s) of Research:" in line), "")
+        fields = label.partition("Field(s) of Research:")[2].strip()
+        if not fields and label:
+            fields = re.split(r"Phone number:|Office location:", contents(card).partition("Field(s) of Research:")[2], 1)[0].strip()
+        records.append(Entry(contents(link), text_at(card, "./p[@class='title']"), fields, profile_link(base, link.get("href"))))
+    return records
+
+
+def parse_purdue(document, base):
+    records = []
+    for card in document.xpath("//div[@class='people-item'][p[@class='people-name']/a]"):
+        link = card.xpath("./p[@class='people-name']/a")[0]
+        title = text_at(card, "./p[@class='people-title']")
+        field = text_at(card, "./p[@class='people-research']")
+        records.append(Entry(contents(link), title, field, profile_link(base, link.get("href"))))
+    return records
+
+
+def parse_washington(document, base):
+    records = []
+    for card in document.xpath("//div[@class='details'][.//h3/a]"):
+        link = card.xpath(".//h3/a")[0]
+        title = text_at(card, ".//div[contains(@class,'field-job-title')]")
+        field = text_at(card, ".//div[contains(@class,'field-interests')]//a")
+        homepage = next((url for label, url in urls(card, base) if label.casefold() == "website"), "")
+        records.append(Entry(contents(link), title, field, profile_link(base, link.get("href")), homepage))
+    return records
+
+
+def parse_cornell(document, base):
+    records = []
+    for card in document.xpath("//article[@class='person-card'][.//h2/a]"):
+        link = card.xpath(".//h2/a")[0]
+        title = text_at(card, ".//p[@class='person-title']")
+        field = text_at(card, ".//p[@class='person-departments']")
+        records.append(Entry(contents(link), title, field, profile_link(base, link.get("href"))))
+    return records
+
+
+def parse_waterloo(document, base):
+    records = []
+    for row in document.xpath("//main//tr[td[1]//strong and td[2]]"):
+        name = text_at(row, "./td[1]//strong[1]")
+        title = text_at(row, "./td[1]").removeprefix(name).strip()
+        link = next((url for _, url in urls(row.xpath("./td[1]")[0], base)), "")
+        records.append(Entry(name, title, text_at(row, "./td[2]").strip("\u200b "), link))
+    return records
+
+
+def parse_uci_catalog(document, base):
+    return [
+        Entry(text_at(block, "./span[@class='name']"), text_at(block, "./span[@class='title']"),
+              text_at(block, "./span[@class='research']").strip("()"))
+        for block in document.xpath("//div[@class='faculty'][span[@class='name']]")
+    ]
+
+
+def parse_tel_aviv(document, base):
+    records = []
+    for link in document.xpath("//td/a[contains(@href,'/profile/')]"):
+        label = contents(link)
+        title = "Professor" if label.startswith("Prof.") else "Academic Faculty"
+        records.append(Entry(untitled(label), title, profile=profile_link(base, link.get("href"))))
+    return records
+
+
+def parse_hebrew(document, base):
+    records = []
+    for link in document.xpath("//h3/a[@href and normalize-space()]"):
+        if "/people/" not in link.get("href"):
+            continue
+        label = contents(link)
+        card = link.getparent().getparent()
+        homepage = next((url for name, url in urls(card, base) if "personal website" in name.casefold()), "")
+        title = "Professor" if label.startswith("Prof.") else "Academic Faculty"
+        records.append(Entry(untitled(label), title, profile=profile_link(base, link.get("href")), homepage=homepage))
+    return records
+
+
+def parse_sissa(document, base):
+    records = []
+    for item in document.xpath("//h2[.='Faculty']/following-sibling::*[1]//li"):
+        link = item.xpath(".//a[strong]")
+        if not link:
+            continue
+        a = link[0]
+        title = contents(item).removeprefix(contents(a)).strip(" ,")
+        records.append(Entry(contents(a), title, "Geometry", profile_link(base, a.get("href"))))
+    return records
+
+
+def parse_strasbourg(document, base):
+    records = []
+    subject = "Algebraic Geometry" if "géométrie algébrique" in text_at(document, "//h1").casefold() else "Geometry"
+    for row in document.xpath("//h3[.='Membres permanents']/following-sibling::ul[1]/li"):
+        name, _, title = contents(row).partition(",")
+        if not title.strip():
+            continue
+        url = next((url for _, url in urls(row, base)), "")
+        records.append(Entry(name.strip(), title.strip(), subject, homepage=url))
+    return records
+
+
+def parse_maryland(document, base):
+    records = []
+    for heading in document.xpath(f"//h3[{class_token('tm-title')}]"):
+        card = heading.getparent()
+        title = next((clean(line) for line in heading.xpath("following-sibling::text()") if clean(line)), "")
+        homepage = next((url for label, url in urls(card, base) if label.casefold() == "website"), "")
+        records.append(Entry(display_name(contents(heading)), title, homepage=homepage))
+    return records
+
+
+def parse_caltech(document, base):
+    records = []
+    for heading in document.xpath("//nav/h2[.='Professorial Faculty' or .='Emeritus Faculty' or .='Teaching Faculty']"):
+        title = {
+            "Professorial Faculty": "Academic Faculty", "Emeritus Faculty": "Professor Emeritus",
+            "Teaching Faculty": "Instructor",
+        }[contents(heading)]
+        for link in heading.getparent().xpath("./ul/li/a[starts-with(@href,'/people/')]"):
+            profile = profile_link(base, link.get("href")).split("?", 1)[0]
+            records.append(Entry(contents(link), title, profile=profile))
+    return records
+
+
+def parse_illinois(document, base):
+    records = []
+    for card in document.xpath(f"//article[{class_token('profile-card')}]"):
+        link = card.xpath(f"./a[{class_token('profile-card__link')}]")
+        if not link:
+            continue
+        title = text_at(card, ".//div[contains(@class,'field-dircore-appt-title-local')]")
+        records.append(Entry(contents(link[0]), title, profile=profile_link(base, link[0].get("href"))))
+    return records
+
+
+def parse_manchester(document, base):
+    records = []
+    for row in document.xpath("//h2[.='Academic staff']/following-sibling::ul[1]/li"):
+        for name, profile in urls(row, base):
+            title = contents(row).removeprefix(name).strip(" –-")
+            records.append(Entry(name, title, profile=profile))
+    return records
+
+
+def parse_georgia_tech(document, base):
+    records = {}
+    for heading in document.xpath("//h3[normalize-space()]"):
+        field = contents(heading)
+        for listing in heading.xpath("./following-sibling::ul[1]"):
+            for name, link in urls(listing, base):
+                if "/people/" not in urlparse(link).path:
+                    continue
+                person = records.setdefault(name, Entry(name, profile=profile_link(base, link)))
+                # These groups cover several specialties. The individual’s profile must identify the field.
+                person.research = " / ".join(filter(None, (person.research, field.replace("Algebra, Number Theory, and Algebraic Geometry", "Algebra and Number Theory Group"))))
+    return list(records.values())
+
+
 PARSERS = {
     "stanford": parse_stanford, "stonybrook": parse_stonybrook, "stonybrook_group": parse_stonybrook_group,
     "bonn": parse_bonn, "bicmr": parse_bicmr, "princeton": parse_princeton, "princeton_group": parse_princeton_group,
@@ -416,6 +619,11 @@ PARSERS = {
     "ucla": parse_ucla, "ucla_geometry": parse_ucla_geometry, "yale": parse_yale, "kyoto": parse_kyoto, "warwick_ag": parse_warwick_ag,
     "oxford": parse_oxford, "oxford_geometry": parse_oxford_geometry, "warwick": parse_warwick, "duke": parse_duke,
     "uchicago": parse_uchicago, "imperial": parse_imperial, "brown_geometry": parse_brown_geometry,
+    "tokyo": parse_tokyo, "tokyo_ipmu": parse_tokyo_ipmu, "kyoto_rims": parse_kyoto_rims, "northwestern": parse_northwestern, "purdue": parse_purdue,
+    "washington": parse_washington, "cornell": parse_cornell, "waterloo": parse_waterloo, "uci_catalog": parse_uci_catalog,
+    "tel_aviv": parse_tel_aviv, "hebrew": parse_hebrew, "sissa": parse_sissa, "strasbourg": parse_strasbourg,
+    "maryland": parse_maryland, "caltech": parse_caltech, "illinois": parse_illinois,
+    "manchester": parse_manchester, "georgia_tech": parse_georgia_tech,
 }
 
 
@@ -435,15 +643,31 @@ def profile_fields(document, base):
         value = contents(block)
         if value and len(value) < 500:
             research.append(value)
+    for row in main.xpath(".//tr[td[1][normalize-space()='Field of Interest' or normalize-space()='Research Interests']]/td[2]"):
+        value = contents(row)
+        if value and len(value) < 600:
+            research.append(value)
     homepage = cv = bibliography = ""
     for label, url in urls(main, base):
         low = label.lower()
         host = urlparse(url).hostname or ""
-        if not homepage and low in {"home page", "homepage", "personal website", "personal homepage", "professional website", "website", "personal web page", "web site", "個人ホームページ"}:
+        if not homepage and low in {"home page", "my home page", "homepage", "personal website", "my personal website", "personal homepage", "professional website", "website", "personal web page", "web site", "個人ホームページ"}:
             if host not in {"linkedin.com", "www.linkedin.com", "zoom.us"} and not host.endswith(".zoom.us"):
                 homepage = url
-        if not cv and re.search(r"^(?:(?:my|short|brief|latest|full) )?(?:curriculum vit[æa]e|curriculum vitae|cv|vita|resume|résumé|简历)\b", low):
+        if not cv and re.search(r"^(?:(?:my|short|brief|latest|full) )?(?:(?:curriculum|cv|vita|lebenslauf|résumé|resume)\b|简历|履歴書|略歴)", low):
             cv = url
         if not bibliography and low in {"publications","papers","research papers","publications and preprints","research publications"}:
             bibliography = url
+    if not cv:
+        for link in main.xpath(".//a[@href]"):
+            href = profile_link(base, link.get("href"))
+            target = urlparse(href)
+            if target.scheme != "https" or target.username or target.password:
+                continue
+            if not re.search(r"(?:^|[-_./])(?:cv|vita|curriculum-vitae)(?:[-_.]|$)", target.path, re.I):
+                continue
+            context = contents(link.getparent())
+            if len(context) < 220 and re.search(r"curriculum vitae|\bCV\b", context, re.I):
+                cv = href
+                break
     return {"research":" / ".join(dict.fromkeys(research)), "homepage":homepage, "cv":cv, "publications":bibliography}

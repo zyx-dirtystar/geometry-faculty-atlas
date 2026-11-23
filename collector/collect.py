@@ -18,7 +18,7 @@ import time
 import unicodedata
 from urllib.parse import urlparse
 
-from lxml import html
+from lxml import etree, html
 
 from roster_parsers import ADJACENT, PARSERS, matched_fields, profile_fields, split_role
 from snapshot import CACHE, ROOT, load_sources, save_source
@@ -48,12 +48,16 @@ PROFILE_HOSTS = {
     "ucla": {"ww3.math.ucla.edu", "www.math.ucla.edu", "math.ucla.edu"},
     "berkeley": {"math.berkeley.edu", "www.math.berkeley.edu"},
     "yale": {"math.yale.edu", "users.math.yale.edu", "www.math.yale.edu"},
-    "kyoto": {"www.math.kyoto-u.ac.jp", "www.kurims.kyoto-u.ac.jp"},
+    "kyoto": {"www.math.kyoto-u.ac.jp", "www.kurims.kyoto-u.ac.jp", "kdb.iimc.kyoto-u.ac.jp"},
     "warwick": {"warwick.ac.uk", "www.warwick.ac.uk", "homepages.warwick.ac.uk"},
     "duke": {"math.duke.edu", "scholars.duke.edu", "www.math.duke.edu", "services.math.duke.edu"},
     "uchicago": {"mathematics.uchicago.edu", "math.uchicago.edu"},
     "imperial": {"profiles.imperial.ac.uk", "www.imperial.ac.uk"},
     "brown": {"mathematics.brown.edu", "www.math.brown.edu"},
+    "tokyo": {"www.ms.u-tokyo.ac.jp", "www.ipmu.jp", "member.ipmu.jp"},
+    "washington": {"math.washington.edu", "sites.math.washington.edu", "www.math.washington.edu"},
+    "hebrew-jerusalem": {"mathematics.huji.ac.il", "math.huji.ac.il", "www.math.huji.ac.il"},
+    "harvard": {"www.math.harvard.edu", "people.math.harvard.edu"},
 }
 UNITS = {"stanford":"数学系", "princeton":"数学系", "stony-brook":"数学系", "bonn":"Bonn Mathematics", "pku":"北京国际数学研究中心"}
 
@@ -155,7 +159,19 @@ def read_snapshot(source_id):
     content = snapshot.read_bytes()
     if sha256(content).hexdigest() != meta["sha256"]:
         return meta, None
-    return meta, html.fromstring(content, parser=html.HTMLParser(encoding="utf-8"))
+    try:
+        content.decode("utf-8")
+    except UnicodeDecodeError:
+        declared = re.search(rb"charset\s*=\s*[\"']?\s*([\w.-]+)", content[:8192], re.I)
+        encoding = declared[1].decode("ascii") if declared else "windows-1252"
+        try:
+            content = content.decode(encoding, errors="replace").encode("utf-8")
+        except LookupError:
+            content = content.decode("windows-1252", errors="replace").encode("utf-8")
+    try:
+        return meta, html.fromstring(content, parser=html.HTMLParser(encoding="utf-8"))
+    except etree.ParserError:
+        return meta, None
 
 
 def seen_date(meta):
@@ -236,14 +252,21 @@ def population(db):
         group["affiliation_url"] = review.get("affiliation") or (active["profile"] or active["source_url"] if active else "")
         group["profile"] = review.get("affiliation") or next((row["profile"] for row in evidence if row["profile"]), "")
         group["homepage"] = review.get("homepage") or next((row["homepage"] for row in evidence if row["homepage"]), "")
-        sources = [{"text":row["research"], "url":row["source_url"]} for row in evidence if row["research"]]
+        sources = [
+            {"text":row["research"], "url":row["source_url"]} for row in evidence
+            if row["research"] and not review.get("replace_research")
+        ]
         if review.get("research"):
             sources.append({"text":review["research"],"url":review["research_source"]})
         cv = review.get("cv") or ""
         publications = review.get("publications") or ""
-        for url in dict.fromkeys([group["profile"], group["homepage"]]):
+        is_relevant_role = group["role"] in ("faculty","unverified")
+        official = profiles.get(group["profile"], {}) if is_relevant_role else {}
+        if not group["homepage"] and official.get("homepage"):
+            group["homepage"] = official["homepage"]
+        for url in dict.fromkeys([group["profile"], group["homepage"]]) if is_relevant_role else ():
             profile = profiles.get(url, {})
-            if profile.get("research"):
+            if profile.get("research") and not review.get("replace_research"):
                 sources.append({"text":profile["research"],"url":url})
             if not group["homepage"] and profile.get("homepage"):
                 group["homepage"] = profile["homepage"]
@@ -283,6 +306,9 @@ def allowed_profile(school, url):
 def fetch_profiles(db, schools, refresh=False, max_profiles=0):
     queue = {}
     current = {row["url"]:row["status"] for row in db.execute("SELECT url,status FROM profiles")}
+    for source in load_sources():
+        if source["parser"] != "pending":
+            PROFILE_HOSTS.setdefault(source["school"], set()).add(urlparse(source["url"]).hostname)
     people = sorted(population(db), key=lambda row: (row["decision"] != "candidate", row["school"], row["name"]))
     for person in people:
         school = person["school"]
@@ -352,7 +378,6 @@ def make_patch(seed, data, source_rows):
     used_ids = {p["id"] for p in seed["people"]}
     anchors, findings, reviewed, review_notes = metrics_evidence()
     additions = []
-    selected = Counter()
     for person in data:
         if person["decision"] != "candidate":
             continue
@@ -360,7 +385,6 @@ def make_patch(seed, data, source_rows):
         key = name_key(person["name"])
         seeded = original.get((school,key))
         if seeded is not None:
-            selected[school] += 1
             continue
         if key in original_names or cross_school[key] > 1:
             person["decision"] = "affiliation_review"
@@ -393,19 +417,40 @@ def make_patch(seed, data, source_rows):
             "papers":finding.get("papers",[]), "directoryEvidence":sources,
             "checkedAt":person["checked_at"], "recordStatus":"directory",
         })
-        selected[school] += 1
     school_patches = []
+    listed = {}
+    roster_audit = {row["id"]:row for row in load_sources() if "audited_count" in row}
+    for person in seed["people"] + additions:
+        for affiliation in person["affiliations"]:
+            listed.setdefault(affiliation["schoolId"], []).append(person)
     for school in seed["schools"]:
         school_id = school["id"]
         sources = [item for item in source_rows if item["school"] == school_id]
         if not sources:
             continue
-        count = sum(person["school"] == school_id for person in data)
         successful = [item for item in sources if item["status"] == "parsed"]
         parsed = len(successful)
         refs = [[source["label"],source["url"]] for source in sources]
-        note = f"已解析 {parsed}/{len(sources)} 个登记目录，去重登记 {count} 人。校级名单仍需对账。"
-        state = "sample" if selected[school_id] or school["coverage"] == "sample" else "limited"
+        pending = sum(person["school"] == school_id and person["decision"] in ("topic_review","role_review","affiliation_review") for person in data)
+        people = listed.get(school_id, [])
+        covers = [
+            f"个人主页 {sum(bool(p.get('homepage')) for p in people)}",
+            f"CV {sum(bool(p.get('cvUrl')) for p in people)}",
+            f"指标 {sum(bool(p.get('metrics')) for p in people)}",
+        ]
+        note = f"已解析 {parsed}/{len(sources)} 个登记来源，{pending} 条任职或方向待核。"
+        checked_lists = [
+            row["label"] for row in successful
+            if roster_audit.get(row["id"], {}).get("audited_count") == row["count"]
+            and roster_audit[row["id"]]["audit_date"] == row["checked_at"]
+        ]
+        if checked_lists:
+            note += f" 已逐条核对 {'、'.join(checked_lists)}。"
+        if people:
+            note += f" 已收录 {len(people)} 位学者，" + "、".join(covers) + "。"
+        if not parsed:
+            note += " 官方目录内容待提取。"
+        state = "sample" if people or parsed else "limited"
         latest_check = max((item["checked_at"] or "" for item in successful), default="") or school.get("checkedAt")
         school_patches.append({"id":school_id, "coverage":state, "coverageNote":note,
                                "rosterLinks":refs,"checkedAt":latest_check})
@@ -488,15 +533,18 @@ def export(db, seed):
         f"有个人主页 {homepage_count} 位、公开 CV {cv_count} 位、OpenAlex 论文及引用指标 {metrics} 位。缺失字段标为待核。",
         f"已解析 {profile_count} 个个人页面。校级全名单对账完成 0 所。",
         "",
-        "| 学校 | 状态 | 目录 | 已分类相关人员 | 待核任职或方向 |",
-        "| --- | --- | --- | ---: | ---: |",
+        "| 学校 | 状态 | 官方来源 | 网页学者 | 主页 / CV / 指标 | 待核任职或方向 |",
+        "| --- | --- | --- | ---: | ---: | ---: |",
     ]
     for school in seed["schools"]:
         sl = [row for row in sources if row["school"] == school["id"]]
         pl = [p for p in candidates if p["school"] == school["id"]]
-        label = "待发现来源" if not sl else "工作名单" if any(row["status"] == "parsed" for row in sl) else "来源待复核"
+        listed = [person for person in seed["people"] + patch["people"] if any(a["schoolId"] == school["id"] for a in person["affiliations"])]
+        label = "待发现来源" if not sl else "工作名单" if listed or any(row["status"] == "parsed" for row in sl) else "来源待复核"
         links = " · ".join(f"[{r['label']}]({r['url']})" for r in sl)
-        lines.append(f"| {school['nameZh']} | {label} | {links} | {sum(p['decision']=='candidate' for p in pl)} | {sum(p['decision'] in ('topic_review','role_review','affiliation_review') for p in pl)} |")
+        coverage = " / ".join(str(sum(bool(p.get(field)) for p in listed)) for field in ("homepage","cvUrl","metrics"))
+        pending = sum(p["decision"] in ("topic_review","role_review","affiliation_review") for p in pl)
+        lines.append(f"| {school['nameZh']} | {label} | {links} | {len(listed)} | {coverage} | {pending} |")
     lines += ["", "## 来源待处理", ""]
     for row in sources:
         if row["status"] != "parsed":

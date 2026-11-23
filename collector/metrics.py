@@ -33,11 +33,11 @@ def inspect(anchor):
     papers = []
     for doi in anchor["doi"]:
         work = api("/works/https://doi.org/" + quote(doi,safe="/."),select="display_name,doi,authorships,publication_year")
-        matches = [entry for entry in work.get("authorships",[]) if name_key(entry["author"].get("display_name") or "") in accepted_names]
+        matches = [entry for entry in work.get("authorships",[]) if name_key((entry.get("author") or {}).get("display_name") or "") in accepted_names]
         if len(matches) != 1:
             return {"status":"identity_review","reason":"论文作者姓名没有唯一匹配。"}
         author = matches[0]
-        new_id = author["author"].get("id","").rsplit("/",1)[-1]
+        new_id = (author["author"].get("id") or "").rsplit("/",1)[-1]
         if not re.fullmatch(r"A\d+",new_id) or (identifier and identifier != new_id):
             return {"status":"identity_review","reason":"同一人的论文指向不同作者档案。"}
         identifier = new_id

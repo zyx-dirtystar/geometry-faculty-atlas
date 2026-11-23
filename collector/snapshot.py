@@ -9,9 +9,10 @@ import json
 import os
 from pathlib import Path
 from shutil import which
+import ssl
 import subprocess
 import time
-from urllib.error import HTTPError
+from urllib.error import HTTPError, URLError
 from urllib.parse import urlparse
 from urllib.request import Request, urlopen
 
@@ -53,6 +54,10 @@ def get_page(url, transport=None):
                 raise
             delay = error.headers.get("Retry-After", "2")
             time.sleep(min(int(delay), 15) if delay.isdigit() else 2)
+        except URLError as error:
+            if os.name == "nt" and isinstance(error.reason, ssl.SSLCertVerificationError):
+                return get_page(url, "system")
+            raise
 
 
 def save_source(source, refresh=False):
