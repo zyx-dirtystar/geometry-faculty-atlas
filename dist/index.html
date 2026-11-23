@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="description" content="按院校和研究方向查找复几何、微分几何与代数几何学者，核对 CV、个人主页、代表论文及 OpenAlex 指标。">
+  <title>几何学者索引</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="schools.js"></script>
+  <script defer src="faculty.js"></script>
+  <script defer src="collection.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到目录内容</a>
+  <header class="site-header">
+    <div class="shell header-inner">
+      <button class="brand" type="button" data-view="directory" aria-label="打开学者目录">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span>几何学者索引</span>
+      </button>
+      <nav class="navigation" aria-label="主要导航">
+        <button type="button" data-nav="directory" data-view="directory" aria-current="page">学者目录</button>
+        <button type="button" data-nav="schools" data-view="schools">学校索引</button>
+        <button type="button" data-nav="saved" data-view="saved">收藏 <span id="saved-total">0</span></button>
+        <button type="button" data-nav="method" data-view="method">采集说明</button>
+      </nav>
+      <button class="button header-action" type="button" id="data-button">管理数据</button>
+    </div>
+  </header>
+
+  <section class="hero" aria-labelledby="site-title">
+    <div class="shell hero-inner">
+      <div class="hero-copy">
+        <a class="scope" id="rank-link" href="https://www.shanghairanking.com/rankings/gras/2026/AS0101" target="_blank" rel="noopener noreferrer">软科 GRAS 2026 · 数学</a>
+        <h1 id="site-title">几何学者索引</h1>
+        <p>从研究方向出发，查找博士访问与博士后合作对象。</p>
+      </div>
+      <dl class="stats" aria-label="目录覆盖">
+        <div><dt>榜单院校</dt><dd id="scope-total">100</dd></div>
+        <div><dt>已有记录的院校</dt><dd id="sampled-total">6</dd></div>
+        <div><dt>已收录学者</dt><dd id="faculty-total">12</dd></div>
+      </dl>
+    </div>
+  </section>
+
+  <main class="shell main" id="main" tabindex="-1">
+    <div class="coverage" id="coverage" role="status">
+      <strong>学者资料正在分校收录</strong>
+      <span id="coverage-text">可在学校索引中查看每校的收录状态。</span>
+      <button class="text-button" type="button" data-view="schools">查看学校索引</button>
+    </div>
+
+    <div id="directory-view" class="directory-layout">
+      <aside class="filters surface" aria-labelledby="filter-head">
+        <div class="filter-title">
+          <h2 id="filter-head">筛选</h2>
+          <button class="text-button" type="button" id="reset-filters">清空</button>
+        </div>
+        <div class="filter-group">
+          <label for="school-filter">学校</label>
+          <select id="school-filter"><option value="">全部学校</option></select>
+        </div>
+        <div class="filter-group">
+          <label for="region-filter">国家或地区</label>
+          <select id="region-filter"><option value="">全部地区</option></select>
+        </div>
+        <fieldset class="filter-group fields">
+          <legend>研究方向 <span>可多选</span></legend>
+          <label><input type="checkbox" name="field" value="complex"><span class="field-dot complex"></span>复几何</label>
+          <label><input type="checkbox" name="field" value="differential"><span class="field-dot differential"></span>微分几何</label>
+          <label><input type="checkbox" name="field" value="algebraic"><span class="field-dot algebraic"></span>代数几何</label>
+        </fieldset>
+        <fieldset class="filter-group fields">
+          <legend>资料</legend>
+          <label><input type="checkbox" id="cv-filter">有公开 CV</label>
+          <label><input type="checkbox" id="metrics-filter">有已核对指标</label>
+        </fieldset>
+        <div class="filter-group suggested">
+          <h3>课题关键词</h3>
+          <div class="keyword-buttons">
+            <button type="button" data-keyword="紧化">紧化</button>
+            <button type="button" data-keyword="Hodge">Hodge</button>
+            <button type="button" data-keyword="Reeb">Reeb</button>
+            <button type="button" data-keyword="Kähler">Kähler</button>
+            <button type="button" data-keyword="辛同调">辛同调</button>
+          </div>
+        </div>
+      </aside>
+      <section class="results" aria-labelledby="directory-heading">
+        <div class="directory-search surface">
+          <label class="searchbox" for="faculty-search">
+            <span class="search-icon" aria-hidden="true"></span>
+            <span class="sr-only">搜索学者</span>
+            <input id="faculty-search" type="search" placeholder="搜索姓名、学校、关键词或论文" autocomplete="off">
+          </label>
+          <button class="button" type="button" id="export-csv">导出 CSV</button>
+        </div>
+        <div id="school-overview" class="school-overview surface" hidden></div>
+        <div class="section-heading">
+          <div>
+            <h2 id="directory-heading">学者目录</h2>
+            <p id="directory-count" aria-live="polite"></p>
+          </div>
+          <label class="sort-label">排序
+            <select id="sort">
+              <option value="school">学校名次</option>
+              <option value="name">姓名</option>
+              <option value="articles">文章数（OpenAlex）</option>
+              <option value="citations">引用量（OpenAlex）</option>
+            </select>
+          </label>
+        </div>
+        <div id="faculty-list" class="faculty-list"></div>
+        <div id="faculty-pages" class="pagination"></div>
+      </section>
+    </div>
+
+    <section id="schools-view" class="wide-view" aria-labelledby="schools-heading" hidden>
+      <div class="section-heading first-heading">
+        <div>
+          <h2 id="schools-heading">学校索引</h2>
+          <p>点击一所学校查看研究者、收录进度和已核对的院系入口。</p>
+        </div>
+      </div>
+      <div class="school-search surface">
+        <label class="searchbox" for="school-search">
+          <span class="search-icon" aria-hidden="true"></span>
+          <span class="sr-only">搜索学校</span>
+          <input id="school-search" type="search" placeholder="搜索校名或简称，例如北大、EPFL" autocomplete="off">
+        </label>
+        <label class="compact-label"><span class="sr-only">学校所在地区</span>
+          <select id="school-region"><option value="">全部地区</option></select>
+        </label>
+        <label class="compact-label"><span class="sr-only">学校收录进度</span>
+          <select id="coverage-filter">
+            <option value="">所有收录状态</option>
+            <option value="sample">已有样本</option>
+            <option value="verified">目录已对账</option>
+            <option value="pending">待采集</option>
+            <option value="limited">来源受限</option>
+          </select>
+        </label>
+      </div>
+      <p class="list-caption" id="school-count" aria-live="polite"></p>
+      <div id="school-list" class="school-list surface"></div>
+      <div id="school-pages" class="pagination"></div>
+    </section>
+
+    <section id="method-view" class="wide-view" aria-labelledby="method-heading" hidden>
+      <div class="section-heading first-heading">
+        <div>
+          <h2 id="method-heading">采集说明</h2>
+          <p>获取提示词，通过导入经核对的新批次扩充目录。</p>
+        </div>
+        <a class="button button-primary" href="research-prompt.md" download="几何学者库采集提示词.md">下载完整 Prompt</a>
+      </div>
+      <div class="method-grid">
+        <article class="surface method-card">
+          <h3>院校与任职</h3>
+          <p>学校池来自 2026 年软科数学学科榜。按原榜保留并列和名次区间。学者当前职务依据院系或研究所页面。</p>
+          <a href="https://www.shanghairanking.com/rankings/gras/2026/AS0101" target="_blank" rel="noopener noreferrer">查看原始榜单</a>
+        </article>
+        <article class="surface method-card">
+          <h3>论文与引用</h3>
+          <p>文章数按 OpenAlex 的 article 类型计数。收录成果还包括书籍、预印本等。引用量和 h 指数对应 OpenAlex 作者档案。</p>
+          <a href="https://help.openalex.org/data/authors/" target="_blank" rel="noopener noreferrer">查看指标定义</a>
+        </article>
+        <article class="surface method-card">
+          <h3>身份核验</h3>
+          <p>核对机构、代表论文与作者 ID。出现同名混录时保留来源和待核原因。每项指标附日期和原始链接。</p>
+          <p>CV 使用作者或机构公布的原始链接。</p>
+        </article>
+        <article class="surface method-card">
+          <h3>后续扩充</h3>
+          <p>逐校检查数学系和相关研究中心目录，核对研究方向与任职，保存新增学者、证据和收录状态。</p>
+          <button class="text-button" id="export-json-method" type="button">下载当前数据作为导入示例</button>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer"><div class="shell"><span>几何学者索引</span><span id="footer-date">首批资料核对于 2026-11-23</span></div></footer>
+
+  <dialog id="profile-dialog" class="modal" aria-labelledby="profile-name">
+    <div class="modal-panel">
+      <button type="button" class="close-button" aria-label="关闭学者详情" data-close>×</button>
+      <div id="profile-content"></div>
+    </div>
+  </dialog>
+
+  <dialog id="data-dialog" class="modal data-modal" aria-labelledby="data-title">
+    <div class="modal-panel">
+      <button type="button" class="close-button" aria-label="关闭数据管理" data-close>×</button>
+      <h2 id="data-title">管理数据</h2>
+      <p>用 JSON 保存或合并名录。收藏、联系状态和备注保存在当前浏览器。</p>
+      <div class="data-actions">
+        <button class="button button-primary" type="button" id="export-json">导出目录 JSON</button>
+        <button class="button" type="button" id="import-json">导入并合并 JSON</button>
+        <input type="file" id="catalog-file" accept=".json,application/json" hidden>
+        <button class="button" type="button" id="export-saved">导出收藏与备注</button>
+      </div>
+      <p id="import-status" class="import-status" role="status"></p>
+    </div>
+  </dialog>
+  <output id="notice" class="toast" aria-live="polite" hidden></output>
+</body>
+</html>

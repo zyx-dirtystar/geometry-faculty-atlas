@@ -1,0 +1,11 @@
+/.openai/
+/.env
+/.env.*
+/.venv/
+/.vscode/
+/geometry-faculty-atlas.html
+/collector/metric-findings.json
+/collector/progress.sqlite3*
+**/__pycache__/
+**/*.tmp
+**/geometry-faculty-private-notes*.json

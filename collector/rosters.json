@@ -1,0 +1,19 @@
+[
+  {"id":"stanford-math","school":"stanford","name":"数学系 Faculty & Lecturers","url":"https://mathematics.stanford.edu/people/faculty-lecturers","parser":"stanford","kind":"department"},
+  {"id":"stanford-geometry","school":"stanford","name":"数学系几何组","url":"https://mathematics.stanford.edu/research/geometry","parser":"stanford","kind":"research"},
+  {"id":"sbu-math","school":"stony-brook","name":"数学系 Faculty","url":"https://www.math.stonybrook.edu/faculty","parser":"stonybrook","kind":"department"},
+  {"id":"sbu-algebraic","school":"stony-brook","name":"代数几何研究组","url":"https://www.math.stonybrook.edu/AlgebraicGeometry/","parser":"stonybrook_group","kind":"research"},
+  {"id":"bonn-math","school":"bonn","name":"Bonn Mathematics People","url":"https://www.mathematics.uni-bonn.de/en/people/people","parser":"bonn","kind":"department","transport":"system"},
+  {"id":"pku-math","school":"pku","name":"数学科学学院英文教师目录","url":"https://math-en.pku.edu.cn/Faculty/Facuity/ALL/","parser":"pku","kind":"department"},
+  {"id":"pku-pure-1","school":"pku","name":"数学系 Faculty（第 1 页）","url":"https://math.pku.edu.cn/puremath_en/people/faculty/","parser":"pku_pure","kind":"department"},
+  {"id":"pku-pure-2","school":"pku","name":"数学系 Faculty（第 2 页）","url":"https://math.pku.edu.cn/puremath_en/people/faculty/index1.htm","parser":"pku_pure","kind":"department"},
+  {"id":"pku-pure-3","school":"pku","name":"数学系 Faculty（第 3 页）","url":"https://math.pku.edu.cn/puremath_en/people/faculty/index2.htm","parser":"pku_pure","kind":"department"},
+  {"id":"pku-bicmr","school":"pku","name":"北京国际数学研究中心教师目录","url":"https://bicmr.pku.edu.cn/content/lists/11.html","parser":"bicmr","kind":"center"},
+  {"id":"pku-bicmr-2","school":"pku","name":"北京国际数学研究中心教师目录（第 2 页）","url":"https://bicmr.pku.edu.cn/content/lists/11_catid74_2.html","parser":"bicmr","kind":"center"},
+  {"id":"pku-bicmr-3","school":"pku","name":"北京国际数学研究中心教师目录（第 3 页）","url":"https://bicmr.pku.edu.cn/content/lists/11_catid74_3.html","parser":"bicmr","kind":"center"},
+  {"id":"pku-bicmr-4","school":"pku","name":"北京国际数学研究中心教师目录（第 4 页）","url":"https://bicmr.pku.edu.cn/content/lists/11_catid74_4.html","parser":"bicmr","kind":"center"},
+  {"id":"pku-bicmr-5","school":"pku","name":"北京国际数学研究中心教师目录（第 5 页）","url":"https://bicmr.pku.edu.cn/content/lists/11_catid74_5.html","parser":"bicmr","kind":"center"},
+  {"id":"princeton-math","school":"princeton","name":"数学系 People","url":"https://www.math.princeton.edu/people","parser":"princeton","kind":"department"},
+  {"id":"princeton-research","school":"princeton","name":"数学系 Faculty Research","url":"https://www.math.princeton.edu/graduate/faculty-research","parser":"princeton_group","kind":"research"},
+  {"id":"rutgers-research","school":"rutgers","name":"数学系 Research by Area","url":"https://www.math.rutgers.edu/research/research-by-area","parser":"rutgers","kind":"research","transport":"system"}
+]

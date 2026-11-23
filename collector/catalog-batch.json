@@ -1,0 +1,1379 @@
+{
+  "schemaVersion": 1,
+  "ranking": {
+    "title": "软科 GRAS 2026 · 数学",
+    "year": 2026,
+    "subject": "Mathematics",
+    "url": "https://www.shanghairanking.com/rankings/gras/2026/AS0101",
+    "checkedAt": "2026-11-23"
+  },
+  "schools": [
+    {
+      "id": "princeton",
+      "coverage": "sample",
+      "coverageNote": "已解析 2/2 个登记目录，去重登记 95 人。校级名单仍需对账。",
+      "rosterLinks": [
+        [
+          "数学系 People",
+          "https://www.math.princeton.edu/people"
+        ],
+        [
+          "数学系 Faculty Research",
+          "https://www.math.princeton.edu/graduate/faculty-research"
+        ]
+      ],
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "stanford",
+      "coverage": "sample",
+      "coverageNote": "已解析 2/2 个登记目录，去重登记 68 人。校级名单仍需对账。",
+      "rosterLinks": [
+        [
+          "数学系几何组",
+          "https://mathematics.stanford.edu/research/geometry"
+        ],
+        [
+          "数学系 Faculty & Lecturers",
+          "https://mathematics.stanford.edu/people/faculty-lecturers"
+        ]
+      ],
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "rutgers",
+      "coverage": "sample",
+      "coverageNote": "已解析 0/1 个登记目录，去重登记 0 人。校级名单仍需对账。",
+      "rosterLinks": [
+        [
+          "数学系 Research by Area",
+          "https://www.math.rutgers.edu/research/research-by-area"
+        ]
+      ],
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "bonn",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/1 个登记目录，去重登记 75 人。校级名单仍需对账。",
+      "rosterLinks": [
+        [
+          "Bonn Mathematics People",
+          "https://www.mathematics.uni-bonn.de/en/people/people"
+        ]
+      ],
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "stony-brook",
+      "coverage": "sample",
+      "coverageNote": "已解析 2/2 个登记目录，去重登记 88 人。校级名单仍需对账。",
+      "rosterLinks": [
+        [
+          "代数几何研究组",
+          "https://www.math.stonybrook.edu/AlgebraicGeometry/"
+        ],
+        [
+          "数学系 Faculty",
+          "https://www.math.stonybrook.edu/faculty"
+        ]
+      ],
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "pku",
+      "coverage": "sample",
+      "coverageNote": "已解析 8/9 个登记目录，去重登记 96 人。校级名单仍需对账。",
+      "rosterLinks": [
+        [
+          "北京国际数学研究中心教师目录",
+          "https://bicmr.pku.edu.cn/content/lists/11.html"
+        ],
+        [
+          "北京国际数学研究中心教师目录（第 2 页）",
+          "https://bicmr.pku.edu.cn/content/lists/11_catid74_2.html"
+        ],
+        [
+          "北京国际数学研究中心教师目录（第 3 页）",
+          "https://bicmr.pku.edu.cn/content/lists/11_catid74_3.html"
+        ],
+        [
+          "北京国际数学研究中心教师目录（第 4 页）",
+          "https://bicmr.pku.edu.cn/content/lists/11_catid74_4.html"
+        ],
+        [
+          "北京国际数学研究中心教师目录（第 5 页）",
+          "https://bicmr.pku.edu.cn/content/lists/11_catid74_5.html"
+        ],
+        [
+          "数学科学学院英文教师目录",
+          "https://math-en.pku.edu.cn/Faculty/Facuity/ALL/"
+        ],
+        [
+          "数学系 Faculty（第 1 页）",
+          "https://math.pku.edu.cn/puremath_en/people/faculty/"
+        ],
+        [
+          "数学系 Faculty（第 2 页）",
+          "https://math.pku.edu.cn/puremath_en/people/faculty/index1.htm"
+        ],
+        [
+          "数学系 Faculty（第 3 页）",
+          "https://math.pku.edu.cn/puremath_en/people/faculty/index2.htm"
+        ]
+      ],
+      "checkedAt": "2026-11-23"
+    }
+  ],
+  "people": [
+    {
+      "id": "tudor-padurariu",
+      "name": "Tudor Pădurariu",
+      "affiliations": [
+        {
+          "schoolId": "bonn",
+          "department": "Bonn Mathematics",
+          "title": "Professor",
+          "url": "https://www.mathematics.uni-bonn.de/en/people/people",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic Geometry"
+      ],
+      "homepage": "https://sites.google.com/view/tudorpadurariu/home",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic Geometry",
+          "url": "https://www.mathematics.uni-bonn.de/en/people/people"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "fumiaki-suzuki",
+      "name": "Fumiaki Suzuki",
+      "affiliations": [
+        {
+          "schoolId": "pku",
+          "department": "北京国际数学研究中心",
+          "title": "Assistant Professor",
+          "url": "https://bicmr.pku.edu.cn/content/lists/11_catid74_3.html",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic Cycles, Birational Geometry and Hodge Theory"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic Cycles, Birational Geometry and Hodge Theory",
+          "url": "https://bicmr.pku.edu.cn/content/lists/11_catid74_3.html"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jihao-liu",
+      "name": "Jihao Liu",
+      "affiliations": [
+        {
+          "schoolId": "pku",
+          "department": "北京国际数学研究中心",
+          "title": "Assistant Professor",
+          "url": "https://bicmr.pku.edu.cn/content/lists/11_catid74_3.html",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic Geometry, Birational Geometry, Folation",
+        "Pure mathematics",
+        "Algebraic geometry",
+        "Birational geometry",
+        "Singularities",
+        "Foliations",
+        "Explicit birational geometry"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic Geometry, Birational Geometry, Folation",
+          "url": "https://math.pku.edu.cn/puremath_en/people/faculty/"
+        },
+        {
+          "text": "Pure mathematics. Algebraic geometry. Birational geometry. Singularities. Foliations. Explicit birational geometry.",
+          "url": "https://bicmr.pku.edu.cn/content/lists/11_catid74_3.html"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "junyi-xie",
+      "name": "Junyi Xie",
+      "affiliations": [
+        {
+          "schoolId": "pku",
+          "department": "北京国际数学研究中心",
+          "title": "Professor",
+          "url": "https://bicmr.pku.edu.cn/content/lists/11_catid74_4.html",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmetic Dynamics and Related Topics in Algebraic Geometry"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic Dynamics and Related Topics in Algebraic Geometry",
+          "url": "https://bicmr.pku.edu.cn/content/lists/11_catid74_4.html"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "qizheng-yin",
+      "name": "Qizheng Yin",
+      "affiliations": [
+        {
+          "schoolId": "pku",
+          "department": "北京国际数学研究中心",
+          "title": "Associate Professor",
+          "url": "https://bicmr.pku.edu.cn/content/lists/11_catid74_5.html",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry"
+      ],
+      "homepage": "http://bicmr.pku.edu.cn/~qizheng",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry",
+          "url": "https://bicmr.pku.edu.cn/content/lists/11_catid74_5.html"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "sergio-zamora-barrera",
+      "name": "Sergio Zamora Barrera",
+      "affiliations": [
+        {
+          "schoolId": "pku",
+          "department": "北京国际数学研究中心",
+          "title": "Assistant Professor",
+          "url": "https://bicmr.pku.edu.cn/content/lists/11.html",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential Geometry and Geometric Group Theory"
+      ],
+      "homepage": "https://sites.google.com/view/zamora-math/research?pli=1&authuser=0",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential Geometry and Geometric Group Theory",
+          "url": "https://bicmr.pku.edu.cn/content/lists/11.html"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "xiaobo-liu",
+      "name": "Xiaobo Liu",
+      "affiliations": [
+        {
+          "schoolId": "pku",
+          "department": "北京国际数学研究中心",
+          "title": "Professor",
+          "url": "https://bicmr.pku.edu.cn/content/lists/11_catid74_3.html",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential Geometry and Mathematical Physics 1",
+        "Quantum Cohomology and Gromov-Witten Invariants 2",
+        "Moduli spaces of curves 3",
+        "Isoparametric submanifolds",
+        "Differential Geometry and Mathematical Physics"
+      ],
+      "homepage": "http://bicmr.pku.edu.cn/~xbliu ",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential Geometry and Mathematical Physics 1. Quantum Cohomology and Gromov-Witten Invariants 2. Moduli spaces of curves 3. Isoparametric submanifolds",
+          "url": "https://math.pku.edu.cn/puremath_en/people/faculty/index1.htm"
+        },
+        {
+          "text": "Differential Geometry and Mathematical Physics",
+          "url": "https://bicmr.pku.edu.cn/content/lists/11_catid74_3.html"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "zhiyu-tian",
+      "name": "Zhiyu Tian",
+      "affiliations": [
+        {
+          "schoolId": "pku",
+          "department": "北京国际数学研究中心",
+          "title": "Associate Professor",
+          "url": "https://bicmr.pku.edu.cn/content/lists/11_catid74_4.html",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry"
+      ],
+      "homepage": "http://bicmr.pku.edu.cn/~tianzhiyu",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry",
+          "url": "https://bicmr.pku.edu.cn/content/lists/11_catid74_4.html"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "fernando-coda-marques",
+      "name": "Fernando Codá Marques",
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.princeton.edu/people/fernando-coda-marques",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential Geometry",
+        "Research Field Differential Geometry"
+      ],
+      "homepage": null,
+      "cvUrl": "https://www.math.princeton.edu/sites/default/files/2019-01/marques_cv.pdf",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5031318225",
+          "orcid": null,
+          "url": "https://openalex.org/authors/A5031318225",
+          "authorApiUrl": "https://api.openalex.org/authors/A5031318225",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5031318225,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 31,
+          "works": 43,
+          "citations": 3095,
+          "hIndex": 22,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The Min-Max theory and the Willmore conjecture",
+          "year": 2014,
+          "url": "https://doi.org/10.4007/annals.2014.179.2.6"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential Geometry",
+          "url": "https://www.math.princeton.edu/graduate/faculty-research"
+        },
+        {
+          "text": "Differential Geometry / Research Field Differential Geometry",
+          "url": "https://www.math.princeton.edu/people/fernando-coda-marques"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.princeton.edu/people/fernando-coda-marques"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "paul-c-yang",
+      "name": "Paul C. Yang",
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.princeton.edu/people/paul-c-yang",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Partial Differential Equations",
+        "Differential Geometry Partial Differential Equations"
+      ],
+      "homepage": "http://web.math.princeton.edu/~yang/",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Partial Differential Equations",
+          "url": "https://www.math.princeton.edu/graduate/faculty-research"
+        },
+        {
+          "text": "Differential Geometry Partial Differential Equations / Research Field Differential Geometry Partial Differential Equations",
+          "url": "https://www.math.princeton.edu/people/paul-c-yang"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "sun-yung-alice-chang",
+      "name": "Sun-Yung Alice Chang",
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.princeton.edu/people/sun-yung-alice-chang",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometric Analysis",
+        "Research Field Geometric Analysis"
+      ],
+      "homepage": "https://web.math.princeton.edu/~syachang/",
+      "cvUrl": "https://www.math.princeton.edu/sites/default/files/2022-12/22changcv.pdf",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "identityNote": "论文作者姓名没有唯一匹配。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometric Analysis",
+          "url": "https://www.math.princeton.edu/graduate/faculty-research"
+        },
+        {
+          "text": "Geometric Analysis / Research Field Geometric Analysis",
+          "url": "https://www.math.princeton.edu/people/sun-yung-alice-chang"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.princeton.edu/people/sun-yung-alice-chang"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alejandra-ramirez-luna",
+      "name": "Alejandra Ramirez-Luna",
+      "affiliations": [
+        {
+          "schoolId": "stony-brook",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://www.math.stonybrook.edu/faculty",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometric Analysis",
+        "Differential Geometry"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometric Analysis; Differential Geometry",
+          "url": "https://www.math.stonybrook.edu/faculty"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "aleksey-zinger",
+      "name": "Aleksey Zinger",
+      "affiliations": [
+        {
+          "schoolId": "stony-brook",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.stonybrook.edu/faculty",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Symplectic topology",
+        "enumerative algebraic geometry",
+        "Symplectic topology and enumerative geometry"
+      ],
+      "homepage": "https://www.math.stonybrook.edu/~azinger",
+      "cvUrl": "https://www.math.stonybrook.edu/~azinger/research/cv2.pdf",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.stonybrook.edu/~azinger/research/index.html",
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Symplectic topology; enumerative algebraic geometry ",
+          "url": "https://www.math.stonybrook.edu/faculty"
+        },
+        {
+          "text": "Symplectic topology and enumerative geometry",
+          "url": "https://www.math.stonybrook.edu/AlgebraicGeometry/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "christian-schnell",
+      "name": "Christian Schnell",
+      "affiliations": [
+        {
+          "schoolId": "stony-brook",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.stonybrook.edu/faculty",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry",
+        "D-modules",
+        "Hodge theory",
+        "Mixed Hodge modules",
+        "D-modules and derived categories",
+        "geometry of irregular varieties"
+      ],
+      "homepage": "https://www.math.stonybrook.edu/~cschnell",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "DOI 中的数学家和同名医学作者被归入同一 OpenAlex 档案。前五篇高引文献属于医学或生物学，累计指标暂留待核。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5010136394",
+      "papers": [
+        {
+          "title": "Finiteness for self-dual classes in integral variations of Hodge structure",
+          "year": 2023,
+          "url": "https://doi.org/10.46298/epiga.2023.specialvolumeinhonourofclairevoisin.9626"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry; D-modules ",
+          "url": "https://www.math.stonybrook.edu/faculty"
+        },
+        {
+          "text": "Algebraic Geometry. Hodge theory; Mixed Hodge modules; D-modules and derived categories; geometry of irregular varieties",
+          "url": "https://www.math.stonybrook.edu/AlgebraicGeometry/"
+        },
+        {
+          "text": "I am a member of the algebraic geometry group , and I study the geometry and topology of complex algebraic varieties. My research focuses on Hodge theory, and on applications of mixed Hodge modules in algebraic geometry.",
+          "url": "https://www.math.stonybrook.edu/~cschnell"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.stonybrook.edu/~cschnell/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "christopher-bishop",
+      "name": "Christopher Bishop",
+      "affiliations": [
+        {
+          "schoolId": "stony-brook",
+          "department": "数学系",
+          "title": "Distinguished Professor",
+          "url": "https://www.math.stonybrook.edu/faculty",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometric function theory",
+        "complex analysis",
+        "applied math",
+        "riemann surfaces",
+        "dynamical systems",
+        "geometric analysis"
+      ],
+      "homepage": "https://www.math.stonybrook.edu/~bishop",
+      "cvUrl": "https://www.math.stonybrook.edu/~bishop/vita",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.stonybrook.edu/~bishop/papers",
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometric function theory; complex analysis; applied math; riemann surfaces; dynamical systems; geometric analysis ",
+          "url": "https://www.math.stonybrook.edu/faculty"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "claude-lebrun",
+      "name": "Claude LeBrun",
+      "affiliations": [
+        {
+          "schoolId": "stony-brook",
+          "department": "数学系",
+          "title": "Distinguished Professor",
+          "url": "https://www.math.stonybrook.edu/faculty",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry",
+        "algebraic geometry",
+        "differential topology",
+        "complex analysis",
+        "mathematical physics"
+      ],
+      "homepage": "https://www.math.stonybrook.edu/~claude",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5074780350",
+          "orcid": "https://orcid.org/0000-0002-6794-2081",
+          "url": "https://openalex.org/authors/A5074780350",
+          "authorApiUrl": "https://api.openalex.org/authors/A5074780350",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5074780350,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 84,
+          "works": 139,
+          "citations": 4853,
+          "hIndex": 40,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Four-Manifolds without Einstein Metrics",
+          "year": 1996,
+          "url": "https://doi.org/10.4310/MRL.1996.v3.n2.a1"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry; algebraic geometry; differential topology; complex analysis; mathematical physics ",
+          "url": "https://www.math.stonybrook.edu/faculty"
+        },
+        {
+          "text": "Differential geometry",
+          "url": "https://www.math.stonybrook.edu/AlgebraicGeometry/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://researchconnect.stonybrook.edu/en/publications/four-manifolds-without-einstein-metrics/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "dennis-sullivan",
+      "name": "Dennis Sullivan",
+      "affiliations": [
+        {
+          "schoolId": "stony-brook",
+          "department": "数学系",
+          "title": "Distinguished Professor",
+          "url": "https://www.math.stonybrook.edu/faculty",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Manifolds",
+        "triangulations",
+        "algebraic topology",
+        "differential forms and homotopy theory",
+        "foliations",
+        "laminations and low dimensional dynamical systems",
+        "riemann surfaces and kleinian groups",
+        "geometric analysis"
+      ],
+      "homepage": "https://www.math.stonybrook.edu/~dennis",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.math.stonybrook.edu/~dennis/publications/",
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Manifolds; triangulations; algebraic topology; differential forms and homotopy theory; foliations; laminations and low dimensional dynamical systems; riemann surfaces and kleinian groups; geometric analysis; fluid evolution and computation; string topology; homotopical algebra; perturbative quantum field theory and low dimensional topology ",
+          "url": "https://www.math.stonybrook.edu/faculty"
+        },
+        {
+          "text": "Geometry, topology, and algebra",
+          "url": "https://www.math.stonybrook.edu/AlgebraicGeometry/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "dror-varolin",
+      "name": "Dror Varolin",
+      "affiliations": [
+        {
+          "schoolId": "stony-brook",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.stonybrook.edu/faculty",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex",
+        "differential"
+      ],
+      "tags": [
+        "Several complex variables",
+        "Algebraic geometry",
+        "Complex geometry",
+        "Dynamical systems",
+        "Analysis, Partial Differential Equations",
+        "Riemann Surfaces, Moduli Spaces, Kleinian Groups",
+        "Differential Geometry",
+        "Geometric Function Theory, Geometric Measure Theory"
+      ],
+      "homepage": "https://www.math.stonybrook.edu/~dror",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Several complex variables; Algebraic geometry; Complex geometry; Dynamical systems; Algebraic Geometry; Analysis, Partial Differential Equations; Riemann Surfaces, Moduli Spaces, Kleinian Groups; Differential Geometry; Geometric Function Theory, Geometric Measure Theory; Geometric Analysis PhD Students: ∙ Randall Kayser",
+          "url": "https://www.math.stonybrook.edu/faculty"
+        },
+        {
+          "text": "Complex geometry and several complex variables",
+          "url": "https://www.math.stonybrook.edu/AlgebraicGeometry/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "h-blaine-lawson-jr",
+      "name": "H. Blaine Lawson, Jr.",
+      "affiliations": [
+        {
+          "schoolId": "stony-brook",
+          "department": "数学系",
+          "title": "Distinguished Professor",
+          "url": "https://www.math.stonybrook.edu/faculty",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry",
+        "topology",
+        "geometric measure theory",
+        "several complex variables",
+        "algebraic geometry",
+        "Differential geometry and algebraic cycles"
+      ],
+      "homepage": "https://www.math.stonybrook.edu/~blaine",
+      "cvUrl": "https://www.math.stonybrook.edu/~blaine/Vita.pdf",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.stonybrook.edu/~blaine/Publications.pdf",
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry; topology; geometric measure theory; several complex variables; algebraic geometry ",
+          "url": "https://www.math.stonybrook.edu/faculty"
+        },
+        {
+          "text": "Differential geometry and algebraic cycles",
+          "url": "https://www.math.stonybrook.edu/AlgebraicGeometry/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jason-starr",
+      "name": "Jason Starr",
+      "affiliations": [
+        {
+          "schoolId": "stony-brook",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.stonybrook.edu/faculty",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry",
+        "Curves on varieties",
+        "stacks",
+        "Fano manifolds",
+        "arithmetic and geometry of varieties over function fields"
+      ],
+      "homepage": "https://www.math.stonybrook.edu/~jstarr",
+      "cvUrl": "https://www.math.stonybrook.edu/~jstarr/vita_06_21a.pdf",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry ",
+          "url": "https://www.math.stonybrook.edu/faculty"
+        },
+        {
+          "text": "Algebraic Geometry. Curves on varieties; stacks; Fano manifolds; arithmetic and geometry of varieties over function fields",
+          "url": "https://www.math.stonybrook.edu/AlgebraicGeometry/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ljudmila-kamenova",
+      "name": "Ljudmila Kamenova",
+      "affiliations": [
+        {
+          "schoolId": "stony-brook",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.math.stonybrook.edu/faculty",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [
+        "Complex geometry PhD Students: ∙ Alessandro Pilastro",
+        "Complex differential geometry"
+      ],
+      "homepage": "https://www.math.stonybrook.edu/~kamenova",
+      "cvUrl": "https://www.math.stonybrook.edu/~kamenova/homepage_files/lvita.pdf",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5014959092",
+          "orcid": "https://orcid.org/0000-0001-7482-6532",
+          "url": "https://openalex.org/authors/A5014959092",
+          "authorApiUrl": "https://api.openalex.org/authors/A5014959092",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5014959092,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 17,
+          "works": 39,
+          "citations": 204,
+          "hIndex": 8,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Finiteness of stable Lagrangian fibrations",
+          "year": 2023,
+          "url": "https://doi.org/10.1007/s40863-023-00395-3"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry PhD Students: ∙ Alessandro Pilastro",
+          "url": "https://www.math.stonybrook.edu/faculty"
+        },
+        {
+          "text": "Complex differential geometry",
+          "url": "https://www.math.stonybrook.edu/AlgebraicGeometry/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://researchconnect.stonybrook.edu/en/publications/finiteness-of-stable-lagrangian-fibrations/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "marcus-khuri",
+      "name": "Marcus Khuri",
+      "affiliations": [
+        {
+          "schoolId": "stony-brook",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.stonybrook.edu/faculty",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry",
+        "partial differential equations",
+        "general relativity"
+      ],
+      "homepage": "https://www.math.stonybrook.edu/~khuri",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.math.stonybrook.edu/~khuri/index_NSF.html",
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry; partial differential equations; general relativity ",
+          "url": "https://www.math.stonybrook.edu/faculty"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "marie-louise-michelsohn",
+      "name": "Marie-Louise Michelsohn",
+      "affiliations": [
+        {
+          "schoolId": "stony-brook",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.stonybrook.edu/faculty",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry"
+      ],
+      "homepage": "https://www.math.stonybrook.edu/~mlm",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry",
+          "url": "https://www.math.stonybrook.edu/faculty"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "mark-andrea-de-cataldo",
+      "name": "Mark Andrea De Cataldo",
+      "affiliations": [
+        {
+          "schoolId": "stony-brook",
+          "department": "数学系",
+          "title": "Distinguished Professor",
+          "url": "https://www.math.stonybrook.edu/faculty",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry"
+      ],
+      "homepage": "https://www.math.stonybrook.edu/~mde",
+      "cvUrl": "https://www.math.stonybrook.edu/~mde/vita.html",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.stonybrook.edu/~mde/publications.html",
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5079605187",
+          "orcid": null,
+          "url": "https://openalex.org/authors/A5079605187",
+          "authorApiUrl": "https://api.openalex.org/authors/A5079605187",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5079605187,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 39,
+          "works": 68,
+          "citations": 1633,
+          "hIndex": 19,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The decomposition theorem, perverse sheaves and the topology of algebraic maps",
+          "year": 2009,
+          "url": "https://doi.org/10.1090/S0273-0979-09-01260-9"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry ",
+          "url": "https://www.math.stonybrook.edu/faculty"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.stonybrook.edu/~mde/publications.html"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "oleg-viro",
+      "name": "Oleg Viro",
+      "affiliations": [
+        {
+          "schoolId": "stony-brook",
+          "department": "数学系",
+          "title": "Distinguished Professor",
+          "url": "https://www.math.stonybrook.edu/faculty",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Geometry and Topology",
+        "especially low dimensional topology",
+        "topology of real algebraic varieties and tropical geometry",
+        "Topology and tropical geometry"
+      ],
+      "homepage": "https://www.math.stonybrook.edu/~oleg",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.math.stonybrook.edu/~oleg/math/respapers.html",
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometry and Topology; especially low dimensional topology; topology of real algebraic varieties and tropical geometry ",
+          "url": "https://www.math.stonybrook.edu/faculty"
+        },
+        {
+          "text": "Topology and tropical geometry",
+          "url": "https://www.math.stonybrook.edu/AlgebraicGeometry/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "paula-burkhardt-guim",
+      "name": "Paula Burkhardt-Guim",
+      "affiliations": [
+        {
+          "schoolId": "stony-brook",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://www.math.stonybrook.edu/faculty",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry",
+        "Global analysis",
+        "Partial Differential equations"
+      ],
+      "homepage": "https://www.math.stonybrook.edu/~paula/",
+      "cvUrl": "https://www.math.stonybrook.edu/~paula/PBGCV.pdf",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5060995888",
+          "orcid": "https://orcid.org/0009-0009-9723-9360",
+          "url": "https://openalex.org/authors/A5060995888",
+          "authorApiUrl": "https://api.openalex.org/authors/A5060995888",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5060995888,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 4,
+          "works": 8,
+          "citations": 91,
+          "hIndex": 4,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Defining Pointwise Lower Scalar Curvature Bounds for C0 Metrics with Regularization by Ricci Flow",
+          "year": 2020,
+          "url": "https://doi.org/10.3842/SIGMA.2020.128"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry; Global analysis; Partial Differential equations",
+          "url": "https://www.math.stonybrook.edu/faculty"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.stonybrook.edu/~paula/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "samuel-grushevsky",
+      "name": "Samuel Grushevsky",
+      "affiliations": [
+        {
+          "schoolId": "stony-brook",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.stonybrook.edu/faculty",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Geometry",
+        "Algebraic Geometry",
+        "Curves, abelian varieties, and their moduli spaces",
+        "theta functions and modular forms"
+      ],
+      "homepage": "https://www.math.stonybrook.edu/~sam",
+      "cvUrl": "https://www.math.stonybrook.edu/~sam/cv.pdf",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometry ",
+          "url": "https://www.math.stonybrook.edu/faculty"
+        },
+        {
+          "text": "Algebraic Geometry. Curves, abelian varieties, and their moduli spaces; theta functions and modular forms",
+          "url": "https://www.math.stonybrook.edu/AlgebraicGeometry/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    }
+  ]
+}
