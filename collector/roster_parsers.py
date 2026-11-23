@@ -20,7 +20,7 @@ TOPICS = {
     "differential": re.compile(r"differential geometr|riemannian geometr|geometric analys|ricci flow|mean curvature flow|scalar curvature|geometric flows?|gauge theory|géométrie (?:différentielle|riemannienne)|analyse géométrique|微分幾何|幾何解析|平均曲率流|リッチフロー|微分几何|几何分析", re.I),
     "algebraic": re.compile(r"algebraic (?:(?:and|&) arithmetic )?geometr|arithmetic geometr|birational geometr|enumerative geometr|higher dimensional geometr|algebraic varieties|algebraic (?:surface|cycles)|hodge theory|derived algebraic|schemes and stacks|géométrie (?:algébrique|arithmétique|birationnelle)|代数幾何|代数几何|双有理", re.I),
 }
-ADJACENT = re.compile(r"symplectic|contact geometry|several complex variables|complex analysis|geometric topology|geometry|geometrie|辛几何|多复变", re.I)
+ADJACENT = re.compile(r"symplectic|contact geometry|several complex variables|complex analysis|geometric topology|geometry|g[ée]om[ée]trie|几何|幾何|多复变", re.I)
 
 
 def clean(value):
@@ -606,8 +606,109 @@ def parse_georgia_tech(document, base):
                     continue
                 person = records.setdefault(name, Entry(name, profile=profile_link(base, link)))
                 # These groups cover several specialties. The individual’s profile must identify the field.
-                person.research = " / ".join(filter(None, (person.research, field.replace("Algebra, Number Theory, and Algebraic Geometry", "Algebra and Number Theory Group"))))
+                description = field.replace("Algebra, Number Theory, and Algebraic Geometry", "Algebra / number theory / geometry group")
+                person.research = " / ".join(filter(None, (person.research, description)))
     return list(records.values())
+
+
+def parse_technion(document, base):
+    records = []
+    for link in document.xpath("//h2[@class='member-name']/a[@href]"):
+        name = contents(link)
+        panel = link.getparent().getparent()
+        title = text_at(panel, "./div[@class='a-title']")
+        records.append(Entry(name, title, profile=profile_link(base, link.get("href"))))
+    return records
+
+
+def parse_regensburg(document, base):
+    records = []
+    for heading in document.xpath("//h3[@class='contact__title']"):
+        text = contents(heading)
+        title = "Professor Emeritus" if re.search(r"emerit|\bi\.\s*r\.", text, re.I) else "Professor"
+        link_section = heading.getparent().xpath("./div[@class='contact__links']")
+        page = next((url for div in link_section for label, url in urls(div, base) if label.startswith("Weitere Infos")), "")
+        if text.startswith(("Prof.", "Professor")):
+            records.append(Entry(untitled(text), title, homepage=page))
+    return records
+
+
+def parse_fau(document, base):
+    records = []
+    for section in document.xpath("//section[@class='format-compact-container'][.//h1/a]"):
+        link = section.xpath(".//h1/a")[0]
+        specialty = text_at(section, ".//p[@class='organisation_name']")
+        title = text_at(section, ".//p[@class='jobtitle']")
+        if title == "Professors":
+            title = "Professor"
+        records.append(Entry(untitled(contents(link)), title, specialty, profile_link(base, link.get("href"))))
+    return records
+
+
+def parse_grenoble(document, base):
+    return [
+        Entry(name, research="Geometry", homepage=url)
+        for panel in document.xpath("//p[strong[normalize-space()='Membres permanents']]/following-sibling::p[1]")
+        for name, url in urls(panel, base)
+    ]
+
+
+def parse_bielefeld_ag(document, base):
+    return [
+        Entry(untitled(name), "Professor", "Algebraic and Arithmetic Geometry", homepage=profile_link(base, url))
+        for panel in document.xpath("//h3[.='Professors']/following-sibling::ul[1]")
+        for name, url in urls(panel, base)
+    ]
+
+
+def parse_muenster_crc(document, base):
+    records = []
+    for link in document.xpath("//tr[td[2]]/td[1]/a[contains(@href,'show_perspage.shtml')]"):
+        parts = [part.strip() for part in contents(link).split(",")]
+        name = display_name(", ".join(parts[:2]))
+        title = parts[2] if len(parts) > 2 else ""
+        records.append(Entry(name, title, "Geometry", profile_link(base, link.get("href"))))
+    return records
+
+
+def parse_tsinghua(document, base):
+    records = []
+    for card in document.xpath(f"//li/a[{class_token('gp-flex')}][.//div[{class_token('name')}]]"):
+        info = card.xpath(f".//div[{class_token('name')}][span]")
+        if not info:
+            continue
+        name = clean(" ".join(info[0].xpath("./text()")))
+        title = text_at(info[0], "./span")
+        field = text_at(card, f".//div[{class_token('area')}]").removeprefix("研究领域：").strip()
+        if name and title:
+            records.append(Entry(name, title, field, profile_link(base, card.get("href"))))
+    return records
+
+
+def parse_edinburgh_hodge(document, base):
+    records = []
+    for link in document.xpath("//table[.//th[normalize-space()='Faculty']]//tr/td[2]/a[normalize-space()]"):
+        row = link.getparent().getparent()
+        if len(contents(link.getparent())) > 80:
+            continue
+        research = text_at(row, "./following-sibling::tr[1]/td[2]")
+        name = contents(link)
+        homepage = profile_link(base, link.get("href"))
+        records.append(Entry(name, "Academic Faculty", research, homepage=homepage))
+    return records
+
+
+def parse_tsinghua_ymsc(document, base):
+    title = text_at(document, "//title").split("-", 1)[0].strip()
+    if title not in ("教授","副教授","助理教授"):
+        return []
+    records = []
+    for link in document.xpath("//div[@class='teacher_text']/a[@href]"):
+        name = text_at(link, ".//div[@class='t_main_right']/h4")
+        research = text_at(link, ".//div[@class='t_main_right']/p")
+        if name:
+            records.append(Entry(name, title, research, profile_link(base, link.get("href"))))
+    return records
 
 
 PARSERS = {
@@ -624,6 +725,9 @@ PARSERS = {
     "tel_aviv": parse_tel_aviv, "hebrew": parse_hebrew, "sissa": parse_sissa, "strasbourg": parse_strasbourg,
     "maryland": parse_maryland, "caltech": parse_caltech, "illinois": parse_illinois,
     "manchester": parse_manchester, "georgia_tech": parse_georgia_tech,
+    "technion": parse_technion, "regensburg": parse_regensburg, "fau": parse_fau,
+    "grenoble": parse_grenoble, "bielefeld_ag": parse_bielefeld_ag, "muenster_crc": parse_muenster_crc,
+    "tsinghua": parse_tsinghua, "tsinghua_ymsc": parse_tsinghua_ymsc, "edinburgh_hodge": parse_edinburgh_hodge,
 }
 
 

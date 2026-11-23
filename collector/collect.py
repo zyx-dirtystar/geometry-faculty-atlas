@@ -58,6 +58,8 @@ PROFILE_HOSTS = {
     "washington": {"math.washington.edu", "sites.math.washington.edu", "www.math.washington.edu"},
     "hebrew-jerusalem": {"mathematics.huji.ac.il", "math.huji.ac.il", "www.math.huji.ac.il"},
     "harvard": {"www.math.harvard.edu", "people.math.harvard.edu"},
+    "edinburgh": {"webhomes.maths.ed.ac.uk", "www.maths.ed.ac.uk", "www.research.ed.ac.uk"},
+    "tsinghua": {"math.tsinghua.edu.cn", "www.math.tsinghua.edu.cn", "ymsc.tsinghua.edu.cn"},
 }
 UNITS = {"stanford":"数学系", "princeton":"数学系", "stony-brook":"数学系", "bonn":"Bonn Mathematics", "pku":"北京国际数学研究中心"}
 
@@ -192,7 +194,18 @@ def ingest_rosters(db, seed):
         if meta is None:
             status, note = "pending", "尚未取得网页。"
         elif document is None:
-            status, note = "source_error", "网页暂未读取成功。"
+            error = (meta.get("error") or "").casefold()
+            status = "source_error"
+            if re.search(r"\b(?:401|403|forbidden)\b", error):
+                note = "机构网站限制了目录请求。"
+            elif "ssl:" in error or "certificate" in error:
+                note = "HTTPS 连接或证书校验失败。"
+            elif "timed out" in error or "timeout" in error:
+                note = "网页请求超时。"
+            elif "html" in error:
+                note = "来源返回的内容需要另行读取。"
+            else:
+                note = "网页暂未读取成功。"
         elif not rows:
             status, note = "needs_adapter", "已保存网页，目录为动态列表或结构尚未对账。"
         else:
@@ -203,6 +216,8 @@ def ingest_rosters(db, seed):
                 db.execute("DELETE FROM sightings WHERE source=?", (source["id"],))
                 for row in rows:
                     data = {**asdict(row), "source_kind":source["kind"], "source_url":source["url"], "checked_at":seen_date(meta)}
+                    if source.get("unit"):
+                        data["unit"] = source["unit"]
                     db.execute("INSERT OR REPLACE INTO sightings VALUES (?,?,?,?)",
                                (source["id"], name_key(row.name), source["school"], json_text(data)))
             count = db.execute("SELECT COUNT(*) FROM sightings WHERE source=?", (source["id"],)).fetchone()[0]
@@ -248,6 +263,7 @@ def population(db):
         active = next((row for row in evidence if row["source_kind"] in ("department","center") and row["title"]), None)
         review = reviewed.get((group["school"],name_key(group["name"])), {})
         group["title"] = review.get("title") or (active["title"] if active else "")
+        group["unit"] = review.get("unit") or (active.get("unit") if active else None)
         group["role"] = split_role(group["title"])
         group["affiliation_url"] = review.get("affiliation") or (active["profile"] or active["source_url"] if active else "")
         group["profile"] = review.get("affiliation") or next((row["profile"] for row in evidence if row["profile"]), "")
@@ -405,7 +421,7 @@ def make_patch(seed, data, source_rows):
             sources.append({"text":"个人研究或论文来源","url":anchor["source"]})
         additions.append({
             "id":slug, "name":person["name"], "affiliations":[{
-                "schoolId":school, "department":UNITS.get(school,"数学系"),"title":person["title"],
+                "schoolId":school, "department":person["unit"] or UNITS.get(school,"数学系"),"title":person["title"],
                 "url":person["affiliation_url"],"type":"primary","checkedAt":person["checked_at"],
             }],
             "fields":person["fields"],"tags":keep_tags(person["topic_sources"]),

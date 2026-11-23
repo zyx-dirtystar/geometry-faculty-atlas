@@ -263,7 +263,7 @@
     {
       "id": "kyoto",
       "coverage": "sample",
-      "coverageNote": "已解析 2/2 个登记来源，27 条任职或方向待核。 已收录 11 位学者，个人主页 3、CV 0、指标 2。",
+      "coverageNote": "已解析 2/2 个登记来源，36 条任职或方向待核。 已收录 11 位学者，个人主页 3、CV 0、指标 2。",
       "rosterLinks": [
         [
           "数学系 Faculty",
@@ -410,19 +410,35 @@
     },
     {
       "id": "tsinghua",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 4/6 个登记来源，15 条任职或方向待核。 已收录 28 位学者，个人主页 0、CV 1、指标 1。",
       "rosterLinks": [
         [
           "数学科学系代数研究团队",
           "https://www.math.tsinghua.edu.cn/info/1013/1631.htm"
         ],
         [
+          "微分几何与几何分析研究团队",
+          "https://www.math.tsinghua.edu.cn/info/1013/1639.htm"
+        ],
+        [
           "数学科学系教师目录",
           "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        ],
+        [
+          "丘成桐数学科学中心助理教授",
+          "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/zljs.htm"
+        ],
+        [
+          "丘成桐数学科学中心副教授",
+          "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/fjs.htm"
+        ],
+        [
+          "丘成桐数学科学中心教授",
+          "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/js.htm"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "bonn",
@@ -594,15 +610,19 @@
     },
     {
       "id": "edinburgh",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，15 条任职或方向待核。 已收录 3 位学者，个人主页 3、CV 2、指标 1。",
       "rosterLinks": [
         [
           "School of Mathematics Academic Staff",
           "https://maths.ed.ac.uk/people/academic-staff"
+        ],
+        [
+          "Edinburgh Hodge Institute · People",
+          "https://hodge.maths.ed.ac.uk/?page_id=22"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "weizmann",
@@ -754,8 +774,8 @@
     },
     {
       "id": "zju",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 0。 官方目录内容待提取。",
       "rosterLinks": [
         [
           "浙江大学王枫公开主页",
@@ -791,7 +811,7 @@
     {
       "id": "georgia-tech",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，9 条任职或方向待核。",
+      "coverageNote": "已解析 1/1 个登记来源，17 条任职或方向待核。",
       "rosterLinks": [
         [
           "School of Mathematics Faculty Research Interests",
@@ -902,15 +922,15 @@
     },
     {
       "id": "grenoble",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/1 个登记来源，13 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 1。",
       "rosterLinks": [
         [
           "Institut Fourier · Algèbre et géométries",
           "https://www-fourier.univ-grenoble-alpes.fr/en/content/algebre-et-geometries"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "ucl",
@@ -962,8 +982,8 @@
     },
     {
       "id": "muenster",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，58 条任职或方向待核。",
       "rosterLinks": [
         [
           "Mathematics Münster · CRC Geometry Members",
@@ -974,7 +994,7 @@
           "https://www.uni-muenster.de/MathematischesInstitut/en/institut/personen.shtml"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "pisa",
@@ -1090,8 +1110,8 @@
     },
     {
       "id": "bielefeld",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，5 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 1。",
       "rosterLinks": [
         [
           "Algebraic and Arithmetic Geometry",
@@ -1102,7 +1122,7 @@
           "https://www.math.uni-bielefeld.de/groupsgeometry/index.php"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "cornell",
@@ -1254,15 +1274,15 @@
     },
     {
       "id": "technion",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/1 个登记来源，42 条任职或方向待核。",
       "rosterLinks": [
         [
           "Faculty of Mathematics · Faculty Members",
           "https://math.technion.ac.il/en/member_type/faculty-members/"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "polyu",
@@ -1290,8 +1310,8 @@
     },
     {
       "id": "fau",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，3 条任职或方向待核。",
       "rosterLinks": [
         [
           "Department of Mathematics Chairs and Professorships",
@@ -1302,7 +1322,7 @@
           "https://en.www.math.fau.de/algebra-and-geometry/"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "granada",
@@ -1354,20 +1374,24 @@
     },
     {
       "id": "regensburg",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，22 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 1。",
       "rosterLinks": [
         [
           "Fakultät für Mathematik · Professorinnen und Professoren",
           "https://www.uni-regensburg.de/mathematik/forschen/personen/professorinnen-und-professoren"
+        ],
+        [
+          "Globale Analysis und Geometrie",
+          "https://www.uni-regensburg.de/mathematik/forschen/forschungsschwerpunkte/globale-analysis-und-geometrie"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "strasbourg",
       "coverage": "sample",
-      "coverageNote": "已解析 2/2 个登记来源，36 条任职或方向待核。",
+      "coverageNote": "已解析 2/2 个登记来源，35 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 1。",
       "rosterLinks": [
         [
           "IRMA · Arithmétique et géométrie algébrique",
@@ -1691,6 +1715,73 @@
       "recordStatus": "directory"
     },
     {
+      "id": "charles-vial",
+      "name": "Charles Vial",
+      "affiliations": [
+        {
+          "schoolId": "bielefeld",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.uni-bielefeld.de/arithgeo/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic and Arithmetic Geometry",
+        "Algebraic geometry, motives and algebraic cycles"
+      ],
+      "homepage": "https://www.math.uni-bielefeld.de/~vial/",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5089099792",
+          "orcid": "https://orcid.org/0000-0001-7752-5612",
+          "url": "https://openalex.org/authors/A5089099792",
+          "authorApiUrl": "https://api.openalex.org/authors/A5089099792",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5089099792,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 36,
+          "works": 48,
+          "citations": 1136,
+          "hIndex": 20,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Multiplicative Chow–Künneth decompositions and varieties of cohomological K3 type",
+          "year": 2021,
+          "url": "https://doi.org/10.1007/s10231-021-01070-0"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic and Arithmetic Geometry",
+          "url": "https://www.math.uni-bielefeld.de/arithgeo/"
+        },
+        {
+          "text": "Algebraic geometry, motives and algebraic cycles",
+          "url": "https://www.math.uni-bielefeld.de/~vial/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.uni-bielefeld.de/~vial/MCK-K3type.pdf"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
       "id": "peter-scholze",
       "name": "Peter Scholze",
       "affiliations": [
@@ -1763,6 +1854,172 @@
       "recordStatus": "directory"
     },
     {
+      "id": "arend-bayer",
+      "name": "Arend Bayer",
+      "affiliations": [
+        {
+          "schoolId": "edinburgh",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://hodge.maths.ed.ac.uk/?page_id=22",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Google scholar ArXiv",
+        "Algebraic geometry, derived categories and stability conditions",
+        "Algebraic Geometry:"
+      ],
+      "homepage": "https://webhomes.maths.ed.ac.uk/~abayer/",
+      "cvUrl": "https://webhomes.maths.ed.ac.uk/~abayer/CV.pdf",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5031149825",
+          "orcid": "https://orcid.org/0000-0002-4422-372X",
+          "url": "https://openalex.org/authors/A5031149825",
+          "authorApiUrl": "https://api.openalex.org/authors/A5031149825",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5031149825,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 19,
+          "works": 33,
+          "citations": 1659,
+          "hIndex": 19,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Stability conditions in families",
+          "year": 2021,
+          "url": "https://doi.org/10.1007/s10240-021-00124-6"
+        },
+        {
+          "title": "Projectivity and birational geometry of Bridgeland moduli spaces",
+          "year": 2014,
+          "url": "https://doi.org/10.1090/S0894-0347-2014-00790-6"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "I have been working on questions in algebraic geometry motivated by string theory and mirror symmetry; for a while that meant Gromov-Witten theory, in the last few years mostly derived categories and stability conditions. Recently that has led me to very classical questions in algebraic geometry, via wall-crossing and birational geometry of moduli spaces. Google scholar ArXiv",
+          "url": "https://hodge.maths.ed.ac.uk/?page_id=22"
+        },
+        {
+          "text": "Algebraic geometry, derived categories and stability conditions",
+          "url": "https://webhomes.maths.ed.ac.uk/~abayer/"
+        },
+        {
+          "text": "Algebraic Geometry:",
+          "url": "https://webhomes.maths.ed.ac.uk/~abayer/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://webhomes.maths.ed.ac.uk/~abayer/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ivan-cheltsov",
+      "name": "Ivan Cheltsov",
+      "affiliations": [
+        {
+          "schoolId": "edinburgh",
+          "department": "数学系",
+          "title": "Professor, Personal Chair in Birational Geometry",
+          "url": "https://www.research.ed.ac.uk/en/persons/ivan-cheltsov/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "You can find my papers here and pictures of my bike here",
+        "Birational geometry, K-stability and Fano varieties"
+      ],
+      "homepage": "http://www.maths.ed.ac.uk/cheltsov/",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "I am birational geometer interested in K-stability and rationality of Fano varieties, subgroups of Cremona groups, polarized cylinders in rational varieties, and relevant classification type problems. You can find my papers here and pictures of my bike here .",
+          "url": "https://hodge.maths.ed.ac.uk/?page_id=22"
+        },
+        {
+          "text": "Birational geometry, K-stability and Fano varieties",
+          "url": "https://hodge.maths.ed.ac.uk/?page_id=22"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "milena-hering",
+      "name": "Milena Hering",
+      "affiliations": [
+        {
+          "schoolId": "edinburgh",
+          "department": "数学系",
+          "title": "Reader",
+          "url": "https://www.research.ed.ac.uk/en/persons/milena-hering/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Google scholar ArXiv",
+        "Algebraic geometry and combinatorics",
+        "Toric varieties",
+        "Syzygies",
+        "Hilbert schemes"
+      ],
+      "homepage": "https://webhomes.maths.ed.ac.uk/~mhering/",
+      "cvUrl": "https://webhomes.maths.ed.ac.uk/~mhering/cv.pdf",
+      "cvStatus": null,
+      "publicationsUrl": "https://webhomes.maths.ed.ac.uk/~mhering/publications.html",
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "I am working on algebraic geometry, commutative algebra, and combinatorics. My interests include positivity properties of line bundles and syzygies, toric varieties, and tropical varieties. Google scholar ArXiv",
+          "url": "https://hodge.maths.ed.ac.uk/?page_id=22"
+        },
+        {
+          "text": "Algebraic geometry, positivity of line bundles and toric varieties",
+          "url": "https://hodge.maths.ed.ac.uk/?page_id=22"
+        },
+        {
+          "text": "Algebraic geometry and combinatorics; Toric varieties; Syzygies; Hilbert schemes. My research is supported by EPSRC fellowship Toric vector bundles: Stability, Cohomology, and Applications.",
+          "url": "https://webhomes.maths.ed.ac.uk/~mhering/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
       "id": "zsolt-patakfalvi",
       "name": "Zsolt Patakfalvi",
       "affiliations": [
@@ -1822,6 +2079,79 @@
         {
           "text": "个人研究或论文来源",
           "url": "https://people.epfl.ch/zsolt.patakfalvi"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "philippe-eyssidieux",
+      "name": "Philippe Eyssidieux",
+      "affiliations": [
+        {
+          "schoolId": "grenoble",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www-fourier.univ-grenoble-alpes.fr/~eyssi/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [
+        "Geometry",
+        "Complex geometry, Kähler geometry and algebraic geometry"
+      ],
+      "homepage": "https://www-fourier.univ-grenoble-alpes.fr/~eyssi/",
+      "cvUrl": "https://www-fourier.univ-grenoble-alpes.fr/~eyssi/cv.pdf",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5055243389",
+          "orcid": null,
+          "url": "https://openalex.org/authors/A5055243389",
+          "authorApiUrl": "https://api.openalex.org/authors/A5055243389",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5055243389,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 28,
+          "works": 60,
+          "citations": 2013,
+          "hIndex": 16,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Singular Kähler-Einstein metrics",
+          "year": 2009,
+          "url": "https://doi.org/10.1090/S0894-0347-09-00629-8"
+        },
+        {
+          "title": "Exposé Bourbaki 1095 : Métriques de Kähler-Einstein sur les variétés de Fano",
+          "year": 2018,
+          "url": "https://doi.org/10.24033/ast.989"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Geometry",
+          "url": "https://www-fourier.univ-grenoble-alpes.fr/en/content/algebre-et-geometries"
+        },
+        {
+          "text": "Complex geometry, Kähler geometry and algebraic geometry",
+          "url": "https://www-fourier.univ-grenoble-alpes.fr/~eyssi/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www-fourier.univ-grenoble-alpes.fr/~eyssi/"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -2001,7 +2331,7 @@
       "affiliations": [
         {
           "schoolId": "kyoto",
-          "department": "数学系",
+          "department": "数理解析研究所 (RIMS)",
           "title": "Professor",
           "url": "https://www.kurims.kyoto-u.ac.jp/en/list/namikawa.html",
           "type": "primary",
@@ -2040,7 +2370,7 @@
       "affiliations": [
         {
           "schoolId": "kyoto",
-          "department": "数学系",
+          "department": "数理解析研究所 (RIMS)",
           "title": "Professor",
           "url": "https://www.kurims.kyoto-u.ac.jp/en/list/odaka.html",
           "type": "primary",
@@ -4334,6 +4664,68 @@
       "recordStatus": "directory"
     },
     {
+      "id": "bernd-ammann",
+      "name": "Bernd Ammann",
+      "affiliations": [
+        {
+          "schoolId": "regensburg",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.uni-regensburg.de/mathematik/forschen/personen/professorinnen-und-professoren",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry, global analysis and spin geometry"
+      ],
+      "homepage": "https://ammann.app.uni-regensburg.de/",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://ammann.app.uni-regensburg.de/preprints/",
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5036755731",
+          "orcid": "https://orcid.org/0000-0003-3179-984X",
+          "url": "https://openalex.org/authors/A5036755731",
+          "authorApiUrl": "https://api.openalex.org/authors/A5036755731",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5036755731,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 60,
+          "works": 108,
+          "citations": 1548,
+          "hIndex": 21,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Un problème de type Yamabe sur les variétés spinorielles compactes",
+          "year": 2004,
+          "url": "https://doi.org/10.1016/j.crma.2004.03.018"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, global analysis and spin geometry",
+          "url": "https://www.uni-regensburg.de/mathematik/forschen/forschungsschwerpunkte/globale-analysis-und-geometrie"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://ammann.app.uni-regensburg.de/preprints/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
       "id": "andrea-ricolfi",
       "name": "Andrea Ricolfi",
       "affiliations": [
@@ -5287,12 +5679,80 @@
       "recordStatus": "directory"
     },
     {
+      "id": "lie-fu",
+      "name": "Lie Fu",
+      "affiliations": [
+        {
+          "schoolId": "strasbourg",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://irma.math.unistra.fr/~lfu/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [
+        "Algebraic Geometry",
+        "Algebraic geometry, hyperkähler manifolds and algebraic cycles"
+      ],
+      "homepage": "https://irma.math.unistra.fr/~lfu/",
+      "cvUrl": "https://irma.math.unistra.fr/~lfu/CV/CV_LieFu_en.pdf",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5083512389",
+          "orcid": "https://orcid.org/0000-0002-2177-3139",
+          "url": "https://openalex.org/authors/A5083512389",
+          "authorApiUrl": "https://api.openalex.org/authors/A5083512389",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5083512389,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 33,
+          "works": 46,
+          "citations": 727,
+          "hIndex": 17,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Multiplicative Chow–Künneth decompositions and varieties of cohomological K3 type",
+          "year": 2021,
+          "url": "https://doi.org/10.1007/s10231-021-01070-0"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic Geometry",
+          "url": "https://web.math.unistra.fr/teams/aga.html"
+        },
+        {
+          "text": "Algebraic geometry, hyperkähler manifolds and algebraic cycles",
+          "url": "https://irma.math.unistra.fr/~lfu/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://irma.math.unistra.fr/~lfu/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
       "id": "alexey-bondal",
       "name": "Alexey Bondal",
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "Kavli IPMU",
           "title": "Academic Faculty (Kavli IPMU)",
           "url": "https://db.ipmu.jp/member/personal/170en.html",
           "type": "primary",
@@ -5328,7 +5788,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/takatsu_e.html",
           "type": "primary",
@@ -5364,7 +5824,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/shiho_e.html",
           "type": "primary",
@@ -5400,7 +5860,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Professor（Kavli IPMU）",
           "url": "https://db.ipmu.jp/member/personal/608en.html",
           "type": "primary",
@@ -5435,7 +5895,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Associate Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/konno.hokuto_e.html",
           "type": "primary",
@@ -5476,7 +5936,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Associate Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ueda_e.html",
           "type": "primary",
@@ -5512,7 +5972,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/oguiso_e.html",
           "type": "primary",
@@ -5548,7 +6008,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher/hirachi.html",
           "type": "primary",
@@ -5589,7 +6049,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Assistant Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/enokizono.makoto_e.html",
           "type": "primary",
@@ -5625,7 +6085,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Professor（Kavli IPMU）",
           "url": "http://db.ipmu.jp/member/personal/2760en.html",
           "type": "primary",
@@ -5661,7 +6121,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Associate Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html",
           "type": "primary",
@@ -5697,7 +6157,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/kawazumi_e.html",
           "type": "primary",
@@ -5737,7 +6197,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Associate Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/kelly_e.html",
           "type": "primary",
@@ -5773,7 +6233,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html",
           "type": "primary",
@@ -5809,7 +6269,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/honda_e.html",
           "type": "primary",
@@ -5845,7 +6305,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/stakagi_e.html",
           "type": "primary",
@@ -5881,7 +6341,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/tsaito_e.html",
           "type": "primary",
@@ -5917,7 +6377,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html",
           "type": "primary",
@@ -5953,7 +6413,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Associate Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/kawakami_e.html",
           "type": "primary",
@@ -5993,7 +6453,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Professor（Kavli IPMU）",
           "url": "http://db.ipmu.jp/member/personal/597en.html",
           "type": "primary",
@@ -6029,7 +6489,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Professor（Kavli IPMU）",
           "url": "http://db.ipmu.jp/member/personal/1417en.html",
           "type": "primary",
@@ -6065,7 +6525,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Assistant Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html",
           "type": "primary",
@@ -6101,7 +6561,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/gongyo_e.html",
           "type": "primary",
@@ -6141,7 +6601,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Professor（Kavli IPMU）",
           "url": "https://db.ipmu.jp/member/personal/5393en.html",
           "type": "primary",
@@ -6177,7 +6637,7 @@
       "affiliations": [
         {
           "schoolId": "tokyo",
-          "department": "数学系",
+          "department": "数理科学研究科",
           "title": "Professor（Kavli IPMU）",
           "url": "http://db.ipmu.jp/member/personal/755en.html",
           "type": "primary",
@@ -6202,6 +6662,1072 @@
         {
           "text": "Algebraic Geometry",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "akito-futaki",
+      "name": "Akito Futaki",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "丘成桐数学科学中心",
+          "title": "教授",
+          "url": "https://ymsc.tsinghua.edu.cn/info/1031/2295.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/js.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "caucher-birkar",
+      "name": "Caucher Birkar",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "丘成桐数学科学中心",
+          "title": "教授",
+          "url": "https://ymsc.tsinghua.edu.cn/info/1031/2291.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "双有理几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5032259921",
+          "orcid": "https://orcid.org/0000-0002-8322-4522",
+          "url": "https://openalex.org/authors/A5032259921",
+          "authorApiUrl": "https://api.openalex.org/authors/A5032259921",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5032259921,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 47,
+          "works": 95,
+          "citations": 4062,
+          "hIndex": 25,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Singularities of linear systems and boundedness of Fano varieties",
+          "year": 2021,
+          "url": "https://doi.org/10.4007/annals.2021.193.2.1"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "双有理几何",
+          "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/js.htm"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://annals.math.princeton.edu/2021/193-2/p01"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "william-donovan",
+      "name": "William Donovan",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "丘成桐数学科学中心",
+          "title": "副教授",
+          "url": "https://ymsc.tsinghua.edu.cn/info/1032/3106.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic Geometry"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic Geometry",
+          "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/fjs.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-acbafa11493b",
+      "name": "何翔",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "丘成桐数学科学中心",
+          "title": "助理教授",
+          "url": "https://ymsc.tsinghua.edu.cn/info/1033/2494.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "代数几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "代数几何",
+          "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/zljs.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-f8e16b83a288",
+      "name": "刁晗生",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "数学科学系",
+          "title": "副教授",
+          "url": "https://ymsc.tsinghua.edu.cn/info/1032/5361.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "数论、代数几何",
+        "数论与p进几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "数论、代数几何",
+          "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        },
+        {
+          "text": "数论与p进几何",
+          "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/fjs.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-8a4fcf4bb486",
+      "name": "吴云辉",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "数学科学系",
+          "title": "教授",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/1901.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Teichmüller理论和微分几何",
+        "Teichmüller理论和几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "同一人的论文指向不同作者档案。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Teichmüller理论和微分几何",
+          "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        },
+        {
+          "text": "Teichmüller理论和几何",
+          "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/js.htm"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://ymsc.tsinghua.edu.cn/en/info/1031/2783.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-475f5b01b2c5",
+      "name": "吴宝森",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "数学科学系",
+          "title": "副教授",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/2629.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "代数几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "代数几何",
+          "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-1ed8fd326b3b",
+      "name": "唐宏岩",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "数学科学系",
+          "title": "副教授",
+          "url": "https://www.tcm.tsinghua.edu.cn/info/1003/1153.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "金融数学、几何分析"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "金融数学、几何分析",
+          "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-801024d5c8d9",
+      "name": "孙晟昊",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "数学科学系",
+          "title": "副教授",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/2628.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "代数几何与数论"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "代数几何与数论",
+          "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-bc5099c5e4ad",
+      "name": "宗正宇",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "数学科学系",
+          "title": "副教授",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/2649.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic Geometry and Mathematical Physics"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic Geometry and Mathematical Physics",
+          "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-8ee0c96961d5",
+      "name": "左怀青",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "数学科学系",
+          "title": "教授",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/1583.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "代数几何、奇点理论"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "代数几何、奇点理论",
+          "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-d8d4e5f8df0a",
+      "name": "徐凯",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "丘成桐数学科学中心",
+          "title": "助理教授",
+          "url": "https://ymsc.tsinghua.edu.cn/info/1033/5305.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "代数几何，量子引力"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "代数几何，量子引力",
+          "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/zljs.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-c2eae1cca377",
+      "name": "徐国义",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "数学科学系",
+          "title": "副教授",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/1964.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "黎曼几何、几何分析"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "黎曼几何、几何分析",
+          "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-a62c86fcef23",
+      "name": "扶磊",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "数学科学系",
+          "title": "教授",
+          "url": "https://ymsc.tsinghua.edu.cn/info/1031/2294.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "代数几何（l-adic上同调及其在数论、代数几何中的应用）",
+        "代数几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "代数几何（l-adic上同调及其在数论、代数几何中的应用）",
+          "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        },
+        {
+          "text": "代数几何",
+          "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/js.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-b183efe11366",
+      "name": "朱敏娴",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "数学科学系",
+          "title": "副教授",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/2633.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "表示论、代数几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "表示论、代数几何",
+          "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-7d0aad4a3cae",
+      "name": "朱波",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "丘成桐数学科学中心",
+          "title": "助理教授",
+          "url": "https://ymsc.tsinghua.edu.cn/info/1033/4500.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/zljs.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-18d1e634c067",
+      "name": "朱知非",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "丘成桐数学科学中心",
+          "title": "助理教授",
+          "url": "https://ymsc.tsinghua.edu.cn/info/1033/3904.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/zljs.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-4e3bf43add5b",
+      "name": "李宇翔",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "数学科学系",
+          "title": "教授",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/1876.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "几何分析。主要研究临界变分问题的爆破性质。"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "几何分析。主要研究临界变分问题的爆破性质。",
+          "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-4fdb3aa90d5f",
+      "name": "李海中",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "数学科学系",
+          "title": "教授",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/1931.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何和几何分析"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何和几何分析",
+          "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-269611f18914",
+      "name": "杨晓奎",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "数学科学系",
+          "title": "教授",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/1577.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [
+        "复几何与复代数几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "同一人的论文指向不同作者档案。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "复几何与复代数几何",
+          "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.tsinghua.edu.cn/info/1379/3049.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-cf50af572597",
+      "name": "焦骏鹏",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "丘成桐数学科学中心",
+          "title": "助理教授",
+          "url": "https://ymsc.tsinghua.edu.cn/info/1033/4523.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "高维代数几何，双有理几何，奇点理论"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "高维代数几何，双有理几何，奇点理论",
+          "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/zljs.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-2406b6adea42",
+      "name": "王成茜",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "丘成桐数学科学中心",
+          "title": "助理教授",
+          "url": "https://ymsc.tsinghua.edu.cn/info/1033/4043.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "代数几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "代数几何",
+          "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/zljs.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-e5e3c9c70083",
+      "name": "肖建",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "数学科学系",
+          "title": "副教授",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/1604.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "complex"
+      ],
+      "tags": [
+        "复几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "复几何",
+          "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        },
+        {
+          "text": "复几何",
+          "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/fjs.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-9813467b6f1d",
+      "name": "郑志伟",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "丘成桐数学科学中心",
+          "title": "助理教授",
+          "url": "https://ymsc.tsinghua.edu.cn/info/1033/3131.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "代数几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "代数几何",
+          "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/zljs.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-2b6752ebcacc",
+      "name": "陈大广",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "数学科学系",
+          "title": "副教授",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/2624.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何与几何分析。主要研究流形上椭圆算子特征值估计"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何与几何分析。主要研究流形上椭圆算子特征值估计",
+          "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-27923c201ecf",
+      "name": "陈麟",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "丘成桐数学科学中心",
+          "title": "助理教授",
+          "url": "https://ymsc.tsinghua.edu.cn/info/1033/3499.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "代数几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "代数几何",
+          "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/zljs.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-f79caf0492ec",
+      "name": "韩小利",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "数学科学系",
+          "title": "教授",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/2636.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "几何分析，偏微分方程"
+      ],
+      "homepage": null,
+      "cvUrl": "https://www.math.tsinghua.edu.cn/__local/9/B4/9D/3B02D8F6FD90D3327D2B6A7088F_6528FF71_3F6799.pdf",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "几何分析，偏微分方程",
+          "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        },
+        {
+          "text": "几何分析，偏微分方程",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/2636.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-067e63b2d3bb",
+      "name": "马辉",
+      "affiliations": [
+        {
+          "schoolId": "tsinghua",
+          "department": "数学科学系",
+          "title": "教授",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/2617.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -7449,6 +8975,43 @@
         {
           "text": "Arithmetic Algebraic Geometry Geometry Representation Theory Mathematical Physics",
           "url": "https://math.yale.edu/profile/alexander-goncharov"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-3d91454d7fee",
+      "name": "王枫",
+      "affiliations": [
+        {
+          "schoolId": "zju",
+          "department": "数学科学学院",
+          "title": "教授",
+          "url": "https://person.zju.edu.cn/en/0014136",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [
+        "几何分析、复几何和 Kähler–Einstein 度量"
+      ],
+      "homepage": "https://person.zju.edu.cn/en/0014136",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "几何分析、复几何和 Kähler–Einstein 度量",
+          "url": "https://math.tongji.edu.cn/info/1385/13331.htm"
         }
       ],
       "checkedAt": "2026-11-23",

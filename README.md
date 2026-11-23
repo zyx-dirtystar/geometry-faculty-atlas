@@ -19,6 +19,8 @@ python -X utf8 collector/run.py --profiles --metrics
 
 新增学校先查实公开院系目录，并登记到 `collector/rosters.json`。目录结构有差异时，在 `collector/roster_parsers.py` 增加该来源的提取方法，再运行采集。源页面故障、没有提取到记录和需要判断任职的条目分别在进度表和 `collector/review-queue.csv` 中保留。目录、研究分组和相关教学单位逐一对账之后，再更新校级完成状态。
 
+逐人复核后的主页、CV、任职和研究方向可补入 `collector/verified-profiles.json`，并附官方任职及研究来源。进度表的「主页 / CV / 指标」统计的是网页已收录且该字段有来源的学者。个人主页、CV、论文数及引用量的空缺在复核表里标为「待核」。
+
 ## 采集与导入
 
 1. 用「管理数据 → 导出目录 JSON」取得现有学校 ID 和样本字段。
