@@ -3413,5 +3413,82 @@
         "profile": "https://math.utexas.edu/directory/gordan-zitkovic"
       }
     ]
+  },
+  "alberta-academic-staff": {
+    "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+    "checkedAt": "2026-11-23",
+    "scope": "浏览公开院系学术人员名册，转录五位方向与任职已有其他公开来源确认的学者。其余人员和联合机构范围仍待核。",
+    "entries": [
+      {
+        "name": "Xi Chen",
+        "title": "Professor",
+        "research": "Algebraic geometry",
+        "profile": "https://apps.ualberta.ca/directory/person/xic",
+        "homepage": ""
+      },
+      {
+        "name": "Charles Doran",
+        "title": "Professor",
+        "research": "Algebraic geometry and mathematical physics",
+        "profile": "https://apps.ualberta.ca/directory/person/doran1",
+        "homepage": "https://www.charlesdoran.net/"
+      },
+      {
+        "name": "Nikita Karpenko",
+        "title": "Centennial Professor",
+        "research": "Algebraic geometry and algebra",
+        "profile": "https://apps.ualberta.ca/directory/person/karpenko",
+        "homepage": "https://sites.ualberta.ca/~karpenko/"
+      },
+      {
+        "name": "Adam Topaz",
+        "title": "Associate Professor",
+        "research": "Arithmetic geometry, algebraic geometry and anabelian geometry",
+        "profile": "https://apps.ualberta.ca/directory/person/topaz",
+        "homepage": "https://www.adamtopaz.com/"
+      },
+      {
+        "name": "Eric Woolgar",
+        "title": "Professor",
+        "research": "Differential geometry and mathematical relativity",
+        "profile": "https://apps.ualberta.ca/directory/person/ewoolgar",
+        "homepage": "https://www.math.ualberta.ca/~ewoolgar/"
+      }
+    ]
+  },
+  "monash-alternate-geometry": {
+    "url": "https://www.monash.edu/science/schools/school-of-mathematics/research/pure-maths",
+    "checkedAt": "2026-11-23",
+    "scope": "浏览纯数学组 Academic Staff，转录四位任职与主题可交叉确认的学者。院系完整名单和相邻方向仍待对账。",
+    "entries": [
+      {
+        "name": "Norm Do",
+        "title": "Professor",
+        "research": "Enumerative geometry, moduli of curves and Gromov–Witten theory",
+        "profile": "https://research.monash.edu/en/persons/norm-do/",
+        "homepage": ""
+      },
+      {
+        "name": "Yann Bernard",
+        "title": "Academic Faculty",
+        "research": "Geometric analysis and variational calculus",
+        "profile": "https://research.monash.edu/en/persons/yann-bernard/",
+        "homepage": ""
+      },
+      {
+        "name": "Julie Clutterbuck",
+        "title": "Associate Professor",
+        "research": "Geometric analysis and mean curvature flow",
+        "profile": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/staff/julie-clutterbuck",
+        "homepage": ""
+      },
+      {
+        "name": "Daniel Jackson",
+        "title": "Academic Faculty",
+        "research": "Differential geometry and mathematical physics",
+        "profile": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/staff/dr-daniel-jackson",
+        "homepage": ""
+      }
+    ]
   }
 }

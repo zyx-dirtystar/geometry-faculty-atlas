@@ -1,6 +1,6 @@
 """Maintain the local roster queue and build the website's research directory."""
 
-from collections import Counter
+from collections import Counter, defaultdict, deque
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import asdict
 from datetime import datetime, timedelta, timezone
@@ -14,6 +14,7 @@ import re
 import shutil
 import sqlite3
 import subprocess
+from threading import Lock
 import time
 import unicodedata
 from urllib.parse import urlparse
@@ -208,6 +209,14 @@ def ingest_rosters(db, seed):
     for source in configured_sources:
         meta, document = read_snapshot(source["id"])
         transcript = transcripts.get(source["id"])
+        if source["kind"] == "campus":
+            with db:
+                db.execute("DELETE FROM sightings WHERE source=?", (source["id"],))
+                db.execute("INSERT OR REPLACE INTO sources VALUES (?,?,?,?,?,?,?,?)", (
+                    source["id"], source["school"], source["url"], source["name"], "reference", 0, seen_date(meta),
+                    "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。",
+                ))
+            continue
         if not transcript and meta is None and db.execute("SELECT 1 FROM sources WHERE id=? AND url=?", (source["id"], source["url"])).fetchone():
             continue
         rows = []
@@ -273,6 +282,7 @@ def add_profile_data(db):
 
 def population(db):
     result = {}
+    regions = {row["id"]:json.loads(row["record"])["region"] for row in db.execute("SELECT id,record FROM schools")}
     source_order = {source["id"]:index for index, source in enumerate(load_sources())}
     sightings = db.execute("SELECT school,person_key,source,record FROM sightings").fetchall()
     for sighting in sorted(sightings, key=lambda row: (
@@ -297,7 +307,7 @@ def population(db):
         official_title = directory_profile.get("official_title", "") if group["school"] == "uab" else ""
         group["title"] = review.get("title") or (active["title"] if active else official_title)
         group["unit"] = review.get("unit") or (active.get("unit") if active else None)
-        group["role"] = review.get("role") or split_role(group["title"])
+        group["role"] = review.get("role") or split_role(group["title"], regions.get(group["school"]))
         group["affiliation_url"] = review.get("affiliation") or (active["profile"] or active["source_url"] if active else group["profile"] if official_title else "")
         group["homepage"] = review.get("homepage") or next((row["homepage"] for row in evidence if row["homepage"]), "")
         sources = [
@@ -328,7 +338,9 @@ def population(db):
         text = " / ".join(item["text"] for item in sources)
         fields = matched_fields(text)
         group["fields"] = fields
-        if group["role"] in ("emeritus","associated","other"):
+        if review.get("decision") == "adjacent":
+            decision = "adjacent"
+        elif group["role"] in ("emeritus","associated","other"):
             decision = group["role"]
         elif not text or (ADJACENT.search(text) and not fields):
             decision = "topic_review"
@@ -339,6 +351,8 @@ def population(db):
         else:
             decision = "candidate"
         group["decision"] = decision
+        group["decision_note"] = review.get("reason", "")
+        group["opportunities"] = review.get("opportunities", [])
         dates = [row.get("checked_at") or "" for row in evidence]
         group["checked_at"] = max(dates + [review.get("checkedAt","")]) or None
     return sorted(result.values(), key=lambda group: (group["school"],group["name"]))
@@ -355,7 +369,8 @@ def allowed_profile(school, url):
 
 def fetch_profiles(db, schools, refresh=False, max_profiles=0):
     queue = {}
-    current = {row["url"]:row["status"] for row in db.execute("SELECT url,status FROM profiles")}
+    current = {row["url"]:row for row in db.execute("SELECT url,status,checked_at FROM profiles")}
+    today = now_date()
     for source in load_sources():
         if source["parser"] != "pending":
             PROFILE_HOSTS.setdefault(source["school"], set()).add(urlparse(source["url"]).hostname)
@@ -371,23 +386,26 @@ def fetch_profiles(db, schools, refresh=False, max_profiles=0):
         if (schools and school not in schools) or person["role"] in ("emeritus","associated","other"):
             continue
         topical = " ".join(item["text"] for item in person["topic_sources"])
-        if person["role"] == "unverified" and not topical and school not in ("uab", "sichuan"):
-            continue
-        if school == "stanford" and not re.search(r"geometry|analysis|algebra",topical,re.I):
-            continue
-        if school in ("stony-brook","bonn","pku") and person["decision"] != "candidate":
-            continue
-        if school == "rutgers" and person["decision"] != "candidate" and not ADJACENT.search(topical):
-            continue
-        if person["decision"] == "other_topic" and person["title"] != "Academic Faculty":
+        if person["decision"] == "adjacent" or (person["decision"] == "other_topic" and not ADJACENT.search(topical)):
             continue
         for target in (person["profile"], person["homepage"]):
-            if not target or not allowed_profile(school, target) or (not refresh and current.get(target) == "parsed"):
+            if not target or not allowed_profile(school, target):
+                continue
+            previous = current.get(target)
+            if previous and not refresh and (previous["status"] == "parsed" or previous["checked_at"] == today):
                 continue
             cache_id = "profile-" + sha256(target.encode()).hexdigest()[:16]
             queue[target] = {"id":cache_id, "school":school, "name":person["name"], "url":target, "kind":"profile",
                              "transport":"system" if school == "bonn" else None}
-    jobs = list(queue.values())
+    by_host = defaultdict(deque)
+    for job in queue.values():
+        by_host[urlparse(job["url"]).hostname].append(job)
+    jobs = []
+    while by_host:
+        for host in list(by_host):
+            jobs.append(by_host[host].popleft())
+            if not by_host[host]:
+                del by_host[host]
     if max_profiles:
         jobs = jobs[:max_profiles]
     print(json_text({"profile_queue":len(queue),"this_run":len(jobs)}),flush=True)
@@ -395,11 +413,14 @@ def fetch_profiles(db, schools, refresh=False, max_profiles=0):
     with db:
         db.executemany("INSERT OR IGNORE INTO profiles(url,cache_id,status) VALUES (?,?,'queued')", [(job["url"],job["id"]) for job in jobs])
 
-    def fetch(job):
-        time.sleep(0.35)
-        return job, save_source(job, refresh)
+    locks = {urlparse(job["url"]).hostname:Lock() for job in jobs}
 
-    with ThreadPoolExecutor(max_workers=2) as workers:
+    def fetch(job):
+        with locks[urlparse(job["url"]).hostname]:
+            time.sleep(0.35)
+            return job, save_source(job, refresh)
+
+    with ThreadPoolExecutor(max_workers=8) as workers:
         for job, saved in workers.map(fetch, jobs):
             print(json_text({"school":job["school"],"name":job["name"],"status":saved["status"]}),flush=True)
     add_profile_data(db)
@@ -429,7 +450,7 @@ def metrics_evidence():
     return {row["id"]:row for row in anchors}, findings, reviewed.get("accepted",{}), reviewed.get("notes",{})
 
 
-def make_patch(seed, data, source_rows, scope_notes):
+def make_patch(seed, data, source_rows, scope_notes, school_reviews):
     original = {(a["schoolId"], name_key(p["name"])):p for p in seed["people"] for a in p["affiliations"]}
     original_names = {name for _, name in original}
     cross_school = Counter(name_key(p["name"]) for p in data if p["decision"] == "candidate")
@@ -452,7 +473,22 @@ def make_patch(seed, data, source_rows, scope_notes):
             if updated.get("cvUrl") == person["cv"] and person["cv_type"]:
                 updated["cvType"] = person["cv_type"]
             if person["publication_counts"]:
-                updated["publicationCounts"] = person["publication_counts"]
+                counts = {(m["scope"], m["url"], m["checkedAt"]): m for m in updated.get("publicationCounts", [])}
+                counts.update({(m["scope"], m["url"], m["checkedAt"]): m for m in person["publication_counts"]})
+                updated["publicationCounts"] = list(counts.values())
+            if person["opportunities"]:
+                opportunities = {item["url"]: item for item in updated.get("opportunities", [])}
+                opportunities.update({item["url"]: item for item in person["opportunities"]})
+                updated["opportunities"] = list(opportunities.values())
+            finding = findings.get(seeded["id"], {})
+            if finding.get("author_id") and finding["author_id"] == reviewed.get(seeded["id"]) and finding.get("snapshot"):
+                snapshot = finding["snapshot"]
+                metrics = {(m["source"],m["authorId"],m["checkedAt"]):m for m in updated.get("metrics", [])}
+                metrics[(snapshot["source"],snapshot["authorId"],snapshot["checkedAt"])] = snapshot
+                updated["metrics"] = list(metrics.values())
+                papers = {p["url"]:p for p in updated.get("papers", [])}
+                papers.update({p["url"]:p for p in finding.get("papers", [])})
+                updated["papers"] = list(papers.values())
             if updated != seeded:
                 updated["checkedAt"] = max(updated.get("checkedAt") or "", person["checked_at"] or "")
             continue
@@ -485,8 +521,10 @@ def make_patch(seed, data, source_rows, scope_notes):
             "cvStatus":"独立 CV 待核对。" if not cv else None,
             "publicationsUrl":publications or None,
             "publicationCounts":person["publication_counts"],
+            "opportunities":person["opportunities"],
             "identityNote":reason, "metrics":[finding["snapshot"]] if known else [],
-            "identityUrl":(finding.get("candidate_url") or finding.get("snapshot",{}).get("url")) if slug in review_notes else None,
+            "identityUrl":(finding.get("candidate_url") or finding.get("snapshot",{}).get("url"))
+                if slug in review_notes or finding.get("status") == "identity_review" else None,
             "papers":finding.get("papers",[]), "directoryEvidence":sources,
             "checkedAt":person["checked_at"], "recordStatus":"directory",
         })
@@ -526,6 +564,11 @@ def make_patch(seed, data, source_rows, scope_notes):
         if school_id in scope_notes:
             note += " " + scope_notes[school_id]
         state = "sample" if people or parsed else "limited"
+        review = school_reviews.get(school_id, {})
+        reviewed_sources = set(review.get("sources", []))
+        available_sources = {row["id"] for row in successful}
+        if review.get("complete") and reviewed_sources and reviewed_sources <= available_sources and not pending:
+            state = "verified"
         latest_check = max((item["checked_at"] or "" for item in successful), default="") or school.get("checkedAt")
         school_patches.append({"id":school_id, "coverage":state, "coverageNote":note,
                                "rosterLinks":refs,"checkedAt":latest_check})
@@ -556,10 +599,10 @@ def export_checkpoint(db, profile_urls):
     _, findings, approved, notes = metrics_evidence()
     checkpoint["metrics"] = {}
     for key, result in sorted(findings.items()):
-        evidence = {field:result[field] for field in ("status", "reason", "author_id", "papers") if field in result}
+        evidence = {field:result[field] for field in ("status", "reason", "author_id", "papers", "checkedAt") if field in result}
         if result.get("author_id") and result["author_id"] == approved.get(key) and result.get("snapshot"):
             evidence["snapshot"] = result["snapshot"]
-        elif key in notes:
+        elif key in notes or result.get("status") == "identity_review":
             candidate_url = result.get("candidate_url") or result.get("snapshot",{}).get("url")
             if candidate_url:
                 evidence["candidate_url"] = candidate_url
@@ -573,7 +616,7 @@ def export(db, seed):
     cohort_path = ROOT / "cohort-review.json"
     cohorts = json.loads(cohort_path.read_text(encoding="utf-8")) if cohort_path.is_file() else {}
     scope_notes = cohorts.get("scopeNotes", {})
-    patch = make_patch(seed,candidates,sources,scope_notes)
+    patch = make_patch(seed,candidates,sources,scope_notes,cohorts.get("schoolReviews", {}))
     public_by_id = {p["id"]:p for p in seed["people"] + patch["people"]}
     public_people = list(public_by_id.values())
     profile_urls = {
@@ -588,7 +631,7 @@ def export(db, seed):
     decisions = Counter(p["decision"] for p in candidates)
     with (ROOT / "review-queue.csv.tmp").open("w",encoding="utf-8-sig",newline="") as handle:
         rows = csv.writer(handle)
-        rows.writerow(["学校 ID","姓名","职位","目录判定","方向","公开任职","主页","CV","论文数","累计引用","指标来源","指标日期","研究依据"])
+        rows.writerow(["学校 ID","姓名","职位","目录判定","方向","公开任职","主页","CV","论文数","累计引用","指标来源","指标日期","研究依据","判定备注"])
         by_affiliation = {
             (a["schoolId"],name_key(p["name"])):p
             for p in public_people for a in p["affiliations"]
@@ -600,31 +643,45 @@ def export(db, seed):
             rows.writerow([p["school"],p["name"],p["title"],p["decision"]," / ".join(p["fields"]),p["affiliation_url"],
                            public.get("homepage") or p["homepage"] or pending,public.get("cvUrl") or p["cv"] or pending,
                            metric.get("articles", pending),metric.get("citations", pending),metric.get("url", ""),metric.get("checkedAt", ""),
-                           " | ".join(f"{x['text']} [{x['url']}]" for x in p["topic_sources"])])
+                           " | ".join(f"{x['text']} [{x['url']}]" for x in p["topic_sources"]), p["decision_note"]])
     (ROOT / "review-queue.csv.tmp").replace(ROOT / "review-queue.csv")
+    page_attempts = {row["url"]:row for row in db.execute("SELECT url, status, checked_at FROM profiles WHERE status != 'queued'")}
+    _, findings, _, _ = metrics_evidence()
     with (ROOT / "field-review.csv.tmp").open("w", encoding="utf-8-sig", newline="") as handle:
         rows = csv.writer(handle)
         rows.writerow(["学者 ID", "姓名", "学校 ID", "任职来源", "主页", "CV", "CV 类型", "发表列表",
-                       "机构或作者统计", "OpenAlex 文章", "OpenAlex 引用", "OpenAlex 来源", "指标日期", "待核原因"])
+                       "机构或作者统计", "OpenAlex 文章", "OpenAlex 引用", "OpenAlex 来源", "指标日期",
+                       "已查个人页面", "作者复核日期", "代表作链接", "待核原因"])
         for p in public_people:
             appointments = p["affiliations"]
             trusted = [m for m in p.get("metrics", []) if m.get("source") == "OpenAlex"]
             metric = max(trusted, key=lambda m: m["checkedAt"], default={})
+            finding = findings.get(p["id"], {})
+            urls = dict.fromkeys([*(a["url"] for a in appointments), p.get("homepage"), p.get("publicationsUrl")])
+            attempts = [page_attempts[url] for url in urls if url in page_attempts]
+            checked_pages = " | ".join(
+                f"{row['checked_at'] or ''} {row['status']} {row['url']}" for row in attempts
+            )
             notes = []
             for key, label in (("homepage", "个人主页"), ("cvUrl", "CV"), ("publicationsUrl", "发表列表")):
                 if not p.get(key):
-                    notes.append(f"{label}缺可记录的公开链接")
+                    reason = "已查页面未提取到链接" if any(row["status"] == "parsed" for row in attempts) else "相关页面无可复核快照"
+                    notes.append(f"{label}待核，{reason}")
             counts = p.get("publicationCounts") or []
             if not counts:
                 notes.append("未登记作者或机构明确披露的计数及口径")
             if metric.get("articles") is None or metric.get("citations") is None:
-                notes.append(p.get("identityNote") or "OpenAlex 作者匹配或指标待复核")
+                notes.append(finding.get("reason") or p.get("identityNote") or "OpenAlex 作者匹配或指标待复核")
+            if not p.get("papers"):
+                notes.append("代表作待逐篇核验")
             rows.writerow([p["id"], p["name"], " / ".join(a["schoolId"] for a in appointments),
                            " / ".join(a["url"] for a in appointments), p.get("homepage") or "待核",
                            p.get("cvUrl") or "待核", p.get("cvType") or "", p.get("publicationsUrl") or "待核",
                            " / ".join(f"{c['value']} · {c['scope']} · {c['checkedAt']} · {c['url']}" for c in counts) or "待核",
-                           metric.get("articles", "待核"), metric.get("citations", "待核"), metric.get("url", ""),
-                           metric.get("checkedAt", ""), "；".join(notes)])
+                           metric.get("articles", "待核"), metric.get("citations", "待核"),
+                           metric.get("url") or finding.get("candidate_url", ""),
+                           metric.get("checkedAt", ""), checked_pages, finding.get("checkedAt", ""),
+                           " / ".join(paper["url"] for paper in p.get("papers", [])), "；".join(notes)])
     (ROOT / "field-review.csv.tmp").replace(ROOT / "field-review.csv")
     scope_size = len(seed["schools"])
     checked = len({row["school"] for row in sources if row["status"] == "parsed"})
@@ -634,16 +691,46 @@ def export(db, seed):
     homepage_count = sum(bool(p.get("homepage")) for p in public_people)
     publications = sum(bool(p.get("publicationsUrl")) for p in public_people)
     official_counts = sum(bool(p.get("publicationCounts")) for p in public_people)
+    representative_papers = sum(bool(p.get("papers")) for p in public_people)
     qs_count = sum("qs" in school["ranks"] for school in seed["schools"])
     gras_count = sum("gras" in school["ranks"] for school in seed["schools"])
     represented = len({a["schoolId"] for p in public_people for a in p["affiliations"]})
+    completed_schools = sum(s["coverage"] == "verified" for s in patch["schools"])
+    school_states = {s["id"]: s["coverage"] for s in patch["schools"]}
+    with (ROOT / "school-review.csv.tmp").open("w", encoding="utf-8-sig", newline="") as handle:
+        rows = csv.writer(handle)
+        rows.writerow(["学校 ID", "学校", "QS 2026", "软科 2026", "校级名册状态", "已入库", "任职或方向待核",
+                       "已登记名册及访问结果", "名册范围及未解事项"])
+        for s in seed["schools"]:
+            school_id = s["id"]
+            registered = [row for row in sources if row["school"] == school_id]
+            source_checks = " | ".join(
+                f"{row['checked_at'] or '无读取记录'} · {row['label']} · {row['status']} · {row['count']} 条 · {row['url']}"
+                + (f" · {row['note']}" if row["note"] else "") for row in registered
+            )
+            pending_count = sum(
+                p["school"] == school_id and p["decision"] in ("topic_review", "role_review", "affiliation_review")
+                for p in candidates
+            )
+            recorded = sum(any(a["schoolId"] == school_id for a in p["affiliations"]) for p in public_people)
+            state = school_states.get(school_id, "limited")
+            note = scope_notes.get(school_id, "")
+            if state != "verified":
+                if not any(row["status"] == "parsed" for row in registered):
+                    note += " 登记名录仍缺可提取的人员记录。"
+                if pending_count:
+                    note += f" {pending_count} 条任职或方向需逐人对账。"
+                note += " 校内分组和联合研究单位的覆盖范围尚未证明完整。"
+            rows.writerow([school_id, s["nameZh"], s["ranks"].get("qs", ""), s["ranks"].get("gras", ""),
+                           state, recorded, pending_count, source_checks, note.strip()])
+    (ROOT / "school-review.csv.tmp").replace(ROOT / "school-review.csv")
     lines = [
         "# 几何学者库进度",
         "",
         f"更新日期 {now_date()}。QS 2026 数学 {qs_count} 所，软科 GRAS 2026 数学 {gras_count} 所，两榜合并去重 {scope_size} 所。已登记来源 {len({row['school'] for row in sources})} 所，至少有一个已解析来源 {checked} 所。",
         f"目录去重后共 {len(candidates)} 条学者与学校记录，来源外的任职或研究交叉需要继续复核。",
-        f"网页收录 {len(public_people)} 位，覆盖 {represented} 所。有个人主页 {homepage_count} 位、公开 CV {cv_count} 位、发表列表 {publications} 位、机构或作者计数 {official_counts} 位、OpenAlex 指标 {metrics} 位。",
-        f"已解析 {profile_count} 个个人页面。校级全名单对账完成 0 所。",
+        f"网页收录 {len(public_people)} 位，覆盖 {represented} 所。有个人主页 {homepage_count} 位、公开 CV {cv_count} 位、发表列表 {publications} 位、代表作 {representative_papers} 位、机构或作者计数 {official_counts} 位、OpenAlex 指标 {metrics} 位。",
+        f"已解析 {profile_count} 个个人页面。校级全名单对账完成 {completed_schools} 所。",
         "",
     ]
     if cohorts:
@@ -665,7 +752,9 @@ def export(db, seed):
         sl = [row for row in sources if row["school"] == school["id"]]
         pl = [p for p in candidates if p["school"] == school["id"]]
         listed = [person for person in public_people if any(a["schoolId"] == school["id"] for a in person["affiliations"])]
-        label = "待发现来源" if not sl else "工作名单" if listed or any(row["status"] == "parsed" for row in sl) else "来源待复核"
+        label = "校级已对账" if school_states.get(school["id"]) == "verified" else (
+            "工作名单" if listed or any(row["status"] == "parsed" for row in sl) else "来源待复核" if sl else "待发现来源"
+        )
         links = " · ".join(f"[{r['label']}]({r['url']})" for r in sl)
         coverage = " / ".join(str(sum(bool(p.get(field)) for p in listed)) for field in ("homepage","cvUrl","metrics"))
         pending = sum(p["decision"] in ("topic_review","role_review","affiliation_review") for p in pl)
@@ -678,15 +767,16 @@ def export(db, seed):
                 lines.append(f"- {school['nameZh']}。{note}")
     lines += ["", "## 来源待处理", ""]
     for row in sources:
-        if row["status"] != "parsed":
+        if row["status"] not in ("parsed", "reference"):
             school = next(s for s in seed["schools"] if s["id"] == row["school"])
             lines.append(f"- {school['nameZh']} · {row['label']}。{row['note']} [{row['label']}]({row['url']})")
-    lines += ["", "见 [人物与任职队列](review-queue.csv) 和 [已收录学者字段待核表](field-review.csv)。"]
+    lines += ["", "见 [逐校名录复核表](school-review.csv)、[人物与任职队列](review-queue.csv) 和 [已收录学者字段待核表](field-review.csv)。"]
     atomic_write(ROOT / "PROGRESS.md","\n".join(lines)+"\n")
     print(json_text({"schools":scope_size,"parsedSchools":checked,"rosterRows":len(candidates),"decisions":dict(decisions),
                      "profilePages":profile_count,"newProfiles":len(public_people)-len(seed["people"]),"totalProfiles":len(public_people),
                      "homepageLinks":homepage_count,"cvLinks":cv_count,"publicationLinks":publications,
-                     "officialCounts":official_counts,"metrics":metrics}),flush=True)
+                     "officialCounts":official_counts,"representativePapers":representative_papers,
+                     "metrics":metrics,"completedSchools":completed_schools}),flush=True)
 
 
 def main():
