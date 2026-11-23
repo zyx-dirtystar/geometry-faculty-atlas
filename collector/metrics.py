@@ -31,7 +31,7 @@ def inspect(anchor):
     identifier = ""
     institutions = set()
     papers = []
-    for doi in anchor["doi"]:
+    for doi in anchor.get("doi",[]):
         work = api("/works/https://doi.org/" + quote(doi,safe="/."),select="display_name,doi,authorships,publication_year")
         matches = [entry for entry in work.get("authorships",[]) if name_key((entry.get("author") or {}).get("display_name") or "") in accepted_names]
         if len(matches) != 1:
@@ -43,7 +43,19 @@ def inspect(anchor):
         identifier = new_id
         institutions.update(i["display_name"] for i in author.get("institutions",[]) if i.get("display_name"))
         papers.append({"title":work["display_name"],"year":work["publication_year"],"url":"https://doi.org/" + doi})
-    profile = api("/authors/" + identifier,select="id,display_name,orcid,works_count,cited_by_count,summary_stats,last_known_institutions,affiliations")
+    orcid = anchor.get("orcid","")
+    if orcid and not re.fullmatch(r"\d{4}-\d{4}-\d{4}-\d{3}[\dX]",orcid):
+        return {"status":"identity_review","reason":"公开 ORCID 格式待核对。"}
+    if not identifier and not orcid:
+        return {"status":"identity_review","reason":"缺少可确认的论文 DOI 或公开 ORCID。"}
+    profile = api("/authors/" + (identifier or "https://orcid.org/" + orcid),
+                  select="id,display_name,orcid,works_count,cited_by_count,summary_stats,last_known_institutions,affiliations")
+    if orcid and (profile.get("orcid") != "https://orcid.org/" + orcid
+                  or name_key(profile.get("display_name") or "") not in accepted_names):
+        return {"status":"identity_review","reason":"OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。"}
+    identifier = (profile.get("id") or "").rsplit("/",1)[-1]
+    if not re.fullmatch(r"A\d+",identifier):
+        return {"status":"identity_review","reason":"OpenAlex 未提供有效的作者 ID。"}
     institutions.update(i["display_name"] for i in profile.get("last_known_institutions") or [] if i.get("display_name"))
     institutions.update(a["institution"]["display_name"] for a in profile.get("affiliations") or [] if a.get("institution"))
     aliases = {name_key(i) for i in anchor["institutions"]}

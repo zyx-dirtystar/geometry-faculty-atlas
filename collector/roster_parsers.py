@@ -1,6 +1,7 @@
 """Parse verified public directory formats. Keep role and topic evidence distinct."""
 
 from dataclasses import dataclass, field
+from html import unescape
 import re
 from urllib.parse import urljoin, urlparse
 
@@ -52,13 +53,13 @@ def matched_fields(research):
 
 
 def split_role(title):
-    if re.search(r"emerit|émérit|emérit|retired|in memoriam|honoraire|jubilad|荣休", title, re.I):
+    if re.search(r"emerit|émérit|emérit|retired|in memoriam|honoraire|jubilad|\bi\.?\s*r\.|荣休", title, re.I):
         return "emeritus"
-    if re.search(r"visiting|visitor|adjunct|courtesy|affiliate|secondary appointment|profesor[ae]? asociad|^invit[ée]|访问|兼职", title, re.I):
+    if re.search(r"visiting|visitor|adjunct|courtesy|affiliate|gästprofessor|secondary appointment|profesor[ae]? asociad|^invit[ée]|访问|兼职", title, re.I):
         return "associated"
-    if re.search(r"post.?doc|instructor|lecturer|student|professional services staff|^lecteur|^dottorand|^doctorand|^講師$|博士后", title, re.I):
+    if re.search(r"post.?doc|postdoktor|instructor|lecturer|student|professional services staff|^lecteur|^dottorand|^doctorand|^講師$|博士后", title, re.I):
         return "other"
-    if re.search(r"\bprofessor\b|\bacademic faculty\b|\breader\b|prof\. dr\.|professeur|professore (?:ordinario|associato)|catedr[aá]tic[ao]|titular de universidad|contratad[oa] doctor|ma[iî]tr(?:e|esse) de conf[ée]rences|研究员|教授|^助教$", title, re.I):
+    if re.search(r"\bprofessor\b|\bacademic faculty\b|\breader\b|universitetslektor|prof\. dr\.|univ\.-prof\.|assoz\. prof\.|professeur|professore (?:ordinario|associato)|catedr[aá]tic[ao]|titular de universidad|contratad[oa] doctor|ma[iî]tr(?:e|esse) de conf[ée]rences|研究员|教授|^助教$", title, re.I):
         return "faculty"
     if re.search(r"\bfellow\b|research assistant", title, re.I):
         return "other"
@@ -886,6 +887,228 @@ def parse_ens(document, base):
     return records
 
 
+def parse_vienna(document, base):
+    records = []
+    for table in document.xpath("//div[contains(@class,'univiepersonal-list-container')]//table"):
+        group = text_at(table,"preceding::h2[1]")
+        for row in table.xpath(".//tr[td[1] and td[2]]"):
+            name = text_at(row,"./td[1]")
+            title = text_at(row,"./td[2]")
+            link = next((url for _,url in urls(row.xpath("./td[1]")[0],base)),"")
+            if name and group:
+                records.append(Entry(name,title,group,link))
+    return records
+
+
+def parse_ustc(document, base):
+    records = []
+    for table in document.xpath("//div[@class='paging_content']/table"):
+        title = ""
+        for row in table.xpath("./tbody/tr[td]|./tr[td]"):
+            cells = row.xpath("./td")
+            if len(cells) == 1:
+                label = contents(cells[0])
+                if label in {"教授","副教授","讲师","特任副研究员","特任教授","特任副教授"}:
+                    title = label
+                continue
+            name = text_at(row, "./td[1]")
+            field = text_at(row, "./td[2]")
+            href = next(iter(row.xpath("./td[1]//a/@href")),"")
+            if title and name and clean(name).replace(" ","") != "姓名":
+                records.append(Entry(re.sub(r"(?<=[\u4e00-\u9fff])\s+(?=[\u4e00-\u9fff])","",name),
+                                     title,field,profile_link(base,href) if href else ""))
+    return records
+
+
+def parse_sustech(document, base):
+    return [
+        Entry(text_at(row,"./td[1]/a"),text_at(row,"./td[2]"),profile=profile_link(base,row.xpath("./td[1]/a/@href")[0]))
+        for row in document.xpath("//tr[td[1]/a[starts-with(@href,'/c/')] and td[2]]")
+    ]
+
+
+def parse_uppsala(document, base):
+    records = []
+    for link in document.xpath("//a[contains(@href,'/personal?query=')][normalize-space()]"):
+        panel = link.getparent().getparent()
+        title = text_at(panel,"./ul/li[1]")
+        records.append(Entry(display_name(contents(link)),title,profile=profile_link(base,link.get("href"))))
+    return records
+
+
+def parse_pisa_geometry(document, base):
+    return [
+        Entry(contents(link),research="Geometry",homepage=profile_link(base,link.get("href")))
+        for link in document.xpath("//a[@href and normalize-space()]")
+        if " " in contents(link) and len(contents(link)) < 70
+    ]
+
+
+def parse_kuleuven(document, base):
+    records = []
+    topic = "Geometry" if "/meetkunde/" in urlparse(base).path else "Algebra and Geometry"
+    for link in document.xpath("//a[contains(@href,'/person/') and normalize-space()]"):
+        label = contents(link)
+        if not label.startswith(("Prof.","Professor ")):
+            continue
+        url = profile_link(base,link.get("href")).replace("http://www.kuleuven.be/","https://www.kuleuven.be/",1)
+        records.append(Entry(re.sub(r"^dr\.\s+","",untitled(label),flags=re.I),"Professor",topic,profile=url))
+    return records
+
+
+def parse_cmls_geometry(document, base):
+    records = []
+    for heading in document.xpath("//h3[normalize-space()='Membres permanents']"):
+        for row in heading.itersiblings():
+            if row.tag in {"h2","h3"}:
+                break
+            name,sep,title = contents(row).partition(",")
+            if row.tag != "p" or not sep or not name:
+                continue
+            parts = name.strip().rsplit(" ",1)
+            name = " ".join([parts[0],parts[1].title()]) if len(parts)>1 and parts[-1].isupper() else name.strip()
+            homepage = next((url for _,url in urls(row,base)),"")
+            title = title.strip()
+            if title.startswith("Prof."):
+                title = title.replace("Prof.","Professor",1)
+            records.append(Entry(name,title,"Geometry and Dynamics",homepage=homepage))
+    return records
+
+
+def parse_zurich_group(document, base):
+    records = []
+    for table in document.xpath("//table[.//tr[contains(.,', professor.')]]"):
+        for cell in table.xpath(".//tr/td[2][contains(.,', professor.')]"):
+            name,_,description = contents(cell).partition(", professor.")
+            if name and description:
+                records.append(Entry(name.strip(),"Professor",description.strip()[:500]))
+    return records
+
+
+def parse_sjtu_wucms(document, base):
+    records = []
+    for link in document.xpath("//ul[@class='zc_lb1']/li/a[.//h3 or .//h4]"):
+        name = text_at(link,".//h3|.//h4")
+        name = re.sub(r"\s*[（(][^()（）]+[）)]$","",name).strip()
+        url = profile_link(base,link.get("href"))
+        records.append(Entry(name,"Assistant Professor",profile=url))
+    return records
+
+
+def parse_hit(document, base):
+    records = []
+    for row in document.xpath("//div[@class='wp_entry']//tr[count(td)>=7]"):
+        name = text_at(row,"./td[1]")
+        if not name or name == "姓名":
+            continue
+        title = "副教授" if "/fjs/" in urlparse(base).path else "教授"
+        records.append(Entry(name,title,text_at(row,"./td[7]")))
+    return records
+
+
+def parse_lmo(payload, base):
+    records = []
+    for item in payload.get("data",[]):
+        name = clean(item.get("nom") or "")
+        title = clean(item.get("fonction_feminine") or item.get("fonction") or "")
+        team = clean(item.get("equipe") or "")
+        href = item.get("url") or ""
+        site = item.get("site") or ""
+        if not name or not href.startswith(("/fr/membres/","/en/people/")):
+            continue
+        if urlparse(site).scheme not in {"https","http"}:
+            site = ""
+        records.append(Entry(name,title,team,profile_link(base,href),site))
+    return records
+
+
+def parse_zjnu(document, base):
+    return [
+        Entry(text_at(row,"./td[3]"),text_at(row,"./td[4]"))
+        for row in document.xpath("//div[contains(@class,'wp_articlecontent')]//tr[td[1] and td[3] and td[4]]")
+        if text_at(row,"./td[1]").isdigit() and text_at(row,"./td[3]")
+    ]
+
+
+def parse_sydney_profiles(document, base):
+    records = []
+    for link in document.xpath("//main//a[contains(@href,'?nsh')][normalize-space()]"):
+        label = contents(link)
+        if len(label.split()) < 2:
+            continue
+        match = re.match(r"^(?P<title>Emeritus Professor|Associate Professor|Assistant Professor|Professor)\s+",label)
+        name = label[match.end():] if match else untitled(label)
+        records.append(Entry(name,match["title"] if match else "",profile=profile_link(base,link.get("href")).split("?")[0]))
+    return records
+
+
+def parse_tamu(payload, base):
+    records = []
+    for item in payload:
+        categories = set(item.get("tag") or [])
+        if "mathematics" not in categories:
+            continue
+        title = " / ".join(item.get("titles") or [])
+        if {"Emeritus Faculty","Retired Faculty"} & categories:
+            title = "Professor Emeritus"
+        elif "Visiting Faculty" in categories:
+            title = "Visiting Professor"
+        elif "Faculty" not in categories:
+            continue
+        research = " / ".join((item.get("researchAreas") or []) + (item.get("interests") or []))
+        href = item.get("link") or ""
+        name = clean(item.get("name") or "")
+        if name and href.startswith("/mathematics/contact/profiles/"):
+            records.append(Entry(name,title or "Academic Faculty",research,profile_link(base,href)))
+    return records
+
+
+def parse_wisconsin(payload, base):
+    role_labels = {20:"Professor",21:"Associate Professor",22:"Assistant Professor",52:"Affiliated Professor"}
+    records = []
+    for item in payload:
+        title = item.get("title") or {}
+        name = clean(unescape(re.sub(r"<[^>]*>"," ",title.get("rendered",""))))
+        roles = item.get("uw_staff_type") or []
+        role = next((role_labels[n] for n in roles if n in role_labels and n != 52),"")
+        if not role and 52 in roles:
+            role = role_labels[52]
+        href = item.get("link") or ""
+        if name and role and href:
+            records.append(Entry(display_name(name),role,profile=profile_link(base,href)))
+    return records
+
+
+def parse_psau_profiles(document, base):
+    return [
+        Entry(contents(link).title(),profile=profile_link(base,link.get("href")))
+        for link in document.xpath("//h3[@class='title']/a[contains(@href,'/en/persons/')][normalize-space()]")
+    ]
+
+
+def parse_aix(document, base):
+    records = []
+    for row in document.xpath(f"//div[{class_token('lab_clickable_user')}]"):
+        name = text_at(row,"./div[@class='lab_directory_table_row_name']")
+        title = text_at(row,"./div[@class='lab_directory_table_row_function']")
+        topic = text_at(row,"./div[@class='lab_directory_table_row_group']")
+        if name and title:
+            parts = name.split()
+            cut = next((i for i,p in enumerate(parts) if not p.isupper()), 0)
+            if cut:
+                name = " ".join(parts[cut:] + [p.title() for p in parts[:cut]])
+            records.append(Entry(name,title,topic))
+    return records
+
+
+def parse_padua_group(document, base):
+    return [
+        Entry(display_name(label), research="Algebraic and arithmetic geometry research group", homepage=profile_link(base,url))
+        for label,url in urls(document,base)
+        if "," in label and "/~" in url.replace("%7E","~").replace("%7e","~")
+    ]
+
+
 PARSERS = {
     "stanford": parse_stanford, "stonybrook": parse_stonybrook, "stonybrook_group": parse_stonybrook_group,
     "bonn": parse_bonn, "bicmr": parse_bicmr, "princeton": parse_princeton, "princeton_group": parse_princeton_group,
@@ -907,6 +1130,12 @@ PARSERS = {
     "complutense":parse_complutense, "granada":parse_granada, "jyvaskyla":parse_jyvaskyla, "polyu":parse_polyu,
     "weizmann":parse_weizmann, "ucl":parse_ucl, "polimi":parse_polimi, "sapienza":parse_sapienza, "sns":parse_sns,
     "ubc":parse_ubc, "ens":parse_ens,
+    "vienna":parse_vienna, "ustc":parse_ustc, "sustech":parse_sustech, "uppsala":parse_uppsala,
+    "pisa_geometry":parse_pisa_geometry, "kuleuven":parse_kuleuven, "cmls_geometry":parse_cmls_geometry,
+    "zurich_group":parse_zurich_group,"sjtu_wucms":parse_sjtu_wucms,"hit":parse_hit,
+    "lmo":parse_lmo,"zjnu":parse_zjnu,"sydney_profiles":parse_sydney_profiles,
+    "tamu":parse_tamu,"wisconsin":parse_wisconsin,"psau_profiles":parse_psau_profiles,
+    "aix":parse_aix,"padua_group":parse_padua_group,
 }
 
 
@@ -916,7 +1145,7 @@ def profile_fields(document, base):
     research = []
     for label in main.xpath(".//h2|.//h3|.//h4|.//dt|.//div[not(*) and @class]|.//strong|.//b"):
         title = contents(label).strip(":").lower()
-        if title not in {"field of interest", "research field", "research interests", "research area", "research areas", "research area(s)", "research interests and areas", "research specialization", "専門分野"}:
+        if title not in {"field of interest", "research field", "research interests", "research area", "research areas", "research area(s)", "research interests and areas", "research specialization", "専門分野", "研究方向", "研究领域", "科研方向", "thèmes de recherche", "forschungsinteressen", "forskningsintressen"}:
             continue
         following = label.getnext()
         value = clean(label.tail or "") or (contents(following) if following is not None else "")

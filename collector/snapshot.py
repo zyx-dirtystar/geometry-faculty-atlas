@@ -25,15 +25,17 @@ def load_sources():
     return json.loads((ROOT / "rosters.json").read_text(encoding="utf-8"))
 
 
-def get_page(url, transport=None):
-    if urlparse(url).scheme != "https":
+def get_page(url, transport=None, data_type="html"):
+    parsed = urlparse(url)
+    if parsed.scheme != "https" or parsed.username or parsed.password:
         raise ValueError("Use HTTPS directory URLs.")
+    media_type = {"html":"text/html", "json":"application/json"}[data_type]
     if transport == "system" and os.name == "nt":
         shell = which("pwsh") or which("powershell")
         if not shell:
             raise ValueError("The system HTTPS requester is unavailable.")
         response = subprocess.run(
-            [shell, "-NoProfile", "-NonInteractive", "-File", str(ROOT / "fetch-public.ps1"), "-Url", url],
+            [shell, "-NoProfile", "-NonInteractive", "-File", str(ROOT / "fetch-public.ps1"), "-Url", url, "-MediaType", media_type],
             capture_output=True, text=True, encoding="utf-8", timeout=25,
         )
         if response.returncode:
@@ -42,9 +44,9 @@ def get_page(url, transport=None):
         return received["url"], base64.b64decode(received["html"], validate=True)
     for attempt in range(2):
         try:
-            with urlopen(Request(url, headers={"User-Agent": USER_AGENT, "Accept": "text/html"}), timeout=16) as response:
-                if urlparse(response.geturl()).scheme != "https" or response.headers.get_content_type() != "text/html":
-                    raise ValueError("The directory did not return an HTTPS HTML page.")
+            with urlopen(Request(url, headers={"User-Agent": USER_AGENT, "Accept": media_type}), timeout=16) as response:
+                if urlparse(response.geturl()).scheme != "https" or response.headers.get_content_type() != media_type:
+                    raise ValueError(f"The directory did not return the expected public {media_type} content.")
                 body = response.read(5_000_001)
                 if len(body) > 5_000_000:
                     raise ValueError("Directory response exceeds the download limit.")
@@ -56,24 +58,25 @@ def get_page(url, transport=None):
             time.sleep(min(int(delay), 15) if delay.isdigit() else 2)
         except URLError as error:
             if os.name == "nt" and isinstance(error.reason, ssl.SSLCertVerificationError):
-                return get_page(url, "system")
+                return get_page(url, "system", data_type)
             raise
 
 
 def save_source(source, refresh=False):
     name = source["id"]
+    data_type = source.get("data_type","html")
     meta_path = CACHE / f"{name}.json"
     if meta_path.exists() and not refresh:
         previous = json.loads(meta_path.read_text(encoding="utf-8"))
-        if previous.get("url") == source["url"] and previous.get("sha256"):
-            saved = CACHE / f"{name}.{previous['sha256']}.html"
+        if previous.get("url") == source["url"] and previous.get("data_type","html") == data_type and previous.get("sha256"):
+            saved = CACHE / f"{name}.{previous['sha256']}.{data_type}"
             if saved.is_file() and sha256(saved.read_bytes()).hexdigest() == previous["sha256"]:
                 return {"id": name, "status": "cached", "bytes": saved.stat().st_size}
     timestamp = datetime.now(timezone.utc).isoformat(timespec="seconds")
     try:
-        final_url, body = get_page(source["url"], source.get("transport"))
+        final_url, body = get_page(source["url"], source.get("transport"), data_type)
         fingerprint = sha256(body).hexdigest()
-        target = CACHE / f"{name}.{fingerprint}.html"
+        target = CACHE / f"{name}.{fingerprint}.{data_type}"
         if not target.exists():
             tmp = target.with_suffix(".tmp")
             tmp.write_bytes(body)

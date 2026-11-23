@@ -20,7 +20,7 @@ from urllib.parse import urlparse
 
 from lxml import etree, html
 
-from roster_parsers import ADJACENT, PARSERS, matched_fields, profile_fields, split_role
+from roster_parsers import ADJACENT, PARSERS, Entry, matched_fields, profile_fields, split_role
 from snapshot import CACHE, ROOT, load_sources, save_source
 
 PROJECT = ROOT.parent
@@ -155,12 +155,18 @@ def read_snapshot(source_id):
     meta = json.loads(location.read_text(encoding="utf-8"))
     if not meta.get("sha256"):
         return meta, None
-    snapshot = CACHE / f"{source_id}.{meta['sha256']}.html"
+    data_type = meta.get("data_type","html")
+    snapshot = CACHE / f"{source_id}.{meta['sha256']}.{data_type}"
     if not snapshot.exists():
         return meta, None
     content = snapshot.read_bytes()
     if sha256(content).hexdigest() != meta["sha256"]:
         return meta, None
+    if data_type == "json":
+        try:
+            return meta, json.loads(content)
+        except (UnicodeDecodeError, json.JSONDecodeError):
+            return meta, None
     try:
         content.decode("utf-8")
     except UnicodeDecodeError:
@@ -184,9 +190,12 @@ def seen_date(meta):
 def ingest_rosters(db, seed):
     with db:
         db.executemany("INSERT OR REPLACE INTO schools VALUES (?,?)", [(s["id"], json_text(s)) for s in seed["schools"]])
+    transcript_path = ROOT / "official-roster-transcripts.json"
+    transcripts = json.loads(transcript_path.read_text(encoding="utf-8")) if transcript_path.is_file() else {}
     for source in load_sources():
         meta, document = read_snapshot(source["id"])
-        if meta is None and db.execute("SELECT 1 FROM sources WHERE id=? AND url=?", (source["id"], source["url"])).fetchone():
+        transcript = transcripts.get(source["id"])
+        if not transcript and meta is None and db.execute("SELECT 1 FROM sources WHERE id=? AND url=?", (source["id"], source["url"])).fetchone():
             continue
         rows = []
         if document is not None:
@@ -210,19 +219,24 @@ def ingest_rosters(db, seed):
             status, note = "needs_adapter", "已保存网页，目录为动态列表或结构尚未对账。"
         else:
             status, note = "parsed", ""
+        checked_at = seen_date(meta)
+        if not rows and transcript and transcript["url"] == source["url"] and transcript["entries"]:
+            rows = [Entry(**row) for row in transcript["entries"]]
+            checked_at = transcript["checkedAt"]
+            status, note = "parsed", transcript["scope"]
         # Preserve the last successful records if a later fetch fails.
         with db:
             if status == "parsed":
                 db.execute("DELETE FROM sightings WHERE source=?", (source["id"],))
                 for row in rows:
-                    data = {**asdict(row), "source_kind":source["kind"], "source_url":source["url"], "checked_at":seen_date(meta)}
+                    data = {**asdict(row), "source_kind":source["kind"], "source_url":source.get("evidence_url",source["url"]), "checked_at":checked_at}
                     if source.get("unit"):
                         data["unit"] = source["unit"]
                     db.execute("INSERT OR REPLACE INTO sightings VALUES (?,?,?,?)",
                                (source["id"], name_key(row.name), source["school"], json_text(data)))
             count = db.execute("SELECT COUNT(*) FROM sightings WHERE source=?", (source["id"],)).fetchone()[0]
             db.execute("INSERT OR REPLACE INTO sources VALUES (?,?,?,?,?,?,?,?)",
-                       (source["id"],source["school"],source["url"],source["name"],status,count,seen_date(meta),note))
+                       (source["id"],source["school"],source["url"],source["name"],status,count,checked_at,note))
 
 
 def add_profile_data(db):
@@ -412,7 +426,8 @@ def make_patch(seed, data, source_rows):
         anchor = anchors.get(slug,{})
         finding = findings.get(slug,{})
         known = finding.get("status") == "review_ready" and finding.get("author_id") and finding["author_id"] == reviewed.get(slug)
-        reason = ("已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。" if known else
+        reason = (("已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。" if anchor.get("orcid") else
+                   "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。") if known else
                   review_notes.get(slug) or finding.get("reason") or "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。")
         cv = anchor.get("cv") or person["cv"]
         publications = person["publications"]

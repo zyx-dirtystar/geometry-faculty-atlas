@@ -26,23 +26,35 @@
     },
     {
       "id": "paris-saclay",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 3/6 个登记来源，49 条任职或方向待核。 已收录 21 位学者，个人主页 14、CV 2、指标 0。",
       "rosterLinks": [
         [
           "Institut de Mathématique d’Orsay · Arithmétique et Géométrie Algébrique",
           "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
         ],
         [
+          "LMO · 代数几何组成员数据",
+          "https://www.imo.universite-paris-saclay.fr/fr/membres/equipe/json/78/"
+        ],
+        [
           "Institut de Mathématique d’Orsay · Membres",
           "https://www.imo.universite-paris-saclay.fr/fr/membres/"
         ],
         [
+          "Institut de Mathématique d’Orsay · Annuaire des membres",
+          "https://www.imo.universite-paris-saclay.fr/fr/membres/json/"
+        ],
+        [
           "Institut de Mathématique d’Orsay · Topology and Dynamics",
           "https://www.imo.universite-paris-saclay.fr/en/research/topology-and-dynamics/"
+        ],
+        [
+          "LMO · Topology and Dynamics members",
+          "https://www.imo.universite-paris-saclay.fr/en/people/equipe/json/80/"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "oxford",
@@ -315,8 +327,12 @@
     {
       "id": "toronto",
       "coverage": "limited",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverageNote": "已解析 0/4 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
       "rosterLinks": [
+        [
+          "数学系 About the Department（旧站）",
+          "https://www.math.utoronto.ca/dept/about-math.html"
+        ],
         [
           "数学系 All Faculty Directory",
           "https://www.mathematics.utoronto.ca/people/directories/all-faculty"
@@ -502,19 +518,27 @@
     },
     {
       "id": "wisconsin-madison",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/4 个登记来源，56 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 0。",
       "rosterLinks": [
+        [
+          "Math Faculty · 公开任职类别",
+          "https://www.math.wisc.edu/wp-json/wp/v2/uw_staff_type?per_page=100"
+        ],
         [
           "数学系 All Department Directory",
           "https://www.math.wisc.edu/all-department-directory/"
+        ],
+        [
+          "数学系 Math Faculty · 公开名单数据",
+          "https://www.math.wisc.edu/wp-json/wp/v2/uw_staff?uw_staff_type=20%2C21%2C22%2C52&per_page=100"
         ],
         [
           "数学系 Math Faculty",
           "https://www.math.wisc.edu/math-faculty/"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "brown",
@@ -610,8 +634,8 @@
     },
     {
       "id": "vienna",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 2/3 个登记来源，12 条任职或方向待核。 已收录 3 位学者，个人主页 2、CV 0、指标 2。",
       "rosterLinks": [
         [
           "Arithmetics, Algebra and Discrete Mathematics",
@@ -626,7 +650,7 @@
           "https://ucrisportal.univie.ac.at/en/organisations/fakult%C3%A4t-f%C3%BCr-mathematik/"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "maryland",
@@ -690,8 +714,8 @@
     },
     {
       "id": "sustech",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，46 条任职或方向待核。",
       "rosterLinks": [
         [
           "数学系科研教学系列",
@@ -702,7 +726,7 @@
           "https://math.sustech.edu.cn/news/about_us.html?lang=zh"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "caltech",
@@ -734,8 +758,8 @@
     },
     {
       "id": "sjtu",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/3 个登记来源，3 条任职或方向待核。",
       "rosterLinks": [
         [
           "吴文俊数学中心基础数学团队",
@@ -750,7 +774,7 @@
           "https://wucms.sjtu.edu.cn/ry_staff.html"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "ubc",
@@ -826,8 +850,8 @@
     },
     {
       "id": "ustc",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 2/3 个登记来源，19 条任职或方向待核。 已收录 17 位学者，个人主页 3、CV 0、指标 0。",
       "rosterLinks": [
         [
           "数学系教师列表",
@@ -842,24 +866,28 @@
           "https://math.ustc.edu.cn/szdw/list.htm"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "zju",
       "coverage": "sample",
-      "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 0。 官方目录内容待提取。",
+      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 0。 官方目录内容待提取。",
       "rosterLinks": [
         [
           "浙江大学王枫公开主页",
           "https://mypage.zju.edu.cn/0014136"
+        ],
+        [
+          "数学科学学院教师王枫（英文版）",
+          "https://person.zju.edu.cn/en/0014136"
         ]
       ],
       "checkedAt": null
     },
     {
       "id": "aix-marseille",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/4 个登记来源，162 条任职或方向待核。",
       "rosterLinks": [
         [
           "I2M · Arithmétique, Géométrie, Logique et Représentations",
@@ -870,17 +898,29 @@
           "https://www.i2m.univ-amu.fr/annuaire/"
         ],
         [
+          "I2M · Annuaire de tous les membres",
+          "https://www.i2m.univ-amu.fr/annuaire/?letter=%25"
+        ],
+        [
           "I2M · Analyse, Géométrie, Topologie",
           "https://www.i2m.univ-amu.fr/equipes-scientifiques/analyse-geometrie-topologie-agt/"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "central-south",
       "coverage": "limited",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverageNote": "已解析 0/5 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
       "rosterLinks": [
+        [
+          "数学与统计学院专任教师",
+          "https://math.csu.edu.cn/info/1804/13817.htm"
+        ],
+        [
+          "数学与统计学院应用数学系",
+          "https://math.csu.edu.cn/szdw/yysxx.htm"
+        ],
         [
           "数学与统计学院师资队伍",
           "https://math.csu.edu.cn/szdw.htm"
@@ -934,8 +974,8 @@
     },
     {
       "id": "nus",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，8 条任职或方向待核。 已收录 8 位学者，个人主页 1、CV 2、指标 0。",
       "rosterLinks": [
         [
           "数学系 Regular Faculty",
@@ -946,7 +986,7 @@
           "https://www.math.nus.edu.sg/people/regular-faculty/?keyword=matwf"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "penn-state",
@@ -994,12 +1034,16 @@
     },
     {
       "id": "texas-am",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/4 个登记来源，53 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 0。",
       "rosterLinks": [
         [
           "College Station 数学系 Faculty Directory",
           "https://artsci.tamu.edu/mathematics/contact/faculty.html"
+        ],
+        [
+          "Mathematics Directory · 公开名册数据",
+          "https://artsci.tamu.edu/mathematics/contact/profiles/dept-profile-data.json"
         ],
         [
           "数学系 Geometry and Topology",
@@ -1010,7 +1054,7 @@
           "https://artsci.tamu.edu/mathematics/contact/profiles/index.html"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "manchester",
@@ -1106,9 +1150,13 @@
     },
     {
       "id": "pisa",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/3 个登记来源，13 条任职或方向待核。",
       "rosterLinks": [
+        [
+          "Dipartimento di Matematica · Docenti",
+          "https://manage.dm.unipi.it/api/v0/public/staff-list/?qualification__in=PO%2CPA%2CRTDa%2CRTDb%2CRTT%2CRIC&is_internal=true&status=current"
+        ],
         [
           "Dipartimento di Matematica · Elenco del Personale",
           "https://www.dm.unipi.it/elenco-del-personale/"
@@ -1118,7 +1166,7 @@
           "https://people.dm.unipi.it/geom/peoplelist.html"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "usc",
@@ -1138,9 +1186,17 @@
     },
     {
       "id": "sydney",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/4 个登记来源，25 条任职或方向待核。",
       "rosterLinks": [
+        [
+          "School of Mathematics and Statistics · Browse our academic staff",
+          "https://profiles.sydney.edu.au/groups/177747/experts"
+        ],
+        [
+          "School of Mathematics and Statistics · Algebra Research Group",
+          "https://www.maths.usyd.edu.au/res/Algebra.html"
+        ],
         [
           "School of Mathematics and Statistics · Research",
           "https://www.sydney.edu.au/science/schools/school-of-mathematics-and-statistics/research.html"
@@ -1150,7 +1206,7 @@
           "https://www.sydney.edu.au/science/schools/school-of-mathematics-and-statistics.html"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "turin",
@@ -1190,8 +1246,8 @@
     },
     {
       "id": "zurich",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 0。",
       "rosterLinks": [
         [
           "Institute of Mathematics · Mathematical Physics Group",
@@ -1202,12 +1258,12 @@
           "https://www.math.uzh.ch/professuren?type=0"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "zjnu",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/3 个登记来源，110 条任职或方向待核。",
       "rosterLinks": [
         [
           "数学科学学院师资队伍",
@@ -1216,9 +1272,13 @@
         [
           "数学科学学院数学学科",
           "https://sxxy.zjnu.edu.cn/2023/0922/c16670a447649/page.htm"
+        ],
+        [
+          "数学科学学院学科导师介绍",
+          "https://sxxy.zjnu.edu.cn/2022/0318/c16672a414540/page.htm"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "uab",
@@ -1262,8 +1322,8 @@
     },
     {
       "id": "hit",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 2/3 个登记来源，7 条任职或方向待核。 已收录 2 位学者，个人主页 0、CV 0、指标 0。",
       "rosterLinks": [
         [
           "数学学院副教授",
@@ -1278,12 +1338,12 @@
           "https://math.hit.edu.cn/10291/list.htm"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "ip-paris",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/3 个登记来源，10 条任职或方向待核。",
       "rosterLinks": [
         [
           "École Polytechnique CMLS",
@@ -1298,12 +1358,12 @@
           "https://portail.polytechnique.edu/cmls/presentation/organigramme"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "jean-monnet",
       "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
       "rosterLinks": [
         [
           "Institut Camille Jordan",
@@ -1312,6 +1372,10 @@
         [
           "Institut Camille Jordan · Membres du site stéphanois",
           "https://www.univ-st-etienne.fr/fr/icj/les-membres-du-laboratoire.html"
+        ],
+        [
+          "MODMAD · Liste des membres",
+          "https://www.univ-st-etienne.fr/fr/modmad/liste-des-membres-modmad.html"
         ]
       ],
       "checkedAt": null
@@ -1342,8 +1406,8 @@
     },
     {
       "id": "ku-leuven",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 2/2 个登记来源，11 条任职或方向待核。 已收录 2 位学者，个人主页 1、CV 0、指标 2。",
       "rosterLinks": [
         [
           "Section of Algebra · Members",
@@ -1354,7 +1418,7 @@
           "https://wis.kuleuven.be/meetkunde/Members"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "polimi",
@@ -1370,15 +1434,19 @@
     },
     {
       "id": "prince-sattam",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，3 条任职或方向待核。",
       "rosterLinks": [
         [
           "Mathematics · Research Portal",
           "https://psau.sa.elsevierpure.com/en/organisations/mathematics-5/"
+        ],
+        [
+          "数学系研究档案",
+          "https://psau.sa.elsevierpure.com/en/organisations/mathematics-5/persons/"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "sapienza",
@@ -1499,7 +1567,7 @@
     {
       "id": "jyvaskyla",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，8 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 0。",
+      "coverageNote": "已解析 1/1 个登记来源，8 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 0。",
       "rosterLinks": [
         [
           "Department of Mathematics and Statistics · Contact Information",
@@ -1510,19 +1578,27 @@
     },
     {
       "id": "padua",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/4 个登记来源，12 条任职或方向待核。",
       "rosterLinks": [
         [
           "Dipartimento di Matematica · Personale",
           "https://wss.math.unipd.it/display/Pages/Personale.php"
         ],
         [
+          "Geometry Group",
+          "https://www.math.unipd.it/~bertapel/geometry.html"
+        ],
+        [
           "Geometria Algebrica e Teoria dei Numeri · People",
           "https://docenti.math.unipd.it/geometria/people"
+        ],
+        [
+          "Docenti · Dipartimento di Matematica",
+          "https://docenti.math.unipd.it/"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "regensburg",
@@ -1558,8 +1634,8 @@
     },
     {
       "id": "uppsala",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/3 个登记来源，86 条任职或方向待核。",
       "rosterLinks": [
         [
           "数学系 Academic Staff",
@@ -1574,7 +1650,7 @@
           "https://www.uu.se/en/department/mathematics/about-us/staff"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     }
   ],
   "people": [
@@ -2659,22 +2735,24 @@
       "recordStatus": "directory"
     },
     {
-      "id": "tapio-rajala",
-      "name": "Tapio Rajala",
+      "id": "person-648c551bec3f",
+      "name": "史晓冉",
       "affiliations": [
         {
-          "schoolId": "jyvaskyla",
-          "department": "数学系",
-          "title": "Professor, Head of Department",
-          "url": "https://www.jyu.fi/en/people/tapio-rajala",
+          "schoolId": "hit",
+          "department": "数学学院",
+          "title": "副教授",
+          "url": "https://math.hit.edu.cn/fjs/list.htm",
           "type": "primary",
           "checkedAt": "2026-11-23"
         }
       ],
       "fields": [
-        "differential"
+        "algebraic"
       ],
-      "tags": [],
+      "tags": [
+        "计算机辅助几何设计，计算代数几何"
+      ],
       "homepage": null,
       "cvUrl": null,
       "cvStatus": "独立 CV 待核对。",
@@ -2685,8 +2763,204 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "计算机辅助几何设计，计算代数几何",
+          "url": "https://math.hit.edu.cn/fjs/list.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-44ca77857f95",
+      "name": "矫贺明",
+      "affiliations": [
+        {
+          "schoolId": "hit",
+          "department": "数学学院",
+          "title": "教授",
+          "url": "https://math.hit.edu.cn/js/list.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "几何分析"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "几何分析",
+          "url": "https://math.hit.edu.cn/js/list.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "tapio-rajala",
+      "name": "Tapio Rajala",
+      "affiliations": [
+        {
+          "schoolId": "jyvaskyla",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.jyu.fi/en/people/tapio-rajala",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://users.jyu.fi/~tamaraja/",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://users.jyu.fi/~tamaraja/publications.html",
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometric analysis on metric measure spaces and lower Ricci curvature bounds",
+          "url": "https://users.jyu.fi/~tamaraja/research.html"
+        },
+        {
           "text": "My research focuses on geometric analysis, geometric measure theory, and metric geometry. In particular, I study Sobolev-spaces both in the Euclidean setting as well as in general metric measure spaces. One tool in studying Sobolev-spaces has been optimal mass transportation. I have also studied questions in optimal mass transportation more generally and for example its connections to curvature lower bounds and to density functional theory. / Research interests My research focuses on geometric analysis, geometric measure theory, and metric geometry. In particular, I study Sobolev-spaces both in the Euclidean setting as well as in general metric measure spaces. One tool in studying Sobolev-spaces has been optimal mass transportation. I have also studied questions in optimal mass transportation more generally and for example its connections to curvature lower bounds and to density functional theory.",
           "url": "https://www.jyu.fi/en/people/tapio-rajala"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "joeri-van-der-veken",
+      "name": "Joeri Van der Veken",
+      "affiliations": [
+        {
+          "schoolId": "ku-leuven",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.kuleuven.be/wieiswie/EN/person/00043959",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometry",
+        "Differential geometry and submanifold geometry"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5033126696",
+          "orcid": "https://orcid.org/0000-0003-0521-625X",
+          "url": "https://openalex.org/authors/A5033126696",
+          "authorApiUrl": "https://api.openalex.org/authors/A5033126696",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5033126696,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 66,
+          "works": 84,
+          "citations": 1270,
+          "hIndex": 21,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometry",
+          "url": "https://wis.kuleuven.be/meetkunde/Members"
+        },
+        {
+          "text": "Differential geometry and submanifold geometry",
+          "url": "https://wis.kuleuven.be/meetkunde/Members"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.kuleuven.be/wieiswie/EN/person/00043959"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "marco-zambon",
+      "name": "Marco Zambon",
+      "affiliations": [
+        {
+          "schoolId": "ku-leuven",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/00096206",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometry",
+        "Differential geometry, Poisson geometry and symplectic geometry"
+      ],
+      "homepage": "https://marcozambonmath.github.io/",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5060858260",
+          "orcid": "https://orcid.org/0000-0002-5021-3675",
+          "url": "https://openalex.org/authors/A5060858260",
+          "authorApiUrl": "https://api.openalex.org/authors/A5060858260",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5060858260,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 47,
+          "works": 72,
+          "citations": 925,
+          "hIndex": 18,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometry",
+          "url": "https://wis.kuleuven.be/meetkunde/Members"
+        },
+        {
+          "text": "Differential geometry, Poisson geometry and symplectic geometry",
+          "url": "https://research.kuleuven.be/portal/en/unit/50000431"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.kuleuven.be/wieiswie/en/person/00096206"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -3593,6 +3867,320 @@
       "recordStatus": "directory"
     },
     {
+      "id": "an-xinliang",
+      "name": "AN Xinliang",
+      "affiliations": [
+        {
+          "schoolId": "nus",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.math.nus.edu.sg/people/regular-faculty/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometric analysis",
+        "Geometry or topology",
+        "Mathematical physics"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometric analysis / Geometry or topology / Mathematical physics",
+          "url": "https://www.math.nus.edu.sg/people/regular-faculty/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "dinh-tien-cuong",
+      "name": "DINH Tien Cuong",
+      "affiliations": [
+        {
+          "schoolId": "nus",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.science.nus.edu.sg/blog/2020/05/dinh-tien-cuong/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "complex"
+      ],
+      "tags": [
+        "Several complex variables"
+      ],
+      "homepage": null,
+      "cvUrl": "https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/e/15447/files/2023/05/Dinh-CV_2023.pdf",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Several complex variables",
+          "url": "https://www.math.nus.edu.sg/people/regular-faculty/"
+        },
+        {
+          "text": "Complex geometry, pluripotential theory and dynamics of several complex variables",
+          "url": "https://www.science.nus.edu.sg/blog/2020/05/dinh-tien-cuong/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "han-fei",
+      "name": "HAN Fei",
+      "affiliations": [
+        {
+          "schoolId": "nus",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.math.nus.edu.sg/people/regular-faculty/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry",
+        "Geometry or topology",
+        "Mathematical physics"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry / Geometry or topology / Mathematical physics",
+          "url": "https://www.math.nus.edu.sg/people/regular-faculty/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "leung-man-chun",
+      "name": "LEUNG Man Chun",
+      "affiliations": [
+        {
+          "schoolId": "nus",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.math.nus.edu.sg/people/regular-faculty/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry",
+        "Geometry or topology",
+        "Partial differential equations"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry / Geometry or topology / Partial differential equations",
+          "url": "https://www.math.nus.edu.sg/people/regular-faculty/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "mcinnes-brett-t",
+      "name": "McINNES, Brett T",
+      "affiliations": [
+        {
+          "schoolId": "nus",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.nus.edu.sg/people/regular-faculty/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry",
+        "Geometry or topology",
+        "Mathematical physics"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry / Geometry or topology / Mathematical physics",
+          "url": "https://www.math.nus.edu.sg/people/regular-faculty/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "pang-yu-hin-peter",
+      "name": "PANG Yu Hin, Peter",
+      "affiliations": [
+        {
+          "schoolId": "nus",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.math.nus.edu.sg/people/regular-faculty/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry",
+        "Geometry or topology"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry / Geometry or topology",
+          "url": "https://www.math.nus.edu.sg/people/regular-faculty/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "to-wing-keung",
+      "name": "TO Wing Keung",
+      "affiliations": [
+        {
+          "schoolId": "nus",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.nus.edu.sg/people/regular-faculty/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry",
+        "Several complex variables",
+        "Geometry or topology",
+        "Differential geometry and several complex variables"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://discovery.nus.edu.sg/454-to-wing-keung/publications",
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry / Several complex variables / Geometry or topology",
+          "url": "https://www.math.nus.edu.sg/people/regular-faculty/"
+        },
+        {
+          "text": "Differential geometry and several complex variables",
+          "url": "https://discovery.nus.edu.sg/454-wing-keung-to"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "zhang-de-qi",
+      "name": "ZHANG De-Qi",
+      "affiliations": [
+        {
+          "schoolId": "nus",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://nusgs.nus.edu.sg/thesis-advisors/matzdq",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry",
+        "Geometry or topology",
+        "Algebra"
+      ],
+      "homepage": "https://blog.nus.edu.sg/matzdq/",
+      "cvUrl": "https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/c/10889/files/2024/07/ZhangDQ_1pag_CV.pdf",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry / Geometry or topology / Algebra",
+          "url": "https://www.math.nus.edu.sg/people/regular-faculty/"
+        },
+        {
+          "text": "Algebraic geometry",
+          "url": "https://blog.nus.edu.sg/matzdq/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
       "id": "valentino-tosatti",
       "name": "Valentino Tosatti",
       "affiliations": [
@@ -4020,6 +4608,846 @@
         {
           "text": "My research interests are in Mathematical Physics, Geometry and Theoretical Physics, specifically in the mathematical structures arising in String Theory. These include Conformal Field Theories, Differential Geometry, Algebraic Geometry and the Arithmetic of Calabi-Yau Manifolds. / Research groups Mathematical Physics / Research interests My research interests are in Mathematical Physics, Geometry and Theoretical Physics, specifically in the mathematical structures arising in String Theory. These include Conformal Field Theories, Differential Geometry, Algebraic Geometry and the Arithmetic of Calabi-Yau Manifolds.",
           "url": "https://www.maths.ox.ac.uk/people/xenia.delaossa"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "amerik-ekaterina",
+      "name": "Amerik Ekaterina",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Professeure",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/22964/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": "http://www.math.u-psud.fr/~amerik",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "anschuetz-johannes",
+      "name": "Anschuetz Johannes",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Professeur",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24815/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": "https://janschuetz.perso.math.cnrs.fr/",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "benoist-franck",
+      "name": "Benoist Franck",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Maître de conférences",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/23057/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": "http://www.math.u-psud.fr/~fbenoist",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "blasco-laure",
+      "name": "Blasco Laure",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Maîtresse de conférences",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/23083/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "bost-jean-benoit",
+      "name": "Bost Jean-Benoît",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Professeur",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/23107/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": "http://www.math.u-psud.fr/~bost",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "carrizosa-maria",
+      "name": "Carrizosa Maria",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Maîtresse de conférences",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/23181/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "dang-nguyen-bac",
+      "name": "Dang Nguyen-Bac",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Maître de conférences",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/23288/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": "https://www.imo.universite-paris-saclay.fr/~nguyen-bac.dang/",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "destagnol-kevin",
+      "name": "Destagnol Kevin",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Maître de conférences",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/23342/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "fahlaoui-rachid",
+      "name": "Fahlaoui Rachid",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Maître de conférences",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/23409/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "farang-hariri-banafsheh",
+      "name": "Farang-Hariri Banafsheh",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Maîtresse de conférences",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/23414/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": "http://www.math.u-psud.fr/~farang-hariri",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "fischler-stephane",
+      "name": "Fischler Stéphane",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Maître de conférences",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/23438/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": "http://www.math.u-psud.fr/~fischler",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "harari-david",
+      "name": "Harari David",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Professeur",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/23589/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": "http://www.math.u-psud.fr/~harari",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "hennion-benjamin",
+      "name": "Hennion Benjamin",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Maître de conférences",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/23601/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "hernandez-valentin",
+      "name": "Hernandez Valentin",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Maître de conférences",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/23607/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "laszlo-yves",
+      "name": "Laszlo Yves",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Professeur",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/23748/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": "https://www.imo.universite-paris-saclay.fr/fr/perso/yves-laszlo/",
+      "cvUrl": "https://www.imo.universite-paris-saclay.fr/media/filer_public/fd/c0/fdc0783b-3fdc-40af-8c7b-9074642d9100/cv-gene.pdf",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "lonjou-anne",
+      "name": "Lonjou Anne",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Maîtresse de conférences",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/23840/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": "https://www.imo.universite-paris-saclay.fr/~lonjou/",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.imo.universite-paris-saclay.fr/~anne.lonjou/Publications.html",
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "macri-emanuele",
+      "name": "Macrì Emanuele",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Professeur",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/23862/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": "https://www.math.u-psud.fr/~macri",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "moreau-anne",
+      "name": "Moreau Anne",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Professeure",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/23996/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": "https://www.imo.universite-paris-saclay.fr/~moreau/",
+      "cvUrl": "https://www.imo.universite-paris-saclay.fr/~moreau/CV.html",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "nakatsuka-shigenori",
+      "name": "Nakatsuka Shigenori",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Maître de conférences",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/25081/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ratazzi-nicolas",
+      "name": "Ratazzi Nicolas",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Maître de conférences",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24191/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": "http://www.math.u-psud.fr/~ratazzi",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "riou-joel",
+      "name": "Riou Joël",
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Maître de conférences",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24216/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": "http://www.math.u-psud.fr/~riou",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -6403,6 +7831,50 @@
       "recordStatus": "directory"
     },
     {
+      "id": "frank-sottile",
+      "name": "Frank Sottile",
+      "affiliations": [
+        {
+          "schoolId": "texas-am",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://artsci.tamu.edu/mathematics/contact/profiles/frank-sottile.html",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebra and Combinatorics",
+        "Applied Mathematics and Interdisciplinary Research",
+        "Geometry and Topology",
+        "Mathematical Physics",
+        "Algebraic geometry, enumerative geometry and Schubert calculus"
+      ],
+      "homepage": "https://franksottile.github.io/",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebra and Combinatorics / Applied Mathematics and Interdisciplinary Research / Geometry and Topology / Mathematical Physics",
+          "url": "https://artsci.tamu.edu/mathematics/contact/faculty.html"
+        },
+        {
+          "text": "Algebraic geometry, enumerative geometry and Schubert calculus",
+          "url": "https://artsci.tamu.edu/mathematics/contact/profiles/frank-sottile.html"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
       "id": "alexey-bondal",
       "name": "Alexey Bondal",
       "affiliations": [
@@ -7414,6 +8886,10 @@
           "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/js.htm"
         },
         {
+          "text": "双有理几何",
+          "url": "https://ymsc.tsinghua.edu.cn/info/1031/2291.htm"
+        },
+        {
           "text": "个人研究或论文来源",
           "url": "https://annals.math.princeton.edu/2021/193-2/p01"
         }
@@ -7552,7 +9028,8 @@
       ],
       "tags": [
         "Teichmüller理论和微分几何",
-        "Teichmüller理论和几何"
+        "Teichmüller理论和几何",
+        "Teichmüller 理论、几何"
       ],
       "homepage": null,
       "cvUrl": null,
@@ -7570,6 +9047,10 @@
         {
           "text": "Teichmüller理论和几何",
           "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/js.htm"
+        },
+        {
+          "text": "Teichmüller 理论、几何",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/1901.htm"
         },
         {
           "text": "个人研究或论文来源",
@@ -7668,7 +9149,8 @@
         "algebraic"
       ],
       "tags": [
-        "代数几何与数论"
+        "代数几何与数论",
+        "算术代数几何"
       ],
       "homepage": null,
       "cvUrl": null,
@@ -7682,6 +9164,10 @@
         {
           "text": "代数几何与数论",
           "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        },
+        {
+          "text": "算术代数几何",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/2628.htm"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -7812,7 +9298,8 @@
         "differential"
       ],
       "tags": [
-        "黎曼几何、几何分析"
+        "黎曼几何、几何分析",
+        "几何分析"
       ],
       "homepage": null,
       "cvUrl": null,
@@ -7826,6 +9313,10 @@
         {
           "text": "黎曼几何、几何分析",
           "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        },
+        {
+          "text": "几何分析",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/1964.htm"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -7867,6 +9358,10 @@
         {
           "text": "代数几何",
           "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/js.htm"
+        },
+        {
+          "text": "代数几何",
+          "url": "https://ymsc.tsinghua.edu.cn/info/1031/2294.htm"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -7889,7 +9384,8 @@
         "algebraic"
       ],
       "tags": [
-        "表示论、代数几何"
+        "表示论、代数几何",
+        "表示论"
       ],
       "homepage": null,
       "cvUrl": null,
@@ -7903,6 +9399,10 @@
         {
           "text": "表示论、代数几何",
           "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        },
+        {
+          "text": "表示论",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/2633.htm"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -7961,7 +9461,8 @@
         "differential"
       ],
       "tags": [
-        "微分几何"
+        "微分几何",
+        "主要研究领域为微分几何。具体研究的问题包括研究流形上的测地线，极小曲面与流形体积、半径等参数之间的关系。"
       ],
       "homepage": null,
       "cvUrl": null,
@@ -7975,6 +9476,10 @@
         {
           "text": "微分几何",
           "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/zljs.htm"
+        },
+        {
+          "text": "主要研究领域为微分几何。具体研究的问题包括研究流形上的测地线，极小曲面与流形体积、半径等参数之间的关系。",
+          "url": "https://ymsc.tsinghua.edu.cn/info/1033/3904.htm"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -7997,7 +9502,8 @@
         "differential"
       ],
       "tags": [
-        "几何分析。主要研究临界变分问题的爆破性质。"
+        "几何分析。主要研究临界变分问题的爆破性质。",
+        "几何分析"
       ],
       "homepage": null,
       "cvUrl": null,
@@ -8011,6 +9517,10 @@
         {
           "text": "几何分析。主要研究临界变分问题的爆破性质。",
           "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        },
+        {
+          "text": "几何分析",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/1876.htm"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -8047,6 +9557,10 @@
         {
           "text": "微分几何和几何分析",
           "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        },
+        {
+          "text": "微分几何和几何分析",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/1931.htm"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -8067,10 +9581,12 @@
       ],
       "fields": [
         "algebraic",
-        "complex"
+        "complex",
+        "differential"
       ],
       "tags": [
-        "复几何与复代数几何"
+        "复几何与复代数几何",
+        "复几何、几何分析、复代数几何"
       ],
       "homepage": null,
       "cvUrl": null,
@@ -8084,6 +9600,10 @@
         {
           "text": "复几何与复代数几何",
           "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        },
+        {
+          "text": "复几何、几何分析、复代数几何",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/1577.htm"
         },
         {
           "text": "个人研究或论文来源",
@@ -8236,6 +9756,10 @@
         {
           "text": "代数几何",
           "url": "https://ymsc.tsinghua.edu.cn/sxxr/zxjs/zljs.htm"
+        },
+        {
+          "text": "代数几何",
+          "url": "https://ymsc.tsinghua.edu.cn/info/1033/3131.htm"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -8272,6 +9796,10 @@
         {
           "text": "微分几何与几何分析。主要研究流形上椭圆算子特征值估计",
           "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        },
+        {
+          "text": "微分几何与几何分析。主要研究流形上椭圆算子特征值估计",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/2624.htm"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -8348,6 +9876,10 @@
         {
           "text": "几何分析，偏微分方程",
           "url": "https://www.math.tsinghua.edu.cn/info/1125/2636.htm"
+        },
+        {
+          "text": "几何分析，偏微分方程",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/2636.htm"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -8384,6 +9916,10 @@
         {
           "text": "微分几何",
           "url": "https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm"
+        },
+        {
+          "text": "微分几何",
+          "url": "https://www.math.tsinghua.edu.cn/info/1125/2617.htm"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -8732,6 +10268,868 @@
         {
           "text": "个人研究或论文来源",
           "url": "https://dornsife.usc.edu/profile/aravind-asok/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-35b00257f323",
+      "name": "刘世平",
+      "affiliations": [
+        {
+          "schoolId": "ustc",
+          "department": "数学科学学院",
+          "title": "教授",
+          "url": "http://staff.ustc.edu.cn/~spliu/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm"
+        },
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-d6dc8e9a631c",
+      "name": "吕志炀",
+      "affiliations": [
+        {
+          "schoolId": "ustc",
+          "department": "数学科学学院",
+          "title": "特任副研究员",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm"
+        },
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-cbcb4fe726d1",
+      "name": "周容",
+      "affiliations": [
+        {
+          "schoolId": "ustc",
+          "department": "数学科学学院",
+          "title": "特任副研究员",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm"
+        },
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-afdc6c373852",
+      "name": "周辉煌",
+      "affiliations": [
+        {
+          "schoolId": "ustc",
+          "department": "数学科学学院",
+          "title": "特任副研究员",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm"
+        },
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-ed88d7e119b3",
+      "name": "崔洪斌",
+      "affiliations": [
+        {
+          "schoolId": "ustc",
+          "department": "数学科学学院",
+          "title": "特任副研究员",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm"
+        },
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-488113dfb998",
+      "name": "李伟洋",
+      "affiliations": [
+        {
+          "schoolId": "ustc",
+          "department": "数学科学学院",
+          "title": "特任副研究员",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm"
+        },
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-3ed7148450c3",
+      "name": "李皓昭",
+      "affiliations": [
+        {
+          "schoolId": "ustc",
+          "department": "数学科学学院",
+          "title": "教授",
+          "url": "https://faculty.ustc.edu.cn/hzli",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm"
+        },
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-744641f18c49",
+      "name": "殷礼鸣",
+      "affiliations": [
+        {
+          "schoolId": "ustc",
+          "department": "数学科学学院",
+          "title": "特任副研究员",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "几何分析"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "几何分析",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm"
+        },
+        {
+          "text": "几何分析",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-627652441fb3",
+      "name": "沈超",
+      "affiliations": [
+        {
+          "schoolId": "ustc",
+          "department": "数学科学学院",
+          "title": "特任副研究员",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm"
+        },
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-cc7cb160d124",
+      "name": "王作勤",
+      "affiliations": [
+        {
+          "schoolId": "ustc",
+          "department": "数学科学学院",
+          "title": "教授",
+          "url": "https://faculty.ustc.edu.cn/wangzuoqin/zh_CN/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何",
+        "微分几何、谱几何与半经典分析"
+      ],
+      "homepage": "https://faculty.ustc.edu.cn/wangzuoqin/zh_CN/",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm"
+        },
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        },
+        {
+          "text": "微分几何、谱几何与半经典分析",
+          "url": "https://faculty.ustc.edu.cn/wangzuoqin/zh_CN/zhym/263306/list/index.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-436d9ee1a172",
+      "name": "王兵",
+      "affiliations": [
+        {
+          "schoolId": "ustc",
+          "department": "数学科学学院",
+          "title": "教授",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm"
+        },
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-ae38207fd683",
+      "name": "许小卫",
+      "affiliations": [
+        {
+          "schoolId": "ustc",
+          "department": "数学科学学院",
+          "title": "教授",
+          "url": "https://faculty.ustc.edu.cn/xuxiaowei/zh_CN/index.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm"
+        },
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-eed715a4e79a",
+      "name": "许斌",
+      "affiliations": [
+        {
+          "schoolId": "ustc",
+          "department": "数学科学学院",
+          "title": "教授",
+          "url": "https://faculty.ustc.edu.cn/xubin1/zh_CN/index.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm"
+        },
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-56b4a9a18dbd",
+      "name": "赵晨",
+      "affiliations": [
+        {
+          "schoolId": "ustc",
+          "department": "数学科学学院",
+          "title": "副教授",
+          "url": "https://faculty.ustc.edu.cn/zhaochen/zh_CN/index.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm"
+        },
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-91f3d6bd6a0c",
+      "name": "陈卿",
+      "affiliations": [
+        {
+          "schoolId": "ustc",
+          "department": "数学科学学院",
+          "title": "教授",
+          "url": "https://faculty.ustc.edu.cn/chenqing/zh_CN/index.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何"
+      ],
+      "homepage": "https://faculty.ustc.edu.cn/chenqing/zh_CN/index.htm",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm"
+        },
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        },
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-5aa4264887ed",
+      "name": "陈秀雄",
+      "affiliations": [
+        {
+          "schoolId": "ustc",
+          "department": "数学科学学院",
+          "title": "教授",
+          "url": "https://faculty.ustc.edu.cn/chenxiuxiong/zh_CN/index.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm"
+        },
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-7af611a36221",
+      "name": "韦勇",
+      "affiliations": [
+        {
+          "schoolId": "ustc",
+          "department": "数学科学学院",
+          "title": "教授",
+          "url": "https://faculty.ustc.edu.cn/weiyong",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "微分几何",
+        "微分几何与几何分析"
+      ],
+      "homepage": "https://faculty.ustc.edu.cn/weiyong",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/szdw/list.htm"
+        },
+        {
+          "text": "微分几何",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        },
+        {
+          "text": "微分几何与几何分析",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "andreas-cap",
+      "name": "Andreas Cap",
+      "affiliations": [
+        {
+          "schoolId": "vienna",
+          "department": "数学系",
+          "title": "Univ.-Prof. Mag. Dr.",
+          "url": "https://mathematik.univie.ac.at/en/research/analysis-geometric-structures-and-mathematical-physics/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential Geometry"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential Geometry",
+          "url": "https://mathematik.univie.ac.at/en/research/analysis-geometric-structures-and-mathematical-physics/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "anton-mellit",
+      "name": "Anton Mellit",
+      "affiliations": [
+        {
+          "schoolId": "vienna",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://ucrisportal.univie.ac.at/en/persons/anton-mellit/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic Geometry",
+        "Members",
+        "Algebraic geometry and mathematical physics"
+      ],
+      "homepage": "https://mat.univie.ac.at/~mellit/",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5055419764",
+          "orcid": "https://orcid.org/0000-0003-1287-4728",
+          "url": "https://openalex.org/authors/A5055419764",
+          "authorApiUrl": "https://api.openalex.org/authors/A5055419764",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5055419764,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 36,
+          "works": 64,
+          "citations": 1411,
+          "hIndex": 20,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic Geometry",
+          "url": "https://mathematik.univie.ac.at/en/research/analysis-geometric-structures-and-mathematical-physics/"
+        },
+        {
+          "text": "Members",
+          "url": "https://mathematik.univie.ac.at/en/research/arithmetics-algebra-and-discrete-mathematics/"
+        },
+        {
+          "text": "Algebraic geometry and mathematical physics",
+          "url": "https://mathematik.univie.ac.at/en/research/analysis-geometric-structures-and-mathematical-physics/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://ucrisportal.univie.ac.at/en/persons/anton-mellit/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "balazs-szendroi",
+      "name": "Balázs Szendroi",
+      "affiliations": [
+        {
+          "schoolId": "vienna",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://ucrisportal.univie.ac.at/en/persons/bal%C3%A1zs-szendroi/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic Geometry",
+        "Members",
+        "Algebraic geometry and Calabi–Yau varieties"
+      ],
+      "homepage": "https://homepage.univie.ac.at/balazs.szendroi/",
+      "cvUrl": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://homepage.univie.ac.at/balazs.szendroi/?page_id=34",
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5078229428",
+          "orcid": "https://orcid.org/0000-0002-0092-4719",
+          "url": "https://openalex.org/authors/A5078229428",
+          "authorApiUrl": "https://api.openalex.org/authors/A5078229428",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5078229428,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 45,
+          "works": 78,
+          "citations": 2068,
+          "hIndex": 22,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic Geometry",
+          "url": "https://mathematik.univie.ac.at/en/research/analysis-geometric-structures-and-mathematical-physics/"
+        },
+        {
+          "text": "Members",
+          "url": "https://mathematik.univie.ac.at/en/research/arithmetics-algebra-and-discrete-mathematics/"
+        },
+        {
+          "text": "Algebraic geometry and Calabi–Yau varieties",
+          "url": "https://mathematik.univie.ac.at/en/research/analysis-geometric-structures-and-mathematical-physics/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://ucrisportal.univie.ac.at/en/persons/bal%C3%A1zs-szendroi/"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -9870,6 +12268,42 @@
       "recordStatus": "directory"
     },
     {
+      "id": "dima-arinkin",
+      "name": "Dima Arinkin",
+      "affiliations": [
+        {
+          "schoolId": "wisconsin-madison",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.wisc.edu/staff/arinkin-dima/",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry and geometric representation theory"
+      ],
+      "homepage": "https://people.math.wisc.edu/~arinkin/",
+      "cvUrl": "https://people.math.wisc.edu/~arinkin/cv.pdf",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and geometric representation theory",
+          "url": "https://people.math.wisc.edu/~arinkin/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
       "id": "alexander-goncharov",
       "name": "Alexander Goncharov",
       "affiliations": [
@@ -9935,6 +12369,46 @@
         {
           "text": "几何分析、复几何和 Kähler–Einstein 度量",
           "url": "https://math.tongji.edu.cn/info/1385/13331.htm"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alberto-s-cattaneo",
+      "name": "Alberto S. Cattaneo",
+      "affiliations": [
+        {
+          "schoolId": "zurich",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.uzh.ch/member/cattaneo/vita",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "On the arXiv"
+      ],
+      "homepage": "https://www.math.uzh.ch/member/cattaneo",
+      "cvUrl": "https://user.math.uzh.ch/cattaneo/curr.pdf",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "My fields of interest are in mathematical physics, differential geometry and algebraic topology. In particular, my research activity includes deformation quantization, symplectic and Poisson geometry, topological quantum field theories, and the mathematical aspects of perturbative quantization of gauge theories. On the arXiv.",
+          "url": "https://www.math.uzh.ch/cattaneogroup/members"
+        },
+        {
+          "text": "Differential geometry, mathematical physics and algebraic topology",
+          "url": "https://www.math.uzh.ch/cattaneogroup/members"
         }
       ],
       "checkedAt": "2026-11-23",
