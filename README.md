@@ -4,7 +4,7 @@
 
 打开 `dist/index.html` 可浏览目录。用 Node.js 执行 `node build-offline.mjs` 可生成便于转发的单文件网页 `geometry-faculty-atlas.html`。外部来源链接需要联网。协作和提交流程见 [贡献说明](CONTRIBUTING.md)。
 
-名录以 2026 年软科 GRAS 数学 Top 100 为学校池。起始的手工样本和后续采集记录一同显示。学校、个人页、身份和计量的实际覆盖见 [采集进度](collector/PROGRESS.md)。
+学校池合并 2026 年软科 GRAS 数学前百与 QS 数学名次公开且达到前 160 的学校。QS 在并列第 150 位后使用 151–200 区间，因此在学校索引单列这一档的候选，并保留两个榜单的原始名次。覆盖情况见 [采集进度](collector/PROGRESS.md)，个人字段缺口见 [字段待核表](collector/field-review.csv)。
 
 ## 继续运行
 

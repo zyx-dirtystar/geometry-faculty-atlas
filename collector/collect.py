@@ -20,7 +20,7 @@ from urllib.parse import urlparse
 
 from lxml import etree, html
 
-from roster_parsers import ADJACENT, PARSERS, Entry, matched_fields, profile_fields, split_role
+from roster_parsers import ADJACENT, PARSERS, Entry, matched_fields, parse_structured_directory, profile_fields, split_role
 from snapshot import CACHE, ROOT, load_sources, save_source
 
 PROJECT = ROOT.parent
@@ -212,7 +212,10 @@ def ingest_rosters(db, seed):
             continue
         rows = []
         if document is not None:
-            rows = PARSERS[source["parser"]](document, meta["final_url"])
+            if "layout" in source:
+                rows = parse_structured_directory(document, meta["final_url"], source["layout"])
+            else:
+                rows = PARSERS[source["parser"]](document, meta["final_url"])
         if meta is None:
             status, note = "pending", "尚未取得网页。"
         elif document is None:
@@ -294,7 +297,7 @@ def population(db):
         official_title = directory_profile.get("official_title", "") if group["school"] == "uab" else ""
         group["title"] = review.get("title") or (active["title"] if active else official_title)
         group["unit"] = review.get("unit") or (active.get("unit") if active else None)
-        group["role"] = split_role(group["title"])
+        group["role"] = review.get("role") or split_role(group["title"])
         group["affiliation_url"] = review.get("affiliation") or (active["profile"] or active["source_url"] if active else group["profile"] if official_title else "")
         group["homepage"] = review.get("homepage") or next((row["homepage"] for row in evidence if row["homepage"]), "")
         sources = [
@@ -318,7 +321,9 @@ def population(db):
             cv = cv or profile.get("cv") or ""
             publications = publications or profile.get("publications") or ""
         group["cv"] = cv
+        group["cv_type"] = review.get("cvType") or ("公开 CV（简版）" if cv and re.search(r"(?:mini|short|brief)[-_]?[_-]?(?:cv|vita)|cv[-_](?:mini|short|brief)", cv, re.I) else None)
         group["publications"] = publications
+        group["publication_counts"] = review.get("publicationCounts", [])
         group["topic_sources"] = sources
         text = " / ".join(item["text"] for item in sources)
         fields = matched_fields(text)
@@ -354,6 +359,12 @@ def fetch_profiles(db, schools, refresh=False, max_profiles=0):
     for source in load_sources():
         if source["parser"] != "pending":
             PROFILE_HOSTS.setdefault(source["school"], set()).add(urlparse(source["url"]).hostname)
+    reviews = json.loads((ROOT / "verified-profiles.json").read_text(encoding="utf-8"))
+    for review in reviews:
+        for key in ("affiliation", "homepage"):
+            target = review.get(key)
+            if target and urlparse(target).scheme == "https":
+                PROFILE_HOSTS.setdefault(review["school"], set()).add(urlparse(target).hostname)
     people = sorted(population(db), key=lambda row: (row["decision"] != "candidate", row["school"], row["name"]))
     for person in people:
         school = person["school"]
@@ -425,6 +436,7 @@ def make_patch(seed, data, source_rows, scope_notes):
     used_ids = {p["id"] for p in seed["people"]}
     anchors, findings, reviewed, review_notes = metrics_evidence()
     additions = []
+    supplements = {}
     for person in data:
         if person["decision"] != "candidate":
             continue
@@ -432,6 +444,17 @@ def make_patch(seed, data, source_rows, scope_notes):
         key = name_key(person["name"])
         seeded = original.get((school,key))
         if seeded is not None:
+            updated = supplements.setdefault(seeded["id"], dict(seeded))
+            for target, value in (("homepage",person["homepage"]), ("cvUrl",person["cv"]),
+                                  ("publicationsUrl",person["publications"])):
+                if value and not updated.get(target):
+                    updated[target] = value
+            if updated.get("cvUrl") == person["cv"] and person["cv_type"]:
+                updated["cvType"] = person["cv_type"]
+            if person["publication_counts"]:
+                updated["publicationCounts"] = person["publication_counts"]
+            if updated != seeded:
+                updated["checkedAt"] = max(updated.get("checkedAt") or "", person["checked_at"] or "")
             continue
         if key in original_names or cross_school[key] > 1:
             person["decision"] = "affiliation_review"
@@ -458,8 +481,10 @@ def make_patch(seed, data, source_rows, scope_notes):
             }],
             "fields":person["fields"],"tags":keep_tags(person["topic_sources"]),
             "homepage":anchor.get("homepage") or person["homepage"] or None, "cvUrl":cv or None,
+            "cvType":person["cv_type"] if cv == person["cv"] else None,
             "cvStatus":"独立 CV 待核对。" if not cv else None,
             "publicationsUrl":publications or None,
+            "publicationCounts":person["publication_counts"],
             "identityNote":reason, "metrics":[finding["snapshot"]] if known else [],
             "identityUrl":(finding.get("candidate_url") or finding.get("snapshot",{}).get("url")) if slug in review_notes else None,
             "papers":finding.get("papers",[]), "directoryEvidence":sources,
@@ -468,7 +493,7 @@ def make_patch(seed, data, source_rows, scope_notes):
     school_patches = []
     listed = {}
     roster_audit = {row["id"]:row for row in load_sources() if "audited_count" in row}
-    for person in seed["people"] + additions:
+    for person in [supplements.get(person["id"], person) for person in seed["people"]] + additions:
         for affiliation in person["affiliations"]:
             listed.setdefault(affiliation["schoolId"], []).append(person)
     for school in seed["schools"]:
@@ -504,7 +529,9 @@ def make_patch(seed, data, source_rows, scope_notes):
         latest_check = max((item["checked_at"] or "" for item in successful), default="") or school.get("checkedAt")
         school_patches.append({"id":school_id, "coverage":state, "coverageNote":note,
                                "rosterLinks":refs,"checkedAt":latest_check})
-    return {"schemaVersion":1, "ranking":seed["ranking"], "schools":school_patches, "people":additions}
+    changed_seeds = [p for p in seed["people"] if p["id"] in supplements and supplements[p["id"]] != p]
+    return {"schemaVersion":1, "ranking":seed["ranking"], "schools":school_patches,
+            "people":[supplements[p["id"]] for p in changed_seeds] + additions}
 
 
 def atomic_write(path, value):
@@ -547,6 +574,8 @@ def export(db, seed):
     cohorts = json.loads(cohort_path.read_text(encoding="utf-8")) if cohort_path.is_file() else {}
     scope_notes = cohorts.get("scopeNotes", {})
     patch = make_patch(seed,candidates,sources,scope_notes)
+    public_by_id = {p["id"]:p for p in seed["people"] + patch["people"]}
+    public_people = list(public_by_id.values())
     profile_urls = {
         url for person in candidates if person["role"] in ("faculty", "unverified")
         for url in (person["profile"], person["homepage"]) if url
@@ -562,7 +591,7 @@ def export(db, seed):
         rows.writerow(["学校 ID","姓名","职位","目录判定","方向","公开任职","主页","CV","论文数","累计引用","指标来源","指标日期","研究依据"])
         by_affiliation = {
             (a["schoolId"],name_key(p["name"])):p
-            for p in seed["people"] + patch["people"] for a in p["affiliations"]
+            for p in public_people for a in p["affiliations"]
         }
         for p in candidates:
             public = by_affiliation.get((p["school"], name_key(p["name"])), {})
@@ -573,19 +602,47 @@ def export(db, seed):
                            metric.get("articles", pending),metric.get("citations", pending),metric.get("url", ""),metric.get("checkedAt", ""),
                            " | ".join(f"{x['text']} [{x['url']}]" for x in p["topic_sources"])])
     (ROOT / "review-queue.csv.tmp").replace(ROOT / "review-queue.csv")
-    scope_size = db.execute("SELECT COUNT(*) FROM schools").fetchone()[0]
+    with (ROOT / "field-review.csv.tmp").open("w", encoding="utf-8-sig", newline="") as handle:
+        rows = csv.writer(handle)
+        rows.writerow(["学者 ID", "姓名", "学校 ID", "任职来源", "主页", "CV", "CV 类型", "发表列表",
+                       "机构或作者统计", "OpenAlex 文章", "OpenAlex 引用", "OpenAlex 来源", "指标日期", "待核原因"])
+        for p in public_people:
+            appointments = p["affiliations"]
+            trusted = [m for m in p.get("metrics", []) if m.get("source") == "OpenAlex"]
+            metric = max(trusted, key=lambda m: m["checkedAt"], default={})
+            notes = []
+            for key, label in (("homepage", "个人主页"), ("cvUrl", "CV"), ("publicationsUrl", "发表列表")):
+                if not p.get(key):
+                    notes.append(f"{label}缺可记录的公开链接")
+            counts = p.get("publicationCounts") or []
+            if not counts:
+                notes.append("未登记作者或机构明确披露的计数及口径")
+            if metric.get("articles") is None or metric.get("citations") is None:
+                notes.append(p.get("identityNote") or "OpenAlex 作者匹配或指标待复核")
+            rows.writerow([p["id"], p["name"], " / ".join(a["schoolId"] for a in appointments),
+                           " / ".join(a["url"] for a in appointments), p.get("homepage") or "待核",
+                           p.get("cvUrl") or "待核", p.get("cvType") or "", p.get("publicationsUrl") or "待核",
+                           " / ".join(f"{c['value']} · {c['scope']} · {c['checkedAt']} · {c['url']}" for c in counts) or "待核",
+                           metric.get("articles", "待核"), metric.get("citations", "待核"), metric.get("url", ""),
+                           metric.get("checkedAt", ""), "；".join(notes)])
+    (ROOT / "field-review.csv.tmp").replace(ROOT / "field-review.csv")
+    scope_size = len(seed["schools"])
     checked = len({row["school"] for row in sources if row["status"] == "parsed"})
     profile_count = sum(row["url"] in profile_urls for row in db.execute("SELECT url FROM profiles WHERE status='parsed'"))
-    metrics = sum(bool(p.get("metrics")) for p in seed["people"] + patch["people"])
-    cv_count = sum(bool(p.get("cvUrl")) for p in seed["people"] + patch["people"])
-    homepage_count = sum(bool(p.get("homepage")) for p in seed["people"] + patch["people"])
+    metrics = sum(any(m.get("source") == "OpenAlex" for m in p.get("metrics", [])) for p in public_people)
+    cv_count = sum(bool(p.get("cvUrl")) for p in public_people)
+    homepage_count = sum(bool(p.get("homepage")) for p in public_people)
+    publications = sum(bool(p.get("publicationsUrl")) for p in public_people)
+    official_counts = sum(bool(p.get("publicationCounts")) for p in public_people)
+    band = "151-200"
+    confirmed = sum(bool(s["ranks"].get("gras") or s["ranks"].get("qs") != band) for s in seed["schools"])
+    represented = len({a["schoolId"] for p in public_people for a in p["affiliations"]})
     lines = [
         "# 几何学者库进度",
         "",
-        f"更新日期 {now_date()}。学校任务池 {scope_size} 所，已登记来源 {len({row['school'] for row in sources})} 所，已解析来源 {checked} 所。",
+        f"更新日期 {now_date()}。核心学校池 {confirmed} 所，另列 QS 151–200 边界候选 {scope_size-confirmed} 所。合计 {scope_size} 所，已登记来源 {len({row['school'] for row in sources})} 所，至少有一个已解析来源 {checked} 所。",
         f"目录去重后共 {len(candidates)} 条学者与学校记录，来源外的任职或研究交叉需要继续复核。",
-        f"网页收录 {len(seed['people']) + len(patch['people'])} 位，其中 {len(patch['people'])} 位来自逐校采集。",
-        f"有个人主页 {homepage_count} 位、公开 CV {cv_count} 位、OpenAlex 论文及引用指标 {metrics} 位。缺失字段标为待核。",
+        f"网页收录 {len(public_people)} 位，覆盖 {represented} 所。有个人主页 {homepage_count} 位、公开 CV {cv_count} 位、发表列表 {publications} 位、机构或作者计数 {official_counts} 位、OpenAlex 指标 {metrics} 位。",
         f"已解析 {profile_count} 个个人页面。校级全名单对账完成 0 所。",
         "",
     ]
@@ -601,18 +658,19 @@ def export(db, seed):
                 lines.append(f"  名册待核 {len(pending_schools)} 所，包括{'、'.join(pending_schools)}。")
         lines.extend(["", "出现在可提取名册中的学校仍需核实院系范围和未公开的人员字段。", ""])
     lines.extend([
-        "| 学校 | 状态 | 官方来源 | 网页学者 | 主页 / CV / 指标 | 待核任职或方向 |",
-        "| --- | --- | --- | ---: | ---: | ---: |",
+        "| 学校 | QS 2026 | 软科 2026 | 状态 | 官方来源 | 网页学者 | 主页 / CV / 指标 | 待核任职或方向 |",
+        "| --- | --- | --- | --- | --- | ---: | ---: | ---: |",
     ])
     for school in seed["schools"]:
         sl = [row for row in sources if row["school"] == school["id"]]
         pl = [p for p in candidates if p["school"] == school["id"]]
-        listed = [person for person in seed["people"] + patch["people"] if any(a["schoolId"] == school["id"] for a in person["affiliations"])]
+        listed = [person for person in public_people if any(a["schoolId"] == school["id"] for a in person["affiliations"])]
         label = "待发现来源" if not sl else "工作名单" if listed or any(row["status"] == "parsed" for row in sl) else "来源待复核"
         links = " · ".join(f"[{r['label']}]({r['url']})" for r in sl)
         coverage = " / ".join(str(sum(bool(p.get(field)) for p in listed)) for field in ("homepage","cvUrl","metrics"))
         pending = sum(p["decision"] in ("topic_review","role_review","affiliation_review") for p in pl)
-        lines.append(f"| {school['nameZh']} | {label} | {links} | {len(listed)} | {coverage} | {pending} |")
+        ranks = school["ranks"]
+        lines.append(f"| {school['nameZh']} | {ranks.get('qs', '—')} | {ranks.get('gras', '—')} | {label} | {links} | {len(listed)} | {coverage} | {pending} |")
     if scope_notes:
         lines.extend(["", "## 名册覆盖与待核原因", ""])
         for school in seed["schools"]:
@@ -623,11 +681,12 @@ def export(db, seed):
         if row["status"] != "parsed":
             school = next(s for s in seed["schools"] if s["id"] == row["school"])
             lines.append(f"- {school['nameZh']} · {row['label']}。{row['note']} [{row['label']}]({row['url']})")
-    lines += ["", "完整逐条复核记录见同目录 review-queue.csv。"]
+    lines += ["", "见 [人物与任职队列](review-queue.csv) 和 [已收录学者字段待核表](field-review.csv)。"]
     atomic_write(ROOT / "PROGRESS.md","\n".join(lines)+"\n")
     print(json_text({"schools":scope_size,"parsedSchools":checked,"rosterRows":len(candidates),"decisions":dict(decisions),
-                     "profilePages":profile_count,"newProfiles":len(patch["people"]),"totalProfiles":len(seed["people"])+len(patch["people"]),
-                     "cvLinks":cv_count,"metrics":metrics}),flush=True)
+                     "profilePages":profile_count,"newProfiles":len(public_people)-len(seed["people"]),"totalProfiles":len(public_people),
+                     "homepageLinks":homepage_count,"cvLinks":cv_count,"publicationLinks":publications,
+                     "officialCounts":official_counts,"metrics":metrics}),flush=True)
 
 
 def main():

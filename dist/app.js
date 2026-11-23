@@ -6,7 +6,8 @@ const coverageNames = {pending:"待采集", sample:"已有样本", verified:"目
 const statusNames = {unmarked:"待评估", reading:"阅读论文中", planned:"准备联系", contacted:"已联系", replied:"已回复"};
 const number = new Intl.NumberFormat("zh-CN");
 const primaryRank = window.geometryRanking;
-const baseline = {schemaVersion:1, ranking:primaryRank, schools:window.geometrySchools, people:window.geometryFaculty};
+const rankings = window.geometryRankings;
+const baseline = {schemaVersion:1, ranking:primaryRank, rankings, schools:window.geometrySchools, people:window.geometryFaculty};
 const officialSchools = new Map(baseline.schools.map(school => [school.id, school]));
 const privateKey = "geometry-atlas-tracker-v1";
 const pageSizes = {faculty:15, schools:20};
@@ -91,6 +92,13 @@ function names(person) {
 
 function displaySchool(school) {
   return school?.nameZh || school?.name || "";
+}
+
+function rankText(school) {
+  const labels = [];
+  if (school.ranks.qs) labels.push(`QS ${school.ranks.qs}`);
+  if (school.ranks.gras) labels.push(`软科 ${school.ranks.gras}`);
+  return labels;
 }
 
 function labelCoverage(school) {
@@ -258,13 +266,15 @@ function updateSchoolOverview(id) {
   panel.hidden = !school;
   if (!school) return;
   const available = schoolCounts.get(id) || 0;
-  const details = [school.name, school.region, `数学榜 ${school.rank}`, coverageNames[labelCoverage(school)], `${available} 位已收录`];
+  const details = [school.name, school.region, ...rankText(school), coverageNames[labelCoverage(school)], `${available} 位已收录`];
   if (school.checkedAt) details.push(`核对 ${school.checkedAt}`);
   panel.replaceChildren(
     node("h3", {}, displaySchool(school)),
     node("p", {}, details.join(" · ")),
     school.coverageNote ? node("p", {}, String(school.coverageNote)) : null,
-    node("div", {class:"quicklinks"}, (school.rosterLinks ?? []).map(([title,url]) => external(title,url)), external("榜单来源", primaryRank.url))
+    school.ranks.qs === rankings.qs.boundary ? node("p", {}, "QS 公布 151–200 区间，区间内能否达到前 160 待核。") : null,
+    node("div", {class:"quicklinks"}, (school.rosterLinks ?? []).map(([title,url]) => external(title,url)),
+      Object.keys(school.ranks).map(key => external(rankings[key].title, rankings[key].url)))
   );
 }
 
@@ -350,13 +360,20 @@ function renderSchools() {
   const query = tokens(byId("school-search").value);
   const region = byId("school-region").value;
   const coverage = byId("coverage-filter").value;
+  const ranking = byId("ranking-filter").value;
   const results = catalog.schools.filter(school => {
     if (region && school.region !== region) return false;
     if (coverage && labelCoverage(school) !== coverage) return false;
+    const inBoundary = school.ranks.qs === rankings.qs.boundary;
+    if (ranking === "boundary" && !inBoundary) return false;
+    if (ranking === "qs" && (!school.ranks.qs || inBoundary)) return false;
+    if (ranking === "gras" && !school.ranks.gras) return false;
     const byline = normalized([school.name, school.nameZh, school.aliases, school.region].join(" "));
     return query.every(word => byline.includes(word));
   });
-  byId("school-count").textContent = `${results.length} 所院校 · 数学榜原始顺序`;
+  if (ranking === "qs") results.sort((a,b) => Number(a.ranks.qs.replace("=", "")) - Number(b.ranks.qs.replace("=", "")));
+  const boundary = results.filter(school => school.ranks.qs === rankings.qs.boundary).length;
+  byId("school-count").textContent = `${results.length} 所院校${boundary ? ` · ${boundary} 所在 QS 151–200 区间` : ""}`;
   schoolPage = validPage(schoolPage, results.length, pageSizes.schools);
   const start = (schoolPage - 1) * pageSizes.schools;
   const list = byId("school-list");
@@ -367,7 +384,7 @@ function renderSchools() {
     const rows = results.slice(start,start + pageSizes.schools).map(school => {
       const state = labelCoverage(school);
       const row = button("", () => openSchool(school.id), "school-row", {"aria-label":`查看${displaySchool(school)}，${coverageNames[state]}`});
-      row.append(node("span",{class:"rank"},school.rank),node("span",{},node("strong",{},displaySchool(school)),
+      row.append(node("span",{class:"rank"},rankText(school).map(label => node("span",{class:"rank-line"},label))),node("span",{},node("strong",{},displaySchool(school)),
         school.nameZh ? node("span",{class:"name-en",lang:"en"},school.name) : null),
         node("span",{class:"region-cell"},school.region),node("span",{class:`status ${state}`},coverageNames[state]),
         node("span",{class:"count-cell"}, countFormat(schoolCounts.get(school.id) || 0)));
@@ -427,8 +444,12 @@ function showProfile(id, schoolFilter) {
       external("作者档案",record.url), external("文章计数原始查询",record.articleApiUrl), external("作者计量原始查询",record.authorApiUrl), external("ORCID",record.orcid)),
     record.articleScope ? node("p",{},node("small",{},`文章口径 ${record.articleScope}。引用口径 ${record.citationScope || "待补充"}。`)) : null
   ));
+  const counts = (person.publicationCounts ?? []).map(record => node("li",{},
+    `${countFormat(record.value)} · ${record.scope} · 核对 ${record.checkedAt} `,
+    external("机构或作者来源", record.url)));
   const metrics = detailSection("计量与作者核验",
-    displayedMetrics.length ? displayedMetrics : node("p",{},"论文数和引用量待核。"),
+    counts.length ? node("ul",{},counts) : node("p",{},"机构或作者披露的论文数待核。"),
+    displayedMetrics.length ? displayedMetrics : node("p",{},"OpenAlex 文章数和引用量待核。"),
     person.identityNote ? node("p",{},person.identityNote) : null,
     external("查看待复核档案",person.identityUrl)
   );
@@ -538,7 +559,7 @@ function mergeCatalog(existing, incoming) {
     assert(safeRecord(item) && officialSchools.has(item.id) && !schoolIds.has(item.id), "学校 ID 未收录或在导入文件中重复。");
     schoolIds.add(item.id);
     const official = officialSchools.get(item.id);
-    const school = {...nextSchools.get(item.id),...item,id:official.id,rank:official.rank,region:official.region,name:official.name};
+    const school = {...nextSchools.get(item.id),...item,id:official.id,rank:official.rank,ranks:official.ranks,region:official.region,name:official.name};
     assert(Object.hasOwn(coverageNames,school.coverage) && Array.isArray(school.rosterLinks) && school.rosterLinks.every(pair => Array.isArray(pair) && typeof pair[0] === "string" && publicUrl(pair[1])), `${item.id} 的对账状态或目录网址有误。`);
     nextSchools.set(school.id,school);
   }
@@ -555,6 +576,12 @@ function mergeCatalog(existing, incoming) {
     assert(Array.isArray(person.fields) && person.fields.every(field => Object.hasOwn(fieldNames,field)), `${item.id} 的方向标签需使用约定的代码。`);
     assert(!person.tags || (Array.isArray(person.tags) && person.tags.every(tag => typeof tag === "string")), `${item.id} 的关键词格式有误。`);
     assert(!person.papers || (Array.isArray(person.papers) && person.papers.every(paper => safeRecord(paper) && typeof paper.title === "string" && publicUrl(paper.url))), `${item.id} 的论文来源有误。`);
+    assert(!item.publicationCounts || (Array.isArray(item.publicationCounts) && item.publicationCounts.every(record =>
+      safeRecord(record) && Number.isSafeInteger(record.value) && record.value >= 0
+      && typeof record.scope === "string" && record.scope.trim()
+      && /^\d{4}-\d{2}-\d{2}$/.test(record.checkedAt) && publicUrl(record.url))), `${item.id} 的论文数缺少口径、日期或来源。`);
+    person.publicationCounts = Array.from(new Map([...(previous?.publicationCounts ?? []), ...(item.publicationCounts ?? [])]
+      .map(record => [JSON.stringify([record.url, record.scope, record.checkedAt]),record])).values());
     assert(!person.directoryEvidence || (Array.isArray(person.directoryEvidence) && person.directoryEvidence.every(entry => safeRecord(entry) && typeof entry.text === "string" && publicUrl(entry.url))), `${item.id} 的方向来源有误。`);
     assert(!person.opportunities || (Array.isArray(person.opportunities) && person.opportunities.every(op => safeRecord(op) && typeof op.label === "string" && publicUrl(op.url))), `${item.id} 的机会来源有误。`);
     assert(!item.metrics || Array.isArray(item.metrics), `${item.id} 的计量记录需要是数组。`);
@@ -575,7 +602,7 @@ function mergeCatalog(existing, incoming) {
       }
     }
   }
-  return {schemaVersion:1, ranking:primaryRank, schools:Array.from(nextSchools.values()), people:Array.from(nextPeople.values())};
+  return {schemaVersion:1, ranking:primaryRank, rankings, schools:Array.from(nextSchools.values()), people:Array.from(nextPeople.values())};
 }
 
 async function onImport() {
@@ -627,7 +654,7 @@ for (const control of document.querySelectorAll("[data-keyword]")) {
   });
 }
 byId("reset-filters").addEventListener("click", () => { resetFacultyFilters(); renderFaculty(); });
-for (const id of ["school-search", "school-region", "coverage-filter"]) {
+for (const id of ["school-search", "school-region", "ranking-filter", "coverage-filter"]) {
   byId(id).addEventListener(id === "school-search" ? "input" : "change", () => { schoolPage = 1; renderSchools(); });
 }
 for (const close of document.querySelectorAll("[data-close]")) {

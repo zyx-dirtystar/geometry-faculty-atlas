@@ -3,6 +3,7 @@
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from hashlib import sha256
+from http.client import InvalidURL
 import argparse
 import base64
 import json
@@ -82,7 +83,7 @@ def save_source(source, refresh=False):
             tmp.write_bytes(body)
             tmp.replace(target)
         result = {**source, "status": "fetched", "final_url": final_url, "sha256": fingerprint, "retrieved_at": timestamp, "bytes": len(body)}
-    except (OSError, ValueError, subprocess.TimeoutExpired) as error:
+    except (InvalidURL, OSError, ValueError, subprocess.TimeoutExpired) as error:
         result = {**source, "status": "source_error", "error": str(error), "retrieved_at": timestamp}
     temp = meta_path.with_suffix(".tmp")
     temp.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")

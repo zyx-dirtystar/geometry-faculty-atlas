@@ -33,12 +33,13 @@
   <section class="hero" aria-labelledby="site-title">
     <div class="shell hero-inner">
       <div class="hero-copy">
-        <a class="scope" id="rank-link" href="https://www.shanghairanking.com/rankings/gras/2026/AS0101" target="_blank" rel="noopener noreferrer">软科 GRAS 2026 · 数学</a>
+        <a class="scope" href="https://www.shanghairanking.com/rankings/gras/2026/AS0101" target="_blank" rel="noopener noreferrer">软科 GRAS 2026 · 数学</a>
+        <a class="scope" href="https://www.topuniversities.com/university-subject-rankings/mathematics" target="_blank" rel="noopener noreferrer">QS 2026 · 数学</a>
         <h1 id="site-title">几何学者索引</h1>
         <p>从研究方向出发，查找博士访问与博士后合作对象。</p>
       </div>
       <dl class="stats" aria-label="目录覆盖">
-        <div><dt>榜单院校</dt><dd id="scope-total">100</dd></div>
+        <div><dt>学校与边界候选</dt><dd id="scope-total"></dd></div>
         <div><dt>已有记录的院校</dt><dd id="sampled-total">6</dd></div>
         <div><dt>已收录学者</dt><dd id="faculty-total">12</dd></div>
       </dl>
@@ -133,6 +134,14 @@
         <label class="compact-label"><span class="sr-only">学校所在地区</span>
           <select id="school-region"><option value="">全部地区</option></select>
         </label>
+        <label class="compact-label"><span class="sr-only">榜单</span>
+          <select id="ranking-filter">
+            <option value="">全部学校（含边界候选）</option>
+            <option value="qs">QS 2026 · 已确认达标</option>
+            <option value="gras">软科 GRAS 2026 · 前百</option>
+            <option value="boundary">QS 2026 · 151–200 边界候选</option>
+          </select>
+        </label>
         <label class="compact-label"><span class="sr-only">学校收录进度</span>
           <select id="coverage-filter">
             <option value="">所有收录状态</option>
@@ -159,8 +168,9 @@
       <div class="method-grid">
         <article class="surface method-card">
           <h3>院校与任职</h3>
-          <p>学校池来自 2026 年软科数学学科榜。按原榜保留并列和名次区间。学者当前职务依据院系或研究所页面。</p>
-          <a href="https://www.shanghairanking.com/rankings/gras/2026/AS0101" target="_blank" rel="noopener noreferrer">查看原始榜单</a>
+          <p>学校池合并 QS 2026 数学确认达到第 160 名的学校与软科 GRAS 数学前百。QS 只公布 151–200 区间，区间内无法确定名次的学校单列为候选。</p>
+          <a href="https://www.shanghairanking.com/rankings/gras/2026/AS0101" target="_blank" rel="noopener noreferrer">软科数学榜</a>
+          <a href="https://www.topuniversities.com/university-subject-rankings/mathematics" target="_blank" rel="noopener noreferrer">QS 数学榜</a>
         </article>
         <article class="surface method-card">
           <h3>论文与引用</h3>

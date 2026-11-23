@@ -210,6 +210,7 @@ button.school-row:hover { background: #f4f7fd; }
 .school-row strong { font-weight: 680; }
 .school-row .name-en { display: block; color: var(--muted); font-size: .84rem; overflow-wrap: anywhere; }
 .rank { color: #1f4377; font-variant-numeric: tabular-nums; font-weight: 680; }
+.rank-line { display: block; }
 .status { border-radius: 4px; padding: 2px 7px; font-size: .82rem; color: #49576d; background: #edf1f7; width: fit-content; }
 .status.sample { background: #e8f0fc; color: #214879; }
 .status.verified { background: #e6f5ee; color: #215d48; }

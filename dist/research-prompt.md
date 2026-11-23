@@ -4,7 +4,7 @@
 
 ## 1. 冻结院校范围
 
-- 默认用 [软科 GRAS 2026 Mathematics](https://www.shanghairanking.com/rankings/gras/2026/AS0101) 建立学校池。按发布方的数学学科名次收录到第 100 名或含第 100 名的排名区间，纳入边界并列学校，保留名次区间原文。记录榜单、学科、年份、URL 和核对日期。如果改用另一榜单，请使用一个明确的版本并在网站标注来源。
+- 学校池合并 [QS 2026 数学](https://www.topuniversities.com/university-subject-rankings/mathematics) 中公开名次达到第 160 名的学校与 [软科 GRAS 2026 数学前百](https://www.shanghairanking.com/rankings/gras/2026/AS0101)。QS 的 151–200 区间整体作为边界候选，保留区间原文。记录榜单、学科、年份、URL 和核对日期。
 - 每个学校有稳定 ID、原文名、中文名或检索别名、国家或地区、排名、数学系和相关研究所目录入口。维护分校与联合机构映射。数学排名用于确定检索范围。研究方向由人员和论文证据决定。
 
 ## 2. 逐校遍历官方目录

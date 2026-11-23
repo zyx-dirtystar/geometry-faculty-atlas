@@ -3,7 +3,7 @@
 from dataclasses import dataclass, field
 from html import unescape
 import re
-from urllib.parse import urljoin, urlparse
+from urllib.parse import quote, urljoin, urlparse
 
 
 @dataclass
@@ -19,7 +19,7 @@ class Entry:
 TOPICS = {
     "complex": re.compile(r"complex (?:differential |algebraic )?geometr|k[äa]hler|hyperk[äa]hler|géométrie complexe|geometr[ií]a comple[jx]a|komplexe geometrie|複素(?:微分)?幾何|ケーラー|复几何", re.I),
     "differential": re.compile(r"differential geometr|riemannian geometr|geometric analys|ricci flow|mean curvature flow|scalar curvature|geometric flows?|gauge theory|géométrie (?:différentielle|riemannienne)|analyse géométrique|geometr[ií]a (?:differenziale|diferencial|riemanniana)|an[aá]lisis geom[eé]trico|differentialgeometrie|微分幾何|幾何解析|平均曲率流|リッチフロー|微分几何|几何分析", re.I),
-    "algebraic": re.compile(r"algebraic (?:(?:and|&) arithmetic )?geometr|arithmetic geometr|birational geometr|enumerative geometr|higher dimensional geometr|algebraic varieties|algebraic (?:surface|cycles)|hodge theory|derived algebraic|schemes and stacks|géométrie (?:algébrique|arithmétique|birationnelle)|geometr[ií]a (?:alg[eé]brica|algebrica|aritm[eé]tica|biracional)|algebraische geometrie|代数幾何|代数几何|双有理", re.I),
+    "algebraic": re.compile(r"algebraic (?:(?:and|&) arithmetic )?geometr|arithmetic geometr|birational geometr|enumerative geometr|higher dimensional geometr|algebraic varieties|algebraic (?:surface|cycles)|hodge theory|derived algebraic|schemes and stacks|géométrie (?:algébrique|arithmétique|birationnelle)|geometr[ií]a (?:alg[eé]brica|algebrica|aritm[eé]tica|biracional)|algebraische geometrie|代[数數][幾几]何|双有理", re.I),
 }
 ADJACENT = re.compile(r"symplectic|contact geometry|several complex variables|complex analysis|geometric topology|geometry|g[ée]om[ée]trie|几何|幾何|多复变", re.I)
 
@@ -46,6 +46,35 @@ def class_token(value):
 
 def text_at(element, xpath):
     return " ".join(contents(node) for node in element.xpath(xpath)).strip()
+
+def parse_structured_directory(document, base, layout):
+    """Read the scoped person cards of a reviewed official directory."""
+    def value(card, key):
+        paths = layout.get(key, [])
+        if isinstance(paths, str):
+            paths = [paths]
+        return clean(" ".join(
+            contents(item) if hasattr(item, "itertext") else str(item)
+            for path in paths for item in card.xpath(path)
+        ))
+
+    def link(card, key):
+        target = value(card, key)
+        if not target:
+            return ""
+        url = quote(urljoin(base, target), safe=":/?&=#%+@!$'()*;,[]")
+        parsed = urlparse(url)
+        return url if parsed.scheme in ("http", "https") and not parsed.username and not parsed.password else ""
+
+    rows = []
+    for card in document.xpath(layout["cards"]):
+        name = value(card, "name")
+        if not name:
+            continue
+        name = re.sub(r"^(?:(?:Prof|Professor|Dr|Professeur)\.?\s+)+", "", name, flags=re.I)
+        title = value(card, "title") or layout.get("default_title", "")
+        rows.append(Entry(name, title, value(card, "research"), link(card, "profile"), link(card, "homepage")))
+    return rows
 
 
 def matched_fields(research):
