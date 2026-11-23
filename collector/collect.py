@@ -634,13 +634,13 @@ def export(db, seed):
     homepage_count = sum(bool(p.get("homepage")) for p in public_people)
     publications = sum(bool(p.get("publicationsUrl")) for p in public_people)
     official_counts = sum(bool(p.get("publicationCounts")) for p in public_people)
-    band = "151-200"
-    confirmed = sum(bool(s["ranks"].get("gras") or s["ranks"].get("qs") != band) for s in seed["schools"])
+    qs_count = sum("qs" in school["ranks"] for school in seed["schools"])
+    gras_count = sum("gras" in school["ranks"] for school in seed["schools"])
     represented = len({a["schoolId"] for p in public_people for a in p["affiliations"]})
     lines = [
         "# 几何学者库进度",
         "",
-        f"更新日期 {now_date()}。核心学校池 {confirmed} 所，另列 QS 151–200 边界候选 {scope_size-confirmed} 所。合计 {scope_size} 所，已登记来源 {len({row['school'] for row in sources})} 所，至少有一个已解析来源 {checked} 所。",
+        f"更新日期 {now_date()}。QS 2026 数学 {qs_count} 所，软科 GRAS 2026 数学 {gras_count} 所，两榜合并去重 {scope_size} 所。已登记来源 {len({row['school'] for row in sources})} 所，至少有一个已解析来源 {checked} 所。",
         f"目录去重后共 {len(candidates)} 条学者与学校记录，来源外的任职或研究交叉需要继续复核。",
         f"网页收录 {len(public_people)} 位，覆盖 {represented} 所。有个人主页 {homepage_count} 位、公开 CV {cv_count} 位、发表列表 {publications} 位、机构或作者计数 {official_counts} 位、OpenAlex 指标 {metrics} 位。",
         f"已解析 {profile_count} 个个人页面。校级全名单对账完成 0 所。",

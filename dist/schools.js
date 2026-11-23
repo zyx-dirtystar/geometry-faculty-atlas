@@ -126,7 +126,7 @@
     checkedAt:Object.hasOwn(rosters,id) ? "2026-11-23" : null
   }));
 
-  // QS publishes a single 151–200 band. Its members are kept as cutoff candidates.
+  // Keep the full QS top 200, including the published 151–200 band.
   const qsUrl = "https://www.topuniversities.com/university-subject-rankings/mathematics";
   const qsRows = [
     ["1","mit","Massachusetts Institute of Technology (MIT)","麻省理工学院","美国"],
@@ -336,7 +336,7 @@
   window.geometryRankings = {
     gras: window.geometryRanking,
     qs: {title:"QS 2026 · 数学", year:2026, subject:"Mathematics", url:qsUrl,
-      cutoff:160, boundary:"151-200", checkedAt:"2026-11-23"}
+      cutoff:200, checkedAt:"2026-11-23"}
   };
   for (const school of window.geometrySchools) {
     const qs = qsSchools.get(school.id);

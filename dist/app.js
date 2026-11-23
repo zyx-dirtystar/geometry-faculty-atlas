@@ -101,6 +101,10 @@ function rankText(school) {
   return labels;
 }
 
+function rankStart(rank) {
+  return Number(rank?.match(/\d+/)?.[0] ?? Infinity);
+}
+
 function labelCoverage(school) {
   return school.coverage === "pending" && schoolCounts.get(school.id) ? "sample" : school.coverage;
 }
@@ -272,7 +276,6 @@ function updateSchoolOverview(id) {
     node("h3", {}, displaySchool(school)),
     node("p", {}, details.join(" · ")),
     school.coverageNote ? node("p", {}, String(school.coverageNote)) : null,
-    school.ranks.qs === rankings.qs.boundary ? node("p", {}, "QS 公布 151–200 区间，区间内能否达到前 160 待核。") : null,
     node("div", {class:"quicklinks"}, (school.rosterLinks ?? []).map(([title,url]) => external(title,url)),
       Object.keys(school.ranks).map(key => external(rankings[key].title, rankings[key].url)))
   );
@@ -286,7 +289,7 @@ function renderFaculty() {
   const onlyCV = byId("cv-filter").checked;
   const onlyMetrics = byId("metrics-filter").checked;
   const sort = byId("sort").value;
-  const getRank = person => parseInt(schools.get(rankedSchool(person,schoolId).schoolId)?.rank || "999",10);
+  const getRank = person => rankStart(schools.get(rankedSchool(person,schoolId).schoolId)?.rank);
   const getByline = person => {
     const affiliationNames = person.affiliations.flatMap(affiliation => {
       const school = schools.get(affiliation.schoolId);
@@ -364,16 +367,12 @@ function renderSchools() {
   const results = catalog.schools.filter(school => {
     if (region && school.region !== region) return false;
     if (coverage && labelCoverage(school) !== coverage) return false;
-    const inBoundary = school.ranks.qs === rankings.qs.boundary;
-    if (ranking === "boundary" && !inBoundary) return false;
-    if (ranking === "qs" && (!school.ranks.qs || inBoundary)) return false;
-    if (ranking === "gras" && !school.ranks.gras) return false;
+    if (ranking && !school.ranks[ranking]) return false;
     const byline = normalized([school.name, school.nameZh, school.aliases, school.region].join(" "));
     return query.every(word => byline.includes(word));
   });
-  if (ranking === "qs") results.sort((a,b) => Number(a.ranks.qs.replace("=", "")) - Number(b.ranks.qs.replace("=", "")));
-  const boundary = results.filter(school => school.ranks.qs === rankings.qs.boundary).length;
-  byId("school-count").textContent = `${results.length} 所院校${boundary ? ` · ${boundary} 所在 QS 151–200 区间` : ""}`;
+  if (ranking) results.sort((a,b) => rankStart(a.ranks[ranking]) - rankStart(b.ranks[ranking]));
+  byId("school-count").textContent = `${results.length} 所院校`;
   schoolPage = validPage(schoolPage, results.length, pageSizes.schools);
   const start = (schoolPage - 1) * pageSizes.schools;
   const list = byId("school-list");

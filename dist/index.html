@@ -39,7 +39,7 @@
         <p>从研究方向出发，查找博士访问与博士后合作对象。</p>
       </div>
       <dl class="stats" aria-label="目录覆盖">
-        <div><dt>学校与边界候选</dt><dd id="scope-total"></dd></div>
+        <div><dt>学校总数</dt><dd id="scope-total"></dd></div>
         <div><dt>已有记录的院校</dt><dd id="sampled-total">6</dd></div>
         <div><dt>已收录学者</dt><dd id="faculty-total">12</dd></div>
       </dl>
@@ -136,10 +136,9 @@
         </label>
         <label class="compact-label"><span class="sr-only">榜单</span>
           <select id="ranking-filter">
-            <option value="">全部学校（含边界候选）</option>
-            <option value="qs">QS 2026 · 已确认达标</option>
+            <option value="">全部学校</option>
+            <option value="qs">QS 2026 · 前 200</option>
             <option value="gras">软科 GRAS 2026 · 前百</option>
-            <option value="boundary">QS 2026 · 151–200 边界候选</option>
           </select>
         </label>
         <label class="compact-label"><span class="sr-only">学校收录进度</span>
@@ -161,14 +160,14 @@
       <div class="section-heading first-heading">
         <div>
           <h2 id="method-heading">采集说明</h2>
-          <p>获取提示词，通过导入经核对的新批次扩充目录。</p>
+          <p>查看采集标准和下一轮的全量执行流程。</p>
         </div>
-        <a class="button button-primary" href="research-prompt.md" download="几何学者库采集提示词.md">下载完整 Prompt</a>
+        <a class="button button-primary" href="research-prompt.md" download="几何学者库执行提示词.md">下载执行 Prompt</a>
       </div>
       <div class="method-grid">
         <article class="surface method-card">
           <h3>院校与任职</h3>
-          <p>学校池合并 QS 2026 数学确认达到第 160 名的学校与软科 GRAS 数学前百。QS 只公布 151–200 区间，区间内无法确定名次的学校单列为候选。</p>
+          <p>学校池合并 QS 2026 数学前 200 与软科 GRAS 2026 数学前百。QS 151–200 区间内的学校均正式纳入，网页保留榜单公布的并列名次和区间。</p>
           <a href="https://www.shanghairanking.com/rankings/gras/2026/AS0101" target="_blank" rel="noopener noreferrer">软科数学榜</a>
           <a href="https://www.topuniversities.com/university-subject-rankings/mathematics" target="_blank" rel="noopener noreferrer">QS 数学榜</a>
         </article>
