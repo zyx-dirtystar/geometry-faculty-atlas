@@ -160,7 +160,9 @@
     "steven-sivek": "A5045169936",
     "felix-schulze": "A5047248750",
     "sarah-frei": "A5055333253",
-    "hoseob-seo": "A5003528447"
+    "hoseob-seo": "A5003528447",
+    "baba-shinpei": "A5065261489",
+    "nir-gadish": "A5020691249"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -231,7 +233,10 @@
     "joshua-daniels-holgate": "UCL 和本人站确认现任。以有 DOI 的代表作查 OpenAlex，数据库中的作者署名未能唯一匹配。",
     "federico-ardila": "本人作品表确认两种署名。代表作在 OpenAlex 分到 A5040287199（Federico Ardila）和 A5083845808（Federico Ardila-Mantilla），后一档 7 篇文章、99 次引用仅覆盖其部分作品，累计值待核。",
     "jason-d-lotay": "已核对个人公开作品并排查两个 DOI。OpenAlex 作品署名未能稳定落到一个唯一作者档案。",
-    "haesong-seo": "IMRN 论文与 SNU 任职确认身份。OpenAlex 尚未提供足够的当前和历史机构信息验证整个作者档案。"
+    "haesong-seo": "IMRN 论文与 SNU 任职确认身份。OpenAlex 尚未提供足够的当前和历史机构信息验证整个作者档案。",
+    "takeshi-ikeda": "至少一个公开 DOI 在 OpenAlex 请求未返回作品。需按公开 ORCID、姓名与第二个唯一匹配代表作再消歧。",
+    "doug-park": "至少一个公开 DOI 在 OpenAlex 请求未返回作品。需按公开 ORCID、姓名与第二个唯一匹配代表作再消歧。",
+    "hong-hansol": "匹配两所任职及几何代表作，但 OpenAlex 档案还包含关于分子对接、细胞毒性的高引研究，未证实该论文来自同一位数学学者。总数和引用量待核。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -386,6 +391,8 @@
     "steven-sivek": "对照具名机构与个人页、公开 ORCID 或代表作 DOI，另复核该 OpenAlex 档案主要作品的作者及主题。",
     "felix-schulze": "对照具名机构与个人页、公开 ORCID 或代表作 DOI，另复核该 OpenAlex 档案主要作品的作者及主题。",
     "sarah-frei": "对照具名机构与个人页、公开 ORCID 或代表作 DOI，另复核该 OpenAlex 档案主要作品的作者及主题。",
-    "hoseob-seo": "对照具名机构与个人页、公开 ORCID 或代表作 DOI，另复核该 OpenAlex 档案主要作品的作者及主题。"
+    "hoseob-seo": "对照具名机构与个人页、公开 ORCID 或代表作 DOI，另复核该 OpenAlex 档案主要作品的作者及主题。",
+    "baba-shinpei": "官方机构人物与代表作 DOI 或 arXiv 核验，并逐项查看 OpenAlex 档案的主题和高引作品。",
+    "nir-gadish": "官方机构人物与代表作 DOI 或 arXiv 核验，并逐项查看 OpenAlex 档案的主题和高引作品。"
   }
 }

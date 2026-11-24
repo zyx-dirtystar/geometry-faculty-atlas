@@ -329,6 +329,7 @@ def population(db):
         group["role"] = review.get("role") or split_role(group["title"], regions.get(group["school"]))
         group["affiliation_url"] = review.get("affiliation") or (active["profile"] or active["source_url"] if active else group["profile"] if official_title else "")
         group["homepage"] = review.get("homepage") or next((row["homepage"] for row in evidence if row["homepage"]), "")
+        group["homepage_status"] = review.get("homepageStatus")
         sources = [
             {"text":row["research"], "url":row["source_url"]} for row in evidence
             if row["research"] and not review.get("replace_research")
@@ -343,6 +344,8 @@ def population(db):
         official = profiles.get(group["profile"], {}) if is_relevant_role else {}
         if not group["homepage"] and official.get("homepage"):
             group["homepage"] = official["homepage"]
+        if group["homepage_status"] and review.get("homepage") == "":
+            group["homepage"] = ""
         for url in dict.fromkeys([group["profile"], group["homepage"]]) if is_relevant_role else ():
             profile = profiles.get(url, {})
             if profile.get("research") and not review.get("replace_research"):

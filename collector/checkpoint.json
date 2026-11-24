@@ -3758,7 +3758,7 @@
       "label": "Monash Suzhou · Academic Staff",
       "status": "reference",
       "count": 0,
-      "checked_at": null,
+      "checked_at": "2026-11-25",
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
@@ -3779,7 +3779,7 @@
       "status": "source_error",
       "count": 0,
       "checked_at": "2026-11-25",
-      "note": "网页暂未读取成功。"
+      "note": "机构网站限制了目录请求。"
     },
     {
       "id": "montreal-28-cirget",
@@ -4172,6 +4172,36 @@
       "note": ""
     },
     {
+      "id": "osaka-es31",
+      "school": "osaka",
+      "url": "https://www.sigmath.es.osaka-u.ac.jp/under_graduate/laboratory.html",
+      "label": "基礎工学 · 数理科学研究组",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "osaka-ist31",
+      "school": "osaka",
+      "url": "https://math2.ist.osaka-u.ac.jp/course/",
+      "label": "信息科学 · 纯粹及应用数学研究组",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "osaka-math-jp31",
+      "school": "osaka",
+      "url": "https://xoanon.math.sci.osaka-u.ac.jp/staff.html",
+      "label": "理学研究科 · 数学教员、特任、研究员和荣休",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
       "id": "osaka-math-source",
       "school": "osaka",
       "url": "https://xoanon.math.sci.osaka-u.ac.jp/eng/staff.html",
@@ -4180,6 +4210,26 @@
       "count": 50,
       "checked_at": "2026-11-23",
       "note": ""
+    },
+    {
+      "id": "osaka-mmds31",
+      "school": "osaka",
+      "url": "https://www-mmds.sigmath.es.osaka-u.ac.jp/faculty/for_all_organizations_and_persons/en/index.html",
+      "label": "MMDS · 联合数理与数据科学机构教师",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "osaka-science31",
+      "school": "osaka",
+      "url": "https://www.sci.osaka-u.ac.jp/ja/outline/researcher-list/",
+      "label": "理学研究科 · 数学科日文分讲座任职",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
       "id": "oxford-algebra",
@@ -5990,6 +6040,46 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "网页暂未读取成功。"
+    },
+    {
+      "id": "st-faculty-jp31",
+      "school": "science-tokyo",
+      "url": "https://www.math.sci.isct.ac.jp/page_03.html",
+      "label": "理学院数学系 · 日文职级及研究方向",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "st-grad31",
+      "school": "science-tokyo",
+      "url": "https://www.math.sci.isct.ac.jp/page_02.html",
+      "label": "理学院数学系 · 2026 研究生导师名册",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "st-mcs31",
+      "school": "science-tokyo",
+      "url": "https://educ.titech.ac.jp/is/eng/faculty/",
+      "label": "数理与计算科学系 · 学术人员名册",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "st-research-fellows31",
+      "school": "science-tokyo",
+      "url": "https://www.math.sci.isct.ac.jp/page_03.html",
+      "label": "理学院数学系 · 学术研究员及特别研究员",
+      "status": "parsed",
+      "count": 14,
+      "checked_at": "2026-11-25",
+      "note": "日文公开现任名单中 5 位学术研究员及 9 位特别研究员。按非主聘教职分册。"
     },
     {
       "id": "stanford-geometry",
@@ -8052,6 +8142,36 @@
       "note": ""
     },
     {
+      "id": "waseda-apmath31",
+      "school": "waseda",
+      "url": "https://www.apmath.sci.waseda.ac.jp/en/staff/",
+      "label": "基幹理工学部 · 应用数理学科",
+      "status": "parsed",
+      "count": 13,
+      "checked_at": "2026-11-25",
+      "note": "逐名读取 13 个学术人员卡片，使用日文名与数学研究科交叉。"
+    },
+    {
+      "id": "waseda-ed31",
+      "school": "waseda",
+      "url": "https://prj-edu-math.w.waseda.jp/professors.html",
+      "label": "教育学部 · 数学教室専任教員",
+      "status": "parsed",
+      "count": 14,
+      "checked_at": "2026-11-25",
+      "note": "公布 2026 年 4 月 14 位现任。研究领域以数学教室和研究者库为准。"
+    },
+    {
+      "id": "waseda-fse31",
+      "school": "waseda",
+      "url": "https://www.fse.sci.waseda.ac.jp/dept/faculty/",
+      "label": "基幹理工学部与研究科 · 全单位教员入口",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "waseda-full-audit-source",
       "school": "waseda",
       "url": "https://www.math.sci.waseda.ac.jp/math/dpmstaff/",
@@ -8062,6 +8182,16 @@
       "note": ""
     },
     {
+      "id": "waseda-grad31",
+      "school": "waseda",
+      "url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+      "label": "基幹理工学研究科 · 数学及应用数理教员",
+      "status": "parsed",
+      "count": 60,
+      "checked_at": "2026-11-25",
+      "note": "七个研究分组及一个定期岗位附录合计 60 条。分组只作线索，个人方向由具名页面确认。"
+    },
+    {
       "id": "waseda-math-source",
       "school": "waseda",
       "url": "https://www.math.sci.waseda.ac.jp/math/e-members/",
@@ -8070,6 +8200,46 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "waseda-mathphys-ja31",
+      "school": "waseda",
+      "url": "https://www.waseda.jp/fsci/mathphys/member/ja",
+      "label": "数物科学拠点联合任职",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "waseda-mathphys-research31",
+      "school": "waseda",
+      "url": "https://www.waseda.jp/fsci/mathphys/member/researcher",
+      "label": "数物科学研究员",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "waseda-mathphys-visiting31",
+      "school": "waseda",
+      "url": "https://www.waseda.jp/fsci/mathphys/member/visitingprofessor",
+      "label": "数物科学访学教授",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "waseda-mathphys31",
+      "school": "waseda",
+      "url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+      "label": "数物系科学拠点 · 教员",
+      "status": "parsed",
+      "count": 19,
+      "checked_at": "2026-11-25",
+      "note": "逐项抽取 19 位在官方页有职务、方向标签的成员。荣休按页面单列。"
     },
     {
       "id": "washington-faculty",
@@ -188177,6 +188347,230 @@
       }
     },
     {
+      "source": "st-research-fellows31",
+      "person_key": "juliuslohmann",
+      "school": "science-tokyo",
+      "record": {
+        "name": "Julius Lohmann",
+        "title": "Academic Researcher",
+        "research": "",
+        "profile": "https://jlohmann.gitlab.io/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.isct.ac.jp/page_03.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "st-research-fellows31",
+      "person_key": "嘉藤桂樹",
+      "school": "science-tokyo",
+      "record": {
+        "name": "嘉藤 桂樹",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.isct.ac.jp/page_03.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "st-research-fellows31",
+      "person_key": "小松尚夫",
+      "school": "science-tokyo",
+      "record": {
+        "name": "小松 尚夫",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.isct.ac.jp/page_03.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "st-research-fellows31",
+      "person_key": "小野田実頼",
+      "school": "science-tokyo",
+      "record": {
+        "name": "小野田 実頼",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.isct.ac.jp/page_03.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "st-research-fellows31",
+      "person_key": "山口樹",
+      "school": "science-tokyo",
+      "record": {
+        "name": "山口 樹",
+        "title": "Academic Researcher",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.isct.ac.jp/page_03.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "st-research-fellows31",
+      "person_key": "山本立規",
+      "school": "science-tokyo",
+      "record": {
+        "name": "山本 立規",
+        "title": "Academic Researcher",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.isct.ac.jp/page_03.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "st-research-fellows31",
+      "person_key": "島田佑一",
+      "school": "science-tokyo",
+      "record": {
+        "name": "島田 佑一",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.isct.ac.jp/page_03.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "st-research-fellows31",
+      "person_key": "文賢淑",
+      "school": "science-tokyo",
+      "record": {
+        "name": "文 賢淑",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.isct.ac.jp/page_03.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "st-research-fellows31",
+      "person_key": "横山聡",
+      "school": "science-tokyo",
+      "record": {
+        "name": "横山 聡",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.isct.ac.jp/page_03.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "st-research-fellows31",
+      "person_key": "清水陸嗣",
+      "school": "science-tokyo",
+      "record": {
+        "name": "清水 陸嗣",
+        "title": "Academic Researcher",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.isct.ac.jp/page_03.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "st-research-fellows31",
+      "person_key": "石塚伶",
+      "school": "science-tokyo",
+      "record": {
+        "name": "石塚 伶",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.isct.ac.jp/page_03.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "st-research-fellows31",
+      "person_key": "竹内大智",
+      "school": "science-tokyo",
+      "record": {
+        "name": "竹内 大智",
+        "title": "Academic Researcher",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.isct.ac.jp/page_03.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "st-research-fellows31",
+      "person_key": "青砥禎彦",
+      "school": "science-tokyo",
+      "record": {
+        "name": "青砥 禎彦",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.isct.ac.jp/page_03.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "st-research-fellows31",
+      "person_key": "髙橋慶多",
+      "school": "science-tokyo",
+      "record": {
+        "name": "髙橋 慶多",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.isct.ac.jp/page_03.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
       "source": "stanford-geometry",
       "person_key": "alanweinstein",
       "school": "stanford",
@@ -268275,6 +268669,438 @@
       }
     },
     {
+      "source": "waseda-apmath31",
+      "person_key": "三枝崎剛",
+      "school": "waseda",
+      "record": {
+        "name": "三枝崎 剛",
+        "title": "Applied Mathematics Department listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.apmath.sci.waseda.ac.jp/en/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-apmath31",
+      "person_key": "丸野健一",
+      "school": "waseda",
+      "record": {
+        "name": "丸野 健一",
+        "title": "Applied Mathematics Department listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.apmath.sci.waseda.ac.jp/en/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-apmath31",
+      "person_key": "久藤衡介",
+      "school": "waseda",
+      "record": {
+        "name": "久藤 衡介",
+        "title": "Applied Mathematics Department listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.apmath.sci.waseda.ac.jp/en/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-apmath31",
+      "person_key": "劉言",
+      "school": "waseda",
+      "record": {
+        "name": "劉 言",
+        "title": "Applied Mathematics Department listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.apmath.sci.waseda.ac.jp/en/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-apmath31",
+      "person_key": "大本亨",
+      "school": "waseda",
+      "record": {
+        "name": "大本 亨",
+        "title": "Applied Mathematics Department listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.apmath.sci.waseda.ac.jp/en/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-apmath31",
+      "person_key": "平田秋彦",
+      "school": "waseda",
+      "record": {
+        "name": "平田 秋彦",
+        "title": "Applied Mathematics Department listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.apmath.sci.waseda.ac.jp/en/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-apmath31",
+      "person_key": "早水桃子",
+      "school": "waseda",
+      "record": {
+        "name": "早水 桃子",
+        "title": "Applied Mathematics Department listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.apmath.sci.waseda.ac.jp/en/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-apmath31",
+      "person_key": "村松純",
+      "school": "waseda",
+      "record": {
+        "name": "村松 純",
+        "title": "Applied Mathematics Department listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.apmath.sci.waseda.ac.jp/en/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-apmath31",
+      "person_key": "柏木雅英",
+      "school": "waseda",
+      "record": {
+        "name": "柏木 雅英",
+        "title": "Applied Mathematics Department listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.apmath.sci.waseda.ac.jp/en/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-apmath31",
+      "person_key": "清水泰隆",
+      "school": "waseda",
+      "record": {
+        "name": "清水 泰隆",
+        "title": "Applied Mathematics Department listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.apmath.sci.waseda.ac.jp/en/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-apmath31",
+      "person_key": "荻田武史",
+      "school": "waseda",
+      "record": {
+        "name": "荻田 武史",
+        "title": "Applied Mathematics Department listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.apmath.sci.waseda.ac.jp/en/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-apmath31",
+      "person_key": "豊泉洋",
+      "school": "waseda",
+      "record": {
+        "name": "豊泉 洋",
+        "title": "Applied Mathematics Department listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.apmath.sci.waseda.ac.jp/en/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-apmath31",
+      "person_key": "高橋大輔",
+      "school": "waseda",
+      "record": {
+        "name": "高橋 大輔",
+        "title": "Applied Mathematics Department listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.apmath.sci.waseda.ac.jp/en/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-ed31",
+      "person_key": "内藏理史",
+      "school": "waseda",
+      "record": {
+        "name": "内藏 理史",
+        "title": "Lecturer",
+        "research": "Information mathematics",
+        "profile": "https://w-rdb.waseda.jp/html/100004029_ja.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://prj-edu-math.w.waseda.jp/professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-ed31",
+      "person_key": "安福悠",
+      "school": "waseda",
+      "record": {
+        "name": "安福 悠",
+        "title": "Professor",
+        "research": "Diophantine geometry and arithmetic dynamics",
+        "profile": "https://w-rdb.waseda.jp/html/100004012_ja.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://prj-edu-math.w.waseda.jp/professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-ed31",
+      "person_key": "宮川健",
+      "school": "waseda",
+      "record": {
+        "name": "宮川 健",
+        "title": "Professor",
+        "research": "Mathematics education",
+        "profile": "https://w-rdb.waseda.jp/html/100001762_ja.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://prj-edu-math.w.waseda.jp/professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-ed31",
+      "person_key": "小川俊彦",
+      "school": "waseda",
+      "record": {
+        "name": "小川 俊彦",
+        "title": "Research Assistant",
+        "research": "Mathematics education",
+        "profile": "https://w-rdb.waseda.jp/html/100004326_ja.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://prj-edu-math.w.waseda.jp/professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-ed31",
+      "person_key": "小森洋平",
+      "school": "waseda",
+      "record": {
+        "name": "小森 洋平",
+        "title": "Professor",
+        "research": "Complex analytic geometry and polyhedral geometry",
+        "profile": "https://w-rdb.waseda.jp/html/100001141_ja.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://prj-edu-math.w.waseda.jp/professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-ed31",
+      "person_key": "川邊大貴",
+      "school": "waseda",
+      "record": {
+        "name": "川邊 大貴",
+        "title": "Assistant Professor",
+        "research": "Algebraic geometry and number theory",
+        "profile": "https://w-rdb.waseda.jp/html/100004686_ja.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://prj-edu-math.w.waseda.jp/professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-ed31",
+      "person_key": "戸松玲治",
+      "school": "waseda",
+      "record": {
+        "name": "戸松 玲治",
+        "title": "Professor",
+        "research": "Functional analysis and operator algebras",
+        "profile": "https://w-rdb.waseda.jp/html/100001962_ja.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://prj-edu-math.w.waseda.jp/professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-ed31",
+      "person_key": "新井仁之",
+      "school": "waseda",
+      "record": {
+        "name": "新井 仁之",
+        "title": "Professor",
+        "research": "Analysis, applied analysis and mathematical visual science",
+        "profile": "https://w-rdb.waseda.jp/html/100000016_ja.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://prj-edu-math.w.waseda.jp/professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-ed31",
+      "person_key": "村井聡",
+      "school": "waseda",
+      "record": {
+        "name": "村井 聡",
+        "title": "Professor",
+        "research": "Commutative algebra and combinatorics",
+        "profile": "https://w-rdb.waseda.jp/html/100001615_ja.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://prj-edu-math.w.waseda.jp/professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-ed31",
+      "person_key": "松崎克彦",
+      "school": "waseda",
+      "record": {
+        "name": "松崎 克彦",
+        "title": "Professor",
+        "research": "Hyperbolic geometry and complex analysis",
+        "profile": "https://w-rdb.waseda.jp/html/100001055_ja.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://prj-edu-math.w.waseda.jp/professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-ed31",
+      "person_key": "梁松",
+      "school": "waseda",
+      "record": {
+        "name": "梁 松",
+        "title": "Professor",
+        "research": "Probability and stochastic analysis",
+        "profile": "https://w-rdb.waseda.jp/html/100001777_ja.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://prj-edu-math.w.waseda.jp/professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-ed31",
+      "person_key": "谷山公規",
+      "school": "waseda",
+      "record": {
+        "name": "谷山 公規",
+        "title": "Professor",
+        "research": "Knot theory",
+        "profile": "https://w-rdb.waseda.jp/html/100000508_ja.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://prj-edu-math.w.waseda.jp/professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-ed31",
+      "person_key": "谷誠一郎",
+      "school": "waseda",
+      "record": {
+        "name": "谷 誠一郎",
+        "title": "Professor",
+        "research": "Theoretical computer science",
+        "profile": "https://w-rdb.waseda.jp/html/100004028_ja.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://prj-edu-math.w.waseda.jp/professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-ed31",
+      "person_key": "高島克幸",
+      "school": "waseda",
+      "record": {
+        "name": "高島 克幸",
+        "title": "Professor",
+        "research": "Cryptography and computational number theory",
+        "profile": "https://w-rdb.waseda.jp/html/100002901_ja.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://prj-edu-math.w.waseda.jp/professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
       "source": "waseda-full-audit-source",
       "person_key": "三竹大寿",
       "school": "waseda",
@@ -268528,6 +269354,1270 @@
         "source_kind": "department",
         "source_url": "https://www.math.sci.waseda.ac.jp/math/dpmstaff/",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "bowenmark",
+      "school": "waseda",
+      "record": {
+        "name": "BOWEN Mark",
+        "title": "Graduate Supervisor Listing",
+        "research": "Mathematical modelling",
+        "profile": "",
+        "homepage": "http://bowen.w.waseda.jp/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "ningboyuan",
+      "school": "waseda",
+      "record": {
+        "name": "NING BOYUAN",
+        "title": "Research Assistant",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "trinhkhanhduyトゥリンカーンテュイ",
+      "school": "waseda",
+      "record": {
+        "name": "TRINH, Khanh Duy トゥリン カーン デュイ",
+        "title": "Graduate Supervisor Listing",
+        "research": "Statistics",
+        "profile": "",
+        "homepage": "https://sites.google.com/site/kdtrinhprob/Home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "三枝崎剛",
+      "school": "waseda",
+      "record": {
+        "name": "三枝崎 剛",
+        "title": "Graduate Supervisor Listing",
+        "research": "Algebra",
+        "profile": "",
+        "homepage": "https://sites.google.com/site/tmiezakij/home?authuser=0",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "三竹大寿",
+      "school": "waseda",
+      "record": {
+        "name": "三竹 大寿",
+        "title": "Graduate Supervisor Listing",
+        "research": "Analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "丸野健一",
+      "school": "waseda",
+      "record": {
+        "name": "丸野 健一",
+        "title": "Graduate Supervisor Listing",
+        "research": "Mathematical modelling",
+        "profile": "",
+        "homepage": "https://kmaruno.wixsite.com/marunolab",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "久藤衡介",
+      "school": "waseda",
+      "record": {
+        "name": "久藤 衡介",
+        "title": "Graduate Supervisor Listing",
+        "research": "Mathematical modelling",
+        "profile": "",
+        "homepage": "http://www.f.waseda.jp/kuto/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "井上淳",
+      "school": "waseda",
+      "record": {
+        "name": "井上 淳",
+        "title": "Graduate Supervisor Listing",
+        "research": "Statistics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "劉言",
+      "school": "waseda",
+      "record": {
+        "name": "劉 言",
+        "title": "Graduate Supervisor Listing",
+        "research": "Statistics",
+        "profile": "",
+        "homepage": "https://liu.w.waseda.jp/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "北川宗詢",
+      "school": "waseda",
+      "record": {
+        "name": "北川 宗詢",
+        "title": "Research Assistant",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "吉村浩明",
+      "school": "waseda",
+      "record": {
+        "name": "吉村 浩明",
+        "title": "Graduate Supervisor Listing",
+        "research": "Mathematical modelling",
+        "profile": "",
+        "homepage": "http://www.yoshimura.mech.waseda.ac.jp/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "吉田智輝",
+      "school": "waseda",
+      "record": {
+        "name": "吉田 智輝",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "https://sites.google.com/view/tomoki-yoshida/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "大仁田義裕",
+      "school": "waseda",
+      "record": {
+        "name": "大仁田 義裕",
+        "title": "Graduate Supervisor Listing",
+        "research": "Geometry group",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "大本亨",
+      "school": "waseda",
+      "record": {
+        "name": "大本 亨",
+        "title": "Graduate Supervisor Listing",
+        "research": "Geometry group",
+        "profile": "",
+        "homepage": "https://sites.google.com/view/applied-singularity-theory",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "宇田川衷",
+      "school": "waseda",
+      "record": {
+        "name": "宇田川 衷",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "小川卓克",
+      "school": "waseda",
+      "record": {
+        "name": "小川 卓克",
+        "title": "Graduate Supervisor Listing",
+        "research": "Analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "小林学",
+      "school": "waseda",
+      "record": {
+        "name": "小林 学",
+        "title": "Graduate Supervisor Listing",
+        "research": "Computational mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "小森洋平",
+      "school": "waseda",
+      "record": {
+        "name": "小森 洋平",
+        "title": "Graduate Supervisor Listing",
+        "research": "Geometry group",
+        "profile": "",
+        "homepage": "https://ykomori.w.waseda.jp/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "小池茂昭",
+      "school": "waseda",
+      "record": {
+        "name": "小池 茂昭",
+        "title": "Graduate Supervisor Listing",
+        "research": "Analysis",
+        "profile": "",
+        "homepage": "https://www.f.waseda.jp/skoike/index.html",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "小泉祐太",
+      "school": "waseda",
+      "record": {
+        "name": "小泉 祐太",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "小澤徹",
+      "school": "waseda",
+      "record": {
+        "name": "小澤 徹",
+        "title": "Graduate Supervisor Listing",
+        "research": "Analysis",
+        "profile": "",
+        "homepage": "http://www.ozawa.phys.waseda.ac.jp/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "小薗英雄",
+      "school": "waseda",
+      "record": {
+        "name": "小薗 英雄",
+        "title": "Graduate Supervisor Listing",
+        "research": "Analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "尾﨑学",
+      "school": "waseda",
+      "record": {
+        "name": "尾﨑 学",
+        "title": "Graduate Supervisor Listing",
+        "research": "Algebra",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "山口航平",
+      "school": "waseda",
+      "record": {
+        "name": "山口 航平",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "島田航志",
+      "school": "waseda",
+      "record": {
+        "name": "島田 航志",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "工藤陸",
+      "school": "waseda",
+      "record": {
+        "name": "工藤 陸",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "平田秋彦",
+      "school": "waseda",
+      "record": {
+        "name": "平田秋彦",
+        "title": "Graduate Supervisor Listing",
+        "research": "Mathematical modelling",
+        "profile": "",
+        "homepage": "https://ahirata.w.waseda.jp/hiratalab.html",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "成田宏秋",
+      "school": "waseda",
+      "record": {
+        "name": "成田 宏秋",
+        "title": "Graduate Supervisor Listing",
+        "research": "Algebra",
+        "profile": "",
+        "homepage": "https://hnarita.w.waseda.jp/narita.htm",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "早水桃子",
+      "school": "waseda",
+      "record": {
+        "name": "早水 桃子",
+        "title": "Graduate Supervisor Listing",
+        "research": "Mathematical modelling",
+        "profile": "",
+        "homepage": "https://www.youtube.com/channel/UCZFe7-vmShA0oRQ55FomoUg",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "曽部川拓也",
+      "school": "waseda",
+      "record": {
+        "name": "曽部川 拓也",
+        "title": "Graduate Supervisor Listing",
+        "research": "Analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "木下智晴",
+      "school": "waseda",
+      "record": {
+        "name": "木下 智晴",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "本間泰史",
+      "school": "waseda",
+      "record": {
+        "name": "本間 泰史",
+        "title": "Graduate Supervisor Listing",
+        "research": "Geometry group",
+        "profile": "",
+        "homepage": "https://yhomma.w.waseda.jp",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "村上順",
+      "school": "waseda",
+      "record": {
+        "name": "村上 順",
+        "title": "Graduate Supervisor Listing",
+        "research": "Geometry group",
+        "profile": "",
+        "homepage": "https://murakami.w.waseda.jp",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "村松純",
+      "school": "waseda",
+      "record": {
+        "name": "村松 純",
+        "title": "Graduate Supervisor Listing",
+        "research": "Computational mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "松崎克彦",
+      "school": "waseda",
+      "record": {
+        "name": "松崎 克彦",
+        "title": "Graduate Supervisor Listing",
+        "research": "Geometry group",
+        "profile": "",
+        "homepage": "https://matsuzak.w.waseda.jp/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "柏木雅英",
+      "school": "waseda",
+      "record": {
+        "name": "柏木 雅英",
+        "title": "Graduate Supervisor Listing",
+        "research": "Computational mathematics",
+        "profile": "",
+        "homepage": "http://www.kashi.info.waseda.ac.jp/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "根本卓弥",
+      "school": "waseda",
+      "record": {
+        "name": "根本 卓弥",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "楫元",
+      "school": "waseda",
+      "record": {
+        "name": "楫 元",
+        "title": "Graduate Supervisor Listing",
+        "research": "Algebra",
+        "profile": "",
+        "homepage": "https://kaji.w.waseda.jp",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "永井保成",
+      "school": "waseda",
+      "record": {
+        "name": "永井 保成",
+        "title": "Graduate Supervisor Listing",
+        "research": "Algebra",
+        "profile": "",
+        "homepage": "https://nagai-y.w.waseda.jp/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "池田岳",
+      "school": "waseda",
+      "record": {
+        "name": "池田 岳",
+        "title": "Graduate Supervisor Listing",
+        "research": "Geometry group",
+        "profile": "",
+        "homepage": "https://sites.google.com/view/takeshi-ikeda/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "沢辺俊",
+      "school": "waseda",
+      "record": {
+        "name": "沢辺 俊",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "河野隆史",
+      "school": "waseda",
+      "record": {
+        "name": "河野 隆史",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "波照間雄大",
+      "school": "waseda",
+      "record": {
+        "name": "波照間 雄大",
+        "title": "Research Assistant",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "清水泰隆",
+      "school": "waseda",
+      "record": {
+        "name": "清水 泰隆",
+        "title": "Graduate Supervisor Listing",
+        "research": "Statistics",
+        "profile": "",
+        "homepage": "https://www.shimizu.sci.waseda.ac.jp/ys/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "渡邊展也",
+      "school": "waseda",
+      "record": {
+        "name": "渡邊 展也",
+        "title": "Graduate Supervisor Listing",
+        "research": "Geometry group",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "熊谷隆",
+      "school": "waseda",
+      "record": {
+        "name": "熊谷 隆",
+        "title": "Graduate Supervisor Listing",
+        "research": "Analysis",
+        "profile": "",
+        "homepage": "https://t-kumagai.w.waseda.jp/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "田中一成",
+      "school": "waseda",
+      "record": {
+        "name": "田中 一成",
+        "title": "Graduate Supervisor Listing",
+        "research": "Computational mathematics",
+        "profile": "",
+        "homepage": "https://sites.google.com/site/kazuakitanaka0203e/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "田中和永",
+      "school": "waseda",
+      "record": {
+        "name": "田中 和永",
+        "title": "Graduate Supervisor Listing",
+        "research": "Analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "福泉麗佳",
+      "school": "waseda",
+      "record": {
+        "name": "福泉 麗佳",
+        "title": "Graduate Supervisor Listing",
+        "research": "Analysis",
+        "profile": "",
+        "homepage": "https://fukuizumi.kinsta.cloud/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "米田元",
+      "school": "waseda",
+      "record": {
+        "name": "米田 元",
+        "title": "Graduate Supervisor Listing",
+        "research": "Mathematical modelling",
+        "profile": "",
+        "homepage": "https://yoneda.w.waseda.jp/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "荻田武史",
+      "school": "waseda",
+      "record": {
+        "name": "荻田 武史",
+        "title": "Graduate Supervisor Listing",
+        "research": "Computational mathematics",
+        "profile": "",
+        "homepage": "https://ogilab.w.waseda.jp/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "薄葉季路",
+      "school": "waseda",
+      "record": {
+        "name": "薄葉 季路",
+        "title": "Graduate Supervisor Listing",
+        "research": "Mathematical logic",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "西山陽一",
+      "school": "waseda",
+      "record": {
+        "name": "西山 陽一",
+        "title": "Graduate Supervisor Listing",
+        "research": "Statistics",
+        "profile": "",
+        "homepage": "https://nishiyama.kinsta.cloud/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "角田真一朗",
+      "school": "waseda",
+      "record": {
+        "name": "角田 真一朗",
+        "title": "Research Assistant",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "豊泉洋",
+      "school": "waseda",
+      "record": {
+        "name": "豊泉 洋",
+        "title": "Graduate Supervisor Listing",
+        "research": "Mathematical modelling",
+        "profile": "",
+        "homepage": "https://toyoizumi.w.waseda.jp/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "野村亮",
+      "school": "waseda",
+      "record": {
+        "name": "野村 亮",
+        "title": "Graduate Supervisor Listing",
+        "research": "Computational mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "野邊厚",
+      "school": "waseda",
+      "record": {
+        "name": "野邊 厚",
+        "title": "Graduate Supervisor Listing",
+        "research": "Mathematical modelling",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "金沢篤",
+      "school": "waseda",
+      "record": {
+        "name": "金沢 篤",
+        "title": "Graduate Supervisor Listing",
+        "research": "Geometry group",
+        "profile": "",
+        "homepage": "https://sites.google.com/view/akanazawa",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "鈴木尭虎",
+      "school": "waseda",
+      "record": {
+        "name": "鈴木 尭虎",
+        "title": "Research Assistant",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-grad31",
+      "person_key": "高橋大輔",
+      "school": "waseda",
+      "record": {
+        "name": "高橋 大輔",
+        "title": "Graduate Supervisor Listing",
+        "research": "Mathematical modelling",
+        "profile": "",
+        "homepage": "https://hakotama.jp/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "giannettiniccolo",
+      "school": "waseda",
+      "record": {
+        "name": "GIANNETTI Niccolo",
+        "title": "Research Unit Member",
+        "research": "Physical modelling of transport phenomena within engineering thermal systems",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "guestmartin",
+      "school": "waseda",
+      "record": {
+        "name": "GUEST Martin",
+        "title": "Research Unit Member",
+        "research": "可積分系・微分幾何学",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "中里弘道",
+      "school": "waseda",
+      "record": {
+        "name": "中里 弘道",
+        "title": "Research Unit Member",
+        "research": "量子基礎論",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "久藤衡介",
+      "school": "waseda",
+      "record": {
+        "name": "久藤 衡介",
+        "title": "Research Unit Member",
+        "research": "非線形偏微分方程式",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "吉村浩明",
+      "school": "waseda",
+      "record": {
+        "name": "吉村 浩明",
+        "title": "Research Unit Member",
+        "research": "力学系理論・Geometric Mechanics・ディラック幾何",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "大仁田義裕",
+      "school": "waseda",
+      "record": {
+        "name": "大仁田 義裕",
+        "title": "Research Unit Member",
+        "research": "微分幾何学、調和写像論",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "大石進一",
+      "school": "waseda",
+      "record": {
+        "name": "大石 進一",
+        "title": "Research Unit Member",
+        "research": "数値解析・情報数理・回路理論",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "寺原拓哉",
+      "school": "waseda",
+      "record": {
+        "name": "寺原 拓哉",
+        "title": "Research Unit Member",
+        "research": "流体構造連成問題、計算力学",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "小澤徹",
+      "school": "waseda",
+      "record": {
+        "name": "小澤 徹",
+        "title": "Research Unit Member",
+        "research": "数理物理学・非線型偏微分方程式",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "小薗英雄",
+      "school": "waseda",
+      "record": {
+        "name": "小薗 英雄",
+        "title": "Research Unit Member",
+        "research": "非線形偏微分方程式",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "柴田良弘",
+      "school": "waseda",
+      "record": {
+        "name": "柴田 良弘",
+        "title": "Professor Emeritus",
+        "research": "偏微分方程式論; 最近は流体数学研究が中心",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "湯浅一哉",
+      "school": "waseda",
+      "record": {
+        "name": "湯浅 一哉",
+        "title": "Research Unit Member",
+        "research": "量子物理学・量子情報",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "滝沢研二",
+      "school": "waseda",
+      "record": {
+        "name": "滝沢 研二",
+        "title": "Research Unit Member",
+        "research": "流体構造連成問題・計算力学",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "熊谷隆",
+      "school": "waseda",
+      "record": {
+        "name": "熊谷 隆",
+        "title": "Research Unit Member",
+        "research": "確率論",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "田中一成",
+      "school": "waseda",
+      "record": {
+        "name": "田中 一成",
+        "title": "Research Unit Member",
+        "research": "検証数理・深層学習",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "福泉麗佳",
+      "school": "waseda",
+      "record": {
+        "name": "福泉 麗佳",
+        "title": "Research Unit Member",
+        "research": "非線形分散型方程式・確率偏微分方程式",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "荻田武史",
+      "school": "waseda",
+      "record": {
+        "name": "荻田 武史",
+        "title": "Research Unit Member",
+        "research": "数値解析学、特に、数値線形代数、精度保証付き数値計算",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "高野光則",
+      "school": "waseda",
+      "record": {
+        "name": "高野 光則",
+        "title": "Research Unit Member",
+        "research": "生物物理学・計算物理学",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "waseda-mathphys31",
+      "person_key": "齋藤潔",
+      "school": "waseda",
+      "record": {
+        "name": "齋藤 潔",
+        "title": "Research Unit Member",
+        "research": "熱力学・伝熱工学・制御工学・エネルギー変換工学",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.waseda.jp/fsci/mathphys/member/professor",
+        "checked_at": "2026-11-25"
       }
     },
     {
@@ -292574,6 +294664,19 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://math.yonsei.ac.kr/math/math/faculty.do",
+      "cache_id": "profile-839629207a5084b0",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "https://kimseick.yonsei.ac.kr/",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
       "url": "https://mathematics.brown.edu/people/bruno-harris",
       "cache_id": "profile-fa3be9e47c51f718",
       "status": "parsed",
@@ -305455,19 +307558,6 @@
       "status": "parsed",
       "record": {
         "research": "Research interests : Model theory, algebraic geometry",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://uwaterloo.ca/pure-mathematics/node/64",
-      "cache_id": "profile-e4af24e3e990dcef",
-      "status": "parsed",
-      "record": {
-        "research": "Research interests : Geometric topology, symplectic geometry",
         "homepage": "",
         "cv": "",
         "publications": "",
@@ -325864,13 +327954,6 @@
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.math.hu-berlin.de/~klooster/",
-      "cache_id": "profile-59f0974c510a172b",
-      "status": "source_error",
-      "record": null,
-      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.math.iitb.ac.in/~anushamk/",
@@ -355916,19 +357999,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://xoanon.math.sci.osaka-u.ac.jp/eng/staff_baba.html",
-      "cache_id": "profile-bfa75c0a7341dea2",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
       "url": "https://xoanon.math.sci.osaka-u.ac.jp/eng/staff_fujita.html",
       "cache_id": "profile-a3893df9187569cf",
       "status": "parsed",
@@ -356035,19 +358105,6 @@
     {
       "url": "https://xoanon.math.sci.osaka-u.ac.jp/eng/staff_okawa.html",
       "cache_id": "profile-93aa285aaf7184f0",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://xoanon.math.sci.osaka-u.ac.jp/eng/staff_sugiyama.html",
-      "cache_id": "profile-f2efdfd193d0d4ed",
       "status": "parsed",
       "record": {
         "research": "",
@@ -357260,6 +359317,33 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "baba-shinpei": {
+      "status": "review_ready",
+      "author_id": "A5065261489",
+      "papers": [
+        {
+          "title": "Neck‐pinching of CP1$\\mathbb {C}{\\rm P}^1$‐structures in the PSL2C${\\rm PSL}_2\\mathbb {C}$‐character variety",
+          "year": 2024,
+          "url": "https://doi.org/10.48550/arXiv.1907.00092"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5065261489",
+        "orcid": null,
+        "url": "https://openalex.org/authors/A5065261489",
+        "authorApiUrl": "https://api.openalex.org/authors/A5065261489",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5065261489,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 7,
+        "works": 10,
+        "citations": 63,
+        "hIndex": 5,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "babar-majeed-mirza": {
       "status": "review_ready",
       "author_id": "A5087011114",
@@ -358361,6 +360445,11 @@
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5004538133"
     },
+    "doug-park": {
+      "status": "source_error",
+      "reason": "OpenAlex HTTP 404",
+      "checkedAt": "2026-11-25"
+    },
     "dragos-oprea": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
@@ -358930,6 +361019,20 @@
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5020521344"
+    },
+    "hong-hansol": {
+      "status": "identity_review",
+      "reason": "匹配两所任职及几何代表作，但 OpenAlex 档案还包含关于分子对接、细胞毒性的高引研究，未证实该论文来自同一位数学学者。总数和引用量待核。",
+      "author_id": "A5101577274",
+      "papers": [
+        {
+          "title": "Orbifold Kodaira–Spencer maps and closed‐string mirror symmetry for punctured Riemann surfaces",
+          "year": 2025,
+          "url": "https://doi.org/10.1112/jlms.70179"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "candidate_url": "https://openalex.org/authors/A5101577274"
     },
     "hongbin-sun": {
       "status": "identity_review",
@@ -361220,6 +363323,38 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
     },
+    "nir-gadish": {
+      "status": "review_ready",
+      "author_id": "A5020691249",
+      "papers": [
+        {
+          "title": "Adding a point to configurations in closed balls",
+          "year": 2019,
+          "url": "https://doi.org/10.1090/proc/14712"
+        },
+        {
+          "title": "Configuration spaces on a wedge of spheres and Hochschild–Pirashvili homology",
+          "year": 2024,
+          "url": "https://doi.org/10.5802/ahl.213"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5020691249",
+        "orcid": "https://orcid.org/0000-0003-4479-0537",
+        "url": "https://openalex.org/authors/A5020691249",
+        "authorApiUrl": "https://api.openalex.org/authors/A5020691249",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5020691249,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 13,
+        "works": 26,
+        "citations": 175,
+        "hIndex": 8,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "noam-d-elkies": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
@@ -363001,6 +365136,11 @@
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
+    },
+    "takeshi-ikeda": {
+      "status": "source_error",
+      "reason": "OpenAlex HTTP 404",
+      "checkedAt": "2026-11-25"
     },
     "takeshi-saito": {
       "status": "identity_review",

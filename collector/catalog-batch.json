@@ -1623,7 +1623,7 @@
     {
       "id": "waterloo",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，1 条任职或方向待核。 已收录 10 位学者，个人主页 1、CV 2、指标 0。",
+      "coverageNote": "已解析 1/1 个登记来源，0 条任职或方向待核。 已收录 11 位学者，个人主页 2、CV 2、指标 0。",
       "rosterLinks": [
         [
           "Pure Mathematics Faculty Members",
@@ -2135,7 +2135,7 @@
     {
       "id": "padua",
       "coverage": "sample",
-      "coverageNote": "已解析 2/5 个登记来源，18 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 1、指标 0。 已用数学系现任个人档案确认部分代数几何组成员的职级。其他研究组和只有旧主页的任职仍待核。",
+      "coverageNote": "已解析 2/5 个登记来源，18 条任职或方向待核。 已收录 3 位学者，个人主页 3、CV 2、指标 0。 已用数学系现任个人档案确认部分代数几何组成员的职级。其他研究组和只有旧主页的任职仍待核。",
       "rosterLinks": [
         [
           "Area :: Dipartimento di Matematica “Tullio Levi-Civita”",
@@ -2247,7 +2247,7 @@
     {
       "id": "science-tokyo",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，7 条任职或方向待核。 已收录 6 位学者，个人主页 2、CV 0、指标 0。 已提取数学系英文名册中的代数、几何、分析，以及其他系所关联成员。职级只在含义明确时用于入库。日文名册及跨系人员的最新任职仍待核。",
+      "coverageNote": "已解析 2/6 个登记来源，5 条任职或方向待核。 已收录 13 位学者，个人主页 5、CV 0、指标 0。 对照理学院数学系英日名单、日文研究生导师 28 人任职，英文 A 与日文助教校对 5 人，并补证黎曼曲面和微分几何两位具名专长。核对计算科学系导师的交叉任职，后续检查其他跨院研究组。 日文页附录另列 5 位学术研究员和 9 位特别研究员，逐名转录，并已登记需继续核实的方向。",
       "rosterLinks": [
         [
           "理学院数学系教师名录",
@@ -2256,9 +2256,25 @@
         [
           "数学系教員 スタッフ紹介",
           "https://www.math.sci.isct.ac.jp/en/page_03.html"
+        ],
+        [
+          "理学院数学系 · 日文职级及研究方向",
+          "https://www.math.sci.isct.ac.jp/page_03.html"
+        ],
+        [
+          "理学院数学系 · 2026 研究生导师名册",
+          "https://www.math.sci.isct.ac.jp/page_02.html"
+        ],
+        [
+          "数理与计算科学系 · 学术人员名册",
+          "https://educ.titech.ac.jp/is/eng/faculty/"
+        ],
+        [
+          "理学院数学系 · 学术研究员及特别研究员",
+          "https://www.math.sci.isct.ac.jp/page_03.html"
         ]
       ],
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "cuhk",
@@ -2323,7 +2339,7 @@
     {
       "id": "upenn",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，1 条任职或方向待核。 已收录 13 位学者，个人主页 12、CV 1、指标 0。",
+      "coverageNote": "已解析 1/2 个登记来源，0 条任职或方向待核。 已收录 13 位学者，个人主页 12、CV 1、指标 0。",
       "rosterLinks": [
         [
           "宾大数学系 Standing Faculty",
@@ -3247,7 +3263,7 @@
     {
       "id": "hu-berlin",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，2 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 0。 已读取代数几何组旧版名册作线索，并用现行个人主页复核一位现任教授。旧条目和院系其他几何分组仍待对账。",
+      "coverageNote": "已解析 1/1 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 0。 已读取代数几何组旧版名册作线索，并用现行个人主页复核一位现任教授。旧条目和院系其他几何分组仍待对账。",
       "rosterLinks": [
         [
           "Algebraic Geometry group · older faculty archive",
@@ -4675,11 +4691,31 @@
     {
       "id": "osaka",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，2 条任职或方向待核。 已收录 14 位学者，个人主页 0、CV 0、指标 0。",
+      "coverageNote": "已解析 1/6 个登记来源，0 条任职或方向待核。 已收录 15 位学者，个人主页 0、CV 0、指标 1。 数学系英日名册与理学院按讲座分类交叉，补查基礎工学数理科学、信息科学纯粹及应用数学研究组，以及 MMDS 的联合人员分栏。复杂射影结构和应用 PDE 原方向空白已逐人补证。特任、荣休以及跨院人员继续对账。",
       "rosterLinks": [
+        [
+          "基礎工学 · 数理科学研究组",
+          "https://www.sigmath.es.osaka-u.ac.jp/under_graduate/laboratory.html"
+        ],
+        [
+          "信息科学 · 纯粹及应用数学研究组",
+          "https://math2.ist.osaka-u.ac.jp/course/"
+        ],
+        [
+          "理学研究科 · 数学教员、特任、研究员和荣休",
+          "https://xoanon.math.sci.osaka-u.ac.jp/staff.html"
+        ],
         [
           "数学系人员名录",
           "https://xoanon.math.sci.osaka-u.ac.jp/eng/staff.html"
+        ],
+        [
+          "MMDS · 联合数理与数据科学机构教师",
+          "https://www-mmds.sigmath.es.osaka-u.ac.jp/faculty/for_all_organizations_and_persons/en/index.html"
+        ],
+        [
+          "理学研究科 · 数学科日文分讲座任职",
+          "https://www.sci.osaka-u.ac.jp/ja/outline/researcher-list/"
         ]
       ],
       "checkedAt": "2026-11-23"
@@ -5091,18 +5127,50 @@
     {
       "id": "waseda",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，1 条任职或方向待核。 已收录 5 位学者，个人主页 4、CV 1、指标 0。 已解析基干理工学部数学科日文现任教员名录，比较英文名册。应用数理、跨中心任职及未明确的几何细分方向仍待核。",
+      "coverageNote": "已解析 5/10 个登记来源，9 条任职或方向待核。 已收录 8 位学者，个人主页 6、CV 1、指标 0。 核对数学系日文页，补录数学应用数理研究科 60 条、数学教育系 14 条、应用数理 13 条及数物科学拠点现任与荣休 19 条。教授组名与个人专长分开。联合研究点的访问、研究员工和各个交叉人员专长继续核对。",
       "rosterLinks": [
+        [
+          "基幹理工学部 · 应用数理学科",
+          "https://www.apmath.sci.waseda.ac.jp/en/staff/"
+        ],
+        [
+          "教育学部 · 数学教室専任教員",
+          "https://prj-edu-math.w.waseda.jp/professors.html"
+        ],
+        [
+          "基幹理工学部与研究科 · 全单位教员入口",
+          "https://www.fse.sci.waseda.ac.jp/dept/faculty/"
+        ],
         [
           "早稲田大学基幹理工学部 数学科 教員紹介",
           "https://www.math.sci.waseda.ac.jp/math/dpmstaff/"
         ],
         [
+          "基幹理工学研究科 · 数学及应用数理教员",
+          "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/"
+        ],
+        [
           "数学系或所属学院人员入口",
           "https://www.math.sci.waseda.ac.jp/math/e-members/"
+        ],
+        [
+          "数物科学拠点联合任职",
+          "https://www.waseda.jp/fsci/mathphys/member/ja"
+        ],
+        [
+          "数物科学研究员",
+          "https://www.waseda.jp/fsci/mathphys/member/researcher"
+        ],
+        [
+          "数物科学访学教授",
+          "https://www.waseda.jp/fsci/mathphys/member/visitingprofessor"
+        ],
+        [
+          "数物系科学拠点 · 教员",
+          "https://www.waseda.jp/fsci/mathphys/member/professor"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "xjtu",
@@ -22565,7 +22633,7 @@
         "PDE, mathematical analysis, geometry, and mathematical physics"
       ],
       "homepage": null,
-      "homepageStatus": null,
+      "homepageStatus": "院系链接到本人 Google Sites，公开访问重定向至登录。已保留有独立研究简介的 Monash Research 链接。",
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "本人 Google Sites 要求登录，院系和科研门户公开资料未见完整 CV。",
@@ -25588,6 +25656,79 @@
       "recordStatus": "directory"
     },
     {
+      "id": "baba-shinpei",
+      "name": "BABA, Shinpei",
+      "aliases": [
+        "Shinpei Baba",
+        "馬場 伸平"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "osaka",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://rd.iai.osaka-u.ac.jp/en/deb28fc88b8da80f.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometry and Topology"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://rd.iai.osaka-u.ac.jp/en/deb28fc88b8da80f.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5065261489",
+          "orcid": null,
+          "url": "https://openalex.org/authors/A5065261489",
+          "authorApiUrl": "https://api.openalex.org/authors/A5065261489",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5065261489,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 7,
+          "works": 10,
+          "citations": 63,
+          "hIndex": 5,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Neck-Pinching of CP¹-structures in the PSL(2,C)-character variety",
+          "url": "https://doi.org/10.48550/arXiv.1907.00092"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Geometry and Topology",
+          "url": "https://xoanon.math.sci.osaka-u.ac.jp/eng/staff.html"
+        },
+        {
+          "text": "Complex projective structures on surfaces, geometric structures, Teichmüller theory and hyperbolic geometry",
+          "url": "https://www.sci.osaka-u.ac.jp/ja/wp-content/uploads/2020/08/01_Mathematics_EN_2024_2025.pdf"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://rd.iai.osaka-u.ac.jp/en/deb28fc88b8da80f.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "fujita-kento",
       "name": "FUJITA, Kento",
       "aliases": [],
@@ -26820,6 +26961,55 @@
         }
       ],
       "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "remke-nanne-kloosterman",
+      "name": "Remke Nanne Kloosterman",
+      "aliases": [
+        "Remke Kloosterman"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "padua",
+          "department": "数学系",
+          "title": "Professore Associato",
+          "url": "https://www.math.unipd.it/en/department/people/remke_nanne.kloosterman/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "complex"
+      ],
+      "tags": [
+        "(Elliptic surfaces and elliptic fibrations",
+        "Noether-Lefschetz theory",
+        "Singularity theory)"
+      ],
+      "homepage": "https://www.math.unipd.it/~klooster/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.unipd.it/data/cv/cv-en/6ED89B3A3A362120C986CCC92035A9A2.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.unipd.it/~klooster/publications.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "(Elliptic surfaces and elliptic fibrations; Noether-Lefschetz theory; Singularity theory)",
+          "url": "https://www.math.unipd.it/en//research/research-areas/sub-area/research-area/17/"
+        },
+        {
+          "text": "Algebraic and complex geometry, elliptic surfaces and fibrations, Hodge loci and singularities",
+          "url": "https://www.math.unipd.it/en/department/people/remke_nanne.kloosterman/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -32314,6 +32504,102 @@
       "recordStatus": "directory"
     },
     {
+      "id": "ege-fujikawa",
+      "name": "Ege Fujikawa",
+      "aliases": [
+        "藤川 英華"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "science-tokyo",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.math.sci.isct.ac.jp/page_03.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [
+        "Complex analysis"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Complex analysis",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html"
+        },
+        {
+          "text": "Complex geometry of Riemann surfaces, Teichmüller spaces and hyperbolic geometry",
+          "url": "https://www.math.sci.isct.ac.jp/files/math_pamph2025.pdf"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "hiroshi-tsuji",
+      "name": "Hiroshi Tsuji",
+      "aliases": [
+        "辻 寛"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "science-tokyo",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://strdb.s.isct.ac.jp/html/100004592_en.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometric analysis",
+        "Geometric analysis, convex geometry and functional analysis"
+      ],
+      "homepage": "https://sites.google.com/view/tsujihiroshi-japanese",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometric analysis",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html"
+        },
+        {
+          "text": "Geometric analysis, convex geometry and functional analysis",
+          "url": "https://strdb.s.isct.ac.jp/html/100004592_en.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "masaaki-umehara",
       "name": "Masaaki Umehara",
       "aliases": [],
@@ -32357,7 +32643,9 @@
     {
       "id": "nobuhiro-honda",
       "name": "Nobuhiro Honda",
-      "aliases": [],
+      "aliases": [
+        "本多 宣博"
+      ],
       "affiliations": [
         {
           "schoolId": "science-tokyo",
@@ -32365,7 +32653,7 @@
           "title": "Professor",
           "url": "https://www.math.sci.isct.ac.jp/en/page_03.html",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -32394,10 +32682,10 @@
         },
         {
           "text": "Complex geometry of twistor spaces, differential geometry of 4-manifolds and hyperkähler geometry",
-          "url": "https://www.honda.math.sci.titech.ac.jp/index-en.html"
+          "url": "https://www.math.sci.isct.ac.jp/page_02.html"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -32483,6 +32771,53 @@
       "recordStatus": "directory"
     },
     {
+      "id": "shou-yoshikawa",
+      "name": "Shou Yoshikawa",
+      "aliases": [
+        "吉川 翔"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "science-tokyo",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://www.math.sci.isct.ac.jp/page_03.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html"
+        },
+        {
+          "text": "Algebraic geometry",
+          "url": "https://www.math.sci.isct.ac.jp/page_03.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "tadashi-ochiai",
       "name": "Tadashi Ochiai",
       "aliases": [],
@@ -32524,6 +32859,149 @@
       "recordStatus": "directory"
     },
     {
+      "id": "takeshi-kawachi",
+      "name": "Takeshi Kawachi",
+      "aliases": [
+        "川地 武"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "science-tokyo",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://strdb.s.isct.ac.jp/html/100001294_en.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry",
+        "Algebraic geometry, algebraic surfaces and linear systems"
+      ],
+      "homepage": null,
+      "homepageStatus": "已查校级研究档案和数学系官网所列个人页。旧个人路径无法核实公开可访问。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html"
+        },
+        {
+          "text": "Algebraic geometry, algebraic surfaces and linear systems",
+          "url": "https://strdb.s.isct.ac.jp/html/100001294_en.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "tatsuhiro-minagawa",
+      "name": "Tatsuhiro Minagawa",
+      "aliases": [
+        "皆川 龍博"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "science-tokyo",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://www.math.sci.isct.ac.jp/page_03.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html"
+        },
+        {
+          "text": "Algebraic geometry",
+          "url": "https://www.math.sci.isct.ac.jp/page_03.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "toshiaki-hattori",
+      "name": "Toshiaki Hattori",
+      "aliases": [
+        "服部 俊昭"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "science-tokyo",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.math.sci.isct.ac.jp/page_02.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometry",
+        "Differential geometry and Lie groups"
+      ],
+      "homepage": "https://www.math.titech.ac.jp/top/~hattori/hattori.html",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometry",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html"
+        },
+        {
+          "text": "Differential geometry and Lie groups",
+          "url": "https://www.math.sci.isct.ac.jp/page_02.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "yuri-yatagawa",
       "name": "Yuri Yatagawa",
       "aliases": [],
@@ -32562,6 +33040,54 @@
         }
       ],
       "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "yuto-yamamoto",
+      "name": "Yuto Yamamoto",
+      "aliases": [
+        "山本 悠登"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "science-tokyo",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://www.math.sci.isct.ac.jp/page_03.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Tropical geometry, non-archimedean geometry",
+        "Tropical geometry and non-Archimedean geometry"
+      ],
+      "homepage": "https://sites.google.com/view/yuto-yamamoto",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Tropical geometry, non-archimedean geometry",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html"
+        },
+        {
+          "text": "Tropical geometry and non-Archimedean geometry",
+          "url": "https://www.math.sci.isct.ac.jp/page_03.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -49147,6 +49673,77 @@
       "recordStatus": "directory"
     },
     {
+      "id": "takeshi-ikeda",
+      "name": "Takeshi Ikeda",
+      "aliases": [
+        "池田 岳"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "waseda",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://w-rdb.waseda.jp/html/100002003_en.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "幾何学・表現論・組合せ論",
+        "Geometry group"
+      ],
+      "homepage": "https://sites.google.com/view/takeshi-ikeda/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.xmath.ous.ac.jp/~ike/Research.html",
+      "publicationCounts": [
+        {
+          "value": 3,
+          "scope": "早稻田研究者 DB「Papers」分栏的机构登记计数",
+          "url": "https://w-rdb.waseda.jp/html/100002003_en.html",
+          "checkedAt": "2026-11-25"
+        },
+        {
+          "value": 26,
+          "scope": "早稻田研究者 DB 同页转引 Scopus 的 Paper Count，不同于机构 Papers 分栏",
+          "url": "https://w-rdb.waseda.jp/html/100002003_en.html",
+          "checkedAt": "2026-11-25",
+          "sourceDate": "2026-09-30"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "至少一个公开 DOI 在 OpenAlex 请求未返回作品。需按公开 ORCID、姓名与第二个唯一匹配代表作再消歧。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Factorial P- and Q-Schur functions represent equivariant quantum Schubert classes",
+          "url": "https://doi.org/10.18910/58871"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "幾何学・表現論・組合せ論",
+          "url": "https://www.math.sci.waseda.ac.jp/math/dpmstaff/"
+        },
+        {
+          "text": "Geometry group",
+          "url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/"
+        },
+        {
+          "text": "Algebraic geometry of flag varieties, Schubert calculus, Schur functions and representation theory",
+          "url": "https://w-rdb.waseda.jp/html/100002003_en.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "person-ae88e7b05e90",
       "name": "大仁田 義裕",
       "aliases": [
@@ -49159,13 +49756,15 @@
           "title": "Professor (non-tenure-track)",
           "url": "https://www.waseda.jp/fsci/mathphys/en/member/professor",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [
+        "Geometry group",
+        "微分幾何学、調和写像論",
         "Differential geometry and harmonic maps"
       ],
       "homepage": null,
@@ -49182,11 +49781,66 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Geometry group",
+          "url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/"
+        },
+        {
+          "text": "微分幾何学、調和写像論",
+          "url": "https://www.waseda.jp/fsci/mathphys/member/professor"
+        },
+        {
           "text": "Differential geometry and harmonic maps",
           "url": "https://www.waseda.jp/fsci/mathphys/en/member/professor"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-83ac392ee9ae",
+      "name": "川邊 大貴",
+      "aliases": [
+        "Daiki Kawabe"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "waseda",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://w-rdb.waseda.jp/html/100004686_ja.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry and number theory"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and number theory",
+          "url": "https://prj-edu-math.w.waseda.jp/professors.html"
+        },
+        {
+          "text": "Algebraic geometry and number theory",
+          "url": "https://prj-edu-math.w.waseda.jp/professors.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -49202,7 +49856,7 @@
           "title": "教授",
           "url": "https://w-rdb.waseda.jp/html/100000441_en.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -49210,6 +49864,7 @@
       ],
       "tags": [
         "幾何学",
+        "Geometry group",
         "Differential geometry and geometric analysis"
       ],
       "homepage": "https://yhomma.w.waseda.jp/",
@@ -49230,11 +49885,67 @@
           "url": "https://www.math.sci.waseda.ac.jp/math/dpmstaff/"
         },
         {
+          "text": "Geometry group",
+          "url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/"
+        },
+        {
           "text": "Differential geometry and geometric analysis",
           "url": "https://w-rdb.waseda.jp/html/100000441_en.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-d43ef3f484da",
+      "name": "松崎 克彦",
+      "aliases": [
+        "Katsuhiko Matsuzaki"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "waseda",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://w-rdb.waseda.jp/html/100001055_ja.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Hyperbolic geometry and complex analysis",
+        "Geometry group"
+      ],
+      "homepage": "https://matsuzak.w.waseda.jp/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Hyperbolic geometry and complex analysis",
+          "url": "https://prj-edu-math.w.waseda.jp/professors.html"
+        },
+        {
+          "text": "Geometry group",
+          "url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/"
+        },
+        {
+          "text": "Hyperbolic geometry and complex analysis",
+          "url": "https://prj-edu-math.w.waseda.jp/professors.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -49250,14 +49961,15 @@
           "title": "教授",
           "url": "https://www.math.sci.waseda.ac.jp/math/dpmstaff/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [
-        "代数幾何学"
+        "代数幾何学",
+        "Algebra"
       ],
       "homepage": "https://kaji.w.waseda.jp/",
       "homepageStatus": null,
@@ -49277,11 +49989,15 @@
           "url": "https://www.math.sci.waseda.ac.jp/math/dpmstaff/"
         },
         {
+          "text": "Algebra",
+          "url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/"
+        },
+        {
           "text": "Algebraic Geometry I am interested in projective geometry of algebraic varieties: recently I am making researches on Gauss maps of projective varieties in positive characteristic as well as on secant varieties of projective varieties, especially, homogeneous projective varieties (that is, projective varieties on which some complex algebraic groups act transitively). Keywords: projective variety, Gauss map, conormal variety, projective dual, secant variety, graded Lie algebra, triple system, ...",
           "url": "https://kaji.w.waseda.jp/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -49297,14 +50013,15 @@
           "title": "教授",
           "url": "https://www.math.sci.waseda.ac.jp/math/dpmstaff/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [
-        "代数幾何学"
+        "代数幾何学",
+        "Algebra"
       ],
       "homepage": "https://nagai-y.w.waseda.jp/",
       "homepageStatus": null,
@@ -49322,9 +50039,13 @@
         {
           "text": "代数幾何学",
           "url": "https://www.math.sci.waseda.ac.jp/math/dpmstaff/"
+        },
+        {
+          "text": "Algebra",
+          "url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -49340,14 +50061,15 @@
           "title": "教授",
           "url": "https://www.math.sci.waseda.ac.jp/math/dpmstaff/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "complex"
       ],
       "tags": [
-        "複素幾何学・シンプレクティック幾何学"
+        "複素幾何学・シンプレクティック幾何学",
+        "Geometry group"
       ],
       "homepage": "https://sites.google.com/view/akanazawa",
       "homepageStatus": null,
@@ -49365,9 +50087,13 @@
         {
           "text": "複素幾何学・シンプレクティック幾何学",
           "url": "https://www.math.sci.waseda.ac.jp/math/dpmstaff/"
+        },
+        {
+          "text": "Geometry group",
+          "url": "https://www.math.sci.waseda.ac.jp/math/gsdpstaff/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -49933,6 +50659,62 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "doug-park",
+      "name": "Doug Park",
+      "aliases": [
+        "B. Doug Park"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "waterloo",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://uwaterloo.ca/pure-mathematics/contacts/doug-park",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometric topology, symplectic geometry"
+      ],
+      "homepage": "https://www.math.uwaterloo.ca/~bdpark/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "Waterloo 个人页列学位与研究简介，已查院系名册及公开个人页，未发现独立的 CV 文件。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "至少一个公开 DOI 在 OpenAlex 请求未返回作品。需按公开 ORCID、姓名与第二个唯一匹配代表作再消歧。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Irreducibility and knot surgery",
+          "url": "https://doi.org/10.1112/blms/bdu013"
+        },
+        {
+          "title": "Slope inequalities for the geography problem of nonspin symplectic 4-manifolds",
+          "url": "https://doi.org/10.1016/j.topol.2023.108813"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Geometric topology, symplectic geometry",
+          "url": "https://uwaterloo.ca/pure-mathematics/department-members/faculty-members"
+        },
+        {
+          "text": "Symplectic geometry, four-manifold topology, gauge theory and orbifolds",
+          "url": "https://uwaterloo.ca/pure-mathematics/contacts/doug-park"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
