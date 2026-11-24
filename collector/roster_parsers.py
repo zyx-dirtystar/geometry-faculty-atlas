@@ -1647,6 +1647,14 @@ def profile_fields(document, base):
     official_title = ""
     official_name = ""
     target = urlparse(base)
+    qmul_profile = (target.hostname == "www.qmul.ac.uk"
+                    and re.fullmatch(r"/maths/profiles/[^/]+\.html", target.path))
+    centre_profile = (target.hostname == "www.seresearch.qmul.ac.uk"
+                      and re.fullmatch(r"/(?:ccant|cgag)/people/[^/]+/?", target.path))
+    if centre_profile:
+        keywords = text_at(main, ".//div[@id='research']/p[" + class_token("keyicon") + "]")
+        if keywords:
+            research.append(keywords)
     if target.hostname == "math.nyu.edu" and re.fullmatch(r"/people/profiles/[^/]+\.html", target.path):
         headings = main.xpath(".//h1[normalize-space(.) != 'Faculty Profile']")
         titles = main.xpath(f".//div[{class_token('title')}]")
@@ -1715,6 +1723,20 @@ def profile_fields(document, base):
         text = contents(paragraph)
         if len(text) <= 450 and re.match(r"^(?:my research (?:interests|focus|is in|deals)|research interests\s*[:：]|我(?:的)?主要研究方向|研究方向\s*[:：])", text, re.I):
             research.append(text)
+    if qmul_profile:
+        research = [value for value in research if not re.match(
+            r"^(?:see .+?['’]?s? research profile pages?\b|my research interests are:?$)",
+            value, re.I,
+        )]
+        overview = main.xpath(".//div[@id='second']//p")
+        for paragraph in overview:
+            value = contents(paragraph)
+            if 20 <= len(value) <= 600 and re.search(
+                r"research (?:is in|focus(?:es|ed)?|interests? (?:are|lie)|involves|covers|spans)|"
+                r"\b(?:I (?:work|study|specialise|specialize) in|I am interested in)\b",
+                value, re.I,
+            ):
+                research.append(value)
     homepage = cv = bibliography = ""
     orcids = set()
     for label, url in urls(main, base):
@@ -1726,7 +1748,8 @@ def profile_fields(document, base):
         if (not cv and not re.search(r"/faq(?:\.php|/|$)", urlparse(url).path, re.I)
                 and re.search(r"^(?:(?:view|download|my|short|brief|latest|full|pdf) )*(?:(?:curriculum|cv|vita|lebenslauf|résumé|resume)\b|(?:个人|学术)?简历|履歴書|略歴)", low)):
             cv = url
-        if not bibliography and low in {"publications","papers","research papers","publications and preprints","research publications","preprints and publications","发表论文","学术成果","研究成果","publikationen","publicações","publicaciones","論文"}:
+        if (not bibliography and not (centre_profile and urlparse(url).path in {"/ccant/publications/", "/cgag/publications/"})
+                and low in {"publications","papers","research papers","publications and preprints","research publications","preprints and publications","发表论文","学术成果","研究成果","publikationen","publicações","publicaciones","論文"}):
             bibliography = url
         if host in {"orcid.org", "www.orcid.org"}:
             identifier = urlparse(url).path.strip("/")

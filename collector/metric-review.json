@@ -125,7 +125,9 @@
     "park-eui-sung": "A5091866605",
     "yang-seong-deog": "A5110966248",
     "cheol-hyun-cho": "A5113530074",
-    "yong-geun-oh": "A5102862770"
+    "yong-geun-oh": "A5102862770",
+    "navid-nabijou": "A5078051745",
+    "arick-shao": "A5065514181"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -186,7 +188,8 @@
     "mikhail-v-bondarko": "已核 ORCID、Math-Net 与两篇具名代表作。代表作在 OpenAlex 指向不同作者档案，累计总数暂缺。",
     "hubert-bray": "Duke 校级成果库确认两篇代表作，两篇 DOI 在 OpenAlex 对应不同作者档案，论文总数及累计引用暂缺。",
     "qirui-li": "本人发表列表及 Cambridge 出版方核实两篇代表作。OpenAlex 分属不同作者档案，累计数字暂缺。",
-    "changho-han": "出版方与学者主页可确认两篇具名论文。OpenAlex 将这些作品分入两个作者档案，整合前无法引用累计总数。"
+    "changho-han": "出版方与学者主页可确认两篇具名论文。OpenAlex 将这些作品分入两个作者档案，整合前无法引用累计总数。",
+    "sungyoon-cho": "OpenAlex ORCID 命中且可识别一篇算术几何代表作，但同一档案的高引条目合并了半导体光刻和无线通信的同名论文。无法使用累计论文数和引用数。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -309,6 +312,8 @@
     "park-eui-sung": "交叉核对官方任职、两篇具名 DOI、曾任机构与高引成果。涉及跨领域成果，另对照出版方或学校成果库。",
     "yang-seong-deog": "交叉核对官方任职、两篇具名 DOI、曾任机构与高引成果。涉及跨领域成果，另对照出版方或学校成果库。",
     "cheol-hyun-cho": "交叉核对官方任职、两篇具名 DOI、曾任机构与高引成果。涉及跨领域成果，另对照出版方或学校成果库。",
-    "yong-geun-oh": "交叉核对官方任职、两篇具名 DOI、曾任机构与高引成果。涉及跨领域成果，另对照出版方或学校成果库。"
+    "yong-geun-oh": "交叉核对官方任职、两篇具名 DOI、曾任机构与高引成果。涉及跨领域成果，另对照出版方或学校成果库。",
+    "navid-nabijou": "作者 ORCID、院系任职和出版方具名 DOI 一致；抽查五篇 OpenAlex 高引成果与学者个人研究及发表分栏一致。",
+    "arick-shao": "作者 ORCID、院系任职和出版方具名 DOI 一致；抽查五篇 OpenAlex 高引成果与学者个人研究及发表分栏一致。"
   }
 }

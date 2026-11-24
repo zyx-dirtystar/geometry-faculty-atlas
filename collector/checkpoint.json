@@ -2352,6 +2352,16 @@
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
+      "id": "jordan-math-dept-30",
+      "school": "jordan",
+      "url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+      "label": "Department of Mathematics · Academic Department Staff",
+      "status": "parsed",
+      "count": 54,
+      "checked_at": "2026-11-24",
+      "note": "理学院官网记录显示 2026-04-06 更新。提取学术分栏的 54 条名册，包括 2 名荣休、1 名荣誉教授。另列的 4 名行政人员不计入。"
+    },
+    {
       "id": "jordan-math-source",
       "school": "jordan",
       "url": "https://science.ju.edu.jo/Documents/CV/math/%D8%B4%D8%A7%D9%87%D8%B1%20%D9%85%D8%AD%D9%85%D9%80%D9%80%D9%80%D8%AF%20%D8%A7%D9%84%D9%85%D9%88%D9%85%D9%86%D9%8A.pdf",
@@ -4202,6 +4212,46 @@
       "note": ""
     },
     {
+      "id": "postech-algebra-30",
+      "school": "postech",
+      "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m06_02&sca=Algebra+%EF%BC%86+Number+Theory",
+      "label": "Department of Mathematics · Algebra and Number Theory",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "postech-brl-30",
+      "school": "postech",
+      "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m08_02&wr_id=33",
+      "label": "Arithmetic Geometry Lab · Department of Mathematics",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "postech-distinguished-30",
+      "school": "postech",
+      "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Distinguished+Visiting+Professors",
+      "label": "Faculty · Distinguished Visiting Professors（公开名单 0 人）",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "postech-emeritus-30",
+      "school": "postech",
+      "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Emeritus+Professor",
+      "label": "Faculty · Emeritus",
+      "status": "parsed",
+      "count": 14,
+      "checked_at": "2026-11-24",
+      "note": ""
+    },
+    {
       "id": "postech-geometry-30",
       "school": "postech",
       "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m06_02&sca=Geometry+%EF%BC%86+Topology",
@@ -4216,10 +4266,30 @@
       "school": "postech",
       "url": "https://cgp.ibs.re.kr/people/",
       "label": "IBS Center for Geometry and Physics · People",
-      "status": "reference",
-      "count": 0,
+      "status": "parsed",
+      "count": 20,
       "checked_at": "2026-11-24",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "20 人，来自设于 POSTECH 校园的独立 IBS 研究中心。两位负责人明确双聘；其余保持 IBS 职衔。"
+    },
+    {
+      "id": "postech-instructors-30",
+      "school": "postech",
+      "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_04",
+      "label": "Department of Mathematics · Instructors",
+      "status": "parsed",
+      "count": 4,
+      "checked_at": "2026-11-24",
+      "note": "4 人同时见于数学系博士后名册，保留两项任职来源。"
+    },
+    {
+      "id": "postech-ja-30",
+      "school": "postech",
+      "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=JA%2C+Adjunct+Professor",
+      "label": "Faculty · Joint and Adjunct Appointments",
+      "status": "parsed",
+      "count": 1,
+      "checked_at": "2026-11-24",
+      "note": ""
     },
     {
       "id": "postech-math-source",
@@ -4240,6 +4310,76 @@
       "count": 0,
       "checked_at": "2026-11-24",
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "postech-pmi-associates-30",
+      "school": "postech",
+      "url": "https://pmi.postech.ac.kr/PMI/bbs/associate-members.do",
+      "label": "Pohang Mathematics Institute · Associate Members（21 条外部联属）",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "postech-pmi-members-30",
+      "school": "postech",
+      "url": "https://pmi.postech.ac.kr/PMI/mem/members.do",
+      "label": "Pohang Mathematics Institute · Research Members",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "postech-pmi-postdocs-30",
+      "school": "postech",
+      "url": "https://pmi.postech.ac.kr/PMI/mem/postdoctoral-fellows.do",
+      "label": "Pohang Mathematics Institute · Postdoctoral Fellows（当前公开页无具名条目）",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "postech-pmi-profs-30",
+      "school": "postech",
+      "url": "https://pmi.postech.ac.kr/PMI/mem/professors001.do",
+      "label": "Pohang Mathematics Institute · Professor",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "postech-postdocs-30",
+      "school": "postech",
+      "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03",
+      "label": "Department of Mathematics · Postdoctoral Fellows",
+      "status": "parsed",
+      "count": 16,
+      "checked_at": "2026-11-24",
+      "note": ""
+    },
+    {
+      "id": "postech-research-roles-30",
+      "school": "postech",
+      "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Collegiate%2C+Research+Professor",
+      "label": "Faculty · Collegiate and Research Positions",
+      "status": "parsed",
+      "count": 6,
+      "checked_at": "2026-11-24",
+      "note": ""
+    },
+    {
+      "id": "postech-visiting-30",
+      "school": "postech",
+      "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Visiting+Professor",
+      "label": "Faculty · Visiting",
+      "status": "parsed",
+      "count": 1,
+      "checked_at": "2026-11-24",
+      "note": ""
     },
     {
       "id": "prince-sattam-math",
@@ -4536,10 +4676,10 @@
       "school": "qmul",
       "url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
       "label": "Centre for Combinatorics, Algebra and Number Theory · Academics",
-      "status": "reference",
-      "count": 0,
+      "status": "parsed",
+      "count": 18,
       "checked_at": "2026-11-24",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": ""
     },
     {
       "id": "qmul-ccant-alg-30",
@@ -4556,10 +4696,10 @@
       "school": "qmul",
       "url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
       "label": "Centre for Geometry, Analysis and Gravitation · Academics",
-      "status": "reference",
-      "count": 0,
+      "status": "parsed",
+      "count": 17,
       "checked_at": "2026-11-24",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": ""
     },
     {
       "id": "qmul-qs-roster",
@@ -68958,6 +69098,870 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "abdallaatallafha",
+      "school": "jordan",
+      "record": {
+        "name": "Abdalla A. Tallafha",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=17&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "abdelrahmanyousef",
+      "school": "jordan",
+      "record": {
+        "name": "Abdelrahman Yousef",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=147&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "abdulmajidnusayr",
+      "school": "jordan",
+      "record": {
+        "name": "Abdulmajid Nusayr",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=199&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "adnanafram",
+      "school": "jordan",
+      "record": {
+        "name": "Adnan Afram",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=192&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "adnanmawad",
+      "school": "jordan",
+      "record": {
+        "name": "Adnan M. Awad",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=5&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "ahmadaalzghoul",
+      "school": "jordan",
+      "record": {
+        "name": "Ahmad A. Al-Zghoul",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=24&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "ahmadsaidan",
+      "school": "jordan",
+      "record": {
+        "name": "Ahmad Sa'idan",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=196&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "ahmeddalawneh",
+      "school": "jordan",
+      "record": {
+        "name": "Ahmed D. Alawneh",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=12&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "ahmedyabdallah",
+      "school": "jordan",
+      "record": {
+        "name": "Ahmed Y. Abdallah",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=19&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "amalmhelu",
+      "school": "jordan",
+      "record": {
+        "name": "Amal M. Helu",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=27&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "asmaahabees",
+      "school": "jordan",
+      "record": {
+        "name": "Asmaa Habees",
+        "title": "Teacher",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=160&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "ayataababneh",
+      "school": "jordan",
+      "record": {
+        "name": "Ayat A. Ababneh",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=222&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "bahamalzalg",
+      "school": "jordan",
+      "record": {
+        "name": "Baha M. Alzalg",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=148&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "bananmaayah",
+      "school": "jordan",
+      "record": {
+        "name": "Banan Maayah",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=158&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "deebhussein",
+      "school": "jordan",
+      "record": {
+        "name": "Deeb Hussein",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=203&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "emadaabuosba",
+      "school": "jordan",
+      "record": {
+        "name": "Emad A. Abuosba",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=22&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "emanaldabbas",
+      "school": "jordan",
+      "record": {
+        "name": "Eman Aldabbas",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=168&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "ferasyousef",
+      "school": "jordan",
+      "record": {
+        "name": "Feras Yousef",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=181&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "fuadakittaneh",
+      "school": "jordan",
+      "record": {
+        "name": "Fuad A. Kittaneh",
+        "title": "Emeritus Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=9&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "ghazihamzeh",
+      "school": "jordan",
+      "record": {
+        "name": "Ghazi Hamzeh",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=195&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "harounrabadi",
+      "school": "jordan",
+      "record": {
+        "name": "Haroun Rabadi",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=194&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "hasanhalnajjar",
+      "school": "jordan",
+      "record": {
+        "name": "Hasan H. Alnajjar",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=26&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "hasanmalezeh",
+      "school": "jordan",
+      "record": {
+        "name": "Hasan M. Al-Ezeh",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=7&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "hasanyousef",
+      "school": "jordan",
+      "record": {
+        "name": "Hasan Yousef",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=200&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "hasanzhdeib",
+      "school": "jordan",
+      "record": {
+        "name": "Hasan Z. Hdeib",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=8&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "hishammhilow",
+      "school": "jordan",
+      "record": {
+        "name": "Hisham M. Hilow",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=16&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "imanaldarawi",
+      "school": "jordan",
+      "record": {
+        "name": "Iman Al-Darawi",
+        "title": "Teacher",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=217&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "irynavkomashynska",
+      "school": "jordan",
+      "record": {
+        "name": "Iryna V. Komashynska",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=25&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "israaalshbeil",
+      "school": "jordan",
+      "record": {
+        "name": "Israa AL-Shbeil",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=218&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "khalidbdarneh",
+      "school": "jordan",
+      "record": {
+        "name": "Khalid Bdarneh",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=226&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "maaleealmheidat",
+      "school": "jordan",
+      "record": {
+        "name": "Maalee AlMheidat",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=246&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "mahmoudkutkut",
+      "school": "jordan",
+      "record": {
+        "name": "Mahmoud Kutkut",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=202&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "majdmmhailan",
+      "school": "jordan",
+      "record": {
+        "name": "Majd M. Mhailan",
+        "title": "Teacher",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=28&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "manalghanem",
+      "school": "jordan",
+      "record": {
+        "name": "Manal Ghanem",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=157&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "mohammadzraqab",
+      "school": "jordan",
+      "record": {
+        "name": "Mohammad Z. Raqab",
+        "title": "Honorary Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=14&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "mohammedarafatalnatsheh",
+      "school": "jordan",
+      "record": {
+        "name": "Mohammed ِArafat Alnatsheh",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=193&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "mohammedhalhorani",
+      "school": "jordan",
+      "record": {
+        "name": "Mohammed H. Al Horani",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=20&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "mohammedhamdan",
+      "school": "jordan",
+      "record": {
+        "name": "Mohammed Hamdan",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=191&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "mohammedmunthersalah",
+      "school": "jordan",
+      "record": {
+        "name": "Mohammed Munther Salah",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=197&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "monamsakkijha",
+      "school": "jordan",
+      "record": {
+        "name": "Mona M. Sakkijha",
+        "title": "Teacher",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=29&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "moradahmad",
+      "school": "jordan",
+      "record": {
+        "name": "Morad Ahmad",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=183&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "mufidmazzam",
+      "school": "jordan",
+      "record": {
+        "name": "Mufid M. Azzam",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=10&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "muhammadfuadabualrub",
+      "school": "jordan",
+      "record": {
+        "name": "Muhammad Fuad AbuAlrub",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=204&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "nabiltshawagfeh",
+      "school": "jordan",
+      "record": {
+        "name": "Nabil T. Shawagfeh",
+        "title": "Emeritus Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=11&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "nafizdabujaradeh",
+      "school": "jordan",
+      "record": {
+        "name": "Nafiz D. Abu-Jaradeh",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=18&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "omaraabughneim",
+      "school": "jordan",
+      "record": {
+        "name": "Omar A. Abu Ghneim",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=23&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "osamakalkam",
+      "school": "jordan",
+      "record": {
+        "name": "Osama K. Alkam",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=21&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "roshdirkhalil",
+      "school": "jordan",
+      "record": {
+        "name": "Roshdi R. Khalil",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=13&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "sajahayajneh",
+      "school": "jordan",
+      "record": {
+        "name": "Saja Hayajneh",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=159&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "salamalnabulsi",
+      "school": "jordan",
+      "record": {
+        "name": "Salam Alnabulsi",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=205&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "shahermmomani",
+      "school": "jordan",
+      "record": {
+        "name": "Shaher M. Momani",
+        "title": "Distinguished Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=32&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "shakernazzal",
+      "school": "jordan",
+      "record": {
+        "name": "Shaker Nazzal",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=201&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "taysirmnour",
+      "school": "jordan",
+      "record": {
+        "name": "Taysir M. Nour",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=15&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-math-dept-30",
+      "person_key": "waelamin",
+      "school": "jordan",
+      "record": {
+        "name": "Wael Amin",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/DispDept_Staff.aspx?ID=198&dept=Mathematics&deptName=Mathematics",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
         "checked_at": "2026-11-24"
       }
     },
@@ -154536,6 +155540,630 @@
       }
     },
     {
+      "source": "postech-emeritus-30",
+      "person_key": "byunggyunkang",
+      "school": "postech",
+      "record": {
+        "name": "Byung Gyun Kang",
+        "title": "Professor Emeritus",
+        "research": "Commutative Algebra: Mulitiplicative Ideal Theory",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=31&sca=Emeritus+Professor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Emeritus+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-emeritus-30",
+      "person_key": "chungnimlee",
+      "school": "postech",
+      "record": {
+        "name": "Chung Nim Lee",
+        "title": "Professor Emeritus",
+        "research": "Computer Vision | Topology",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=40&sca=Emeritus+Professor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Emeritus+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-emeritus-30",
+      "person_key": "hyunkwangkim",
+      "school": "postech",
+      "record": {
+        "name": "Hyun Kwang Kim",
+        "title": "Professor Emeritus",
+        "research": "Algebraic Number Theory | Additive Number Theory | Coding Theory",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=37&sca=Emeritus+Professor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Emeritus+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-emeritus-30",
+      "person_key": "jaeryongkweon",
+      "school": "postech",
+      "record": {
+        "name": "Jae Ryong Kweon",
+        "title": "Professor Emeritus",
+        "research": "Numerical Analysis | Partial Differential Equations | Fluid Mechanics",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=22&sca=Emeritus+Professor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Emeritus+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-emeritus-30",
+      "person_key": "jinhokwak",
+      "school": "postech",
+      "record": {
+        "name": "Jin Ho Kwak",
+        "title": "Professor Emeritus",
+        "research": "Topology",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=32&sca=Emeritus+Professor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Emeritus+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-emeritus-30",
+      "person_key": "jonggukbak",
+      "school": "postech",
+      "record": {
+        "name": "Jong-Guk Bak",
+        "title": "Professor Emeritus",
+        "research": "Harmonic Analysis | Partial Differential Equations",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=38&sca=Emeritus+Professor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Emeritus+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-emeritus-30",
+      "person_key": "kangtaekim",
+      "school": "postech",
+      "record": {
+        "name": "Kang Tae Kim",
+        "title": "Professor Emeritus",
+        "research": "Complex Analysis of Several Variables | Complex Differential Geometry",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=35&sca=Emeritus+Professor",
+        "homepage": "http://sites.google.com/site/kangtaekim00/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Emeritus+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-emeritus-30",
+      "person_key": "kwangikkim",
+      "school": "postech",
+      "record": {
+        "name": "Kwang Ik Kim",
+        "title": "Professor Emeritus",
+        "research": "Applied mathematics",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=36&sca=Emeritus+Professor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Emeritus+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-emeritus-30",
+      "person_key": "kyungwhankwun",
+      "school": "postech",
+      "record": {
+        "name": "Kyung Whan Kwun",
+        "title": "Professor Emeritus",
+        "research": "Topology",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=33&sca=Emeritus+Professor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Emeritus+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-emeritus-30",
+      "person_key": "sungpyohong",
+      "school": "postech",
+      "record": {
+        "name": "Sung Pyo Hong",
+        "title": "Professor Emeritus",
+        "research": "Differential geometry",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=42&sca=Emeritus+Professor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Emeritus+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-emeritus-30",
+      "person_key": "sungsubchoi",
+      "school": "postech",
+      "record": {
+        "name": "Sungsub Choi",
+        "title": "Professor Emeritus",
+        "research": "Statistics | Mathematical Finance",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=41&sca=Emeritus+Professor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Emeritus+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-emeritus-30",
+      "person_key": "yonghoonkwon",
+      "school": "postech",
+      "record": {
+        "name": "Yonghoon Kwon",
+        "title": "Professor Emeritus",
+        "research": "Harmonic Analysis | Partial Differential Equations",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=34&sca=Emeritus+Professor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Emeritus+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-emeritus-30",
+      "person_key": "yongsunshim",
+      "school": "postech",
+      "record": {
+        "name": "Yongsun Shim",
+        "title": "Professor Emeritus",
+        "research": "Harmonic Analysis | PDE",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=39&sca=Emeritus+Professor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Emeritus+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-emeritus-30",
+      "person_key": "yunsungchoi",
+      "school": "postech",
+      "record": {
+        "name": "Yun Sung Choi",
+        "title": "Professor Emeritus",
+        "research": "Functional Analysis, Infinite Dimensional Functional Theory",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=3&sca=Emeritus+Professor",
+        "homepage": "http://yunsungchoipostech.wordpress.com",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Emeritus+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "alexanderaleksandrov",
+      "school": "postech",
+      "record": {
+        "name": "Alexander Aleksandrov",
+        "title": "IBS Fellow",
+        "research": "Mathematical physics, random matrix models, integrable systems, enumerative geometry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "danielbryan",
+      "school": "postech",
+      "record": {
+        "name": "Daniel Bryan",
+        "title": "IBS Research Fellow",
+        "research": "BPS quivers, Yangian algebras and twisted M-theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "dmytrovoloshyn",
+      "school": "postech",
+      "record": {
+        "name": "Dmytro Voloshyn",
+        "title": "IBS Research Fellow",
+        "research": "Cluster algebras, Poisson geometry and quantum groups",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "igorkrylov",
+      "school": "postech",
+      "record": {
+        "name": "Igor Krylov",
+        "title": "IBS Research Fellow",
+        "research": "Birational geometry, Cremona groups, birational rigidity and Mori fibre spaces",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "jaekwanjeon",
+      "school": "postech",
+      "record": {
+        "name": "Jaekwan Jeon",
+        "title": "IBS Research Fellow",
+        "research": "Deformations of rational surface singularities and symplectic geometry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "jaewonchang",
+      "school": "postech",
+      "record": {
+        "name": "Jaewon Chang",
+        "title": "IBS Research Fellow",
+        "research": "Symplectic geometry, Lagrangian Floer theory and mirror symmetry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "jihunpark",
+      "school": "postech",
+      "record": {
+        "name": "Jihun Park",
+        "title": "Professor · Joint IBS and POSTECH",
+        "research": "Algebraic geometry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "jihyeonlee",
+      "school": "postech",
+      "record": {
+        "name": "Jihyeon Lee",
+        "title": "IBS Research Fellow",
+        "research": "Differential geometry and geometric analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "jonghyeonahn",
+      "school": "postech",
+      "record": {
+        "name": "Jonghyeon Ahn",
+        "title": "IBS Research Fellow",
+        "research": "Symplectic geometry and Hamiltonian dynamics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "jorgevalcarcel",
+      "school": "postech",
+      "record": {
+        "name": "Jorge Valcarcel",
+        "title": "IBS Research Fellow",
+        "research": "Metric-affine geometry and mathematical gravity",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "jutan",
+      "school": "postech",
+      "record": {
+        "name": "Ju Tan",
+        "title": "IBS Research Fellow",
+        "research": "Algebraic geometry, symplectic geometry and mirror symmetry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "lucarizzi",
+      "school": "postech",
+      "record": {
+        "name": "Luca Rizzi",
+        "title": "IBS Research Fellow",
+        "research": "Complex algebraic geometry, deformations, Torelli-type problems and Hermitian metrics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "mykolapochekai",
+      "school": "postech",
+      "record": {
+        "name": "Mykola Pochekai",
+        "title": "IBS Research Fellow",
+        "research": "Mirror symmetry and Hodge theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "nortonlee",
+      "school": "postech",
+      "record": {
+        "name": "Norton Lee",
+        "title": "IBS Research Fellow",
+        "research": "Supersymmetry, integrable systems, quantum field theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "saebyeokjeong",
+      "school": "postech",
+      "record": {
+        "name": "Saebyeok Jeong",
+        "title": "IBS Junior Chief Investigator",
+        "research": "Mathematical physics, geometric representation theory, vertex algebras",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "sambardwellevans",
+      "school": "postech",
+      "record": {
+        "name": "Sam Bardwell-Evans",
+        "title": "IBS Research Fellow",
+        "research": "Symplectic geometry, pseudoholomorphic curves, moduli spaces and mirror symmetry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "seongjinlee",
+      "school": "postech",
+      "record": {
+        "name": "Seong Jin Lee",
+        "title": "IBS Research Fellow",
+        "research": "Quantum topology and applications of machine learning to low dimensional topology",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "sukjoolee",
+      "school": "postech",
+      "record": {
+        "name": "Sukjoo Lee",
+        "title": "IBS Research Fellow",
+        "research": "Mirror symmetry and Hodge theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "yanlungli",
+      "school": "postech",
+      "record": {
+        "name": "Yan-Lung Li",
+        "title": "IBS Research Fellow",
+        "research": "Symplectic geometry, Lagrangian Floer theory and mirror symmetry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ibs-30",
+      "person_key": "yonggeunoh",
+      "school": "postech",
+      "record": {
+        "name": "Yong-Geun Oh",
+        "title": "Professor · Joint IBS and POSTECH",
+        "research": "Symplectic topology, Hamiltonian dynamics and mirror symmetry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://cgp.ibs.re.kr/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-instructors-30",
+      "person_key": "leoharakeh",
+      "school": "postech",
+      "record": {
+        "name": "Leo Harakeh",
+        "title": "Instructor",
+        "research": "Spectral theory, sub-Riemannian geometry, variational methods and PDEs",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_04",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-instructors-30",
+      "person_key": "seungookyu",
+      "school": "postech",
+      "record": {
+        "name": "Seungook Yu",
+        "title": "Instructor",
+        "research": "Symplectic geometry and contact geometry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_04",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-instructors-30",
+      "person_key": "susanalopezmoreno",
+      "school": "postech",
+      "record": {
+        "name": "Susana Lopez-Moreno",
+        "title": "Instructor",
+        "research": "Tensor functions and mathematical machine learning",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_04",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-instructors-30",
+      "person_key": "zhemingxu",
+      "school": "postech",
+      "record": {
+        "name": "Zheming Xu",
+        "title": "Instructor",
+        "research": "Representation theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_04",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-ja-30",
+      "person_key": "seungkimin",
+      "school": "postech",
+      "record": {
+        "name": "Seung-Ki Min",
+        "title": "JA (Adjunct Professor)",
+        "research": "Meteorology",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=48&sca=JA%2C+Adjunct+Professor",
+        "homepage": "http://climatechange.postech.ac.kr/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=JA%2C+Adjunct+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
       "source": "postech-math-source",
       "person_key": "biaoma",
       "school": "postech",
@@ -154901,6 +156529,374 @@
         "source_kind": "department",
         "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "postech-postdocs-30",
+      "person_key": "aidanhowells",
+      "school": "postech",
+      "record": {
+        "name": "Aidan Howells",
+        "title": "Postdoctoral Fellow",
+        "research": "Mathematical Biology",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03&wr_id=32",
+        "homepage": "https://sites.google.com/view/aidan-howells/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-postdocs-30",
+      "person_key": "byeorhikim",
+      "school": "postech",
+      "record": {
+        "name": "ByeoRhi Kim",
+        "title": "Postdoctoral Fellow",
+        "research": "Low dimensional manifold theory",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03&wr_id=13",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-postdocs-30",
+      "person_key": "ercansoenmez",
+      "school": "postech",
+      "record": {
+        "name": "Ercan Soenmez",
+        "title": "Postdoctoral Fellow",
+        "research": "Stochastic differential equations | Random Graphs | Stochastic Biology",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03&wr_id=33",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-postdocs-30",
+      "person_key": "geuntaekseo",
+      "school": "postech",
+      "record": {
+        "name": "Geuntaek Seo",
+        "title": "Postdoctoral Fellow",
+        "research": "Wasserstein Gradient Flows | (Unbalanced) Optimal Transport | Computational Optimal Transport",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03&wr_id=25",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-postdocs-30",
+      "person_key": "hyunwoocho",
+      "school": "postech",
+      "record": {
+        "name": "Hyunwoo Cho",
+        "title": "Postdoctoral Fellow",
+        "research": "Scientific Machine Learning | Inverse Problems for Dynamical Systems",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03&wr_id=31",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-postdocs-30",
+      "person_key": "jinyoungkim",
+      "school": "postech",
+      "record": {
+        "name": "Jinyoung Kim",
+        "title": "Postdoctoral Fellow",
+        "research": "Mathematical Biology",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03&wr_id=40",
+        "homepage": "https://sites.google.com/view/jinyoung040626",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-postdocs-30",
+      "person_key": "jonginkim",
+      "school": "postech",
+      "record": {
+        "name": "Jongin Kim",
+        "title": "Postdoctoral Fellow",
+        "research": "Nonlinear Partial Differential Equations | Kinematics",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03&wr_id=39",
+        "homepage": "https://sites.google.com/view/jong-in-kim/%ED%99%88",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-postdocs-30",
+      "person_key": "kyoungmokim",
+      "school": "postech",
+      "record": {
+        "name": "Kyoungmo Kim",
+        "title": "Postdoctoral Fellow",
+        "research": "Symplectic Geometry and Topology (Lagrangian Floer Theory, Homological Mirror Symmetry) | Representation theory",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03&wr_id=35",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-postdocs-30",
+      "person_key": "leoharakeh",
+      "school": "postech",
+      "record": {
+        "name": "Leo Harakeh",
+        "title": "Postdoctoral Fellow",
+        "research": "Spectral Theory | Partial Differential Equations | Sub-Riemannian Geometry | Microlocal Analysis",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03&wr_id=34",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-postdocs-30",
+      "person_key": "seungookyu",
+      "school": "postech",
+      "record": {
+        "name": "Seungook Yu",
+        "title": "Postdoctoral Fellow",
+        "research": "Symplectic and contact geometry",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03&wr_id=29",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-postdocs-30",
+      "person_key": "sungbinpark",
+      "school": "postech",
+      "record": {
+        "name": "Sungbin Park",
+        "title": "Postdoctoral Fellow",
+        "research": "Nonlinear PDE, Kinetic theory",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03&wr_id=41",
+        "homepage": "https://sites.google.com/view/sungbinparkmath",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-postdocs-30",
+      "person_key": "susanalopezmoreno",
+      "school": "postech",
+      "record": {
+        "name": "Susana Lopez-Moreno",
+        "title": "Postdoctoral Fellow",
+        "research": "Tensor Functions | Tensor Decompositions | Mathematical Machine Learning",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03&wr_id=36",
+        "homepage": "https://sites.google.com/view/susanalopezmoreno/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-postdocs-30",
+      "person_key": "tranmailan",
+      "school": "postech",
+      "record": {
+        "name": "Tran Mai Lan",
+        "title": "Postdoctoral Fellow",
+        "research": "FEMs, FDMs, Hybrid Difference Methods, Convection-diffusion equations, Topological Data Analysis & Interface problems",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03&wr_id=12",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-postdocs-30",
+      "person_key": "wonjunchang",
+      "school": "postech",
+      "record": {
+        "name": "Wonjun Chang",
+        "title": "Postdoctoral Fellow",
+        "research": "Algebraic topology",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03&wr_id=17",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-postdocs-30",
+      "person_key": "yonggyuchoi",
+      "school": "postech",
+      "record": {
+        "name": "Yong-Gyu Choi",
+        "title": "Postdoctoral Fellow",
+        "research": "Moduli stacks of shtukas and their arithmetic | Geometric and categorical Langlands program | Formalization in proof assistants",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03&wr_id=38",
+        "homepage": "https://yonggyuchoimath.github.io",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-postdocs-30",
+      "person_key": "zhemingxu",
+      "school": "postech",
+      "record": {
+        "name": "Zheming Xu",
+        "title": "Postdoctoral Fellow",
+        "research": "Representation Theory",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03&wr_id=37",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_03",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-research-roles-30",
+      "person_key": "hyeongkwankim",
+      "school": "postech",
+      "record": {
+        "name": "Hyeongkwan Kim",
+        "title": "Collegiate Associate Professor",
+        "research": "Algebraic Geometry | Commutative algebra",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=50&sca=Collegiate%2C+Research+Professor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Collegiate%2C+Research+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-research-roles-30",
+      "person_key": "jaepillee",
+      "school": "postech",
+      "record": {
+        "name": "Jaepil Lee",
+        "title": "Collegiate Associate Professor",
+        "research": "low-dimensional topology",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=51&sca=Collegiate%2C+Research+Professor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Collegiate%2C+Research+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-research-roles-30",
+      "person_key": "jaeryongkweon",
+      "school": "postech",
+      "record": {
+        "name": "Jae Ryong Kweon",
+        "title": "Research Professor",
+        "research": "Numerical Analysis | Partial Differential Equations | Fluid Mechanics",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=67&sca=Collegiate%2C+Research+Professor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Collegiate%2C+Research+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-research-roles-30",
+      "person_key": "jiaxigu",
+      "school": "postech",
+      "record": {
+        "name": "Jiaxi, Gu",
+        "title": "Research Assistant Professor",
+        "research": "High Order Numerical Methods | Topological Data Analysis",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=54&sca=Collegiate%2C+Research+Professor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Collegiate%2C+Research+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-research-roles-30",
+      "person_key": "sungyooncho",
+      "school": "postech",
+      "record": {
+        "name": "Sungyoon Cho",
+        "title": "Research Assistant Professor",
+        "research": "Number theory | Shimura varieties | Arithmetic intersection theory",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=52&sca=Collegiate%2C+Research+Professor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Collegiate%2C+Research+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-research-roles-30",
+      "person_key": "younjinkim",
+      "school": "postech",
+      "record": {
+        "name": "Younjin Kim",
+        "title": "Collegiate Associate Professor",
+        "research": "Extremal Combinatorics Extremal set theory Extremal graph and hypergraph theory probabilistic and algebraic methods in combinatorics additive combinatorics",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=55&sca=Collegiate%2C+Research+Professor",
+        "homepage": "https://sites.google.com/site/younjinkimsite/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Collegiate%2C+Research+Professor",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "postech-visiting-30",
+      "person_key": "biaoma",
+      "school": "postech",
+      "record": {
+        "name": "Biao Ma",
+        "title": "Visiting Assistant Professor",
+        "research": "Differential Geometry | Geometric Analysis | Partial Differential Equations",
+        "profile": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=69&sca=Visiting+Professor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Visiting+Professor",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -161848,13 +163844,573 @@
       }
     },
     {
+      "source": "qmul-ccant-academics-30",
+      "person_key": "abhisheksaha",
+      "school": "qmul",
+      "record": {
+        "name": "Abhishek Saha",
+        "title": "Professor of Mathematics REF and Reputation Lead",
+        "research": "automorphic forms, number theory, Siegel modular forms, L-functions",
+        "profile": "https://www.seresearch.qmul.ac.uk/ccant/people/asaha/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-ccant-academics-30",
+      "person_key": "alexfink",
+      "school": "qmul",
+      "record": {
+        "name": "Alex Fink",
+        "title": "Professor in Pure Mathematics Head of The Centre for Combinatorics, Algebra and Number Theory",
+        "research": "matroids, tropical geometry, algebraic combinatorics, algebraic geometry",
+        "profile": "https://www.seresearch.qmul.ac.uk/ccant/people/afink/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-ccant-academics-30",
+      "person_key": "behrangnoohi",
+      "school": "qmul",
+      "record": {
+        "name": "Behrang Noohi",
+        "title": "Reader in Pure Mathematics",
+        "research": "Tbc",
+        "profile": "https://www.seresearch.qmul.ac.uk/ccant/people/bnoohi/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-ccant-academics-30",
+      "person_key": "dudleystark",
+      "school": "qmul",
+      "record": {
+        "name": "Dudley Stark",
+        "title": "Emeritus Reader in Mathematics and Probability",
+        "research": "Random combinatorial object, Random graph, Poisson approximation, Generating function, Asymptotic expansion, Graph theory",
+        "profile": "https://www.seresearch.qmul.ac.uk/ccant/people/dstark/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-ccant-academics-30",
+      "person_key": "federicoardila",
+      "school": "qmul",
+      "record": {
+        "name": "Federico Ardila",
+        "title": "Chair in Combinatorics",
+        "research": "combinatorics, geometry, polytopes, matroids",
+        "profile": "https://www.seresearch.qmul.ac.uk/ccant/people/fardila/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-ccant-academics-30",
+      "person_key": "feliperincon",
+      "school": "qmul",
+      "record": {
+        "name": "Felipe Rincón",
+        "title": "Reader in Algebra",
+        "research": "Combinatorics, Matroid theory, Tropical geometry, Algebraic geometry",
+        "profile": "https://www.seresearch.qmul.ac.uk/ccant/people/epabon/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-ccant-academics-30",
+      "person_key": "felixfischer",
+      "school": "qmul",
+      "record": {
+        "name": "Felix Fischer",
+        "title": "Reader in Optimisation Deputy Head of The Centre for Combinatorics, Algebra and Number Theory",
+        "research": "Mechanism Design, Algorithms, Mathematics of Operations Research, Applied Probability",
+        "profile": "https://www.seresearch.qmul.ac.uk/ccant/people/ffischer/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-ccant-academics-30",
+      "person_key": "ivantomasic",
+      "school": "qmul",
+      "record": {
+        "name": "Ivan Tomasic",
+        "title": "Reader in Pure Mathematics",
+        "research": "Model theory, Categorical logic, Topos theory, Algebraic geometry, Difference algebra, Differential algebra",
+        "profile": "https://www.seresearch.qmul.ac.uk/ccant/people/itomasic/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-ccant-academics-30",
+      "person_key": "justinward",
+      "school": "qmul",
+      "record": {
+        "name": "Justin Ward",
+        "title": "Senior Lecturer in Optimisation Lead for Research Innovation and External Stakeholders Engagement",
+        "research": "Theory of Computing, Design and Analysis of Algorithms, Discrete Optimisation",
+        "profile": "https://www.seresearch.qmul.ac.uk/ccant/people/jward/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-ccant-academics-30",
+      "person_key": "markjerrum",
+      "school": "qmul",
+      "record": {
+        "name": "Mark Jerrum",
+        "title": "Professor of Mathematics",
+        "research": "Applied probability, Combinatorics, Theoretical computer science",
+        "profile": "https://www.seresearch.qmul.ac.uk/ccant/people/mjerrum/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-ccant-academics-30",
+      "person_key": "markwalters",
+      "school": "qmul",
+      "record": {
+        "name": "Mark Walters",
+        "title": "Emeritus Reader in Pure Mathematics",
+        "research": "",
+        "profile": "https://www.seresearch.qmul.ac.uk/ccant/people/mwalters/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-ccant-academics-30",
+      "person_key": "matthewfayers",
+      "school": "qmul",
+      "record": {
+        "name": "Matthew Fayers",
+        "title": "Reader in Pure Mathematics Director of Education",
+        "research": "representation theory, algebraic combinatorics, finite groups, Hecke algebras, quantum algebra",
+        "profile": "https://www.seresearch.qmul.ac.uk/ccant/people/mfayers/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-ccant-academics-30",
+      "person_key": "navidnabijou",
+      "school": "qmul",
+      "record": {
+        "name": "Navid Nabijou",
+        "title": "Lecturer in Mathematical Sciences",
+        "research": "Algebraic curves, Moduli spaces, Gromov-Witten theory, Logarithmic geometry, Tropical geometry, Orbifolds",
+        "profile": "https://www.seresearch.qmul.ac.uk/ccant/people/nnabijou/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-ccant-academics-30",
+      "person_key": "robertjohnson",
+      "school": "qmul",
+      "record": {
+        "name": "Robert Johnson",
+        "title": "Senior Lecturer in Pure Mathematics Lead for Communication and Public Engagement for Centre for Combinatorics, Algebra and Number Theory",
+        "research": "extremal combinatorics, graph theory, probabilistic combinatorics",
+        "profile": "https://www.seresearch.qmul.ac.uk/ccant/people/jjohnson/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-ccant-academics-30",
+      "person_key": "shusasaki",
+      "school": "qmul",
+      "record": {
+        "name": "Shu Sasaki",
+        "title": "Lecturer in Number Theory",
+        "research": "",
+        "profile": "https://www.seresearch.qmul.ac.uk/ccant/people/ssasaki/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-ccant-academics-30",
+      "person_key": "tylerkelly",
+      "school": "qmul",
+      "record": {
+        "name": "Tyler Kelly",
+        "title": "Professor of Pure Mathematics",
+        "research": "algebraic geometry, mirror symmetry",
+        "profile": "https://www.seresearch.qmul.ac.uk/ccant/people/tkelly/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-ccant-academics-30",
+      "person_key": "vireshpatel",
+      "school": "qmul",
+      "record": {
+        "name": "Viresh Patel",
+        "title": "Lecturer in Optimisation",
+        "research": "Extremal combinatorics, Probabilistic combinatorics, Graph polynomials / partition functions, Phase transitions, Approximation algorithms (for counting)",
+        "profile": "https://www.seresearch.qmul.ac.uk/ccant/people/vpatel/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-ccant-academics-30",
+      "person_key": "williamjackson",
+      "school": "qmul",
+      "record": {
+        "name": "William Jackson",
+        "title": "Emeritus Professor of Mathematical Sciences",
+        "research": "",
+        "profile": "https://www.seresearch.qmul.ac.uk/ccant/people/wjackson/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-cgag-academics-30",
+      "person_key": "arickshao",
+      "school": "qmul",
+      "record": {
+        "name": "Arick Shao",
+        "title": "Reader in Mathematics",
+        "research": "Partial differential equations, Analysis, Differential geometry, Mathematical relativity, Unique continuation, Control theory",
+        "profile": "https://www.seresearch.qmul.ac.uk/cgag/people/cshao/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-cgag-academics-30",
+      "person_key": "biagiolucini",
+      "school": "qmul",
+      "record": {
+        "name": "Biagio Lucini",
+        "title": "Professor of Mathematics Head of The School of Mathematical Sciences",
+        "research": "Theoretical Particle Physics, Strongly-interacting Gauge Theories, Monte Carlo Methods, Mathematical Foundations of Machine Learning, High-Performance Compunting, Mathematical modelling",
+        "profile": "https://www.seresearch.qmul.ac.uk/cgag/people/blucini/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-cgag-academics-30",
+      "person_key": "claudiagaretto",
+      "school": "qmul",
+      "record": {
+        "name": "Claudia Garetto",
+        "title": "Professor of Mathematics Science and Engineering EDI Lead and Deputy Head of School of Mathematical Sciences",
+        "research": "Hyperbolic equations, Low regular coefficients, Multiplicities, Generalised Solutions, Fourier Analysis, Mathematical Analysis",
+        "profile": "https://www.seresearch.qmul.ac.uk/cgag/people/cgaretto/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-cgag-academics-30",
+      "person_key": "gustavmogull",
+      "school": "qmul",
+      "record": {
+        "name": "Gustav Mogull",
+        "title": "Royal Society University Research Fellow",
+        "research": "Quantum field theory, Scattering amplitudes, Gravitational waves",
+        "profile": "https://www.seresearch.qmul.ac.uk/cgag/people/gmogull/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-cgag-academics-30",
+      "person_key": "hongqi",
+      "school": "qmul",
+      "record": {
+        "name": "Hong Qi",
+        "title": "Lecturer in Mathematical Sciences",
+        "research": "Gravitational wave astronomy, Quantum computing, Dark matter, Multimessenger astrophysics, General relativity",
+        "profile": "https://www.seresearch.qmul.ac.uk/cgag/people/hqi/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-cgag-academics-30",
+      "person_key": "huynguyen",
+      "school": "qmul",
+      "record": {
+        "name": "Huy Nguyen",
+        "title": "Reader in Geometry Deputy Head of The Centre for Geometry, Analysis and Gravitation",
+        "research": "",
+        "profile": "https://www.seresearch.qmul.ac.uk/cgag/people/hnguyen/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-cgag-academics-30",
+      "person_key": "juanavalientekroon",
+      "school": "qmul",
+      "record": {
+        "name": "Juan A. Valiente Kroon",
+        "title": "Professor in Applied Mathematics and Mathematical Physics Director of Research",
+        "research": "Mathematical General Relativity, Computer Algebra",
+        "profile": "https://www.seresearch.qmul.ac.uk/cgag/people/jvalientekroon/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-cgag-academics-30",
+      "person_key": "katyclough",
+      "school": "qmul",
+      "record": {
+        "name": "Katy Clough",
+        "title": "Senior Lecturer, STFC Ernest Rutherford Research Fellow Lead for Research Innovation and External Stakeholders Engagement",
+        "research": "Fundamental fields, Black holes, Early Universe, Numerical relativity, General relativity, Gravitational waves",
+        "profile": "https://www.seresearch.qmul.ac.uk/cgag/people/kclough/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-cgag-academics-30",
+      "person_key": "masanorihanada",
+      "school": "qmul",
+      "record": {
+        "name": "Masanori Hanada",
+        "title": "Reader",
+        "research": "Quantum Field Theory, Strongly Coupled Quantum System, Quantum Gravity, Quantum Simulation, Artificial Intelligence",
+        "profile": "https://www.seresearch.qmul.ac.uk/cgag/people/mhanada/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-cgag-academics-30",
+      "person_key": "michaelfarber",
+      "school": "qmul",
+      "record": {
+        "name": "Michael Farber",
+        "title": "Professor of Mathematics",
+        "research": "Topology and AI, Algorithmic robotics, Stochastic topology",
+        "profile": "https://www.seresearch.qmul.ac.uk/cgag/people/mfarber/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-cgag-academics-30",
+      "person_key": "michaelruzhansky",
+      "school": "qmul",
+      "record": {
+        "name": "Michael Ruzhansky",
+        "title": "Professor of Mathematics",
+        "research": "",
+        "profile": "https://www.seresearch.qmul.ac.uk/cgag/people/mruzhansky/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-cgag-academics-30",
+      "person_key": "michalisagathos",
+      "school": "qmul",
+      "record": {
+        "name": "Michalis Agathos",
+        "title": "Lecturer in Mathematics",
+        "research": "gravitational waves, black holes, neutron stars, Bayesian inference, general relativity, modified gravity",
+        "profile": "https://www.seresearch.qmul.ac.uk/cgag/people/magathos/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-cgag-academics-30",
+      "person_key": "paufigueras",
+      "school": "qmul",
+      "record": {
+        "name": "Pau Figueras",
+        "title": "Professor of Applied Mathematics and Theoretical Physics Head of The Centre for Geometry, Analysis and Gravitation",
+        "research": "General Relativity, Black Holes, Numerical Relativity, Gravitational Waves, Gravitational Aspects of String Theory, Holography",
+        "profile": "https://www.seresearch.qmul.ac.uk/cgag/people/pfigueras/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-cgag-academics-30",
+      "person_key": "rodolforusso",
+      "school": "qmul",
+      "record": {
+        "name": "Rodolfo Russo",
+        "title": "Professor in Applied Mathematics and Theoretical Physics Lead for Communication and Public Engagement",
+        "research": "String Theory, Black holes, Quantum Field Theory",
+        "profile": "https://www.seresearch.qmul.ac.uk/cgag/people/rrusso/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-cgag-academics-30",
+      "person_key": "shahnmajid",
+      "school": "qmul",
+      "record": {
+        "name": "Shahn Majid",
+        "title": "Professor of Mathematics",
+        "research": "quantum gravity, algebra, category theory, mathematical physics, quantum computing",
+        "profile": "https://www.seresearch.qmul.ac.uk/cgag/people/smajid/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-cgag-academics-30",
+      "person_key": "shengwenwang",
+      "school": "qmul",
+      "record": {
+        "name": "Shengwen Wang",
+        "title": "Lecturer in Geometric Analysis",
+        "research": "",
+        "profile": "https://www.seresearch.qmul.ac.uk/cgag/people/swang/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "qmul-cgag-academics-30",
+      "person_key": "tarekanous",
+      "school": "qmul",
+      "record": {
+        "name": "Tarek Anous",
+        "title": "Senior Lecturer in Mathematical Sciences | UKRI Future Leaders Fellow Outreach Lead",
+        "research": "Black holes and their interiors, Accelerating spacetime, Disordered systems, Quantum field theory, Holography",
+        "profile": "https://www.seresearch.qmul.ac.uk/cgag/people/tanous/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
       "source": "qmul-qs-roster",
       "person_key": "abhisheksaha",
       "school": "qmul",
       "record": {
         "name": "Abhishek Saha",
         "title": "Professor of Mathematics, REF and Reputation lead",
-        "research": "Professor of Mathematics, REF and Reputation lead",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/sahaa.html",
         "homepage": "",
         "topics": [],
@@ -161870,7 +164426,7 @@
       "record": {
         "name": "Adrian Baule",
         "title": "Reader in Applied Mathematics",
-        "research": "Reader in Applied Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/baulea.html",
         "homepage": "",
         "topics": [],
@@ -161886,7 +164442,7 @@
       "record": {
         "name": "Alexander Gnedin",
         "title": "Professor in Applied Probability",
-        "research": "Professor in Applied Probability",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/gnedina.html",
         "homepage": "",
         "topics": [],
@@ -161902,7 +164458,7 @@
       "record": {
         "name": "Alexander Shestopaloff",
         "title": "Senior Lecturer in Statistics",
-        "research": "Senior Lecturer in Statistics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html",
         "homepage": "",
         "topics": [],
@@ -161918,7 +164474,7 @@
       "record": {
         "name": "Alex Clark",
         "title": "Professor of Mathematics",
-        "research": "Professor of Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/clarkalex.html",
         "homepage": "",
         "topics": [],
@@ -161934,7 +164490,7 @@
       "record": {
         "name": "Alex Fink",
         "title": "Professor in Pure Mathematics; Head of the Centre for Combinatorics, Algebra and Number Theory",
-        "research": "Professor in Pure Mathematics; Head of the Centre for Combinatorics, Algebra and Number Theory",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/finka.html",
         "homepage": "",
         "topics": [],
@@ -161950,7 +164506,7 @@
       "record": {
         "name": "Amaranta Membrillo Solis",
         "title": "Lecturer in Mathematical Data Science",
-        "research": "Lecturer in Mathematical Data Science",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/membrillosolisi.html",
         "homepage": "",
         "topics": [],
@@ -161966,7 +164522,7 @@
       "record": {
         "name": "Anna Maltsev",
         "title": "Royal Society University Research Fellow & Reader in Applied Probability",
-        "research": "Royal Society University Research Fellow & Reader in Applied Probability",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/maltseva.html",
         "homepage": "",
         "topics": [],
@@ -161982,7 +164538,7 @@
       "record": {
         "name": "Arick Shao",
         "title": "Reader in Mathematics",
-        "research": "Reader in Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/shaoa.html",
         "homepage": "",
         "topics": [],
@@ -161998,7 +164554,7 @@
       "record": {
         "name": "Arthur Guillaumin",
         "title": "Lecturer in Mathematical Data Science",
-        "research": "Lecturer in Mathematical Data Science",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/arthurguillaumin.html",
         "homepage": "",
         "topics": [],
@@ -162014,7 +164570,7 @@
       "record": {
         "name": "Behrang Noohi",
         "title": "Reader in Pure Mathematics",
-        "research": "Reader in Pure Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/noohib.html",
         "homepage": "",
         "topics": [],
@@ -162030,7 +164586,7 @@
       "record": {
         "name": "Biagio Lucini",
         "title": "Professor of Mathematics and Head of School",
-        "research": "Professor of Mathematics and Head of School",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/lucinib.html",
         "homepage": "",
         "topics": [],
@@ -162046,7 +164602,7 @@
       "record": {
         "name": "Boris Khoruzhenko",
         "title": "Professor of Mathematics",
-        "research": "Professor of Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/khoruzhenkoba.html",
         "homepage": "",
         "topics": [],
@@ -162062,7 +164618,7 @@
       "record": {
         "name": "Chris Sutton",
         "title": "Reader in Actuarial Science",
-        "research": "Reader in Actuarial Science",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/suttonchris.html",
         "homepage": "",
         "topics": [],
@@ -162078,7 +164634,7 @@
       "record": {
         "name": "Christian Beck",
         "title": "Professor of Applied Mathematics",
-        "research": "Dynamical systems, stochastic processes, data-driven approaches to complex systems, spatio-temporal chaotic dynamics, stochastic modelling techniques, dark matter (axions) and interdisciplinary applications,sustainable energy systems Professor of Applied Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/beckc.html",
         "homepage": "",
         "topics": [],
@@ -162094,7 +164650,7 @@
       "record": {
         "name": "Claudia Garetto",
         "title": "Professor in Mathematics",
-        "research": "Professor in Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/claudiagaretto.html",
         "homepage": "",
         "topics": [],
@@ -162110,7 +164666,7 @@
       "record": {
         "name": "Eftychia Solea",
         "title": "Lecturer in Statistics",
-        "research": "Lecturer in Statistics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/dr-eftychia-solea.html",
         "homepage": "",
         "topics": [],
@@ -162126,7 +164682,7 @@
       "record": {
         "name": "Eleni Katirtzoglou",
         "title": "Lecturer in Mathematics",
-        "research": "Lecturer in Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/katirtzogloue.html",
         "homepage": "",
         "topics": [],
@@ -162142,7 +164698,7 @@
       "record": {
         "name": "Eleni Matechou",
         "title": "Reader in Statistics",
-        "research": "Reader in Statistics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/eleni-matechou-.html",
         "homepage": "",
         "topics": [],
@@ -162158,7 +164714,7 @@
       "record": {
         "name": "Federico Ardila",
         "title": "Chair in Combinatorics in the School of Mathematical Sciences and a Wolfson Fellow of The Royal Society",
-        "research": "Chair in Combinatorics in the School of Mathematical Sciences and a Wolfson Fellow of The Royal Society",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/federico-ardila.html",
         "homepage": "",
         "topics": [],
@@ -162174,7 +164730,7 @@
       "record": {
         "name": "Felipe Rincón",
         "title": "Reader in Algebra",
-        "research": "Reader in Algebra",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/rinconf.html",
         "homepage": "",
         "topics": [],
@@ -162190,7 +164746,7 @@
       "record": {
         "name": "Felix Fischer",
         "title": "Reader in Optimisation; Deputy Head of the Centre for Combinatorics, Algebra and Number Theory",
-        "research": "Reader in Optimisation; Deputy Head of the Centre for Combinatorics, Algebra and Number Theory",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/fischerf.html",
         "homepage": "",
         "topics": [],
@@ -162206,7 +164762,7 @@
       "record": {
         "name": "Ginestra Bianconi",
         "title": "Professor of Theoretical Physics and Applied Mathematics",
-        "research": "Professor of Theoretical Physics and Applied Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/bianconig.html",
         "homepage": "",
         "topics": [],
@@ -162222,7 +164778,7 @@
       "record": {
         "name": "Hong Qi",
         "title": "Lecturer in Mathematical Sciences",
-        "research": "Lecturer in Mathematical Sciences",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/qihong.html",
         "homepage": "",
         "topics": [],
@@ -162238,7 +164794,7 @@
       "record": {
         "name": "Huy Nguyen",
         "title": "Reader in Mathematics",
-        "research": "Reader in Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/nguyenhthe.html",
         "homepage": "",
         "topics": [],
@@ -162254,7 +164810,7 @@
       "record": {
         "name": "Ian Morris",
         "title": "Reader in Mathematics, Deputy Director of Postgraduate Research Studies",
-        "research": "Reader in Mathematics, Deputy Director of Postgraduate Research Studies",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/morris-ian.html",
         "homepage": "",
         "topics": [],
@@ -162270,7 +164826,7 @@
       "record": {
         "name": "Ivan Tomasic",
         "title": "Reader in Pure Mathematics",
-        "research": "Reader in Pure Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/tomasici.html",
         "homepage": "",
         "topics": [],
@@ -162286,7 +164842,7 @@
       "record": {
         "name": "John Moriarty",
         "title": "Professor of Mathematics",
-        "research": "Professor of Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/moriartyj.html",
         "homepage": "",
         "topics": [],
@@ -162302,7 +164858,7 @@
       "record": {
         "name": "Juan Valiente-Kroon",
         "title": "Professor in Applied Mathematics, Director of Research",
-        "research": "Professor in Applied Mathematics, Director of Research",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/valiente-kroona.html",
         "homepage": "",
         "topics": [],
@@ -162318,7 +164874,7 @@
       "record": {
         "name": "Justin Ward",
         "title": "Senior Lecturer in Optimisation",
-        "research": "Senior Lecturer in Optimisation",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/wardj.html",
         "homepage": "",
         "topics": [],
@@ -162334,7 +164890,7 @@
       "record": {
         "name": "Katy Clough",
         "title": "STFC Ernest Rutherford Research Fellow",
-        "research": "STFC Ernest Rutherford Research Fellow",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/katyclough.html",
         "homepage": "",
         "topics": [],
@@ -162350,7 +164906,7 @@
       "record": {
         "name": "Klaas Sijbrandij",
         "title": "Lecturer in Actuarial Science",
-        "research": "Lecturer in Actuarial Science",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/sijbrandijk.html",
         "homepage": "",
         "topics": [],
@@ -162366,7 +164922,7 @@
       "record": {
         "name": "Kostas Papafitsoros",
         "title": "Lecturer in Mathematical Data Science",
-        "research": "Mathematical Imaging, Inverse Problems, Optimisation, Machine Learning, Wildlife Conservation, Marine Turtles Lecturer in Mathematical Data Science",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/papafitsorosk.html",
         "homepage": "",
         "topics": [],
@@ -162382,7 +164938,7 @@
       "record": {
         "name": "Lei Fang",
         "title": "Senior Lecturer | SFHEA | Deputy Head of Centre for Mathematical Education | Deputy Director of Education (Global Education) | Director of QMUL-UIBE Joint Programmes",
-        "research": "Senior Lecturer | SFHEA | Deputy Head of Centre for Mathematical Education | Deputy Director of Education (Global Education) | Director of QMUL-UIBE Joint Programmes",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/leifang.html",
         "homepage": "",
         "topics": [],
@@ -162398,7 +164954,7 @@
       "record": {
         "name": "Lennart Dabelow",
         "title": "Lecturer in Applied Mathematics",
-        "research": "Lecturer in Applied Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/dabelowl.html",
         "homepage": "",
         "topics": [],
@@ -162414,7 +164970,7 @@
       "record": {
         "name": "Linqi Wang",
         "title": "Lecturer in Financial Mathematics",
-        "research": "Lecturer in Financial Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/linqi-wang.html",
         "homepage": "",
         "topics": [],
@@ -162430,7 +164986,7 @@
       "record": {
         "name": "Linus Wunderlich",
         "title": "Lecturer in Financial Mathematics",
-        "research": "Lecturer in Financial Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/wunderlichlinus.html",
         "homepage": "",
         "topics": [],
@@ -162446,7 +165002,7 @@
       "record": {
         "name": "Maliha Haque",
         "title": "Research Manager",
-        "research": "Research Manager",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/maliha-haque.html",
         "homepage": "",
         "topics": [],
@@ -162462,7 +165018,7 @@
       "record": {
         "name": "Mark Jerrum",
         "title": "Professor of Mathematics",
-        "research": "Professor of Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/jerrumm.html",
         "homepage": "",
         "topics": [],
@@ -162478,7 +165034,7 @@
       "record": {
         "name": "Masanori Hanada",
         "title": "Reader in Mathematical Sciences",
-        "research": "Reader in Mathematical Sciences",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/hanadam.html",
         "homepage": "",
         "topics": [],
@@ -162494,7 +165050,7 @@
       "record": {
         "name": "Matt Fayers",
         "title": "Reader in Pure Mathematics, Deputy Head of School",
-        "research": "Reader in Pure Mathematics, Deputy Head of School",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/fayersm.html",
         "homepage": "",
         "topics": [],
@@ -162510,7 +165066,7 @@
       "record": {
         "name": "Matthew Lewis",
         "title": "Lecturer in Mathematics",
-        "research": "Lecturer in Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/lewism.html",
         "homepage": "",
         "topics": [],
@@ -162526,7 +165082,7 @@
       "record": {
         "name": "Melania Nica",
         "title": "Reader in Actuarial Science",
-        "research": "Reader in Actuarial Science",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/nicam.html",
         "homepage": "",
         "topics": [],
@@ -162542,7 +165098,7 @@
       "record": {
         "name": "Michael Ruzhansky",
         "title": "Professor of Mathematics",
-        "research": "Professor of Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/ruzhanskymichael.html",
         "homepage": "",
         "topics": [],
@@ -162558,7 +165114,7 @@
       "record": {
         "name": "Michalis Agathos",
         "title": "Lecturer in Mathematics",
-        "research": "Lecturer in Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/agathosm.html",
         "homepage": "",
         "topics": [],
@@ -162574,7 +165130,7 @@
       "record": {
         "name": "Mira Shamis",
         "title": "Senior Lecturer in Disordered Systems",
-        "research": "Senior Lecturer in Disordered Systems",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/shamiss.html",
         "homepage": "",
         "topics": [],
@@ -162590,7 +165146,7 @@
       "record": {
         "name": "Natasha Blitvic",
         "title": "Reader in Mathematical Sciences",
-        "research": "Reader in Mathematical Sciences",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/blitvicn.html",
         "homepage": "",
         "topics": [],
@@ -162606,7 +165162,7 @@
       "record": {
         "name": "Navid Nabijou",
         "title": "Lecturer in Mathematical Sciences",
-        "research": "Lecturer in Mathematical Sciences",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/nabijoun.html",
         "homepage": "",
         "topics": [],
@@ -162622,7 +165178,7 @@
       "record": {
         "name": "Nicola Perra",
         "title": "Reader in Applied Mathematics",
-        "research": "Reader in Applied Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/perran.html",
         "homepage": "",
         "topics": [],
@@ -162638,7 +165194,7 @@
       "record": {
         "name": "Nicolás Hernández",
         "title": "Lecturer in Statistics",
-        "research": "Lecturer in Statistics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/hernandezn.html",
         "homepage": "",
         "topics": [],
@@ -162654,7 +165210,7 @@
       "record": {
         "name": "Oliver Jenkinson",
         "title": "Professor of Mathematics",
-        "research": "Professor of Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/jenkinsonom.html",
         "homepage": "",
         "topics": [],
@@ -162670,7 +165226,7 @@
       "record": {
         "name": "Omer Bobrowski",
         "title": "Professor in Mathematical Data Science",
-        "research": "Professor in Mathematical Data Science",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/omerbobrowski.html",
         "homepage": "",
         "topics": [],
@@ -162686,7 +165242,7 @@
       "record": {
         "name": "Oscar Bandtlow",
         "title": "Reader in Mathematics, Director of Postgraduate Studies",
-        "research": "functional analysis, dynamical systems, statistical mechanics Reader in Mathematics, Director of Postgraduate Studies",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/bandtlowo.html",
         "homepage": "",
         "topics": [],
@@ -162702,7 +165258,7 @@
       "record": {
         "name": "Pau Figueras",
         "title": "Professor of Applied Mathematics and Theoretical Physics",
-        "research": "Professor of Applied Mathematics and Theoretical Physics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/figuerasp.html",
         "homepage": "",
         "topics": [],
@@ -162718,7 +165274,7 @@
       "record": {
         "name": "Pedro Vergel",
         "title": "Senior Lecturer in Financial Mathematics",
-        "research": "Senior Lecturer in Financial Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/vergelpedro.html",
         "homepage": "",
         "topics": [],
@@ -162734,7 +165290,7 @@
       "record": {
         "name": "Primoz Skraba",
         "title": "Professor in Applied and Computational Topology",
-        "research": "Professor in Applied and Computational Topology",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/skrabaprimoz.html",
         "homepage": "",
         "topics": [],
@@ -162750,7 +165306,7 @@
       "record": {
         "name": "Rainer Klages",
         "title": "Reader in Applied Mathematics",
-        "research": "Nonlinear dynamics, chaos, dynamical systems, nonequilibrium statistical physics, stochastic processes, complex systems, biophysical modeling. Reader in Applied Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/klagesr.html",
         "homepage": "",
         "topics": [],
@@ -162766,7 +165322,7 @@
       "record": {
         "name": "Reem Yassawi",
         "title": "Senior Lecturer in Mathematical Sciences",
-        "research": "Senior Lecturer in Mathematical Sciences",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/yassawir.html",
         "homepage": "",
         "topics": [],
@@ -162782,7 +165338,7 @@
       "record": {
         "name": "Robert Johnson",
         "title": "Senior Lecturer in Pure Mathematics",
-        "research": "Senior Lecturer in Pure Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/johnsonjr.html",
         "homepage": "",
         "topics": [],
@@ -162798,7 +165354,7 @@
       "record": {
         "name": "Rodolfo Russo",
         "title": "Professor in Applied Mathematics and Theoretical Physics",
-        "research": "String theory, Quantum Field Theory, Gravity and black holes. Professor in Applied Mathematics and Theoretical Physics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/rrusso.html",
         "homepage": "",
         "topics": [],
@@ -162814,7 +165370,7 @@
       "record": {
         "name": "Sebastian del Bano Rollin",
         "title": "Reader in Mathematics",
-        "research": "Reader in Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/rollinsdelbano.html",
         "homepage": "",
         "topics": [],
@@ -162830,7 +165386,7 @@
       "record": {
         "name": "Shahn Majid",
         "title": "Professor of Mathematics",
-        "research": "Professor of Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/majids.html",
         "homepage": "",
         "topics": [],
@@ -162846,7 +165402,7 @@
       "record": {
         "name": "Shengwen Wang",
         "title": "Lecturer in Geometric Analysis",
-        "research": "Geometric Analysis, PDE Lecturer in Geometric Analysis",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/wangs.html",
         "homepage": "",
         "topics": [],
@@ -162862,7 +165418,7 @@
       "record": {
         "name": "Shu Sasaki",
         "title": "Lecturer in Number Theory and Director of Undergraduate Admissions",
-        "research": "Lecturer in Number Theory and Director of Undergraduate Admissions",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/sasakis.html",
         "homepage": "",
         "topics": [],
@@ -162878,7 +165434,7 @@
       "record": {
         "name": "Silvia Liverani",
         "title": "Professor in Statistics, Equality, Diversity and Inclusion Lead",
-        "research": "Professor in Statistics, Equality, Diversity and Inclusion Lead",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/liveranis.html",
         "homepage": "",
         "topics": [],
@@ -162894,7 +165450,7 @@
       "record": {
         "name": "Tarek Anous",
         "title": "Senior Lecturer in Mathematical Sciences",
-        "research": "Senior Lecturer in Mathematical Sciences",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/anoust.html",
         "homepage": "",
         "topics": [],
@@ -162910,7 +165466,7 @@
       "record": {
         "name": "Thomas Prellberg",
         "title": "Professor of Mathematics",
-        "research": "Professor of Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/prellbergt.html",
         "homepage": "",
         "topics": [],
@@ -162926,7 +165482,7 @@
       "record": {
         "name": "Tyler Kelly",
         "title": "Professor of Pure Mathematics",
-        "research": "Professor of Pure Mathematics",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/kellyt.html",
         "homepage": "",
         "topics": [],
@@ -162942,7 +165498,7 @@
       "record": {
         "name": "Vincenzo Nicosia",
         "title": "Senior Lecturer in Networks and Data Analysis",
-        "research": "Senior Lecturer in Networks and Data Analysis",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/nicosiav.html",
         "homepage": "",
         "topics": [],
@@ -162958,7 +165514,7 @@
       "record": {
         "name": "Viresh Patel",
         "title": "Lecturer in Optimisation",
-        "research": "Lecturer in Optimisation",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/patelv.html",
         "homepage": "",
         "topics": [],
@@ -162974,7 +165530,7 @@
       "record": {
         "name": "Vito Latora",
         "title": "Professor of Applied Mathematics. Chair of Complex Systems.",
-        "research": "Professor of Applied Mathematics. Chair of Complex Systems.",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/latorav.html",
         "homepage": "",
         "topics": [],
@@ -162990,7 +165546,7 @@
       "record": {
         "name": "Weini Huang",
         "title": "Reader in Mathematical Biology",
-        "research": "Mathematical Biology, Theoretical Biology, Evolutionary Biology, Cancer Evolution, Ecology Reader in Mathematical Biology",
+        "research": "",
         "profile": "https://www.qmul.ac.uk/maths/profiles/huangw.html",
         "homepage": "",
         "topics": [],
@@ -262185,6 +264741,305 @@
       "checked_at": "2026-11-24"
     },
     {
+      "url": "https://eacademic.ju.edu.jo/B.Maayah/default.aspx",
+      "cache_id": "profile-44b0c98b0cb8c610",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/B.Maayah/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/FYousef/default.aspx",
+      "cache_id": "profile-dc6fab4f09fd9f88",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/FYousef/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/S.Hayajneh/default.aspx",
+      "cache_id": "profile-8267e51057fc412c",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/S.Hayajneh/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/a.ababneh/default.aspx",
+      "cache_id": "profile-2f5b39abf5d1023d",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/a.helu/default.aspx",
+      "cache_id": "profile-daff1291b41b8437",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/a.helu/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/a.tallafha",
+      "cache_id": "profile-e99f34a729f5534a",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/a.tallafha/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/a.zghoul/default.aspx",
+      "cache_id": "profile-33c7b0cb60273d56",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/a.zghoul/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/abd.yousef/default.aspx",
+      "cache_id": "profile-a7f08a2a1757e2a5",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/abd.yousef/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/alezehh/default.aspx",
+      "cache_id": "profile-09558c98d0335893",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/alezehh/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/awada/default.aspx",
+      "cache_id": "profile-94b29b9e98068893",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/awada/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/eabuosba/default.aspx",
+      "cache_id": "profile-c1344d86a8d81ff9",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/eabuosba/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/farah/default.aspx",
+      "cache_id": "profile-6a5a842f0a016dca",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/farah/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/h.najjar/default.aspx",
+      "cache_id": "profile-407d716aec56ca9c",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/h.najjar/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/horani/default.aspx",
+      "cache_id": "profile-fe79cdce5e476942",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/horani/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/i.kom/default.aspx",
+      "cache_id": "profile-c30991085afedddd",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/i.kom/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/jaradeh/default.aspx",
+      "cache_id": "profile-d9d495e5393facd3",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/jaradeh/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/m.mhailan/default.aspx",
+      "cache_id": "profile-e05baa2c21a45824",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/m.mhailan/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/m.sakkijha/default.aspx",
+      "cache_id": "profile-cc69ed00c02ab69f",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/m.sakkijha/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/o.abughneim/default.aspx",
+      "cache_id": "profile-bcf2c3cfde61148a",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/o.abughneim/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/oalkam/default.aspx",
+      "cache_id": "profile-fbc82e60eb3835ce",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/oalkam/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/s.momani/default.aspx",
+      "cache_id": "profile-9b170ca109dc09b0",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/S.Momani/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/tnour/default.aspx",
+      "cache_id": "profile-04d2653b14cf53ba",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/tnour/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://eacademic.ju.edu.jo/zahdeib/default.aspx",
+      "cache_id": "profile-ee6b222b4c479f1c",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://eacademic.ju.edu.jo/zahdeib/My%20CV/Forms/AllItems.aspx",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
       "url": "https://en-exact-sciences.tau.ac.il/profile/aaro",
       "cache_id": "profile-20076f6d23c2877a",
       "status": "parsed",
@@ -286663,6 +289518,20 @@
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://sites.ju.edu.jo/sites/Alzalg/Home.aspx",
+      "cache_id": "profile-c8ae3b7c91804d96",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "https://sites.ju.edu.jo/sites/Alzalg/Pages/CV.aspx",
+        "publications": "http://sites.ju.edu.jo/sites/Alzalg/Pages/Publications.aspx",
+        "orcid": "0000-0002-1839-8083",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://sites.lsa.umich.edu/kesmith/",
@@ -329861,17 +332730,901 @@
       "checked_at": "2026-11-24"
     },
     {
+      "url": "https://www.qmul.ac.uk/maths/profiles/agathosm.html",
+      "cache_id": "profile-f01f4cf8159c1e80",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/anoust.html",
+      "cache_id": "profile-effe84521880ce19",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/arthurguillaumin.html",
+      "cache_id": "profile-c1b1665639dcba3d",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/bandtlowo.html",
+      "cache_id": "profile-03e87337d5c1a1fd",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/bandtlowo.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/baulea.html",
+      "cache_id": "profile-f6d6c99a52917a76",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/baulea.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/beckc.html",
+      "cache_id": "profile-c517de537e2dd1ff",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/beckc.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/bianconig.html",
+      "cache_id": "profile-9d7ccf9d840c7626",
+      "status": "parsed",
+      "record": {
+        "research": "Statistical mechanics, Theoretical Physics, Network Theory, Topology, Geometry and Dynamical Systems, Gravity.",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/bianconig.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/blitvicn.html",
+      "cache_id": "profile-086eb33d6378e83d",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/clarkalex.html",
+      "cache_id": "profile-77a0a9b30f8478bc",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/claudiagaretto.html",
+      "cache_id": "profile-2f3386f23d9a3e34",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/dabelowl.html",
+      "cache_id": "profile-6e3e55df3ce4c82f",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/dr-eftychia-solea.html",
+      "cache_id": "profile-207229fd5bc70ddb",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/eleni-matechou-.html",
+      "cache_id": "profile-96395b1ec66247f7",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/fayersm.html",
+      "cache_id": "profile-9c05d2ec7ea99cee",
+      "status": "parsed",
+      "record": {
+        "research": "My research interests are in algebra and combinatorics, stemming mainly from the representation theory of the symmetric group in prime characteristic, and the associated combinatorics of integer partitions.",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/fayersm.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/figuerasp.html",
+      "cache_id": "profile-35fb2928f707ab4c",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/finka.html",
+      "cache_id": "profile-9a57d7436936e877",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/finka.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/fischerf.html",
+      "cache_id": "profile-6c3667b3173a9fcc",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/gnedina.html",
+      "cache_id": "profile-22b8fab847c2e47d",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/hanadam.html",
+      "cache_id": "profile-a6de77da37c2b86a",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/hernandezn.html",
+      "cache_id": "profile-0e8789d243c411fc",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/huangw.html",
+      "cache_id": "profile-4275145d28ffbfb9",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/huangw.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/jenkinsonom.html",
+      "cache_id": "profile-dac4a2d774d81edb",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/jenkinsonom.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/jerrumm.html",
+      "cache_id": "profile-8d9fcfbc35284af7",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/johnsonjr.html",
+      "cache_id": "profile-66f4f51b6f5959fa",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/johnsonjr.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/katirtzogloue.html",
+      "cache_id": "profile-cf89612323d5a736",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/kellyt.html",
+      "cache_id": "profile-ead5afb19e3e9fb1",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/khoruzhenkoba.html",
+      "cache_id": "profile-c348250826287a64",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/klagesr.html",
+      "cache_id": "profile-5cbda45c29e2940a",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/klagesr.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/latorav.html",
+      "cache_id": "profile-9659265484bc052d",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/latorav.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/lewism.html",
+      "cache_id": "profile-cd9dee086368cfab",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/linqi-wang.html",
+      "cache_id": "profile-ec149238be38b22d",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/liveranis.html",
+      "cache_id": "profile-b1734f962c472da7",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/lucinib.html",
+      "cache_id": "profile-1b3d5e25a5513ebe",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/majids.html",
+      "cache_id": "profile-264e10aa4e91d2b1",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/maliha-haque.html",
+      "cache_id": "profile-8678b6501e436da7",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/maltseva.html",
+      "cache_id": "profile-4b2628076aa1794b",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/maltseva.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/membrillosolisi.html",
+      "cache_id": "profile-0604ab73a7c527c1",
+      "status": "parsed",
+      "record": {
+        "research": "My research interests encompass several areas in topology and geometry, including algebraic topology, differential geometry, metric geometry, and geometric and topological data analysis. In particular, I'm interested in the following topics: Geometric and topological data analysis of soft materials Persistence theory Topology of moduli spaces of Riemannian orbifolds Spectral and metric geometry of singular spaces Unstable homotopy theory of mapping spaces See Amaranta Membrillo Solis research profile page. / My research interests encompass several areas in topology and geometry, including algebraic topology, differential geometry, metric geometry, and geometric and topological data analysis. In particular, I'm interested in the following topics:",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/membrillosolisi.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/moriartyj.html",
+      "cache_id": "profile-643801a2a56c8c02",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/morris-ian.html",
+      "cache_id": "profile-9066817ee34afbb9",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/morris-ian.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/nabijoun.html",
+      "cache_id": "profile-d31f66b26fd8bfe7",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/nabijoun.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/nguyenhthe.html",
+      "cache_id": "profile-652f191134e4819f",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/nicam.html",
+      "cache_id": "profile-a9cb1506a5d75af3",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/nicosiav.html",
+      "cache_id": "profile-d914fdb2b3cd8299",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/nicosiav.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/noohib.html",
+      "cache_id": "profile-5c50383fb0a1ab29",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/noohib.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/omerbobrowski.html",
+      "cache_id": "profile-f981bef53b2e00a8",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/papafitsorosk.html",
+      "cache_id": "profile-fd43632d4ec6f65b",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/patelv.html",
+      "cache_id": "profile-4588ebbb37b00fca",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/patelv.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/perran.html",
+      "cache_id": "profile-223a65c30ecf38d7",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/perran.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/prellbergt.html",
+      "cache_id": "profile-6f3e7f8d370517d2",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/qihong.html",
+      "cache_id": "profile-65f984fe42121eb8",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/rinconf.html",
+      "cache_id": "profile-b8b4d04755e7e67e",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/rollinsdelbano.html",
+      "cache_id": "profile-af7f863ee4f28983",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/rrusso.html",
+      "cache_id": "profile-d65ee56779370fa5",
+      "status": "parsed",
+      "record": {
+        "research": "My research focuses on String Theory, Quantum Field Theory and the relation between the two. In particular I am currently working on various aspects of the AdS/CFT duality in presence of heavy states and on the eikonal limit of gravitational scattering. Both problems provide interesting insights on black hole dynamics, which has been at centre of my interests in the past few years.",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/ruzhanskymichael.html",
+      "cache_id": "profile-807a3f68f448188b",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/sahaa.html",
+      "cache_id": "profile-e6b1ac1f538ca9b2",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/sahaa.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/sasakis.html",
+      "cache_id": "profile-b790761784dc10e8",
+      "status": "parsed",
+      "record": {
+        "research": "Algebraic number theory (the Langlands programme) and arithmetic geometry",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/shamiss.html",
+      "cache_id": "profile-2bd66a9361cf53a9",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/shaoa.html",
+      "cache_id": "profile-aa3e1321de57205d",
+      "status": "parsed",
+      "record": {
+        "research": "Partial differential equations (wave equations, hyperbolic PDE, dispersive PDE, geometric PDE), analysis, mathematical relativity, differential geometry",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/shaoa.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/shestopaloffa.html",
+      "cache_id": "profile-593858d24b2d015f",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/sijbrandijk.html",
+      "cache_id": "profile-943b6f11fbc44057",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/skrabaprimoz.html",
+      "cache_id": "profile-9af63c45995fc868",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/suttonchris.html",
+      "cache_id": "profile-d1b60bbda034d53a",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/suttonchris.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/tomasici.html",
+      "cache_id": "profile-2acf0b19ee69dd3c",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/tomasici.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/valiente-kroona.html",
+      "cache_id": "profile-2d1fd7fc55dfa40e",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/vergelpedro.html",
+      "cache_id": "profile-0a600dde68c88296",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
       "url": "https://www.qmul.ac.uk/maths/profiles/wangs.html",
       "cache_id": "profile-392a323036d02bf7",
       "status": "parsed",
       "record": {
-        "research": "See Shengwen Wang’s research profile pages including details of research interests, publications, and live grants.",
+        "research": "",
         "homepage": "",
         "cv": "https://irp.cdn-website.com/a78568ae/files/uploaded/cv.pdf",
         "publications": "https://www.qmul.ac.uk/maths/profiles/wangs.html#fourth",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/wardj.html",
+      "cache_id": "profile-874ab0eac721feee",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/wardj.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/wunderlichlinus.html",
+      "cache_id": "profile-6ee1005c41e77369",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/yassawir.html",
+      "cache_id": "profile-156d3117bd1ee769",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.qmul.ac.uk/maths/profiles/yassawir.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.r-info.tohoku.ac.jp/ja/62655542fa974192a12229a0193ab06e.html",
@@ -330302,6 +334055,48 @@
       "cache_id": "profile-873dcd7259fc5618",
       "status": "source_error",
       "record": null,
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.seresearch.qmul.ac.uk/ccant/people/mfayers/",
+      "cache_id": "profile-4fcc3b1e881b3c3c",
+      "status": "parsed",
+      "record": {
+        "research": "representation theory, algebraic combinatorics, finite groups, Hecke algebras, quantum algebra",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.seresearch.qmul.ac.uk/ccant/people/mfayers/#publications",
+        "orcid": "0000-0001-8945-8453",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.seresearch.qmul.ac.uk/cgag/people/jvalientekroon/",
+      "cache_id": "profile-803940612d41a0ff",
+      "status": "parsed",
+      "record": {
+        "research": "Mathematical General Relativity, Computer Algebra",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.seresearch.qmul.ac.uk/cgag/people/jvalientekroon/#publications",
+        "orcid": "0000-0001-9511-2520",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.seresearch.qmul.ac.uk/cgag/people/mfarber/",
+      "cache_id": "profile-cb78fdf92839a154",
+      "status": "parsed",
+      "record": {
+        "research": "Topology and AI, Algorithmic robotics, Stochastic topology",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.seresearch.qmul.ac.uk/cgag/people/mfarber/#publications",
+        "orcid": "0000-0003-1419-4347",
+        "checked_at": "2026-11-24"
+      },
       "checked_at": "2026-11-24"
     },
     {
@@ -340161,6 +343956,38 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "arick-shao": {
+      "status": "review_ready",
+      "author_id": "A5065514181",
+      "papers": [
+        {
+          "title": "A Gauge-Invariant Unique Continuation Criterion for Waves in Asymptotically Anti-de Sitter Spacetimes",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s00220-022-04434-6"
+        },
+        {
+          "title": "Bounds on the Bondi energy by a flux of curvature",
+          "year": 2016,
+          "url": "https://doi.org/10.4171/JEMS/638"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5065514181",
+        "orcid": "https://orcid.org/0000-0002-1237-2755",
+        "url": "https://openalex.org/authors/A5065514181",
+        "authorApiUrl": "https://api.openalex.org/authors/A5065514181",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5065514181,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 17,
+        "works": 28,
+        "citations": 178,
+        "hIndex": 8,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "artie-prendergast-smith": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
@@ -343508,6 +347335,33 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "navid-nabijou": {
+      "status": "review_ready",
+      "author_id": "A5078051745",
+      "papers": [
+        {
+          "title": "Logarithmic negative tangency and root stacks",
+          "year": 2026,
+          "url": "https://doi.org/10.4171/jems/1795"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5078051745",
+        "orcid": "https://orcid.org/0000-0003-0761-477X",
+        "url": "https://openalex.org/authors/A5078051745",
+        "authorApiUrl": "https://api.openalex.org/authors/A5078051745",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5078051745,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 19,
+        "works": 21,
+        "citations": 228,
+        "hIndex": 10,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "neil-dummigan": {
       "status": "review_ready",
       "author_id": "A5023191996",
@@ -345124,6 +348978,20 @@
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
+    },
+    "sungyoon-cho": {
+      "status": "identity_review",
+      "reason": "OpenAlex ORCID 命中且可识别一篇算术几何代表作，但同一档案的高引条目合并了半导体光刻和无线通信的同名论文。无法使用累计论文数和引用数。",
+      "author_id": "A5102935696",
+      "papers": [
+        {
+          "title": "THE BASIC LOCUS OF THE UNITARY SHIMURA VARIETY WITH MINUSCULE PARAHORIC LEVEL STRUCTURE, AND SPECIAL CYCLES",
+          "year": 2026,
+          "url": "https://doi.org/10.1017/S1474748026102187"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "candidate_url": "https://openalex.org/authors/A5102935696"
     },
     "svatopluk-krysl": {
       "status": "review_ready",
