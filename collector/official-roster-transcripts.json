@@ -3490,5 +3490,30 @@
         "homepage": ""
       }
     ]
+  },
+  "snu-roster-sp": {
+    "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor",
+    "checkedAt": "2026-11-24",
+    "scope": "分段核对韩语现任教授页，录入三位明确列出复或代数几何的教师。未逐条录入其余现任教师；荣休、研究员和联合单位范围待核。",
+    "entries": [
+      {
+        "name": "Dano Kim",
+        "title": "Professor",
+        "research": "Complex geometry, algebraic geometry and several complex variables",
+        "homepage": "https://sites.google.com/view/kimdano"
+      },
+      {
+        "name": "Jeongseok Oh",
+        "title": "Assistant Professor",
+        "research": "Algebraic geometry, Gromov–Witten theory and Donaldson–Thomas theory",
+        "homepage": ""
+      },
+      {
+        "name": "David Hyeon",
+        "title": "Professor",
+        "research": "Algebraic geometry",
+        "homepage": "http://www.math.snu.ac.kr/~hyeon/"
+      }
+    ]
   }
 }

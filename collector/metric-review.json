@@ -65,7 +65,11 @@
     "eleonore-faber": "A5024653730",
     "lenny-taelman": "A5011292891",
     "christopher-eur": "A5007457492",
-    "michael-wemyss": "A5038032650"
+    "michael-wemyss": "A5038032650",
+    "david-brander": "A5036757483",
+    "asma-hassannezhad": "A5017585597",
+    "nelly-villamizar": "A5016321436",
+    "ruadhai-dervan": "A5020993951"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -75,7 +79,10 @@
     "yoshinori-namikawa": "两篇已核论文在 OpenAlex 中未能对应到同一个有效作者 ID，论文数和引用量待核。",
     "bernd-siebert": "已匹配镜像对称论文，但 OpenAlex 作者档案混入同名或缩写相符的物理测量论文。累计指标待核。",
     "chi-li": "两篇代表性数学论文在 OpenAlex 对应不同作者 ID，累计指标待核。",
-    "ivan-cheltsov": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。"
+    "ivan-cheltsov": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。",
+    "person-3d91454d7fee": "三篇期刊 DOI 在 OpenAlex 分属 A5040778996、A5100422382、A5013520886，三条作者记录均显示浙江大学。另有一篇经出版方核实，但 OpenAlex 该 DOI 未返回对应姓名。作者覆盖范围未统一，论文总数和累计引用待核。",
+    "peter-beelen": "两篇 DOI 及校方 ORCID 均指向 A5017069208，但该 OpenAlex 档案收入同名医学论文，累计指标待核。DTU Orbit 数量按其原分类另列。",
+    "martin-man-chun-li": "已核对港中大名册及公开 CV。OpenAlex 的论文与作者匹配待核，论文数和引用量留空。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -89,6 +96,47 @@
     "alexander-yong": [
       "https://math.illinois.edu/directory/profile/ayong",
       "https://experts.illinois.edu/en/publications/critique-of-hirschs-citation-index-a-combinatorial-fermi-problem"
+    ],
+    "person-3d91454d7fee": [
+      "https://doi.org/10.1007/s42543-021-00039-5",
+      "https://doi.org/10.1515/ans-2022-0032",
+      "https://doi.org/10.1515/crelle-2024-0101",
+      "https://doi.org/10.1007/s42543-024-00088-6",
+      "https://openalex.org/A5040778996",
+      "https://openalex.org/A5100422382",
+      "https://openalex.org/A5013520886"
+    ],
+    "peter-beelen": [
+      "https://orbit.dtu.dk/en/persons/peter-beelen/",
+      "https://openalex.org/A5017069208",
+      "https://doi.org/10.1090/PROC/15331",
+      "https://doi.org/10.1109/TIT.2024.3510874"
+    ],
+    "david-brander": [
+      "https://orbit.dtu.dk/en/persons/david-brander/",
+      "https://doi.org/10.1007/s11464-024-0220-4"
+    ],
+    "asma-hassannezhad": [
+      "https://research-information.bris.ac.uk/en/persons/asma-hassannezhad/",
+      "https://doi.org/10.1093/imrn/rnx117",
+      "https://doi.org/10.1112/blms.13005"
+    ],
+    "nelly-villamizar": [
+      "https://cronfa.swansea.ac.uk/Record/cronfa71999/Details"
+    ],
+    "michael-wemyss": [
+      "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/michaelwemyss/",
+      "https://doi.org/10.1353/ajm.2019.0018",
+      "https://doi.org/10.4310/jdg/1736262124"
+    ],
+    "ruadhai-dervan": [
+      "https://warwick.ac.uk/fac/sci/maths/people/staff/Dervan/",
+      "https://doi.org/10.1007/s00208-021-02313-4",
+      "https://doi.org/10.1515/crelle-2024-0062"
+    ],
+    "martin-man-chun-li": [
+      "https://www.math.cuhk.edu.hk/people/academic-staff/professors",
+      "https://www.math.cuhk.edu.hk/~martinli/cv.pdf"
     ]
   }
 }

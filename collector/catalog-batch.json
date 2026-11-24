@@ -411,7 +411,7 @@
     {
       "id": "warwick",
       "coverage": "sample",
-      "coverageNote": "已解析 2/3 个登记来源，46 条任职或方向待核。 已收录 7 位学者，个人主页 1、CV 0、指标 1。",
+      "coverageNote": "已解析 2/3 个登记来源，45 条任职或方向待核。 已收录 8 位学者，个人主页 2、CV 0、指标 2。",
       "rosterLinks": [
         [
           "Mathematics Institute Algebraic Geometry",
@@ -1035,7 +1035,7 @@
     {
       "id": "zju",
       "coverage": "sample",
-      "coverageNote": "已解析 0/5 个登记来源，0 条任职或方向待核。 已收录 6 位学者，个人主页 6、CV 0、指标 0。 官方目录内容待提取。 已核对数学科学学院王枫等个人任职。为王枫使用三篇出版社论文消歧，OpenAlex 档案出现拆分；已收录代表作。院系现任总名单及研究组覆盖仍待核。",
+      "coverageNote": "已解析 1/6 个登记来源，14 条任职或方向待核。 已收录 6 位学者，个人主页 6、CV 0、指标 0。 新增数学交叉研究中心的教研人员入口，并以出版方与 OpenAlex 复核王枫的代表作。院系、研究中心跨聘关系及未公开方向人员继续待核。",
       "rosterLinks": [
         [
           "浙江大学王枫公开主页",
@@ -1050,6 +1050,10 @@
           "https://person.zju.edu.cn/0016170"
         ],
         [
+          "数学交叉研究中心教研人员",
+          "https://ciam.zju.edu.cn/89204/list.htm"
+        ],
+        [
           "数学科学学院教师王枫（英文版）",
           "https://person.zju.edu.cn/en/0014136"
         ],
@@ -1058,7 +1062,7 @@
           "https://person.zju.edu.cn/0014168"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-24"
     },
     {
       "id": "aix-marseille",
@@ -2042,20 +2046,24 @@
     },
     {
       "id": "science-tokyo",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，7 条任职或方向待核。 已收录 6 位学者，个人主页 2、CV 0、指标 0。 已提取数学系英文名册中的代数、几何、分析，以及其他系所关联成员。职级只在含义明确时用于入库。日文名册及跨系人员的最新任职仍待核。",
       "rosterLinks": [
         [
           "理学院数学系教师名录",
           "https://educ.titech.ac.jp/math/eng/faculty/"
+        ],
+        [
+          "数学系教員 スタッフ紹介",
+          "https://www.math.sci.isct.ac.jp/en/page_03.html"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-24"
     },
     {
       "id": "cuhk",
       "coverage": "sample",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 0。 官方目录内容待提取。",
+      "coverageNote": "已解析 1/4 个登记来源，27 条任职或方向待核。 已收录 3 位学者，个人主页 2、CV 2、指标 0。 已提取数学系教授、副教授及助理教授等现任分组，并用 CV 和科研门户确认部分研究方向。荣休和兼职名单及数学科学研究所的合聘范围仍待对账。",
       "rosterLinks": [
         [
           "港中大数字科研门户 · 数学系人员",
@@ -2064,9 +2072,17 @@
         [
           "校级科研门户 · 数学系",
           "https://research.cuhk.edu.hk/en/organisations/department-of-mathematics/"
+        ],
+        [
+          "Department of Mathematics Academic Staff",
+          "https://www.math.cuhk.edu.hk/people/academic-staff"
+        ],
+        [
+          "数学系 Professors",
+          "https://www.math.cuhk.edu.hk/people/academic-staff/professors"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-24"
     },
     {
       "id": "unsw",
@@ -2122,8 +2138,8 @@
     },
     {
       "id": "msu-moscow",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 2/3 个登记来源，235 条任职或方向待核。 已提取俄文数学力学系人员名录与英文微分几何人员链接。俄英文姓名、现任职级及其他相关教研室仍待逐条对账。",
       "rosterLinks": [
         [
           "/ Department of Differential Geometry and Applications /",
@@ -2138,12 +2154,12 @@
           "https://math.msu.ru/node/92"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "snu",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/5 个登记来源，0 条任职或方向待核。 已收录 3 位学者，个人主页 2、CV 0、指标 0。 韩文现任教授页可通过公开索引分段读取。已逐条核对部分复几何和代数几何教师，荣休、研究员及联合单位范围仍待核。",
       "rosterLinks": [
         [
           "교수",
@@ -2156,14 +2172,22 @@
         [
           "数理科学部教授名录",
           "https://www.math.snu.ac.kr/eng/bbs/page.php?hid=professor"
+        ],
+        [
+          "College of Natural Sciences Faculty",
+          "https://science.snu.ac.kr/about/organization/faculty"
+        ],
+        [
+          "Natural Sciences 학부 Mathematical Sciences",
+          "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-24"
     },
     {
       "id": "tum",
       "coverage": "sample",
-      "coverageNote": "已解析 0/4 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 1。 官方目录内容待提取。",
+      "coverageNote": "已解析 1/6 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 1、指标 1。",
       "rosterLinks": [
         [
           "Home - Research Group Algebra",
@@ -2180,9 +2204,17 @@
         [
           "校级科研门户 · 数学系",
           "https://portal.fis.tum.de/en/organisations/department-of-mathematics/persons/"
+        ],
+        [
+          "Discrete Differential Geometry",
+          "https://www.math.cit.tum.de/en/math/research/groups/geometry-and-topology/discrete-differential-geometry/"
+        ],
+        [
+          "Geometry and Topology",
+          "https://www.math.cit.tum.de/en/math/research/geometry-topology/"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-24"
     },
     {
       "id": "hku",
@@ -2235,7 +2267,7 @@
     {
       "id": "mcgill",
       "coverage": "sample",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 已收录 3 位学者，个人主页 0、CV 0、指标 0。 官方目录内容待提取。 已查院系 Academic Staff 与具明确几何方向的官方个人页面。其余 A–Z、相关研究中心和联合任职范围仍待核。",
+      "coverageNote": "已解析 1/3 个登记来源，26 条任职或方向待核。 已收录 3 位学者，个人主页 1、CV 1、指标 0。 已查院系 Academic Staff 与具明确几何方向的官方个人页面。其余 A–Z、相关研究中心和联合任职范围仍待核。",
       "rosterLinks": [
         [
           "Research Group Memebers",
@@ -2250,7 +2282,7 @@
           "https://www.mcgill.ca/mathstat/people-0/academic-staff"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "hkust",
@@ -2275,7 +2307,7 @@
     {
       "id": "kcl",
       "coverage": "sample",
-      "coverageNote": "已解析 0/4 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 0、CV 0、指标 0。 官方目录内容待提取。",
+      "coverageNote": "已解析 0/5 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 0、CV 0、指标 0。 官方目录内容待提取。",
       "rosterLinks": [
         [
           "Mathematics Research Groups",
@@ -2292,6 +2324,10 @@
         [
           "数学系教师与研究员",
           "https://www.kcl.ac.uk/mathematics/about/people?role=Academics%2CResearchers"
+        ],
+        [
+          "Geometry personnel",
+          "https://kclpure.kcl.ac.uk/portal/en/organisations/geometry/persons/"
         ]
       ],
       "checkedAt": null
@@ -2358,19 +2394,19 @@
     },
     {
       "id": "tu-delft",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，30 条任职或方向待核。",
       "rosterLinks": [
         [
           "Overview of professors at the faculty of EEMCS TU Delft",
           "https://www.tudelft.nl/en/eemcs/the-faculty/professors"
         ],
         [
-          "应用数学研究所 · 分析组",
+          "Applied Mathematics · Analysis group personnel",
           "https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics/analysis/people"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "usp",
@@ -2411,7 +2447,7 @@
     {
       "id": "cityuhk",
       "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
       "rosterLinks": [
         [
           "Faculty Members",
@@ -2420,6 +2456,10 @@
         [
           "数学系教师名录",
           "https://www.cityu.edu.hk/en/ma/about-us/ma-academic-faculty"
+        ],
+        [
+          "Department of Mathematics Faculty Members",
+          "https://www.cityu.edu.hk/ma/about-us/ma-academic-faculty"
         ]
       ],
       "checkedAt": null
@@ -2447,7 +2487,7 @@
     {
       "id": "uva-amsterdam",
       "coverage": "sample",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 1。 官方目录内容待提取。 已查 Korteweg-de Vries 数学所教员入口、代数几何与数学物理研究项目页，并交叉确认代数几何项目负责人。全组和跨校任职仍待核。",
+      "coverageNote": "已解析 1/4 个登记来源，48 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 1。 已查 Korteweg-de Vries 数学所教员入口、代数几何与数学物理研究项目页，并交叉确认代数几何项目负责人。全组和跨校任职仍待核。",
       "rosterLinks": [
         [
           "Algebra, Geometry and Mathematical Physics - Korteweg-de Vries Institute for Mathematics - Universit",
@@ -2456,14 +2496,22 @@
         [
           "Korteweg-de Vries 数学所",
           "https://kdvi.uva.nl/people/academic-staff"
+        ],
+        [
+          "Wetenschappelijk Personeel",
+          "https://kdvi.uva.nl/nl/wie-is-wie/wetenschappelijk-personeel"
+        ],
+        [
+          "Directory",
+          "https://kdvi.uva.nl/people/people-at-kdvi-list"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-24"
     },
     {
       "id": "bristol",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/4 个登记来源，1 条任职或方向待核。 官方目录内容待提取。 已查看数学系研究领域、研究人员公开名册和个人任职页，确认 Heilbronn 讲席，短期 Research Fellow 单列。其余人员及联合研究单位范围仍待对账。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/5 个登记来源，15 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 1。 学术名册站点显示维护页。已从数学学院 Analysis and Geometry 与 Number Theory 研究页提取部分人员，并对照任职与成果门户。现任全名单及联合单位待核。",
       "rosterLinks": [
         [
           "Academic Staff",
@@ -2480,9 +2528,13 @@
         [
           "校级科研门户 · 数学学院",
           "https://research-information.bris.ac.uk/en/organisations/school-of-mathematics/persons/"
+        ],
+        [
+          "Academic Staff (Concise View)",
+          "https://www.bristolmathsresearch.org/people/academic-concise/"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "iit-bombay",
@@ -2630,15 +2682,15 @@
     },
     {
       "id": "hu-berlin",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/1 个登记来源，2 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 0。 已读取代数几何组旧版名册作线索，并用现行个人主页复核一位现任教授。旧条目和院系其他几何分组仍待对账。",
       "rosterLinks": [
         [
-          "数学研究所 · 代数几何组",
+          "Algebraic Geometry group · older faculty archive",
           "https://www.math.hu-berlin.de/~farkas/alggeomgroup/"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "uq",
@@ -2731,7 +2783,7 @@
     {
       "id": "bit",
       "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
       "rosterLinks": [
         [
           "数学系-北京理工大学数学与统计学院",
@@ -2740,6 +2792,10 @@
         [
           "数学系或所属学院人员入口",
           "https://math.bit.edu.cn/en/Faculty/FacultyDirectory/index.htm"
+        ],
+        [
+          "数学与统计学院师资机构目录",
+          "https://math.bit.edu.cn/szdw/jgml/index.htm"
         ]
       ],
       "checkedAt": null
@@ -2894,15 +2950,15 @@
     },
     {
       "id": "uam",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/1 个登记来源，80 条任职或方向待核。 已提取数学系人员卡的公开职级及个人链接。研究组层级的身份和方向、荣休与合聘范围仍待核。",
       "rosterLinks": [
         [
           "数学系或所属学院人员入口",
           "https://www.uam.es/ciencias/facultad/departamentos/matematicas/listado-pdi"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "boston-university",
@@ -2943,7 +2999,7 @@
     {
       "id": "ucas",
       "coverage": "sample",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 0、指标 0。 官方目录内容待提取。 已查看数学科学学院相关名录及校级个人页，核对两位教师的教授任职与研究方向。中科院相关院所双聘和院系覆盖仍待核。",
+      "coverageNote": "已解析 2/5 个登记来源，125 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 0、指标 0。 已查看数学科学学院相关名录及校级个人页，核对两位教师的教授任职与研究方向。中科院相关院所双聘和院系覆盖仍待核。",
       "rosterLinks": [
         [
           "师资队伍",
@@ -2956,9 +3012,17 @@
         [
           "数学系或所属学院人员入口",
           "https://math.ucas.ac.cn/index.php/en/facultystaff"
+        ],
+        [
+          "数学科学学院专任教师",
+          "https://math.ucas.ac.cn/index.php/zh-CN/szdw/fulltimeteacher"
+        ],
+        [
+          "分析数学与微分方程",
+          "https://math.ucas.ac.cn/index.php/zh-CN/szdw/fulltimeteacher/jys2"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-24"
     },
     {
       "id": "adelaide",
@@ -3102,19 +3166,19 @@
     },
     {
       "id": "uchile",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，2 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 0、指标 0。 已提取理学院数学系 Cuerpo académico 的姓名、职级与方向。工程学院数学工程系、CMM 和跨学院任职另待核。",
       "rosterLinks": [
         [
           "Áreas de investigación - Facultad de Ciencias - Universidad de Chile",
           "https://ciencias.uchile.cl/departamentos/matematicas/investigacion-publicaciones/areas-investigacion"
         ],
         [
-          "数学系或所属学院人员入口",
+          "Facultad de Ciencias · Departamento de Matemáticas · Cuerpo académico",
           "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "michigan-state",
@@ -3134,8 +3198,8 @@
     },
     {
       "id": "rwth",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，10 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 0。 已提取 Geometry and Analysis 教研组公开人员名录并核对组负责人。数学系其他研究单位及合聘任职待对账。",
       "rosterLinks": [
         [
           "RWTH Aachen University — Chair for Geometry and Analysis",
@@ -3146,7 +3210,7 @@
           "https://rwthcontacts.rwth-aachen.de/organization/ORG-66KMF"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "lisbon",
@@ -3170,19 +3234,19 @@
     },
     {
       "id": "upc",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，7 条任职或方向待核。 已提取 IMTech 机构 Faculty Members 人员表。数学系与 IMTech 的交叉任职和三方向具体人员仍待核。",
       "rosterLinks": [
         [
           "Research Centers and Groups — Department of Mathematics — UPC. Universitat Politècnica de ",
           "https://mat.upc.edu/en/research/researc-centers-and-groups"
         ],
         [
-          "数学系或所属学院人员入口",
+          "Institute of Mathematics (IMTech) Faculty Members",
           "https://intranet.imtech.upc.edu/en/people/faculty-members"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "bologna",
@@ -3274,8 +3338,8 @@
     },
     {
       "id": "uwa",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，21 条任职或方向待核。",
       "rosterLinks": [
         [
           "Mathematics of Symmetry and Computation",
@@ -3286,12 +3350,12 @@
           "https://www.uwa.edu.au/schools/physics-mathematics-computing/mathematics-and-stats"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "hse",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，35 条任职或方向待核。 已收录 32 位学者，个人主页 0、CV 0、指标 0。 已提取 Faculty of Mathematics 公开人员名录与自报研究关键词。部分联合研究所和兼职任职仍待逐人核对。",
       "rosterLinks": [
         [
           "Science – Faculty of Mathematics – HSE University",
@@ -3302,7 +3366,7 @@
           "https://math.hse.ru/en/persons"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "jordan",
@@ -3334,20 +3398,20 @@
     },
     {
       "id": "asu",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/1 个登记来源，55 条任职或方向待核。",
       "rosterLinks": [
         [
-          "数学与统计科学学院（研究方向总览）",
+          "School of Mathematical and Statistical Sciences · Research Areas",
           "https://math.asu.edu/research"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "beihang",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，13 条任职或方向待核。",
       "rosterLinks": [
         [
           "科研方向-北京航空航天大学 数学科学学院",
@@ -3358,7 +3422,7 @@
           "https://shi-ev.buaa.edu.cn/xyjslb.jsp?id=1068&lang=en&st=0&urltype=tsites.CollegeTeacherList&wbtreeid=1001"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "cairo",
@@ -3510,15 +3574,15 @@
     },
     {
       "id": "ntnu",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/1 个登记来源，105 条任职或方向待核。",
       "rosterLinks": [
         [
           "数学科学系人员名录",
           "https://www.ntnu.edu/imf/employees"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "novosibirsk",
@@ -3578,8 +3642,8 @@
     },
     {
       "id": "swansea",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/3 个登记来源，3 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 1。 已提取 Algebra, Geometry and Topology 研究组具名成员及个人方向。组页身份与个人页有冲突的记录留待确认，院系完整人员表和其他研究组仍待核。",
       "rosterLinks": [
         [
           "Mathematics Research and Impact - Swansea University",
@@ -3588,21 +3652,25 @@
         [
           "数学系或所属学院人员入口",
           "https://wap.swan.ac.uk/staff/science-and-engineering/school-of-mathematics-and-computer-science-staff/maths/"
+        ],
+        [
+          "Algebra, Geometry and Topology group",
+          "https://www.swansea.ac.uk/maths/research-and-impact/algebra-geometry-topology/"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-24"
     },
     {
       "id": "dtu",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/1 个登记来源，8 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 1、指标 1。 已提取 Section for Mathematics 的公开人员卡，核对研究门户中的微分几何和有限域代数曲线学者。其他数学研究组与跨院任职待对账。",
       "rosterLinks": [
         [
           "数学系或所属学院人员入口",
           "https://www.compute.dtu.dk/Sections/Math"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "tu-dresden",
@@ -3714,19 +3782,19 @@
     },
     {
       "id": "sevilla",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，6 条任职或方向待核。",
       "rosterLinks": [
         [
           "SISIUS: Grupo de Investigación: Singularidades, Geometría Algebraica Aritmética, Grupos y ",
           "https://investigacion.us.es/sisius/grupo/FQM218"
         ],
         [
-          "数学系或所属学院人员入口",
+          "Departamento de Análisis Matemático · Personas",
           "https://www.departamento.us.es/danamate/members.html"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "ufrj",
@@ -3815,7 +3883,7 @@
     {
       "id": "glasgow",
       "coverage": "sample",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 1。 官方目录内容待提取。 已核对数学与统计学院代数几何和几何拓扑组页面，以及校方标明了专业和 ORCID 的个人页。其他组内成员和跨机构任职仍待确认。",
+      "coverageNote": "已解析 1/3 个登记来源，105 条任职或方向待核。 已收录 4 位学者，个人主页 4、CV 0、指标 1。 已提取数学与统计学院 Research and Teaching 及 Honorary and Visiting 两个分组，并复核代数几何组和部分个人成果页。合聘、组内身份细分及其余研究方向待核。",
       "rosterLinks": [
         [
           "University of Glasgow - Schools - School of Mathematics & Statistics - Research - Research",
@@ -3830,7 +3898,7 @@
           "https://www.gla.ac.uk/schools/mathematicsstatistics/research/maths/geometryandtopology/"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "uic",
@@ -3878,8 +3946,8 @@
     },
     {
       "id": "southampton",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，2 条任职或方向待核。",
       "rosterLinks": [
         [
           "Algebraic Geometry",
@@ -3890,7 +3958,7 @@
           "https://www.southampton.ac.uk/people?search_api_school=School+of+Mathematical+Sciences"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     },
     {
       "id": "warsaw",
@@ -3898,7 +3966,7 @@
       "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
       "rosterLinks": [
         [
-          "数学信息与力学院院系入口",
+          "Faculty of Mathematics, Informatics and Mechanics · Faculty leadership",
           "https://mimuw.edu.pl/en/faculty/"
         ]
       ],
@@ -3978,8 +4046,8 @@
     },
     {
       "id": "xjtu",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/4 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/4 个登记来源，16 条任职或方向待核。 已提取现任数学系中文名录的人名和个人页链接。英文 Professors 页面未显示完整名单，教授职级与校内外研究单位待逐人对账。",
       "rosterLinks": [
         [
           "数学系-西安交通大学数学与统计学院",
@@ -3998,7 +4066,7 @@
           "https://faculty-en.xjtu.edu.cn/discipline_teacher.jsp?id=2744&lang=en&st=0&urltype=tsites.DisciplineTeacherList&wbtreeid=1031"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-23"
     }
   ],
   "people": [
@@ -5352,6 +5420,86 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "asma-hassannezhad",
+      "name": "Asma Hassannezhad",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "bristol",
+          "department": "数学系",
+          "title": "Associate Professor in Mathematics",
+          "url": "https://research-information.bris.ac.uk/en/persons/asma-hassannezhad/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry and spectral geometry"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://research-information.bris.ac.uk/en/persons/asma-hassannezhad/",
+      "publicationCounts": [
+        {
+          "value": 18,
+          "scope": "布里斯托大学科研门户 Article (Academic Journal) 分类",
+          "checkedAt": "2026-11-24",
+          "url": "https://research-information.bris.ac.uk/en/persons/asma-hassannezhad/"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5017585597",
+          "orcid": "https://orcid.org/0000-0002-5524-7073",
+          "url": "https://openalex.org/authors/A5017585597",
+          "authorApiUrl": "https://api.openalex.org/authors/A5017585597",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5017585597,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 17,
+          "works": 27,
+          "citations": 344,
+          "hIndex": 11,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Spectral Geometry of the Steklov Problem on Orbifolds",
+          "year": 2019,
+          "url": "https://doi.org/10.1093/imrn/rnx117",
+          "type": "期刊论文"
+        },
+        {
+          "title": "On Pleijel’s nodal domain theorem for the Robin problem",
+          "year": 2024,
+          "url": "https://doi.org/10.1112/blms.13005",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and spectral geometry",
+          "url": "https://www.bristol.ac.uk/maths/events/wim-speaker-profiles/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://research-information.bris.ac.uk/en/persons/asma-hassannezhad/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -6746,8 +6894,59 @@
       "recordStatus": "directory"
     },
     {
+      "id": "conan-nai-chung-leung",
+      "name": "Conan Nai Chung Leung",
+      "aliases": [
+        "Nai Chung Leung",
+        "Naichung Conan Leung",
+        "梁乃聪"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "cuhk",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://research.cuhk.edu.hk/en/persons/nai-chung-leung/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://research.cuhk.edu.hk/en/persons/nai-chung-leung/publications/",
+      "publicationCounts": [
+        {
+          "value": 72,
+          "scope": "港中大科研门户 Publication in refereed journal 分类",
+          "checkedAt": "2026-11-24",
+          "url": "https://research.cuhk.edu.hk/en/persons/nai-chung-leung/"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry, algebraic geometry, differential geometry, mirror symmetry and special holonomy",
+          "url": "https://research.cuhk.edu.hk/en/persons/nai-chung-leung/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
       "id": "man-chun-lee",
-      "name": "Man-Chun Lee",
+      "name": "Man Chun Lee",
       "aliases": [],
       "affiliations": [
         {
@@ -6756,7 +6955,7 @@
           "title": "Assistant Professor",
           "url": "https://research.cuhk.edu.hk/en/persons/man-chun-lee/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-24"
         }
       ],
       "fields": [
@@ -6794,7 +6993,187 @@
           "url": "https://research.cuhk.edu.hk/en/persons/man-chun-lee/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "martin-man-chun-li",
+      "name": "Martin Man Chun Li",
+      "aliases": [
+        "Martin Li",
+        "Martin Man-chun Li"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "cuhk",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.math.cuhk.edu.hk/people/academic-staff/martinli",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry, geometric analysis and minimal surfaces"
+      ],
+      "homepage": "https://www.math.cuhk.edu.hk/~martinli/",
+      "cvUrl": "https://www.math.cuhk.edu.hk/~martinli/cv.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已核对港中大名册及公开 CV。OpenAlex 的论文与作者匹配待核，论文数和引用量留空。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, geometric analysis and minimal surfaces",
+          "url": "https://www.math.cuhk.edu.hk/~martinli/cv.pdf"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "david-brander",
+      "name": "David Brander",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "dtu",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://orbit.dtu.dk/en/persons/david-brander/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry and integrable geometric systems"
+      ],
+      "homepage": "https://people.compute.dtu.dk/dbra/index.html",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://people.compute.dtu.dk/dbra/papers.html",
+      "publicationCounts": [
+        {
+          "value": 29,
+          "scope": "DTU Orbit 作者个人页 Journal article 分类",
+          "checkedAt": "2026-11-24",
+          "url": "https://orbit.dtu.dk/en/persons/david-brander/"
+        },
+        {
+          "value": 41,
+          "scope": "DTU Orbit 作者个人页 Publications 总条目，含多种成果类型",
+          "checkedAt": "2026-11-24",
+          "url": "https://orbit.dtu.dk/en/persons/david-brander/"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5036757483",
+          "orcid": "https://orcid.org/0000-0002-0094-5325",
+          "url": "https://openalex.org/authors/A5036757483",
+          "authorApiUrl": "https://api.openalex.org/authors/A5036757483",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5036757483,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 31,
+          "works": 49,
+          "citations": 391,
+          "hIndex": 12,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Gauss Maps of Conformal Surfaces in the Möbius n-sphere",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s11464-024-0220-4"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and integrable geometric systems",
+          "url": "https://orbit.dtu.dk/en/persons/david-brander/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://orbit.dtu.dk/en/persons/david-brander/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "peter-beelen",
+      "name": "Peter Beelen",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "dtu",
+          "department": "数学系",
+          "title": "Professor, Head of section",
+          "url": "https://orbit.dtu.dk/en/persons/peter-beelen/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://people.compute.dtu.dk/pabe/",
+      "cvUrl": "https://people.compute.dtu.dk/pabe/downloads/cv_pbe.pdf",
+      "cvType": "公开 CV（简版，历史版本）",
+      "cvStatus": null,
+      "publicationsUrl": "https://orbit.dtu.dk/en/persons/peter-beelen/",
+      "publicationCounts": [
+        {
+          "value": 58,
+          "scope": "DTU Orbit 作者个人页 Journal article 分类",
+          "checkedAt": "2026-11-24",
+          "url": "https://orbit.dtu.dk/en/persons/peter-beelen/"
+        },
+        {
+          "value": 79,
+          "scope": "DTU Orbit 作者个人页 Publications 总条目，含多种成果类型",
+          "checkedAt": "2026-11-24",
+          "url": "https://orbit.dtu.dk/en/persons/peter-beelen/"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "两篇 DOI 及校方 ORCID 均指向 A5017069208，但该 OpenAlex 档案收入同名医学论文，累计指标待核。DTU Orbit 数量按其原分类另列。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/A5017069208",
+      "papers": [
+        {
+          "title": "A proof of Sørensen’s conjecture on Hermitian surfaces",
+          "year": 2021,
+          "url": "https://doi.org/10.1090/PROC/15331",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of curves over finite fields and algebraic coding theory",
+          "url": "https://people.compute.dtu.dk/pabe/downloads/cv_pbe.pdf"
+        }
+      ],
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -8859,6 +9238,90 @@
       "recordStatus": "directory"
     },
     {
+      "id": "andrew-wilson",
+      "name": "Andrew Wilson",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "glasgow",
+          "department": "数学系",
+          "title": "Senior Lecturer (Mathematics)",
+          "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/andrewwilson/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Please see my personal webpages or below for more information"
+      ],
+      "homepage": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/andrewwilson/",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/andrewwilson/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, birational geometry and the minimal model program",
+          "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/andrewwilson/"
+        },
+        {
+          "text": "My research interests lie in Algebraic Geometry and applications, specifically Birational Geometry and problems surrounding the Minimal Model Program . I also have a keen interest in the Learning & Teaching of Mathematics, especially surrounding engagement. Please see my personal webpages or below for more information.",
+          "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/andrewwilson/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "dinakar-muthiah",
+      "name": "Dinakar Muthiah",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "glasgow",
+          "department": "数学系",
+          "title": "Senior Lecturer (Mathematics)",
+          "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dinakarmuthiah/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry and representation theory"
+      ],
+      "homepage": "https://dmuthiah.github.io/",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dinakarmuthiah/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and representation theory",
+          "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dinakarmuthiah/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
       "id": "michael-wemyss",
       "name": "Michael Wemyss",
       "aliases": [],
@@ -8866,7 +9329,7 @@
         {
           "schoolId": "glasgow",
           "department": "数学系",
-          "title": "Professor",
+          "title": "Professor (Chair of Mathematics)",
           "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/michaelwemyss/",
           "type": "primary",
           "checkedAt": "2026-11-24"
@@ -8876,12 +9339,19 @@
         "algebraic"
       ],
       "tags": [],
-      "homepage": "https://www.maths.gla.ac.uk/~mwemyss/",
+      "homepage": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/michaelwemyss/",
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
       "publicationsUrl": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/michaelwemyss/",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 33,
+          "scope": "格拉斯哥数学与统计学院个人页 All publications 的档案条目数，含书籍和会议成果",
+          "checkedAt": "2026-11-24",
+          "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/michaelwemyss/"
+        }
+      ],
       "opportunities": [],
       "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
       "metrics": [
@@ -8904,28 +9374,65 @@
       "identityUrl": null,
       "papers": [
         {
-          "title": "Stringy Kähler moduli, mutation and monodromy",
-          "year": 2025,
-          "type": "期刊论文",
-          "url": "https://doi.org/10.4310/jdg/1736262124",
-          "relation": "研究 Kähler 模、变异与单值性之间的联系。"
+          "title": "Contractions and deformations",
+          "year": 2019,
+          "url": "https://doi.org/10.1353/ajm.2019.0018"
         },
         {
-          "title": "Splitting symplectic monodromy",
-          "year": 2026,
-          "type": "期刊论文",
-          "url": "https://doi.org/10.3842/SIGMA.2026.080",
-          "relation": "与 Ailsa Keating、Ivan Smith 合作研究辛单值性。"
+          "title": "Stringy Kähler moduli, mutation and monodromy",
+          "year": 2025,
+          "url": "https://doi.org/10.4310/jdg/1736262124",
+          "type": "期刊论文"
         }
       ],
       "directoryEvidence": [
         {
-          "text": "Algebraic geometry, birational geometry, singularities and derived categories",
+          "text": "Algebraic geometry, resolutions of singularities and the minimal model program",
           "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/michaelwemyss/"
         },
         {
           "text": "个人研究或论文来源",
           "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/michaelwemyss/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "vaibhav-gadre",
+      "name": "Vaibhav Gadre",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "glasgow",
+          "department": "数学系",
+          "title": "Professor (Mathematics)",
+          "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vaibhavgadre/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Hyperbolic geometry and Teichmüller theory"
+      ],
+      "homepage": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vaibhavgadre/",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vaibhavgadre/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Hyperbolic geometry and Teichmüller theory",
+          "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vaibhavgadre/"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -10011,6 +10518,1289 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alexander-kolesnikov",
+      "name": "Alexander Kolesnikov",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.hse.ru/en/org/persons/23597497",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Gaussian measures Sobolev spaces analysis on riemannian manifolds convex geometry elliptic and parabolic equations geometric flows infinite-dimensional analysis isoperimetric inequality monge-ampere equations optimal transportation theory stochastics",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alexander-pavlov",
+      "name": "Alexander Pavlov",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.hse.ru/en/org/persons/224233362",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "DG categories Hochschild (co)homology of varieties and categories Stable Categories of Maximal Cohen-Macaulay modules and Matrix Factorizations algebraic geometry derived categories homological algebra",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alexander-s-tikhomirov",
+      "name": "Alexander S. Tikhomirov",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Research Professor",
+          "url": "https://www.hse.ru/en/org/persons/133990031",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "27.17.33 Алгебраическая геометрия 27.19.19 Топология многообразий algebraic geometry",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alexandr-buryak",
+      "name": "Alexandr Buryak",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.hse.ru/en/org/persons/356176500",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "algebraic geometry combinatorics mathematical physics topology"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "algebraic geometry combinatorics mathematical physics topology",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alexei-gorinov",
+      "name": "Alexei Gorinov",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.hse.ru/en/org/persons/45376677",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Hodge theory Topology of complex algebraic varieties configuration spaces discriminant complements geometric structures on manifolds low-dimensional topology moduli spaces",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alexey-golota",
+      "name": "Alexey Golota",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.hse.ru/en/org/persons/208493934",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Birational geometry Fano varieties holomorphic foliations"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Birational geometry Fano varieties holomorphic foliations",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alexey-l-gorodentsev",
+      "name": "Alexey L. Gorodentsev",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.hse.ru/en/org/persons/451657",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Symplectic Geometry algebraic geometry homological algebra mathematical physics",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "andrey-levin",
+      "name": "Andrey Levin",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.hse.ru/en/org/persons/23596915",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Hitchin systems Hodge theory algebraic curves modular forms polylogarithms",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "artem-avilov",
+      "name": "Artem Avilov",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.hse.ru/en/org/persons/69160575",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "algebraic geometry"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "algebraic geometry",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ekaterina-amerik",
+      "name": "Ekaterina Amerik",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.hse.ru/en/org/persons/35436074",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [
+        "algebraic geometry complex geometry holomorphic foliations"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "algebraic geometry complex geometry holomorphic foliations",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "evgeny-feigin",
+      "name": "Evgeny Feigin",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.hse.ru/en/org/persons/14010827",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "algebraic geometry combinatorics mathematical physics representation theory",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "evgeny-smirnov",
+      "name": "Evgeny Smirnov",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Associate Professor, Research Fellow",
+          "url": "https://www.hse.ru/en/staff/esmirnov",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "algebraic combinatorics algebraic geometry representation theory",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "igor-artamkin",
+      "name": "Igor Artamkin",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.hse.ru/en/org/persons/484626",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "algebraic geometry combinatorics graphs quantum field theory"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "algebraic geometry combinatorics graphs quantum field theory",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "karine-kuyumzhiyan",
+      "name": "Karine Kuyumzhiyan",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.hse.ru/en/org/persons/38617949",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Affine Algebraic Geometry Automorphism Group Action Torus Actions",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "lev-lokutsievskiy",
+      "name": "Lev Lokutsievskiy",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.hse.ru/en/org/persons/962867201",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "sub-Riemannian geometry Calculus of variations and optimal control Singular extremals quantum control",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "lyalya-guseva",
+      "name": "Lyalya Guseva",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.hse.ru/en/staff/lyalyaguseva",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "derived algebraic geometry"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "derived algebraic geometry",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "marat-rovinsky",
+      "name": "Marat Rovinsky",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.hse.ru/en/org/persons/27312118",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "algebra algebraic geometry representation theory"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "algebra algebraic geometry representation theory",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "maxim-kazaryan",
+      "name": "Maxim Kazaryan",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.hse.ru/en/org/persons/10367768",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "complex"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "characteristic classes enumerative problems of complex geometry geometry moduli spaces singularity theory stratification of moduli spaces of curves and meromorphic functions topology",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "mikhail-v-finkelberg",
+      "name": "Mikhail V. Finkelberg",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.hse.ru/en/org/persons/2806441",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "algebraic geometry representation theory"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "algebraic geometry representation theory",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "natalia-amburg",
+      "name": "Natalia Amburg",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.hse.ru/en/org/persons/14026612",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "algebraic combinatorics algebraic geometry graph theory moduli space of algebraic curves string theory",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ossip-schwarzman",
+      "name": "Ossip Schwarzman",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.hse.ru/en/org/persons/3744972",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Discrete subgroups of Lie groups hyperbolic geometry reflection groups",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "pavel-nikolaevich-pyatov",
+      "name": "Pavel Nikolaevich Pyatov",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.hse.ru/en/org/persons/6708025",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "braid groups and their R-matrix representations integrable systems noncommutative differential geometry quantum groups",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "pavel-osipov",
+      "name": "Pavel Osipov",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.hse.ru/en/org/persons/65839935",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential Geometry Hessian Geometry geometrical structures on Lie groups",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "petr-dunin-barkowski",
+      "name": "Petr Dunin-Barkowski",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.hse.ru/en/org/persons/136322960",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "algebraic geometry combinatorics knot invariants mathematical physics",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "sabir-gusein-zade",
+      "name": "Sabir Gusein-Zade",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.hse.ru/en/org/persons/14239110",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic Geometry (Grothendieck rings of quasi-projective varieties with additional structures, valuations on surfaces, symmetries of orbifolds) Algebraic Topology (generalized indices of vector fields and 1-forms, orbifold invariants) Singularity Theory (topology of singularities, equivariant singularities)",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "sergei-lando",
+      "name": "Sergei Lando",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.hse.ru/en/org/persons/311971",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "algebraic geometry combinatorics low-dimensional topology singularity theory",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "sergei-lvovsky",
+      "name": "Sergei Lvovsky",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.hse.ru/en/staff/lvovski",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry of projective varieties"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of projective varieties",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "taras-panov",
+      "name": "Taras Panov",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Leading Research Fellow, Professor",
+          "url": "https://www.hse.ru/en/org/persons/14061554",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "algebraic geometry algebraic topology combinatorics"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "algebraic geometry algebraic topology combinatorics",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "tianyu-ma",
+      "name": "Tianyu Ma",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://www.hse.ru/en/org/persons/776430446",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential Geometry Finsler geometry rigidity of conformal structures",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "vasily-bolbachan",
+      "name": "Vasily Bolbachan",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.hse.ru/en/staff/vbolbachan",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry polylogarithms"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry polylogarithms",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "vladimir-medvedev",
+      "name": "Vladimir Medvedev",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Deputy Dean for Admissions, Associate Professor",
+          "url": "https://www.hse.ru/en/org/persons/101534432",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential Geometry Geometric analysis Minimal submanifolds Spectral geometry static manifolds",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "vladimir-zhgoon",
+      "name": "Vladimir Zhgoon",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hse",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.hse.ru/en/org/persons/35824893",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Coxeter groups Hamiltonian varieties Spherical varieties actions of affine algebraic groups algebraic geometry flag varieties geometric invariant theory",
+          "url": "https://math.hse.ru/en/persons"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "gavril-farkas",
+      "name": "Gavril Farkas",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hu-berlin",
+          "department": "数学系",
+          "title": "Professor of Algebraic Geometry",
+          "url": "https://www.mathematik.hu-berlin.de/~farkas/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "-Professor of Algebraic Geometry"
+      ],
+      "homepage": "https://www.mathematik.hu-berlin.de/~farkas/",
+      "cvUrl": "https://www.mathematik.hu-berlin.de/~farkas/vita2.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://www.mathematik.hu-berlin.de/~farkas/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "-Professor of Algebraic Geometry",
+          "url": "https://www.math.hu-berlin.de/~farkas/alggeomgroup/"
+        },
+        {
+          "text": "Algebraic geometry, moduli of curves, enumerative geometry and syzygies",
+          "url": "https://www.mathematik.hu-berlin.de/~farkas/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -13622,7 +15412,7 @@
           "title": "Distinguished James McGill Professor",
           "url": "https://www.mcgill.ca/mathstat/niky-kamran",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-24"
         }
       ],
       "fields": [
@@ -13632,11 +15422,11 @@
         "Differential geometry and geometric analysis",
         "Analysis Geometry Mathematical Physics"
       ],
-      "homepage": null,
-      "cvUrl": null,
+      "homepage": "https://sites.google.com/view/nikykamranmath/home",
+      "cvUrl": "https://academieroyale.be/Academie/documents/CVAcademie202229633.pdf",
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://drive.google.com/file/d/1nIp_HXWXhb_HALgdQTg4IZHbhgpdPLnD/view?usp=sharing",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
@@ -13653,7 +15443,7 @@
           "url": "https://www.mcgill.ca/mathstat/niky-kamran"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -21360,6 +23150,295 @@
       "recordStatus": "directory"
     },
     {
+      "id": "umberto-hryniewicz",
+      "name": "Umberto Hryniewicz",
+      "aliases": [
+        "Umberto Leone Hryniewicz"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "rwth",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.mathga.rwth-aachen.de/en/~hryniewicz/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.mathga.rwth-aachen.de/en/~hryniewicz/",
+      "cvUrl": "https://www.mathga.rwth-aachen.de/~hryniewicz/files/vita.pdf",
+      "cvType": "公开 CV（历史版本）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.mathga.rwth-aachen.de/en/~hryniewicz/publications/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Riemannian geometry, symplectic geometry and Hamiltonian dynamics",
+          "url": "https://www.eddy.rwth-aachen.de/people/hryniewicz/"
+        },
+        {
+          "text": "I am interested in Hamiltonian Dynamics, and its relations to Topology and Riemannian Geometry.",
+          "url": "https://www.mathga.rwth-aachen.de/en/~hryniewicz/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "masaaki-umehara",
+      "name": "Masaaki Umehara",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "science-tokyo",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential Geometry"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential Geometry",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "nobuhiro-honda",
+      "name": "Nobuhiro Honda",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "science-tokyo",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [
+        "Complex geometry"
+      ],
+      "homepage": "https://www.honda.math.sci.titech.ac.jp/index-en.html",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.honda.math.sci.titech.ac.jp/publicationlist.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html"
+        },
+        {
+          "text": "Complex geometry of twistor spaces, differential geometry of 4-manifolds and hyperkähler geometry",
+          "url": "https://www.honda.math.sci.titech.ac.jp/index-en.html"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "shinichiroh-matsuo",
+      "name": "Shinichiroh Matsuo",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "science-tokyo",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometric analysis, gauge theory"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometric analysis, gauge theory",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "shohei-ma",
+      "name": "Shohei Ma",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "science-tokyo",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "tadashi-ochiai",
+      "name": "Tadashi Ochiai",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "science-tokyo",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Number theory, arithmetic geometry"
+      ],
+      "homepage": "https://www.ochiai.math.sci.titech.ac.jp/index-e.html",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Number theory, arithmetic geometry",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "yuri-yatagawa",
+      "name": "Yuri Yatagawa",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "science-tokyo",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmetic geometry"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic geometry",
+          "url": "https://www.math.sci.isct.ac.jp/en/page_03.html"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
       "id": "person-9fc5506612e5",
       "name": "冷岗松",
       "aliases": [],
@@ -21914,6 +23993,142 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "dano-kim",
+      "name": "Dano Kim",
+      "aliases": [
+        "김다노"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "snu",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/view/kimdano",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry, algebraic geometry and several complex variables",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
+        },
+        {
+          "text": "Complex geometry, algebraic geometry and several complex variables",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "david-hyeon",
+      "name": "David Hyeon",
+      "aliases": [
+        "현동훈",
+        "David Donghoon Hyeon"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "snu",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry"
+      ],
+      "homepage": "http://www.math.snu.ac.kr/~hyeon/",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
+        },
+        {
+          "text": "Algebraic geometry",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jeongseok-oh",
+      "name": "Jeongseok Oh",
+      "aliases": [
+        "오정석"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "snu",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, Gromov–Witten theory and Donaldson–Thomas theory",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
+        },
+        {
+          "text": "Algebraic geometry, Gromov–Witten theory and Donaldson–Thomas theory",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
+        }
+      ],
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -23603,6 +25818,71 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "nelly-villamizar",
+      "name": "Nelly Villamizar",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "swansea",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.swansea.ac.uk/staff/n.y.villamizar/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "(splines, homological algebra, algebraic geometry)",
+        "Applied algebraic geometry and spline geometry"
+      ],
+      "homepage": "https://sites.google.com/site/nvillami",
+      "cvUrl": "https://drive.google.com/file/d/0B9WV7xAaIfNQaC1FUFZIUnNuNDQ/view",
+      "cvType": "主页所链公开 CV，文件可读性待核",
+      "cvStatus": null,
+      "publicationsUrl": "https://sites.google.com/site/nvillami/publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5016321436",
+          "orcid": "https://orcid.org/0000-0002-8741-7225",
+          "url": "https://openalex.org/authors/A5016321436",
+          "authorApiUrl": "https://api.openalex.org/authors/A5016321436",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5016321436,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 16,
+          "works": 33,
+          "citations": 317,
+          "hIndex": 9,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "(splines, homological algebra, algebraic geometry)",
+          "url": "https://www.swansea.ac.uk/maths/research-and-impact/algebra-geometry-topology/"
+        },
+        {
+          "text": "Applied algebraic geometry and spline geometry",
+          "url": "https://www.swansea.ac.uk/staff/n.y.villamizar/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://cronfa.swansea.ac.uk/Record/cronfa71999/Details"
+        }
+      ],
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -26815,6 +29095,73 @@
       "recordStatus": "directory"
     },
     {
+      "id": "tim-hoffmann",
+      "name": "Tim Hoffmann",
+      "aliases": [
+        "Tim Nikolai Hoffmann"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "tum",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.cit.tum.de/en/math/people/professors/hoffmann-tim/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Discrete Differential Geometry",
+        "Discrete differential geometry of curves and surfaces"
+      ],
+      "homepage": "https://www.professoren.tum.de/hoffmann-tim-nikolai",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://portal.fis.tum.de/en/persons/tim-nikolai-hoffmann/publications/",
+      "publicationCounts": [
+        {
+          "value": 25,
+          "scope": "TUM 科研门户 Article 分类",
+          "checkedAt": "2026-11-24",
+          "url": "https://portal.fis.tum.de/en/persons/tim-nikolai-hoffmann/"
+        },
+        {
+          "value": 30,
+          "scope": "TUM 科研门户 Research outputs 总条目，含多种成果类型",
+          "checkedAt": "2026-11-24",
+          "url": "https://portal.fis.tum.de/en/persons/tim-nikolai-hoffmann/"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "A Discrete Parametrized Surface Theory in ℝ3",
+          "year": 2017,
+          "url": "https://doi.org/10.1093/IMRN/RNW015",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Discrete Differential Geometry",
+          "url": "https://www.math.cit.tum.de/en/math/research/groups/geometry-and-topology/discrete-differential-geometry/"
+        },
+        {
+          "text": "Discrete differential geometry of curves and surfaces",
+          "url": "https://www.professoren.tum.de/hoffmann-tim-nikolai"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
       "id": "carla-novelli",
       "name": "Carla Novelli",
       "aliases": [],
@@ -27713,7 +30060,8 @@
         "complex"
       ],
       "tags": [
-        "多复变与复几何、全纯向量丛、L²方法"
+        "多复变与复几何、全纯向量丛、L²方法",
+        "多复变与复几何"
       ],
       "homepage": "https://people.ucas.ac.cn/~fshdeng",
       "cvUrl": null,
@@ -27729,6 +30077,10 @@
       "directoryEvidence": [
         {
           "text": "多复变与复几何、全纯向量丛、L²方法",
+          "url": "https://people.ucas.ac.cn/~fshdeng"
+        },
+        {
+          "text": "多复变与复几何",
           "url": "https://people.ucas.ac.cn/~fshdeng"
         }
       ],
@@ -27757,7 +30109,10 @@
         "differential"
       ],
       "tags": [
-        "复几何、几何分析、偏微分方程与代数几何"
+        "复几何、几何分析、偏微分方程与代数几何",
+        "https:",
+        "orcid.org",
+        "0000-0002-0040-9442"
       ],
       "homepage": "https://people.ucas.ac.cn/~KaiZheng",
       "cvUrl": null,
@@ -27773,6 +30128,10 @@
       "directoryEvidence": [
         {
           "text": "复几何、几何分析、偏微分方程与代数几何",
+          "url": "https://people.ucas.ac.cn/~KaiZheng"
+        },
+        {
+          "text": "几何与物理：包括几何分析，多复变与复几何，代数几何 I am working on the interface of various nonlinear partial differential equations, differential geometry and algebraic geometry. An almost list of my publications is available at arXiv and MathSciNet . https://orcid.org/0000-0002-0040-9442",
           "url": "https://people.ucas.ac.cn/~KaiZheng"
         }
       ],
@@ -27813,6 +30172,88 @@
         {
           "text": "My research interests lie in differential and algebraic geometry. I am particularly interested in Kahler geometry and locally symmetric spaces, as well as systems of partial differential equations with geometric meaning, such as the harmonic map and Yang-Mills equations.",
           "url": "https://mathematics.uchicago.edu/people/profile/kcorlette/"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "anita-maria-rojas-rodriguez",
+      "name": "Anita María Rojas Rodríguez",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uchile",
+          "department": "数学系",
+          "title": "Profesora Titular",
+          "url": "https://portafolio-academico.uchile.cl/perfil/36599-Anita-Maria-Rojas-Rodriguez",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "complex"
+      ],
+      "tags": [
+        "Área de investigación : Matemáticas"
+      ],
+      "homepage": "https://sites.google.com/uchile.cl/anirojas",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Área de investigación : Matemáticas; Geometría compleja Línea de investigación : Estudio del espacio de módulos de superficies de Riemann y variedades Abelianas, con particular interés en el lugar de objetos con simetrías",
+          "url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos"
+        }
+      ],
+      "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "leslie-alejandra-jimenez-palma",
+      "name": "Leslie Alejandra Jiménez Palma",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uchile",
+          "department": "数学系",
+          "title": "Profesora Asistente",
+          "url": "https://portafolio-academico.uchile.cl/perfil/61830-Leslie-Alejandra-Jimenez-Palma",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "complex"
+      ],
+      "tags": [
+        "Área de investigación : Didáctica de las matemáticas",
+        "Didáctica universitaria",
+        "Superficies de Riemann y variedades jacobianas"
+      ],
+      "homepage": "https://sites.google.com/site/lesliejimenezpalma",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Área de investigación : Didáctica de las matemáticas; Geometría compleja Línea de investigación : Espacios de trabajo matemático; Didáctica universitaria; Superficies de Riemann y variedades jacobianas",
+          "url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -32992,6 +35433,88 @@
       "recordStatus": "directory"
     },
     {
+      "id": "ruadhai-dervan",
+      "name": "Ruadhaí Dervan",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "warwick",
+          "department": "数学系",
+          "title": "Reader",
+          "url": "https://warwick.ac.uk/fac/sci/maths/people/staff/Dervan/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex",
+        "differential"
+      ],
+      "tags": [
+        "Algebraic Geometry"
+      ],
+      "homepage": "https://rdervan.warwick.ac.uk/",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5020993951",
+          "orcid": "https://orcid.org/0000-0002-8538-583X",
+          "url": "https://openalex.org/authors/A5020993951",
+          "authorApiUrl": "https://api.openalex.org/authors/A5020993951",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5020993951,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 24,
+          "works": 36,
+          "citations": 742,
+          "hIndex": 14,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Valuative stability of polarised varieties",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s00208-021-02313-4"
+        },
+        {
+          "title": "Ding stability and Kähler–Einstein metrics on manifolds with big anticanonical class",
+          "year": 2024,
+          "url": "https://doi.org/10.1515/crelle-2024-0062",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic Geometry",
+          "url": "https://warwick.ac.uk/fac/sci/maths/research/interests/algebraic_geometry/"
+        },
+        {
+          "text": "Complex geometry, Kähler geometry, K-stability and birational geometry",
+          "url": "https://warwick.ac.uk/fac/sci/maths/people/staff/Dervan/"
+        },
+        {
+          "text": "I research complex geometry, which is roughly the intersection of algebraic and differential geometry. I am interested in both the algebro-geometric and differential-geometric sides of complex geometry, and at the moment most of my work lies somewhere between the two. Topics I'm currently interested in include Kähler geometry, K-stability, moduli theory, birational geometry... / Research Interests: I research complex geometry, which is roughly the intersection of algebraic and differential geometry. I am interested in both the algebro-geometric and differential-geometric sides of complex geometry, and at the moment most of my work lies somewhere between the two. Topics I'm currently interested in include Kähler geometry, K-stability, moduli theory, birational geometry...",
+          "url": "https://warwick.ac.uk/fac/sci/maths/people/staff/Dervan/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://warwick.ac.uk/fac/sci/maths/people/staff/Dervan/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
       "id": "person-ae88e7b05e90",
       "name": "大仁田 義裕",
       "aliases": [
@@ -34712,7 +37235,7 @@
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "出版社标注同一浙江大学学者的代表作，在 OpenAlex 指向不同作者档案。合计论文数和引用量仍待复核。",
+      "identityNote": "三篇期刊 DOI 在 OpenAlex 分属 A5040778996、A5100422382、A5013520886，三条作者记录均显示浙江大学。另有一篇经出版方核实，但 OpenAlex 该 DOI 未返回对应姓名。作者覆盖范围未统一，论文总数和累计引用待核。",
       "metrics": [],
       "identityUrl": null,
       "papers": [
@@ -34734,6 +37257,12 @@
           "title": "Smooth approximation of twisted Kähler-Einstein metrics",
           "year": 2023,
           "url": "https://doi.org/10.1515/ans-2022-0032",
+          "type": "期刊论文"
+        },
+        {
+          "title": "The rigidity of eigenvalues on Kähler manifolds with positive Ricci lower bound",
+          "year": 2025,
+          "url": "https://doi.org/10.1515/crelle-2024-0101",
           "type": "期刊论文"
         }
       ],
