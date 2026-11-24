@@ -710,5 +710,14 @@
   {"id":"uc3m-math-director-2026","school":"uc3m","name":"BOEL · Departamento de Matemáticas（任职公告）","url":"https://sede.uc3m.es/boel/anexo/11535/","kind":"campus","parser":"pending"},
   {"id":"kku-math-list-ranks-2024","school":"king-khalid","name":"Department of Mathematics · Faculty list (2024)","url":"https://science.kku.edu.sa/sites/science.kku.edu.sa/files/2024-04/Maths%20Faculty%20members.pdf","kind":"campus","parser":"pending"},
   {"id":"kfupm-math-bulletin","school":"kfupm","name":"KFUPM Bulletin · Mathematics","url":"https://bulletin.kfupm.edu.sa/department?department_code=MATH","kind":"campus","parser":"pending"},
-  {"id":"jordan-ababneh-cv","school":"jordan","name":"数学系公开个人 CV（仅单人来源）","url":"https://eacademic.ju.edu.jo/a.ababneh/Documents/CV.pdf","kind":"campus","parser":"pending"}
+  {"id":"jordan-ababneh-cv","school":"jordan","name":"数学系公开个人 CV（仅单人来源）","url":"https://eacademic.ju.edu.jo/a.ababneh/Documents/CV.pdf","kind":"campus","parser":"pending"},
+  {"id":"ku-full-time-30","school":"korea-university","name":"수학과 · 전임교수（数学系韩文现任教师）","url":"https://math.korea.ac.kr/math/member/full-time-professors.do","kind":"department","parser":"pending","audited_count":17,"audit_date":"2026-11-24"},
+  {"id":"ku-emeritus-30","school":"korea-university","name":"수학과 · 명예교수（数学系荣休）","url":"https://math.korea.ac.kr/math/member/professors-emeritus.do","kind":"department","parser":"pending","audited_count":17,"audit_date":"2026-11-24"},
+  {"id":"ku-guest-30","school":"korea-university","name":"수학과 · 방문연구자 및 연구교수（访问及研究教授）","url":"https://math.korea.ac.kr/math/member/scholars-research-professors.do","kind":"department","parser":"pending","audited_count":12,"audit_date":"2026-11-24"},
+  {"id":"ku-research-30","school":"korea-university","name":"수학과 · 연구분야（15 个专长条目）","url":"https://math.korea.ac.kr/math/member/research.do","kind":"campus","parser":"pending"},
+  {"id":"ku-education-30","school":"korea-university","name":"수학교육과 · 교수진（数学教育系现任）","url":"https://mathedu.korea.ac.kr/mathedu/about/professor.do","kind":"department","parser":"pending","audited_count":6,"audit_date":"2026-11-24"},
+  {"id":"jhu-sylvester-30","school":"johns-hopkins","name":"Mathematics Department · Sylvester 职级说明","url":"https://mathematics.jhu.edu/about/jobs/","kind":"campus","parser":"pending"},
+  {"id":"postech-geometry-30","school":"postech","name":"Department of Mathematics · Geometry & Topology","url":"https://math.postech.ac.kr/en/bbs/board.php?bo_table=m06_02&sca=Geometry+%EF%BC%86+Topology","kind":"campus","parser":"pending"},
+  {"id":"postech-ibs-30","school":"postech","name":"IBS Center for Geometry and Physics · People","url":"https://cgp.ibs.re.kr/people/","kind":"campus","parser":"pending"},
+  {"id":"postech-minds-30","school":"postech","name":"MINDS · Research areas","url":"https://minds.postech.ac.kr/minds2/res/research_area.do","kind":"campus","parser":"pending"}
 ]

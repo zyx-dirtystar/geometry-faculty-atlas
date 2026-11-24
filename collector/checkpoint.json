@@ -2232,6 +2232,16 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "jhu-sylvester-30",
+      "school": "johns-hopkins",
+      "url": "https://mathematics.jhu.edu/about/jobs/",
+      "label": "Mathematics Department · Sylvester 职级说明",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "johns-hopkins-people",
       "school": "johns-hopkins",
       "url": "https://mathematics.jhu.edu/people/",
@@ -2772,6 +2782,46 @@
       "note": ""
     },
     {
+      "id": "ku-education-30",
+      "school": "korea-university",
+      "url": "https://mathedu.korea.ac.kr/mathedu/about/professor.do",
+      "label": "수학교육과 · 교수진（数学教育系现任）",
+      "status": "parsed",
+      "count": 6,
+      "checked_at": "2026-11-24",
+      "note": "核对 6 位数学教育系教师。几何在研方向结合论文确认。"
+    },
+    {
+      "id": "ku-emeritus-30",
+      "school": "korea-university",
+      "url": "https://math.korea.ac.kr/math/member/professors-emeritus.do",
+      "label": "수학과 · 명예교수（数学系荣休）",
+      "status": "parsed",
+      "count": 17,
+      "checked_at": "2026-11-24",
+      "note": "核对 17 条荣休与离任任期，不并入现任主名单。"
+    },
+    {
+      "id": "ku-full-time-30",
+      "school": "korea-university",
+      "url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
+      "label": "수학과 · 전임교수（数学系韩文现任教师）",
+      "status": "parsed",
+      "count": 17,
+      "checked_at": "2026-11-24",
+      "note": "逐条核对 17 名现任教师。保留旧目录的姓名格式与 ID，对照韩文职级和研究专长。"
+    },
+    {
+      "id": "ku-guest-30",
+      "school": "korea-university",
+      "url": "https://math.korea.ac.kr/math/member/scholars-research-professors.do",
+      "label": "수학과 · 방문연구자 및 연구교수（访问及研究教授）",
+      "status": "parsed",
+      "count": 12,
+      "checked_at": "2026-11-24",
+      "note": "核对 2024–2026 所列 13 条访问记录，涉及 12 人，原名录每次访问区间各自列示。"
+    },
+    {
       "id": "ku-leuven-algebra",
       "school": "ku-leuven",
       "url": "https://wis.kuleuven.be/algebra/members",
@@ -2790,6 +2840,16 @@
       "count": 6,
       "checked_at": "2026-11-23",
       "note": ""
+    },
+    {
+      "id": "ku-research-30",
+      "school": "korea-university",
+      "url": "https://math.korea.ac.kr/math/member/research.do",
+      "label": "수학과 · 연구분야（15 个专长条目）",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "kyoto-math",
@@ -4122,6 +4182,26 @@
       "note": ""
     },
     {
+      "id": "postech-geometry-30",
+      "school": "postech",
+      "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m06_02&sca=Geometry+%EF%BC%86+Topology",
+      "label": "Department of Mathematics · Geometry & Topology",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "postech-ibs-30",
+      "school": "postech",
+      "url": "https://cgp.ibs.re.kr/people/",
+      "label": "IBS Center for Geometry and Physics · People",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "postech-math-source",
       "school": "postech",
       "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01",
@@ -4130,6 +4210,16 @@
       "count": 23,
       "checked_at": "2026-11-23",
       "note": ""
+    },
+    {
+      "id": "postech-minds-30",
+      "school": "postech",
+      "url": "https://minds.postech.ac.kr/minds2/res/research_area.do",
+      "label": "MINDS · Research areas",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "prince-sattam-math",
@@ -80415,6 +80505,838 @@
         "source_kind": "department",
         "source_url": "https://www.kth.se/math/people/members-1.863703",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ku-education-30",
+      "person_key": "권혁진",
+      "school": "korea-university",
+      "record": {
+        "name": "권혁진",
+        "title": "Associate Professor",
+        "research": "Mathematical analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathedu.korea.ac.kr/mathedu/about/professor.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-education-30",
+      "person_key": "김대준",
+      "school": "korea-university",
+      "record": {
+        "name": "김대준",
+        "title": "Assistant Professor",
+        "research": "Algebra",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathedu.korea.ac.kr/mathedu/about/professor.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-education-30",
+      "person_key": "김동중",
+      "school": "korea-university",
+      "record": {
+        "name": "김동중",
+        "title": "Professor",
+        "research": "Mathematics education",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathedu.korea.ac.kr/mathedu/about/professor.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-education-30",
+      "person_key": "김용철",
+      "school": "korea-university",
+      "record": {
+        "name": "김용철",
+        "title": "Professor",
+        "research": "Mathematical analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathedu.korea.ac.kr/mathedu/about/professor.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-education-30",
+      "person_key": "김홍찬",
+      "school": "korea-university",
+      "record": {
+        "name": "김홍찬",
+        "title": "Professor",
+        "research": "Geometry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathedu.korea.ac.kr/mathedu/about/professor.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-education-30",
+      "person_key": "김희정",
+      "school": "korea-university",
+      "record": {
+        "name": "김희정",
+        "title": "Associate Professor",
+        "research": "Mathematics education",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathedu.korea.ac.kr/mathedu/about/professor.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-emeritus-30",
+      "person_key": "choeboorim",
+      "school": "korea-university",
+      "record": {
+        "name": "Choe, Boo Rim",
+        "title": "Emeritus Professor",
+        "research": "Complex analysis, Operator theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/professors-emeritus.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-emeritus-30",
+      "person_key": "choibongdae",
+      "school": "korea-university",
+      "record": {
+        "name": "Choi, Bong Dae",
+        "title": "Emeritus Professor",
+        "research": "Applied probability, Queueing theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/professors-emeritus.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-emeritus-30",
+      "person_key": "choijeongwhan",
+      "school": "korea-university",
+      "record": {
+        "name": "Choi, Jeongwhan",
+        "title": "Emeritus Professor",
+        "research": "Fluid mechanics, Differential equations",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/professors-emeritus.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-emeritus-30",
+      "person_key": "choinho",
+      "school": "korea-university",
+      "record": {
+        "name": "Cho, In-Ho",
+        "title": "Emeritus Professor",
+        "research": "Algebra, Group theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/professors-emeritus.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-emeritus-30",
+      "person_key": "hongsungbok",
+      "school": "korea-university",
+      "record": {
+        "name": "Hong, Sungbok",
+        "title": "Emeritus Professor",
+        "research": "Low dimensional topology",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/professors-emeritus.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-emeritus-30",
+      "person_key": "hwangyoonsung",
+      "school": "korea-university",
+      "record": {
+        "name": "Hwang, Yoon Sung",
+        "title": "Emeritus Professor",
+        "research": "Associative algebra, Galois theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/professors-emeritus.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-emeritus-30",
+      "person_key": "kimdonggyun",
+      "school": "korea-university",
+      "record": {
+        "name": "Kim, Donggyun",
+        "title": "Emeritus Professor",
+        "research": "Number theory, Representation theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/professors-emeritus.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-emeritus-30",
+      "person_key": "kimsungwoon",
+      "school": "korea-university",
+      "record": {
+        "name": "Kim, Sung Woon",
+        "title": "Emeritus Professor",
+        "research": "Applied mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/professors-emeritus.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-emeritus-30",
+      "person_key": "kimyoungwook",
+      "school": "korea-university",
+      "record": {
+        "name": "Kim, Young Wook",
+        "title": "Emeritus Professor",
+        "research": "Differential geometry, History of mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/professors-emeritus.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-emeritus-30",
+      "person_key": "koohyungwoon",
+      "school": "korea-university",
+      "record": {
+        "name": "Koo, Hyungwoon",
+        "title": "Emeritus Professor",
+        "research": "Analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/professors-emeritus.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-emeritus-30",
+      "person_key": "kwonohun",
+      "school": "korea-university",
+      "record": {
+        "name": "Kwon, O-Hun",
+        "title": "Emeritus Professor",
+        "research": "Game theory, Operational research",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/professors-emeritus.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-emeritus-30",
+      "person_key": "kwontaikyeon",
+      "school": "korea-university",
+      "record": {
+        "name": "Kwon, Taik Yeon",
+        "title": "Emeritus Professor",
+        "research": "Algebra, Group theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/professors-emeritus.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-emeritus-30",
+      "person_key": "weeinsuk",
+      "school": "korea-university",
+      "record": {
+        "name": "Wee In-Suk",
+        "title": "Emeritus Professor",
+        "research": "Probability, Financial mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/professors-emeritus.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-emeritus-30",
+      "person_key": "yuhise",
+      "school": "korea-university",
+      "record": {
+        "name": "Yu, Hi Se",
+        "title": "Emeritus Professor",
+        "research": "Probability",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/professors-emeritus.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-emeritus-30",
+      "person_key": "박태삼",
+      "school": "korea-university",
+      "record": {
+        "name": "박태삼",
+        "title": "Emeritus Professor",
+        "research": "Mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/professors-emeritus.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-emeritus-30",
+      "person_key": "장태환",
+      "school": "korea-university",
+      "record": {
+        "name": "장태환",
+        "title": "Emeritus Professor",
+        "research": "Analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/professors-emeritus.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-emeritus-30",
+      "person_key": "한필하",
+      "school": "korea-university",
+      "record": {
+        "name": "한필하",
+        "title": "Emeritus Professor",
+        "research": "Mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/professors-emeritus.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-full-time-30",
+      "person_key": "changhohan",
+      "school": "korea-university",
+      "record": {
+        "name": "Changho Han",
+        "title": "Associate Professor",
+        "research": "Algebraic geometry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-full-time-30",
+      "person_key": "dohoonchoi",
+      "school": "korea-university",
+      "record": {
+        "name": "Dohoon Choi",
+        "title": "Professor",
+        "research": "Number theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-full-time-30",
+      "person_key": "donghunlee",
+      "school": "korea-university",
+      "record": {
+        "name": "Donghun Lee",
+        "title": "Associate Professor",
+        "research": "Artificial Intelligence, Reinforcement Learning",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-full-time-30",
+      "person_key": "heoyaryong",
+      "school": "korea-university",
+      "record": {
+        "name": "Heo, Yaryong",
+        "title": "Professor",
+        "research": "Harmonic Analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-full-time-30",
+      "person_key": "hyunyoonsuk",
+      "school": "korea-university",
+      "record": {
+        "name": "Hyun, Yoonsuk",
+        "title": "Associate Professor",
+        "research": "AI, Computer Vision, Multimodal Learning, Explainable AI",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-full-time-30",
+      "person_key": "kimbara",
+      "school": "korea-university",
+      "record": {
+        "name": "Kim, Bara",
+        "title": "Professor",
+        "research": "Applied Probability",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-full-time-30",
+      "person_key": "kimdoyoon",
+      "school": "korea-university",
+      "record": {
+        "name": "Kim, Doyoon",
+        "title": "Professor and Head of Mathematics",
+        "research": "PDE, Probability",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-full-time-30",
+      "person_key": "kimhongjoong",
+      "school": "korea-university",
+      "record": {
+        "name": "Kim, Hong-Joong",
+        "title": "Professor",
+        "research": "Numerical Analysis, Applied Mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-full-time-30",
+      "person_key": "kimildoo",
+      "school": "korea-university",
+      "record": {
+        "name": "Kim, Ildoo",
+        "title": "Professor",
+        "research": "PDE, Stochastic PDE, Probability",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-full-time-30",
+      "person_key": "kimjunseok",
+      "school": "korea-university",
+      "record": {
+        "name": "Kim, Junseok",
+        "title": "Professor",
+        "research": "Numerical Analysis, Applied Mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-full-time-30",
+      "person_key": "kimkyeonghun",
+      "school": "korea-university",
+      "record": {
+        "name": "Kim, Kyeonghun",
+        "title": "Professor",
+        "research": "PDE, Stochastic PDE, Probability",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-full-time-30",
+      "person_key": "kimsangjib",
+      "school": "korea-university",
+      "record": {
+        "name": "Kim, Sangjib",
+        "title": "Professor",
+        "research": "Representation Theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-full-time-30",
+      "person_key": "ohseungsang",
+      "school": "korea-university",
+      "record": {
+        "name": "Oh, Seungsang",
+        "title": "Professor",
+        "research": "Deep Learning, 3D Topology, Knot Theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-full-time-30",
+      "person_key": "parkeuisung",
+      "school": "korea-university",
+      "record": {
+        "name": "Park, Eui-Sung",
+        "title": "Professor",
+        "research": "Algebraic Geometry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-full-time-30",
+      "person_key": "yangchanwoo",
+      "school": "korea-university",
+      "record": {
+        "name": "Yang, Chan Woo",
+        "title": "Professor",
+        "research": "Harmonic Analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-full-time-30",
+      "person_key": "yangseongdeog",
+      "school": "korea-university",
+      "record": {
+        "name": "Yang, Seong-Deog",
+        "title": "Professor",
+        "research": "Differential Geometry, Minimal Surfaces",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-full-time-30",
+      "person_key": "yusanghyeon",
+      "school": "korea-university",
+      "record": {
+        "name": "Yu,Sanghyeon",
+        "title": "Associate Professor",
+        "research": "PDE, Applied Mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-guest-30",
+      "person_key": "choijaeyong",
+      "school": "korea-university",
+      "record": {
+        "name": "Choi, Jaeyong",
+        "title": "Visiting Researcher · 2023.5 – 2024.10",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/scholars-research-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-guest-30",
+      "person_key": "ethancotterill",
+      "school": "korea-university",
+      "record": {
+        "name": "Ethan Cotterill",
+        "title": "Visiting Researcher · 2026.02.09 - 2026.02.20",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/scholars-research-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-guest-30",
+      "person_key": "hulian",
+      "school": "korea-university",
+      "record": {
+        "name": "Hu, Lian",
+        "title": "Visiting Researcher · 2023.10 – 2024.10",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/scholars-research-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-guest-30",
+      "person_key": "kwangwooahn",
+      "school": "korea-university",
+      "record": {
+        "name": "Kwang Woo Ahn",
+        "title": "Visiting Researcher · 2026.07.08 - 2026.07.10",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/scholars-research-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-guest-30",
+      "person_key": "kyeyisub",
+      "school": "korea-university",
+      "record": {
+        "name": "Kye, Yisub",
+        "title": "Visiting Researcher · 2024.6.3 – 2024.6.21",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/scholars-research-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-guest-30",
+      "person_key": "leejeonghun",
+      "school": "korea-university",
+      "record": {
+        "name": "Lee, Jeonghun",
+        "title": "Visiting Researcher · 2024.6.1 – 2024.6.13",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/scholars-research-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-guest-30",
+      "person_key": "phamtrongtien",
+      "school": "korea-university",
+      "record": {
+        "name": "Pham Trong Tien",
+        "title": "Visiting Researcher · 2024.5.29 – 2024.6.14",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/scholars-research-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-guest-30",
+      "person_key": "shintaroakamine",
+      "school": "korea-university",
+      "record": {
+        "name": "Shintaro Akamine",
+        "title": "Visiting Researcher · 2025.02.25 – 2025.02.27",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/scholars-research-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-guest-30",
+      "person_key": "sootecklee",
+      "school": "korea-university",
+      "record": {
+        "name": "Soo Teck Lee",
+        "title": "Visiting Researcher · 2026.05.13 - 2026.05.26",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/scholars-research-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-guest-30",
+      "person_key": "wangchiali",
+      "school": "korea-university",
+      "record": {
+        "name": "Wang, Chia-Li",
+        "title": "Visiting Researcher · 2025.03.31 – 2025.04.07",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/scholars-research-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-guest-30",
+      "person_key": "waynesmith",
+      "school": "korea-university",
+      "record": {
+        "name": "Wayne Smith",
+        "title": "Visiting Researcher · 2024.5 – 2024.6",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/scholars-research-professors.do",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ku-guest-30",
+      "person_key": "최민석",
+      "school": "korea-university",
+      "record": {
+        "name": "최민석",
+        "title": "Visiting Researcher · 2025.02.10 – 2026.02.10",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.korea.ac.kr/math/member/scholars-research-professors.do",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -262332,19 +263254,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://hmengwei.github.io/",
-      "cache_id": "profile-b55072abad6a416d",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "https://hmengwei.github.io/CV/MengweiHu_CV.pdf",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://hnarita.w.waseda.jp/narita.htm",
       "cache_id": "profile-f602fb784edb6051",
       "status": "parsed",
@@ -262391,19 +263300,6 @@
         "research": "Lie groups, lattices and general discrete subgroups Differential geometry Geometric structures on manifolds Geometric topology",
         "homepage": "",
         "cv": "https://homepages.math.uic.edu/~vanlimbeek/cv.pdf",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://hstuff.github.io/",
-      "cache_id": "profile-e6810f3efc81d277",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
         "publications": "",
         "checked_at": "2026-11-24"
       },
@@ -263134,19 +264030,6 @@
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://kobe-marshall-stevens.github.io/",
-      "cache_id": "profile-ab9e4574aeffd599",
-      "status": "parsed",
-      "record": {
-        "research": "My research is in geometric analysis, using techniques from the calculus of variations, geometric measure theory, and partial differential equations.",
-        "homepage": "",
-        "cv": "https://kobe-marshall-stevens.github.io/CV_15_October.pdf",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
     },
     {
       "url": "https://lattes.ime.unicamp.br/ppg-matematica/membro-2727103456060186.html",
@@ -271105,19 +271988,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=15&sca=Professor",
-      "cache_id": "profile-2e1029cb96a94b33",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=15&sca=Professor",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=18",
       "cache_id": "profile-d83fc0c315026de9",
       "status": "parsed",
@@ -271125,32 +271995,6 @@
         "research": "",
         "homepage": "",
         "cv": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=18",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=5&sca=Professor",
-      "cache_id": "profile-b695c16415371fcb",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=5&sca=Professor",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=7&sca=Professor",
-      "cache_id": "profile-751116375a3ddf25",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=7&sca=Professor",
         "publications": "",
         "checked_at": "2026-11-24"
       },
@@ -275909,13 +276753,6 @@
     {
       "url": "https://mathematics.jhu.edu/directory/yi-wang/",
       "cache_id": "profile-1736fb6952d2bdc0",
-      "status": "source_error",
-      "record": null,
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://mathematics.jhu.edu/people/",
-      "cache_id": "profile-5f57ad5e7ccf1cab",
       "status": "source_error",
       "record": null,
       "checked_at": "2026-11-24"
@@ -284339,19 +285176,6 @@
     {
       "url": "https://sites.google.com/view/yu-min",
       "cache_id": "profile-552ec557d777ef33",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://sites.google.com/view/yueqiaow/",
-      "cache_id": "profile-f82c3f5a2ca7d94c",
       "status": "parsed",
       "record": {
         "research": "",

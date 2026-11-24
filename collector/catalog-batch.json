@@ -1731,8 +1731,12 @@
     {
       "id": "johns-hopkins",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，2 条任职或方向待核。 已收录 12 位学者，个人主页 9、CV 6、指标 2。 用院系现任名录、李驰公开 CV 和罗格斯数学系目录交叉核对两个现任职位。数学系、跨机构合作和其他现任成员仍需按范围对账。",
+      "coverageNote": "已解析 1/3 个登记来源，2 条任职或方向待核。 已收录 7 位学者，个人主页 4、CV 3、指标 2。 对照数学系现任名册与官方招聘分类。Sylvester 助理教授为三年期博士后，保留姓名与公开字段在人员复核表。联合、访问、荣休及应用数学研究群另对账。",
       "rosterLinks": [
+        [
+          "Mathematics Department · Sylvester 职级说明",
+          "https://mathematics.jhu.edu/about/jobs/"
+        ],
         [
           "数学系 People",
           "https://mathematics.jhu.edu/people/"
@@ -2943,14 +2947,34 @@
     {
       "id": "korea-university",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 0、CV 0、指标 0。",
+      "coverageNote": "已解析 5/6 个登记来源，0 条任职或方向待核。 已逐条核对 수학교육과 · 교수진（数学教育系现任）、수학과 · 명예교수（数学系荣休）、수학과 · 전임교수（数学系韩文现任教师）、수학과 · 방문연구자 및 연구교수（访问及研究教授）。 已收录 4 位学者，个人主页 2、CV 0、指标 0。 对照 17 位韩文现任教师、17 位荣休、13 条访问记录、数学教育系 6 位教师及官方研究方向表。补入英文旧页少收的代数几何与数学教育系的曲面几何，纠正两名荣休任职。其他校区及联合单位补查中。",
       "rosterLinks": [
         [
           "数学系或所属学院人员入口",
           "https://math.korea.edu/math_en/people/faculty.do"
+        ],
+        [
+          "수학교육과 · 교수진（数学教育系现任）",
+          "https://mathedu.korea.ac.kr/mathedu/about/professor.do"
+        ],
+        [
+          "수학과 · 명예교수（数学系荣休）",
+          "https://math.korea.ac.kr/math/member/professors-emeritus.do"
+        ],
+        [
+          "수학과 · 전임교수（数学系韩文现任教师）",
+          "https://math.korea.ac.kr/math/member/full-time-professors.do"
+        ],
+        [
+          "수학과 · 방문연구자 및 연구교수（访问及研究教授）",
+          "https://math.korea.ac.kr/math/member/scholars-research-professors.do"
+        ],
+        [
+          "수학과 · 연구분야（15 个专长条目）",
+          "https://math.korea.ac.kr/math/member/research.do"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-24"
     },
     {
       "id": "polito",
@@ -3127,15 +3151,27 @@
     {
       "id": "postech",
       "coverage": "sample",
-      "coverageNote": "已解析 2/2 个登记来源，5 条任职或方向待核。 已收录 3 位学者，个人主页 2、CV 2、指标 2。 已查现任 Faculty 页和代数几何研究成果、研讨会与博士后入口。代数几何方向经个人档案确认，其他职级与研究人员待复核。",
+      "coverageNote": "已解析 2/5 个登记来源，0 条任职或方向待核。 已收录 6 位学者，个人主页 4、CV 3、指标 2。 已对照现任常任页、Geometry & Topology、代数和数论方向、IBS 几何物理中心与 MINDS 公开页，补入两位辛几何学者和一位双曲三维流形学者。纠正荣休、计算机兼任和相邻拓扑方向。研究所成员和其他任职类别仍待核。",
       "rosterLinks": [
         [
           "Department of Mathematics · Faculty",
           "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Professor"
         ],
         [
+          "Department of Mathematics · Geometry & Topology",
+          "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m06_02&sca=Geometry+%EF%BC%86+Topology"
+        ],
+        [
+          "IBS Center for Geometry and Physics · People",
+          "https://cgp.ibs.re.kr/people/"
+        ],
+        [
           "数学系或所属学院人员入口",
           "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01"
+        ],
+        [
+          "MINDS · Research areas",
+          "https://minds.postech.ac.kr/minds2/res/research_area.do"
         ]
       ],
       "checkedAt": "2026-11-24"
@@ -16624,92 +16660,6 @@
       "recordStatus": "directory"
     },
     {
-      "id": "dat-pham",
-      "name": "Dat Pham",
-      "aliases": [],
-      "affiliations": [
-        {
-          "schoolId": "johns-hopkins",
-          "department": "数学系",
-          "title": "J.J. Sylvester Assistant Professor",
-          "url": "https://mathematics.jhu.edu/people/",
-          "type": "primary",
-          "checkedAt": "2026-11-24"
-        }
-      ],
-      "fields": [
-        "algebraic"
-      ],
-      "tags": [
-        "p-adic Hodge theory and arithmetic geometry"
-      ],
-      "homepage": "https://webusers.imj-prg.fr/~dat.pham/",
-      "homepageStatus": null,
-      "cvUrl": "https://webusers.imj-prg.fr/~dat.pham/CV_5.pdf",
-      "cvType": null,
-      "cvStatus": null,
-      "publicationsUrl": null,
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
-        {
-          "text": "p-adic Hodge theory and arithmetic geometry",
-          "url": "https://mathematics.jhu.edu/people/"
-        },
-        {
-          "text": "p-adic Hodge theory and arithmetic geometry",
-          "url": "https://mathematics.jhu.edu/people/"
-        }
-      ],
-      "checkedAt": "2026-11-24",
-      "recordStatus": "directory"
-    },
-    {
-      "id": "hunter-stufflebeam",
-      "name": "Hunter Stufflebeam",
-      "aliases": [],
-      "affiliations": [
-        {
-          "schoolId": "johns-hopkins",
-          "department": "数学系",
-          "title": "J.J. Sylvester Assistant Professor",
-          "url": "https://mathematics.jhu.edu/people/",
-          "type": "primary",
-          "checkedAt": "2026-11-23"
-        }
-      ],
-      "fields": [
-        "differential"
-      ],
-      "tags": [
-        "Geometric analysis and partial differential equations"
-      ],
-      "homepage": "https://hstuff.github.io/",
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
-        {
-          "text": "Geometric analysis and partial differential equations",
-          "url": "https://mathematics.jhu.edu/people/"
-        }
-      ],
-      "checkedAt": "2026-11-23",
-      "recordStatus": "directory"
-    },
-    {
       "id": "jacob-bernstein",
       "name": "Jacob Bernstein",
       "aliases": [],
@@ -16776,90 +16726,6 @@
         {
           "text": "个人研究或论文来源",
           "url": "https://msp.org/gt/2018/22-2/gt-v22-n2-p09-s.pdf"
-        }
-      ],
-      "checkedAt": "2026-11-23",
-      "recordStatus": "directory"
-    },
-    {
-      "id": "kobe-marshall-stevens",
-      "name": "Kobe Marshall-Stevens",
-      "aliases": [],
-      "affiliations": [
-        {
-          "schoolId": "johns-hopkins",
-          "department": "数学系",
-          "title": "J.J. Sylvester Assistant Professor",
-          "url": "https://mathematics.jhu.edu/people/",
-          "type": "primary",
-          "checkedAt": "2026-11-23"
-        }
-      ],
-      "fields": [
-        "differential"
-      ],
-      "tags": [
-        "Geometric analysis"
-      ],
-      "homepage": "https://kobe-marshall-stevens.github.io/",
-      "homepageStatus": null,
-      "cvUrl": "https://kobe-marshall-stevens.github.io/CV_15_October.pdf",
-      "cvType": null,
-      "cvStatus": null,
-      "publicationsUrl": null,
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5092513686",
-      "papers": [],
-      "directoryEvidence": [
-        {
-          "text": "Geometric analysis",
-          "url": "https://mathematics.jhu.edu/people/"
-        },
-        {
-          "text": "My research is in geometric analysis, using techniques from the calculus of variations, geometric measure theory, and partial differential equations.",
-          "url": "https://kobe-marshall-stevens.github.io/"
-        }
-      ],
-      "checkedAt": "2026-11-23",
-      "recordStatus": "directory"
-    },
-    {
-      "id": "mengwei-hu",
-      "name": "Mengwei Hu",
-      "aliases": [],
-      "affiliations": [
-        {
-          "schoolId": "johns-hopkins",
-          "department": "数学系",
-          "title": "J.J. Sylvester Assistant Professor",
-          "url": "https://mathematics.jhu.edu/people/",
-          "type": "primary",
-          "checkedAt": "2026-11-23"
-        }
-      ],
-      "fields": [
-        "algebraic"
-      ],
-      "tags": [],
-      "homepage": "https://hmengwei.github.io/",
-      "homepageStatus": null,
-      "cvUrl": "https://hmengwei.github.io/CV/MengweiHu_CV.pdf",
-      "cvType": null,
-      "cvStatus": null,
-      "publicationsUrl": null,
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "同一人的论文指向不同作者档案。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
-        {
-          "text": "Algebraic geometry, symplectic geometry and representation theory",
-          "url": "https://mathematics.jhu.edu/people/"
         }
       ],
       "checkedAt": "2026-11-23",
@@ -16939,47 +16805,6 @@
       "directoryEvidence": [
         {
           "text": "Geometric analysis, nonlinear partial differential equations",
-          "url": "https://mathematics.jhu.edu/people/"
-        }
-      ],
-      "checkedAt": "2026-11-23",
-      "recordStatus": "directory"
-    },
-    {
-      "id": "yueqiao-wu",
-      "name": "Yueqiao Wu",
-      "aliases": [],
-      "affiliations": [
-        {
-          "schoolId": "johns-hopkins",
-          "department": "数学系",
-          "title": "J.J. Sylvester Assistant Professor",
-          "url": "https://mathematics.jhu.edu/people/",
-          "type": "primary",
-          "checkedAt": "2026-11-23"
-        }
-      ],
-      "fields": [
-        "algebraic"
-      ],
-      "tags": [
-        "Non-Archimedean geometry and algebraic geometry"
-      ],
-      "homepage": "https://sites.google.com/view/yueqiaow/",
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "OpenAlex 请求或返回数据失败。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
-        {
-          "text": "Non-Archimedean geometry and algebraic geometry",
           "url": "https://mathematics.jhu.edu/people/"
         }
       ],
@@ -18169,32 +17994,92 @@
       "recordStatus": "directory"
     },
     {
-      "id": "park-eui-sung",
-      "name": "Park, Eui-Sung",
-      "aliases": [],
+      "id": "changho-han",
+      "name": "Changho Han",
+      "aliases": [
+        "한창호",
+        "Han, Changho"
+      ],
       "affiliations": [
         {
           "schoolId": "korea-university",
           "department": "数学系",
-          "title": "Professor",
-          "url": "https://math.korea.edu/math_en/people/faculty.do",
+          "title": "Associate Professor",
+          "url": "https://math.korea.ac.kr/math/member/full-time-professors.do",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-24"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [
-        "Research Areas : Algebraic Geometry"
+        "Algebraic geometry"
       ],
-      "homepage": null,
+      "homepage": "https://sites.google.com/view/changho-han/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "publicationsUrl": "https://sites.google.com/view/changho-han/",
       "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry",
+          "url": "https://math.korea.ac.kr/math/member/full-time-professors.do"
+        },
+        {
+          "text": "Algebraic geometry, moduli of K3 surfaces, KSBA compactifications and birational geometry",
+          "url": "https://sites.google.com/view/changho-han/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "park-eui-sung",
+      "name": "Park, Eui-Sung",
+      "aliases": [
+        "Eui-Sung Park",
+        "Euisung Park",
+        "박의성"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "korea-university",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://pure.korea.ac.kr/en/persons/euisung-park/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Research Areas : Algebraic Geometry",
+        "Algebraic Geometry"
+      ],
+      "homepage": "https://sites.google.com/korea.ac.kr/euisungparkshomepage/%ED%99%88",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://pure.korea.ac.kr/en/persons/euisung-park/publications/",
+      "publicationCounts": [
+        {
+          "value": 55,
+          "scope": "高丽大学 Pure 个人页 Research output 总数",
+          "url": "https://pure.korea.ac.kr/en/persons/euisung-park/",
+          "checkedAt": "2026-11-24"
+        }
+      ],
       "opportunities": [],
       "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "metrics": [],
@@ -18204,38 +18089,57 @@
         {
           "text": "Research Areas : Algebraic Geometry",
           "url": "https://math.korea.edu/math_en/people/faculty.do"
+        },
+        {
+          "text": "Algebraic Geometry",
+          "url": "https://math.korea.ac.kr/math/member/full-time-professors.do"
+        },
+        {
+          "text": "Algebraic Geometry",
+          "url": "https://math.korea.ac.kr/math/member/full-time-professors.do"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
       "id": "yang-seong-deog",
       "name": "Yang, Seong-Deog",
-      "aliases": [],
+      "aliases": [
+        "Seong-Deog Yang",
+        "양성덕"
+      ],
       "affiliations": [
         {
           "schoolId": "korea-university",
           "department": "数学系",
           "title": "Professor",
-          "url": "https://math.korea.edu/math_en/people/faculty.do",
+          "url": "https://pure.korea.ac.kr/en/persons/seong-deog-yang/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-24"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [
-        "Research Areas : Differential Geometry, Minimal Surfaces"
+        "Research Areas : Differential Geometry, Minimal Surfaces",
+        "Differential Geometry, Minimal Surfaces"
       ],
       "homepage": null,
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
-      "publicationCounts": [],
+      "publicationsUrl": "https://pure.korea.ac.kr/en/persons/seong-deog-yang/publications/",
+      "publicationCounts": [
+        {
+          "value": 39,
+          "scope": "高丽大学 Pure 个人页 Research output 总数",
+          "url": "https://pure.korea.ac.kr/en/persons/seong-deog-yang/",
+          "checkedAt": "2026-11-24"
+        }
+      ],
       "opportunities": [],
       "identityNote": "OpenAlex 请求或返回数据失败。",
       "metrics": [],
@@ -18245,9 +18149,69 @@
         {
           "text": "Research Areas : Differential Geometry, Minimal Surfaces",
           "url": "https://math.korea.edu/math_en/people/faculty.do"
+        },
+        {
+          "text": "Differential Geometry, Minimal Surfaces",
+          "url": "https://math.korea.ac.kr/math/member/full-time-professors.do"
+        },
+        {
+          "text": "Differential Geometry, Minimal Surfaces",
+          "url": "https://math.korea.ac.kr/math/member/full-time-professors.do"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-4276c04cfdb9",
+      "name": "김홍찬",
+      "aliases": [
+        "Hong Chan Kim"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "korea-university",
+          "department": "Department of Mathematics Education",
+          "title": "Professor",
+          "url": "https://mathedu.korea.ac.kr/mathedu/about/professor.do",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometry"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The symplectic geometry of the SL(3,R)-Hitchin components",
+          "url": "https://doi.org/10.4310/pamq.2020.v16.n5.a1"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Geometry",
+          "url": "https://mathedu.korea.ac.kr/mathedu/about/professor.do"
+        },
+        {
+          "text": "Differential geometry and geometric structures on surfaces, including convex real projective structures and Teichmüller theory",
+          "url": "https://doi.org/10.4310/pamq.2020.v16.n5.a1"
+        }
+      ],
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -27681,6 +27645,100 @@
       "recordStatus": "directory"
     },
     {
+      "id": "bogwang-jeon",
+      "name": "BoGwang Jeon",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "postech",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=10",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Low Dimensional Topology"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Low Dimensional Topology",
+          "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Professor"
+        },
+        {
+          "text": "Hyperbolic geometry of 3-manifolds and Dehn fillings, low-dimensional topology",
+          "url": "https://people.mpim-bonn.mpg.de/stavros/publications/printed/trace_fields_dehn_fillings.pdf"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "cheol-hyun-cho",
+      "name": "Cheol-Hyun Cho",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "postech",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=5",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Symplectic Topology | Mirror symmetry | Singularity"
+      ],
+      "homepage": "https://www.math.snu.ac.kr/~chocheol/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "旧个人学术主页有早期简历线索，POSTECH 现任个人页是履历概况，独立现行 CV 未确认。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Symplectic Topology | Mirror symmetry | Singularity",
+          "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01"
+        },
+        {
+          "text": "Symplectic Topology | Mirror symmetry | Singularity",
+          "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Professor"
+        },
+        {
+          "text": "Differential geometry of symplectic manifolds, symplectic topology, mirror symmetry and singularities",
+          "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m06_02&wr_id=33"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
       "id": "jihun-park",
       "name": "Jihun Park",
       "aliases": [],
@@ -27882,6 +27940,49 @@
         {
           "text": "Algebraic geometry, arithmetic geometry, Shimura varieties, algebraic cycles and local intersection theory",
           "url": "https://qirui.li/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "yong-geun-oh",
+      "name": "Yong-Geun Oh",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "postech",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=15",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://cgp.ibs.re.kr/~yongoh/",
+      "homepageStatus": null,
+      "cvUrl": "https://cgp.ibs.re.kr/~yongoh/vita2014.pdf",
+      "cvType": "公开学术 CV（2014 存档）",
+      "cvStatus": null,
+      "publicationsUrl": "https://cgp.ibs.re.kr/~yongoh/all.pdf",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Symplectic Topology and Geometry | Floer Homology Theory | Hamiltonian dynamical | Mirror symmetry Theory",
+          "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Professor"
+        },
+        {
+          "text": "Differential geometry of symplectic manifolds, Hamiltonian dynamics, Floer homology and mirror symmetry",
+          "url": "https://cgp.ibs.re.kr/~yongoh/"
         }
       ],
       "checkedAt": "2026-11-24",

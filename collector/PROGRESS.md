@@ -1,9 +1,9 @@
 # 几何学者库进度
 
 更新日期 2026-11-24。QS 2026 数学 200 所，软科 GRAS 2026 数学 100 所，两榜合并去重 222 所。已登记来源 222 所，至少有一个已解析来源 221 所。
-目录去重后共 14182 条学者与学校记录，来源外的任职或研究交叉需要继续复核。
-网页收录 899 位，覆盖 208 所。有个人主页 446 位、公开 CV 200 位、发表列表 238 位、代表作 110 位、机构或作者计数 37 位、OpenAlex 指标 129 位。
-已解析 5865 个个人页面。校级全名单对账完成 1 所。
+目录去重后共 14217 条学者与学校记录，来源外的任职或研究交叉需要继续复核。
+网页收录 899 位，覆盖 208 所。有个人主页 445 位、公开 CV 198 位、发表列表 242 位、代表作 111 位、机构或作者计数 39 位、OpenAlex 指标 129 位。
+已解析 5858 个个人页面。校级全名单对账完成 1 所。
 
 ## 公开 CV 链接复核
 
@@ -108,7 +108,7 @@
 | 哈尔滨工业大学 | 95 | 76-100 | 工作名单 | [数学学院副教授](https://math.hit.edu.cn/fjs/list.htm) · [数学学院教授](https://math.hit.edu.cn/js/list.htm) · [数学学院研究方向](https://math.hit.edu.cn/10291/list.htm) | 2 | 0 / 0 / 0 | 7 |
 | 巴黎综合理工学院联盟 | 24 | 76-100 | 工作名单 | [Department of Mathematics](https://www.ip-paris.fr/en/research/research-departments-laboratories-centers-and-projects/departments/department-mathematics) · [École Polytechnique CMLS](https://portail.polytechnique.edu/cmls/presentation) · [CMLS · Géométrie et Dynamique](https://portail.polytechnique.edu/cmls/recherche/geometrie-et-dynamique) · [CMLS · Organigramme](https://portail.polytechnique.edu/cmls/presentation/organigramme) | 2 | 2 / 0 / 0 | 8 |
 | 让·莫内大学 | — | 76-100 | 工作名单 | [Institut Camille Jordan](https://www.univ-st-etienne.fr/fr/icj.html) · [Institut Camille Jordan · Annuaire des personnels](https://math.univ-lyon1.fr/icj/annuaire-des-personnels/) · [Institut Camille Jordan · Membres à Saint-Étienne](https://www.univ-st-etienne.fr/fr/icj/les-membres-du-laboratoire.html) · [Institut Camille Jordan · Membres du site stéphanois](https://www.univ-st-etienne.fr/fr/icj/les-membres-du-laboratoire.html) · [MODMAD · Liste des membres](https://www.univ-st-etienne.fr/fr/modmad/liste-des-membres-modmad.html) | 1 | 1 / 1 / 0 | 24 |
-| 约翰斯·霍普金斯大学 | 72 | 76-100 | 工作名单 | [数学系 People](https://mathematics.jhu.edu/people/) · [Mathematics Department · Faculty](https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/mathematics/#facultytext) | 12 | 9 / 6 / 2 | 2 |
+| 约翰斯·霍普金斯大学 | 72 | 76-100 | 工作名单 | [Mathematics Department · Sylvester 职级说明](https://mathematics.jhu.edu/about/jobs/) · [数学系 People](https://mathematics.jhu.edu/people/) · [Mathematics Department · Faculty](https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/mathematics/#facultytext) | 7 | 4 / 3 / 2 | 2 |
 | 哈立德国王大学 | — | 76-100 | 工作名单 | [Faculty of Science · Department of Mathematics](https://science.kku.edu.sa/en/node/219) · [Department of Mathematics Faculty Members (2024 archive)](https://science.kku.edu.sa/sites/science.kku.edu.sa/files/2024-03/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1%20%D9%84%D9%82%D8%B3%D9%85%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA%20%281%29.pdf) · [Mathematics Department · Members (page 2)](https://science.kku.edu.sa/en/node/219?page=1) · [Department of Mathematics · Faculty list (2024)](https://science.kku.edu.sa/sites/science.kku.edu.sa/files/2024-04/Maths%20Faculty%20members.pdf) | 1 | 0 / 0 / 1 | 6 |
 | 鲁汶大学 | 76 | 76-100 | 工作名单 | [Section of Algebra · Members](https://wis.kuleuven.be/algebra/members) · [Section of Geometry · Members](https://wis.kuleuven.be/meetkunde/Members) | 2 | 1 / 0 / 2 | 11 |
 | 米兰理工大学 | 38 | 76-100 | 工作名单 | [Department of Mathematics · Research groups](https://www.mate.polimi.it/gruppi-di-ricerca/?id=1&lg=en) · [Geometry, Algebra and their applications](https://www.geometry-algebra.polimi.it/en/) · [Dipartimento di Matematica · Professori ordinari](https://www.mate.polimi.it/pagina-personale?id_qualifica=1&lg=en) | 1 | 0 / 1 / 0 | 52 |
@@ -167,7 +167,7 @@
 | 昆士兰大学 | =99 | — | 工作名单 | [Geometric nonlinear analysis - School of Mathematics and Physics - University of Queensland](https://smp.uq.edu.au/research/geometric-nonlinear-analysis) · [Mathematics - School of Mathematics and Physics - University of Queensland](https://smp.uq.edu.au/team/mathematics) · [数学与物理学院人员目录](https://smp.uq.edu.au/staff-directory) | 1 | 1 / 1 / 0 | 29 |
 | 墨西哥国立自治大学 | =99 | — | 工作名单 | [数学研究所研究员名录](https://www.matem.unam.mx/fsd/investigadores/) | 5 | 0 / 0 / 0 | 0 |
 | 阿尔伯塔大学 | 102 | — | 工作名单 | [Mathematical and Statistical Sciences academic staff](https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html) · [Research Areas](https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html) · [数学系或所属学院人员入口](https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html) | 5 | 4 / 1 / 1 | 0 |
-| 高丽大学 | 103 | — | 工作名单 | [数学系或所属学院人员入口](https://math.korea.edu/math_en/people/faculty.do) | 2 | 0 / 0 / 0 | 0 |
+| 高丽大学 | 103 | — | 工作名单 | [数学系或所属学院人员入口](https://math.korea.edu/math_en/people/faculty.do) · [수학교육과 · 교수진（数学教育系现任）](https://mathedu.korea.ac.kr/mathedu/about/professor.do) · [수학과 · 명예교수（数学系荣休）](https://math.korea.ac.kr/math/member/professors-emeritus.do) · [수학과 · 전임교수（数学系韩文现任教师）](https://math.korea.ac.kr/math/member/full-time-professors.do) · [수학과 · 방문연구자 및 연구교수（访问及研究教授）](https://math.korea.ac.kr/math/member/scholars-research-professors.do) · [수학과 · 연구분야（15 个专长条目）](https://math.korea.ac.kr/math/member/research.do) | 4 | 2 / 0 / 0 | 0 |
 | 都灵理工大学 | =104 | — | 工作名单 | [DISMA · 教授名单](https://www.disma.polito.it/en/personale/elenco/%28tipo%29/professori) | 2 | 0 / 0 / 0 | 67 |
 | 韦洛尔理工学院 | =104 | — | 工作名单 | [VIT Faculty directory](https://vit.ac.in/faculty) · [SAS Mathematics 2026 · Research Guide](https://vit.ac.in/sites/default/files/vitree/Research-Guide-July-2026/Research-Guide-July-2026-Mathematics-SAS.pdf) · [School of Advanced Sciences · Mathematics faculty](https://vit.ac.in/school/allfaculty/sas/mathematics) · [数学研究方向与指导教师（官方 PDF）](https://vit.ac.in/sites/default/files/vitree/Research-Guide-July-2026/Research-Guide-July-2026-Mathematics-SAS.pdf) | 0 | 0 / 0 / 0 | 208 |
 | 北京理工大学 | 106 | — | 工作名单 | [数学与统计学院 · 数学系师资](https://math.bit.edu.cn/szdw/jgml/sxx/index.htm) · [数学系-北京理工大学数学与统计学院](https://math.bit.edu.cn/szdw/jgml/sxx/index.htm) · [数学系或所属学院人员入口](https://math.bit.edu.cn/en/Faculty/FacultyDirectory/index.htm) · [数学与统计学院师资机构目录](https://math.bit.edu.cn/szdw/jgml/index.htm) | 2 | 2 / 0 / 0 | 33 |
@@ -177,7 +177,7 @@
 | 伊斯兰堡 COMSATS 大学 | =111 | — | 工作名单 | [数学系或所属学院人员入口](https://ww2.comsats.edu.pk/faculty/DWFaculty.aspx?Cid=1&Dept=Mathematics+Department&Did=8&id=8) | 0 | 0 / 0 / 0 | 15 |
 | 沙特国王大学 | =111 | — | 工作名单 | [Female faculty members of the Mathematics Department](https://sciences.ksu.edu.sa/en/node/10970) · [数学系或所属学院人员入口](https://sciences.ksu.edu.sa/en/node/10833) | 6 | 0 / 0 / 0 | 9 |
 | 利兹大学 | =111 | — | 工作名单 | [School of Mathematics AGIS overview](https://eps.leeds.ac.uk/maths-pure-mathematics/doc/algebra-geometry-integrable-systems) · [People](https://agis.leeds.ac.uk/people/) · [学院人员目录（需筛选数学系）](https://eps.leeds.ac.uk/stafflist) | 1 | 0 / 0 / 1 | 16 |
-| 浦项工科大学 | =114 | — | 工作名单 | [Department of Mathematics · Faculty](https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Professor) · [数学系或所属学院人员入口](https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01) | 3 | 2 / 2 / 2 | 5 |
+| 浦项工科大学 | =114 | — | 工作名单 | [Department of Mathematics · Faculty](https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Professor) · [Department of Mathematics · Geometry & Topology](https://math.postech.ac.kr/en/bbs/board.php?bo_table=m06_02&sca=Geometry+%EF%BC%86+Topology) · [IBS Center for Geometry and Physics · People](https://cgp.ibs.re.kr/people/) · [数学系或所属学院人员入口](https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01) · [MINDS · Research areas](https://minds.postech.ac.kr/minds2/res/research_area.do) | 6 | 4 / 3 / 2 | 0 |
 | 里昂高等师范学院 | =114 | — | 工作名单 | [UMPA · Annuaire](https://www.umpa.ens-lyon.fr/umpa/annuaire) · [CNRS · Réseau Tétraèdre de Platon · Équipe UMPA](https://platwniko-tetraedro.pages.math.cnrs.fr/tetraedro-site/membres.html) · [Unité de mathématiques pures et appliquées](https://www.ens-lyon.fr/recherche/structures-de-recherche/laboratoires-et-structures-internes/unite-de-mathematiques-pures) · [Unité de mathématiques pures et appliquées](https://www.umpa.ens-lyon.fr/) · [数学系（院系入口）](https://www.ens-lyon.fr/formation/departements-et-centres/departement-de-mathematiques) | 1 | 1 / 0 / 1 | 13 |
 | 印度理工学院卡拉格普尔分校 | =116 | — | 工作名单 | [Department of Mathematics · Faculty & areas of research](https://sric.iitkgp.ac.in/web4/public/uploads/rs_activities/res-act-Mathematics.pdf) · [Mathematics · Security and Information Lab · Members](https://sil.iitkgp.ac.in/members_faculty.html) · [Indian Institute of Technology Kharagpur ／](https://www.iitkgp.ac.in/department/MA/faculty/ma-prateep) · [数学系（院系入口）](https://www.iitkgp.ac.in/department/MA) | 1 | 1 / 0 / 0 | 2 |
 | 莫斯科物理技术学院 | =116 | — | 工作名单 | [Members – Laboratory of Combinatorial and Geometric Structures](https://combgeo.org/en/members/) · [Steklov 研究所联合教席（仅部分范围）](https://www.mi.ras.ru/index.php/cs/i/index.php?c=chairmfti&l=1) | 0 | 0 / 0 / 0 | 12 |
@@ -286,7 +286,7 @@
 - 巴塞罗那自治大学。已从院系 People 分类页面提取 138 条人员记录，并从 Geometria Aritmètica 核对本校组员。职级及细分方向以学校档案为准。
 - 巴黎综合理工学院联盟。已查 CMLS 几何与动力小组的常任／非常任入口及 École polytechnique 个人档案。IP Paris 其他成员研究单位及 CNRS 共同归属待核。
 - 让·莫内大学。已核录学校官方 Saint-Étienne 校区 ICJ 成员分栏；方向与个人资料未公开的项目仍待核。
-- 约翰斯·霍普金斯大学。用院系现任名录、李驰公开 CV 和罗格斯数学系目录交叉核对两个现任职位。数学系、跨机构合作和其他现任成员仍需按范围对账。
+- 约翰斯·霍普金斯大学。对照数学系现任名册与官方招聘分类。Sylvester 助理教授为三年期博士后，保留姓名与公开字段在人员复核表。联合、访问、荣休及应用数学研究群另对账。
 - 哈立德国王大学。对照 2024 阿文及英文系名册与 2026 出版社署名，确认 Akram Ali 的校系与方向。两位讲师仅有历史职级；校区全员及之后的职位变化待核。
 - 米兰理工大学。已提取校方 Algebra and Geometry 组的 18 张具名卡片和职级，并核对具名个人论文资料。组广义覆盖多类研究，精确个人方向仍待逐人确认。
 - 萨塔姆·本·阿卜杜勒阿齐兹王子大学。已补查 PSAU 官网数学系、相关学院与英文几何方向索引，未发现能同时核实三类方向及当前职位的个人记录。
@@ -324,13 +324,14 @@
 - 柏林洪堡大学。已读取代数几何组旧版名册作线索，并用现行个人主页复核一位现任教授。旧条目和院系其他几何分组仍待对账。
 - 昆士兰大学。已由 UQ Experts 和个人 CV 对照任职和几何研究方向。自报与校方目录的交叉身份仍待核。
 - 阿尔伯塔大学。已查看数学与统计科学系 Academic Staff 和六领域研究目录。用校级目录确认四位代数几何及一位微分几何学者。PIMS 等联合渠道的任职范围仍待核。
+- 高丽大学。对照 17 位韩文现任教师、17 位荣休、13 条访问记录、数学教育系 6 位教师及官方研究方向表。补入英文旧页少收的代数几何与数学教育系的曲面几何，纠正两名荣休任职。其他校区及联合单位补查中。
 - 韦洛尔理工学院。已查 Vellore 与 Chennai 的教师及招生指导名单。当前几何线索见于教学文档，能证实该校区现任研究方向的个人页待核。
 - 北京理工大学。已核录数学与统计学院数学系官方中文名册的 35 人。另查代数李理论与分析实验室并用个人页核实几何学者，其余教师细分方向与研究中心的共同任职仍待核。
 - 伦敦政治经济学院。已逐人核对数学系现行 Academic Faculty 和 Academic Associates 合计 60 名，包括 24 名访问系列任职。数学系研究方向和统计系在研分组另核，代数统计历史人员归档。常任名单三个收录方向为 0 人，微分几何 1 位访问高级研究员单列。组合几何和非交换几何分别记录其实际方向。
 - 武汉大学。已登记校级科研门户数学教师总览的两页。先用独立个人页确认微分几何和双有理方向。院系全名单及相关单位仍待对账。
 - 伊斯兰堡 COMSATS 大学。已查 Lahore、Wah 校区数学名册、研究组和校级个人页，查到组合交换代数和优化方向。其他校区几何方向与联聘待核。
 - 利兹大学。已查 AGIS 研究组与数学学院专业信息。按个人任职和研究页面核对，尚未完成全组成员与合作单位清单。
-- 浦项工科大学。已查现任 Faculty 页和代数几何研究成果、研讨会与博士后入口。代数几何方向经个人档案确认，其他职级与研究人员待复核。
+- 浦项工科大学。已对照现任常任页、Geometry & Topology、代数和数论方向、IBS 几何物理中心与 MINDS 公开页，补入两位辛几何学者和一位双曲三维流形学者。纠正荣休、计算机兼任和相邻拓扑方向。研究所成员和其他任职类别仍待核。
 - 里昂高等师范学院。已查数学系、校方 UMPA 联合实验室和 CNRS 研究网络，提取几何专题组公开名单。Annuaire 返回 403；研究网络仍列已转任人员，正按个人任职证据复核整个实验室的实际现任人员。
 - 印度理工学院卡拉格普尔分校。已查院系 Faculty 入口、官方科研概况、继续教育项目与院系内部实验室。科研概况列 37 名教师但未具名，实验室名单仅覆盖该组，两条线索均无法覆盖院系全量方向。已核对一位代数几何研究者。
 - 莫斯科物理技术学院。已查俄文系所结构、现代数学课程、2025–26 高等数学选修课及校方教务。课程授课与现任导师分开，继续保留任职来源缺项。

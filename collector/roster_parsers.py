@@ -232,6 +232,8 @@ def parse_iit_delhi_faculty(records, base):
 
 def split_role(title, region=None):
     title = title.strip(" ,;–—")
+    if re.search(r"\bJ\.\s*J\.\s*Sylvester Assistant Professor\b", title, re.I):
+        return "other"
     if region == "波兰":
         if re.search(r"emeryt", title, re.I):
             return "emeritus"
