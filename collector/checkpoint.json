@@ -1382,6 +1382,26 @@
       "note": ""
     },
     {
+      "id": "fau-math-az",
+      "school": "fau",
+      "url": "https://en.www.math.fau.de/staff-members-a-z/",
+      "label": "Department of Mathematics · Staff Members A–Z",
+      "status": "parsed",
+      "count": 108,
+      "checked_at": "2026-11-24",
+      "note": ""
+    },
+    {
+      "id": "fau-math-chairs-de",
+      "school": "fau",
+      "url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+      "label": "Department Mathematik · Lehrstühle und Professuren",
+      "status": "parsed",
+      "count": 21,
+      "checked_at": "2026-11-24",
+      "note": ""
+    },
+    {
       "id": "fu-berlin-full-audit-source",
       "school": "fu-berlin",
       "url": "https://www.mi.fu-berlin.de/en/math/groups/index.html",
@@ -3502,6 +3522,16 @@
       "note": "新西伯利亚国立大学数学中心公开基础数学项目提到的负责人和研讨班参与者。范围仅该项目，记录用于任职复核。"
     },
     {
+      "id": "nsu-geometry-topology-chair",
+      "school": "novosibirsk",
+      "url": "https://old.math.nsc.ru/LBRT/d6/chair/",
+      "label": "Кафедра геометрии и топологии · 旧站",
+      "status": "source_error",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "网页暂未读取成功。"
+    },
+    {
       "id": "ntnu-28-algebra",
       "school": "ntnu",
       "url": "https://www.ntnu.edu/imf/research/algebra",
@@ -4175,21 +4205,71 @@
       "id": "qau-full-audit-source",
       "school": "qau",
       "url": "https://math.qau.edu.pk/faculty/dr-umar-hayat-2/",
-      "label": "Dr. Umar Hayat",
-      "status": "needs_adapter",
+      "label": "Department of Mathematics · Umar Hayat（个人页）",
+      "status": "reference",
       "count": 0,
       "checked_at": "2026-11-23",
-      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "qau-hec-historical",
+      "school": "qau",
+      "url": "https://math.qau.edu.pk/wp-content/uploads/2025/03/Departmental-profile-HEC.pdf",
+      "label": "HEC Department Profile（2019–2020 签署）",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "qau-math-source",
       "school": "qau",
       "url": "https://math.qau.edu.pk/faculty/",
-      "label": "数学系或所属学院人员入口",
+      "label": "Department of Mathematics · Faculty（现行个人页 17 份）",
       "status": "parsed",
       "count": 17,
       "checked_at": "2026-11-23",
       "note": ""
+    },
+    {
+      "id": "qau-natural-sciences",
+      "school": "qau",
+      "url": "https://fns.qau.edu.pk/",
+      "label": "Faculty of Natural Sciences · Departments",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "qau-physics-faculty",
+      "school": "qau",
+      "url": "https://phys.qau.edu.pk/?page=faculty_members",
+      "label": "Department of Physics · Faculty Members（跨学科补查）",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "qau-research-office",
+      "school": "qau",
+      "url": "https://oric.qau.edu.pk/rd-overview/",
+      "label": "Office of Research, Innovation & Commercialisation · R&D Overview",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "qau-staff-nonteaching",
+      "school": "qau",
+      "url": "https://math.qau.edu.pk/about-us/staff-members/",
+      "label": "Department of Mathematics · Staff Members（行政人员）",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "qmul-qs-roster",
@@ -6090,6 +6170,36 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "upc-geodys",
+      "school": "upc",
+      "url": "https://geodys.upc.edu/en/staff",
+      "label": "Lab of Geometry and Dynamical Systems · Members",
+      "status": "source_error",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "网页暂未读取成功。"
+    },
+    {
+      "id": "upc-geomap",
+      "school": "upc",
+      "url": "https://geomap.upc.edu/en/members",
+      "label": "GEOMAP · Members",
+      "status": "parsed",
+      "count": 22,
+      "checked_at": "2026-11-24",
+      "note": "已核录 GEOMAP 的 22 名公开主栏成员。另检查具名在读分组 17 人，学生不进入教师名册。现任职级以校级科研门户或个人任职页为准。"
+    },
+    {
+      "id": "upc-math-futur",
+      "school": "upc",
+      "url": "https://futur.upc.edu/MAT/p/185",
+      "label": "FUTUR · Departament de Matemàtiques",
+      "status": "source_error",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "网页暂未读取成功。"
     },
     {
       "id": "upc-math-source",
@@ -43369,6 +43479,2070 @@
         "source_kind": "research",
         "source_url": "https://en.www.math.fau.de/algebra-and-geometry/",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "adeelmuneer",
+      "school": "fau",
+      "record": {
+        "name": "Adeel Muneer",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "alexanderprechtel",
+      "school": "fau",
+      "record": {
+        "name": "Alexander Prechtel",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "andreasknauf",
+      "school": "fau",
+      "record": {
+        "name": "Andreas Knauf",
+        "title": "Retired professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "andrianuihlein",
+      "school": "fau",
+      "record": {
+        "name": "Andrian Uihlein",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "arimsong",
+      "school": "fau",
+      "record": {
+        "name": "Arim Song",
+        "title": "Visiting researchers",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "baducduong",
+      "school": "fau",
+      "record": {
+        "name": "Ba Duc Duong",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "bartvansteirteghem",
+      "school": "fau",
+      "record": {
+        "name": "Bart van Steirteghem",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "belindaechtermeyer",
+      "school": "fau",
+      "record": {
+        "name": "Belinda Echtermeyer",
+        "title": "Team assistant/Secretary",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "carminederosa",
+      "school": "fau",
+      "record": {
+        "name": "Carmine De Rosa",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "carstengraser",
+      "school": "fau",
+      "record": {
+        "name": "Carsten Gräser",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "catherinemeusburger",
+      "school": "fau",
+      "record": {
+        "name": "Cathérine Meusburger",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "christinabirkenhake",
+      "school": "fau",
+      "record": {
+        "name": "Christina Birkenhake",
+        "title": "Privatdozent",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "christophorusrichard",
+      "school": "fau",
+      "record": {
+        "name": "Christophorus Richard",
+        "title": "Adjunct professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "claudiabrandtpecher",
+      "school": "fau",
+      "record": {
+        "name": "Claudia Brandt-Pecher",
+        "title": "Administrative staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "clemensullrich",
+      "school": "fau",
+      "record": {
+        "name": "Clemens Ullrich",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "corneliaschneider",
+      "school": "fau",
+      "record": {
+        "name": "Cornelia Schneider",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "corneliaweber",
+      "school": "fau",
+      "record": {
+        "name": "Cornelia Weber",
+        "title": "Administrative staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "danielpolster",
+      "school": "fau",
+      "record": {
+        "name": "Daniel Polster",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "danieltenbrinck",
+      "school": "fau",
+      "record": {
+        "name": "Daniel Tenbrinck",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "dennistrautwein",
+      "school": "fau",
+      "record": {
+        "name": "Dennis Trautwein",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "dieterweninger",
+      "school": "fau",
+      "record": {
+        "name": "Dieter Weninger",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "draganmarkovic",
+      "school": "fau",
+      "record": {
+        "name": "Dragan Markovic",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "emilwiedemann",
+      "school": "fau",
+      "record": {
+        "name": "Emil Wiedemann",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "enriquezuazuairiondo",
+      "school": "fau",
+      "record": {
+        "name": "Enrique Zuazua Iriondo",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "fabianwein",
+      "school": "fau",
+      "record": {
+        "name": "Fabian Wein",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "florianfrank",
+      "school": "fau",
+      "record": {
+        "name": "Florian Frank",
+        "title": "Privatdozent",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "florianprohaska",
+      "school": "fau",
+      "record": {
+        "name": "Florian Prohaska",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "frankdenhollander",
+      "school": "fau",
+      "record": {
+        "name": "Frank den Hollander",
+        "title": "Visiting researchers",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "franziskaliaschmidt",
+      "school": "fau",
+      "record": {
+        "name": "Franziska Lia Schmidt",
+        "title": "Administrative staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "friedrichknop",
+      "school": "fau",
+      "record": {
+        "name": "Friedrich Knop",
+        "title": "Retired professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "gandalflechner",
+      "school": "fau",
+      "record": {
+        "name": "Gandalf Lechner",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "gerrietmartens",
+      "school": "fau",
+      "record": {
+        "name": "Gerriet Martens",
+        "title": "Adjunct professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "giovannifantuzzi",
+      "school": "fau",
+      "record": {
+        "name": "Giovanni Fantuzzi",
+        "title": "Assistant professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "gunthergrun",
+      "school": "fau",
+      "record": {
+        "name": "Günther Grün",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "hannesmeinlschmidt",
+      "school": "fau",
+      "record": {
+        "name": "Hannes Meinlschmidt",
+        "title": "Assistant professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "hermannschulzbaldes",
+      "school": "fau",
+      "record": {
+        "name": "Hermann Schulz-Baldes",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "iankoot",
+      "school": "fau",
+      "record": {
+        "name": "Ian Koot",
+        "title": "Doctoral candidates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "irmgardmoch",
+      "school": "fau",
+      "record": {
+        "name": "Irmgard Moch",
+        "title": "Administrative staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "jakobrodestock",
+      "school": "fau",
+      "record": {
+        "name": "Jakob Rodestock",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "jakobroth",
+      "school": "fau",
+      "record": {
+        "name": "Jakob Roth",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "janmazac",
+      "school": "fau",
+      "record": {
+        "name": "Jan Mazac",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "jasminschindler",
+      "school": "fau",
+      "record": {
+        "name": "Jasmin Schindler",
+        "title": "Administrative staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "jensschroder",
+      "school": "fau",
+      "record": {
+        "name": "Jens Schröder",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "johannesgrosse",
+      "school": "fau",
+      "record": {
+        "name": "Johannes Große",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "johanneshild",
+      "school": "fau",
+      "record": {
+        "name": "Johannes Hild",
+        "title": "Head",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "johanneskorte",
+      "school": "fau",
+      "record": {
+        "name": "Johannes Korte",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "jonasknoch",
+      "school": "fau",
+      "record": {
+        "name": "Jonas Knoch",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "josefdemmel",
+      "school": "fau",
+      "record": {
+        "name": "Josef Demmel",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "joshuautley",
+      "school": "fau",
+      "record": {
+        "name": "Joshua Utley",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "juleschindler",
+      "school": "fau",
+      "record": {
+        "name": "Jule Schindler",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "juttazintchenko",
+      "school": "fau",
+      "record": {
+        "name": "Jutta Zintchenko",
+        "title": "Administrative staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "karinpott",
+      "school": "fau",
+      "record": {
+        "name": "Karin Pott",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "karlhermannneeb",
+      "school": "fau",
+      "record": {
+        "name": "Karl Hermann Neeb",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "katrinlauer",
+      "school": "fau",
+      "record": {
+        "name": "Katrin Lauer",
+        "title": "Administrative staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "kejdidanglli",
+      "school": "fau",
+      "record": {
+        "name": "Kejdi Danglli",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "khushibatra",
+      "school": "fau",
+      "record": {
+        "name": "Khushi Batra",
+        "title": "Administrative staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "kilianhacker",
+      "school": "fau",
+      "record": {
+        "name": "Kilian Hacker",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "leabossmann",
+      "school": "fau",
+      "record": {
+        "name": "Lea Boßmann",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "lukasreichmann",
+      "school": "fau",
+      "record": {
+        "name": "Lukas Reichmann",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "manuelalinsner",
+      "school": "fau",
+      "record": {
+        "name": "Manuela Linsner",
+        "title": "Student-Service-Center (SSC)",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "marianeuss",
+      "school": "fau",
+      "record": {
+        "name": "Maria Neuß",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "markusfrob",
+      "school": "fau",
+      "record": {
+        "name": "Markus Fröb",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "martinbayer",
+      "school": "fau",
+      "record": {
+        "name": "Martin Bayer",
+        "title": "Technical staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "martingugat",
+      "school": "fau",
+      "record": {
+        "name": "Martin Gugat",
+        "title": "Adjunct professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "martinhannuschka",
+      "school": "fau",
+      "record": {
+        "name": "Martin Hannuschka",
+        "title": "Administrative staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "matthiasbauer",
+      "school": "fau",
+      "record": {
+        "name": "Matthias Bauer",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "maxencecoppin",
+      "school": "fau",
+      "record": {
+        "name": "Maxence Coppin",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "maximilianludwig",
+      "school": "fau",
+      "record": {
+        "name": "Maximilian Ludwig",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "maximilianrotzer",
+      "school": "fau",
+      "record": {
+        "name": "Maximilian Rötzer",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "maxzetzmann",
+      "school": "fau",
+      "record": {
+        "name": "Max Zetzmann",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "michaelfeigin",
+      "school": "fau",
+      "record": {
+        "name": "Michael Feigin",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "michaelfried",
+      "school": "fau",
+      "record": {
+        "name": "Michael Fried",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "michaellienerth",
+      "school": "fau",
+      "record": {
+        "name": "Michael Lienerth",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "michaelpreeg",
+      "school": "fau",
+      "record": {
+        "name": "Michael Preeg",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "michaelschuster",
+      "school": "fau",
+      "record": {
+        "name": "Michael Schuster",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "michaelstingl",
+      "school": "fau",
+      "record": {
+        "name": "Michael Stingl",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "nadjaray",
+      "school": "fau",
+      "record": {
+        "name": "Nadja Ray",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "nickschneider",
+      "school": "fau",
+      "record": {
+        "name": "Nick Schneider",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "nicolasneuss",
+      "school": "fau",
+      "record": {
+        "name": "Nicolas Neuß",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "nicolawengiel",
+      "school": "fau",
+      "record": {
+        "name": "Nicola Wengiel",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "nicoleguthlein",
+      "school": "fau",
+      "record": {
+        "name": "Nicole Güthlein",
+        "title": "Team assistant/Secretary",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "niconees",
+      "school": "fau",
+      "record": {
+        "name": "Nico Nees",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "oliverschnetz",
+      "school": "fau",
+      "record": {
+        "name": "Oliver Schnetz",
+        "title": "Privatdozent",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "pedroblossbraga",
+      "school": "fau",
+      "record": {
+        "name": "Pedro Blöss Braga",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "peterfiebig",
+      "school": "fau",
+      "record": {
+        "name": "Peter Fiebig",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "raphaelschulz",
+      "school": "fau",
+      "record": {
+        "name": "Raphael Schulz",
+        "title": "Privatdozent",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "robertlasarzik",
+      "school": "fau",
+      "record": {
+        "name": "Robert Lasarzik",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "sabinelink",
+      "school": "fau",
+      "record": {
+        "name": "Sabine Link",
+        "title": "Team assistant/Secretary",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "sebastianczop",
+      "school": "fau",
+      "record": {
+        "name": "Sebastian Czop",
+        "title": "Administrative staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "sergekrautle",
+      "school": "fau",
+      "record": {
+        "name": "Serge Kräutle",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "simontheil",
+      "school": "fau",
+      "record": {
+        "name": "Simon Theil",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "stefanmetzger",
+      "school": "fau",
+      "record": {
+        "name": "Stefan Metzger",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "stefanskondric",
+      "school": "fau",
+      "record": {
+        "name": "Stefan Skondric",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "sukhmindersingh",
+      "school": "fau",
+      "record": {
+        "name": "Sukhminder Singh",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "temucincil",
+      "school": "fau",
+      "record": {
+        "name": "Temucin Cil",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "thomascreutzig",
+      "school": "fau",
+      "record": {
+        "name": "Thomas Creutzig",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "thomascusinato",
+      "school": "fau",
+      "record": {
+        "name": "Thomas Cusinato",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "timmoertel",
+      "school": "fau",
+      "record": {
+        "name": "Timm Oertel",
+        "title": "Head",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "timofeistl",
+      "school": "fau",
+      "record": {
+        "name": "Timo Feistl",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "torbenkruger",
+      "school": "fau",
+      "record": {
+        "name": "Torben Krüger",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "vadymaizinger",
+      "school": "fau",
+      "record": {
+        "name": "Vadym Aizinger",
+        "title": "Visiting researchers",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "vladimirkovalchuk",
+      "school": "fau",
+      "record": {
+        "name": "Vladimir Kovalchuk",
+        "title": "Visiting researchers",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "wigandrathmann",
+      "school": "fau",
+      "record": {
+        "name": "Wigand Rathmann",
+        "title": "Research associates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "wilhelmmerz",
+      "school": "fau",
+      "record": {
+        "name": "Wilhelm Merz",
+        "title": "Adjunct professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "wolfgangachtziger",
+      "school": "fau",
+      "record": {
+        "name": "Wolfgang Achtziger",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "wolfgangruppert",
+      "school": "fau",
+      "record": {
+        "name": "Wolfgang Ruppert",
+        "title": "Adjunct professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "wolfgangstummer",
+      "school": "fau",
+      "record": {
+        "name": "Wolfgang Stummer",
+        "title": "Professors",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-az",
+      "person_key": "yueliwang",
+      "school": "fau",
+      "record": {
+        "name": "Yueli Wang",
+        "title": "Visiting researchers",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://en.www.math.fau.de/staff-members-a-z/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "ankelindmeierlehrstuhlfurdidaktikdermathematik",
+      "school": "fau",
+      "record": {
+        "name": "Anke Lindmeier (Lehrstuhl für Didaktik der Mathematik)",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.didmath.phil.fau.de/team/lindmeier/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "carstengraser",
+      "school": "fau",
+      "record": {
+        "name": "Carsten Gräser",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.math.fau.de/angewandte-mathematik-3/mitarbeiter-am3/prof-dr-carsten-graeser/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "catherinemeusburger",
+      "school": "fau",
+      "record": {
+        "name": "Catherine Meusburger",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.math.fau.de/lie-gruppen/personen/catherine-meusburger/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "emilwiedemann",
+      "school": "fau",
+      "record": {
+        "name": "Emil Wiedemann",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.math.fau.de/ls-analysis/prof-dr-emil-wiedemann/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "enriquezuazua",
+      "school": "fau",
+      "record": {
+        "name": "Enrique Zuazua",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://dcn.nat.fau.eu/zuazua/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "friedrichknop",
+      "school": "fau",
+      "record": {
+        "name": "Friedrich Knop",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.math.fau.de/algebra-und-geometrie/friedrich-knop/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "gandalflechner",
+      "school": "fau",
+      "record": {
+        "name": "Gandalf Lechner",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.math.fau.de/mathematische-physik/gandalf-lechner/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "giovannifantuzzi",
+      "school": "fau",
+      "record": {
+        "name": "Giovanni Fantuzzi",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://dcn.nat.fau.eu/giovanni-fantuzzi/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "gunthergrun",
+      "school": "fau",
+      "record": {
+        "name": "Günther Grün",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.math.fau.de/angewandte-mathematik-ananumpde/prof-dr-guenther-gruen/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "hannesmeinlschmidt",
+      "school": "fau",
+      "record": {
+        "name": "Hannes Meinlschmidt",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://dcn.nat.fau.eu/hannes-meinlschmidt/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "hermannschulzbaldes",
+      "school": "fau",
+      "record": {
+        "name": "Hermann Schulz-Baldes",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.math.fau.de/mathematische-physik/hermann-schulz-baldes/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "karlhermannneeb",
+      "school": "fau",
+      "record": {
+        "name": "Karl-Hermann Neeb",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.math.fau.de/lie-gruppen/personen/karl-hermann-neeb/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "leabossmann",
+      "school": "fau",
+      "record": {
+        "name": "Lea Boßmann",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.math.fau.de/ls-analysis/prof-dr-lea-bossmann/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "michaelstingl",
+      "school": "fau",
+      "record": {
+        "name": "Michael Stingl",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.math.fau.de/kontinuierliche-optimierung/michael-stingl/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "peterfiebig",
+      "school": "fau",
+      "record": {
+        "name": "Peter Fiebig",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.math.fau.de/algebra-und-geometrie/peter-fiebig/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "stefanmetzger",
+      "school": "fau",
+      "record": {
+        "name": "Stefan Metzger",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.math.fau.de/angewandte-mathematik-1/mitarbeiter/dr-stefan-metzger/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "thomascreutzig",
+      "school": "fau",
+      "record": {
+        "name": "Thomas Creutzig",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.math.fau.de/algebra-und-geometrie/thomascreutzig/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "timmoertel",
+      "school": "fau",
+      "record": {
+        "name": "Timm Oertel",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.math.fau.de/person/prof-dr-timm-oertel/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "torbenkruger",
+      "school": "fau",
+      "record": {
+        "name": "Torben Krüger",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.math.fau.de/stochastik/prof-dr-torben-krueger/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "wolfgangachtziger",
+      "school": "fau",
+      "record": {
+        "name": "Wolfgang Achtziger",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.math.fau.de/angewandte-mathematik/achtziger/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "fau-math-chairs-de",
+      "person_key": "wolfgangstummer",
+      "school": "fau",
+      "record": {
+        "name": "Wolfgang Stummer",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.math.fau.de/professur-fuer-mathematik/wolfgang-stummer/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.fau.de/department/lehrstuehle-und-professuren/",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -219717,6 +221891,358 @@
       }
     },
     {
+      "source": "upc-geomap",
+      "person_key": "albertofernandezboix",
+      "school": "upc",
+      "record": {
+        "name": "Alberto Fernández Boix",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "alejandrocabrera",
+      "school": "upc",
+      "record": {
+        "name": "Alejandro Cabrera",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "anabelendefelipeparamio",
+      "school": "upc",
+      "record": {
+        "name": "Ana Belén de Felipe Paramio",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "elbagarciafailde",
+      "school": "upc",
+      "record": {
+        "name": "Elba Garcia-Failde",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "evamiranda",
+      "school": "upc",
+      "record": {
+        "name": "Eva Miranda",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "francescplanasvilanova",
+      "school": "upc",
+      "record": {
+        "name": "Francesc Planas Vilanova",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "gabrielerembado",
+      "school": "upc",
+      "record": {
+        "name": "Gabriele Rembado",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "guillemblancofernandez",
+      "school": "upc",
+      "record": {
+        "name": "Guillem Blanco Fernández",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "jaumeamoros",
+      "school": "upc",
+      "record": {
+        "name": "Jaume Amorós",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "jesusfernandezsanchez",
+      "school": "upc",
+      "record": {
+        "name": "Jesús Fernández Sánchez",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "josepalvarezmontaner",
+      "school": "upc",
+      "record": {
+        "name": "Josep Alvarez Montaner",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "josepelguetamonto",
+      "school": "upc",
+      "record": {
+        "name": "Josep Elgueta Montó",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "marcogualtieri",
+      "school": "upc",
+      "record": {
+        "name": "Marco Gualtieri",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "mariaalberichcarraminana",
+      "school": "upc",
+      "record": {
+        "name": "Maria Alberich Carramiñana",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "marinagarrotelopez",
+      "school": "upc",
+      "record": {
+        "name": "Marina Garrote López",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "martacasanellasrius",
+      "school": "upc",
+      "record": {
+        "name": "Marta Casanellas Rius",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "martamazzoco",
+      "school": "upc",
+      "record": {
+        "name": "Marta Mazzoco",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "miguelangelbarjayanez",
+      "school": "upc",
+      "record": {
+        "name": "Miguel Ángel Barja Yáñez",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "narcisoromanroy",
+      "school": "upc",
+      "record": {
+        "name": "Narciso Román Roy",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "robertogualdi",
+      "school": "upc",
+      "record": {
+        "name": "Roberto Gualdi",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "roserhomspons",
+      "school": "upc",
+      "record": {
+        "name": "Roser Homs Pons",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "upc-geomap",
+      "person_key": "xaviergraciasabate",
+      "school": "upc",
+      "record": {
+        "name": "Xavier Gracia Sabaté",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://geomap.upc.edu/en/members",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
       "source": "upc-math-source",
       "person_key": "albamuixi",
       "school": "upc",
@@ -257626,19 +260152,6 @@
     {
       "url": "https://en.www.math.fau.de/person/jakob-roth/",
       "cache_id": "profile-b0cf123f0f3a08ce",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://en.www.math.fau.de/person/prof-dr-peter-fiebig/",
-      "cache_id": "profile-b137b392f3c01139",
       "status": "parsed",
       "record": {
         "research": "",
@@ -336436,6 +338949,27 @@
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5001102641"
     },
+    "eva-miranda": {
+      "status": "review_ready",
+      "author_id": "A5006617383",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5006617383",
+        "orcid": "https://orcid.org/0000-0001-9518-5279",
+        "url": "https://openalex.org/authors/A5006617383",
+        "authorApiUrl": "https://api.openalex.org/authors/A5006617383",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5006617383,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 87,
+        "works": 148,
+        "citations": 2108,
+        "hIndex": 27,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "evgeny-shinder": {
       "status": "identity_review",
       "reason": "同一人的论文指向不同作者档案。",
@@ -337060,6 +339594,27 @@
       "status": "source_error",
       "reason": "OpenAlex 请求或返回数据失败。",
       "checkedAt": "2026-11-23"
+    },
+    "jaume-amoros": {
+      "status": "review_ready",
+      "author_id": "A5012582833",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5012582833",
+        "orcid": "https://orcid.org/0000-0002-3133-9985",
+        "url": "https://openalex.org/authors/A5012582833",
+        "authorApiUrl": "https://api.openalex.org/authors/A5012582833",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5012582833,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 52,
+        "works": 79,
+        "citations": 1312,
+        "hIndex": 17,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "jeffrey-brock": {
       "status": "identity_review",
@@ -337841,6 +340396,38 @@
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5002042228"
+    },
+    "maria-alberich-carraminana": {
+      "status": "review_ready",
+      "author_id": "A5087860991",
+      "papers": [
+        {
+          "title": "Topological reconstruction of sampled surfaces via Morse theory",
+          "year": 2025,
+          "url": "https://doi.org/10.1016/j.cam.2025.116872"
+        },
+        {
+          "title": "Polynomial Factorization Over Henselian Fields",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/s10208-024-09646-x"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5087860991",
+        "orcid": "https://orcid.org/0000-0003-2749-4875",
+        "url": "https://openalex.org/authors/A5087860991",
+        "authorApiUrl": "https://api.openalex.org/authors/A5087860991",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5087860991,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 38,
+        "works": 73,
+        "citations": 491,
+        "hIndex": 13,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "marie-louise-michelsohn": {
       "status": "identity_review",
@@ -338779,6 +341366,38 @@
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5075982645"
     },
+    "person-517ffd94d2be": {
+      "status": "review_ready",
+      "author_id": "A5100602900",
+      "papers": [
+        {
+          "title": "Quasi‐positive mixed curvature, vanishing theorems, and rational connectedness",
+          "year": 2026,
+          "url": "https://doi.org/10.1112/blms.70294"
+        },
+        {
+          "title": "GENERAL SCHWARZ LEMMAS BETWEEN PSEUDO-HERMITIAN MANIFOLDS AND HERMITIAN MANIFOLDS",
+          "year": 2021,
+          "url": "https://doi.org/10.11948/20200387"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5100602900",
+        "orcid": "https://orcid.org/0000-0001-7126-6920",
+        "url": "https://openalex.org/authors/A5100602900",
+        "authorApiUrl": "https://api.openalex.org/authors/A5100602900",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5100602900,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 16,
+        "works": 18,
+        "citations": 96,
+        "hIndex": 6,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "person-55d8df5b65b2": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
@@ -339157,6 +341776,11 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
     },
+    "person-f36827c8bf3c": {
+      "status": "identity_review",
+      "reason": "两篇具名复几何代表作在 OpenAlex 指向不同作者档案；累计论文数和引用量暂缺。",
+      "checkedAt": "2026-11-24"
+    },
     "person-f54437c532ec": {
       "status": "source_error",
       "reason": "OpenAlex 请求或返回数据失败。",
@@ -339189,6 +341813,38 @@
       "papers": [],
       "checkedAt": "2026-11-24",
       "candidate_url": "https://openalex.org/authors/A5017069208"
+    },
+    "peter-fiebig": {
+      "status": "review_ready",
+      "author_id": "A5084349444",
+      "papers": [
+        {
+          "title": "Parity sheaves, moment graphs and the p -smooth locus of Schubert varieties",
+          "year": 2014,
+          "url": "https://doi.org/10.5802/aif.2856"
+        },
+        {
+          "title": "Representations and binomial coefficients",
+          "year": 2025,
+          "url": "https://doi.org/10.5802/art.24"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5084349444",
+        "orcid": null,
+        "url": "https://openalex.org/authors/A5084349444",
+        "authorApiUrl": "https://api.openalex.org/authors/A5084349444",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5084349444,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 18,
+        "works": 43,
+        "citations": 635,
+        "hIndex": 12,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "peter-kronheimer": {
       "status": "identity_review",

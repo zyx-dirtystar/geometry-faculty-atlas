@@ -294,18 +294,22 @@ def population(db):
     result = {}
     regions = {row["id"]:json.loads(row["record"])["region"] for row in db.execute("SELECT id,record FROM schools")}
     source_order = {source["id"]:index for index, source in enumerate(load_sources())}
+    review_path = ROOT / "verified-profiles.json"
+    reviews = json.loads(review_path.read_text(encoding="utf-8")) if review_path.is_file() else []
+    reviewed = {(row["school"],name_key(row["name"])):row for row in reviews}
+    roster_aliases = {
+        (row["school"],name_key(alias)):row["name"] for row in reviews for alias in row.get("rosterAliases", [])
+    }
     sightings = db.execute("SELECT school,person_key,source,record FROM sightings").fetchall()
     for sighting in sorted(sightings, key=lambda row: (
         row["school"], row["person_key"], source_order.get(row["source"],len(source_order)), row["source"],
     )):
         row = json.loads(sighting["record"])
         school = sighting["school"]
-        group = result.setdefault((school,sighting["person_key"]), {"school":school, "name":row["name"],"evidence":[]})
+        name = roster_aliases.get((school,sighting["person_key"]), row["name"])
+        group = result.setdefault((school,name_key(name)), {"school":school, "name":name,"evidence":[]})
         group["evidence"].append(row)
     profiles = {item["url"]:json.loads(item["record"]) for item in db.execute("SELECT url,record FROM profiles WHERE record IS NOT NULL")}
-    review_path = ROOT / "verified-profiles.json"
-    reviews = json.loads(review_path.read_text(encoding="utf-8")) if review_path.is_file() else []
-    reviewed = {(row["school"],name_key(row["name"])):row for row in reviews}
     for row in reviews:
         result.setdefault((row["school"],name_key(row["name"])), {"school":row["school"],"name":row["name"],"evidence":[]})
     for group in result.values():
