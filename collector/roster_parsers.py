@@ -1720,4 +1720,27 @@ def profile_fields(document, base):
         fields["official_title"] = official_title
     if len(orcids) == 1:
         fields["orcid"] = next(iter(orcids))
+    person_path = urlparse(base).path.rstrip("/")
+    if re.search(r"/persons/[^/]+$", person_path):
+        publication_path = person_path + "/publications"
+        counts = []
+        for label, url in urls(main, base):
+            parsed = urlparse(url)
+            if parsed.hostname != urlparse(base).hostname or parsed.path.rstrip("/") != publication_path:
+                continue
+            total = re.fullmatch(r"View all ([\d,]+) research outputs?", label, re.I)
+            if total:
+                counts.append({"value":int(total[1].replace(",", "")),
+                               "scope":"机构 Pure 档案的 Research output 总数", "url":url})
+                fields["publications"] = fields["publications"] or url
+        for link in main.xpath(".//a[contains(@class,'increment-counter')][@href and @aria-label]"):
+            count = re.fullmatch(r"\s*([\d,]+)\s+Article\s*", link.get("aria-label"), re.I)
+            url = profile_link(base, link.get("href"))
+            parsed = urlparse(url)
+            if (count and parsed.hostname == urlparse(base).hostname and parsed.path.rstrip("/") == publication_path
+                    and "researchoutputtypes%2Fcontributiontojournal%2Farticle" in parsed.query):
+                counts.append({"value":int(count[1].replace(",", "")),
+                               "scope":"机构 Pure 档案的 Article 分类", "url":url})
+        if counts:
+            fields["publication_counts"] = counts
     return fields

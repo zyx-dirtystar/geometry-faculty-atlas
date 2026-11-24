@@ -186,9 +186,13 @@ def read_snapshot(source_id):
         except LookupError:
             content = content.decode("windows-1252", errors="replace").encode("utf-8")
     try:
-        return meta, html.fromstring(content, parser=html.HTMLParser(encoding="utf-8"))
+        document = html.fromstring(content, parser=html.HTMLParser(encoding="utf-8"))
     except etree.ParserError:
         return meta, None
+    title = " ".join(document.xpath("string(/html/head/title)").split()).casefold()
+    if title in {"request rejected", "access denied", "just a moment...", "attention required! | cloudflare"}:
+        return {**meta, "error":"Access denied by the source website."}, None
+    return meta, document
 
 
 def seen_date(meta):
@@ -230,7 +234,7 @@ def ingest_rosters(db, seed):
         elif document is None:
             error = (meta.get("error") or "").casefold()
             status = "source_error"
-            if re.search(r"\b(?:401|403|forbidden)\b", error):
+            if re.search(r"\b(?:401|403|forbidden|access denied)\b", error):
                 note = "机构网站限制了目录请求。"
             elif "ssl:" in error or "certificate" in error:
                 note = "HTTPS 连接或证书校验失败。"
@@ -318,6 +322,7 @@ def population(db):
             sources.append({"text":review["research"],"url":review["research_source"]})
         cv = review.get("cv") or ""
         publications = review.get("publications") or ""
+        counts = list(review.get("publicationCounts", []))
         is_relevant_role = group["role"] in ("faculty","unverified")
         official = profiles.get(group["profile"], {}) if is_relevant_role else {}
         if not group["homepage"] and official.get("homepage"):
@@ -330,10 +335,16 @@ def population(db):
                 group["homepage"] = profile["homepage"]
             cv = cv or profile.get("cv") or ""
             publications = publications or profile.get("publications") or ""
+            for count in profile.get("publication_counts", []):
+                checked = profile.get("checked_at")
+                if not checked or any(item["scope"] == count["scope"] and item["url"] == count["url"]
+                                      and item["checkedAt"] == checked for item in counts):
+                    continue
+                counts.append({**count, "checkedAt":checked})
         group["cv"] = cv
         group["cv_type"] = review.get("cvType") or ("公开 CV（简版）" if cv and re.search(r"(?:mini|short|brief)[-_]?[_-]?(?:cv|vita)|cv[-_](?:mini|short|brief)", cv, re.I) else None)
         group["publications"] = publications
-        group["publication_counts"] = review.get("publicationCounts", [])
+        group["publication_counts"] = counts
         group["topic_sources"] = sources
         text = " / ".join(item["text"] for item in sources)
         fields = matched_fields(text)

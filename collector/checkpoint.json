@@ -312,6 +312,26 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "birmingham-28-geometry-physics",
+      "school": "birmingham",
+      "url": "https://www.birmingham.ac.uk/research/centres-institutes/research-in-mathematics/geometry-and-mathematical-physics-research-group",
+      "label": "Geometry and Mathematical Physics",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "birmingham-28-geometry-staff",
+      "school": "birmingham",
+      "url": "https://www.birmingham.ac.uk/research/centres-institutes/research-in-mathematics/geometry-and-mathematical-physics-research-group/staff",
+      "label": "Geometry and Mathematical Physics · Staff",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
       "id": "birmingham-full-audit-source",
       "school": "birmingham",
       "url": "https://www.birmingham.ac.uk/research/centres-institutes/research-in-mathematics/algebra/members",
@@ -990,6 +1010,16 @@
       "count": 15,
       "checked_at": "2026-11-23",
       "note": ""
+    },
+    {
+      "id": "copenhagen-28-geotop",
+      "school": "copenhagen",
+      "url": "https://geotop.math.ku.dk/research/research-interests-geometry-topology/",
+      "label": "GeoTop · Staff and Research Interests",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
       "id": "copenhagen-full-audit-source",
@@ -2192,14 +2222,34 @@
       "note": "尚未取得网页。"
     },
     {
+      "id": "jordan-28-current-schools-plan",
+      "school": "jordan",
+      "url": "https://science.ju.edu.jo/StudyPlans/study%20plan%20B.Sc.%20in%20mathematics%202024.pdf",
+      "label": "School of Science · Mathematics BSc study plan",
+      "status": "source_error",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "机构网站限制了目录请求。"
+    },
+    {
+      "id": "jordan-28-research-maod",
+      "school": "jordan",
+      "url": "https://research.ju.edu.jo/research/groups/MAOD/pages/ResearchInterests.aspx",
+      "label": "جامعة الأردن · Research group Math MAOD",
+      "status": "source_error",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "机构网站限制了目录请求。"
+    },
+    {
       "id": "jordan-math-source",
       "school": "jordan",
       "url": "https://science.ju.edu.jo/Documents/CV/math/%D8%B4%D8%A7%D9%87%D8%B1%20%D9%85%D8%AD%D9%85%D9%80%D9%80%D9%80%D8%AF%20%D8%A7%D9%84%D9%85%D9%88%D9%85%D9%86%D9%8A.pdf",
       "label": "理学院公开个人 CV（仅单人线索）",
-      "status": "needs_adapter",
+      "status": "source_error",
       "count": 0,
       "checked_at": "2026-11-23",
-      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+      "note": "机构网站限制了目录请求。"
     },
     {
       "id": "jyvaskyla-math",
@@ -2762,6 +2812,16 @@
       "note": "机构网站限制了目录请求。"
     },
     {
+      "id": "lmu-28-alg-geo",
+      "school": "lmu",
+      "url": "https://www.math.lmu.de/de/forschung/arbeitsgruppen/algebraische-geometrie/",
+      "label": "Mathematisches Institut · Algebraische Geometrie",
+      "status": "parsed",
+      "count": 6,
+      "checked_at": "2026-11-24",
+      "note": "核录代数与算术几何教研组官网的教授分栏。独立学科方向、现任职级和其他分组另核。"
+    },
+    {
       "id": "lmu-full-audit-source",
       "school": "lmu",
       "url": "https://www.math.lmu.de/en/forschung/arbeitsgruppen/algebraische-geometrie/",
@@ -3010,6 +3070,16 @@
       "count": 0,
       "checked_at": "2026-11-24",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "michigan-state-28-diff-geo",
+      "school": "michigan-state",
+      "url": "https://math.msu.edu/Research/research-groups/differential-geometry-geometric-analysis.aspx",
+      "label": "Differential Geometry and Geometric Analysis",
+      "status": "parsed",
+      "count": 9,
+      "checked_at": "2026-11-24",
+      "note": "核录官方几何分析组 Faculty 名单和公开荣休人员样本。两位姓名与职级由院系 Directory 独立复核。"
     },
     {
       "id": "michigan-state-full-audit-source",
@@ -3972,6 +4042,16 @@
       "note": ""
     },
     {
+      "id": "puc-chile-28-geo",
+      "school": "puc-chile",
+      "url": "https://www.mat.uc.cl/geometria.html",
+      "label": "Facultad de Matemáticas · Geometría",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
       "id": "puc-chile-math-source",
       "school": "puc-chile",
       "url": "https://www.mat.uc.cl/personas/profes/matematica",
@@ -4860,6 +4940,16 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "tohoku-28-mccs",
+      "school": "tohoku",
+      "url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+      "label": "MCCS · 東北大学の数学の人たち",
+      "status": "parsed",
+      "count": 54,
+      "checked_at": "2026-11-24",
+      "note": ""
     },
     {
       "id": "tohoku-full-audit-source",
@@ -79728,6 +79818,102 @@
       }
     },
     {
+      "source": "lmu-28-alg-geo",
+      "person_key": "andreasrosenschon",
+      "school": "lmu",
+      "record": {
+        "name": "Andreas Rosenschon",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.math.lmu.de/de/forschung/arbeitsgruppen/algebraische-geometrie/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "lmu-28-alg-geo",
+      "person_key": "fabienmorel",
+      "school": "lmu",
+      "record": {
+        "name": "Fabien Morel",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.math.lmu.de/de/forschung/arbeitsgruppen/algebraische-geometrie/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "lmu-28-alg-geo",
+      "person_key": "maksimzhykhovich",
+      "school": "lmu",
+      "record": {
+        "name": "Maksim Zhykhovich",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.math.lmu.de/de/forschung/arbeitsgruppen/algebraische-geometrie/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "lmu-28-alg-geo",
+      "person_key": "nikitageldhauser",
+      "school": "lmu",
+      "record": {
+        "name": "Nikita Geldhauser",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.math.lmu.de/de/forschung/arbeitsgruppen/algebraische-geometrie/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "lmu-28-alg-geo",
+      "person_key": "simongritschacher",
+      "school": "lmu",
+      "record": {
+        "name": "Simon Gritschacher",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.math.lmu.de/de/forschung/arbeitsgruppen/algebraische-geometrie/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "lmu-28-alg-geo",
+      "person_key": "wernerbley",
+      "school": "lmu",
+      "record": {
+        "name": "Werner Bley",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.math.lmu.de/de/forschung/arbeitsgruppen/algebraische-geometrie/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
       "source": "lmu-math-source",
       "person_key": "alexanderkalinin",
       "school": "lmu",
@@ -89565,6 +89751,150 @@
         "source_kind": "department",
         "source_url": "https://prod.lsa.umich.edu/math/people/faculty.html",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "michigan-state-28-diff-geo",
+      "person_key": "bangyenchen",
+      "school": "michigan-state",
+      "record": {
+        "name": "Bang Yen Chen",
+        "title": "Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.msu.edu/Research/research-groups/differential-geometry-geometric-analysis.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "michigan-state-28-diff-geo",
+      "person_key": "benjaminischmidt",
+      "school": "michigan-state",
+      "record": {
+        "name": "Benjamin I Schmidt",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.msu.edu/Research/research-groups/differential-geometry-geometric-analysis.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "michigan-state-28-diff-geo",
+      "person_key": "casimabbas",
+      "school": "michigan-state",
+      "record": {
+        "name": "Casim Abbas",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.msu.edu/Research/research-groups/differential-geometry-geometric-analysis.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "michigan-state-28-diff-geo",
+      "person_key": "davidblair",
+      "school": "michigan-state",
+      "record": {
+        "name": "David Blair",
+        "title": "Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.msu.edu/Research/research-groups/differential-geometry-geometric-analysis.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "michigan-state-28-diff-geo",
+      "person_key": "demetrekazaras",
+      "school": "michigan-state",
+      "record": {
+        "name": "Demetre Kazaras",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.msu.edu/Research/research-groups/differential-geometry-geometric-analysis.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "michigan-state-28-diff-geo",
+      "person_key": "matthewedwardhedden",
+      "school": "michigan-state",
+      "record": {
+        "name": "Matthew Edward Hedden",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.msu.edu/Research/research-groups/differential-geometry-geometric-analysis.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "michigan-state-28-diff-geo",
+      "person_key": "thomashparker",
+      "school": "michigan-state",
+      "record": {
+        "name": "Thomas H Parker",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.msu.edu/Research/research-groups/differential-geometry-geometric-analysis.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "michigan-state-28-diff-geo",
+      "person_key": "williewaiyeungwong",
+      "school": "michigan-state",
+      "record": {
+        "name": "Willie Wai-Yeung Wong",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.msu.edu/Research/research-groups/differential-geometry-geometric-analysis.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "michigan-state-28-diff-geo",
+      "person_key": "xiaodongwang",
+      "school": "michigan-state",
+      "record": {
+        "name": "Xiaodong Wang",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.msu.edu/Research/research-groups/differential-geometry-geometric-analysis.aspx",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -177243,6 +177573,870 @@
       }
     },
     {
+      "source": "tohoku-28-mccs",
+      "person_key": "fabianaferracina",
+      "school": "tohoku",
+      "record": {
+        "name": "Fabiana FERRACINA",
+        "title": "",
+        "research": "応用数学一般 数理モデル 機械学習",
+        "profile": "https://fabstat.github.io/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "jvramanareddy",
+      "school": "tohoku",
+      "record": {
+        "name": "J. V. Ramana Reddy",
+        "title": "",
+        "research": "数値解析 数理モデル 医療データ解析",
+        "profile": "https://researchmap.jp/jvramanareddy",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "lorenzocavallina",
+      "school": "tohoku",
+      "record": {
+        "name": "Lorenzo CAVALLINA",
+        "title": "",
+        "research": "非線形解析 偏微分方程式論 形状最適化問題",
+        "profile": "https://researchmap.jp/cava",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "samybaladram",
+      "school": "tohoku",
+      "record": {
+        "name": "Samy BALADRAM",
+        "title": "",
+        "research": "代数的組み合わせ論",
+        "profile": "https://www.samybaladram.com/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "soniamahmoudi",
+      "school": "tohoku",
+      "record": {
+        "name": "Sonia MAHMOUDI",
+        "title": "",
+        "research": "低次元トポロジー 結び目理論 周期タングル",
+        "profile": "https://www.wpi-aimr.tohoku.ac.jp/jp/research/researcher/mahmoudi_s.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "中野史彦",
+      "school": "tohoku",
+      "record": {
+        "name": "中野 史彦",
+        "title": "",
+        "research": "数理物理学 確率論 スペクトル理論",
+        "profile": "http://www.math.tohoku.ac.jp/english/people/nakano-e.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "久保田荘",
+      "school": "tohoku",
+      "record": {
+        "name": "久保田 荘",
+        "title": "",
+        "research": "数理モデル 経済動学 ゲーム理論",
+        "profile": "https://sites.google.com/site/gkubotaso/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "井上和俊",
+      "school": "tohoku",
+      "record": {
+        "name": "井上 和俊",
+        "title": "",
+        "research": "応用数学一般 結晶界面構造解析 非線形弾塑性論",
+        "profile": "https://www.wpi-aimr.tohoku.ac.jp/jp/research/researcher/inoue_k.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "伊藤和広",
+      "school": "tohoku",
+      "record": {
+        "name": "伊藤 和広",
+        "title": "",
+        "research": "数論幾何学",
+        "profile": "http://www.math.tohoku.ac.jp/people/ito.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "内藤貫太",
+      "school": "tohoku",
+      "record": {
+        "name": "内藤 貫太",
+        "title": "",
+        "research": "統計数学 多変量解析 機械学習",
+        "profile": "https://www.math.is.tohoku.ac.jp/research/index.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "劉嘉瑋",
+      "school": "tohoku",
+      "record": {
+        "name": "劉 嘉瑋",
+        "title": "",
+        "research": "数値解析 数理モデル 数理医学",
+        "profile": "https://researchmap.jp/liu.jiawei",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "原田昌晃",
+      "school": "tohoku",
+      "record": {
+        "name": "原田 昌晃",
+        "title": "",
+        "research": "離散数学 組合せ論 符号理論",
+        "profile": "https://www.math.is.tohoku.ac.jp/~mharada/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "吉脇理雄",
+      "school": "tohoku",
+      "record": {
+        "name": "吉脇 理雄",
+        "title": "",
+        "research": "表現論（代数学関連） 位相的データ解析",
+        "profile": "https://researchmap.jp/m_yoshiwaki?lang=ja",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "坂口茂",
+      "school": "tohoku",
+      "record": {
+        "name": "坂口 茂",
+        "title": "",
+        "research": "幾何解析 偏微分方程式論",
+        "profile": "https://researchmap.jp/sigersak2012415",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "坪井俊",
+      "school": "tohoku",
+      "record": {
+        "name": "坪井 俊",
+        "title": "",
+        "research": "微分位相幾何学 微分同相群 幾何学の応用",
+        "profile": "https://tsuboiweb.matrix.jp/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "塩谷隆",
+      "school": "tohoku",
+      "record": {
+        "name": "塩谷 隆",
+        "title": "",
+        "research": "リーマン幾何学 (測度)距離空間 空間列の収束",
+        "profile": "https://researchmap.jp/read0211602",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "大野泰生",
+      "school": "tohoku",
+      "record": {
+        "name": "大野 泰生",
+        "title": "",
+        "research": "数論 ゼータ値 組合せ論",
+        "profile": "https://sites.google.com/view/zetastars/home",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "安東弘泰",
+      "school": "tohoku",
+      "record": {
+        "name": "安東 弘泰",
+        "title": "",
+        "research": "数理工学 非線形力学系 レザバー計算",
+        "profile": "https://www.wpi-aimr.tohoku.ac.jp/jp/research/researcher/ando_h.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "安藤雄史",
+      "school": "tohoku",
+      "record": {
+        "name": "安藤 雄史",
+        "title": "",
+        "research": "数理物理学 素粒子理論 重力",
+        "profile": "https://researchmap.jp/yuji_ando",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "宮武夏雄",
+      "school": "tohoku",
+      "record": {
+        "name": "宮武 夏雄",
+        "title": "",
+        "research": "微分幾何学 調和計量 巡回Higgs束",
+        "profile": "https://sites.google.com/view/natsuomiyatake/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "小川将輝",
+      "school": "tohoku",
+      "record": {
+        "name": "小川 将輝",
+        "title": "",
+        "research": "低次元トポロジー 4次元多様体 微分構造",
+        "profile": "https://researchmap.jp/masakiogawa",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "小薗英雄",
+      "school": "tohoku",
+      "record": {
+        "name": "小薗 英雄",
+        "title": "",
+        "research": "非線形解析 流体の数理解析 非線形偏微分方程式",
+        "profile": "https://w-rdb.waseda.jp/html/100001140_ja.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "小谷元子",
+      "school": "tohoku",
+      "record": {
+        "name": "小谷 元子",
+        "title": "",
+        "research": "微分幾何学 離散幾何解析 数理物質科学",
+        "profile": "https://www.wpi-aimr.tohoku.ac.jp/mathematics_unit/japanese/member/member_kotani.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "山崎武",
+      "school": "tohoku",
+      "record": {
+        "name": "山崎 武",
+        "title": "",
+        "research": "数学基礎論",
+        "profile": "http://www.math.tohoku.ac.jp/people/yamazaki.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "岡部真也",
+      "school": "tohoku",
+      "record": {
+        "name": "岡部 真也",
+        "title": "",
+        "research": "非線形解析 偏微分方程式論 幾何学的勾配流",
+        "profile": "http://www.math.tohoku.ac.jp/people/okabe.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "岩渕司",
+      "school": "tohoku",
+      "record": {
+        "name": "岩渕 司",
+        "title": "",
+        "research": "函数方程式論 実解析学、調和解析学 関数空間論",
+        "profile": "https://www.r-info.tohoku.ac.jp/ja/f85fd398c046cf9e3bf0894d99edcf88.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "新川恵理子",
+      "school": "tohoku",
+      "record": {
+        "name": "新川 恵理子",
+        "title": "",
+        "research": "表現論 組合せ論 離散微分幾何学",
+        "profile": "https://researchmap.jp/eshinkawa?lang=ja",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "木村元",
+      "school": "tohoku",
+      "record": {
+        "name": "木村 元",
+        "title": "",
+        "research": "応用数学一般 量子力学 量子情報科学",
+        "profile": "https://www.math.is.tohoku.ac.jp/~quantum/index.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "松原許宰榮",
+      "school": "tohoku",
+      "record": {
+        "name": "松原＝許 宰榮",
+        "title": "",
+        "research": "代数解析（基礎解析学関連） 複素領域の微分方程式 特殊函数",
+        "profile": "https://sites.google.com/view/matsubara-heo",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "松村慎一",
+      "school": "tohoku",
+      "record": {
+        "name": "松村 慎一",
+        "title": "",
+        "research": "複素幾何学 多変数複素解析学 代数幾何学",
+        "profile": "https://sites.google.com/view/math-matsumura/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "松田安昌",
+      "school": "tohoku",
+      "record": {
+        "name": "松田 安昌",
+        "title": "",
+        "research": "統計数学 時系列解析 空間データ解析",
+        "profile": "https://researchmap.jp/read0143857",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "根元多佳子",
+      "school": "tohoku",
+      "record": {
+        "name": "根元 多佳子",
+        "title": "",
+        "research": "数学基礎論 構成的数学 逆数学",
+        "profile": "https://researchmap.jp/nemototakako",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "楯辰哉",
+      "school": "tohoku",
+      "record": {
+        "name": "楯 辰哉",
+        "title": "",
+        "research": "リーマン幾何学 幾何解析学 スペクトル幾何学",
+        "profile": "http://www.math.tohoku.ac.jp/people/tate.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "横山啓太",
+      "school": "tohoku",
+      "record": {
+        "name": "横山 啓太",
+        "title": "",
+        "research": "数学基礎論 数理論理学",
+        "profile": "http://www.math.tohoku.ac.jp/people/yokoyama.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "水藤寛",
+      "school": "tohoku",
+      "record": {
+        "name": "水藤 寛",
+        "title": "",
+        "research": "数理モデル 数値解析 因果推論",
+        "profile": "https://www.wpi-aimr.tohoku.ac.jp/suito_labo/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "狩野隼輔",
+      "school": "tohoku",
+      "record": {
+        "name": "狩野 隼輔",
+        "title": "",
+        "research": "位相幾何学 クラスター代数 多元環の表現論",
+        "profile": "https://sites.google.com/view/shunsuke-kano",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "猪奥倫左",
+      "school": "tohoku",
+      "record": {
+        "name": "猪奥 倫左",
+        "title": "",
+        "research": "函数方程式論 関数不等式 調和解析学",
+        "profile": "http://www.math.tohoku.ac.jp/people/ioku.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "田中太初",
+      "school": "tohoku",
+      "record": {
+        "name": "田中 太初",
+        "title": "",
+        "research": "代数的組合せ論 代数的グラフ理論 表現論",
+        "profile": "https://hajimetanaka.org/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "田中敏",
+      "school": "tohoku",
+      "record": {
+        "name": "田中 敏",
+        "title": "",
+        "research": "函数方程式論 境界値問題 常微分方程式",
+        "profile": "http://www.math.tohoku.ac.jp/people/stanaka.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "甲斐亘",
+      "school": "tohoku",
+      "record": {
+        "name": "甲斐 亘",
+        "title": "",
+        "research": "数論 数体の素元 代数的サイクル",
+        "profile": "https://sites.google.com/view/wataru-kai/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "石橋典",
+      "school": "tohoku",
+      "record": {
+        "name": "石橋 典",
+        "title": "",
+        "research": "低次元トポロジー クラスター代数 数理物理",
+        "profile": "https://sites.google.com/view/tsukasa-ishibashi/home",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "船野敬",
+      "school": "tohoku",
+      "record": {
+        "name": "船野 敬",
+        "title": "",
+        "research": "リーマン幾何学 スペクトル幾何 凸幾何",
+        "profile": "https://sites.google.com/site/keifunanoshomepage/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "藤木結香",
+      "school": "tohoku",
+      "record": {
+        "name": "藤木 結香",
+        "title": "",
+        "research": "応用数学一般 ネットワーク科学 複雑系",
+        "profile": "https://www.fris.tohoku.ac.jp/researcher/creative/fujikyuka.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "藤江健太郎",
+      "school": "tohoku",
+      "record": {
+        "name": "藤江 健太郎",
+        "title": "",
+        "research": "函数方程式論 偏微分方程式論 移流拡散方程式",
+        "profile": "http://www.math.tohoku.ac.jp/~fujie/main.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "西浦廉政",
+      "school": "tohoku",
+      "record": {
+        "name": "西浦 廉政",
+        "title": "",
+        "research": "応用数学一般 パターンダイナミクス 大域分岐解析",
+        "profile": "https://www.wpi-aimr.tohoku.ac.jp/nishiura_labo/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "谷地村敏明",
+      "school": "tohoku",
+      "record": {
+        "name": "谷地村 敏明",
+        "title": "",
+        "research": "最適輸送理論 形状最適化問題 逆問題",
+        "profile": "https://researchmap.jp/yachimura",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "赤木剛朗",
+      "school": "tohoku",
+      "record": {
+        "name": "赤木 剛朗",
+        "title": "",
+        "research": "函数解析学 発展方程式 フェーズフィールド",
+        "profile": "http://www.math.tohoku.ac.jp/people/akagi.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "赤間陽二",
+      "school": "tohoku",
+      "record": {
+        "name": "赤間 陽二",
+        "title": "",
+        "research": "離散数学 統計 物理",
+        "profile": "https://sites.google.com/view/yohjiakama/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "都築暢夫",
+      "school": "tohoku",
+      "record": {
+        "name": "都築 暢夫",
+        "title": "",
+        "research": "数論幾何学 p進コホモロジー論",
+        "profile": "http://www.math.tohoku.ac.jp/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "須川敏幸",
+      "school": "tohoku",
+      "record": {
+        "name": "須川 敏幸",
+        "title": "",
+        "research": "複素解析 等角写像 双曲計量",
+        "profile": "https://sugawa.cajpn.org/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "高尾和人",
+      "school": "tohoku",
+      "record": {
+        "name": "高尾 和人",
+        "title": "",
+        "research": "低次元トポロジー 3次元多様体 結び目",
+        "profile": "https://researchmap.jp/kazuto_takao",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "高村博之",
+      "school": "tohoku",
+      "record": {
+        "name": "高村 博之",
+        "title": "",
+        "research": "函数方程式論 偏微分方程式論 非線形波動方程式",
+        "profile": "https://researchmap.jp/read0165468",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "高橋淳也",
+      "school": "tohoku",
+      "record": {
+        "name": "高橋 淳也",
+        "title": "",
+        "research": "微分幾何学 スペクトル幾何学 微分形式の幾何学",
+        "profile": "https://www.math.is.tohoku.ac.jp/~junya/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tohoku-28-mccs",
+      "person_key": "鮑園園",
+      "school": "tohoku",
+      "record": {
+        "name": "鮑 園園",
+        "title": "",
+        "research": "位相幾何学 結び目理論",
+        "profile": "https://www.math.is.tohoku.ac.jp/~bao/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.mccs.tohoku.ac.jp/mathematicians.html",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
       "source": "tohoku-full-audit-source",
       "person_key": "cavallinalorenzo",
       "school": "tohoku",
@@ -263556,19 +264750,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://math.xjtu.edu.cn/info/1368/7371.htm",
-      "cache_id": "profile-e1261ff2f55d3603",
-      "status": "parsed",
-      "record": {
-        "research": "偏微分方程与几何分析 Partial Differential Equations and Geometric Analysis / 研究方向：偏微分方程与几何分析",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://math.yale.edu/profile/alexander-goncharov",
       "cache_id": "profile-0ee57abdfa944f65",
       "status": "parsed",
@@ -264196,20 +265377,6 @@
         "cv": "",
         "publications": "",
         "orcid": "0000-0002-9830-9270",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://mathematics.exeter.ac.uk/people/profile/index.php?username=cdl209",
-      "cache_id": "profile-1317b166d7a151ab",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "orcid": "0000-0002-6659-015X",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -269532,7 +270699,19 @@
         "research": "Mathematics كلية العلوم والدراسات الإنسانية بالسليل",
         "homepage": "",
         "cv": "",
-        "publications": "",
+        "publications": "https://psau.sa.elsevierpure.com/en/persons/abd-elmotaleb-abd-allah-alamin-2/publications/",
+        "publication_counts": [
+          {
+            "value": 29,
+            "scope": "机构 Pure 档案的 Research output 总数",
+            "url": "https://psau.sa.elsevierpure.com/en/persons/abd-elmotaleb-abd-allah-alamin-2/publications/"
+          },
+          {
+            "value": 29,
+            "scope": "机构 Pure 档案的 Article 分类",
+            "url": "https://psau.sa.elsevierpure.com/en/persons/abd-elmotaleb-abd-allah-alamin-2/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontojournal%2Farticle"
+          }
+        ],
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -269644,8 +270823,15 @@
         "research": "Differential geometry, Complex geometry, Geometric partial differential equations, Compactness of geometric objects",
         "homepage": "",
         "cv": "",
-        "publications": "",
+        "publications": "https://research.cuhk.edu.hk/en/persons/man-chun-lee/publications/",
         "orcid": "0000-0002-4663-6149",
+        "publication_counts": [
+          {
+            "value": 37,
+            "scope": "机构 Pure 档案的 Research output 总数",
+            "url": "https://research.cuhk.edu.hk/en/persons/man-chun-lee/publications/"
+          }
+        ],
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -269658,8 +270844,20 @@
         "research": "",
         "homepage": "",
         "cv": "",
-        "publications": "",
+        "publications": "https://research.monash.edu/en/persons/norm-do/publications/",
         "orcid": "0000-0002-2135-978X",
+        "publication_counts": [
+          {
+            "value": 24,
+            "scope": "机构 Pure 档案的 Research output 总数",
+            "url": "https://research.monash.edu/en/persons/norm-do/publications/"
+          },
+          {
+            "value": 20,
+            "scope": "机构 Pure 档案的 Article 分类",
+            "url": "https://research.monash.edu/en/persons/norm-do/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontojournal%2Farticle"
+          }
+        ],
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -269672,8 +270870,20 @@
         "research": "",
         "homepage": "",
         "cv": "",
-        "publications": "",
+        "publications": "https://research.monash.edu/en/persons/yann-bernard/publications/",
         "orcid": "0000-0002-5902-1573",
+        "publication_counts": [
+          {
+            "value": 14,
+            "scope": "机构 Pure 档案的 Research output 总数",
+            "url": "https://research.monash.edu/en/persons/yann-bernard/publications/"
+          },
+          {
+            "value": 14,
+            "scope": "机构 Pure 档案的 Article 分类",
+            "url": "https://research.monash.edu/en/persons/yann-bernard/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontojournal%2Farticle"
+          }
+        ],
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -272001,6 +273211,13 @@
         "cv": "",
         "publications": "",
         "orcid": "0000-0003-1287-4728",
+        "publication_counts": [
+          {
+            "value": 19,
+            "scope": "机构 Pure 档案的 Article 分类",
+            "url": "https://ucrisportal.univie.ac.at/en/persons/anton-mellit/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontojournal%2Farticle"
+          }
+        ],
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -272014,6 +273231,13 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "publication_counts": [
+          {
+            "value": 5,
+            "scope": "机构 Pure 档案的 Article 分类",
+            "url": "https://ucrisportal.univie.ac.at/en/persons/bal%C3%A1zs-szendroi/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontojournal%2Farticle"
+          }
+        ],
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -280255,14 +281479,14 @@
       "cache_id": "profile-2228089341ccad7c",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/boij?l=en",
       "cache_id": "profile-6165d3a77f7d55c8",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/boualem",
@@ -280325,7 +281549,7 @@
       "cache_id": "profile-a7495b2b5abf1e53",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/ed",
@@ -280381,7 +281605,7 @@
       "cache_id": "profile-0ee5ff45e0ae33ec",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/henriksh",
@@ -280416,7 +281640,7 @@
       "cache_id": "profile-b76c29a66b08b079",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/jankr",
@@ -280437,35 +281661,35 @@
       "cache_id": "profile-b74fa4d95535b4a0",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/jlenells",
       "cache_id": "profile-b2ebcb522c3ee9ab",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/jochemko",
       "cache_id": "profile-7c8d3712e7d694fe",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/johan79",
       "cache_id": "profile-9c4a390bc837377b",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/johanh",
       "cache_id": "profile-c64df96c76d9cbdf",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/jryan",
@@ -280479,7 +281703,7 @@
       "cache_id": "profile-a74a929ada71df9a",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/kathlen",
@@ -280493,7 +281717,7 @@
       "cache_id": "profile-840a4897b5221df8",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/kroncke/?l=sv",
@@ -280507,126 +281731,126 @@
       "cache_id": "profile-b5b10da4602e409b",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/kurtj",
       "cache_id": "profile-7e237d1c8d50ad2a",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/lfn",
       "cache_id": "profile-9944d5ad21be506c",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/linusson",
       "cache_id": "profile-befa8a7221c0357c",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/liviana",
       "cache_id": "profile-d153adca5707c2dc",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/lschoug",
       "cache_id": "profile-8760ddbd272ff994",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/masha",
       "cache_id": "profile-ea51dbf92894cbcd",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/mpernice?l=en",
       "cache_id": "profile-ddc3f1bad6317420",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/msandb",
       "cache_id": "profile-e59e07911de69f32",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/nacira",
       "cache_id": "profile-b9256ea6d3e05c15",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/olofberg",
       "cache_id": "profile-8374059ffd2e83b6",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/olofr",
       "cache_id": "profile-f4d997b1331ddbcc",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/ozan",
       "cache_id": "profile-0ec16947855b6b58",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/pbranden",
       "cache_id": "profile-4f60c9a9a9094b85",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/penqvist",
       "cache_id": "profile-f20a1d19a8d17535",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/pierren",
       "cache_id": "profile-5b37c32c592ab837",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/sara7",
       "cache_id": "profile-9f43b964f553aaad",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/schnelli",
       "cache_id": "profile-c9c762cb347d6c5d",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/schrot",
@@ -280640,63 +281864,63 @@
       "cache_id": "profile-491a3f291fd6ef12",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/shlim",
       "cache_id": "profile-1f5d88681f305686",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/sigridkn",
       "cache_id": "profile-af81633cb3994ebc",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/silunz",
       "cache_id": "profile-4c766afe8eb24db4",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/skjelnes?l=en",
       "cache_id": "profile-6f230df23ec5401a",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/solus",
       "cache_id": "profile-cfb47dcafd9264b7",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/sunghan",
       "cache_id": "profile-8561cc90478c510c",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/tilmanb",
       "cache_id": "profile-c9f5f62328b6b1de",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/tomase",
       "cache_id": "profile-70d5c3133b65889d",
       "status": "source_error",
       "record": null,
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.kth.se/profile/wojtek",
@@ -282504,19 +283728,6 @@
       "status": "parsed",
       "record": {
         "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.mat.uc.cl/personas/perfil/mchuaqui",
-      "cache_id": "profile-b51c97c7efd4d0d0",
-      "status": "parsed",
-      "record": {
-        "research": "Teoría Geométrica de Funciones",
         "homepage": "",
         "cv": "",
         "publications": "",
@@ -285225,19 +286436,6 @@
       "checked_at": "2026-11-23"
     },
     {
-      "url": "https://www.math.lmu.de/de/personen/kontaktseite/andreas-rosenschon-a6bf5096.html",
-      "cache_id": "profile-b18f7b5fe8f00abb",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
       "url": "https://www.math.lmu.de/de/personen/kontaktseite/arnaud-triay-eac4e998.html",
       "cache_id": "profile-df9d246664915896",
       "status": "parsed",
@@ -285370,19 +286568,6 @@
     {
       "url": "https://www.math.lmu.de/de/personen/kontaktseite/konstantinos-panagiotou-80b241b5.html",
       "cache_id": "profile-4b5f12a19e355111",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.math.lmu.de/de/personen/kontaktseite/maksim-zhykhovich-995e4c67.html",
-      "cache_id": "profile-6f08516445493d22",
       "status": "parsed",
       "record": {
         "research": "",
@@ -285565,19 +286750,6 @@
     {
       "url": "https://www.math.lmu.de/math4ai/en/members/contact-page/johannes-maly-fc93da16.html",
       "cache_id": "profile-36b44e4f6e8536e2",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.math.lmu.de/~axr",
-      "cache_id": "profile-881122cb9d277257",
       "status": "parsed",
       "record": {
         "research": "",
@@ -285780,19 +286952,6 @@
         "cv": "",
         "publications": "https://www.math.lmu.de/~ufer/#accordionItem-123456-3",
         "orcid": "0000-0002-3187-3459",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.math.lmu.de/~zhykhovi",
-      "cache_id": "profile-f20ab1665ea949ab",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "https://www.math.lmu.de/~zhykhovi/papers.html",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -287667,9 +288826,15 @@
     {
       "url": "https://www.math.rutgers.edu/people/department-directory/detail/344-department-directory/2301-chase-zachary-harrison",
       "cache_id": "profile-7ba91e58064cdc38",
-      "status": "source_error",
-      "record": null,
-      "checked_at": "2026-11-23"
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.math.rutgers.edu/people/department-directory/detail/344-department-directory/2305-creech-steven-emerson",
@@ -300360,8 +301525,20 @@
         "research": "",
         "homepage": "",
         "cv": "",
-        "publications": "",
+        "publications": "https://www.research.ed.ac.uk/en/persons/ivan-cheltsov/publications/",
         "orcid": "0000-0002-6820-8073",
+        "publication_counts": [
+          {
+            "value": 142,
+            "scope": "机构 Pure 档案的 Research output 总数",
+            "url": "https://www.research.ed.ac.uk/en/persons/ivan-cheltsov/publications/"
+          },
+          {
+            "value": 116,
+            "scope": "机构 Pure 档案的 Article 分类",
+            "url": "https://www.research.ed.ac.uk/en/persons/ivan-cheltsov/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontojournal%2Farticle"
+          }
+        ],
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -300374,8 +301551,20 @@
         "research": "",
         "homepage": "",
         "cv": "",
-        "publications": "",
+        "publications": "https://www.research.ed.ac.uk/en/persons/milena-hering/publications/",
         "orcid": "0000-0001-7826-889X",
+        "publication_counts": [
+          {
+            "value": 17,
+            "scope": "机构 Pure 档案的 Research output 总数",
+            "url": "https://www.research.ed.ac.uk/en/persons/milena-hering/publications/"
+          },
+          {
+            "value": 14,
+            "scope": "机构 Pure 档案的 Article 分类",
+            "url": "https://www.research.ed.ac.uk/en/persons/milena-hering/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontojournal%2Farticle"
+          }
+        ],
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -303746,16 +304935,28 @@
     {
       "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N21-1392",
       "cache_id": "profile-b5dc5fb67c50d006",
-      "status": "source_error",
-      "record": null,
-      "checked_at": "2026-11-23"
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N21-1634",
       "cache_id": "profile-fc66ce4306bce6ab",
-      "status": "source_error",
-      "record": null,
-      "checked_at": "2026-11-23"
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N21-1639",
@@ -303799,16 +305000,28 @@
     {
       "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N21-2484",
       "cache_id": "profile-6e10860236e77943",
-      "status": "source_error",
-      "record": null,
-      "checked_at": "2026-11-23"
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N21-2560",
       "cache_id": "profile-d12c0f64ccd37ab3",
-      "status": "source_error",
-      "record": null,
-      "checked_at": "2026-11-23"
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N22-1531",
@@ -304037,9 +305250,15 @@
     {
       "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N24-2352",
       "cache_id": "profile-803681564d6526d3",
-      "status": "source_error",
-      "record": null,
-      "checked_at": "2026-11-23"
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N24-952",
@@ -304083,9 +305302,15 @@
     {
       "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N25-2130",
       "cache_id": "profile-5aeca953eeaf4e06",
-      "status": "source_error",
-      "record": null,
-      "checked_at": "2026-11-23"
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N26-1979",
@@ -305151,16 +306376,57 @@
       "checkedAt": "2026-11-23"
     },
     "adam-topaz": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/A5076246480"
+      "status": "review_ready",
+      "author_id": "A5076246480",
+      "papers": [
+        {
+          "title": "CATEGORICAL FOUNDATIONS OF FORMALIZED CONDENSED MATHEMATICS",
+          "year": 2024,
+          "url": "https://doi.org/10.1017/jsl.2024.69"
+        },
+        {
+          "title": "INVARIANT HYPERSURFACES",
+          "year": 2020,
+          "url": "https://doi.org/10.1017/S1474748020000262"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5076246480",
+        "orcid": "https://orcid.org/0000-0002-5803-9018",
+        "url": "https://openalex.org/authors/A5076246480",
+        "authorApiUrl": "https://api.openalex.org/authors/A5076246480",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5076246480,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 10,
+        "works": 22,
+        "citations": 91,
+        "hIndex": 5,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "ailana-fraser": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/A5012562708"
+      "status": "review_ready",
+      "author_id": "A5012562708",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5012562708",
+        "orcid": "https://orcid.org/0000-0003-3596-9260",
+        "url": "https://openalex.org/authors/A5012562708",
+        "authorApiUrl": "https://api.openalex.org/authors/A5012562708",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5012562708,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 20,
+        "works": 29,
+        "citations": 1237,
+        "hIndex": 15,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "aissa-wade": {
       "status": "identity_review",
@@ -305175,9 +306441,8 @@
     },
     "alan-thompson": {
       "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/A5087992820"
+      "reason": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。",
+      "checkedAt": "2026-11-24"
     },
     "albert-chau": {
       "status": "identity_review",
@@ -305200,7 +306465,7 @@
     "aleksander-doan": {
       "status": "identity_review",
       "reason": "同一人的论文指向不同作者档案。",
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-24"
     },
     "aleksey-zinger": {
       "status": "identity_review",
@@ -305215,7 +306480,7 @@
     "alex-sherman": {
       "status": "identity_review",
       "reason": "论文作者姓名没有唯一匹配。",
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-24"
     },
     "alexander-goncharov": {
       "status": "identity_review",
@@ -305392,9 +306657,42 @@
       "checkedAt": "2026-11-23"
     },
     "andrea-brini": {
+      "status": "review_ready",
+      "author_id": "A5023079329",
+      "papers": [
+        {
+          "title": "Stable maps to Looijenga pairs",
+          "year": 2024,
+          "url": "https://doi.org/10.2140/gt.2024.28.393"
+        },
+        {
+          "title": "Mirror symmetry for extended affine Weyl groups",
+          "year": 2022,
+          "url": "https://doi.org/10.5802/jep.197"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5023079329",
+        "orcid": "https://orcid.org/0000-0002-3758-827X",
+        "url": "https://openalex.org/authors/A5023079329",
+        "authorApiUrl": "https://api.openalex.org/authors/A5023079329",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5023079329,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 23,
+        "works": 41,
+        "citations": 896,
+        "hIndex": 18,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "andrea-petracci": {
       "status": "identity_review",
-      "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "checkedAt": "2026-11-23"
+      "reason": "当前与历史机构缺少可核对的匹配。",
+      "author_id": "A5077024247",
+      "checkedAt": "2026-11-24"
     },
     "andrea-ricolfi": {
       "status": "identity_review",
@@ -305434,6 +306732,11 @@
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
+    },
+    "andrew-wilson": {
+      "status": "identity_review",
+      "reason": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。",
+      "checkedAt": "2026-11-24"
     },
     "andrey-soldatenkov": {
       "status": "identity_review",
@@ -305676,8 +306979,8 @@
     },
     "barbara-fantechi": {
       "status": "identity_review",
-      "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "checkedAt": "2026-11-23"
+      "reason": "同一人的论文指向不同作者档案。",
+      "checkedAt": "2026-11-24"
     },
     "barry-mazur": {
       "status": "source_error",
@@ -305719,7 +307022,7 @@
       "status": "identity_review",
       "reason": "当前与历史机构缺少可核对的匹配。",
       "author_id": "A5029673479",
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-24"
     },
     "ben-davison": {
       "status": "identity_review",
@@ -305746,7 +307049,7 @@
     "benjamin-tod-castle": {
       "status": "identity_review",
       "reason": "论文作者姓名没有唯一匹配。",
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-24"
     },
     "bennett-chow": {
       "status": "identity_review",
@@ -305813,6 +307116,27 @@
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
+    },
+    "bjoern-bringmann": {
+      "status": "review_ready",
+      "author_id": "A5033988397",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5033988397",
+        "orcid": "https://orcid.org/0000-0001-7709-623X",
+        "url": "https://openalex.org/authors/A5033988397",
+        "authorApiUrl": "https://api.openalex.org/authors/A5033988397",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5033988397,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 15,
+        "works": 21,
+        "citations": 487,
+        "hIndex": 12,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "blasco-laure": {
       "status": "identity_review",
@@ -305918,7 +307242,7 @@
     "chao-li": {
       "status": "identity_review",
       "reason": "同一人的论文指向不同作者档案。",
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-24"
     },
     "charles-doran": {
       "status": "source_error",
@@ -306238,7 +307562,7 @@
       "status": "identity_review",
       "reason": "当前与历史机构缺少可核对的匹配。",
       "author_id": "A5018624118",
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-24"
     },
     "daniel-jackson": {
       "status": "identity_review",
@@ -306303,6 +307627,38 @@
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-24"
+    },
+    "dano-kim": {
+      "status": "review_ready",
+      "author_id": "A5001257585",
+      "papers": [
+        {
+          "title": "L2 extension of holomorphic functions for log canonical pairs",
+          "year": 2023,
+          "url": "https://doi.org/10.1016/j.matpur.2023.06.013"
+        },
+        {
+          "title": "On $$L^2$$ extension from singular hypersurfaces",
+          "year": 2023,
+          "url": "https://doi.org/10.1007/s00209-023-03248-z"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5001257585",
+        "orcid": "https://orcid.org/0000-0002-1867-9010",
+        "url": "https://openalex.org/authors/A5001257585",
+        "authorApiUrl": "https://api.openalex.org/authors/A5001257585",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5001257585,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 12,
+        "works": 16,
+        "citations": 194,
+        "hIndex": 9,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "dario-beraldo": {
       "status": "identity_review",
@@ -306433,6 +307789,38 @@
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5052085881"
     },
+    "dinakar-muthiah": {
+      "status": "review_ready",
+      "author_id": "A5054145559",
+      "papers": [
+        {
+          "title": "Completed Iwahori–Hecke algebra for Kac–Moody groups over local fields",
+          "year": 2026,
+          "url": "https://doi.org/10.1112/plms.70189"
+        },
+        {
+          "title": "Pursuing Coxeter theory for Kac-Moody affine Hecke algebras",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s00029-025-01117-7"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5054145559",
+        "orcid": "https://orcid.org/0000-0001-5580-1719",
+        "url": "https://openalex.org/authors/A5054145559",
+        "authorApiUrl": "https://api.openalex.org/authors/A5054145559",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5054145559,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 14,
+        "works": 22,
+        "citations": 178,
+        "hIndex": 8,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "dinh-tien-cuong": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
@@ -306440,10 +307828,25 @@
       "candidate_url": "https://openalex.org/A5077556155"
     },
     "dmitri-panov": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/A5076258376"
+      "status": "review_ready",
+      "author_id": "A5076258376",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5076258376",
+        "orcid": "https://orcid.org/0000-0002-7301-6682",
+        "url": "https://openalex.org/authors/A5076258376",
+        "authorApiUrl": "https://api.openalex.org/authors/A5076258376",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5076258376,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 31,
+        "works": 47,
+        "citations": 571,
+        "hIndex": 13,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "dmitriy-rumynin": {
       "status": "source_error",
@@ -306520,7 +307923,7 @@
     },
     "emily-dumas": {
       "status": "identity_review",
-      "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
+      "reason": "论文作者姓名没有唯一匹配。",
       "checkedAt": "2026-11-24"
     },
     "enric-nart": {
@@ -306537,7 +307940,7 @@
     "evgeny-shinder": {
       "status": "identity_review",
       "reason": "同一人的论文指向不同作者档案。",
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-24"
     },
     "fabricio-valencia-quintero": {
       "status": "identity_review",
@@ -306745,6 +308148,12 @@
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5091203014"
     },
+    "giovanni-mongardi": {
+      "status": "identity_review",
+      "reason": "当前与历史机构缺少可核对的匹配。",
+      "author_id": "A5042554569",
+      "checkedAt": "2026-11-24"
+    },
     "goto-ryushi": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
@@ -306787,6 +308196,38 @@
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5040280051"
+    },
+    "hamid-abban": {
+      "status": "review_ready",
+      "author_id": "A5029975180",
+      "papers": [
+        {
+          "title": "K-stability of Fano varieties via admissible flags",
+          "year": 2022,
+          "url": "https://doi.org/10.1017/fmp.2022.11,"
+        },
+        {
+          "title": "Stability of fibrations over one-dimensional bases",
+          "year": 2022,
+          "url": "https://doi.org/10.1215/00127094-2022-0025"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5029975180",
+        "orcid": "https://orcid.org/0000-0002-4260-3243",
+        "url": "https://openalex.org/authors/A5029975180",
+        "authorApiUrl": "https://api.openalex.org/authors/A5029975180",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5029975180,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 17,
+        "works": 26,
+        "citations": 350,
+        "hIndex": 10,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "han-fei": {
       "status": "identity_review",
@@ -306914,7 +308355,7 @@
     "igor-nikolaev": {
       "status": "identity_review",
       "reason": "论文作者姓名没有唯一匹配。",
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-24"
     },
     "igor-zelenko": {
       "status": "identity_review",
@@ -306996,15 +308437,57 @@
       "candidate_url": "https://openalex.org/A5066538320"
     },
     "james-pascaleff": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
+      "status": "review_ready",
+      "author_id": "A5048939473",
+      "papers": [
+        {
+          "title": "Remarks on the equivalence between differential graded categories and A-infinity categories",
+          "year": 2024,
+          "url": "https://doi.org/10.4310/HHA.2024.V26.N1.A17"
+        },
+        {
+          "title": "The wall-crossing formula and Lagrangian mutations",
+          "year": 2019,
+          "url": "https://doi.org/10.1016/j.aim.2019.106850"
+        }
+      ],
       "checkedAt": "2026-11-24",
-      "candidate_url": "https://openalex.org/A5048939473"
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5048939473",
+        "orcid": null,
+        "url": "https://openalex.org/authors/A5048939473",
+        "authorApiUrl": "https://api.openalex.org/authors/A5048939473",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5048939473,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 5,
+        "works": 16,
+        "citations": 247,
+        "hIndex": 8,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "jan-stovicek": {
-      "status": "source_error",
-      "reason": "OpenAlex 请求或返回数据失败。",
-      "checkedAt": "2026-11-23"
+      "status": "review_ready",
+      "author_id": "A5052123316",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5052123316",
+        "orcid": "https://orcid.org/0000-0002-0834-9376",
+        "url": "https://openalex.org/authors/A5052123316",
+        "authorApiUrl": "https://api.openalex.org/authors/A5052123316",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5052123316,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 43,
+        "works": 63,
+        "citations": 1560,
+        "hIndex": 23,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "jan-verschelde": {
       "status": "identity_review",
@@ -307013,7 +308496,7 @@
     },
     "janos-kollar": {
       "status": "identity_review",
-      "reason": "OpenAlex 作者档案高引条目混入金属表面能研究，累计值待排除同名成果后复核。",
+      "reason": "已用公开身份信息交叉核对 OpenAlex。高引样本混入金属表面能研究，需区分材料学同名作者。累计数暂不收录。",
       "author_id": "A5051485543",
       "papers": [
         {
@@ -307027,7 +308510,7 @@
           "url": "https://doi.org/10.1017/CBO9780511662560"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-24",
       "candidate_url": "https://openalex.org/authors/A5051485543"
     },
     "jarod-daniel-alper": {
@@ -307130,9 +308613,11 @@
     },
     "jeffrey-giansiracusa": {
       "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/A5057669183"
+      "reason": "已用公开身份信息交叉核对 OpenAlex。高引样本含放射性药物铜摄取研究，另有同名合著冲突线索。累计数暂不收录。",
+      "author_id": "A5057669183",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "candidate_url": "https://openalex.org/authors/A5057669183"
     },
     "jeffrey-viaclovsky": {
       "status": "identity_review",
@@ -307199,8 +308684,8 @@
     },
     "jim-bryan": {
       "status": "source_error",
-      "reason": "OpenAlex HTTP 404",
-      "checkedAt": "2026-11-23"
+      "reason": "OpenAlex HTTP 404。",
+      "checkedAt": "2026-11-24"
     },
     "joaquim-roe-i-vellve": {
       "status": "identity_review",
@@ -307252,8 +308737,8 @@
     },
     "john-parker": {
       "status": "identity_review",
-      "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "checkedAt": "2026-11-23"
+      "reason": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。",
+      "checkedAt": "2026-11-24"
     },
     "jonathan-block": {
       "status": "source_error",
@@ -307275,7 +308760,7 @@
     "joseph-d-rabinoff": {
       "status": "identity_review",
       "reason": "论文作者姓名没有唯一匹配。",
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-24"
     },
     "joseph-harris": {
       "status": "identity_review",
@@ -307311,8 +308796,7 @@
       "candidate_url": "https://openalex.org/A5054863903"
     },
     "kaibo-hu": {
-      "status": "identity_review",
-      "reason": "OpenAlex 作者档案的部分高引应用论文尚缺可交叉核对的个人来源，累计值待复核。",
+      "status": "review_ready",
       "author_id": "A5101998252",
       "papers": [
         {
@@ -307324,15 +308808,24 @@
           "title": "Analytical properties of polygonal Stokes and BGG Hessian complexes with application to Kirchhoff--Love plates",
           "year": 2026,
           "url": "https://doi.org/10.48550/arxiv.2609.10150"
-        },
-        {
-          "title": "ReLU$^k$ Neural de Rham Complexes",
-          "year": 2026,
-          "url": "https://doi.org/10.48550/arxiv.2607.22478"
         }
       ],
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/authors/A5101998252"
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5101998252",
+        "orcid": "https://orcid.org/0000-0001-9574-9644",
+        "url": "https://openalex.org/authors/A5101998252",
+        "authorApiUrl": "https://api.openalex.org/authors/A5101998252",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5101998252,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 34,
+        "works": 51,
+        "citations": 1132,
+        "hIndex": 18,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "kalle-karu": {
       "status": "identity_review",
@@ -307443,10 +308936,25 @@
       }
     },
     "konstanze-rietsch": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/A5029482516"
+      "status": "review_ready",
+      "author_id": "A5029482516",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5029482516",
+        "orcid": "https://orcid.org/0000-0002-3592-2940",
+        "url": "https://openalex.org/authors/A5029482516",
+        "authorApiUrl": "https://api.openalex.org/authors/A5029482516",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5029482516,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 30,
+        "works": 58,
+        "citations": 1287,
+        "hIndex": 17,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "kristin-devleming": {
       "status": "identity_review",
@@ -307475,6 +308983,27 @@
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-24"
+    },
+    "laurentiu-paunescu": {
+      "status": "review_ready",
+      "author_id": "A5028332714",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5028332714",
+        "orcid": "https://orcid.org/0000-0001-5796-276X",
+        "url": "https://openalex.org/authors/A5028332714",
+        "authorApiUrl": "https://api.openalex.org/authors/A5028332714",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5028332714,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 49,
+        "works": 71,
+        "citations": 462,
+        "hIndex": 11,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "lawrence-ein": {
       "status": "identity_review",
@@ -307684,6 +309213,12 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "luca-migliorini": {
+      "status": "identity_review",
+      "reason": "当前与历史机构缺少可核对的匹配。",
+      "author_id": "A5082827530",
+      "checkedAt": "2026-11-24"
+    },
     "luca-spolaor": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
@@ -307692,8 +309227,8 @@
     },
     "macri-emanuele": {
       "status": "identity_review",
-      "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "checkedAt": "2026-11-23"
+      "reason": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。",
+      "checkedAt": "2026-11-24"
     },
     "madhusudan-manjunath": {
       "status": "identity_review",
@@ -307951,6 +309486,27 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "matilde-marcolli": {
+      "status": "review_ready",
+      "author_id": "A5007011418",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5007011418",
+        "orcid": "https://orcid.org/0000-0002-2045-2907",
+        "url": "https://openalex.org/authors/A5007011418",
+        "authorApiUrl": "https://api.openalex.org/authors/A5007011418",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5007011418,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 139,
+        "works": 354,
+        "citations": 6578,
+        "hIndex": 38,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "matsumoto-yoshihiko": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
@@ -307964,10 +309520,25 @@
       "candidate_url": "https://openalex.org/A5012906621"
     },
     "matthias-flach": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/A5050260020"
+      "status": "review_ready",
+      "author_id": "A5050260020",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5050260020",
+        "orcid": "https://orcid.org/0000-0002-4523-9467",
+        "url": "https://openalex.org/authors/A5050260020",
+        "authorApiUrl": "https://api.openalex.org/authors/A5050260020",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5050260020,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 21,
+        "works": 30,
+        "citations": 1192,
+        "hIndex": 17,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "mattias-jonsson": {
       "status": "source_error",
@@ -308039,9 +309610,9 @@
       }
     },
     "mengwei-hu": {
-      "status": "source_error",
-      "reason": "OpenAlex 请求或返回数据失败。",
-      "checkedAt": "2026-11-23"
+      "status": "identity_review",
+      "reason": "同一人的论文指向不同作者档案。",
+      "checkedAt": "2026-11-24"
     },
     "michael-bulois": {
       "status": "identity_review",
@@ -308241,10 +309812,36 @@
       "checkedAt": "2026-11-24"
     },
     "nathan-m-dunfield": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
+      "status": "review_ready",
+      "author_id": "A5005369339",
+      "papers": [
+        {
+          "title": "Local equivalence and refinements of Rasmussen's s‐invariant",
+          "year": 2026,
+          "url": "https://doi.org/10.1112/topo.70056"
+        },
+        {
+          "title": "A unified Casson–Lin invariant for the real forms of SL(2)",
+          "year": 2025,
+          "url": "https://doi.org/10.2140/gt.2025.29.4055"
+        }
+      ],
       "checkedAt": "2026-11-24",
-      "candidate_url": "https://openalex.org/A5005369339"
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5005369339",
+        "orcid": "https://orcid.org/0000-0002-9152-6598",
+        "url": "https://openalex.org/authors/A5005369339",
+        "authorApiUrl": "https://api.openalex.org/authors/A5005369339",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5005369339,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 20,
+        "works": 63,
+        "citations": 1335,
+        "hIndex": 18,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "neil-dummigan": {
       "status": "review_ready",
@@ -308320,9 +309917,8 @@
     },
     "nikita-karpenko": {
       "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/A5068443448"
+      "reason": "论文作者姓名没有唯一匹配。",
+      "checkedAt": "2026-11-24"
     },
     "nilakantan-nandini": {
       "status": "identity_review",
@@ -308337,8 +309933,8 @@
     },
     "norm-do": {
       "status": "identity_review",
-      "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "checkedAt": "2026-11-23"
+      "reason": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。",
+      "checkedAt": "2026-11-24"
     },
     "ohno-koji": {
       "status": "source_error",
@@ -308394,8 +309990,8 @@
     },
     "paul-johnson": {
       "status": "identity_review",
-      "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "checkedAt": "2026-11-23"
+      "reason": "同一人的论文指向不同作者档案。",
+      "checkedAt": "2026-11-24"
     },
     "paul-norbury": {
       "status": "source_error",
@@ -308405,7 +310001,7 @@
     "paul-stephen-aspinwall": {
       "status": "identity_review",
       "reason": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。",
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-24"
     },
     "paula-burkhardt-guim": {
       "status": "review_ready",
@@ -308807,6 +310403,12 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-24"
     },
+    "person-aba26db60b9f": {
+      "status": "identity_review",
+      "reason": "当前与历史机构缺少可核对的匹配。",
+      "author_id": "A5087474935",
+      "checkedAt": "2026-11-24"
+    },
     "person-acbafa11493b": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
@@ -309034,9 +310636,11 @@
     },
     "peter-beelen": {
       "status": "identity_review",
-      "reason": "两篇 DOI 及校方 ORCID 均指向 A5017069208，但该 OpenAlex 档案收入同名医学论文，累计指标待核。DTU Orbit 数量按其原分类另列。",
+      "reason": "已用公开身份信息交叉核对 OpenAlex。高引样本混入血氧与外周灌注研究，与校方数学研究档案不一致。累计数暂不收录。",
+      "author_id": "A5017069208",
+      "papers": [],
       "checkedAt": "2026-11-24",
-      "candidate_url": "https://openalex.org/A5017069208"
+      "candidate_url": "https://openalex.org/authors/A5017069208"
     },
     "peter-kronheimer": {
       "status": "identity_review",
@@ -309055,15 +310659,30 @@
       "checkedAt": "2026-11-23"
     },
     "peter-topping": {
-      "status": "source_error",
-      "reason": "OpenAlex 请求或返回数据失败。",
+      "status": "identity_review",
+      "reason": "论文作者姓名没有唯一匹配。",
       "checkedAt": "2026-11-24"
     },
     "petr-somberg": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/A5080085812"
+      "status": "review_ready",
+      "author_id": "A5080085812",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5080085812",
+        "orcid": "https://orcid.org/0000-0001-5450-9206",
+        "url": "https://openalex.org/authors/A5080085812",
+        "authorApiUrl": "https://api.openalex.org/authors/A5080085812",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5080085812,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 55,
+        "works": 86,
+        "citations": 616,
+        "hIndex": 12,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "philip-engel": {
       "status": "identity_review",
@@ -309108,9 +310727,36 @@
       }
     },
     "pierre-albin": {
-      "status": "source_error",
-      "reason": "OpenAlex 请求或返回数据失败。",
-      "checkedAt": "2026-11-24"
+      "status": "review_ready",
+      "author_id": "A5111384582",
+      "papers": [
+        {
+          "title": "The index formula for families of Dirac type operators on pseudomanifolds",
+          "year": 2023,
+          "url": "https://doi.org/10.4310/jdg/1696432923"
+        },
+        {
+          "title": "A Cheeger–Müller theorem for manifolds with wedge singularities",
+          "year": 2022,
+          "url": "https://doi.org/10.2140/apde.2022.15.567"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5111384582",
+        "orcid": null,
+        "url": "https://openalex.org/authors/A5111384582",
+        "authorApiUrl": "https://api.openalex.org/authors/A5111384582",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5111384582,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 24,
+        "works": 62,
+        "citations": 828,
+        "hIndex": 17,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "pinakinath-saha": {
       "status": "review_ready",
@@ -309204,7 +310850,7 @@
     "rathish-kumar-b-v": {
       "status": "identity_review",
       "reason": "论文作者姓名没有唯一匹配。",
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-24"
     },
     "ravi-vakil": {
       "status": "review_ready",
@@ -309301,7 +310947,7 @@
     "robert-bryant": {
       "status": "identity_review",
       "reason": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。",
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-24"
     },
     "robert-greene": {
       "status": "identity_review",
@@ -309338,6 +310984,27 @@
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
+    },
+    "robin-de-jong": {
+      "status": "review_ready",
+      "author_id": "A5083614941",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5083614941",
+        "orcid": "https://orcid.org/0000-0002-6264-9994",
+        "url": "https://openalex.org/authors/A5083614941",
+        "authorApiUrl": "https://api.openalex.org/authors/A5083614941",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5083614941,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 30,
+        "works": 46,
+        "citations": 391,
+        "hIndex": 12,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "rod-gover": {
       "status": "identity_review",
@@ -309388,9 +311055,8 @@
     },
     "rui-loja-fernandes": {
       "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-24",
-      "candidate_url": "https://openalex.org/A5101438698"
+      "reason": "同一人的论文指向不同作者档案。",
+      "checkedAt": "2026-11-24"
     },
     "ruiz-gabriel": {
       "status": "identity_review",
@@ -309499,9 +311165,8 @@
     },
     "sankar-p-dutta": {
       "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-24",
-      "candidate_url": "https://openalex.org/A5109118010"
+      "reason": "论文作者姓名没有唯一匹配。",
+      "checkedAt": "2026-11-24"
     },
     "sara-billey": {
       "status": "identity_review",
@@ -309558,9 +311223,36 @@
       "checkedAt": "2026-11-23"
     },
     "sheldon-katz": {
-      "status": "identity_review",
-      "reason": "同一人的论文指向不同作者档案。",
-      "checkedAt": "2026-11-23"
+      "status": "review_ready",
+      "author_id": "A5079728012",
+      "papers": [
+        {
+          "title": "Refined BPS numbers on compact Calabi-Yau threefolds from Wilson loops",
+          "year": 2025,
+          "url": "https://doi.org/10.1007/JHEP08(2025)178"
+        },
+        {
+          "title": "Local Gromov-Witten invariants of some simple normal crossing surfaces",
+          "year": 2025,
+          "url": "https://doi.org/10.4310/MRL.251215005848"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5079728012",
+        "orcid": "https://orcid.org/0000-0002-3123-6126",
+        "url": "https://openalex.org/authors/A5079728012",
+        "authorApiUrl": "https://api.openalex.org/authors/A5079728012",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5079728012,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 57,
+        "works": 141,
+        "citations": 8467,
+        "hIndex": 38,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "shengwen-wang": {
       "status": "identity_review",
@@ -309656,7 +311348,7 @@
     "suarez-pablo": {
       "status": "identity_review",
       "reason": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。",
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-24"
     },
     "sudarshan-r-gurjar": {
       "status": "identity_review",
@@ -309669,9 +311361,25 @@
       "checkedAt": "2026-11-23"
     },
     "svatopluk-krysl": {
-      "status": "source_error",
-      "reason": "OpenAlex 请求或返回数据失败。",
-      "checkedAt": "2026-11-23"
+      "status": "review_ready",
+      "author_id": "A5088965574",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5088965574",
+        "orcid": "https://orcid.org/0000-0002-3351-4783",
+        "url": "https://openalex.org/authors/A5088965574",
+        "authorApiUrl": "https://api.openalex.org/authors/A5088965574",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5088965574,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 13,
+        "works": 31,
+        "citations": 86,
+        "hIndex": 6,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "svetlana-katok": {
       "status": "identity_review",
@@ -309699,10 +311407,25 @@
       "checkedAt": "2026-11-23"
     },
     "takumi-murayama": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/A5002035515"
+      "status": "review_ready",
+      "author_id": "A5002035515",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5002035515",
+        "orcid": "https://orcid.org/0000-0002-8404-8540",
+        "url": "https://openalex.org/authors/A5002035515",
+        "authorApiUrl": "https://api.openalex.org/authors/A5002035515",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5002035515,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 15,
+        "works": 26,
+        "citations": 280,
+        "hIndex": 11,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "tapio-rajala": {
       "status": "review_ready",
@@ -309757,6 +311480,38 @@
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5074582013"
     },
+    "tobias-ekholm": {
+      "status": "review_ready",
+      "author_id": "A5108118412",
+      "papers": [
+        {
+          "title": "Open strings on knot complements",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s11005-026-02183-4"
+        },
+        {
+          "title": "The Worldsheet Skein D-module and Basic Curves on Lagrangian Fillings of the Hopf Link Conormal",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s00220-026-05775-2"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5108118412",
+        "orcid": "https://orcid.org/0000-0003-2060-8462",
+        "url": "https://openalex.org/authors/A5108118412",
+        "authorApiUrl": "https://api.openalex.org/authors/A5108118412",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5108118412,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 60,
+        "works": 80,
+        "citations": 2865,
+        "hIndex": 29,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "tobias-holck-colding": {
       "status": "review_ready",
       "author_id": "A5014724625",
@@ -309792,7 +311547,7 @@
     "tom-bridgeland-frs": {
       "status": "identity_review",
       "reason": "论文作者姓名没有唯一匹配。",
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-24"
     },
     "tomasz-mrowka": {
       "status": "identity_review",
@@ -309872,6 +311627,27 @@
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5066847032"
     },
+    "vaibhav-gadre": {
+      "status": "review_ready",
+      "author_id": "A5056316174",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5056316174",
+        "orcid": "https://orcid.org/0000-0003-4222-9551",
+        "url": "https://openalex.org/authors/A5056316174",
+        "authorApiUrl": "https://api.openalex.org/authors/A5056316174",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5056316174,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 16,
+        "works": 26,
+        "citations": 118,
+        "hIndex": 7,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "valentino-tosatti": {
       "status": "review_ready",
       "author_id": "A5036588454",
@@ -309910,8 +311686,8 @@
     },
     "vesselin-dimitrov": {
       "status": "source_error",
-      "reason": "OpenAlex HTTP 404",
-      "checkedAt": "2026-11-23"
+      "reason": "OpenAlex HTTP 404。",
+      "checkedAt": "2026-11-24"
     },
     "victor-flynn": {
       "status": "identity_review",
@@ -309966,7 +311742,7 @@
     },
     "william-haboush": {
       "status": "source_error",
-      "reason": "OpenAlex 请求或返回数据失败。",
+      "reason": "OpenAlex HTTP 404。",
       "checkedAt": "2026-11-24"
     },
     "william-minicozzi": {
@@ -309996,8 +311772,8 @@
       }
     },
     "william-yun-chen": {
-      "status": "source_error",
-      "reason": "OpenAlex 请求或返回数据失败。",
+      "status": "identity_review",
+      "reason": "论文作者姓名没有唯一匹配。",
       "checkedAt": "2026-11-24"
     },
     "wouter-van-limbeek": {
@@ -310049,8 +311825,22 @@
     },
     "xuemiao-chen": {
       "status": "identity_review",
-      "reason": "同一人的论文指向不同作者档案。",
-      "checkedAt": "2026-11-23"
+      "reason": "已用公开身份信息交叉核对 OpenAlex。高引样本混入水果代谢和材料研究，仅数条与规范理论相符。累计数暂不收录。",
+      "author_id": "A5060845131",
+      "papers": [
+        {
+          "title": "Reflexive sheaves, Hermitian–Yang–Mills connections, and tangent cones",
+          "year": 2021,
+          "url": "https://doi.org/10.1007/s00222-020-01027-9"
+        },
+        {
+          "title": "Singularities of Hermitian–Yang–Mills connections and Harder–Narasimhan–Seshadri filtrations",
+          "year": 2020,
+          "url": "https://doi.org/10.1215/00127094-2020-0014"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "candidate_url": "https://openalex.org/authors/A5060845131"
     },
     "yakov-pesin": {
       "status": "identity_review",
@@ -310070,10 +311860,9 @@
     },
     "yann-bernard": {
       "status": "identity_review",
-      "reason": "Monash 公开 ORCID 对应的 OpenAlex 档案仍缺当前或历史机构匹配。采用 Monash 机构库单列的 Article 数；累计引用待核。",
+      "reason": "当前与历史机构缺少可核对的匹配。",
       "author_id": "A5074011742",
-      "checkedAt": "2026-11-24",
-      "candidate_url": "https://openalex.org/authors/A5074011742"
+      "checkedAt": "2026-11-24"
     },
     "yannick-sire": {
       "status": "identity_review",
@@ -310087,10 +311876,36 @@
       "checkedAt": "2026-11-23"
     },
     "yevgeny-liokumovich": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/A5033217028"
+      "status": "review_ready",
+      "author_id": "A5033217028",
+      "papers": [
+        {
+          "title": "The Smale conjecture and min-max theory",
+          "year": 2025,
+          "url": "https://doi.org/10.1007/s00222-025-01334-z"
+        },
+        {
+          "title": "Length of a Closed Geodesic in 3-Manifolds of Positive Scalar Curvature",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s00039-026-00739-z"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5033217028",
+        "orcid": null,
+        "url": "https://openalex.org/authors/A5033217028",
+        "authorApiUrl": "https://api.openalex.org/authors/A5033217028",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5033217028,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 25,
+        "works": 35,
+        "citations": 603,
+        "hIndex": 13,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "yi-lai": {
       "status": "identity_review",
@@ -310129,9 +311944,36 @@
       "checkedAt": "2026-11-23"
     },
     "yuchen-liu": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "checkedAt": "2026-11-23"
+      "status": "review_ready",
+      "author_id": "A5100373051",
+      "papers": [
+        {
+          "title": "Optimal bounds for local volumes of threefold singularities",
+          "year": 2026,
+          "url": "https://doi.org/10.1112/jlms.70738"
+        },
+        {
+          "title": "ON THE BOUNDEDNESS OF SINGULARITIES VIA NORMALIZED VOLUME",
+          "year": 2026,
+          "url": "https://doi.org/10.1017/S1474748026101716"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5100373051",
+        "orcid": "https://orcid.org/0000-0002-4281-7057",
+        "url": "https://openalex.org/authors/A5100373051",
+        "authorApiUrl": "https://api.openalex.org/authors/A5100373051",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5100373051,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 31,
+        "works": 43,
+        "citations": 1332,
+        "hIndex": 19,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "yueqiao-wu": {
       "status": "source_error",
@@ -310198,10 +312040,25 @@
       "candidate_url": "https://openalex.org/A5012901383"
     },
     "zbynek-sir": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/A5015143193"
+      "status": "review_ready",
+      "author_id": "A5015143193",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5015143193",
+        "orcid": "https://orcid.org/0000-0003-1701-5973",
+        "url": "https://openalex.org/authors/A5015143193",
+        "authorApiUrl": "https://api.openalex.org/authors/A5015143193",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5015143193,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 37,
+        "works": 55,
+        "citations": 662,
+        "hIndex": 15,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "zhang-de-qi": {
       "status": "identity_review",
