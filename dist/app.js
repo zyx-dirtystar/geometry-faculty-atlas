@@ -448,7 +448,7 @@ function showProfile(id, schoolFilter) {
     record.articleScope ? node("p",{},node("small",{},`文章口径 ${record.articleScope}。引用口径 ${record.citationScope || "待补充"}。`)) : null
   ));
   const counts = (person.publicationCounts ?? []).map(record => node("li",{},
-    `${countFormat(record.value)} · ${record.scope} · 核对 ${record.checkedAt} `,
+    `${countFormat(record.value)}${record.lowerBound ? "+" : ""} · ${record.scope} · 核对 ${record.checkedAt} `,
     external("机构或作者来源", record.url)));
   const metrics = detailSection("计量与作者核验",
     counts.length ? node("ul",{},counts) : node("p",{},"机构或作者披露的论文数待核。"),
@@ -581,6 +581,7 @@ function mergeCatalog(existing, incoming) {
     assert(!person.papers || (Array.isArray(person.papers) && person.papers.every(paper => safeRecord(paper) && typeof paper.title === "string" && publicUrl(paper.url))), `${item.id} 的论文来源有误。`);
     assert(!item.publicationCounts || (Array.isArray(item.publicationCounts) && item.publicationCounts.every(record =>
       safeRecord(record) && Number.isSafeInteger(record.value) && record.value >= 0
+      && (record.lowerBound === undefined || typeof record.lowerBound === "boolean")
       && typeof record.scope === "string" && record.scope.trim()
       && /^\d{4}-\d{2}-\d{2}$/.test(record.checkedAt) && publicUrl(record.url))), `${item.id} 的论文数缺少口径、日期或来源。`);
     person.publicationCounts = Array.from(new Map([...(previous?.publicationCounts ?? []), ...(item.publicationCounts ?? [])]

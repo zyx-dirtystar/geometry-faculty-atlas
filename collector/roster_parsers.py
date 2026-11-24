@@ -152,11 +152,78 @@ def parse_ucas_staff(document, base):
     return rows
 
 
+def parse_isi_kolkata(document, base):
+    rows = []
+    for cell in document.xpath("//tr/td[b and br][contains(.,'Research Interest')]"):
+        name, separator, title = text_at(cell, "./b[1]").rpartition(",")
+        if not separator or not name.strip():
+            continue
+        research = next((clean(value).split(":", 1)[-1].strip()
+                         for value in cell.xpath("./text()") if re.search("research interest", value, re.I)), "")
+        homepage = next((profile_link(base, link.get("href"))
+                         for link in cell.xpath("./a[input[@value='Homepage'] and @href]")), "")
+        rows.append(Entry(name.strip(), title.strip(), research, homepage=homepage))
+    return rows
+
+
+def parse_lse_staff(document, base):
+    rows = []
+    for section in document.xpath("//div[contains(@class,'accordion-item')][h3/button[normalize-space()='Academic Faculty' or starts-with(normalize-space(),'Academic Associates')]]"):
+        for item in section.xpath(".//li[div[@class='item__content']]"):
+            names = item.xpath("(.//p[strong])[1]/strong[1]")
+            if not names:
+                continue
+            name = re.sub(r"^(?:Professor|Prof\.?|Dr\.?|Mr\.?|Ms\.?)\s+", "", contents(names[0]))
+            details = [clean(part) for part in names[0].getparent().xpath("./text()") if clean(part)]
+            title = details[0] if details and not re.match(r"(?:Room|Email)\b", details[0], re.I) else ""
+            profile = next((url for label, url in urls(item, base) if label == "Profile page"), "")
+            if name:
+                rows.append(Entry(name, title, profile=profile))
+    return rows
+
+
+def parse_utm_staff(document, base):
+    rows = []
+    for card in document.xpath("//div[contains(@class,'et_pb_team_member_description')][h4]"):
+        heading = text_at(card, "./h4")
+        rank = re.match(r"^((?:(?:Associate|Adjunct|Emeritus)\s+)?Professor|Assoc\.\s*Prof\.?)(\s*\(Retired\))?\s+", heading, re.I)
+        name = heading[rank.end():] if rank else heading
+        name = re.sub(r"^(?:(?:Ts|Dr|Ir|Sr|Mr|Mrs|Ms)\.?\s*)+(?=[A-Z])", "", name)
+        position = text_at(card, "./p[contains(@class,'et_pb_member_position')]")
+        title = rank[0].strip() if rank else ""
+        if not title and re.search(r"\b(?:lecturer|professor|fellow)\b", position, re.I):
+            title = position
+        if name:
+            rows.append(Entry(name, title))
+    return rows
+
+
+def parse_auckland_research(document, base):
+    rows = []
+    for heading in document.xpath("//h4[.//a[contains(@href,'profiles.auckland.ac.nz')]]"):
+        link = heading.xpath(".//a[contains(@href,'profiles.auckland.ac.nz')]")[0]
+        label = contents(link)
+        rank = re.match(r"^((?:(?:Associate|Distinguished|Emeritus|Honorary) )?Professor|(?:Senior )?Lecturer|Dr\.?)\s+", label)
+        if not rank:
+            continue
+        topic = text_at(heading, "./following-sibling::*[1][self::ul]/li")
+        title = "" if rank[1].rstrip(".") == "Dr" else rank[1]
+        rows.append(Entry(label[rank.end():], title, topic, profile=profile_link(base, link.get("href"))))
+    return rows
+
+
 def split_role(title, region=None):
     title = title.strip(" ,;–—")
+    if region == "波兰":
+        if re.search(r"emeryt", title, re.I):
+            return "emeritus"
+        if re.search(r"\b(?:profesor|adiunkt)\b", title, re.I):
+            return "faculty"
+        if re.search(r"\b(?:doktorant|asystent)\b", title, re.I):
+            return "other"
     if re.search(r"emerit|émérit|emérit|retired|in memoriam|honoraire|jubilad|\bi\.?\s*r\.|荣休", title, re.I):
         return "emeritus"
-    if re.search(r"visiting|visitor|adjunct|courtesy|affiliate|gästprofessor|secondary appointment|^invit[ée]|^honorary|\bsênior\b|访问|兼职", title, re.I):
+    if re.search(r"visiting|visitor|adjunct|courtesy|affiliate|gästprofessor|gastwissen|secondary appointment|^invit[ée]|^honorary|\bsênior\b|访问|兼职", title, re.I):
         return "associated"
     if region == "巴西" and re.search(r"\bprofessor[a]?\s+(?:associad[oa]|assistente|doutor[a]?|titular)", title, re.I):
         return "faculty"
@@ -168,7 +235,7 @@ def split_role(title, region=None):
         return "other" if re.search(r"teaching|education|placement", title, re.I) else "faculty"
     if re.search(r"post.?doc|postdoktor|instructor|lecturer|student|\bph\.?d\.? candidate\b|professional services staff|^former faculty$|^lecteur|^dottorand|^doctorand|^講師$|博士后", title, re.I):
         return "other"
-    if re.search(r"\bprofessors?\b|\bacademic faculty\b|\btenure-track researcher\b|\breader\b|universitetslektor|prof\. dr\.|univ\.-prof\.|assoz\. prof\.|professeur|professor(?:e|essa) (?:ordinari[oa]|associat[oa])|catedr[aá]tic[ao]|titular de universidad|contratad[oa] doctor|ma[iî]tr(?:e|esse) de conf[ée]rences|研究员|教授|^助教$", title, re.I):
+    if re.search(r"\bprofessors?\b|\bprofesor de matemáticas\b|\bacademic faculty\b|\btenure-track researcher\b|\breader\b|universitetslektor|prof\. dr\.|univ\.-?prof\.|assoz\. prof\.|professeur|professor(?:e|essa) (?:ordinari[oa]|associat[oa])|\bprofesor[a]? ayudante doctor[a]?\b|catedr[aá]tic[ao]|titular de universidad|contratad[oa] doctor|ma[iî]tr(?:e|esse) de conf[ée]rences|研究员|教授|^助教$", title, re.I):
         return "faculty"
     if re.search(r"\bfellow\b|research assistant", title, re.I):
         return "other"
@@ -1499,6 +1566,8 @@ def parse_ufrj_graduate(document, base):
 PARSERS = {
     "science_tokyo": parse_science_tokyo, "glasgow_staff": parse_glasgow_staff, "ucas_staff": parse_ucas_staff,
     "cuhk_staff": parse_cuhk_staff,
+    "isi_kolkata": parse_isi_kolkata, "lse_staff": parse_lse_staff, "utm_staff": parse_utm_staff,
+    "auckland_research": parse_auckland_research,
     "stanford": parse_stanford, "stonybrook": parse_stonybrook, "stonybrook_group": parse_stonybrook_group,
     "bonn": parse_bonn, "bicmr": parse_bicmr, "princeton": parse_princeton, "princeton_group": parse_princeton_group,
     "pku": parse_pending, "pku_pure":parse_pku_pure, "rutgers": parse_rutgers_directory,

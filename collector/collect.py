@@ -700,7 +700,7 @@ def export(db, seed):
             rows.writerow([p["id"], p["name"], " / ".join(a["schoolId"] for a in appointments),
                            " / ".join(a["url"] for a in appointments), p.get("homepage") or "待核",
                            p.get("cvUrl") or "待核", p.get("cvType") or "", p.get("publicationsUrl") or "待核",
-                           " / ".join(f"{c['value']} · {c['scope']} · {c['checkedAt']} · {c['url']}" for c in counts) or "待核",
+                           " / ".join(f"{c['value']}{'+' if c.get('lowerBound') else ''} · {c['scope']} · {c['checkedAt']} · {c['url']}" for c in counts) or "待核",
                            metric.get("articles", "待核"), metric.get("citations", "待核"),
                            metric.get("url") or finding.get("candidate_url", ""),
                            metric.get("checkedAt", ""), checked_pages, finding.get("checkedAt", ""),
@@ -767,6 +767,14 @@ def export(db, seed):
             if pending_schools:
                 lines.append(f"  名册待核 {len(pending_schools)} 所，包括{'、'.join(pending_schools)}。")
         lines.extend(["", "出现在可提取名册中的学校仍需核实院系范围和未公开的人员字段。", ""])
+        followup = set(review_groups.get("missing_at_16e3dbb", []))
+        if followup:
+            remaining = [s["nameZh"] for s in seed["schools"] if s["id"] in followup - parsed_schools]
+            lines.extend(["## 本轮优先复核学校", "",
+                          f"- 续跑时缺名册的 {len(followup)} 所中，已有可提取名册 {len(followup & parsed_schools)} 所。"])
+            if remaining:
+                lines.append(f"- 仍缺名册 {len(remaining)} 所，包括{'、'.join(remaining)}。")
+            lines.append("")
     lines.extend([
         "| 学校 | QS 2026 | 软科 2026 | 状态 | 官方来源 | 网页学者 | 主页 / CV / 指标 | 待核任职或方向 |",
         "| --- | --- | --- | --- | --- | ---: | ---: | ---: |",
