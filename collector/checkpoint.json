@@ -622,6 +622,26 @@
       "note": ""
     },
     {
+      "id": "caltech-27-cms-modeling",
+      "school": "caltech",
+      "url": "https://www.cms.caltech.edu/research/mathematical-modeling-and-analysis",
+      "label": "Computing + Mathematical Sciences · Mathematical Modeling and Analysis",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "caltech-27-geometry-lab",
+      "school": "caltech",
+      "url": "https://geometry.caltech.edu/people.html",
+      "label": "Caltech Applied Geometry Lab · People",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
       "id": "caltech-geometry-audit-12",
       "school": "caltech",
       "url": "https://www.pma.caltech.edu/people/faculty",
@@ -2130,6 +2150,16 @@
       "count": 0,
       "checked_at": "2026-11-24",
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "jordan-27-ghanem-cv",
+      "school": "jordan",
+      "url": "https://science.ju.edu.jo/ar/arabic/Lists/FacultyAcademicStaff/Attachments/155/C.V%20%20Manal%20Ghanem.pdf",
+      "label": "Department of Mathematics · Manal Ghanem CV（仅单人来源）",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
     },
     {
       "id": "jordan-27-science",
@@ -3966,10 +3996,10 @@
       "school": "rudn",
       "url": "https://www.rudn.ru/about/struktura-rudn/units/rektor-rudn/fakultet-fiziko-matematicheskih-i-estestvennyh-nauk/matematicheskiy-institut-imeni-akademika-sm-nikolskogo",
       "label": "Математический институт имени академика С. М. Никольского",
-      "status": "needs_adapter",
-      "count": 0,
+      "status": "parsed",
+      "count": 1,
       "checked_at": "2026-11-24",
-      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+      "note": ""
     },
     {
       "id": "rudn-full-audit-source",
@@ -154052,6 +154082,22 @@
       }
     },
     {
+      "source": "rudn-27-structure",
+      "person_key": "муравникандреиборисович",
+      "school": "rudn",
+      "record": {
+        "name": "Муравник Андрей Борисович",
+        "title": "директор образовательного института доктор физико-математических наук",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.rudn.ru/about/struktura-rudn/units/rektor-rudn/fakultet-fiziko-matematicheskih-i-estestvennyh-nauk/matematicheskiy-institut-imeni-akademika-sm-nikolskogo",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
       "source": "rutgers-recovery-by-faculty",
       "person_key": "alexkontorovich",
       "school": "rutgers",
@@ -261082,19 +261128,6 @@
       "checked_at": "2026-11-23"
     },
     {
-      "url": "https://mathematics.caltech.edu/people/bjoern-bringmann",
-      "cache_id": "profile-f751f817ed8b7b1c",
-      "status": "parsed",
-      "record": {
-        "research": "Partial Differential Equations, Probability Theory",
-        "homepage": "https://sites.google.com/view/bbringmann/home",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
       "url": "https://mathematics.caltech.edu/people/david-conlon",
       "cache_id": "profile-16bc6086d07ba72e",
       "status": "parsed",
@@ -261140,19 +261173,6 @@
       "record": {
         "research": "Probability theory, and its connections to mathematical physics, computer science, combinatorics, and statistics",
         "homepage": "https://web.lfzhang.com/",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://mathematics.caltech.edu/people/matilde-marcolli",
-      "cache_id": "profile-720424f83181cd98",
-      "status": "parsed",
-      "record": {
-        "research": "Mathematical and Computational Linguistics, Mathematical Structures in Quantum Physics, Noncommutative Geometry",
-        "homepage": "",
         "cv": "",
         "publications": "",
         "checked_at": "2026-11-23"
@@ -301377,6 +301397,32 @@
       "reason": "OpenAlex 请求或返回数据失败。",
       "checkedAt": "2026-11-23"
     },
+    "abdelghani-zeghib": {
+      "status": "review_ready",
+      "author_id": "A5045961299",
+      "papers": [
+        {
+          "title": "Remarks on Lorentz symmetric spaces",
+          "year": 2004,
+          "url": "https://doi.org/10.1112/S0010437X04000466"
+        }
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5045961299",
+        "orcid": "https://orcid.org/0009-0003-9965-8215",
+        "url": "https://openalex.org/authors/A5045961299",
+        "authorApiUrl": "https://api.openalex.org/authors/A5045961299",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5045961299,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 60,
+        "works": 121,
+        "citations": 1208,
+        "hIndex": 21,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "abhishek-banerjee": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
@@ -301823,6 +301869,26 @@
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5045774305"
+    },
+    "avik-de": {
+      "status": "review_ready",
+      "author_id": "A5000906741",
+      "papers": [],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5000906741",
+        "orcid": "https://orcid.org/0000-0001-6475-3085",
+        "url": "https://openalex.org/authors/A5000906741",
+        "authorApiUrl": "https://api.openalex.org/authors/A5000906741",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5000906741,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 66,
+        "works": 75,
+        "citations": 2228,
+        "hIndex": 23,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "avraham-rami-aizenbud": {
       "status": "identity_review",
@@ -302968,6 +303034,32 @@
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5087740280"
     },
+    "guillermo-henry": {
+      "status": "review_ready",
+      "author_id": "A5020868858",
+      "papers": [
+        {
+          "title": "Negative eigenvalues of the conformal Laplacian",
+          "year": 2024,
+          "url": "https://doi.org/10.1090/proc/16798"
+        }
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5020868858",
+        "orcid": "https://orcid.org/0009-0003-2568-1834",
+        "url": "https://openalex.org/authors/A5020868858",
+        "authorApiUrl": "https://api.openalex.org/authors/A5020868858",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5020868858,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 15,
+        "works": 19,
+        "citations": 153,
+        "hIndex": 7,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "h-blaine-lawson-jr": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
@@ -303844,6 +303936,32 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
     },
+    "lotte-hollands": {
+      "status": "review_ready",
+      "author_id": "A5000268420",
+      "papers": [
+        {
+          "title": "Quantum Curves, Resurgence and Exact WKB",
+          "year": 2023,
+          "url": "https://doi.org/10.3842/SIGMA.2023.009"
+        }
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5000268420",
+        "orcid": "https://orcid.org/0000-0002-8764-0646",
+        "url": "https://openalex.org/authors/A5000268420",
+        "authorApiUrl": "https://api.openalex.org/authors/A5000268420",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5000268420,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 20,
+        "works": 40,
+        "citations": 1257,
+        "hIndex": 16,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "luca-spolaor": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
@@ -304342,6 +304460,37 @@
       "status": "source_error",
       "reason": "OpenAlex 请求或返回数据失败。",
       "checkedAt": "2026-11-23"
+    },
+    "murad-alim": {
+      "status": "review_ready",
+      "author_id": "A5083833304",
+      "papers": [
+        {
+          "title": "Mathematical Structures of Non-perturbative Topological String Theory: From GW to DT Invariants",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s00220-022-04571-y"
+        },
+        {
+          "title": "Quantum Curves, Resurgence and Exact WKB",
+          "year": 2023,
+          "url": "https://doi.org/10.3842/SIGMA.2023.009"
+        }
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5083833304",
+        "orcid": "https://orcid.org/0000-0002-7170-9020",
+        "url": "https://openalex.org/authors/A5083833304",
+        "authorApiUrl": "https://api.openalex.org/authors/A5083833304",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5083833304,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 22,
+        "works": 33,
+        "citations": 1077,
+        "hIndex": 15,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "nakatsuka-shigenori": {
       "status": "identity_review",
@@ -305241,6 +305390,26 @@
       "reason": "OpenAlex 请求或返回数据失败。",
       "checkedAt": "2026-11-24"
     },
+    "pinakinath-saha": {
+      "status": "review_ready",
+      "author_id": "A5010537615",
+      "papers": [],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5010537615",
+        "orcid": "https://orcid.org/0000-0003-1077-3990",
+        "url": "https://openalex.org/authors/A5010537615",
+        "authorApiUrl": "https://api.openalex.org/authors/A5010537615",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5010537615,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 10,
+        "works": 18,
+        "citations": 34,
+        "hIndex": 3,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "qingyuan-jiang": {
       "status": "source_error",
       "reason": "OpenAlex 请求或返回数据失败。",
@@ -305386,6 +305555,26 @@
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
+    },
+    "rob-h-eggermont": {
+      "status": "review_ready",
+      "author_id": "A5067578667",
+      "papers": [],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5067578667",
+        "orcid": "https://orcid.org/0009-0001-4082-5109",
+        "url": "https://openalex.org/authors/A5067578667",
+        "authorApiUrl": "https://api.openalex.org/authors/A5067578667",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5067578667,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 16,
+        "works": 24,
+        "citations": 237,
+        "hIndex": 9,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "robert-bryant": {
       "status": "identity_review",

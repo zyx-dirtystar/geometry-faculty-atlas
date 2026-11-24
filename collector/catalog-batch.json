@@ -839,8 +839,16 @@
     {
       "id": "caltech",
       "coverage": "sample",
-      "coverageNote": "已解析 4/5 个登记来源，6 条任职或方向待核。 已收录 6 位学者，个人主页 3、CV 0、指标 2。 数学系官方 People 页列出 19 位 Professorial Faculty 和 6 位荣休教授。已对照代数几何、几何与拓扑组及个别访问任职，现任与荣休或访问记录分别保留。仍有部分个人研究方向、其他院系联合任职及完整访问名单待核。",
+      "coverageNote": "已解析 4/7 个登记来源，5 条任职或方向待核。 已收录 10 位学者，个人主页 7、CV 2、指标 2。 已查数学系总名册、代数几何与几何／拓扑组、PMA 职级和 Visiting Associates 名册。本轮加入计算与数学科学方向的官方研究页、应用几何实验室及成员个人页，交叉复核现任、离任和离散及实代数几何，相关工程分组和未明示研究方向者仍待核。",
       "rosterLinks": [
+        [
+          "Computing + Mathematical Sciences · Mathematical Modeling and Analysis",
+          "https://www.cms.caltech.edu/research/mathematical-modeling-and-analysis"
+        ],
+        [
+          "Caltech Applied Geometry Lab · People",
+          "https://geometry.caltech.edu/people.html"
+        ],
         [
           "PMA Professorial Faculty",
           "https://www.pma.caltech.edu/people/faculty"
@@ -2414,8 +2422,8 @@
     },
     {
       "id": "rudn",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/4 个登记来源，0 条任职或方向待核。 官方目录内容待提取。 已提取莫斯科俄友大理工与自然科学学院俄语科研人员库的姓名、公开职称和档案链接，并核对尼科尔斯基数学研究所机构页。科研人员库横跨多学科，数学归属、具体方向和联合任职仍待逐人查证。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/4 个登记来源，1 条任职或方向待核。 已提取尼科尔斯基数学研究所官方机构页的负责人，并对照院级俄语科研人员名单和具名研究人员个人页。机构页只列负责人和下属单位，完整现任数学成员与联合任职仍待逐人对账。",
       "rosterLinks": [
         [
           "FizMat · Учёные",
@@ -2434,7 +2442,7 @@
           "https://www.rudn.ru/science/research-institutes/matematicheskiy-institut-im-s-nikolskogo"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-24"
     },
     {
       "id": "qmul",
@@ -2643,7 +2651,7 @@
     {
       "id": "iit-delhi",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，2 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 0、指标 0。 已解析院系 Faculty 网页调用的公开名单及研究标签，并检查继续教育平台研究领域。公开页目前返回 34 张教师卡，联合单位与缺少方向简介的个人仍待核。",
+      "coverageNote": "已解析 1/3 个登记来源，2 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 1、指标 1。 已解析院系 Faculty 网页调用的公开名单及研究标签，并检查继续教育平台研究领域。公开页目前返回 34 张教师卡，联合单位与缺少方向简介的个人仍待核。",
       "rosterLinks": [
         [
           "QIP IIT Delhi · Faculty Research Areas",
@@ -2763,7 +2771,7 @@
     {
       "id": "malaya",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，39 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 0。 已逐条读取数学科学研究所学术人员页链接的校级 UMExpert 档案，按个人页确认姓名和所属单位。存在一份超过抓取大小限制的页面，其他不符或无法确认的单位、职级和研究分组待核。",
+      "coverageNote": "已解析 1/1 个登记来源，39 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 1。 已逐条读取数学科学研究所学术人员页链接的校级 UMExpert 档案，按个人页确认姓名和所属单位。存在一份超过抓取大小限制的页面，其他不符或无法确认的单位、职级和研究分组待核。",
       "rosterLinks": [
         [
           "数学科学研究所学术人员",
@@ -3027,7 +3035,7 @@
     {
       "id": "ens-lyon",
       "coverage": "sample",
-      "coverageNote": "已解析 1/5 个登记来源，13 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 0。 已查数学系、校方 UMPA 联合实验室和 CNRS 研究网络，提取几何专题组公开名单。Annuaire 返回 403；研究网络仍列已转任人员，正按个人任职证据复核整个实验室的实际现任人员。",
+      "coverageNote": "已解析 1/5 个登记来源，13 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 1。 已查数学系、校方 UMPA 联合实验室和 CNRS 研究网络，提取几何专题组公开名单。Annuaire 返回 403；研究网络仍列已转任人员，正按个人任职证据复核整个实验室的实际现任人员。",
       "rosterLinks": [
         [
           "UMPA · Annuaire",
@@ -3319,7 +3327,7 @@
     {
       "id": "eindhoven",
       "coverage": "sample",
-      "coverageNote": "已解析 1/4 个登记来源，1 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 0。 已查数学与计算机科学系科研门户、离散代数与几何英荷双语研究组及个人页。已核录部分组员并按个人页区分兼职。组的完整名单、其他系组和校外联合任职待核。",
+      "coverageNote": "已解析 1/4 个登记来源，1 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 1。 已查数学与计算机科学系科研门户、离散代数与几何英荷双语研究组及个人页。已核录部分组员并按个人页区分兼职。组的完整名单、其他系组和校外联合任职待核。",
       "rosterLinks": [
         [
           "Discrete Algebra and Geometry · Profiles",
@@ -3559,11 +3567,15 @@
     {
       "id": "jordan",
       "coverage": "limited",
-      "coverageNote": "已解析 0/4 个登记来源，0 条任职或方向待核。 官方目录内容待提取。 已查理学院、校级阿语及英语研究门户、SharePoint Academic Staff 和公开 CV。校站和 SharePoint 返回 Request Rejected，仍无可提取的当前数学名册。已索引独立 CV 无法确认当前完整覆盖。",
+      "coverageNote": "已解析 0/5 个登记来源，0 条任职或方向待核。 官方目录内容待提取。 已查理学院、校级阿语与英语科研门户、SharePoint Academic Staff 和官方个人 CV。名册入口返回 Request Rejected。可访问的个人 CV 用于确认单人任职和实际方向，仍未取得现任完整数学教师名册。",
       "rosterLinks": [
         [
           "University of Jordan · Academic Staff directory",
           "https://eacademic.ju.edu.jo/"
+        ],
+        [
+          "Department of Mathematics · Manal Ghanem CV（仅单人来源）",
+          "https://science.ju.edu.jo/ar/arabic/Lists/FacultyAcademicStaff/Attachments/155/C.V%20%20Manal%20Ghanem.pdf"
         ],
         [
           "School of Science · Departments",
@@ -3675,7 +3687,7 @@
     {
       "id": "heriot-watt",
       "coverage": "sample",
-      "coverageNote": "已解析 1/8 个登记来源，13 条任职或方向待核。 已收录 3 位学者，个人主页 2、CV 0、指标 1。 已核录科研门户数学可读索引的部分人员与职级，交叉检查数学物理组、Tait Institute 和个人档案。联合 Maxwell Institute 与其他分页待综合对账。",
+      "coverageNote": "已解析 1/8 个登记来源，13 条任职或方向待核。 已收录 3 位学者，个人主页 3、CV 0、指标 3。 已核录科研门户数学可读索引的部分人员与职级，交叉检查数学物理组、Tait Institute 和个人档案。联合 Maxwell Institute 与其他分页待综合对账。",
       "rosterLinks": [
         [
           "Edinburgh Mathematical Physics Group · Staff",
@@ -4059,7 +4071,7 @@
     {
       "id": "uba",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，70 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 0、指标 0。 已提取数学系西语 Profesores 的 72 张姓名卡，并参考几何专题研讨班、教师聘任公告和个人主页。现任职级、其他组及联合任职仍待逐人对账。",
+      "coverageNote": "已解析 1/3 个登记来源，70 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 0、指标 1。 已提取数学系西语 Profesores 的 72 张姓名卡，并参考几何专题研讨班、教师聘任公告和个人主页。现任职级、其他组及联合任职仍待逐人对账。",
       "rosterLinks": [
         [
           "Departamento de Matemática · Profesores",
@@ -6093,6 +6105,46 @@
       "recordStatus": "directory"
     },
     {
+      "id": "bjoern-bringmann",
+      "name": "Bjoern Bringmann",
+      "aliases": [
+        "Björn Bringmann"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "caltech",
+          "department": "数学系",
+          "title": "Assistant Professor of Mathematics",
+          "url": "https://www.pma.caltech.edu/people/bjoern-bringmann",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/view/bbringmann/home",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, partial differential equations and probability theory",
+          "url": "https://www.pma.caltech.edu/people/bjoern-bringmann"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
       "id": "elena-mantovan",
       "name": "Elena Mantovan",
       "aliases": [],
@@ -6133,6 +6185,44 @@
       "recordStatus": "directory"
     },
     {
+      "id": "matilde-marcolli",
+      "name": "Matilde Marcolli",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "caltech",
+          "department": "数学系",
+          "title": "Christy Professor of Mathematics and Computing and Mathematical Sciences",
+          "url": "https://www.pma.caltech.edu/people/matilde-marcolli",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.its.caltech.edu/~matilde/",
+      "cvUrl": "https://www.its.caltech.edu/~matilde/MarcolliCVPubList2023.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://www.its.caltech.edu/~matilde/worknew.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of moduli spaces and noncommutative geometry in mathematical physics",
+          "url": "https://www.pma.caltech.edu/people/matilde-marcolli"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
       "id": "matthias-flach",
       "name": "Matthias Flach",
       "aliases": [],
@@ -6168,6 +6258,48 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "peter-schroder",
+      "name": "Peter Schröder",
+      "aliases": [
+        "Peter Schroeder"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "caltech",
+          "department": "Computing + Mathematical Sciences",
+          "title": "Professor of Computer Science and Applied and Computational Mathematics",
+          "url": "https://www.eas.caltech.edu/people/ps",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Discrete differential geometry and digital geometry processing"
+      ],
+      "homepage": "https://users.cms.caltech.edu/~ps/",
+      "cvUrl": "https://www.multires.caltech.edu/pubs/cv.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Discrete differential geometry and digital geometry processing",
+          "url": "https://www.eas.caltech.edu/people/ps"
+        }
+      ],
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -6275,6 +6407,44 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "venkat-chandrasekaran",
+      "name": "Venkat Chandrasekaran",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "caltech",
+          "department": "Computing + Mathematical Sciences and Electrical Engineering",
+          "title": "Tomiyasu Professor",
+          "url": "https://users.cms.caltech.edu/~venkatc/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://users.cms.caltech.edu/~venkatc/",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://users.cms.caltech.edu/~venkatc/papers.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Real algebraic geometry and convex geometry in applied algebra and optimization",
+          "url": "https://users.cms.caltech.edu/~venkatc/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -8539,13 +8709,33 @@
         }
       ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5067578667",
+          "orcid": "https://orcid.org/0009-0001-4082-5109",
+          "url": "https://openalex.org/authors/A5067578667",
+          "authorApiUrl": "https://api.openalex.org/authors/A5067578667",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5067578667,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 16,
+          "works": 24,
+          "citations": 237,
+          "hIndex": 9,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
         {
           "text": "Algebraic geometry and finiteness of varieties in large or infinite dimension",
+          "url": "https://research.tue.nl/en/persons/rob-h-eggermont/"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://research.tue.nl/en/persons/rob-h-eggermont/"
         }
       ],
@@ -8578,8 +8768,24 @@
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5045961299",
+          "orcid": "https://orcid.org/0009-0003-9965-8215",
+          "url": "https://openalex.org/authors/A5045961299",
+          "authorApiUrl": "https://api.openalex.org/authors/A5045961299",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5045961299,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 60,
+          "works": 121,
+          "citations": 1208,
+          "hIndex": 21,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [
         {
@@ -8592,6 +8798,10 @@
       "directoryEvidence": [
         {
           "text": "Complex geometry, differential geometry of Lorentz manifolds and dynamical systems",
+          "url": "https://perso.ens-lyon.fr/zeghib/"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://perso.ens-lyon.fr/zeghib/"
         }
       ],
@@ -10648,12 +10858,19 @@
         "differential"
       ],
       "tags": [],
-      "homepage": null,
+      "homepage": "https://researchportal.hw.ac.uk/en/persons/christian-saemann/",
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
       "publicationsUrl": "https://researchportal.hw.ac.uk/en/persons/christian-saemann/publications/",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 97,
+          "scope": "Heriot-Watt Research Portal 个人档案的 Research output 总数",
+          "url": "https://researchportal.hw.ac.uk/en/persons/christian-saemann/",
+          "checkedAt": "2026-11-24"
+        }
+      ],
       "opportunities": [],
       "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
       "metrics": [
@@ -10732,13 +10949,39 @@
         }
       ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5000268420",
+          "orcid": "https://orcid.org/0000-0002-8764-0646",
+          "url": "https://openalex.org/authors/A5000268420",
+          "authorApiUrl": "https://api.openalex.org/authors/A5000268420",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5000268420,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 20,
+          "works": 40,
+          "citations": 1257,
+          "hIndex": 16,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Quantum Curves, Resurgence and Exact WKB",
+          "year": 2023,
+          "url": "https://doi.org/10.3842/SIGMA.2023.009"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Complex geometry and mathematical physics, quantum curves and Seiberg–Witten geometry",
+          "url": "https://researchportal.hw.ac.uk/en/persons/lotte-hollands/"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://researchportal.hw.ac.uk/en/persons/lotte-hollands/"
         }
       ],
@@ -10764,11 +11007,11 @@
         "complex"
       ],
       "tags": [],
-      "homepage": "https://researchportal.hw.ac.uk/en/persons/murad-alim/",
+      "homepage": "https://muradalim.org/",
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "https://researchportal.hw.ac.uk/en/persons/murad-alim/publications/",
+      "publicationsUrl": "https://muradalim.org/publications/",
       "publicationCounts": [
         {
           "value": 12,
@@ -10784,13 +11027,44 @@
         }
       ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5083833304",
+          "orcid": "https://orcid.org/0000-0002-7170-9020",
+          "url": "https://openalex.org/authors/A5083833304",
+          "authorApiUrl": "https://api.openalex.org/authors/A5083833304",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5083833304,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 22,
+          "works": 33,
+          "citations": 1077,
+          "hIndex": 15,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Mathematical Structures of Non-perturbative Topological String Theory: From GW to DT Invariants",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s00220-022-04571-y"
+        },
+        {
+          "title": "Quantum Curves, Resurgence and Exact WKB",
+          "year": 2023,
+          "url": "https://doi.org/10.3842/SIGMA.2023.009"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Complex geometry, Hodge theory, and mathematical structures of topological string theory",
+          "url": "https://researchportal.hw.ac.uk/en/persons/murad-alim/"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://researchportal.hw.ac.uk/en/persons/murad-alim/"
         }
       ],
@@ -13204,7 +13478,7 @@
           "schoolId": "iit-delhi",
           "department": "数学系",
           "title": "Assistant Professor",
-          "url": "https://maths.iitd.ac.in/faculty",
+          "url": "https://researchambit.iitd.ac.in/faculty/pinakinath",
           "type": "primary",
           "checkedAt": "2026-11-24"
         }
@@ -13216,20 +13490,51 @@
         "Algebraic Geometry & Representation Theory"
       ],
       "homepage": "https://pinakinath.github.io/",
-      "cvUrl": null,
+      "cvUrl": "https://pinakinath.github.io/pinakinath_cv.pdf",
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
-      "publicationCounts": [],
+      "cvStatus": null,
+      "publicationsUrl": "https://pinakinath.github.io/pinakinath_cv.pdf",
+      "publicationCounts": [
+        {
+          "value": 14,
+          "scope": "IIT Delhi Research Ambit 个人页 Papers（门户口径）",
+          "url": "https://researchambit.iitd.ac.in/faculty/pinakinath",
+          "checkedAt": "2026-11-24"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5010537615",
+          "orcid": "https://orcid.org/0000-0003-1077-3990",
+          "url": "https://openalex.org/authors/A5010537615",
+          "authorApiUrl": "https://api.openalex.org/authors/A5010537615",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5010537615,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 10,
+          "works": 18,
+          "citations": 34,
+          "hIndex": 3,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
         {
           "text": "Algebraic Geometry & Representation Theory",
           "url": "https://maths.iitd.ac.in/faculty"
+        },
+        {
+          "text": "Algebraic geometry of flag, Schubert, Bott–Samelson, toric and spherical varieties",
+          "url": "https://pinakinath.github.io/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://researchambit.iitd.ac.in/faculty/pinakinath"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -16596,19 +16901,39 @@
         "Differential geometry, curvature and submanifolds"
       ],
       "homepage": "https://umexpert.um.edu.my/avikde",
-      "cvUrl": "https://umexpert.um.edu.my/cv/avikde",
-      "cvType": "公开 CV（简版）",
+      "cvUrl": "https://umexpert.um.edu.my/avikde.html",
+      "cvType": "公开 CV",
       "cvStatus": null,
-      "publicationsUrl": "https://umexpert.um.edu.my/avikde",
+      "publicationsUrl": "https://umexpert.um.edu.my/avikde.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5000906741",
+          "orcid": "https://orcid.org/0000-0001-6475-3085",
+          "url": "https://openalex.org/authors/A5000906741",
+          "authorApiUrl": "https://api.openalex.org/authors/A5000906741",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5000906741,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 66,
+          "works": 75,
+          "citations": 2228,
+          "hIndex": 23,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
         {
           "text": "Differential geometry, curvature and submanifolds",
+          "url": "https://umexpert.um.edu.my/avikde"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://umexpert.um.edu.my/avikde"
         }
       ],
@@ -31074,13 +31399,39 @@
       "publicationsUrl": "https://mate.dm.uba.ar/~ghenry/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5020868858",
+          "orcid": "https://orcid.org/0009-0003-2568-1834",
+          "url": "https://openalex.org/authors/A5020868858",
+          "authorApiUrl": "https://api.openalex.org/authors/A5020868858",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5020868858,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 15,
+          "works": 19,
+          "citations": 153,
+          "hIndex": 7,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Negative eigenvalues of the conformal Laplacian",
+          "year": 2024,
+          "url": "https://doi.org/10.1090/proc/16798"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Geometric analysis and differential geometry",
+          "url": "https://mate.dm.uba.ar/~ghenry/"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://mate.dm.uba.ar/~ghenry/"
         }
       ],
