@@ -5655,7 +5655,37 @@
       "id": "snu-dasom31",
       "school": "snu",
       "url": "https://www.math.snu.ac.kr/~lim/DASOM.html",
-      "label": "Dynamics and Arithmetic Structures on Manifolds · Research Group",
+      "label": "DASOM · Dynamics and Arithmetic Structures on Manifolds",
+      "status": "parsed",
+      "count": 7,
+      "checked_at": "2026-11-25",
+      "note": "成员页共列现任和联属方向教师 4 位、博士后 3 位，在校数学系名录和机构研究身份分开。"
+    },
+    {
+      "id": "snu-ed-emeriti31",
+      "school": "snu",
+      "url": "https://mathed.snu.ac.kr/%EB%AA%85%EC%98%88%EA%B5%90%EC%88%98/",
+      "label": "수학교육과 · 数学教育系荣休",
+      "status": "parsed",
+      "count": 7,
+      "checked_at": "2026-11-25",
+      "note": "从官方分栏逐项核对 7 位，方向来自院系卡片、机构活动或个人学术页。"
+    },
+    {
+      "id": "snu-ed-faculty31",
+      "school": "snu",
+      "url": "https://mathed.snu.ac.kr/professor_cate/%ED%98%84%EC%A7%81%EA%B5%90%EC%88%98/",
+      "label": "수학교육과 · 数学教育系现任",
+      "status": "parsed",
+      "count": 7,
+      "checked_at": "2026-11-25",
+      "note": "从官方分栏逐项核对 7 位，方向来自院系卡片、机构活动或个人学术页。"
+    },
+    {
+      "id": "snu-ed-research31",
+      "school": "snu",
+      "url": "https://eduresearch.snu.ac.kr/sub_2/2_11.php",
+      "label": "数学教育研究中心 · 具名委员会和方向",
       "status": "reference",
       "count": 0,
       "checked_at": null,
@@ -5722,10 +5752,40 @@
       "note": "HTTPS 连接或证书校验失败。"
     },
     {
+      "id": "snu-qsms-alt31",
+      "school": "snu",
+      "url": "https://qsms.math.snu.ac.kr/?mid=AboutUs",
+      "label": "QSMS · 官方研究方向入口",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "snu-qsms31",
       "school": "snu",
       "url": "https://qsms.math.snu.ac.kr/AboutUs",
       "label": "Center for Quantum Structures in Modules and Spaces · Vision and Members",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "snu-ribs-staff31",
+      "school": "snu",
+      "url": "https://ribs.snu.ac.kr/researcher/facts",
+      "label": "基础科学研究院 · 现任研究教员和研究员规模",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "snu-rim-cross31",
+      "school": "snu",
+      "url": "https://snulamp.snu.ac.kr/%EC%88%98%ED%95%99%EC%97%B0%EA%B5%AC%EC%86%8C_2026/",
+      "label": "SNU LAMP · 数学研究所 2026 统计",
       "status": "reference",
       "count": 0,
       "checked_at": null,
@@ -5738,7 +5798,7 @@
       "label": "Research Institute of Mathematics",
       "status": "reference",
       "count": 0,
-      "checked_at": null,
+      "checked_at": "2026-11-25",
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
@@ -6222,14 +6282,24 @@
       "note": ""
     },
     {
-      "id": "tokyo-icms31",
+      "id": "tokyo-fjlmi31",
       "school": "tokyo",
-      "url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
-      "label": "数理科学连携基盘中心 · 组织任职",
+      "url": "https://fj-lmi.cnrs.fr/members/",
+      "label": "CNRS 与东京大学 · 日法数学联合实验室成员",
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-25",
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "tokyo-icms31",
+      "school": "tokyo",
+      "url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
+      "label": "数理科学连携基盘中心 · 组织任职",
+      "status": "parsed",
+      "count": 16,
+      "checked_at": "2026-11-25",
+      "note": "三分栏共 17 条，含 1 位在两个栏目重复承担职务。任职原文区分专任与兼任。"
     },
     {
       "id": "tokyo-ipmu",
@@ -6250,6 +6320,16 @@
       "count": 7,
       "checked_at": "2026-11-23",
       "note": ""
+    },
+    {
+      "id": "tokyo-ipmu-visitors31",
+      "school": "tokyo",
+      "url": "https://www.ipmu.jp/en/place-and-people/visitors",
+      "label": "Kavli IPMU · 当前公布的数学访问",
+      "status": "parsed",
+      "count": 5,
+      "checked_at": "2026-11-25",
+      "note": "核对完整访问页。46 条中 5 条由机构列为 Mathematics，现时在访和未来计划分别标示。"
     },
     {
       "id": "tokyo-local31",
@@ -6276,10 +6356,10 @@
       "school": "tokyo",
       "url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
       "label": "数理科学研究科 · 特任与特别教授",
-      "status": "reference",
-      "count": 0,
+      "status": "parsed",
+      "count": 17,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "日本语官方任职页 16 条特任、1 条特别教授岗位。"
     },
     {
       "id": "toronto-about-legacy",
@@ -6996,10 +7076,10 @@
       "school": "ucl",
       "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
       "label": "Mathematics · Research Associates and Fellows",
-      "status": "reference",
-      "count": 0,
-      "checked_at": null,
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "status": "parsed",
+      "count": 28,
+      "checked_at": "2026-11-25",
+      "note": "官方科研分栏 28 张，核对 Renata Picciotto 的个人页和研究组拼写。"
     },
     {
       "id": "ucla-geometry",
@@ -184813,6 +184893,342 @@
       }
     },
     {
+      "source": "snu-dasom31",
+      "person_key": "dohyeongkim",
+      "school": "snu",
+      "record": {
+        "name": "Dohyeong Kim",
+        "title": "Research Group Faculty Affiliate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.math.snu.ac.kr/~lim/DASOM.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-dasom31",
+      "person_key": "gyeseonlee",
+      "school": "snu",
+      "record": {
+        "name": "Gye-Seon Lee",
+        "title": "Research Group Faculty Affiliate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.math.snu.ac.kr/~lim/DASOM.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-dasom31",
+      "person_key": "hongtaekjung",
+      "school": "snu",
+      "record": {
+        "name": "Hongtaek Jung",
+        "title": "Research Group Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.math.snu.ac.kr/~lim/DASOM.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-dasom31",
+      "person_key": "jungwonlee",
+      "school": "snu",
+      "record": {
+        "name": "Jungwon Lee",
+        "title": "Research Group Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.math.snu.ac.kr/~lim/DASOM.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-dasom31",
+      "person_key": "junhopeterwhang",
+      "school": "snu",
+      "record": {
+        "name": "Junho Peter Whang",
+        "title": "Research Group Faculty Affiliate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.math.snu.ac.kr/~lim/DASOM.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-dasom31",
+      "person_key": "kyeongrokim",
+      "school": "snu",
+      "record": {
+        "name": "Kyeongro Kim",
+        "title": "Research Group Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.math.snu.ac.kr/~lim/DASOM.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-dasom31",
+      "person_key": "seonheelim",
+      "school": "snu",
+      "record": {
+        "name": "Seonhee Lim",
+        "title": "Research Group Faculty Affiliate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.math.snu.ac.kr/~lim/DASOM.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-ed-emeriti31",
+      "person_key": "김서령",
+      "school": "snu",
+      "record": {
+        "name": "김서령",
+        "title": "Professor Emeritus · Mathematics Education",
+        "research": "Graph theory and mathematics education",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathed.snu.ac.kr/%EB%AA%85%EC%98%88%EA%B5%90%EC%88%98/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-ed-emeriti31",
+      "person_key": "김연식",
+      "school": "snu",
+      "record": {
+        "name": "김연식",
+        "title": "Professor Emeritus · Mathematics Education",
+        "research": "Mathematics education",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathed.snu.ac.kr/%EB%AA%85%EC%98%88%EA%B5%90%EC%88%98/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-ed-emeriti31",
+      "person_key": "우정호",
+      "school": "snu",
+      "record": {
+        "name": "우정호",
+        "title": "Professor Emeritus · Mathematics Education",
+        "research": "Mathematics education",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathed.snu.ac.kr/%EB%AA%85%EC%98%88%EA%B5%90%EC%88%98/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-ed-emeriti31",
+      "person_key": "정상권",
+      "school": "snu",
+      "record": {
+        "name": "정상권",
+        "title": "Professor Emeritus · Mathematics Education",
+        "research": "Numerical analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathed.snu.ac.kr/%EB%AA%85%EC%98%88%EA%B5%90%EC%88%98/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-ed-emeriti31",
+      "person_key": "조승제",
+      "school": "snu",
+      "record": {
+        "name": "조승제",
+        "title": "Professor Emeritus · Mathematics Education",
+        "research": "Analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathed.snu.ac.kr/%EB%AA%85%EC%98%88%EA%B5%90%EC%88%98/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-ed-emeriti31",
+      "person_key": "조한혁",
+      "school": "snu",
+      "record": {
+        "name": "조한혁",
+        "title": "Professor Emeritus · Mathematics Education",
+        "research": "Combinatorial matrix theory and mathematics education",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathed.snu.ac.kr/%EB%AA%85%EC%98%88%EA%B5%90%EC%88%98/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-ed-emeriti31",
+      "person_key": "최영기",
+      "school": "snu",
+      "record": {
+        "name": "최영기",
+        "title": "Professor Emeritus · Mathematics Education",
+        "research": "Algebraic topology and mathematics education",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathed.snu.ac.kr/%EB%AA%85%EC%98%88%EA%B5%90%EC%88%98/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-ed-faculty31",
+      "person_key": "곽상훈",
+      "school": "snu",
+      "record": {
+        "name": "곽상훈",
+        "title": "Professor · Mathematics Education",
+        "research": "Geometric group theory and mapping class groups of surfaces and graphs",
+        "profile": "https://mathed.snu.ac.kr/snu__professor/%ea%b3%bd%ec%83%81%ed%9b%88/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathed.snu.ac.kr/professor_cate/%ED%98%84%EC%A7%81%EA%B5%90%EC%88%98/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-ed-faculty31",
+      "person_key": "권오남",
+      "school": "snu",
+      "record": {
+        "name": "권오남",
+        "title": "Professor · Mathematics Education",
+        "research": "Mathematics education and teacher training, with doctoral background in complex analysis",
+        "profile": "https://mathed.snu.ac.kr/snu__professor/%ea%b6%8c%ec%98%a4%eb%82%a8/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathed.snu.ac.kr/professor_cate/%ED%98%84%EC%A7%81%EA%B5%90%EC%88%98/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-ed-faculty31",
+      "person_key": "박보람",
+      "school": "snu",
+      "record": {
+        "name": "박보람",
+        "title": "Professor · Mathematics Education",
+        "research": "Graph theory and combinatorics",
+        "profile": "https://mathed.snu.ac.kr/snu__professor/%eb%b0%95%eb%b3%b4%eb%9e%8c/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathed.snu.ac.kr/professor_cate/%ED%98%84%EC%A7%81%EA%B5%90%EC%88%98/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-ed-faculty31",
+      "person_key": "석진명",
+      "school": "snu",
+      "record": {
+        "name": "석진명",
+        "title": "Professor · Mathematics Education",
+        "research": "Nonlinear partial differential equations and dispersive analysis",
+        "profile": "https://mathed.snu.ac.kr/snu__professor/%ec%84%9d%ec%a7%84%eb%aa%85/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathed.snu.ac.kr/professor_cate/%ED%98%84%EC%A7%81%EA%B5%90%EC%88%98/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-ed-faculty31",
+      "person_key": "유연주",
+      "school": "snu",
+      "record": {
+        "name": "유연주",
+        "title": "Professor · Mathematics Education",
+        "research": "Statistics and statistical learning",
+        "profile": "https://mathed.snu.ac.kr/snu__professor/%ec%9c%a0%ec%97%b0%ec%a3%bc/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathed.snu.ac.kr/professor_cate/%ED%98%84%EC%A7%81%EA%B5%90%EC%88%98/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-ed-faculty31",
+      "person_key": "윤상균",
+      "school": "snu",
+      "record": {
+        "name": "윤상균",
+        "title": "Professor · Mathematics Education",
+        "research": "Operator algebras and functional analysis",
+        "profile": "https://mathed.snu.ac.kr/snu__professor/%ec%9c%a4%ec%83%81%ea%b7%a0/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathed.snu.ac.kr/professor_cate/%ED%98%84%EC%A7%81%EA%B5%90%EC%88%98/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "snu-ed-faculty31",
+      "person_key": "이경화",
+      "school": "snu",
+      "record": {
+        "name": "이경화",
+        "title": "Professor · Mathematics Education",
+        "research": "Mathematics education and mathematical thinking",
+        "profile": "https://mathed.snu.ac.kr/snu__professor/%ec%9d%b4%ea%b2%bd%ed%99%94/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathed.snu.ac.kr/professor_cate/%ED%98%84%EC%A7%81%EA%B5%90%EC%88%98/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
       "source": "snu-emeritus-31",
       "person_key": "강정혁",
       "school": "snu",
@@ -199521,6 +199937,262 @@
       }
     },
     {
+      "source": "tokyo-icms31",
+      "person_key": "atsushishiho",
+      "school": "tokyo",
+      "record": {
+        "name": "Atsushi Shiho",
+        "title": "Center Affiliate · Professor",
+        "research": "数論幾何学",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-icms31",
+      "person_key": "benyuanxu",
+      "school": "tokyo",
+      "record": {
+        "name": "Benyuan Xu",
+        "title": "Center · Project Associate Professor",
+        "research": "非線形偏微分方程式",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-icms31",
+      "person_key": "chihiromatsui",
+      "school": "tokyo",
+      "record": {
+        "name": "Chihiro Matsui",
+        "title": "Center Affiliate · Associate Professor",
+        "research": "量子可積分系",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-icms31",
+      "person_key": "hirokimasuda",
+      "school": "tokyo",
+      "record": {
+        "name": "Hiroki Masuda",
+        "title": "Center Affiliate · Professor",
+        "research": "確率統計学",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-icms31",
+      "person_key": "kazuhiroishige",
+      "school": "tokyo",
+      "record": {
+        "name": "Kazuhiro Ishige",
+        "title": "Center Affiliate · Professor",
+        "research": "偏微分方程式論",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-icms31",
+      "person_key": "makikosasada",
+      "school": "tokyo",
+      "record": {
+        "name": "Makiko Sasada",
+        "title": "Center Affiliate · Professor",
+        "research": "確率論",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-icms31",
+      "person_key": "masahiroyamamoto",
+      "school": "tokyo",
+      "record": {
+        "name": "Masahiro Yamamoto",
+        "title": "Center Affiliate · Project Professor",
+        "research": "逆問題",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-icms31",
+      "person_key": "nakahiroyoshida",
+      "school": "tokyo",
+      "record": {
+        "name": "Nakahiro Yoshida",
+        "title": "Center Affiliate · Professor",
+        "research": "確率統計",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-icms31",
+      "person_key": "noborumurata",
+      "school": "tokyo",
+      "record": {
+        "name": "Noboru Murata",
+        "title": "Center · Project Professor",
+        "research": "統計学",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-icms31",
+      "person_key": "norikazusaito",
+      "school": "tokyo",
+      "record": {
+        "name": "Norikazu Saito",
+        "title": "Center Affiliate · Professor",
+        "research": "数値解析、応用解析",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-icms31",
+      "person_key": "ralphwillox",
+      "school": "tokyo",
+      "record": {
+        "name": "Ralph Willox",
+        "title": "Center Affiliate · Professor",
+        "research": "数理物理、可積分系",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-icms31",
+      "person_key": "shigekiaida",
+      "school": "tokyo",
+      "record": {
+        "name": "Shigeki Aida",
+        "title": "Center Affiliate · Professor",
+        "research": "確率論",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-icms31",
+      "person_key": "takahitokashiwabara",
+      "school": "tokyo",
+      "record": {
+        "name": "Takahito Kashiwabara",
+        "title": "Center Affiliate · Associate Professor",
+        "research": "数値解析",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-icms31",
+      "person_key": "takeshitsuji",
+      "school": "tokyo",
+      "record": {
+        "name": "Takeshi Tsuji",
+        "title": "Center Affiliate · Professor",
+        "research": "数論幾何学",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-icms31",
+      "person_key": "yoshikazugiga",
+      "school": "tokyo",
+      "record": {
+        "name": "Yoshikazu Giga",
+        "title": "Center · Project Professor",
+        "research": "非線形解析",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-icms31",
+      "person_key": "yutakoike",
+      "school": "tokyo",
+      "record": {
+        "name": "Yuta Koike",
+        "title": "Center · Associate Professor",
+        "research": "統計学",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
       "source": "tokyo-ipmu-people",
       "person_key": "alexeybondal",
       "school": "tokyo",
@@ -199637,6 +200309,358 @@
         "source_url": "https://db.ipmu.jp/member/memberen.html",
         "checked_at": "2026-11-23",
         "unit": "Kavli IPMU"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-visitors31",
+      "person_key": "ericyenyochen",
+      "school": "tokyo",
+      "record": {
+        "name": "Eric Yen-Yo Chen",
+        "title": "Scheduled visitor",
+        "research": "Mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ipmu.jp/en/place-and-people/visitors",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-visitors31",
+      "person_key": "erwanrogerleblevec",
+      "school": "tokyo",
+      "record": {
+        "name": "Erwan Roger Le Blevec",
+        "title": "Visiting researcher",
+        "research": "Mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ipmu.jp/en/place-and-people/visitors",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-visitors31",
+      "person_key": "hokutouehara",
+      "school": "tokyo",
+      "record": {
+        "name": "Hokuto Uehara",
+        "title": "Scheduled visitor",
+        "research": "Mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ipmu.jp/en/place-and-people/visitors",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-visitors31",
+      "person_key": "kyojisaito",
+      "school": "tokyo",
+      "record": {
+        "name": "Kyoji Saito",
+        "title": "Scheduled visitor",
+        "research": "Mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ipmu.jp/en/place-and-people/visitors",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-visitors31",
+      "person_key": "victorbatyrev",
+      "school": "tokyo",
+      "record": {
+        "name": "Victor Batyrev",
+        "title": "Scheduled visitor",
+        "research": "Mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ipmu.jp/en/place-and-people/visitors",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-project31",
+      "person_key": "benyuanxu",
+      "school": "tokyo",
+      "record": {
+        "name": "Benyuan Xu",
+        "title": "Project Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-project31",
+      "person_key": "eijiyanagida",
+      "school": "tokyo",
+      "record": {
+        "name": "Eiji Yanagida",
+        "title": "Project Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-project31",
+      "person_key": "makototorii",
+      "school": "tokyo",
+      "record": {
+        "name": "Makoto Torii",
+        "title": "Project Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-project31",
+      "person_key": "masahirotakeuchi",
+      "school": "tokyo",
+      "record": {
+        "name": "Masahiro Takeuchi",
+        "title": "Project Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-project31",
+      "person_key": "masahiroyamamoto",
+      "school": "tokyo",
+      "record": {
+        "name": "Masahiro Yamamoto",
+        "title": "Project Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-project31",
+      "person_key": "nakahiroyoshida",
+      "school": "tokyo",
+      "record": {
+        "name": "Nakahiro Yoshida",
+        "title": "Project Professor",
+        "research": "",
+        "profile": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor/yoshida.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-project31",
+      "person_key": "noborumurata",
+      "school": "tokyo",
+      "record": {
+        "name": "Noboru Murata",
+        "title": "Project Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-project31",
+      "person_key": "shihokoishii",
+      "school": "tokyo",
+      "record": {
+        "name": "Shihoko Ishii",
+        "title": "Project Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-project31",
+      "person_key": "shuntarotsubouchi",
+      "school": "tokyo",
+      "record": {
+        "name": "Shuntaro Tsubouchi",
+        "title": "Project Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-project31",
+      "person_key": "sotaasai",
+      "school": "tokyo",
+      "record": {
+        "name": "Sota Asai",
+        "title": "Project Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-project31",
+      "person_key": "toshitakekohno",
+      "school": "tokyo",
+      "record": {
+        "name": "Toshitake Kohno",
+        "title": "Project Professor",
+        "research": "",
+        "profile": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor/kohno.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-project31",
+      "person_key": "toshiyukikatsura",
+      "school": "tokyo",
+      "record": {
+        "name": "Toshiyuki Katsura",
+        "title": "Project Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-project31",
+      "person_key": "victorperezvaldes",
+      "school": "tokyo",
+      "record": {
+        "name": "Víctor Pérez-Valdés",
+        "title": "Project Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-project31",
+      "person_key": "yasuyukikawahigashi",
+      "school": "tokyo",
+      "record": {
+        "name": "Yasuyuki Kawahigashi",
+        "title": "Project Professor",
+        "research": "",
+        "profile": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor/kawahigashi.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-project31",
+      "person_key": "yoshikazugiga",
+      "school": "tokyo",
+      "record": {
+        "name": "Yoshikazu Giga",
+        "title": "Project Professor",
+        "research": "",
+        "profile": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor/giga.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-project31",
+      "person_key": "yujirokawamata",
+      "school": "tokyo",
+      "record": {
+        "name": "Yujiro Kawamata",
+        "title": "University Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-project31",
+      "person_key": "zenshoyoshida",
+      "school": "tokyo",
+      "record": {
+        "name": "Zensho Yoshida",
+        "title": "Project Professor",
+        "research": "",
+        "profile": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor/zyoshida.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+        "checked_at": "2026-11-25"
       }
     },
     {
@@ -224973,6 +225997,454 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "alexanderwalker",
+      "school": "ucl",
+      "record": {
+        "name": "Alexander Walker",
+        "title": "Research Fellow or Research Associate",
+        "research": "Analytic number theory, spectral theory of automorphic forms",
+        "profile": "https://profiles.ucl.ac.uk/86697-alex-walker",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "andrewnugent",
+      "school": "ucl",
+      "record": {
+        "name": "Andrew Nugent",
+        "title": "Research Fellow or Research Associate",
+        "research": "Mathematical biology, networks, interacting particle systems and opinion dynamics",
+        "profile": "https://profiles.ucl.ac.uk/105981-andrew-nugent/about",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "antoinegansemer",
+      "school": "ucl",
+      "record": {
+        "name": "Antoine Gansemer",
+        "title": "Research Fellow or Research Associate",
+        "research": "Spectral theory, quantum chaos, semiclassical & microlocal analysis, chaotic dynamics, scattering theory.",
+        "profile": "https://profiles.ucl.ac.uk/104494-antoine-gansemer/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "caraneal",
+      "school": "ucl",
+      "record": {
+        "name": "Cara Neal",
+        "title": "Research Fellow or Research Associate",
+        "research": "Mathematical biology, Fluid Mechanics, Non-Newtonian Fluids, Microscale Flows",
+        "profile": "https://profiles.ucl.ac.uk/100043-cara-neal",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "davidmorselli",
+      "school": "ucl",
+      "record": {
+        "name": "David Morselli",
+        "title": "Research Fellow or Research Associate",
+        "research": "Mathematical biology, dynamical systems and structured population models",
+        "profile": "https://profiles.ucl.ac.uk/98891-david-morselli",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "fabianheimann",
+      "school": "ucl",
+      "record": {
+        "name": "Fabian Heimann",
+        "title": "Research Fellow or Research Associate",
+        "research": "Numerical Analysis, Scientific Computing and Finite Element Methods",
+        "profile": "https://profiles.ucl.ac.uk/98815-fabian-heimann",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "felipemarceca",
+      "school": "ucl",
+      "record": {
+        "name": "Felipe Marceca",
+        "title": "Research Fellow or Research Associate",
+        "research": "Harmonic analysis, spectral theory, random point processes",
+        "profile": "https://profiles.ucl.ac.uk/107516-felipe-marceca",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "freddieillingworth",
+      "school": "ucl",
+      "record": {
+        "name": "Freddie Illingworth",
+        "title": "Research Fellow or Research Associate",
+        "research": "Combinatorics, extremal and structural graph theory, graph colouring, probablistic combinatorics, Ramsey theory",
+        "profile": "https://sites.google.com/view/freddieillingworth",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "gorapadabera",
+      "school": "ucl",
+      "record": {
+        "name": "Gorapada Bera",
+        "title": "Research Fellow or Research Associate",
+        "research": "Special holonomy, gauge theory, and calibrated geometry",
+        "profile": "https://profiles.ucl.ac.uk/109161-gorapada-bera",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "harrywells",
+      "school": "ucl",
+      "record": {
+        "name": "Harry Wells",
+        "title": "Research Fellow or Research Associate",
+        "research": "Numerical analysis, scientific computing and computational fluid dynamics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "jacobjepson",
+      "school": "ucl",
+      "record": {
+        "name": "Jacob Jepson",
+        "title": "Research Fellow or Research Associate",
+        "research": "Fluids Mechanics, Multiphase problems, Moving boundary problems and Asymptotic expansions",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "jonahduncan",
+      "school": "ucl",
+      "record": {
+        "name": "Jonah Duncan",
+        "title": "Research Fellow or Research Associate",
+        "research": "Nonlinear partial differentiaal equations and geometric analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "leonardoroveri",
+      "school": "ucl",
+      "record": {
+        "name": "Leonardo Roveri",
+        "title": "Research Fellow or Research Associate",
+        "research": "TBC",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "marcellomalagutti",
+      "school": "ucl",
+      "record": {
+        "name": "Marcello Malagutti",
+        "title": "Research Fellow or Research Associate",
+        "research": "Harmonic analysis, geometrical analysis of PDEs, microlocal analysis, spectral analysis and scattering theory, quantum field theory and quantum mechanics",
+        "profile": "https://profiles.ucl.ac.uk/94894-marcello-malagutti/about",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "masoudahmadi",
+      "school": "ucl",
+      "record": {
+        "name": "Masoud Ahmadi",
+        "title": "Research Fellow or Research Associate",
+        "research": "Computational Mechanics, Finite Element Analysis, Solid Mechanics, Numerical Analysis",
+        "profile": "https://profiles.ucl.ac.uk/103287-masoud-ahmadi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "mehdihafezi",
+      "school": "ucl",
+      "record": {
+        "name": "Mehdi Hafezi",
+        "title": "Research Fellow or Research Associate",
+        "research": "Systems thinking and system dynamics, system-level modelling, feedback-driven analysis, and decision-focused applied research.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "philippecharron",
+      "school": "ucl",
+      "record": {
+        "name": "Philippe Charron",
+        "title": "Research Fellow or Research Associate",
+        "research": "Spectral theory of linear operators",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "qihuang",
+      "school": "ucl",
+      "record": {
+        "name": "Qi Huang",
+        "title": "Research Fellow or Research Associate",
+        "research": "Survival analysis, longitudinal analysis and applied statistics in health care data",
+        "profile": "https://profiles.ucl.ac.uk/83307-qi-huang",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "renatapicciotto",
+      "school": "ucl",
+      "record": {
+        "name": "Renata Picciotto",
+        "title": "Research Fellow or Research Associate",
+        "research": "Moduli spaces, enumerative geometry, derived algebraic geometry",
+        "profile": "https://profiles.ucl.ac.uk/110986-renata-picciotto",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "rhiannonsavage",
+      "school": "ucl",
+      "record": {
+        "name": "Rhiannon Savage",
+        "title": "Research Fellow or Research Associate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/106678-rhiannon-savage",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "samuelkittle",
+      "school": "ucl",
+      "record": {
+        "name": "Samuel Kittle",
+        "title": "Research Fellow or Research Associate",
+        "research": "TBC",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "stevenflynn",
+      "school": "ucl",
+      "record": {
+        "name": "Steven Flynn",
+        "title": "Research Fellow or Research Associate",
+        "research": "Microlocal analysis, inverse problems, sub-Riemmannian geometry, hypoelliptic PDEs and mathematical physics",
+        "profile": "https://profiles.ucl.ac.uk/99937-steven-flynn/publications",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "thomassales",
+      "school": "ucl",
+      "record": {
+        "name": "Thomas Sales",
+        "title": "Research Fellow or Research Associate",
+        "research": "Partial differential equations, numerical analysis, mean field games, and free boundary problems.",
+        "profile": "https://profiles.ucl.ac.uk/109429-thomas-sales",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "vijaiananddharmalingam",
+      "school": "ucl",
+      "record": {
+        "name": "Vijai Anand Dharmalingam",
+        "title": "Research Fellow or Research Associate",
+        "research": "Mathematical Biology, Fluid Mechanics and Topological Data Analysis",
+        "profile": "https://profiles.ucl.ac.uk/94285-vijai-anand-dharmalingam",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "weixinyang",
+      "school": "ucl",
+      "record": {
+        "name": "Weixin Yang",
+        "title": "Research Fellow or Research Associate",
+        "research": "TBC",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "yanlongfang",
+      "school": "ucl",
+      "record": {
+        "name": "Yan-Long Fang",
+        "title": "Research Fellow or Research Associate",
+        "research": "Microlocal analysis, spectral theory, scattering theory, inverse problems and mathematical physics",
+        "profile": "https://profiles.ucl.ac.uk/38750-yanlong-fang",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "yilinma",
+      "school": "ucl",
+      "record": {
+        "name": "Yilin Ma",
+        "title": "Research Fellow or Research Associate",
+        "research": "Microlocal analysis, scattering theory and numerical analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-research-fellows31",
+      "person_key": "zellaking",
+      "school": "ucl",
+      "record": {
+        "name": "Zella King",
+        "title": "Research Fellow or Research Associate",
+        "research": "Healthcare operations research, machine learning, health data science and predictive analytics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
         "checked_at": "2026-11-25"
       }
     },
@@ -353983,7 +355455,8 @@
     },
     "andrey-soldatenkov": {
       "status": "identity_review",
-      "reason": "同一人的论文指向不同作者档案。"
+      "reason": "同一人的论文指向不同作者档案。",
+      "checkedAt": "2026-11-25"
     },
     "angela-gibney": {
       "status": "identity_review",
@@ -354423,7 +355896,8 @@
       }
     },
     "bernd-siebert": {
-      "status": "review_ready",
+      "status": "identity_review",
+      "reason": "复几何代表作确认，但作者档案合并其他计量科学论文。累计论文数与引用均待核。",
       "author_id": "A5057850936",
       "papers": [
         {
@@ -354432,6 +355906,7 @@
           "url": "https://doi.org/10.4007/annals.2011.174.3.1"
         }
       ],
+      "checkedAt": "2026-11-25",
       "candidate_url": "https://openalex.org/authors/A5057850936"
     },
     "bernd-ulrich": {
@@ -354804,7 +356279,8 @@
       }
     },
     "christian-schnell": {
-      "status": "review_ready",
+      "status": "identity_review",
+      "reason": "数学代表作能匹配。OpenAlex 同一个档案混入肿瘤和药理学论文，累计引用不可归到 Stony Brook 数学学者。",
       "author_id": "A5010136394",
       "papers": [
         {
@@ -354813,6 +356289,7 @@
           "url": "https://doi.org/10.46298/epiga.2023.specialvolumeinhonourofclairevoisin.9626"
         }
       ],
+      "checkedAt": "2026-11-25",
       "candidate_url": "https://openalex.org/authors/A5010136394"
     },
     "christoph-allolio": {
@@ -354944,6 +356421,27 @@
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5085784472"
     },
+    "costante-bellettini": {
+      "status": "review_ready",
+      "author_id": "A5068558625",
+      "papers": [],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5068558625",
+        "orcid": "https://orcid.org/0000-0002-2200-4876",
+        "url": "https://openalex.org/authors/A5068558625",
+        "authorApiUrl": "https://api.openalex.org/authors/A5068558625",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5068558625,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 18,
+        "works": 27,
+        "citations": 325,
+        "hIndex": 12,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "curtis-t-mcmullen": {
       "status": "source_error",
       "reason": "OpenAlex 请求或返回数据失败。",
@@ -355062,10 +356560,25 @@
       }
     },
     "dario-beraldo": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/A5089977377"
+      "status": "review_ready",
+      "author_id": "A5089977377",
+      "papers": [],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5089977377",
+        "orcid": "https://orcid.org/0000-0002-4881-9846",
+        "url": "https://openalex.org/authors/A5089977377",
+        "authorApiUrl": "https://api.openalex.org/authors/A5089977377",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5089977377,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 11,
+        "works": 20,
+        "citations": 269,
+        "hIndex": 10,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "dat-pham": {
       "status": "identity_review",
@@ -355338,6 +356851,27 @@
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5001102641"
     },
+    "eric-zaslow": {
+      "status": "review_ready",
+      "author_id": "A5044249531",
+      "papers": [],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5044249531",
+        "orcid": "https://orcid.org/0000-0001-8852-261X",
+        "url": "https://openalex.org/authors/A5044249531",
+        "authorApiUrl": "https://api.openalex.org/authors/A5044249531",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5044249531,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 35,
+        "works": 85,
+        "citations": 4013,
+        "hIndex": 25,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "eva-miranda": {
       "status": "review_ready",
       "author_id": "A5006617383",
@@ -355393,25 +356927,12 @@
       "candidate_url": "https://openalex.org/A5074971723"
     },
     "federico-ardila": {
-      "status": "review_ready",
+      "status": "identity_review",
+      "reason": "本人作品表确认两种署名。代表作在 OpenAlex 分到 A5040287199（Federico Ardila）和 A5083845808（Federico Ardila-Mantilla），后一档 7 篇文章、99 次引用仅覆盖其部分作品，累计值待核。",
       "author_id": "A5083845808",
       "papers": [],
       "checkedAt": "2026-11-25",
-      "snapshot": {
-        "source": "OpenAlex",
-        "authorId": "A5083845808",
-        "orcid": "https://orcid.org/0000-0002-6744-1826",
-        "url": "https://openalex.org/authors/A5083845808",
-        "authorApiUrl": "https://api.openalex.org/authors/A5083845808",
-        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5083845808,type:article&per_page=1&select=id",
-        "checkedAt": "2026-11-25",
-        "articles": 7,
-        "works": 15,
-        "citations": 99,
-        "hIndex": 7,
-        "articleScope": "OpenAlex type:article",
-        "citationScope": "OpenAlex 作者档案累计引用"
-      }
+      "candidate_url": "https://openalex.org/authors/A5040287199"
     },
     "felipe-rincon": {
       "status": "review_ready",
@@ -355802,8 +357323,8 @@
     },
     "hubert-bray": {
       "status": "identity_review",
-      "reason": "Duke 校级成果库确认两篇代表作，两篇 DOI 在 OpenAlex 对应不同作者档案，论文总数及累计引用暂缺。",
-      "checkedAt": "2026-11-24"
+      "reason": "论文作者姓名没有唯一匹配。",
+      "checkedAt": "2026-11-25"
     },
     "hulya-arguz": {
       "status": "review_ready",
@@ -356289,6 +357810,38 @@
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
+    },
+    "jessica-purcell": {
+      "status": "review_ready",
+      "author_id": "A5079308734",
+      "papers": [
+        {
+          "title": "Geometry of alternating links on surfaces",
+          "year": 2020,
+          "url": "https://doi.org/10.1090/tran/7929"
+        },
+        {
+          "title": "State graphs and fibered state surfaces",
+          "year": 2020,
+          "url": "https://doi.org/10.2140/agt.2020.20.987"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5079308734",
+        "orcid": "https://orcid.org/0000-0002-0618-2840",
+        "url": "https://openalex.org/authors/A5079308734",
+        "authorApiUrl": "https://api.openalex.org/authors/A5079308734",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5079308734,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 67,
+        "works": 112,
+        "citations": 1310,
+        "hIndex": 20,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "jha-somnath": {
       "status": "source_error",
@@ -357046,6 +358599,11 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
     },
+    "lorenzo-foscolo": {
+      "status": "source_error",
+      "reason": "OpenAlex HTTP 404",
+      "checkedAt": "2026-11-25"
+    },
     "lotte-hollands": {
       "status": "review_ready",
       "author_id": "A5000268420",
@@ -357149,6 +358707,33 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
     },
+    "marco-maculan": {
+      "status": "review_ready",
+      "author_id": "A5068271527",
+      "papers": [
+        {
+          "title": "Rigid analytic Stein algebraic groups are affine",
+          "year": 2020,
+          "url": "https://doi.org/10.48550/arXiv.2007.04659"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5068271527",
+        "orcid": "https://orcid.org/0009-0003-7066-2456",
+        "url": "https://openalex.org/authors/A5068271527",
+        "authorApiUrl": "https://api.openalex.org/authors/A5068271527",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5068271527,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 11,
+        "works": 19,
+        "citations": 90,
+        "hIndex": 6,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "marco-radeschi": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
@@ -357220,9 +358805,31 @@
       "candidate_url": "https://openalex.org/A5062332468"
     },
     "mario-kummer": {
-      "status": "identity_review",
-      "reason": "两篇可归属的期刊 DOI 在 OpenAlex 指向不同作者档案，累计论文数和引用量待核。",
-      "checkedAt": "2026-11-24"
+      "status": "review_ready",
+      "author_id": "A5047589315",
+      "papers": [
+        {
+          "title": "Spectrahedral shadows and completely positive maps on real closed fields",
+          "year": 2024,
+          "url": "https://doi.org/10.4171/JEMS/1509"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5047589315",
+        "orcid": "https://orcid.org/0000-0001-6378-4808",
+        "url": "https://openalex.org/authors/A5047589315",
+        "authorApiUrl": "https://api.openalex.org/authors/A5047589315",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5047589315,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 42,
+        "works": 62,
+        "citations": 472,
+        "hIndex": 13,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "mark-andrea-de-cataldo": {
       "status": "review_ready",
@@ -357378,6 +358985,33 @@
       "status": "source_error",
       "reason": "OpenAlex 请求或返回数据失败。",
       "checkedAt": "2026-11-23"
+    },
+    "martin-orr": {
+      "status": "review_ready",
+      "author_id": "A5004407401",
+      "papers": [
+        {
+          "title": "Invariant Brauer group of an abelian variety",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s11856-022-2323-5"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5004407401",
+        "orcid": "https://orcid.org/0000-0002-3214-7491",
+        "url": "https://openalex.org/authors/A5004407401",
+        "authorApiUrl": "https://api.openalex.org/authors/A5004407401",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5004407401,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 14,
+        "works": 22,
+        "citations": 290,
+        "hIndex": 10,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "martin-sombra": {
       "status": "review_ready",
@@ -357610,6 +359244,33 @@
       "status": "source_error",
       "reason": "OpenAlex 请求或返回数据失败。",
       "checkedAt": "2026-11-23"
+    },
+    "mikhail-karpukhin": {
+      "status": "review_ready",
+      "author_id": "A5025613783",
+      "papers": [
+        {
+          "title": "Existence of harmonic maps and eigenvalue optimization in higher dimensions",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/s00222-024-01247-3"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5025613783",
+        "orcid": null,
+        "url": "https://openalex.org/authors/A5025613783",
+        "authorApiUrl": "https://api.openalex.org/authors/A5025613783",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5025613783,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 26,
+        "works": 38,
+        "citations": 881,
+        "hIndex": 19,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "mikhail-v-bondarko": {
       "status": "identity_review",
@@ -358687,10 +360348,16 @@
     },
     "peter-beelen": {
       "status": "identity_review",
-      "reason": "已用公开身份信息交叉核对 OpenAlex。高引样本混入血氧与外周灌注研究，与校方数学研究档案不一致。累计数暂不收录。",
+      "reason": "两校及编码理论论文吻合，但 OpenAlex 高引样本含另一位同名作者的生物医学论文。累计值待核。",
       "author_id": "A5017069208",
-      "papers": [],
-      "checkedAt": "2026-11-24",
+      "papers": [
+        {
+          "title": "A proof of Sørensen’s conjecture on Hermitian surfaces",
+          "year": 2021,
+          "url": "https://doi.org/10.1090/PROC/15331"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "candidate_url": "https://openalex.org/authors/A5017069208"
     },
     "peter-fiebig": {
@@ -358900,8 +360567,8 @@
     },
     "qirui-li": {
       "status": "identity_review",
-      "reason": "本人发表列表及 Cambridge 出版方核实两篇代表作。OpenAlex 分属不同作者档案，累计数字暂缺。",
-      "checkedAt": "2026-11-24"
+      "reason": "同一人的论文指向不同作者档案。",
+      "checkedAt": "2026-11-25"
     },
     "qizheng-yin": {
       "status": "source_error",
@@ -359184,7 +360851,8 @@
       "checkedAt": "2026-11-23"
     },
     "ruobing-zhang": {
-      "status": "review_ready",
+      "status": "identity_review",
+      "reason": "可确认 K3 与 Ricci-flat 代表作，OpenAlex 同一作者还有跨主题 PDE 高引论文。待查该论文署名原单位，先保留待核。",
       "author_id": "A5030105361",
       "papers": [
         {
@@ -359193,6 +360861,7 @@
           "url": "https://doi.org/10.4310/ACTA.2024.v232.n2.a2"
         }
       ],
+      "checkedAt": "2026-11-25",
       "candidate_url": "https://openalex.org/authors/A5030105361"
     },
     "ruochuan-liu": {
@@ -359685,6 +361354,65 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
     },
+    "tim-dokchitser": {
+      "status": "review_ready",
+      "author_id": "A5004457455",
+      "papers": [
+        {
+          "title": "Tate module and bad reduction",
+          "year": 2021,
+          "url": "https://doi.org/10.1090/proc/15067"
+        },
+        {
+          "title": "Arithmetic of hyperelliptic curves over local fields",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s00208-021-02319-y"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5004457455",
+        "orcid": "https://orcid.org/0000-0001-8902-6458",
+        "url": "https://openalex.org/authors/A5004457455",
+        "authorApiUrl": "https://api.openalex.org/authors/A5004457455",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5004457455,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 30,
+        "works": 46,
+        "citations": 1098,
+        "hIndex": 19,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "tim-hoffmann": {
+      "status": "review_ready",
+      "author_id": "A5020935099",
+      "papers": [
+        {
+          "title": "A Discrete Parametrized Surface Theory in ℝ3",
+          "year": 2016,
+          "url": "https://doi.org/10.1093/IMRN/RNW015"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5020935099",
+        "orcid": "https://orcid.org/0009-0008-9998-0868",
+        "url": "https://openalex.org/authors/A5020935099",
+        "authorApiUrl": "https://api.openalex.org/authors/A5020935099",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5020935099,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 26,
+        "works": 44,
+        "citations": 948,
+        "hIndex": 18,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "to-wing-keung": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
@@ -359991,6 +361719,27 @@
       "reason": "OpenAlex 请求或返回数据失败。",
       "checkedAt": "2026-11-24"
     },
+    "vladimir-dokchitser": {
+      "status": "review_ready",
+      "author_id": "A5059612988",
+      "papers": [],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5059612988",
+        "orcid": "https://orcid.org/0000-0003-4384-4193",
+        "url": "https://openalex.org/authors/A5059612988",
+        "authorApiUrl": "https://api.openalex.org/authors/A5059612988",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5059612988,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 34,
+        "works": 51,
+        "citations": 1158,
+        "hIndex": 19,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "wakabayashi-yasuhiro": {
       "status": "source_error",
       "reason": "OpenAlex 请求或返回数据失败。",
@@ -360116,7 +361865,7 @@
     },
     "xuemiao-chen": {
       "status": "identity_review",
-      "reason": "已用公开身份信息交叉核对 OpenAlex。高引样本混入水果代谢和材料研究，仅数条与规范理论相符。累计数暂不收录。",
+      "reason": "官方数学主页与两篇几何代表作确认；OpenAlex 同页含植物代谢和合金材料论文。作者累计数待核。",
       "author_id": "A5060845131",
       "papers": [
         {
@@ -360130,7 +361879,7 @@
           "url": "https://doi.org/10.1215/00127094-2020-0014"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "candidate_url": "https://openalex.org/authors/A5060845131"
     },
     "yakov-pesin": {

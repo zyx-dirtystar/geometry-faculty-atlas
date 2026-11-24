@@ -131,7 +131,7 @@
     {
       "id": "sorbonne",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，5 条任职或方向待核。 已收录 5 位学者，个人主页 5、CV 3、指标 0。 已按 IMJ-PRG 的 TGA 成员页区分索邦大学和巴黎西岱大学的正式雇主。另用个人研究页复核部分代数几何、算术几何及 Berkovich 几何成员。其余 IMJ-PRG 分组和独立岗位待核。",
+      "coverageNote": "已解析 1/2 个登记来源，5 条任职或方向待核。 已收录 5 位学者，个人主页 5、CV 3、指标 1。 已按 IMJ-PRG 的 TGA 成员页区分索邦大学和巴黎西岱大学的正式雇主。另用个人研究页复核部分代数几何、算术几何及 Berkovich 几何成员。其余 IMJ-PRG 分组和独立岗位待核。",
       "rosterLinks": [
         [
           "IMJ-PRG TGA（联合机构，任职逐人核对）",
@@ -543,7 +543,7 @@
     {
       "id": "geneva",
       "coverage": "sample",
-      "coverageNote": "已解析 1/5 个登记来源，2 条任职或方向待核。 已收录 2 位学者，个人主页 0、CV 0、指标 0。 院系全名录的直接访问呈安全验证。已核录院系研究组可索引的代数与几何组可见成员及个别当前个人档案。",
+      "coverageNote": "已解析 1/5 个登记来源，2 条任职或方向待核。 已收录 2 位学者，个人主页 0、CV 0、指标 1。 院系全名录的直接访问呈安全验证。已核录院系研究组可索引的代数与几何组可见成员及个别当前个人档案。",
       "rosterLinks": [
         [
           "Section of Mathematics · Faculty and Researchers",
@@ -675,11 +675,15 @@
     {
       "id": "tokyo",
       "coverage": "sample",
-      "coverageNote": "已解析 2/7 个登记来源，1 条任职或方向待核。 已逐条核对 数理科学研究科 Faculty Members、Kavli IPMU · Faculty Members。 已收录 27 位学者，个人主页 8、CV 7、指标 0。 核对数理科学研究科英文名录及 Kavli IPMU，另查日文 2026 手册、现任目录、17 条特任或特别教授职务，以及数理科学连携基盘中心三个分栏。日文别名、方向和跨单位任职继续逐项对账。",
+      "coverageNote": "已解析 5/9 个登记来源，8 条任职或方向待核。 已逐条核对 数理科学研究科 Faculty Members、Kavli IPMU · Faculty Members。 已收录 29 位学者，个人主页 9、CV 7、指标 0。 核对数理科学研究科英文名录及 Kavli IPMU，另查日文 2026 手册、现任目录、17 条特任或特别教授职务，以及数理科学连携基盘中心三个分栏。日文别名、方向和跨单位任职继续逐项对账。 已转录特任与特别教授 17 条、连携中心 17 条兼任或专任记录，查到日法联合研究室与 IPMU 访问分册。区分访问计划与现任。荣休群体和各机构研究院的有名额全名单仍需逐一核对。",
       "rosterLinks": [
         [
           "数理科学研究科 Faculty Members",
           "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
+        ],
+        [
+          "CNRS 与东京大学 · 日法数学联合实验室成员",
+          "https://fj-lmi.cnrs.fr/members/"
         ],
         [
           "数理科学连携基盘中心 · 组织任职",
@@ -694,6 +698,10 @@
           "https://db.ipmu.jp/member/memberen.html"
         ],
         [
+          "Kavli IPMU · 当前公布的数学访问",
+          "https://www.ipmu.jp/en/place-and-people/visitors"
+        ],
+        [
           "数理科学研究科 · 日文教员五十音顺",
           "https://www.ms.u-tokyo.ac.jp/teacher/ichiran_gojyuon.html"
         ],
@@ -706,7 +714,7 @@
           "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "fudan",
@@ -991,7 +999,7 @@
     {
       "id": "northwestern",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，20 条任职或方向待核。 已收录 8 位学者，个人主页 7、CV 5、指标 1。",
+      "coverageNote": "已解析 1/1 个登记来源，20 条任职或方向待核。 已收录 8 位学者，个人主页 7、CV 5、指标 2。",
       "rosterLinks": [
         [
           "数学系 Core Faculty",
@@ -1331,7 +1339,7 @@
     {
       "id": "manchester",
       "coverage": "sample",
-      "coverageNote": "已解析 2/3 个登记来源，93 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 0。 已查数学系 A–Z、Analysis and Geometry 与 Number Theory 研究组和校方 Research Explorer。根据现任职级与项目证据确认算术几何学者。其余组员及兼职名单仍待核。",
+      "coverageNote": "已解析 2/3 个登记来源，93 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 1。 已查数学系 A–Z、Analysis and Geometry 与 Number Theory 研究组和校方 Research Explorer。根据现任职级与项目证据确认算术几何学者。其余组员及兼职名单仍待核。",
       "rosterLinks": [
         [
           "Academic and research staff A–Z",
@@ -1363,7 +1371,7 @@
     {
       "id": "ucl",
       "coverage": "sample",
-      "coverageNote": "已解析 2/7 个登记来源，0 条任职或方向待核。 已收录 9 位学者，个人主页 7、CV 3、指标 0。 修复学术教师名单中链接姓名被跳过的问题，核录 84 位，交叉查院系几何／拓扑、数论及 LSGNT。荣誉／荣休名册 46 张；补核几何组博士后、教学岗位和转任记录。荣誉或荣休精确职级和其他联聘仍需分人补证。",
+      "coverageNote": "已解析 3/7 个登记来源，0 条任职或方向待核。 已收录 9 位学者，个人主页 7、CV 3、指标 3。 修复学术教师名单中链接姓名被跳过的问题，核录 84 位，交叉查院系几何／拓扑、数论及 LSGNT。荣誉／荣休名册 46 张；补核几何组博士后、教学岗位和转任记录。荣誉或荣休精确职级和其他联聘仍需分人补证。 官方 Research Associates and Fellows 共 28 条已录，对照几何组专长；其中 3 张现行卡片的方向仍标 TBC。",
       "rosterLinks": [
         [
           "数学系 Academic and Lecturing Staff",
@@ -2331,7 +2339,7 @@
     {
       "id": "snu",
       "coverage": "sample",
-      "coverageNote": "已解析 5/15 个登记来源，0 条任职或方向待核。 已收录 10 位学者，个人主页 9、CV 2、指标 7。 韩文数理科学部全段核录教师及协议联聘 37 条、荣休 22 条、其他任职 23 条。博士后韩英分栏分别 44 条和 32 条，按已核别名合并。补查 QSMS、BK21、RIM 与 DASOM。两语博士后名单更新不同，交叉单位任职仍按公开证据逐项核实。",
+      "coverageNote": "已解析 8/21 个登记来源，1 条任职或方向待核。 已收录 10 位学者，个人主页 9、CV 2、指标 7。 韩文数理科学部全段核录教师及协议联聘 37 条、荣休 22 条、其他任职 23 条。博士后韩英分栏分别 44 条和 32 条，按已核别名合并。补查 QSMS、BK21、RIM 与 DASOM。两语博士后名单更新不同，交叉单位任职仍按公开证据逐项核实。 数学教育系补核 7 位现任和 7 位荣休，DASOM 具名记录 7 位。基础科学研究院公布研究教员名单，其他研究身份使用院系博士后和个人来源。数学研究所 2026 年报仅给人数小计，独立名册和 QSMS 现任分栏当前未完整公开或无法稳定读取。",
       "rosterLinks": [
         [
           "수리과학부 · 联聘、特聘、访问、合同与授课",
@@ -2342,8 +2350,20 @@
           "https://taoffice.math.snu.ac.kr/board/index.php?mid=bk21_main"
         ],
         [
-          "Dynamics and Arithmetic Structures on Manifolds · Research Group",
+          "DASOM · Dynamics and Arithmetic Structures on Manifolds",
           "https://www.math.snu.ac.kr/~lim/DASOM.html"
+        ],
+        [
+          "수학교육과 · 数学教育系荣休",
+          "https://mathed.snu.ac.kr/%EB%AA%85%EC%98%88%EA%B5%90%EC%88%98/"
+        ],
+        [
+          "수학교육과 · 数学教育系现任",
+          "https://mathed.snu.ac.kr/professor_cate/%ED%98%84%EC%A7%81%EA%B5%90%EC%88%98/"
+        ],
+        [
+          "数学教育研究中心 · 具名委员会和方向",
+          "https://eduresearch.snu.ac.kr/sub_2/2_11.php"
         ],
         [
           "수리과학부 · 荣休与退休",
@@ -2370,8 +2390,20 @@
           "https://www.math.snu.ac.kr/eng/bbs/page.php?hid=professor"
         ],
         [
+          "QSMS · 官方研究方向入口",
+          "https://qsms.math.snu.ac.kr/?mid=AboutUs"
+        ],
+        [
           "Center for Quantum Structures in Modules and Spaces · Vision and Members",
           "https://qsms.math.snu.ac.kr/AboutUs"
+        ],
+        [
+          "基础科学研究院 · 现任研究教员和研究员规模",
+          "https://ribs.snu.ac.kr/researcher/facts"
+        ],
+        [
+          "SNU LAMP · 数学研究所 2026 统计",
+          "https://snulamp.snu.ac.kr/%EC%88%98%ED%95%99%EC%97%B0%EA%B5%AC%EC%86%8C_2026/"
         ],
         [
           "Research Institute of Mathematics",
@@ -2394,12 +2426,12 @@
           "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
         ]
       ],
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "tum",
       "coverage": "sample",
-      "coverageNote": "已解析 1/6 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 2、指标 1。",
+      "coverageNote": "已解析 1/6 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 2、指标 2。",
       "rosterLinks": [
         [
           "Home - Research Group Algebra",
@@ -2595,7 +2627,7 @@
     {
       "id": "monash",
       "coverage": "sample",
-      "coverageNote": "已解析 8/17 个登记来源，1 条任职或方向待核。 已收录 8 位学者，个人主页 3、CV 2、指标 1。 已核录 Clayton 数学学院按职级分栏的 75 张卡片、兼职及联属的 13 位，并对照纯数学、拓扑、相对论组和科研门户。已打开马来西亚科学与信息技术学院官方目录和课程信息，校区跨单位人员仍需逐项复核。",
+      "coverageNote": "已解析 8/17 个登记来源，1 条任职或方向待核。 已收录 8 位学者，个人主页 3、CV 2、指标 2。 已核录 Clayton 数学学院按职级分栏的 75 张卡片、兼职及联属的 13 位，并对照纯数学、拓扑、相对论组和科研门户。已打开马来西亚科学与信息技术学院官方目录和课程信息，校区跨单位人员仍需逐项复核。",
       "rosterLinks": [
         [
           "School of Mathematics · Adjuncts, Affiliates and Emeritus",
@@ -2695,7 +2727,7 @@
     {
       "id": "qmul",
       "coverage": "verified",
-      "coverageNote": "已解析 10/26 个登记来源，0 条任职或方向待核。 已收录 14 位学者，个人主页 13、CV 9、指标 10。 核读数学学院学术 72、荣休 28、科研 12 张卡片。对照几何／分析／引力、组合／代数／数论、概率／统计、复杂系统和数学教育中心。引力波跨院网络核录 24 条非学生任职，另查跨院理论物理和计算机中心。校方旧博士后卡、中心报道和 2026 秋季活动以现任来源交叉核对。 另以数学学院 People 总页的 128 个非学生链接与分栏 112 处比较，核对新增行政、学生、旧档和重复。并查海外联合课程学科和巴黎教学名录，按本校实际学术任职归属。",
+      "coverageNote": "已解析 10/26 个登记来源，0 条任职或方向待核。 已收录 14 位学者，个人主页 13、CV 9、指标 9。 核读数学学院学术 72、荣休 28、科研 12 张卡片。对照几何／分析／引力、组合／代数／数论、概率／统计、复杂系统和数学教育中心。引力波跨院网络核录 24 条非学生任职，另查跨院理论物理和计算机中心。校方旧博士后卡、中心报道和 2026 秋季活动以现任来源交叉核对。 另以数学学院 People 总页的 128 个非学生链接与分栏 112 处比较，核对新增行政、学生、旧档和重复。并查海外联合课程学科和巴黎教学名录，按本校实际学术任职归属。",
       "rosterLinks": [
         [
           "Affiliates: Centre for Combinatorics, Algebra and Number Theory",
@@ -2967,7 +2999,7 @@
     {
       "id": "bristol",
       "coverage": "sample",
-      "coverageNote": "已解析 1/5 个登记来源，11 条任职或方向待核。 已收录 2 位学者，个人主页 1、CV 0、指标 1。 学术名册站点显示维护页。已从数学学院 Analysis and Geometry 与 Number Theory 研究页提取部分人员，并对照任职与成果门户。现任全名单及联合单位待核。",
+      "coverageNote": "已解析 1/5 个登记来源，11 条任职或方向待核。 已收录 2 位学者，个人主页 1、CV 0、指标 2。 学术名册站点显示维护页。已从数学学院 Analysis and Geometry 与 Number Theory 研究页提取部分人员，并对照任职与成果门户。现任全名单及联合单位待核。",
       "rosterLinks": [
         [
           "Academic Staff",
@@ -4559,7 +4591,7 @@
     {
       "id": "tu-dresden",
       "coverage": "sample",
-      "coverageNote": "已解析 1/4 个登记来源，49 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 1、指标 0。 已读取数学学院 A–Z 教授与几何研究所成员入口。按最新任命核实实代数几何讲席，并复核几何分析相关教授。全部研究组与外部联合单位仍待对账。",
+      "coverageNote": "已解析 1/4 个登记来源，49 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 1、指标 1。 已读取数学学院 A–Z 教授与几何研究所成员入口。按最新任命核实实代数几何讲席，并复核几何分析相关教授。全部研究组与外部联合单位仍待对账。",
       "rosterLinks": [
         [
           "Chairs and research groups — Institute of Geometry — TU Dresden",
@@ -7569,10 +7601,36 @@
       "publicationsUrl": "https://people.maths.bris.ac.uk/~matyd/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5004457455",
+          "orcid": "https://orcid.org/0000-0001-8902-6458",
+          "url": "https://openalex.org/authors/A5004457455",
+          "authorApiUrl": "https://api.openalex.org/authors/A5004457455",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5004457455,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 30,
+          "works": 46,
+          "citations": 1098,
+          "hIndex": 19,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [
+        {
+          "title": "Tate module and bad reduction",
+          "year": 2021,
+          "url": "https://doi.org/10.1090/proc/15067"
+        },
+        {
+          "title": "Arithmetic of hyperelliptic curves over local fields",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s00208-021-02319-y"
+        },
         {
           "title": "Quotients of hyperelliptic curves and étale cohomology",
           "url": "https://doi.org/10.48550/arXiv.1510.08880"
@@ -7582,6 +7640,10 @@
         {
           "text": "Arithmetic geometry of elliptic and hyperelliptic curves",
           "url": "https://www.bristol.ac.uk/people/person/Tim-Dokchitser-5d9d7ca2-3872-4c3f-aa26-faaecf50370f/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://people.maths.bris.ac.uk/~matyd/"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -9831,7 +9893,7 @@
         }
       ],
       "opportunities": [],
-      "identityNote": "已用公开身份信息交叉核对 OpenAlex。高引样本混入血氧与外周灌注研究，与校方数学研究档案不一致。累计数暂不收录。",
+      "identityNote": "两校及编码理论论文吻合，但 OpenAlex 高引样本含另一位同名作者的生物医学论文。累计值待核。",
       "metrics": [],
       "identityUrl": "https://openalex.org/authors/A5017069208",
       "papers": [
@@ -11950,9 +12012,25 @@
       "publicationsUrl": "https://discovery.ucl.ac.uk/view/people/DBERA62.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5089977377",
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5089977377",
+          "orcid": "https://orcid.org/0000-0002-4881-9846",
+          "url": "https://openalex.org/authors/A5089977377",
+          "authorApiUrl": "https://api.openalex.org/authors/A5089977377",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5089977377,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 11,
+          "works": 20,
+          "citations": 269,
+          "hIndex": 10,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
       "papers": [
         {
           "title": "Non-commutative nature of ℓ-adic vanishing cycles",
@@ -11967,6 +12045,10 @@
         {
           "text": "Algebraic geometry, arithmetic geometry and geometric Langlands",
           "url": "https://www.unige.ch/math/en/section/enseignants-et-chercheurs-2/dario-beraldo"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://profiles.ucl.ac.uk/77921-dario-beraldo"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -20541,8 +20623,24 @@
       "publicationsUrl": "https://research.manchester.ac.uk/en/persons/martin.orr/publications/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5004407401",
+          "orcid": "https://orcid.org/0000-0002-3214-7491",
+          "url": "https://openalex.org/authors/A5004407401",
+          "authorApiUrl": "https://api.openalex.org/authors/A5004407401",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5004407401,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 14,
+          "works": 22,
+          "citations": 290,
+          "hIndex": 10,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [
         {
@@ -20556,6 +20654,10 @@
         {
           "text": "Arithmetic geometry and Diophantine geometry of abelian and Shimura varieties",
           "url": "https://www.maths.manchester.ac.uk/research/expertise/number-theory/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://research.manchester.ac.uk/en/persons/martin.orr"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -22182,10 +22284,37 @@
       "publicationsUrl": "https://users.monash.edu/~jpurcell/publications.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5079308734",
+          "orcid": "https://orcid.org/0000-0002-0618-2840",
+          "url": "https://openalex.org/authors/A5079308734",
+          "authorApiUrl": "https://api.openalex.org/authors/A5079308734",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5079308734,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 67,
+          "works": 112,
+          "citations": 1310,
+          "hIndex": 20,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Geometry of alternating links on surfaces",
+          "year": 2020,
+          "url": "https://doi.org/10.1090/tran/7929"
+        },
+        {
+          "title": "State graphs and fibered state surfaces",
+          "year": 2020,
+          "url": "https://doi.org/10.2140/agt.2020.20.987"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Geometry of hyperbolic 3-manifolds and knot theory",
@@ -22194,6 +22323,10 @@
         {
           "text": "Hyperbolic geometry, knot theory, low-dimensional topology and geometric structures on 3-manifolds",
           "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/staff/jessica-purcell"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -23248,8 +23381,24 @@
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5044249531",
+          "orcid": "https://orcid.org/0000-0001-8852-261X",
+          "url": "https://openalex.org/authors/A5044249531",
+          "authorApiUrl": "https://api.openalex.org/authors/A5044249531",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5044249531,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 35,
+          "works": 85,
+          "citations": 4013,
+          "hIndex": 25,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
@@ -23260,6 +23409,10 @@
         {
           "text": "Algebraic geometry, symplectic geometry, geometric mirror symmetry, sheaf theory and cluster varieties",
           "url": "https://www.math.northwestern.edu/people/faculty/eric-zaslow.html"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://orcid.org/0000-0001-8852-261X"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -30698,25 +30851,9 @@
       "publicationsUrl": "https://fardila.com/writing.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
-      "metrics": [
-        {
-          "source": "OpenAlex",
-          "authorId": "A5083845808",
-          "orcid": "https://orcid.org/0000-0002-6744-1826",
-          "url": "https://openalex.org/authors/A5083845808",
-          "authorApiUrl": "https://api.openalex.org/authors/A5083845808",
-          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5083845808,type:article&per_page=1&select=id",
-          "checkedAt": "2026-11-25",
-          "articles": 7,
-          "works": 15,
-          "citations": 99,
-          "hIndex": 7,
-          "articleScope": "OpenAlex type:article",
-          "citationScope": "OpenAlex 作者档案累计引用"
-        }
-      ],
-      "identityUrl": null,
+      "identityNote": "本人作品表确认两种署名。代表作在 OpenAlex 分到 A5040287199（Federico Ardila）和 A5083845808（Federico Ardila-Mantilla），后一档 7 篇文章、99 次引用仅覆盖其部分作品，累计值待核。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5040287199",
       "papers": [
         {
           "title": "Lagrangian geometry of matroids",
@@ -32049,7 +32186,7 @@
       "publicationsUrl": "https://profiles.ucl.ac.uk/72813-lorenzo-foscolo/publications",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "OpenAlex HTTP 404",
       "metrics": [],
       "identityUrl": null,
       "papers": [
@@ -33327,7 +33464,7 @@
           "title": "Associate Professor",
           "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -33358,7 +33495,7 @@
           "url": "https://www.math.snu.ac.kr/~dohyeongkim/background.html"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -34125,10 +34262,31 @@
       "publicationsUrl": "https://webusers.imj-prg.fr/~marco.maculan/?p=research",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5068271527",
+          "orcid": "https://orcid.org/0009-0003-7066-2456",
+          "url": "https://openalex.org/authors/A5068271527",
+          "authorApiUrl": "https://api.openalex.org/authors/A5068271527",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5068271527,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 11,
+          "works": 19,
+          "citations": 90,
+          "hIndex": 6,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [
+        {
+          "title": "Rigid analytic Stein algebraic groups are affine",
+          "year": 2020,
+          "url": "https://doi.org/10.48550/arXiv.2007.04659"
+        },
         {
           "title": "Rigid analytic Stein algebraic groups are affine",
           "year": 2020,
@@ -34145,6 +34303,10 @@
         {
           "text": "Arithmetic geometry, algebraic geometry and rigid analytic geometry",
           "url": "https://webusers.imj-prg.fr/~marco.maculan/?p=research"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.imj-prg.fr/tga/membres/"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -34615,7 +34777,7 @@
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "DOI 中的数学家和同名医学作者被归入同一 OpenAlex 档案。前五篇高引文献属于医学或生物学，累计指标暂留待核。",
+      "identityNote": "数学代表作能匹配。OpenAlex 同一个档案混入肿瘤和药理学论文，累计引用不可归到 Stony Brook 数学学者。",
       "metrics": [],
       "identityUrl": "https://openalex.org/authors/A5010136394",
       "papers": [
@@ -36976,7 +37138,7 @@
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/shiho_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -36984,6 +37146,7 @@
       ],
       "tags": [
         "Arithmetic Geometry",
+        "数論幾何学",
         "Study of p-adic objects in arithmetic geometry"
       ],
       "homepage": null,
@@ -37004,11 +37167,15 @@
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
         },
         {
+          "text": "数論幾何学",
+          "url": "https://www.ms.u-tokyo.ac.jp/icms/members.html"
+        },
+        {
           "text": "Study of p-adic objects in arithmetic geometry",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/shiho_e.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -37521,6 +37688,45 @@
       "recordStatus": "directory"
     },
     {
+      "id": "shihoko-ishii",
+      "name": "Shihoko Ishii",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "tokyo",
+          "department": "数学系",
+          "title": "Project Professor · Emeritus Professor",
+          "url": "https://www.u-tokyo.ac.jp/focus/en/people/k0001_04557.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.ms.u-tokyo.ac.jp/~shihoko/index.en.html",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/~shihoko/Publications.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, birational singularities, arc spaces, jet schemes and multiplier ideals",
+          "url": "https://www.ms.u-tokyo.ac.jp/~shihoko/index.en.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "shouhei-honda",
       "name": "Shouhei Honda",
       "aliases": [],
@@ -37667,14 +37873,15 @@
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [
-        "Number Theory, Arithmetic Geometry"
+        "Number Theory, Arithmetic Geometry",
+        "数論幾何学"
       ],
       "homepage": null,
       "homepageStatus": null,
@@ -37692,9 +37899,13 @@
         {
           "text": "Number Theory, Arithmetic Geometry",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
+        },
+        {
+          "text": "数論幾何学",
+          "url": "https://www.ms.u-tokyo.ac.jp/icms/members.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -37879,6 +38090,45 @@
       "recordStatus": "directory"
     },
     {
+      "id": "toshiyuki-katsura",
+      "name": "Toshiyuki Katsura",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "tokyo",
+          "department": "数学系",
+          "title": "Project Professor",
+          "url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, algebraic surfaces in positive characteristic, K3 and Calabi–Yau varieties",
+          "url": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200901082666960313"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "yoshikazu-giga",
       "name": "Yoshikazu Giga",
       "aliases": [],
@@ -37895,7 +38145,9 @@
       "fields": [
         "differential"
       ],
-      "tags": [],
+      "tags": [
+        "非線形解析"
+      ],
       "homepage": "https://www.ms.u-tokyo.ac.jp/~ygiga/introduction.html",
       "homepageStatus": null,
       "cvUrl": null,
@@ -37909,6 +38161,10 @@
       "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
+        {
+          "text": "非線形解析",
+          "url": "https://www.ms.u-tokyo.ac.jp/icms/members.html"
+        },
         {
           "text": "Differential geometry, curvature flows and nonlinear geometric PDE",
           "url": "https://www.u-tokyo.ac.jp/focus/en/people/people000367.html"
@@ -39832,9 +40088,25 @@
       "publicationsUrl": "https://tu-dresden.de/mn/math/geometrie/kummer/startseite/?set_language=en",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "两篇可归属的期刊 DOI 在 OpenAlex 指向不同作者档案，累计论文数和引用量待核。",
-      "metrics": [],
-      "identityUrl": null,
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5047589315",
+          "orcid": "https://orcid.org/0000-0001-6378-4808",
+          "url": "https://openalex.org/authors/A5047589315",
+          "authorApiUrl": "https://api.openalex.org/authors/A5047589315",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5047589315,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 42,
+          "works": 62,
+          "citations": 472,
+          "hIndex": 13,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5047589315",
       "papers": [
         {
           "title": "Spectrahedral shadows and completely positive maps on real closed fields",
@@ -39847,6 +40119,10 @@
         {
           "text": "Real algebraic geometry, hyperbolic polynomials and real algebraic curves",
           "url": "https://tu-dresden.de/mn/math/die-fakultaet/news/berufung-von-prof-mario-kummer"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://tu-dresden.de/mn/math/geometrie/kummer/die-professur/inhaber-in"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -40058,8 +40334,24 @@
         }
       ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5020935099",
+          "orcid": "https://orcid.org/0009-0008-9998-0868",
+          "url": "https://openalex.org/authors/A5020935099",
+          "authorApiUrl": "https://api.openalex.org/authors/A5020935099",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5020935099,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 26,
+          "works": 44,
+          "citations": 948,
+          "hIndex": 18,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [
         {
@@ -40077,6 +40369,10 @@
         {
           "text": "Discrete differential geometry of curves and surfaces",
           "url": "https://www.professoren.tum.de/hoffmann-tim-nikolai"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.cit.tum.de/en/math/people/professors/hoffmann-tim/"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -41567,8 +41863,24 @@
       "publicationsUrl": "https://profiles.ucl.ac.uk/56995-costante-bellettini/publications",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5068558625",
+          "orcid": "https://orcid.org/0000-0002-2200-4876",
+          "url": "https://openalex.org/authors/A5068558625",
+          "authorApiUrl": "https://api.openalex.org/authors/A5068558625",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5068558625,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 18,
+          "works": 27,
+          "citations": 325,
+          "hIndex": 12,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [
         {
@@ -41583,6 +41895,10 @@
         },
         {
           "text": "Differential geometry, geometric analysis, geometric measure theory, calculus of variations and calibrated geometry",
+          "url": "https://profiles.ucl.ac.uk/56995-costante-bellettini"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://profiles.ucl.ac.uk/56995-costante-bellettini"
         }
       ],
@@ -41753,8 +42069,24 @@
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5025613783",
+          "orcid": null,
+          "url": "https://openalex.org/authors/A5025613783",
+          "authorApiUrl": "https://api.openalex.org/authors/A5025613783",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5025613783,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 26,
+          "works": 38,
+          "citations": 881,
+          "hIndex": 19,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [
         {
@@ -41770,6 +42102,10 @@
         {
           "text": "Differential geometry, geometric analysis, harmonic maps, minimal surfaces and eigenvalue optimization",
           "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://profiles.ucl.ac.uk/91365-mikhail-karpukhin"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -41847,8 +42183,24 @@
       "publicationsUrl": "https://profiles.ucl.ac.uk/74794-vladimir-dokchitser/publications",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5059612988",
+          "orcid": "https://orcid.org/0000-0003-4384-4193",
+          "url": "https://openalex.org/authors/A5059612988",
+          "authorApiUrl": "https://api.openalex.org/authors/A5059612988",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5059612988,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 34,
+          "works": 51,
+          "citations": 1158,
+          "hIndex": 19,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [
         {
@@ -41863,6 +42215,10 @@
         },
         {
           "text": "Arithmetic algebraic geometry, elliptic and hyperelliptic curves, Galois representations and L-functions",
+          "url": "https://profiles.ucl.ac.uk/74794-vladimir-dokchitser"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://profiles.ucl.ac.uk/74794-vladimir-dokchitser"
         }
       ],
@@ -42450,7 +42806,7 @@
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已定位几何作者档案，尚需逐篇核实高引列表中的早期跨方向论文，累计指标待核。",
+      "identityNote": "可确认 K3 与 Ricci-flat 代表作，OpenAlex 同一作者还有跨主题 PDE 高引论文。待查该论文署名原单位，先保留待核。",
       "metrics": [],
       "identityUrl": "https://openalex.org/authors/A5030105361",
       "papers": [
@@ -47294,7 +47650,7 @@
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已匹配镜像对称论文，但 OpenAlex 作者档案混入同名或缩写相符的物理测量论文。累计指标待核。",
+      "identityNote": "复几何代表作确认，但作者档案合并其他计量科学论文。累计论文数与引用均待核。",
       "metrics": [],
       "identityUrl": "https://openalex.org/authors/A5057850936",
       "papers": [
@@ -49751,7 +50107,7 @@
       "publicationsUrl": "https://www.math.uwaterloo.ca/~x67chen/#papers",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已用公开身份信息交叉核对 OpenAlex。高引样本混入水果代谢和材料研究，仅数条与规范理论相符。累计数暂不收录。",
+      "identityNote": "官方数学主页与两篇几何代表作确认；OpenAlex 同页含植物代谢和合金材料论文。作者累计数待核。",
       "metrics": [],
       "identityUrl": "https://openalex.org/authors/A5060845131",
       "papers": [
