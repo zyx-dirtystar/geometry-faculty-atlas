@@ -1495,8 +1495,44 @@
     {
       "id": "manchester",
       "coverage": "sample",
-      "coverageNote": "已解析 2/6 个登记来源，93 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 1。 已查数学系 A–Z、Analysis and Geometry 与 Number Theory 研究组和校方 Research Explorer。根据现任职级与项目证据确认算术几何学者。其余组员及兼职名单仍待核。",
+      "coverageNote": "已解析 10/15 个登记来源，114 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 0、指标 2。 数学系官方按职务分列 143 条当前学术岗位、16 条荣休、8 条访问。读取 Analysis and Geometry、Algebra、Logic、Number Theory、Dynamical Systems 官方主题及校级研究门户。每位主聘与专题组实际研究范围仍需核。 五个具名组名册分别为 Analysis and Geometry 5, Algebra 30, Logic 13, Number Theory 12, Dynamical Systems 12。",
       "rosterLinks": [
+        [
+          "Mathematics · Analysis and Geometry",
+          "https://www.maths.manchester.ac.uk/research/expertise/analysis-and-geometry/"
+        ],
+        [
+          "Mathematics · Algebra",
+          "https://www.maths.manchester.ac.uk/research/expertise/algebra/"
+        ],
+        [
+          "Mathematics · Dynamical Systems",
+          "https://www.maths.manchester.ac.uk/research/expertise/dynamical-systems/"
+        ],
+        [
+          "Mathematics · Logic",
+          "https://www.maths.manchester.ac.uk/research/expertise/logic/"
+        ],
+        [
+          "Mathematics · Number Theory",
+          "https://www.maths.manchester.ac.uk/research/expertise/number-theory/"
+        ],
+        [
+          "Research Explorer · Department of Mathematics",
+          "https://research.manchester.ac.uk/en/organisations/department-of-mathematics/"
+        ],
+        [
+          "Mathematics · Emeritus staff",
+          "https://www.maths.manchester.ac.uk/about/people/academic-and-research-staff/"
+        ],
+        [
+          "Mathematics · Academic staff",
+          "https://www.maths.manchester.ac.uk/about/people/academic-and-research-staff/"
+        ],
+        [
+          "Mathematics · Visiting staff",
+          "https://www.maths.manchester.ac.uk/about/people/academic-and-research-staff/"
+        ],
         [
           "Mathematics · Algebra Logic And Number Theory",
           "https://www.maths.manchester.ac.uk/research/themes/algebra-logic-and-number-theory/"
@@ -1522,7 +1558,7 @@
           "https://www.maths.manchester.ac.uk/about/people/academic-and-research-staff/"
         ]
       ],
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "grenoble",
@@ -1719,7 +1755,7 @@
     {
       "id": "muenster",
       "coverage": "sample",
-      "coverageNote": "已解析 3/5 个登记来源，119 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 1、指标 2。  重新读取 Mathematics Münster 全成员专长表，与 CRC 几何及数学研究所的任职资料交叉。",
+      "coverageNote": "已解析 4/6 个登记来源，119 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 1、指标 2。  重新读取 Mathematics Münster 全成员专长表，与 CRC 几何及数学研究所的任职资料交叉。 对照微分几何工作组名册的 22 条具名职务，注意德文博士、讲师头衔与教授职级的区别。",
       "rosterLinks": [
         [
           "Mathematical Institute · AG Differentialgeometrie",
@@ -1728,6 +1764,10 @@
         [
           "Mathematics Münster · all members and research fields",
           "https://www.uni-muenster.de/MathematicsMuenster/people/mitglieder.shtml"
+        ],
+        [
+          "Mathematisches Institut · AG Differentialgeometrie",
+          "https://www.uni-muenster.de/Diffgeo/arbeitsgruppe.html"
         ],
         [
           "Members of Mathematics Münster",
@@ -4691,14 +4731,34 @@
     {
       "id": "charles",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，105 条任职或方向待核。 已收录 5 位学者，个人主页 0、CV 0、指标 4。",
+      "coverageNote": "已解析 2/6 个登记来源，94 条任职或方向待核。 已收录 6 位学者，个人主页 6、CV 0、指标 5。 捷克语数学分部 188 张具名现任卡片，核对 6 个院系代码及角色。已比对分析与几何分部、数学研究所英文资料、代数与几何 UNCE 机构项目。需继续逐人核方向，并甄别人员的院内／外联合关系。",
       "rosterLinks": [
         [
           "数学系或所属学院人员入口",
           "https://www.mff.cuni.cz/en/math/departments/people"
+        ],
+        [
+          "Mathematical Institute · People and named specialization",
+          "https://www.mff.cuni.cz/en/math/muuk/people"
+        ],
+        [
+          "Research Centre · Intersections of Algebra, Geometry and Informatics",
+          "https://www.mff.cuni.cz/en/math/ka/research/unce-project"
+        ],
+        [
+          "Mathematical Institute · Division of Analysis and Geometry",
+          "https://www.mff.cuni.cz/en/faculty/organizational-structure/department/department?code=3060"
+        ],
+        [
+          "Matematická sekce · Lidé (6 departments)",
+          "https://www.mff.cuni.cz/cs/math/pracoviste/lide"
+        ],
+        [
+          "Matematická sekce · six institutional units",
+          "https://www.mff.cuni.cz/cs/math/pracoviste/katedry"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "durham",
@@ -5023,7 +5083,7 @@
     {
       "id": "ohio-state",
       "coverage": "sample",
-      "coverageNote": "已解析 18/20 个登记来源，13 条任职或方向待核。 已收录 16 位学者，个人主页 14、CV 2、指标 0。 读取官网 9 个任职分栏，共 398 张卡片，包括 1 位 Chair、80 位 Faculty、31 科研／访问、7 联属、57 荣休、34 讲师、25 职员、145 研究生、18 学生助理。另读取涉及三个方向的 7 个学术分组筛选，组内研究专长及各校区继续逐项核。 同名逐项对读官网研究总表，确认 78 位具名专长和任职配对；特别补查 Mansfield 代数几何学者。",
+      "coverageNote": "已解析 23/25 个登记来源，13 条任职或方向待核。 已收录 16 位学者，个人主页 14、CV 2、指标 0。 读取官网 9 个任职分栏，共 398 张卡片，包括 1 位 Chair、80 位 Faculty、31 科研／访问、7 联属、57 荣休、34 讲师、25 职员、145 研究生、18 学生助理。另读取涉及三个方向的 7 个学术分组筛选，组内研究专长及各校区继续逐项核。 同名逐项对读官网研究总表，确认 78 位具名专长和任职配对；特别补查 Mansfield 代数几何学者。 已逐条比对 5 个官方校区筛选 Columbus 357, Lima 3, Mansfield 5, Marion 12, Newark 8。校区标签有多选，未标校区的人员沿用总目录。",
       "rosterLinks": [
         [
           "RTG Arithmetic, Combinatorics and Topology of Algebraic Varieties",
@@ -5036,6 +5096,26 @@
         [
           "数学系或所属学院人员入口",
           "https://math.osu.edu/people"
+        ],
+        [
+          "Mathematics · Columbus campus filter",
+          "https://math.osu.edu/people?field_other_target_id%5B17%5D=17"
+        ],
+        [
+          "Mathematics · Lima campus filter",
+          "https://math.osu.edu/people?field_other_target_id%5B18%5D=18"
+        ],
+        [
+          "Mathematics · Mansfield campus filter",
+          "https://math.osu.edu/people?field_other_target_id%5B19%5D=19"
+        ],
+        [
+          "Mathematics · Marion campus filter",
+          "https://math.osu.edu/people?field_other_target_id%5B20%5D=20"
+        ],
+        [
+          "Mathematics · Newark campus filter",
+          "https://math.osu.edu/people?field_other_target_id%5B21%5D=21"
         ],
         [
           "Mathematics · named research statements verified against People",
@@ -5371,8 +5451,64 @@
     {
       "id": "glasgow",
       "coverage": "sample",
-      "coverageNote": "已解析 1/5 个登记来源，97 条任职或方向待核。 已收录 4 位学者，个人主页 4、CV 0、指标 3。 已提取数学与统计学院 Research and Teaching 及 Honorary and Visiting 两个分组，并复核代数几何组和部分个人成果页。合聘、组内身份细分及其余研究方向待核。",
+      "coverageNote": "已解析 15/20 个登记来源，155 条任职或方向待核。 已收录 7 位学者，个人主页 7、CV 2、指标 5。 官方数学与统计学院按职务分五栏，共 328 项（学术研究教学 121、助教 84、行政支持 17、联属 16、荣誉和访问 90）。读取数学九个专题组的内嵌名册及 Core Structures 具名研究描述，重复任职与个人方向仍需核实。",
       "rosterLinks": [
+        [
+          "Mathematics · Algebra · Staff",
+          "https://www.gla.ac.uk/schools/mathematicsstatistics/research/maths/algebra/"
+        ],
+        [
+          "Mathematics · Algebraic Geometry · Staff",
+          "https://www.gla.ac.uk/schools/mathematicsstatistics/research/maths/algebraicgeometry/"
+        ],
+        [
+          "Mathematics · Analysis · Staff",
+          "https://www.gla.ac.uk/schools/mathematicsstatistics/research/maths/analysis/"
+        ],
+        [
+          "Mathematics · Geophysical and Astrophysical Fluid Dynamics · Staff",
+          "https://www.gla.ac.uk/schools/mathematicsstatistics/research/maths/gafluids/"
+        ],
+        [
+          "Mathematics · Integrable Systems and Mathematical Physics · Staff",
+          "https://www.gla.ac.uk/schools/mathematicsstatistics/research/maths/ismp/"
+        ],
+        [
+          "Mathematics · Mathematical Biology · Staff",
+          "https://www.gla.ac.uk/schools/mathematicsstatistics/research/maths/mathbio/"
+        ],
+        [
+          "Mathematics · Continuum Mechanics · Staff",
+          "https://www.gla.ac.uk/schools/mathematicsstatistics/research/maths/mechanics/"
+        ],
+        [
+          "Mathematics · Number Theory · Staff",
+          "https://www.gla.ac.uk/schools/mathematicsstatistics/research/maths/numbertheory/"
+        ],
+        [
+          "School of Mathematics & Statistics · Affiliate",
+          "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/"
+        ],
+        [
+          "School of Mathematics & Statistics · Honorary & Visiting",
+          "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/"
+        ],
+        [
+          "School of Mathematics & Statistics · Research & Teaching",
+          "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/"
+        ],
+        [
+          "School of Mathematics & Statistics · Professional, Administrative & Support",
+          "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/"
+        ],
+        [
+          "School of Mathematics & Statistics · Tutors & Demonstrators",
+          "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/"
+        ],
+        [
+          "Core Structures · People and personal research descriptions",
+          "https://core.maths.gla.ac.uk/People"
+        ],
         [
           "Core Structures · Geometry, Algebra, Analysis and Number Theory",
           "https://core.maths.gla.ac.uk/Welcome"
@@ -5390,11 +5526,15 @@
           "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/"
         ],
         [
+          "Mathematics · Geometry and Topology · Staff",
+          "https://www.gla.ac.uk/schools/mathematicsstatistics/research/maths/geometryandtopology/"
+        ],
+        [
           "Geometry and Topology group",
           "https://www.gla.ac.uk/schools/mathematicsstatistics/research/maths/geometryandtopology/"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "uic",
@@ -9787,17 +9927,17 @@
         {
           "schoolId": "charles",
           "department": "数学系",
-          "title": "Associate professor",
-          "url": "https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=3945",
+          "title": "Associate Professor · Docent",
+          "url": "https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=3945",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [],
-      "homepage": null,
+      "homepage": "http://www.karlin.mff.cuni.cz/~stovicek",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
@@ -9827,6 +9967,10 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Teorie reprezentací asociativních algeber, homologická algebra, souvislosti s homotopickou teorií a algebraickou geometrií.",
+          "url": "https://www.mff.cuni.cz/cs/math/pracoviste/lide"
+        },
+        {
           "text": "Representation theory of associative algebras, homological algebra, connections to homotopy theory and algebraic geometry.",
           "url": "https://www.mff.cuni.cz/en/math/departments/people"
         },
@@ -9835,7 +9979,7 @@
           "url": "https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=3945"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -9846,17 +9990,17 @@
         {
           "schoolId": "charles",
           "department": "数学系",
-          "title": "Associate professor",
-          "url": "https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=1236",
+          "title": "Associate Professor · Docent",
+          "url": "https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=1236",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [],
-      "homepage": null,
+      "homepage": "http://www.karlin.mff.cuni.cz/~somberg",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
@@ -9886,6 +10030,10 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Diferenciální a algebraická geometrie, Lieovy grupy a algebry (klasické, afinní, super) a jejich representační teorie, Homogenní prostory (vlajkové variety, (lokální) symetrické prostory, reduktivní prostory), Homogenní vektorové bundly a jejich ekvivariantní homomorfismy, Konečné reflexní grupy a jejich geometrie, Homotopie a (ko)homologické teorie (ekvivariantní spektra), Kvantové grupy a nekomutativní geometrie (kvantové homogenní prostory.)",
+          "url": "https://www.mff.cuni.cz/cs/math/pracoviste/lide"
+        },
+        {
           "text": "Differential and algebraic geometry, Lie groups and algebras (classical, affine, super) and their representation theory, Homogeneous spaces (flag manifolds, (locally) symmetric spaces, reductive spaces), Homogeneous vector bundles and their equivariant homomorphisms, Finite reflection groups and their geometry, Homotopy and (co)homology theories (equivariant spectra), Quantum groups and non-commutative geometry (quantum homogeneous spaces.)",
           "url": "https://www.mff.cuni.cz/en/math/departments/people"
         },
@@ -9894,7 +10042,83 @@
           "url": "https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=1236"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "roman-holovko",
+      "name": "Roman Holovko",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "charles",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=11462",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/site/ragolovko/home",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查本人 About 页、个人发表页、机构履历简介、任职审议记录和 ORCID，未见公开 CV。",
+      "publicationsUrl": "https://sites.google.com/site/ragolovko/publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5085157132",
+          "orcid": "https://orcid.org/0000-0002-7723-4871",
+          "url": "https://openalex.org/authors/A5085157132",
+          "authorApiUrl": "https://api.openalex.org/authors/A5085157132",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5085157132,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 20,
+          "works": 30,
+          "citations": 368,
+          "hIndex": 11,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Lagrangian concordance is not a partial order in high dimensions",
+          "url": "https://doi.org/10.2140/pjm.2025.334.183"
+        },
+        {
+          "title": "A note on Lagrangian cobordisms between Legendrian submanifolds of ℝ²ⁿ⁺¹",
+          "url": "https://doi.org/10.2140/pjm.2013.261.101"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Symplektická a kontaktní topologie, nízkodimenzionální topologie, dynamické systémy.",
+          "url": "https://www.mff.cuni.cz/cs/math/pracoviste/lide"
+        },
+        {
+          "text": "Symplectic and contact topology, low-dimensional topology, dynamical systems.",
+          "url": "https://www.mff.cuni.cz/en/math/departments/people"
+        },
+        {
+          "text": "Differential geometry of symplectic and contact manifolds, symplectic and contact topology",
+          "url": "https://www.mff.cuni.cz/en/math/muuk/people"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://sites.google.com/site/ragolovko/home"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -9905,17 +10129,17 @@
         {
           "schoolId": "charles",
           "department": "数学系",
-          "title": "Assistant professor",
-          "url": "https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=13344",
+          "title": "Assistant Professor · Odborný asistent",
+          "url": "https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=13344",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "complex"
       ],
       "tags": [],
-      "homepage": null,
+      "homepage": "https://reamonnobuachalla.wordpress.com/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
@@ -9929,11 +10153,15 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Můj výzkum se týká nekomutativní geometrie kvantových grup a jejich kvantových homogenních prostorů, zejména kvantové vlajkové variety. Pro svoji práci používám směs Hopfových algeber, monoidních kategorií, Lieovy teorie, komplexní a Kählerovy geometrie, C* -algeber a neomezené teorie operátorů.",
+          "url": "https://www.mff.cuni.cz/cs/math/pracoviste/lide"
+        },
+        {
           "text": "My research focuses on the noncommutative geometry of quantum groups and their quantum homogeneous spaces, and in particular quantum flag manifolds. The approach used involves a mixture of Hopf algebras, monoidal categories, Lie theory, complex and Kähler geometry, C*-algebras, and unbounded operator theory.",
           "url": "https://www.mff.cuni.cz/en/math/departments/people"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -9944,10 +10172,10 @@
         {
           "schoolId": "charles",
           "department": "数学系",
-          "title": "Associate professor",
-          "url": "https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=1511",
+          "title": "Associate Professor · Docent",
+          "url": "https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=1511",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -9955,9 +10183,10 @@
         "differential"
       ],
       "tags": [
+        "Teorie symplektických Diracových operátorů",
         "Theory of sympletic Dirac operators"
       ],
-      "homepage": null,
+      "homepage": "http://www.karlin.mff.cuni.cz/~krysl",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
@@ -9987,6 +10216,10 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Teorie symplektických Diracových operátorů. Hodgove teorie pro eliptické komplexy na hilbertovských fíbracích nad kompaktními varietami. Aplikace teorie reprezentací Lieových grup v diferenciální geometrii.",
+          "url": "https://www.mff.cuni.cz/cs/math/pracoviste/lide"
+        },
+        {
           "text": "Theory of sympletic Dirac operators. Hodge theory for elliptic complexes on Hilbert fibre bundles over compact manifolds. Application of Lie groups representation theory in differential geometry.",
           "url": "https://www.mff.cuni.cz/en/math/departments/people"
         },
@@ -9995,7 +10228,7 @@
           "url": "https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=1511"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -10006,17 +10239,17 @@
         {
           "schoolId": "charles",
           "department": "数学系",
-          "title": "Associate professor",
-          "url": "https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=1649",
+          "title": "Associate Professor · Docent",
+          "url": "https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=1649",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [],
-      "homepage": null,
+      "homepage": "http://www.karlin.mff.cuni.cz/~sir/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
@@ -10046,6 +10279,10 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Výuka různých geometrických předmětů souvisejících s abstraktní a aplikovanou geometrií. Vědecky se zajímám o Geometrické modelování a související geometrické aplikace, o teoretickou diferenciální geometrii a o historii geometrie.",
+          "url": "https://www.mff.cuni.cz/cs/math/pracoviste/lide"
+        },
+        {
           "text": "I teach various geometrical classes ranging from abstract geometry to applied geometrical modeling. My research interests include CAGD and other applied geometric fields, theoretical differential geometry and history of geometry.",
           "url": "https://www.mff.cuni.cz/en/math/departments/people"
         },
@@ -10054,7 +10291,7 @@
           "url": "https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=1649"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -13602,7 +13839,7 @@
           "title": "Senior Lecturer (Mathematics)",
           "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/andrewwilson/",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -13633,7 +13870,179 @@
           "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/andrewwilson/"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "andy-wand",
+      "name": "Andy Wand",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "glasgow",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/andywand/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.maths.gla.ac.uk/~awand/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.maths.gla.ac.uk/~awand/CV_2025.pdf",
+      "cvType": "公开学术 CV（2025 存档）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.maths.gla.ac.uk/~awand/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of contact and symplectic manifolds, fillings and open books",
+          "url": "https://www.maths.gla.ac.uk/~awand/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "anton-izosimov",
+      "name": "Anton Izosimov",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "glasgow",
+          "department": "数学系",
+          "title": "Reader",
+          "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/antonizosimov/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://aizosimov.github.io/",
+      "homepageStatus": null,
+      "cvUrl": "https://aizosimov.github.io/izosimov_cv.pdf",
+      "cvType": "公开学术 CV（Arizona 任职时的版本）",
+      "cvStatus": null,
+      "publicationsUrl": "https://aizosimov.github.io/papers.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5054674786",
+          "orcid": "https://orcid.org/0000-0003-1270-7444",
+          "url": "https://openalex.org/authors/A5054674786",
+          "authorApiUrl": "https://api.openalex.org/authors/A5054674786",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5054674786,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 38,
+          "works": 47,
+          "citations": 358,
+          "hIndex": 12,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Polygon recutting as a cluster integrable system",
+          "url": "https://doi.org/10.1007/s00029-023-00826-1"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Poisson and differential geometry of Hamiltonian and integrable systems",
+          "url": "https://core.maths.gla.ac.uk/People"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://aizosimov.github.io/papers.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "damian-gvirtz-chen",
+      "name": "Damián Gvirtz-Chen",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "glasgow",
+          "department": "数学系",
+          "title": "Senior Lecturer",
+          "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/damiangvirtz/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.maths.gla.ac.uk/~dgvirtz/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/damiangvirtz/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5090027382",
+          "orcid": "https://orcid.org/0000-0002-6830-2756",
+          "url": "https://openalex.org/authors/A5090027382",
+          "authorApiUrl": "https://api.openalex.org/authors/A5090027382",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5090027382,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 10,
+          "works": 13,
+          "citations": 96,
+          "hIndex": 7,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Non-thin rational points for elliptic K3 surfaces",
+          "year": 2024,
+          "url": "https://doi.org/10.48550/arXiv.2404.06844"
+        },
+        {
+          "title": "Non-thin rational points for elliptic K3 surfaces",
+          "url": "https://arxiv.org/abs/2404.06844"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and arithmetic geometry, rational points and zero-cycles on K3 surfaces",
+          "url": "https://www.maths.gla.ac.uk/~dgvirtz/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/damiangvirtz/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -13644,24 +14053,22 @@
         {
           "schoolId": "glasgow",
           "department": "数学系",
-          "title": "Senior Lecturer (Mathematics)",
+          "title": "Senior Lecturer in Pure Mathematics",
           "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dinakarmuthiah/",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic"
       ],
-      "tags": [
-        "Algebraic geometry and representation theory"
-      ],
+      "tags": [],
       "homepage": "https://dmuthiah.github.io/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dinakarmuthiah/",
+      "publicationsUrl": "https://dmuthiah.github.io/",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
@@ -13697,15 +14104,15 @@
       ],
       "directoryEvidence": [
         {
-          "text": "Algebraic geometry and representation theory",
-          "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dinakarmuthiah/"
+          "text": "Algebraic geometry and representation theory of loop groups, Hecke algebras, quiver varieties and Coulomb branches",
+          "url": "https://dmuthiah.github.io/"
         },
         {
           "text": "个人研究或论文来源",
           "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/dinakarmuthiah/"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -13719,7 +14126,7 @@
           "title": "Professor (Chair of Mathematics)",
           "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/michaelwemyss/",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -13775,6 +14182,14 @@
       ],
       "directoryEvidence": [
         {
+          "text": "I am a mathematician, interested in algebra, geometry and topology. My main focus is developing noncommutative methods to imply the existence of, the running of, and the classification of various geometric structures.",
+          "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/research/maths/algebraicgeometry/"
+        },
+        {
+          "text": "I am a mathematician, interested in algebra, geometry and topology. My main focus is developing noncommutative methods to imply the existence of, the running of, and the classification of various geometric structures.",
+          "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/research/maths/algebra/"
+        },
+        {
           "text": "Algebraic geometry, resolutions of singularities and the minimal model program",
           "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/michaelwemyss/"
         },
@@ -13783,7 +14198,7 @@
           "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/michaelwemyss/"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -13797,7 +14212,7 @@
           "title": "Professor (Mathematics)",
           "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vaibhavgadre/",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -13844,7 +14259,7 @@
           "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/vaibhavgadre/"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -21741,6 +22156,80 @@
       "recordStatus": "directory"
     },
     {
+      "id": "james-montaldi",
+      "name": "James Montaldi",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "manchester",
+          "department": "数学系",
+          "title": "Reader in Applied Mathematics",
+          "url": "https://research.manchester.ac.uk/en/persons/j.montaldi/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://personalpages.manchester.ac.uk/staff/j.montaldi/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://research.manchester.ac.uk/en/persons/j.montaldi/publications/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5065898862",
+          "orcid": "https://orcid.org/0000-0002-2135-8998",
+          "url": "https://openalex.org/authors/A5065898862",
+          "authorApiUrl": "https://api.openalex.org/authors/A5065898862",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5065898862,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 50,
+          "works": 138,
+          "citations": 2119,
+          "hIndex": 26,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Equilibria and bifurcations in contact dynamics",
+          "year": 2024,
+          "url": "https://doi.org/10.48550/arXiv.2310.00764"
+        },
+        {
+          "title": "Symplectic group actions and covering spaces",
+          "year": 2009,
+          "url": "https://doi.org/10.48550/arXiv.0705.3114"
+        },
+        {
+          "title": "Equilibria and bifurcations in contact dynamics",
+          "url": "https://research.manchester.ac.uk/en/publications/equilibria-and-bifurcations-in-contact-dynamics/"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of Hamiltonian and symmetric dynamical systems, symplectic geometry, contact and Poisson geometry",
+          "url": "https://research.manchester.ac.uk/en/persons/j.montaldi/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://research.manchester.ac.uk/en/persons/j.montaldi/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "martin-orr",
       "name": "Martin Orr",
       "aliases": [],
@@ -21751,7 +22240,7 @@
           "title": "Senior Lecturer",
           "url": "https://research.manchester.ac.uk/en/persons/martin.orr",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -21803,7 +22292,7 @@
           "url": "https://research.manchester.ac.uk/en/persons/martin.orr"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -24265,7 +24754,7 @@
           "title": "Professor",
           "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=275",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -24328,7 +24817,7 @@
           "url": "https://www.uni-muenster.de/FB10srvi/persdb/MM-member.php?id=275"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -52492,7 +52981,7 @@
           "title": "Reader",
           "url": "https://warwick.ac.uk/fac/sci/maths/people/staff/Dervan/",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -52503,7 +52992,7 @@
       "tags": [
         "Algebraic Geometry"
       ],
-      "homepage": "https://warwick.ac.uk/fac/sci/maths/people/staff/Dervan/",
+      "homepage": "https://rdervan.warwick.ac.uk/",
       "homepageStatus": null,
       "cvUrl": "https://www.maths.gla.ac.uk/~rdervan/cv.pdf",
       "cvType": null,
@@ -52561,7 +53050,7 @@
           "url": "https://warwick.ac.uk/fac/sci/maths/people/staff/Dervan/"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
