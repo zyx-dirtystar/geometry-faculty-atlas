@@ -1,9 +1,9 @@
 # 几何学者库进度
 
 更新日期 2026-11-24。QS 2026 数学 200 所，软科 GRAS 2026 数学 100 所，两榜合并去重 222 所。已登记来源 222 所，至少有一个已解析来源 221 所。
-目录去重后共 13801 条学者与学校记录，来源外的任职或研究交叉需要继续复核。
+目录去重后共 13803 条学者与学校记录，来源外的任职或研究交叉需要继续复核。
 网页收录 776 位，覆盖 152 所。有个人主页 392 位、公开 CV 164 位、发表列表 186 位、代表作 81 位、机构或作者计数 22 位、OpenAlex 指标 87 位。
-已解析 4057 个个人页面。校级全名单对账完成 0 所。
+已解析 4056 个个人页面。校级全名单对账完成 0 所。
 
 ## 原待查批次
 
@@ -164,7 +164,7 @@
 | 韦洛尔理工学院 | =104 | — | 工作名单 | [VIT Faculty directory](https://vit.ac.in/faculty) · [SAS Mathematics 2026 · Research Guide](https://vit.ac.in/sites/default/files/vitree/Research-Guide-July-2026/Research-Guide-July-2026-Mathematics-SAS.pdf) · [School of Advanced Sciences · Mathematics faculty](https://vit.ac.in/school/allfaculty/sas/mathematics) · [数学研究方向与指导教师（官方 PDF）](https://vit.ac.in/sites/default/files/vitree/Research-Guide-July-2026/Research-Guide-July-2026-Mathematics-SAS.pdf) | 0 | 0 / 0 / 0 | 208 |
 | 北京理工大学 | 106 | — | 工作名单 | [数学与统计学院 · 数学系师资](https://math.bit.edu.cn/szdw/jgml/sxx/index.htm) · [数学系-北京理工大学数学与统计学院](https://math.bit.edu.cn/szdw/jgml/sxx/index.htm) · [数学系或所属学院人员入口](https://math.bit.edu.cn/en/Faculty/FacultyDirectory/index.htm) · [数学与统计学院师资机构目录](https://math.bit.edu.cn/szdw/jgml/index.htm) | 2 | 2 / 0 / 0 | 33 |
 | 印度科学理工学院 | 107 | — | 工作名单 | [数学系或所属学院人员入口](https://math.iisc.ac.in/faculty.html) | 8 | 8 / 4 / 0 | 5 |
-| 伦敦政治经济学院 | 108 | — | 工作名单 | [数学系或所属学院人员入口](https://www.lse.ac.uk/mathematics/people) | 0 | 0 / 0 / 0 | 30 |
+| 伦敦政治经济学院 | 108 | — | 工作名单 | [Department of Mathematics · Discrete Mathematics](https://www.lse.ac.uk/Mathematics/Research/Discrete-Mathematics) · [Department of Mathematics · Research](https://www.lse.ac.uk/mathematics/research) · [Department of Statistics · Past Research Grants](https://www.lse.ac.uk/statistics/assets/Documents/Older-Grants-for-website-2024.pdf) · [数学系或所属学院人员入口](https://www.lse.ac.uk/mathematics/people) | 0 | 0 / 0 / 0 | 0 |
 | 武汉大学 | =109 | — | 工作名单 | [武汉大学数学教师总览 第1页](https://jszy.whu.edu.cn/xkjslb.jsp?id=4869&lang=zh_CN&st=0&urltype=tsites.DisciplineTeacherList&wbtreeid=1007) · [武汉大学数学教师总览 第2页](https://jszy.whu.edu.cn/xkjslb.jsp?PAGENUM=2&id=4869&lang=zh_CN&st=0&totalpage=2&urltype=tsites.DisciplineTeacherList&wbtreeid=1007) · [数学与统计学院教师主页库（需查分页）](https://jszy.whu.edu.cn/xyjslb.jsp?id=2095&lang=zh_CN&st=0&urltype=tsites.CollegeTeacherList&wbtreeid=1006) | 2 | 2 / 0 / 0 | 17 |
 | 伊斯兰堡 COMSATS 大学 | =111 | — | 工作名单 | [数学系或所属学院人员入口](https://ww2.comsats.edu.pk/faculty/DWFaculty.aspx?Cid=1&Dept=Mathematics+Department&Did=8&id=8) | 0 | 0 / 0 / 0 | 15 |
 | 沙特国王大学 | =111 | — | 工作名单 | [Female faculty members of the Mathematics Department](https://sciences.ksu.edu.sa/en/node/10970) · [数学系或所属学院人员入口](https://sciences.ksu.edu.sa/en/node/10833) | 6 | 0 / 0 / 0 | 9 |
@@ -298,7 +298,7 @@
 - 阿尔伯塔大学。已查看数学与统计科学系 Academic Staff 和六领域研究目录。用校级目录确认四位代数几何及一位微分几何学者。PIMS 等联合渠道的任职范围仍待核。
 - 韦洛尔理工学院。已定位 School of Advanced Sciences 数学教师目录，按卡片提取公开职级，研究指南和不同校区的覆盖仍待区分。
 - 北京理工大学。已核录数学与统计学院数学系官方中文名册的 35 人。另查代数李理论与分析实验室并用个人页核实几何学者，其余教师细分方向与研究中心的共同任职仍待核。
-- 伦敦政治经济学院。已提取数学系 Academic Faculty 和 Academic Associates 两个分组。未明示的研究方向，以及系外研究组与合聘范围仍待核。
+- 伦敦政治经济学院。已核对数学系 Academic Faculty、Academic Associates、各研究领域和统计系相关代数统计项目。常任教师逐人匹配公开专长，组合或全纯分析相邻方向、纯教学和未来入职分别列明。已查的历史研究者保留前任职记录。荣誉及访问人员的细分方向和跨校单位仍待复核。
 - 武汉大学。已登记校级科研门户数学教师总览的两页。先用独立个人页确认微分几何和双有理方向。院系全名单及相关单位仍待对账。
 - 利兹大学。已查 AGIS 研究组与数学学院专业信息。按个人任职和研究页面核对，尚未完成全组成员与合作单位清单。
 - 里昂高等师范学院。已查数学系、校方 UMPA 联合实验室和 CNRS 研究网络，提取几何专题组公开名单。Annuaire 返回 403；研究网络仍列已转任人员，正按个人任职证据复核整个实验室的实际现任人员。
@@ -495,6 +495,9 @@
 - 里斯本大学 · 数学系或所属学院人员入口。机构网站限制了目录请求。 [数学系或所属学院人员入口](https://researchportal.ulisboa.pt/pt/organisations/departamento-de-matem%C3%A1tica-7/persons/)
 - 慕尼黑大学 · - Department of Mathematics - LMU München。网页暂未读取成功。 [- Department of Mathematics - LMU München](https://www.math.lmu.de/en/forschung/arbeitsgruppen/algebraische-geometrie/)
 - 拉夫堡大学 · Geometry and Mathematical Physics。已保存网页，目录为动态列表或结构尚未对账。 [Geometry and Mathematical Physics](https://www.lboro.ac.uk/departments/maths/research/research-groups-and-centres/geometry-mathematical-physics/)
+- 伦敦政治经济学院 · Department of Mathematics · Discrete Mathematics。尚未取得网页。 [Department of Mathematics · Discrete Mathematics](https://www.lse.ac.uk/Mathematics/Research/Discrete-Mathematics)
+- 伦敦政治经济学院 · Department of Mathematics · Research。尚未取得网页。 [Department of Mathematics · Research](https://www.lse.ac.uk/mathematics/research)
+- 伦敦政治经济学院 · Department of Statistics · Past Research Grants。尚未取得网页。 [Department of Statistics · Past Research Grants](https://www.lse.ac.uk/statistics/assets/Documents/Older-Grants-for-website-2024.pdf)
 - 曼彻斯特大学 · Analysis and geometry - Department of Mathematics - The University of Manchester。已保存网页，目录为动态列表或结构尚未对账。 [Analysis and geometry - Department of Mathematics - The University of Manchester](https://www.maths.manchester.ac.uk/research/expertise/analysis-and-geometry/)
 - 马里兰大学帕克分校 · Department of Mathematics - Faculty Research Interests。已保存网页，目录为动态列表或结构尚未对账。 [Department of Mathematics - Faculty Research Interests](https://www-math.umd.edu/research/faculty-research-interests.html)
 - 麦吉尔大学 · Research Group Memebers。已保存网页，目录为动态列表或结构尚未对账。 [Research Group Memebers](https://www.math.mcgill.ca/wise/ggt/ourgroup.html)
