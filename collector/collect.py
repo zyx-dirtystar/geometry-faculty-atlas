@@ -686,10 +686,19 @@ def export(db, seed):
                 f"{row['checked_at'] or ''} {row['status']} {row['url']}" for row in attempts
             )
             notes = []
+            access_failed = any(row["status"] == "source_error" for row in attempts)
+            page_read = any(row["status"] == "parsed" for row in attempts)
+            if page_read and access_failed:
+                link_reason = "可读页面未发现该链接，其他已查入口访问失败"
+            elif page_read:
+                link_reason = "已查的公开页面未发现该链接"
+            elif access_failed:
+                link_reason = "已查询的公开入口访问失败"
+            else:
+                link_reason = "尚无可复核的个人页访问记录"
             for key, label in (("homepage", "个人主页"), ("cvUrl", "CV"), ("publicationsUrl", "发表列表")):
                 if not p.get(key):
-                    reason = "已查页面未提取到链接" if any(row["status"] == "parsed" for row in attempts) else "相关页面无可复核快照"
-                    notes.append(f"{label}待核，{reason}")
+                    notes.append(f"{label}待核，{link_reason}")
             counts = p.get("publicationCounts") or []
             if not counts:
                 notes.append("未登记作者或机构明确披露的计数及口径")

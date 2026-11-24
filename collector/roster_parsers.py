@@ -1645,14 +1645,34 @@ def profile_fields(document, base):
                 value = contents(paragraphs[0])
                 if 20 <= len(value) <= 650:
                     research.append(value)
-    for label in main.xpath(".//h2|.//h3|.//h4|.//dt|.//div[not(*) and @class]|.//strong|.//b"):
+    research_labels = {
+        "expertise", "key expertise", "research topics", "field of interest", "research field",
+        "research interests", "research area", "research areas", "research area(s)",
+        "research interests and areas", "research specialization", "専門分野", "研究方向",
+        "研究兴趣", "研究領域", "研究领域", "科研方向", "主要研究方向", "thèmes de recherche",
+        "domaines de recherche", "axes de recherche", "intérêts de recherche", "forschungsinteressen",
+        "forschungsschwerpunkte", "forskningsintressen", "líneas de investigación",
+        "áreas de investigación", "intereses de investigación", "áreas de pesquisa",
+        "área de pesquisa", "temas de pesquisa", "interessi di ricerca", "temi di ricerca",
+        "научные интересы", "область научных интересов", "область исследований", "направления исследований",
+        "연구분야", "전공분야", "研究分野", "研究テーマ",
+    }
+    headings = {"h1", "h2", "h3", "h4", "h5", "h6"}
+    for label in main.xpath(".//h2|.//h3|.//h4|.//h5|.//dt|.//th|.//td[1]|.//div[not(*) and @class]|.//strong|.//b"):
         text = contents(label)
         title, _, inline = re.split(r"([:：])", text, maxsplit=1) if re.search(r"[:：]", text) else (text, "", "")
         title = title.strip().lower()
-        if title not in {"field of interest", "research field", "research interests", "research area", "research areas", "research area(s)", "research interests and areas", "research specialization", "専門分野", "研究方向", "研究领域", "科研方向", "thèmes de recherche", "forschungsinteressen", "forskningsintressen"}:
+        if title not in research_labels:
             continue
         following = label.getnext()
-        value = clean(inline or label.tail or "") or (contents(following) if following is not None else "")
+        if following is None and label.tag in {"strong", "b"}:
+            parent = label.getparent()
+            if parent is not None and parent.tag in {"p", "div"} and contents(parent) == text:
+                following = parent.getnext()
+        value = clean(inline or label.tail or "")
+        if not value and following is not None and following.tag not in headings:
+            if not following.xpath(".//h1|.//h2|.//h3|.//h4|.//h5|.//h6"):
+                value = contents(following)
         if value and len(value) <= 600:
             research.append(value)
     for block in main.xpath(".//*[contains(@class,'person-field') or contains(@class,'research-interest') or contains(@class,'field--name-field-research') or contains(@class,'field--name-field-specialty')]"):
@@ -1668,16 +1688,21 @@ def profile_fields(document, base):
         if len(text) <= 450 and re.match(r"^(?:my research (?:interests|focus|is in|deals)|research interests\s*[:：]|我(?:的)?主要研究方向|研究方向\s*[:：])", text, re.I):
             research.append(text)
     homepage = cv = bibliography = ""
+    orcids = set()
     for label, url in urls(main, base):
         low = label.lower()
         host = urlparse(url).hostname or ""
-        if not homepage and low in {"home page", "my home page", "homepage", "personal website", "my personal website", "personal homepage", "professional website", "faculty website", "visit website", "website", "personal web page", "web site", "個人ホームページ"}:
+        if not homepage and low in {"home page", "my home page", "homepage", "personal website", "my personal website", "personal homepage", "professional website", "faculty website", "visit website", "website", "personal web page", "web site", "research website", "個人ホームページ", "个人主页", "個人網頁", "page personnelle", "site personnel", "página personal", "página pessoal", "persönliche webseite", "personal webpage"}:
             if host not in {"linkedin.com", "www.linkedin.com", "zoom.us"} and not host.endswith(".zoom.us"):
                 homepage = url
-        if not cv and re.search(r"^(?:(?:my|short|brief|latest|full) )?(?:(?:curriculum|cv|vita|lebenslauf|résumé|resume)\b|(?:个人|学术)?简历|履歴書|略歴)", low):
+        if not cv and re.search(r"^(?:(?:view|download|my|short|brief|latest|full|pdf) )*(?:(?:curriculum|cv|vita|lebenslauf|résumé|resume)\b|(?:个人|学术)?简历|履歴書|略歴)", low):
             cv = url
         if not bibliography and low in {"publications","papers","research papers","publications and preprints","research publications","preprints and publications","发表论文","学术成果","研究成果","publikationen","publicações","publicaciones","論文"}:
             bibliography = url
+        if host in {"orcid.org", "www.orcid.org"}:
+            identifier = urlparse(url).path.strip("/")
+            if re.fullmatch(r"\d{4}-\d{4}-\d{4}-\d{3}[\dX]", identifier):
+                orcids.add(identifier)
     if not cv:
         for link in main.xpath(".//a[@href]"):
             href = profile_link(base, link.get("href"))
@@ -1693,4 +1718,6 @@ def profile_fields(document, base):
     fields = {"research":" / ".join(dict.fromkeys(research)), "homepage":homepage, "cv":cv, "publications":bibliography}
     if official_title:
         fields["official_title"] = official_title
+    if len(orcids) == 1:
+        fields["orcid"] = next(iter(orcids))
     return fields
