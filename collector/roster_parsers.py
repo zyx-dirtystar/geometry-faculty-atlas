@@ -1721,7 +1721,8 @@ def profile_fields(document, base):
         if not homepage and low in {"home page", "my home page", "homepage", "personal website", "my personal website", "personal homepage", "professional website", "faculty website", "visit website", "website", "personal web page", "web site", "research website", "個人ホームページ", "个人主页", "個人網頁", "page personnelle", "site personnel", "página personal", "página pessoal", "persönliche webseite", "personal webpage"}:
             if host not in {"linkedin.com", "www.linkedin.com", "zoom.us"} and not host.endswith(".zoom.us"):
                 homepage = url
-        if not cv and re.search(r"^(?:(?:view|download|my|short|brief|latest|full|pdf) )*(?:(?:curriculum|cv|vita|lebenslauf|résumé|resume)\b|(?:个人|学术)?简历|履歴書|略歴)", low):
+        if (not cv and not re.search(r"/faq(?:\.php|/|$)", urlparse(url).path, re.I)
+                and re.search(r"^(?:(?:view|download|my|short|brief|latest|full|pdf) )*(?:(?:curriculum|cv|vita|lebenslauf|résumé|resume)\b|(?:个人|学术)?简历|履歴書|略歴)", low)):
             cv = url
         if not bibliography and low in {"publications","papers","research papers","publications and preprints","research publications","preprints and publications","发表论文","学术成果","研究成果","publikationen","publicações","publicaciones","論文"}:
             bibliography = url

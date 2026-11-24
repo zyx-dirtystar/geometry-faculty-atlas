@@ -459,7 +459,7 @@
     {
       "id": "duke",
       "coverage": "sample",
-      "coverageNote": "已解析 2/2 个登记来源，43 条任职或方向待核。 已收录 6 位学者，个人主页 4、CV 4、指标 2。",
+      "coverageNote": "已解析 2/2 个登记来源，43 条任职或方向待核。 已收录 6 位学者，个人主页 4、CV 3、指标 2。",
       "rosterLinks": [
         [
           "数学系 Primary Faculty",
@@ -779,7 +779,7 @@
     {
       "id": "weizmann",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，6 条任职或方向待核。 已收录 4 位学者，个人主页 3、CV 1、指标 0。",
+      "coverageNote": "已解析 1/3 个登记来源，6 条任职或方向待核。 已收录 4 位学者，个人主页 3、CV 0、指标 0。",
       "rosterLinks": [
         [
           "Research Interests by Faculty Member",
@@ -1747,7 +1747,7 @@
     {
       "id": "king-khalid",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，7 条任职或方向待核。 现任名单入口超时或握手失败。已提取 2024 年官方名册存档，所载方向可供定位，当前职称和任职仍待核。",
+      "coverageNote": "已解析 1/4 个登记来源，6 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 1。 对照 2024 阿文及英文系名册与 2026 出版社署名，确认 Akram Ali 的校系与方向。两位讲师仅有历史职级；校区全员及之后的职位变化待核。",
       "rosterLinks": [
         [
           "Faculty of Science · Department of Mathematics",
@@ -1760,6 +1760,10 @@
         [
           "Mathematics Department · Members (page 2)",
           "https://science.kku.edu.sa/en/node/219?page=1"
+        ],
+        [
+          "Department of Mathematics · Faculty list (2024)",
+          "https://science.kku.edu.sa/sites/science.kku.edu.sa/files/2024-04/Maths%20Faculty%20members.pdf"
         ]
       ],
       "checkedAt": "2026-11-23"
@@ -1803,7 +1807,7 @@
     {
       "id": "prince-sattam",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，0 条任职或方向待核。",
+      "coverageNote": "已解析 1/2 个登记来源，0 条任职或方向待核。 已补查 PSAU 官网数学系、相关学院与英文几何方向索引，未发现能同时核实三类方向及当前职位的个人记录。",
       "rosterLinks": [
         [
           "Mathematics · Research Portal",
@@ -2471,7 +2475,7 @@
     {
       "id": "rudn",
       "coverage": "sample",
-      "coverageNote": "已解析 1/4 个登记来源，1 条任职或方向待核。 已查理学院与尼科尔斯基研究所结构、科研项目和具名俄文个人档案。非交换几何和指标理论单列作相邻方向，历史任职与几何在研人员仍须对照。",
+      "coverageNote": "已解析 1/4 个登记来源，1 条任职或方向待核。 已查俄文招生教师库、尼科尔斯基研究所结构、科研项目及个人档案。指标理论和非交换几何与本库方向分别记录；现行全员专长仍待对照。",
       "rosterLinks": [
         [
           "FizMat · Учёные",
@@ -2507,8 +2511,12 @@
     {
       "id": "tu-delft",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，30 条任职或方向待核。",
+      "coverageNote": "已解析 1/4 个登记来源，30 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 1。 已查应用数学组、Analysis 小组、校级 Pure 科研门户及本人主页，确认辛几何与几何量子化教师。数学所其他分组的个人专长和造访岗位待核。",
       "rosterLinks": [
+        [
+          "TU Delft · B. Janssens（个人档案）",
+          "https://research.tudelft.nl/en/persons/b-janssens/"
+        ],
         [
           "EEMCS · Professorships",
           "https://www.tudelft.nl/en/eemcs/the-faculty/professors/"
@@ -2571,8 +2579,12 @@
     {
       "id": "cityuhk",
       "coverage": "sample",
-      "coverageNote": "已解析 1/7 个登记来源，30 条任职或方向待核。 从数学系 Faculty Members 官方索引核录常任、教学、荣休及荣誉等分组，并检查研究生手册和院系研究中心。教师具体方向及中心合聘仍待对账。",
+      "coverageNote": "已解析 1/8 个登记来源，30 条任职或方向待核。 已查数学系、刘璧如数学科学中心、CityUHK Scholars 和 Personal Staff Profile。已确认旧微分几何档案为 Former；现任及联合名单仍需复核。",
       "rosterLinks": [
+        [
+          "CityUHK Scholars · Cristinel Mardare（历史任职）",
+          "https://scholars.cityu.edu.hk/en/persons/cmardare/"
+        ],
         [
           "Department of Mathematics · 2027 PhD admissions faculty handbook",
           "https://www.cityu.edu.hk/ma/-/media/project/cityuhk/academic/ma/files/2026-10/2026-10-23-ma_phd_2027_final.pdf?hash=69403E1BFC514D2220DD6EB5AFC5BF7A&rev=282acc1ac8614c4a914fa6c9f986845e"
@@ -2767,7 +2779,7 @@
     {
       "id": "uts-sydney",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，8 条任职或方向待核。 已从 Mathematical Sciences 官方研究介绍提取具名人员和个人档案。School of Mathematical and Physical Sciences 的动态名录及纯数学细分课题待核。",
+      "coverageNote": "已解析 1/3 个登记来源，8 条任职或方向待核。 已查理学院专家目录、数学方向论文以及 2025 荣誉项目说明。补查资料中的微分几何多为指定课题或学生论文，导师是否属于收录方向须结合研究档案。",
       "rosterLinks": [
         [
           "Mathematical Sciences group",
@@ -2811,7 +2823,7 @@
     {
       "id": "kfupm",
       "coverage": "sample",
-      "coverageNote": "已解析 1/5 个登记来源，1 条任职或方向待核。 已提取数学系最新师资卡、职级和公开研究标签，并登记公开旧名录与 Bulletin。研究领域缺省、与校级站点职级冲突和联合任职待核。",
+      "coverageNote": "已解析 1/6 个登记来源，2 条任职或方向待核。 已对照数学系 Faculty 和 Bulletin 与旧个人主页及 CV。旧页确有代数几何著述，未找到对应的现任目录职级。",
       "rosterLinks": [
         [
           "KFUPM Bulletin · Mathematics",
@@ -2828,6 +2840,10 @@
         [
           "Mathematics Research Groups",
           "https://math.kfupm.edu.sa/research/mathematics-research-groups"
+        ],
+        [
+          "KFUPM Bulletin · Mathematics",
+          "https://bulletin.kfupm.edu.sa/department?department_code=MATH"
         ],
         [
           "数学科学系教师名录",
@@ -2951,7 +2967,7 @@
     {
       "id": "vit-vellore",
       "coverage": "sample",
-      "coverageNote": "已解析 1/4 个登记来源，208 条任职或方向待核。 已定位 School of Advanced Sciences 数学教师目录，按卡片提取公开职级，研究指南和不同校区的覆盖仍待区分。",
+      "coverageNote": "已解析 1/4 个登记来源，208 条任职或方向待核。 已查 Vellore 与 Chennai 的教师及招生指导名单。当前几何线索见于教学文档，能证实该校区现任研究方向的个人页待核。",
       "rosterLinks": [
         [
           "VIT Faculty directory",
@@ -3063,7 +3079,7 @@
     {
       "id": "comsats",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，15 条任职或方向待核。 已查 Lahore 校区数学个人页和 Wah 校区研究组，另有 Sahiwal 等校区入口。休假状态和组合交换代数已记录，各校区其余任职及几何方向待核。",
+      "coverageNote": "已解析 1/1 个登记来源，15 条任职或方向待核。 已查 Lahore、Wah 校区数学名册、研究组和校级个人页，查到组合交换代数和优化方向。其他校区几何方向与联聘待核。",
       "rosterLinks": [
         [
           "数学系或所属学院人员入口",
@@ -3111,7 +3127,7 @@
     {
       "id": "postech",
       "coverage": "sample",
-      "coverageNote": "已解析 2/2 个登记来源，5 条任职或方向待核。 已收录 3 位学者，个人主页 1、CV 3、指标 0。 已查现任 Faculty 页和代数几何研究成果、研讨会与博士后入口。代数几何方向经个人档案确认，其他职级与研究人员待复核。",
+      "coverageNote": "已解析 2/2 个登记来源，5 条任职或方向待核。 已收录 3 位学者，个人主页 2、CV 2、指标 2。 已查现任 Faculty 页和代数几何研究成果、研讨会与博士后入口。代数几何方向经个人档案确认，其他职级与研究人员待复核。",
       "rosterLinks": [
         [
           "Department of Mathematics · Faculty",
@@ -3179,7 +3195,7 @@
     {
       "id": "mipt",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，12 条任职或方向待核。 已提取组合与几何结构实验室具名成员及个人标签作为研究线索。实验室名单含学生和前成员，须以院系任职作补证。现代几何与其他数学教研单位仍待查。",
+      "coverageNote": "已解析 1/2 个登记来源，12 条任职或方向待核。 已查俄文系所结构、现代数学课程、2025–26 高等数学选修课及校方教务。课程授课与现任导师分开，继续保留任职来源缺项。",
       "rosterLinks": [
         [
           "Members – Laboratory of Combinatorial and Geometric Structures",
@@ -3379,7 +3395,7 @@
     {
       "id": "khalifa",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，25 条任职或方向待核。",
+      "coverageNote": "已解析 1/1 个登记来源，25 条任职或方向待核。 已查官方数学单位、教师科研门户和微分几何课程页，已区分课程覆盖与数学教师的个人研究方向。其他专长和联合任职待核。",
       "rosterLinks": [
         [
           "数学系或所属学院人员入口",
@@ -3391,7 +3407,7 @@
     {
       "id": "kaust",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，45 条任职或方向待核。 已提取 AMCS 科研项目公开人员表及档案链接。项目同时列教学、兼职及研究岗，需按个人资料核实任职类型，其他院系交叉导师待核。",
+      "coverageNote": "已解析 1/3 个登记来源，45 条任职或方向待核。 已查 AMCS、CEMSE 教职表，补查数学建模的 differential geometry 主题及数学和数据科学会议。主题页出现读取失败，会议讲者与现职须经校级档案区分。",
       "rosterLinks": [
         [
           "Applied Mathematics and Computational Science · Profiles",
@@ -3699,7 +3715,7 @@
     {
       "id": "jordan",
       "coverage": "limited",
-      "coverageNote": "已解析 0/7 个登记来源，0 条任职或方向待核。 官方目录内容待提取。 理学院、SharePoint 和校级研究组门户均拒绝直接访问。已检查不同语言入口、课程与专业计划及个人公开 CV。课程资料可核个别任职，未找到当前数学系全员名册。",
+      "coverageNote": "已解析 0/8 个登记来源，0 条任职或方向待核。 官方目录内容待提取。 重新查理学院、SharePoint、校级 eAcademic 和阿文个人 CV 索引。最后两种可确认个别教师，理学院的现任数学系全员目录仍无法读取或提取，未以单人文件替代。",
       "rosterLinks": [
         [
           "University of Jordan · Academic Staff directory",
@@ -3724,6 +3740,10 @@
         [
           "جامعة الأردن · Research group Math MAOD",
           "https://research.ju.edu.jo/research/groups/MAOD/pages/ResearchInterests.aspx"
+        ],
+        [
+          "数学系公开个人 CV（仅单人来源）",
+          "https://eacademic.ju.edu.jo/a.ababneh/Documents/CV.pdf"
         ],
         [
           "理学院公开个人 CV（仅单人线索）",
@@ -3959,7 +3979,7 @@
     {
       "id": "nust",
       "coverage": "sample",
-      "coverageNote": "已解析 2/4 个登记来源，17 条任职或方向待核。 已提取自然科学学院目录所标注的数学系人员，并保留数学研究分组入口。联合研究所、荣休或访问人员及公开研究方向待核。",
+      "coverageNote": "已解析 2/4 个登记来源，17 条任职或方向待核。 已查自然科学学院数学研究组和 2025–26 课程表，几何教学证据已经与研究任职区分。现任几何相关研究方向与联聘仍待核。",
       "rosterLinks": [
         [
           "Mathematics Research Groups",
@@ -4043,7 +4063,7 @@
     {
       "id": "spbu",
       "coverage": "sample",
-      "coverageNote": "已解析 1/4 个登记来源，9 条任职或方向待核。 已从俄文科研门户核录高等几何教研室 9 名相关人员。其余教研室、俄英文同名、个人方向和现任职级待对账。",
+      "coverageNote": "已解析 1/5 个登记来源，9 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 0。 已查俄文高等代数与数论、高等数学与数学物理、数学与计算机科学科研门户，按个别科研项目及档案确认动机理论。各系后续分页与联合研究所仍待核。",
       "rosterLinks": [
         [
           "Кафедра высшей геометрии · Исследователи",
@@ -4056,6 +4076,10 @@
         [
           "Мотивы, алгебраические группы и сложность вычислений › SPbU Researchers Portal",
           "https://pureportal.spbu.ru/en/projects/-----%2803e6df91-962f-48ad-94da-0df154107b91%29.html"
+        ],
+        [
+          "Кафедра высшей алгебры и теории чисел · Сотрудники",
+          "https://pureportal.spbu.ru/ru/organisations/department-of-algebra-and-number-theory%28428f6651-355c-46df-a64c-e8f5ec94093f%29/persons.html"
         ],
         [
           "数学与计算机科学（校级科研门户，需查分页）",
@@ -4199,7 +4223,7 @@
     {
       "id": "uc3m",
       "coverage": "sample",
-      "coverageNote": "已解析 5/8 个登记来源，54 条任职或方向待核。 已检查数学系西语的讲席、终身、初级和荣休人员名录及教学名录，学者研究方向、其他类别和合聘尚待逐条对账。",
+      "coverageNote": "已解析 5/9 个登记来源，53 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 1。 已查数学系官方任职公告、校级成果门户、地区联合成果库与出版社专页，确认双曲流形和黎曼曲面研究。其他相关团队成员与联合任职待核。",
       "rosterLinks": [
         [
           "Departamento de Matemáticas · Profesores Ayudantes Doctores",
@@ -4228,6 +4252,10 @@
         [
           "NuMA",
           "https://numa.uc3m.es/"
+        ],
+        [
+          "BOEL · Departamento de Matemáticas（任职公告）",
+          "https://sede.uc3m.es/boel/anexo/11535/"
         ],
         [
           "数学系或所属学院人员入口",
@@ -4319,7 +4347,7 @@
     {
       "id": "utm",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，58 条任职或方向待核。 已提取数学科学系人员卡，并区分卡片明示的教授与退休信息。逐人详情与研究组的方向和链接待核。",
+      "coverageNote": "已解析 1/3 个登记来源，58 条任职或方向待核。 已查理学院、数学科学系、理学院学术人员名录及岗位学科清单。岗位方向中列有几何，仍缺能确认现任个人研究方向的证据。",
       "rosterLinks": [
         [
           "Faculty of Science Academic Staff",
@@ -6821,8 +6849,8 @@
       ],
       "homepage": null,
       "homepageStatus": null,
-      "cvUrl": "https://www.unibo.it/sitoweb/giovanni.mongardi2/download/curriculum_current.pdf",
-      "cvType": null,
+      "cvUrl": "https://www.dropbox.com/scl/fi/bk3v6yh6viffh5x6jxu88/curriculum_current.pdf?dl=1&rlkey=yjyep3malsypee9o0geg40aur",
+      "cvType": "公开 CV（本人注明更新较少）",
       "cvStatus": null,
       "publicationsUrl": "https://www.unibo.it/sitoweb/giovanni.mongardi2/pubblicazioni",
       "publicationCounts": [],
@@ -8684,8 +8712,8 @@
       "tags": [],
       "homepage": "https://www.ucm.es/marina_logares",
       "homepageStatus": null,
-      "cvUrl": "https://www.mat.ucm.es/decanato/cvs/AGT/cvML.pdf",
-      "cvType": null,
+      "cvUrl": "https://www.ucm.es/marina_logares/curriculum",
+      "cvType": "公开学术 CV",
       "cvStatus": null,
       "publicationsUrl": "https://www.ucm.es/marina_logares/publications",
       "publicationCounts": [],
@@ -8729,8 +8757,8 @@
       ],
       "homepage": "https://blogs.mat.ucm.es/angelgonzalezprieto/",
       "homepageStatus": null,
-      "cvUrl": "https://blogs.mat.ucm.es/angelgonzalezprieto/wp-content/uploads/sites/89/2026/01/CVAngelGonzalezPrieto.pdf",
-      "cvType": null,
+      "cvUrl": "https://blogs.mat.ucm.es/angelgonzalezprieto/cvangelgonzalezprieto/",
+      "cvType": "公开学术 CV",
       "cvStatus": null,
       "publicationsUrl": "https://produccioncientifica.ucm.es/investigadores/157766/publicaciones?lang=es",
       "publicationCounts": [],
@@ -9375,16 +9403,25 @@
       ],
       "homepage": "https://professorbray.net/",
       "homepageStatus": null,
-      "cvUrl": "http://fds.duke.edu/db/aas/math/faculty/bray/cv.html",
+      "cvUrl": null,
       "cvType": null,
-      "cvStatus": null,
-      "publicationsUrl": null,
+      "cvStatus": "旧 Duke CV 链接返回 404。已查 Duke 个人档案及本人主页，未找到可确认的校方或本人替代文件。",
+      "publicationsUrl": "https://scholars.duke.edu/person/hubert.bray/scholarly-works/journal-articles",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
+      "identityNote": "Duke 校级成果库确认两篇代表作，两篇 DOI 在 OpenAlex 对应不同作者档案，论文总数及累计引用暂缺。",
       "metrics": [],
-      "identityUrl": "https://openalex.org/A5034685372",
-      "papers": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Proof of the Riemannian Penrose inequality using the positive mass theorem",
+          "url": "https://doi.org/10.4310/jdg/1090349428"
+        },
+        {
+          "title": "On the Riemannian Penrose inequality in dimensions less than eight",
+          "url": "https://doi.org/10.1215/00127094-2009-020"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Geometry",
@@ -9638,7 +9675,7 @@
       ],
       "homepage": "https://filipazzi.github.io/",
       "homepageStatus": null,
-      "cvUrl": "https://filipazzi.github.io/cv_filipazzi.pdf",
+      "cvUrl": "https://filipazzi.github.io/short_cv.html",
       "cvType": "公开 CV（简版）",
       "cvStatus": null,
       "publicationsUrl": null,
@@ -17769,6 +17806,82 @@
       "recordStatus": "directory"
     },
     {
+      "id": "akram-ali",
+      "name": "Akram Ali",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "king-khalid",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://science.kku.edu.sa/sites/science.kku.edu.sa/files/2024-04/Maths%20Faculty%20members.pdf",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential Geometry and Topology"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查院系公开名册、学术活动与近期出版社署名，尚未找到具名公开 CV。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5053272822",
+          "orcid": "https://orcid.org/0000-0002-6053-3031",
+          "url": "https://openalex.org/authors/A5053272822",
+          "authorApiUrl": "https://api.openalex.org/authors/A5053272822",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5053272822,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 163,
+          "works": 173,
+          "citations": 1604,
+          "hIndex": 24,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "url": "https://doi.org/10.3390/math14224276",
+          "title": "Geometric Inequalities for Laplacian Eigenvalues on Submanifolds of Warped Product Manifolds",
+          "year": 2026
+        },
+        {
+          "title": "Certain paracontact metrics satisfying gradient ϱ-Ricci–Bourguignon almost solitons",
+          "year": 2024,
+          "url": "https://doi.org/10.1142/S0219887824502888"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential Geometry and Topology",
+          "url": "https://science.kku.edu.sa/sites/science.kku.edu.sa/files/2024-03/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1%20%D9%84%D9%82%D8%B3%D9%85%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA%20%281%29.pdf"
+        },
+        {
+          "text": "Differential geometry, submanifold geometry and geometric analysis",
+          "url": "https://www.mdpi.com/2227-7390/14/22/4276"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.mdpi.com/2227-7390/14/22/4276"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
       "id": "fahd-m-alshammari",
       "name": "Fahd M. Alshammari",
       "aliases": [],
@@ -18359,8 +18472,8 @@
       ],
       "homepage": null,
       "homepageStatus": null,
-      "cvUrl": "https://www.kth.se/profile/dirocco/page/curriculum-vitae?l=en",
-      "cvType": null,
+      "cvUrl": "https://www.kth.se/files/view/dirocco/664ddbbab963d61d7be4077c/cv2024.pdf",
+      "cvType": "公开学术 CV（2024）",
       "cvStatus": null,
       "publicationsUrl": null,
       "publicationCounts": [],
@@ -19818,8 +19931,8 @@
       ],
       "homepage": "https://math.umd.edu/~dbejleri/",
       "homepageStatus": null,
-      "cvUrl": "https://math.umd.edu/~dbejleri/cv_03192025.pdf",
-      "cvType": null,
+      "cvUrl": "https://people.math.harvard.edu/~bejleri/cv_01222023.pdf",
+      "cvType": "公开学术 CV（2023 存档）",
       "cvStatus": null,
       "publicationsUrl": "https://math.umd.edu/~dbejleri/",
       "publicationCounts": [],
@@ -27590,16 +27703,43 @@
       ],
       "homepage": null,
       "homepageStatus": null,
-      "cvUrl": "https://math.postech.ac.kr/en/bbs/faq.php?fm_id=1",
+      "cvUrl": null,
       "cvType": null,
-      "cvStatus": null,
+      "cvStatus": "已查 POSTECH 院系个人页、研究方向页与 IBS 任职目录。原简历链接为共用 FAQ，其他搜索结果有同名作者，未核实独立 CV。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5100785224",
+          "orcid": "https://orcid.org/0000-0001-9304-6611",
+          "url": "https://openalex.org/authors/A5100785224",
+          "authorApiUrl": "https://api.openalex.org/authors/A5100785224",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5100785224,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 43,
+          "works": 60,
+          "citations": 844,
+          "hIndex": 16,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Birationally rigid Fano threefold hypersurfaces",
+          "year": 2016,
+          "url": "https://doi.org/10.1090/memo/1167"
+        },
+        {
+          "title": "Log-canonical thresholds on del Pezzo surfaces of degrees ≥ 2",
+          "year": 2010,
+          "url": "https://doi.org/10.1215/00277630-2010-009"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic Geometry",
@@ -27607,6 +27747,10 @@
         },
         {
           "text": "Algebraic geometry, birational geometry and Fano varieties",
+          "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=18"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=18"
         }
       ],
@@ -27633,18 +27777,45 @@
       "tags": [
         "Algebraic Geometry and related fields"
       ],
-      "homepage": null,
+      "homepage": "https://sites.google.com/site/kyoungseogleemath/home",
       "homepageStatus": null,
-      "cvUrl": "https://math.postech.ac.kr/en/bbs/faq.php?fm_id=1",
-      "cvType": null,
+      "cvUrl": "https://sites.google.com/site/kyoungseogleemath/brief-cv",
+      "cvType": "公开 CV（简版）",
       "cvStatus": null,
-      "publicationsUrl": null,
+      "publicationsUrl": "https://sites.google.com/site/kyoungseogleemath/publications-and-preprints",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5023373586",
+          "orcid": "https://orcid.org/0000-0003-3575-5238",
+          "url": "https://openalex.org/authors/A5023373586",
+          "authorApiUrl": "https://api.openalex.org/authors/A5023373586",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5023373586,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 16,
+          "works": 27,
+          "citations": 217,
+          "hIndex": 10,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Derived categories of symmetric products and moduli spaces of vector bundles on a curve",
+          "year": 2025,
+          "url": "https://doi.org/10.1016/j.matpur.2025.103694"
+        },
+        {
+          "title": "All complete intersection varieties are Fano visitors",
+          "year": 2017,
+          "url": "https://doi.org/10.1016/j.aim.2017.02.030"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic Geometry and related fields",
@@ -27653,6 +27824,10 @@
         {
           "text": "Algebraic geometry, semiorthogonal decompositions and moduli spaces",
           "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&page=1&sca=Professor&sod=desc&sop=and&sst=wr_datetime&wr_id=14"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://sites.google.com/site/kyoungseogleemath/publications-and-preprints"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -27667,7 +27842,7 @@
           "schoolId": "postech",
           "department": "数学系",
           "title": "Assistant Professor",
-          "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=13&sca=Professor",
+          "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&wr_id=13",
           "type": "primary",
           "checkedAt": "2026-11-24"
         }
@@ -27678,22 +27853,35 @@
       "tags": [
         "Number Theory | Arithmetic Geometry"
       ],
-      "homepage": "http://qirui.li.",
+      "homepage": "https://qirui.li/",
       "homepageStatus": null,
-      "cvUrl": "https://math.postech.ac.kr/en/bbs/faq.php?fm_id=1",
-      "cvType": null,
+      "cvUrl": "https://qirui.li/cv.pdf",
+      "cvType": "公开学术 CV",
       "cvStatus": null,
-      "publicationsUrl": null,
+      "publicationsUrl": "https://qirui.li/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "本人发表列表及 Cambridge 出版方核实两篇代表作。OpenAlex 分属不同作者档案，累计数字暂缺。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Arithmetic transfer for inner forms of GL₂ₙ",
+          "url": "https://doi.org/10.1017/FMS.2025.10034"
+        },
+        {
+          "title": "On the linear AFL: the non-basic case",
+          "url": "https://doi.org/10.1112/S0010437X24007577"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Number Theory | Arithmetic Geometry",
           "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m02_01&sca=Professor"
+        },
+        {
+          "text": "Algebraic geometry, arithmetic geometry, Shimura varieties, algebraic cycles and local intersection theory",
+          "url": "https://qirui.li/"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -31269,6 +31457,48 @@
         {
           "text": "个人研究或论文来源",
           "url": "https://www.southampton.ac.uk/people/5wy5k9/professor-jim-anderson"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "mikhail-v-bondarko",
+      "name": "Mikhail V. Bondarko",
+      "aliases": [
+        "Mikhail Bondarko",
+        "Михаил Владимирович Бондарко"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "spbu",
+          "department": "Санкт-Петербургский государственный университет · Факультет математики и компьютерных наук",
+          "title": "Associate Professor and Leading Researcher",
+          "url": "https://pureportal.spbu.ru/ru/persons/--%2837ab559d-d514-4f14-8052-d082375eae53%29.html",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查圣彼得堡国立大学科研档案、Math-Net 学者页与北大学术报告，未找到具名公开 CV 文件。",
+      "publicationsUrl": "https://pureportal.spbu.ru/ru/persons/--%2837ab559d-d514-4f14-8052-d082375eae53%29/publications.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已核 ORCID、Math-Net 与两篇具名代表作。代表作在 OpenAlex 指向不同作者档案，累计总数暂缺。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, motives, arithmetic geometry and birationality",
+          "url": "https://pureportal.spbu.ru/ru/persons/--%2837ab559d-d514-4f14-8052-d082375eae53%29.html"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -36556,6 +36786,72 @@
       "recordStatus": "directory"
     },
     {
+      "id": "bas-janssens",
+      "name": "Bas Janssens",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "tu-delft",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://research.tudelft.nl/en/persons/b-janssens/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.bjadres.nl/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查看本人主页及大学 Pure 档案。检索到的其他 CV 未确认对应本人。",
+      "publicationsUrl": "https://research.tudelft.nl/en/persons/b-janssens/publications/",
+      "publicationCounts": [
+        {
+          "value": 11,
+          "scope": "代尔夫特理工大学 Pure 个人页 Research output 总数",
+          "url": "https://research.tudelft.nl/en/persons/b-janssens/",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5049294699",
+          "orcid": "https://orcid.org/0000-0002-2107-6763",
+          "url": "https://openalex.org/authors/A5049294699",
+          "authorApiUrl": "https://api.openalex.org/authors/A5049294699",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5049294699,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 24,
+          "works": 40,
+          "citations": 309,
+          "hIndex": 10,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of symplectic manifolds, Poisson brackets and geometric quantization",
+          "url": "https://www.bjadres.nl/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://research.tudelft.nl/en/persons/b-janssens/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
       "id": "mario-kummer",
       "name": "Mario Kummer",
       "aliases": [],
@@ -37906,6 +38202,71 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jose-manuel-rodriguez-garcia",
+      "name": "jose manuel rodriguez garcia",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uc3m",
+          "department": "数学系",
+          "title": "Catedrático de Universidad",
+          "url": "https://sede.uc3m.es/boel/anexo/11535/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "搜索索引保留 2024 年校方简版 CV。西文 CV 原地址已返回 HTTP 410，尚未找到可下载替代版本。",
+      "publicationsUrl": "https://portalinvestigacion.consorciomadrono.es/authors/13031.html?lang=es",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5002592714",
+          "orcid": "https://orcid.org/0000-0003-2851-7442",
+          "url": "https://openalex.org/authors/A5002592714",
+          "authorApiUrl": "https://api.openalex.org/authors/A5002592714",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5002592714,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 196,
+          "works": 210,
+          "citations": 2812,
+          "hIndex": 28,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "url": "https://doi.org/10.1002/mana.201400241",
+          "title": "Planar Riemann surfaces with uniformly distributed cusps: parabolicity and hyperbolicity"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of hyperbolic manifolds and complex geometry of Riemann surfaces, with geometric analysis",
+          "url": "https://doi.org/10.1002/mana.201400241"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://doi.org/10.1002/mana.201400241"
+        }
+      ],
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -46161,9 +46522,9 @@
       ],
       "homepage": "https://www.wisdom.weizmann.ac.il/~aizenr/",
       "homepageStatus": null,
-      "cvUrl": "https://www.wisdom.weizmann.ac.il/~aizenr/3CV/cv.pdf",
+      "cvUrl": null,
       "cvType": null,
-      "cvStatus": null,
+      "cvStatus": "魏茨曼学院公开 CV 旧地址在 GET 和 HEAD 均返回 404；已查个人科研页及学院 Pure 档案，未发现替代 CV。",
       "publicationsUrl": "http://www.wisdom.weizmann.ac.il/~aizenr/4Publications/index.html",
       "publicationCounts": [],
       "opportunities": [],
@@ -46954,7 +47315,7 @@
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "三篇期刊 DOI 在 OpenAlex 分属 A5040778996、A5100422382、A5013520886，三条作者记录均显示浙江大学。另有一篇经出版方核实，但 OpenAlex 该 DOI 未返回对应姓名。作者覆盖范围未统一，论文总数和累计引用待核。",
+      "identityNote": "三篇期刊 DOI 在 OpenAlex 分属 A5040778996、A5100422382、A5013520886，三条作者记录均显示浙江大学。另有一篇经出版方核实，但 OpenAlex 该 DOI 未返回对应姓名。作者覆盖范围未统一，论文总数和累计引用待核。本轮复查 Google Scholar 与 ORCID，未定位到可用于核对累计量的几何学公开档案。检索到的同名 ORCID 对应园艺学者，已排除。",
       "metrics": [],
       "identityUrl": null,
       "papers": [

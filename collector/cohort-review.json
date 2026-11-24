@@ -114,7 +114,7 @@
     "fudan": "上海数学中心 Current Faculty & Researchers 名册已核录。数学科学学院教职员工目录的名单未随页面静态返回，两个院系的其他人员及重叠任职待核。",
     "harvard": "已核录数学系 2026–27 研究方向表的具名人员，对照资深导师表。中心联聘和新增任职另待核。",
     "johns-hopkins": "用院系现任名录、李驰公开 CV 和罗格斯数学系目录交叉核对两个现任职位。数学系、跨机构合作和其他现任成员仍需按范围对账。",
-    "king-khalid": "现任名单入口超时或握手失败。已提取 2024 年官方名册存档，所载方向可供定位，当前职称和任职仍待核。",
+    "king-khalid": "对照 2024 阿文及英文系名册与 2026 出版社署名，确认 Akram Ali 的校系与方向。两位讲师仅有历史职级；校区全员及之后的职位变化待核。",
     "kth": "已解析 Department of Mathematics Members 与代数几何／交换代数组。研究组的合并标签待按个人细分，历史或访问身份保留。",
     "michigan": "已解析官方 Tenured, Tenure Track 页面及代数、代数几何分类页。研究方向混合标签、短期任职及其他院系待核。",
     "minnesota": "已核对代数几何分组成员和荣休名单。完整数学学院名册的程序读取返回 403，公开在线版本可作补证。微分几何和几何分析任职、联合机构仍待核。",
@@ -165,37 +165,37 @@
     "nottingham": "已读取数学科学学院 Staff Listing 的职级及个人链接，并对照个人研究页核对部分 Fano、K 稳定性与双有理方向。需要逐人排除教学／行政、荣休、访问和联合单位重复记录。",
     "tu-dresden": "已读取数学学院 A–Z 教授与几何研究所成员入口。按最新任命核实实代数几何讲席，并复核几何分析相关教授。全部研究组与外部联合单位仍待对账。",
     "leiden": "已读代数／算术几何旧研究组页，并与现行校方个人页核对部分任职。旧组页的职级和完整性不可用于现任认定，其他研究组和全院人员表待核。",
-    "cityuhk": "从数学系 Faculty Members 官方索引核录常任、教学、荣休及荣誉等分组，并检查研究生手册和院系研究中心。教师具体方向及中心合聘仍待对账。",
+    "cityuhk": "已查数学系、刘璧如数学科学中心、CityUHK Scholars 和 Personal Staff Profile。已确认旧微分几何档案为 Former；现任及联合名单仍需复核。",
     "tu-wien": "已提取 E104 下微分几何与几何结构小组的当前人员和公开职级。代数、其他研究单元与联合身份仍待对账。",
     "kcl": "已提取数学系 Academics and Researchers 过滤入口第 1–9 页，覆盖现任学术人员及研究岗位。几何组完整成员、其他学院联合任职及荣休／访问入口仍待核。",
     "auckland": "已提取数学系学术人员旧名录及两支现行研究组的姓名、公开方向和职级。旧名录职级未用作现任证据，其他研究组、链接失效或仅列博士称谓的任职待核。",
     "unicamp": "葡文数学系 Professores 列表提供具名现任名册，用个人及研究组来源核实细分方向。合作者、荣休及联合研究所的现任范围仍待核。",
-    "kfupm": "已提取数学系最新师资卡、职级和公开研究标签，并登记公开旧名录与 Bulletin。研究领域缺省、与校级站点职级冲突和联合任职待核。",
+    "kfupm": "已对照数学系 Faculty 和 Bulletin 与旧个人主页及 CV。旧页确有代数几何著述，未找到对应的现任目录职级。",
     "lse": "已逐人核对数学系现行 Academic Faculty 和 Academic Associates 合计 60 名，包括 24 名访问系列任职。数学系研究方向和统计系在研分组另核，代数统计历史人员归档。常任名单三个收录方向为 0 人，微分几何 1 位访问高级研究员单列。组合几何和非交换几何分别记录其实际方向。",
-    "mipt": "已提取组合与几何结构实验室具名成员及个人标签作为研究线索。实验室名单含学生和前成员，须以院系任职作补证。现代几何与其他数学教研单位仍待查。",
-    "kaust": "已提取 AMCS 科研项目公开人员表及档案链接。项目同时列教学、兼职及研究岗，需按个人资料核实任职类型，其他院系交叉导师待核。",
+    "mipt": "已查俄文系所结构、现代数学课程、2025–26 高等数学选修课及校方教务。课程授课与现任导师分开，继续保留任职来源缺项。",
+    "kaust": "已查 AMCS、CEMSE 教职表，补查数学建模的 differential geometry 主题及数学和数据科学会议。主题页出现读取失败，会议讲者与现职须经校级档案区分。",
     "cairo": "已查理学院数学教研人员与 Cairo University Scholars 名录和个人成果。核对 Finsler 几何学者的职级。剩余专业及校内联合单位待核。",
     "isi": "已提取 Kolkata 单元名册和跨校区统计与数学分部中央名册，分别保留来源。Delhi、Bangalore 的具体任职及跨校区同人仍待核。",
-    "nust": "已提取自然科学学院目录所标注的数学系人员，并保留数学研究分组入口。联合研究所、荣休或访问人员及公开研究方向待核。",
-    "utm": "已提取数学科学系人员卡，并区分卡片明示的教授与退休信息。逐人详情与研究组的方向和链接待核。",
+    "nust": "已查自然科学学院数学研究组和 2025–26 课程表，几何教学证据已经与研究任职区分。现任几何相关研究方向与联聘仍待核。",
+    "utm": "已查理学院、数学科学系、理学院学术人员名录及岗位学科清单。岗位方向中列有几何，仍缺能确认现任个人研究方向的证据。",
     "warsaw": "已提取波兰语人员表中列于数学研究所者及代数几何研究目录。微分和复几何、临时项目与联合任职须逐一查校级档案。",
     "punjab": "已提取 Institute of Mathematics 教学人员具名卡片。学院普通名录和官方导师列表的交叉身份及学者细分方向待核。",
-    "uc3m": "已检查数学系西语的讲席、终身、初级和荣休人员名录及教学名录，学者研究方向、其他类别和合聘尚待逐条对账。",
-    "vit-vellore": "已定位 School of Advanced Sciences 数学教师目录，按卡片提取公开职级，研究指南和不同校区的覆盖仍待区分。",
-    "uts-sydney": "已从 Mathematical Sciences 官方研究介绍提取具名人员和个人档案。School of Mathematical and Physical Sciences 的动态名录及纯数学细分课题待核。",
+    "uc3m": "已查数学系官方任职公告、校级成果门户、地区联合成果库与出版社专页，确认双曲流形和黎曼曲面研究。其他相关团队成员与联合任职待核。",
+    "vit-vellore": "已查 Vellore 与 Chennai 的教师及招生指导名单。当前几何线索见于教学文档，能证实该校区现任研究方向的个人页待核。",
+    "uts-sydney": "已查理学院专家目录、数学方向论文以及 2025 荣誉项目说明。补查资料中的微分几何多为指定课题或学生论文，导师是否属于收录方向须结合研究档案。",
     "tec-monterrey": "已检查校级 VIVO 的工程与科学学院 Professor 分栏和个人科研页，核实 Campus Monterrey 学者。其他城市的校区与学院分组仍待对账。",
     "michigan-state": "已核录代数几何与数论组及几何分析组的官方 Faculty 分组，逐人核对部分任职、公开 CV 和方向，荣休及不同分组的重复仍待对账。",
-    "rudn": "已查理学院与尼科尔斯基研究所结构、科研项目和具名俄文个人档案。非交换几何和指标理论单列作相邻方向，历史任职与几何在研人员仍须对照。",
+    "rudn": "已查俄文招生教师库、尼科尔斯基研究所结构、科研项目及个人档案。指标理论和非交换几何与本库方向分别记录；现行全员专长仍待对照。",
     "iit-delhi": "已解析院系 Faculty 网页调用的公开名单及研究标签，并检查继续教育平台研究领域。公开页目前返回 34 张教师卡，联合单位与缺少方向简介的个人仍待核。",
     "malaya": "已逐条读取数学科学研究所学术人员页链接的校级 UMExpert 档案，按个人页确认姓名和所属单位。存在一份超过抓取大小限制的页面，其他不符或无法确认的单位、职级和研究分组待核。",
     "bit": "已核录数学与统计学院数学系官方中文名册的 35 人。另查代数李理论与分析实验室并用个人页核实几何学者，其余教师细分方向与研究中心的共同任职仍待核。",
     "ens-lyon": "已查数学系、校方 UMPA 联合实验室和 CNRS 研究网络，提取几何专题组公开名单。Annuaire 返回 403；研究网络仍列已转任人员，正按个人任职证据复核整个实验室的实际现任人员。",
     "iit-kharagpur": "已查院系 Faculty 入口、官方科研概况、继续教育项目与院系内部实验室。科研概况列 37 名教师但未具名，实验室名单仅覆盖该组，两条线索均无法覆盖院系全量方向。已核对一位代数几何研究者。",
     "eindhoven": "已查数学与计算机科学系科研门户、离散代数与几何英荷双语研究组及个人页。已核录部分组员并按个人页区分兼职。组的完整名单、其他系组和校外联合任职待核。",
-    "jordan": "理学院、SharePoint 和校级研究组门户均拒绝直接访问。已检查不同语言入口、课程与专业计划及个人公开 CV。课程资料可核个别任职，未找到当前数学系全员名册。",
+    "jordan": "重新查理学院、SharePoint、校级 eAcademic 和阿文个人 CV 索引。最后两种可确认个别教师，理学院的现任数学系全员目录仍无法读取或提取，未以单人文件替代。",
     "heriot-watt": "已核录科研门户数学可读索引的部分人员与职级，交叉检查数学物理组、Tait Institute 和个人档案。联合 Maxwell Institute 与其他分页待综合对账。",
     "novosibirsk": "已查力学数学系、基础数学团队、NSU 隶属单位俄文个人履历及索博列夫数学研究所公开页。校内几何与拓扑完整名单缺现行快照，联合任职另待核。",
-    "spbu": "已从俄文科研门户核录高等几何教研室 9 名相关人员。其余教研室、俄英文同名、个人方向和现任职级待对账。",
+    "spbu": "已查俄文高等代数与数论、高等数学与数学物理、数学与计算机科学科研门户，按个别科研项目及档案确认动机理论。各系后续分页与联合研究所仍待核。",
     "uba": "已提取数学系西语 Profesores 的 72 张姓名卡，并参考几何专题研讨班、教师聘任公告和个人主页。现任职级、其他组及联合任职仍待逐人对账。",
     "psl": "已核对 ENS-PSL 的 DMA 名册及代数与几何组公开人员卡，并用个人页复核常任研究与联合归属。法国其他单位的共同任职仍待核。",
     "aix-marseille": "已查 I2M 的 AGT 研究团队、全体成员名录及具名个人页，确认部分 AMU 任职。中心的其他组和多单位联合任职尚需逐人确认。",
@@ -230,7 +230,10 @@
     "qau": "已逐人核对数学系现行目录的 17 份个人页，确认 2 人。另查学院部门总览、科研办公室、行政名录、2019–2020 年 HEC 档案和物理系 17 人目录。物理系部分个人页未返回可核内容，外聘及跨单位任职仍缺现行可核名录。",
     "fau": "已查现任数学系 A–Z、德文教席表和 Algebra and Geometry 小组，按个人发表内容确认代数几何，并区分荣休和 Privatdozent。其他科研分组的专长及联合任职仍待逐人核对。",
     "zjnu": "已查数学科学学院现任师资队伍、校方学术报告与近期出版社署名，确认复几何和整体微分几何。博士招生名单包含跨单位合作，个人归属仍需对照。",
-    "comsats": "已查 Lahore 校区数学个人页和 Wah 校区研究组，另有 Sahiwal 等校区入口。休假状态和组合交换代数已记录，各校区其余任职及几何方向待核。"
+    "comsats": "已查 Lahore、Wah 校区数学名册、研究组和校级个人页，查到组合交换代数和优化方向。其他校区几何方向与联聘待核。",
+    "prince-sattam": "已补查 PSAU 官网数学系、相关学院与英文几何方向索引，未发现能同时核实三类方向及当前职位的个人记录。",
+    "tu-delft": "已查应用数学组、Analysis 小组、校级 Pure 科研门户及本人主页，确认辛几何与几何量子化教师。数学所其他分组的个人专长和造访岗位待核。",
+    "khalifa": "已查官方数学单位、教师科研门户和微分几何课程页，已区分课程覆盖与数学教师的个人研究方向。其他专长和联合任职待核。"
   },
   "latestProfileRun": {
     "checkedAt": "2026-11-24",
@@ -246,6 +249,1279 @@
         "lse-math-source"
       ],
       "scope": "现行数学系常任与访问名册；另核公开数学研究组与统计系研究方向。"
+    }
+  },
+  "cvLinkAudit": {
+    "checkedAt": "2026-11-24",
+    "checked": 201,
+    "responded": 182,
+    "records": {
+      "aaron-greicius": [
+        {
+          "url": "https://greicius.wordpress.com/wp-content/uploads/2022/05/greiciuscv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "aaron-pixton": [
+        {
+          "url": "https://public.websites.umich.edu/~pixton/CV.pdf",
+          "status": "HEAD HTTP 403；GET HTTP 200，已识别 PDF"
+        }
+      ],
+      "abhishek-banerjee": [
+        {
+          "url": "https://drive.google.com/file/d/16LG0c2Qpp23ycEG-k_nWD9nkvg7u3U6K/view?usp=sharing",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "alan-thompson": [
+        {
+          "url": "https://alanthompson.rocks/CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "alberto-s-cattaneo": [
+        {
+          "url": "https://user.math.uzh.ch/cattaneo/curr.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "aleksander-doan": [
+        {
+          "url": "https://www.homepages.ucl.ac.uk/~ucahoan/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "aleksey-zinger": [
+        {
+          "url": "https://www.math.stonybrook.edu/~azinger/research/cv2.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "alessandro-chiodo": [
+        {
+          "url": "https://webusers.imj-prg.fr/~alessandro.chiodo/cv_en.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "alexander-perry": [
+        {
+          "url": "https://public.websites.umich.edu/~arper/CV.pdf",
+          "status": "HEAD HTTP 403；GET HTTP 200，已识别 PDF"
+        }
+      ],
+      "alexander-yong": [
+        {
+          "url": "https://ayong.web.illinois.edu/cv.html",
+          "status": "HEAD HTTP 415；GET HTTP 200"
+        }
+      ],
+      "andrea-di-lorenzo": [
+        {
+          "url": "https://anddil.github.io/_pages/CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "andrea-petracci": [
+        {
+          "url": "https://www.dm.unibo.it/~andrea.petracci3/CV_Petracci.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "andres-fernandez-herrero": [
+        {
+          "url": "https://web.sas.upenn.edu/andresfh/files/2026/10/CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "angel-gonzalez-prieto": [
+        {
+          "url": "https://blogs.mat.ucm.es/angelgonzalezprieto/wp-content/uploads/sites/89/2026/01/CVAngelGonzalezPrieto.pdf",
+          "status": "HEAD HTTP 404；GET HTTP 404"
+        },
+        {
+          "url": "https://www.mat.ucm.es/decanato/cvs/AGT/cvAG.pdf",
+          "status": "GET HTTP 404"
+        },
+        {
+          "url": "https://blogs.mat.ucm.es/angelgonzalezprieto/wp-content/uploads/sites/89/2025/04/CVAngelGonzalezPrieto.pdf",
+          "status": "GET HTTP 404"
+        },
+        {
+          "url": "https://blogs.mat.ucm.es/angelgonzalezprieto/cvangelgonzalezprieto/",
+          "status": "校方站点替代 CV，已核具名 PDF"
+        }
+      ],
+      "angelo-vistoli": [
+        {
+          "url": "https://homepage.sns.it/vistoli/CVVistoli.pdf",
+          "status": "HEAD 连接失败；GET 连接失败"
+        }
+      ],
+      "anna-felikson": [
+        {
+          "url": "https://www.maths.dur.ac.uk/users/anna.felikson/apply/CV_3-26.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "antonio-alarcon-lopez": [
+        {
+          "url": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/antonio-alarcon-lopez.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "anusha-mangala-krishnan": [
+        {
+          "url": "https://www.math.iitb.ac.in/~anushamk/AnushaMKrishnanCV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "aravind-asok": [
+        {
+          "url": "https://dornsife.usc.edu/aravind-asok/short-cv/",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "arend-bayer": [
+        {
+          "url": "https://webhomes.maths.ed.ac.uk/~abayer/CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "artem-pulemotov": [
+        {
+          "url": "https://people.smp.uq.edu.au/ArtemPulemotov/CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "avik-de": [
+        {
+          "url": "https://umexpert.um.edu.my/avikde.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "avraham-rami-aizenbud": [
+        {
+          "url": "https://www.wisdom.weizmann.ac.il/~aizenr/3CV/cv.pdf",
+          "status": "HEAD HTTP 404；GET HTTP 404"
+        }
+      ],
+      "barbara-fantechi": [
+        {
+          "url": "https://www.lincei.it/sites/default/files/2024-10/3074_CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "ben-weinkove": [
+        {
+          "url": "https://drive.google.com/file/d/1yVw8eq7-nqJ9cKCdts7utdHZ5b7o6M1d/view?usp=sharing",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "bernd-ulrich": [
+        {
+          "url": "https://www.math.purdue.edu/~bulrich/vita.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "calum-spicer": [
+        {
+          "url": "https://sites.google.com/view/calumspicer/home/cv",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "caterina-consani": [
+        {
+          "url": "https://mathematics.jhu.edu/wp-content/uploads/sites/62/2015/06/KConsani-CV2026_tagged.pdf",
+          "status": "HEAD HTTP 403；GET HTTP 403"
+        }
+      ],
+      "chi-li": [
+        {
+          "url": "https://math.jhu.edu/~chili/ChiLi-CV.pdf",
+          "status": "HEAD HTTP 403；GET HTTP 403"
+        }
+      ],
+      "choi-sung-rak": [
+        {
+          "url": "https://drive.google.com/file/d/1w7sTrHY2JDV4DyY-DHgPhy4qH33SoaQN/view?usp=sharing",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "christian-liedtke": [
+        {
+          "url": "https://www.math.cit.tum.de/algebra/liedtke/curriculum-vitae/",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "christian-schnell": [
+        {
+          "url": "https://www.math.stonybrook.edu/rtg/ProfessionalDevelopment/christian/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "christopher-bishop": [
+        {
+          "url": "https://www.math.stonybrook.edu/~bishop/vita",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "christopher-eur": [
+        {
+          "url": "https://www.math.cmu.edu/~ceur/pdf/Eur_CV_Feb2026.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "claudio-gorodski": [
+        {
+          "url": "https://users.ime.usp.br/~gorodski/cv2018.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "curtis-t-mcmullen": [
+        {
+          "url": "https://people.math.harvard.edu/~ctm/vita/index.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "daniel-huybrechts": [
+        {
+          "url": "https://www.math.uni-bonn.de/people/huybrech/CVHuybrechts.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "daniel-stern": [
+        {
+          "url": "https://drive.google.com/file/d/1kGwHZgCVOkmt8DFWg-u5XFTsdSOd0jvi/view?usp=sharing",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "dano-kim": [
+        {
+          "url": "https://drive.google.com/file/d/1dZRMhEW3Ur4Sts5QI0s0D2DKTmXourWl/view?usp=drive_link",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "dat-pham": [
+        {
+          "url": "https://webusers.imj-prg.fr/~dat.pham/CV_5.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "daud-ahmad": [
+        {
+          "url": "https://pu.edu.pk/images/cv/1401252171422.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "david-anderson": [
+        {
+          "url": "https://people.math.osu.edu/anderson.2804/cv.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "david-ben-zvi": [
+        {
+          "url": "https://directory.cns.utexas.edu/sites/default/files/2025-02/240901vita.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "david-holmes": [
+        {
+          "url": "https://www.davidholmes.nl/images/pdfs/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "david-rydh": [
+        {
+          "url": "https://people.kth.se/~dary/Rydh-CV-20230508.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "demetre-p-kazaras": [
+        {
+          "url": "https://directory.natsci.msu.edu/media/Directory/Profiles/CV-dkazara20240221122321.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "dhruv-ranganathan": [
+        {
+          "url": "https://www.google.com/url?q=https%3A%2F%2Fwww.dpmms.cam.ac.uk%2F~dr508%2Fcv.pdf&sa=D&sntz=1&usg=AOvVaw3HvGpg6DBrthBgt841uc1D",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "dima-arinkin": [
+        {
+          "url": "https://people.math.wisc.edu/~arinkin/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "dinh-tien-cuong": [
+        {
+          "url": "https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/e/15447/files/2023/05/Dinh-CV_2023.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "dori-bejleri": [
+        {
+          "url": "https://math.umd.edu/~dbejleri/cv_03192025.pdf",
+          "status": "HEAD HTTP 404；GET HTTP 404"
+        },
+        {
+          "url": "https://math.umd.edu/~dbejleri/cv_01312024.pdf",
+          "status": "GET HTTP 404"
+        },
+        {
+          "url": "https://people.math.harvard.edu/~bejleri/cv_01222023.pdf",
+          "status": "GET HTTP 200，已识别 PDF"
+        }
+      ],
+      "elana-kalashnikov": [
+        {
+          "url": "https://uwaterloo.ca/scholar/sites/ca.scholar/files/e2kalash/files/full_cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "elina-robeva": [
+        {
+          "url": "https://personal.math.ubc.ca/~erobeva/ElinaRobevaResumeSep2024.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "emilio-franco-gomez": [
+        {
+          "url": "https://matematicas.uam.es/~e.franco/web/cva_EFranco.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "emily-dumas": [
+        {
+          "url": "https://www.dumas.io/work/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "enrique-arrondo-esteban": [
+        {
+          "url": "https://www.mat.ucm.es/arrondo/cv/",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "eva-miranda": [
+        {
+          "url": "https://web.mat.upc.edu/eva.miranda/nova/cvenglish.pdf",
+          "status": "HEAD 连接失败；GET 连接失败"
+        }
+      ],
+      "fabricio-valencia-quintero": [
+        {
+          "url": "http://lattes.cnpq.br/6532660033861892",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "felix-janda": [
+        {
+          "url": "https://fjanda.web.illinois.edu/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "fernando-coda-marques": [
+        {
+          "url": "https://www.math.princeton.edu/sites/default/files/2019-01/marques_cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "francesco-bottacin": [
+        {
+          "url": "https://www.math.unipd.it/~bottacin/curriculum.htm",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "francesco-maggi": [
+        {
+          "url": "https://web.ma.utexas.edu/users/maggi/CV.pdf",
+          "status": "HEAD 连接失败；GET 连接失败"
+        }
+      ],
+      "frank-sottile": [
+        {
+          "url": "https://franksottile.github.io/CV.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "gang-tian": [
+        {
+          "url": "https://tian.bicmr.pku.edu.cn/Brief_CV.htm",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "gavril-farkas": [
+        {
+          "url": "https://www.mathematik.hu-berlin.de/~farkas/vita2.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "giancarlo-urzua": [
+        {
+          "url": "https://www.mat.uc.cl/~urzua/giancv2019.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "giovanni-catino": [
+        {
+          "url": "https://onlineservices.polimi.it/manifesti/manifesti/controller/ricerche/Cv.do?evn_downloadcv=evento&id_cv=619413&jaf_currentWFID=main",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "giovanni-inchiostro": [
+        {
+          "url": "https://sites.math.washington.edu/~ginchios/CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "giovanni-mongardi": [
+        {
+          "url": "https://www.unibo.it/sitoweb/giovanni.mongardi2/download/curriculum_current.pdf",
+          "status": "HEAD HTTP 404；GET HTTP 404"
+        },
+        {
+          "url": "https://www.dropbox.com/scl/fi/bk3v6yh6viffh5x6jxu88/curriculum_current.pdf?dl=1&rlkey=yjyep3malsypee9o0geg40aur",
+          "status": "官网所链 PDF，已核姓名"
+        }
+      ],
+      "h-blaine-lawson-jr": [
+        {
+          "url": "https://www.math.stonybrook.edu/~blaine/Vita.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "hamid-abban": [
+        {
+          "url": "https://sites.google.com/view/hamid-abban/home",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "haotian-wu": [
+        {
+          "url": "https://talus.maths.usyd.edu.au/u/haotianw/cv_hwu_2025.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "hokuto-konno": [
+        {
+          "url": "https://www.ms.u-tokyo.ac.jp/~konno/eng_CV.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "hubert-bray": [
+        {
+          "url": "http://fds.duke.edu/db/aas/math/faculty/bray/cv.html",
+          "status": "HEAD HTTP 404；GET HTTP 404"
+        },
+        {
+          "url": "https://scholars.duke.edu/person/hubert.bray/credentials",
+          "status": "GET 连接失败"
+        }
+      ],
+      "hulya-arguz": [
+        {
+          "url": "https://www.maths.ox.ac.uk/system/files/users/cv/CV_Hulya_Arguz.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "ivan-cheltsov": [
+        {
+          "url": "https://webhomes.maths.ed.ac.uk/cheltsov/pdf/cvlong.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "ivan-izmestiev": [
+        {
+          "url": "https://www.tuwien.at/en/tu-wien/organisation/central-divisions/professorships-at-tu-wien/new-professors-since-2019/new-professors-by-alphabetical-order/i/univprof-drhabil-ivan-izmestiev",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "j-maurice-rojas": [
+        {
+          "url": "https://artsci.tamu.edu/mathematics/_files/_docs/faculty-docs/j-m-rojas-cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "jake-levinson": [
+        {
+          "url": "https://dms.umontreal.ca/~levinsonj/JakeLevinson_CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "janos-kollar": [
+        {
+          "url": "https://web.math.princeton.edu/~kollar/FromMyHomePage/janosvita2022.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "jarod-daniel-alper": [
+        {
+          "url": "https://sites.math.washington.edu/~jarod/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "jaroslaw-wlodarczyk": [
+        {
+          "url": "https://www.math.purdue.edu/%7Ewlodar/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "jason-starr": [
+        {
+          "url": "https://www.math.stonybrook.edu/~jstarr/vita_06_21a.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "jean-van-schaftingen": [
+        {
+          "url": "https://perso.uclouvain.be/jean.vanschaftingen/cv.php?details=true&lang=en",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "jihun-park": [
+        {
+          "url": "https://math.postech.ac.kr/en/bbs/faq.php?fm_id=1",
+          "status": "旧链接为院系共用 FAQ"
+        }
+      ],
+      "jim-bryan": [
+        {
+          "url": "https://personal.math.ubc.ca/~jbryan/CV/CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "joaquin-moraga": [
+        {
+          "url": "http://www.math.ucla.edu/~jmoraga/CV-Joaquin-Moraga",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "jonathan-montano": [
+        {
+          "url": "https://j-montano.github.io/CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "joseph-d-rabinoff": [
+        {
+          "url": "https://sites.math.duke.edu/~jdr/misc/CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "kaibo-hu": [
+        {
+          "url": "https://www.maths.ox.ac.uk/system/files/users/cv/cv_Kaibo_12.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "kathlen-kohn": [
+        {
+          "url": "https://kathlenkohn.github.io/#education",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "kazushi-ueda": [
+        {
+          "url": "https://www.ms.u-tokyo.ac.jp/~kazushi/cv.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "kengo-hirachi": [
+        {
+          "url": "https://www.ms.u-tokyo.ac.jp/~hirachi/cv.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "kevin-tucker": [
+        {
+          "url": "https://drive.google.com/file/d/1ie35RL51Erx_uVzVzsRItSJP827EEuFc/view?usp=sharing",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "kobe-marshall-stevens": [
+        {
+          "url": "https://kobe-marshall-stevens.github.io/CV_15_October.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "konstantin-ardakov": [
+        {
+          "url": "https://www.maths.ox.ac.uk/system/files/users/cvs/CV_14.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "kristin-devleming": [
+        {
+          "url": "https://sites.google.com/ucsd.edu/kedevleming/cv",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "kyoung-seog-lee": [
+        {
+          "url": "https://sites.google.com/site/kyoungseogleemath/brief-cv",
+          "status": "本人主页所链具名简版 CV"
+        }
+      ],
+      "laszlo-yves": [
+        {
+          "url": "https://www.imo.universite-paris-saclay.fr/media/filer_public/fd/c0/fdc0783b-3fdc-40af-8c7b-9074642d9100/cv-gene.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "laura-demarco": [
+        {
+          "url": "https://people.math.harvard.edu/~demarco/DeMarco_CV_short_May2026.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "laura-felicia-matusevich": [
+        {
+          "url": "https://artsci.tamu.edu/mathematics/_files/_docs/faculty-docs/l-f-matusevich-cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "laura-schaposnik": [
+        {
+          "url": "https://lauraschaposnik.com/cv/",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "lena-ji": [
+        {
+          "url": "https://lji.web.illinois.edu/lena-cv.pdf",
+          "status": "HEAD HTTP 415；GET HTTP 200"
+        }
+      ],
+      "lenny-taelman": [
+        {
+          "url": "https://staff.fnwi.uva.nl/l.d.j.taelman/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "li-buyang": [
+        {
+          "url": "https://libuyang.com/CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "lie-fu": [
+        {
+          "url": "https://irma.math.unistra.fr/~lfu/CV/CV_LieFu_en.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "lim-woonam": [
+        {
+          "url": "https://drive.google.com/file/d/12oUzkwwlC78B5lhLv2J_wA4VaOHsA-0p/view?usp=sharing",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "linquan-ma": [
+        {
+          "url": "https://www.math.purdue.edu/~ma326/CV-Ma.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "ljudmila-kamenova": [
+        {
+          "url": "https://www.math.stonybrook.edu/~kamenova/homepage_files/lvita.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "luca-migliorini": [
+        {
+          "url": "https://www.unibo.it/sitoweb/luca.migliorini/cv",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "luis-narvaez-macarro": [
+        {
+          "url": "https://personal.us.es/narvaez/CV_narvaez_en.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "macri-emanuele": [
+        {
+          "url": "https://www.imo.universite-paris-saclay.fr/~emanuele.macri/CV_macri.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "mahesh-kakde": [
+        {
+          "url": "https://math.iisc.ac.in/~maheshkakde/CV.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "man-chun-lee": [
+        {
+          "url": "https://drive.google.com/file/d/1Z6AmNZu9h4ppK13bTiZWkZ52IUm_NAGE/view?usp=drive_link",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "marco-maculan": [
+        {
+          "url": "https://webusers.imj-prg.fr/~marco.maculan/doc/cv_short.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "marcos-jardim": [
+        {
+          "url": "https://cvlattes.ime.unicamp.br/membro-2727103456060186.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "mariel-ines-aura-saez-trumper": [
+        {
+          "url": "https://www.mat.uc.cl/~mariel/CVmariel2025short.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "marina-logares-jimenez": [
+        {
+          "url": "https://www.mat.ucm.es/decanato/cvs/AGT/cvML.pdf",
+          "status": "HEAD HTTP 404；GET HTTP 404"
+        },
+        {
+          "url": "https://www.ucm.es/marina_logares/curriculum",
+          "status": "GET HTTP 200"
+        }
+      ],
+      "mario-kummer": [
+        {
+          "url": "https://tu-dresden.de/mn/math/geometrie/kummer/ressourcen/dateien/cv-1.pdf/at_download/file?lang=en",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "mark-andrea-de-cataldo": [
+        {
+          "url": "https://www.math.stonybrook.edu/~mde/vita.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "mark-gross": [
+        {
+          "url": "https://www.dpmms.cam.ac.uk/~mg475/cv2024.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "mark-mclean": [
+        {
+          "url": "https://www.math.stonybrook.edu/sites/default/files/MCLEAN%20CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "martin-man-chun-li": [
+        {
+          "url": "https://www.math.cuhk.edu.hk/~martinli/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "martin-olsson": [
+        {
+          "url": "https://sites.google.com/berkeley.edu/martin-olsson/cv",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "martin-sombra": [
+        {
+          "url": "https://www.maia.ub.edu/~sombra/cv.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "matilde-marcolli": [
+        {
+          "url": "https://www.its.caltech.edu/~matilde/MarcolliCVPubList2023.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "mattias-jonsson": [
+        {
+          "url": "https://sites.lsa.umich.edu/mattiasj/cv/",
+          "status": "HEAD HTTP 403；GET HTTP 403"
+        }
+      ],
+      "maya-banks": [
+        {
+          "url": "https://sites.google.com/view/mayabanks/cv",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "melanie-matchett-wood": [
+        {
+          "url": "https://people.math.harvard.edu/~mmwood/MWoodCV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "melody-chan": [
+        {
+          "url": "https://www.math.brown.edu/mchan2/MChanCV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "mengwei-hu": [
+        {
+          "url": "https://hmengwei.github.io/CV/MengweiHu_CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "michael-bulois": [
+        {
+          "url": "https://perso.univ-st-etienne.fr/bm29130h/pageperso/pdf/CV_bulois_francais.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "mihnea-popa": [
+        {
+          "url": "https://people.math.harvard.edu/~mpopa/mini_CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "milena-hering": [
+        {
+          "url": "https://webhomes.maths.ed.ac.uk/~mhering/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "mircea-mustata": [
+        {
+          "url": "https://public.websites.umich.edu/~mmustata/CV-3_15_2025.pdf",
+          "status": "HEAD HTTP 403；GET HTTP 200，已识别 PDF"
+        }
+      ],
+      "moreau-anne": [
+        {
+          "url": "https://www.imo.universite-paris-saclay.fr/~moreau/CV.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "nariya-kawazumi": [
+        {
+          "url": "https://www.ms.u-tokyo.ac.jp/~kawazumi/CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "nelly-villamizar": [
+        {
+          "url": "https://drive.google.com/file/d/0B9WV7xAaIfNQaC1FUFZIUnNuNDQ/view",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "niels-martin-mller": [
+        {
+          "url": "https://web.math.ku.dk/~nmoller/NielsMartinMollerCVEnglish_web.pdf",
+          "status": "HEAD 连接失败；GET 连接失败"
+        }
+      ],
+      "nikita-karpenko": [
+        {
+          "url": "https://sites.ualberta.ca/~karpenko/CVweb.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "niky-kamran": [
+        {
+          "url": "https://academieroyale.be/Academie/documents/CVAcademie202229633.pdf",
+          "status": "HEAD 连接失败；GET 连接失败"
+        }
+      ],
+      "paula-burkhardt-guim": [
+        {
+          "url": "https://www.math.stonybrook.edu/~paula/PBGCV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "pavel-tumarkin": [
+        {
+          "url": "https://www.maths.dur.ac.uk/users/pavel.tumarkin/cv_short.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "person-080a81a4b16f": [
+        {
+          "url": "https://sites.google.com/view/math-matsumura/cv",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "person-0a2cbc02f7e9": [
+        {
+          "url": "https://sites.google.com/view/akanazawa/cv",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "person-6840b86d69f0": [
+        {
+          "url": "https://jingjunhan.github.io/cv.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "person-f79caf0492ec": [
+        {
+          "url": "https://www.math.tsinghua.edu.cn/__local/9/B4/9D/3B02D8F6FD90D3327D2B6A7088F_6528FF71_3F6799.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "person-fd1dbfd60541": [
+        {
+          "url": "https://chenjiangfudan.github.io/home/cv.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "person-fecad5678425": [
+        {
+          "url": "https://zhichaonk.github.io/CV_Zhichao.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "peter-beelen": [
+        {
+          "url": "https://people.compute.dtu.dk/pabe/downloads/cv_pbe.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "peter-schroder": [
+        {
+          "url": "https://www.multires.caltech.edu/pubs/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "philippe-eyssidieux": [
+        {
+          "url": "https://www-fourier.univ-grenoble-alpes.fr/~eyssi/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "pinakinath-saha": [
+        {
+          "url": "https://pinakinath.github.io/pinakinath_cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "qirui-li": [
+        {
+          "url": "https://math.postech.ac.kr/en/bbs/faq.php?fm_id=1",
+          "status": "HEAD 返回成功"
+        },
+        {
+          "url": "https://qirui.li/cv.pdf",
+          "status": "本人主页所链具名 PDF"
+        }
+      ],
+      "quoc-ho": [
+        {
+          "url": "https://quocho.com/assets/cv-ho.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "radu-laza": [
+        {
+          "url": "https://www.math.stonybrook.edu/~rlaza/resume.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "rafe-mazzeo": [
+        {
+          "url": "https://cap.stanford.edu/profiles/viewCV?facultyId=10624&name=Rafe_Mazzeo",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "ralph-kaufmann": [
+        {
+          "url": "https://www.math.purdue.edu/%7Erkaufman/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "rathish-kumar-b-v": [
+        {
+          "url": "https://www.iitk.ac.in/data/cv/B-V-Rathish-Kumar-cv-29-04-25.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "robert-bryant": [
+        {
+          "url": "https://fds.duke.edu/db/aas/math/faculty/bryant/cv.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "robert-haslhofer": [
+        {
+          "url": "https://www.math.utoronto.ca/roberth/cv_haslhofer.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "robin-de-jong": [
+        {
+          "url": "https://pub.math.leidenuniv.nl/~jongrsde/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "ruadhai-dervan": [
+        {
+          "url": "https://www.maths.gla.ac.uk/~rdervan/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "rui-loja-fernandes": [
+        {
+          "url": "https://publish.illinois.edu/ruiloja/cv/",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "saikat-mazumdar": [
+        {
+          "url": "https://www.math.iitb.ac.in/~saikat/CV_Oc2026.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "sam-payne": [
+        {
+          "url": "https://sites.lsa.umich.edu/sdpayne/wp-content/uploads/sites/1450/2025/12/CV2025.pdf",
+          "status": "HEAD HTTP 403；GET HTTP 200，已识别 PDF"
+        }
+      ],
+      "samuel-grushevsky": [
+        {
+          "url": "https://www.math.stonybrook.edu/~sam/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "sandra-di-rocco": [
+        {
+          "url": "https://www.kth.se/profile/dirocco/page/curriculum-vitae?l=en",
+          "status": "HEAD HTTP 400；GET HTTP 302"
+        },
+        {
+          "url": "https://www.kth.se/files/view/dirocco/664ddbbab963d61d7be4077c/cv2024.pdf",
+          "status": "GET HTTP 200，已识别 PDF"
+        }
+      ],
+      "saugata-basu": [
+        {
+          "url": "https://www.math.purdue.edu/~sbasu/moderncv2026.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "sheldon-katz": [
+        {
+          "url": "http://katzs.web.illinois.edu/vita.pdf",
+          "status": "HEAD HTTP 415；GET HTTP 200"
+        }
+      ],
+      "shengwen-wang": [
+        {
+          "url": "https://irp.cdn-website.com/a78568ae/files/uploaded/cv.pdf",
+          "status": "HEAD HTTP 403；GET HTTP 403"
+        }
+      ],
+      "shubhodip-mondal": [
+        {
+          "url": "https://www.math.purdue.edu/~mondalsh/CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "simone-diverio": [
+        {
+          "url": "https://web.uniroma1.it/trasparenza/sites/default/files/cv%20Diverio.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "sonja-mapes": [
+        {
+          "url": "https://drive.google.com/file/d/1w8QpK-fogEboQ99pM-NEeP0wFhd0ul5Y/view?usp=drive_link",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "stefano-filipazzi": [
+        {
+          "url": "https://filipazzi.github.io/cv_filipazzi.pdf",
+          "status": "HEAD HTTP 404；GET HTTP 404"
+        },
+        {
+          "url": "https://sma.epfl.ch/~filipazz/cv_filipazzi.pdf",
+          "status": "GET 连接失败"
+        },
+        {
+          "url": "https://filipazzi.github.io/short_cv.html",
+          "status": "本人主页所链具名简版 CV"
+        }
+      ],
+      "sudarshan-r-gurjar": [
+        {
+          "url": "https://www.math.iitb.ac.in/~sgurjar/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "sun-yung-alice-chang": [
+        {
+          "url": "https://www.math.princeton.edu/sites/default/files/2022-12/22changcv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "swarnendu-sil": [
+        {
+          "url": "https://math.iisc.ac.in/~ssil/cv.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "takeshi-saito": [
+        {
+          "url": "https://www.ms.u-tokyo.ac.jp/~t-saito/vita.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "tatsuro-kawakami": [
+        {
+          "url": "https://sites.google.com/view/tatsurokawakami/home/cv",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "tianling-jin": [
+        {
+          "url": "https://www.math.hkust.edu.hk/~tianlingjin/CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "tim-hoffmann": [
+        {
+          "url": "https://www.math.cit.tum.de/en/math/people/professors/hoffmann-tim/",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "tobias-holck-colding": [
+        {
+          "url": "https://math.mit.edu/documents/uploads/cv/2026_01_20_CV_colding.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "tom-bridgeland-frs": [
+        {
+          "url": "https://drive.google.com/file/d/18wtLiiXS2gLxkC_A4XYXtpjRQxBSRwB7/view?usp=sharing",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "tomasz-mrowka": [
+        {
+          "url": "https://math.mit.edu/documents/uploads/cv/2024_09_13_CV_mrowka.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "uli-walther": [
+        {
+          "url": "https://www.math.purdue.edu/~walther/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "umberto-hryniewicz": [
+        {
+          "url": "https://www.mathga.rwth-aachen.de/~hryniewicz/files/vita.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "valentino-tosatti": [
+        {
+          "url": "https://cims.nyu.edu/~tosatti/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "ved-datar": [
+        {
+          "url": "https://math.iisc.ac.in/~vvdatar/Ved_Datar_CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "vlere-mehmeti": [
+        {
+          "url": "https://webusers.imj-prg.fr/~vlere.mehmeti/CV1.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "william-minicozzi": [
+        {
+          "url": "https://math.mit.edu/documents/uploads/cv/2026_04_13_CV_minicozz.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "william-yun-chen": [
+        {
+          "url": "https://www.williamyunchen.com/s/cv-jb2l.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "wouter-van-limbeek": [
+        {
+          "url": "https://homepages.math.uic.edu/~vanlimbeek/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "xiaodong-wang": [
+        {
+          "url": "https://users.math.msu.edu/users/xwang/x.wang-cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "xuemiao-chen": [
+        {
+          "url": "https://www.math.uwaterloo.ca/~x67chen/cv.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "yoel-groman": [
+        {
+          "url": "https://math.huji.ac.il/~ygroman/CV.pdf",
+          "status": "HEAD 连接失败；GET 连接失败"
+        }
+      ],
+      "yoshinori-gongyo": [
+        {
+          "url": "https://www.ms.u-tokyo.ac.jp/~gongyo/cv.html",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "yuchen-liu": [
+        {
+          "url": "https://faculty.wcas.northwestern.edu/yuchenl/cv - Yuchen Liu.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "yulia-alexandr": [
+        {
+          "url": "https://yuliaalexandr.github.io/CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "zhang-de-qi": [
+        {
+          "url": "https://bpb-us-w2.wpmucdn.com/blog.nus.edu.sg/dist/c/10889/files/2024/07/ZhangDQ_1pag_CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "zheng-hua": [
+        {
+          "url": "https://hkumath.hku.hk/~huazheng/CV_Hua.pdf",
+          "status": "HEAD 连接失败；GET 连接失败"
+        }
+      ],
+      "zhihan-wang": [
+        {
+          "url": "https://drive.google.com/file/d/1M2m4NmvaX44vM-8CYWNLtAvIj2HrecCT/view?usp=sharing",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "zihui-zhao": [
+        {
+          "url": "https://zhaozh.xyz/CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ],
+      "zsolt-patakfalvi": [
+        {
+          "url": "https://www.epfl.ch/labs/cag/wp-content/uploads/2021/10/CV.pdf",
+          "status": "HEAD 返回成功"
+        }
+      ]
     }
   }
 }

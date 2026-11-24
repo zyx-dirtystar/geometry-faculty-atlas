@@ -333,6 +333,7 @@ def population(db):
         if review.get("research"):
             sources.append({"text":review["research"],"url":review["research_source"]})
         cv = review.get("cv") or ""
+        group["cv_override"] = "cv" in review
         publications = review.get("publications") or ""
         counts = list(review.get("publicationCounts", []))
         is_relevant_role = group["role"] in ("faculty","unverified")
@@ -345,7 +346,8 @@ def population(db):
                 sources.append({"text":profile["research"],"url":url})
             if not group["homepage"] and profile.get("homepage"):
                 group["homepage"] = profile["homepage"]
-            cv = cv or profile.get("cv") or ""
+            if not group["cv_override"]:
+                cv = cv or profile.get("cv") or ""
             publications = publications or profile.get("publications") or ""
             for count in profile.get("publication_counts", []):
                 checked = profile.get("checked_at")
@@ -354,7 +356,11 @@ def population(db):
                     continue
                 counts.append({**count, "checkedAt":checked})
         group["cv"] = cv
-        group["cv_type"] = review.get("cvType") or ("公开 CV（简版）" if cv and re.search(r"(?:mini|short|brief)[-_]?[_-]?(?:cv|vita)|cv[-_](?:mini|short|brief)", cv, re.I) else None)
+        group["cv_type"] = None
+        if cv:
+            group["cv_type"] = review.get("cvType")
+            if not group["cv_type"] and re.search(r"(?:mini|short|brief)[-_]?[_-]?(?:cv|vita)|cv[-_](?:mini|short|brief)", cv, re.I):
+                group["cv_type"] = "公开 CV（简版）"
         group["cv_status"] = review.get("cvStatus")
         group["publications"] = publications
         group["publication_counts"] = counts
@@ -382,14 +388,25 @@ def population(db):
         dates = [row.get("checked_at") or "" for row in evidence]
         group["checked_at"] = max(dates + [review.get("checkedAt","")]) or None
     homepage_owners = defaultdict(set)
+    cv_owners = defaultdict(set)
     for group in result.values():
-        if group["decision"] == "candidate" and group["homepage"]:
-            homepage_owners[group["homepage"].rstrip("/")].add(name_key(group["name"]))
+        if group["decision"] != "candidate":
+            continue
+        key = name_key(group["name"])
+        if group["homepage"]:
+            homepage_owners[group["homepage"].rstrip("/")].add(key)
+        if group["cv"]:
+            cv_owners[group["cv"].rstrip("/")].add(key)
     shared_homepages = {url for url, owners in homepage_owners.items() if len(owners) > 1}
+    shared_cvs = {url for url, owners in cv_owners.items() if len(owners) > 1}
     for group in result.values():
         if group["homepage"].rstrip("/") in shared_homepages:
             group["homepage"] = ""
             group["homepage_status"] = "现有链接由不同学者共用，未核实到独立个人主页。"
+        if group["cv"].rstrip("/") in shared_cvs:
+            group["cv"] = ""
+            group["cv_type"] = None
+            group["cv_status"] = "现有简历入口由不同学者共用，未核实到具名公开 CV。"
     return sorted(result.values(), key=lambda group: (group["school"],group["name"]))
 
 
@@ -505,6 +522,9 @@ def make_patch(seed, data, source_rows, scope_notes, school_reviews):
                                   ("publicationsUrl",person["publications"])):
                 if value and not updated.get(target):
                     updated[target] = value
+            if person["cv_override"]:
+                updated["cvUrl"] = person["cv"] or None
+                updated.pop("cvType", None)
             if person.get("homepage_status") and not updated.get("homepage"):
                 updated["homepageStatus"] = person["homepage_status"]
             if updated.get("cvUrl") == person["cv"] and person["cv_type"]:
@@ -549,7 +569,7 @@ def make_patch(seed, data, source_rows, scope_notes, school_reviews):
         reason = (("已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。" if anchor.get("orcid") else
                    "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。") if known else
                   review_notes.get(slug) or finding.get("reason") or "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。")
-        cv = anchor.get("cv") or person["cv"]
+        cv = person["cv"] if person["cv_override"] else anchor.get("cv") or person["cv"]
         publications = person["publications"]
         sources = list(person["topic_sources"])
         if anchor.get("source"):
@@ -675,10 +695,11 @@ def export(db, seed):
     atomic_write(OUTPUT / "collection.js", "window.geometryCollection = " + json_text(patch).replace("</", "<\\/") + ";\n")
     atomic_write(ROOT / "catalog-batch.json", json.dumps(patch,ensure_ascii=False,indent=2) + "\n")
     decisions = Counter(p["decision"] for p in candidates)
+    page_attempts = {row["url"]:row for row in db.execute("SELECT url, status, checked_at FROM profiles WHERE status != 'queued'")}
     with (ROOT / "review-queue.csv.tmp").open("w",encoding="utf-8-sig",newline="") as handle:
         rows = csv.writer(handle)
         rows.writerow(["学校 ID","姓名","职位","目录判定","方向","公开任职","主页","CV","论文数","累计引用","指标来源","指标日期",
-                       "研究依据","判定备注","本次名录或职务来源","核对日期"])
+                       "研究依据","判定备注","本次名录或职务来源","核对日期","个人来源读取记录"])
         by_affiliation = {
             (a["schoolId"],name_key(p["name"])):p
             for p in public_people for a in p["affiliations"]
@@ -700,19 +721,35 @@ def export(db, seed):
                 "other": "公开职称显示为博士后、教学岗、学生或其他非主名单职位。",
                 "other_topic": "已提取的方向说明中未确认三个收录方向。",
             }.get(decision, "")
+            personal_urls = dict.fromkeys([p["profile"], p["homepage"]])
+            attempts = [page_attempts[url] for url in personal_urls if url in page_attempts]
+            checked_pages = " | ".join(
+                f"{row['checked_at'] or ''} {row['status']} {row['url'].strip()}" for row in attempts
+            )
+            if decision in ("topic_review", "role_review") and not p["decision_note"]:
+                statuses = {row["status"] for row in attempts}
+                if "parsed" in statuses:
+                    decision_note += " 已读取个人来源，当前证据仍不足。"
+                elif "source_error" in statuses:
+                    decision_note += " 已尝试打开个人来源，访问失败。"
+                elif p["profile"]:
+                    decision_note += " 已发现个人来源，尚无可复核的读取记录。"
+                else:
+                    decision_note += " 已登记名录未提供具名个人入口。"
             rows.writerow([p["school"],p["name"],p["title"],p["decision"]," / ".join(p["fields"]),p["affiliation_url"],
                            public.get("homepage") or p["homepage"] or pending,public.get("cvUrl") or p["cv"] or pending,
                            metric.get("articles", pending),metric.get("citations", pending),metric.get("url", ""),metric.get("checkedAt", ""),
                            " | ".join(f"{x['text']} [{x['url']}]" for x in p["topic_sources"]), decision_note,
-                           appointment_source, p["checked_at"] or ""])
+                           appointment_source, p["checked_at"] or "", checked_pages])
     (ROOT / "review-queue.csv.tmp").replace(ROOT / "review-queue.csv")
-    page_attempts = {row["url"]:row for row in db.execute("SELECT url, status, checked_at FROM profiles WHERE status != 'queued'")}
     _, findings, _, _ = metrics_evidence()
+    cv_audit = cohorts.get("cvLinkAudit", {})
+    cv_checks = cv_audit.get("records", {})
     with (ROOT / "field-review.csv.tmp").open("w", encoding="utf-8-sig", newline="") as handle:
         rows = csv.writer(handle)
         rows.writerow(["学者 ID", "姓名", "学校 ID", "任职来源", "主页", "CV", "CV 类型", "发表列表",
                        "机构或作者统计", "OpenAlex 文章", "OpenAlex 引用", "OpenAlex 来源", "指标日期",
-                       "已查个人页面", "作者复核日期", "代表作链接", "待核原因"])
+                       "已查个人页面", "作者复核日期", "代表作链接", "待核原因", "CV 链接访问记录"])
         for p in public_people:
             appointments = p["affiliations"]
             trusted = [m for m in p.get("metrics", []) if m.get("source") == "OpenAlex"]
@@ -721,8 +758,10 @@ def export(db, seed):
             urls = dict.fromkeys([*(a["url"] for a in appointments), p.get("homepage"), p.get("publicationsUrl")])
             attempts = [page_attempts[url] for url in urls if url in page_attempts]
             checked_pages = " | ".join(
-                f"{row['checked_at'] or ''} {row['status']} {row['url']}" for row in attempts
+                f"{row['checked_at'] or ''} {row['status']} {row['url'].strip()}" for row in attempts
             )
+            checked_cv = " | ".join(f"{cv_audit['checkedAt']} {item['status']} {item['url']}"
+                                    for item in cv_checks.get(p["id"], []))
             notes = []
             access_failed = any(row["status"] == "source_error" for row in attempts)
             page_read = any(row["status"] == "parsed" for row in attempts)
@@ -754,7 +793,7 @@ def export(db, seed):
                            metric.get("articles", "待核"), metric.get("citations", "待核"),
                            metric.get("url") or finding.get("candidate_url", ""),
                            metric.get("checkedAt", ""), checked_pages, finding.get("checkedAt", ""),
-                           " / ".join(paper["url"] for paper in p.get("papers", [])), "；".join(notes)])
+                           " / ".join(paper["url"] for paper in p.get("papers", [])), "；".join(notes), checked_cv])
     (ROOT / "field-review.csv.tmp").replace(ROOT / "field-review.csv")
     scope_size = len(seed["schools"])
     checked = len({row["school"] for row in sources if row["status"] == "parsed"})
@@ -806,6 +845,15 @@ def export(db, seed):
         f"已解析 {profile_count} 个个人页面。校级全名单对账完成 {completed_schools} 所。",
         "",
     ]
+    if cv_audit:
+        lines.extend([
+            "## 公开 CV 链接复核",
+            "",
+            f"{cv_audit['checkedAt']} 对 {cv_audit['checked']} 个不同的旧简历入口做 HTTP 检查，"
+            f"其中 {cv_audit['responded']} 个返回成功响应。对已确认的失效入口补查替代来源。"
+            "逐人访问结果及替代链接见学者字段复核表。",
+            "",
+        ])
     profile_run = cohorts.get("latestProfileRun")
     if profile_run:
         lines.extend([
