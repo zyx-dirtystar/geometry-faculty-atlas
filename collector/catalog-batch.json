@@ -866,15 +866,15 @@
     },
     {
       "id": "king-abdulaziz",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/5 个登记来源，0 条任职或方向待核。 官方目录内容待提取。 已查数学系英语名册文件与阿拉伯语研究目录入口。前者文件无法读取，后者网页和浏览器请求都失败。当前教师名册待核。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/6 个登记来源，85 条任职或方向待核。 已收录 2 位学者，个人主页 0、CV 0、指标 1。 已从数学系英文官方 PDF 提取六个方向组并复核人员序号。几何拓扑组具名名单已入队，现已用出版方确认部分微分几何学者。个别职级、跨组专长、Rabigh 等校区和挂靠机构范围仍待核。",
       "rosterLinks": [
         [
           "Faculty of Science · Mathematics Department",
           "https://kau.edu.sa/faculty/en/science/page/mathematics-department"
         ],
         [
-          "Department of Mathematics Faculty Members",
+          "Department of Mathematics · Faculty Directory (English PDF)",
           "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a"
         ],
         [
@@ -888,9 +888,13 @@
         [
           "数学系阿拉伯语教师入口 · Research Directory",
           "https://research.kau.edu.sa/"
+        ],
+        [
+          "كلية العلوم · قسم الرياضيات",
+          "https://www.kau.edu.sa/faculty/ar/science/page/mathematics-department"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-24"
     },
     {
       "id": "sjtu",
@@ -2159,7 +2163,7 @@
     {
       "id": "snu",
       "coverage": "sample",
-      "coverageNote": "已解析 1/5 个登记来源，0 条任职或方向待核。 已收录 3 位学者，个人主页 2、CV 0、指标 0。 韩文现任教授页可通过公开索引分段读取。已逐条核对部分复几何和代数几何教师，荣休、研究员及联合单位范围仍待核。",
+      "coverageNote": "已解析 1/7 个登记来源，0 条任职或方向待核。 已收录 3 位学者，个人主页 2、CV 0、指标 0。 韩文现任教授页可通过公开索引分段读取。已逐条核对部分复几何和代数几何教师，荣休、研究员及联合单位范围仍待核。",
       "rosterLinks": [
         [
           "교수",
@@ -2172,6 +2176,14 @@
         [
           "数理科学部教授名录",
           "https://www.math.snu.ac.kr/eng/bbs/page.php?hid=professor"
+        ],
+        [
+          "수리과학부 · 명예교수",
+          "https://web.math.snu.ac.kr/board/index.php?mid=Home_Professor_Emeritus"
+        ],
+        [
+          "수리과학부 · 연구원/강사",
+          "https://parc.math.snu.ac.kr/board/index.php?mid=Home_Lecturer"
         ],
         [
           "College of Natural Sciences Faculty",
@@ -2447,7 +2459,7 @@
     {
       "id": "cityuhk",
       "coverage": "limited",
-      "coverageNote": "已解析 0/3 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverageNote": "已解析 0/4 个登记来源，0 条任职或方向待核。 官方目录内容待提取。 已查看数学系英文 Faculty Members 入口及博士招生简章。当前可读摘要与个人页尚不足以确认三个方向的完整名单。",
       "rosterLinks": [
         [
           "Faculty Members",
@@ -2460,6 +2472,10 @@
         [
           "Department of Mathematics Faculty Members",
           "https://www.cityu.edu.hk/ma/about-us/ma-academic-faculty"
+        ],
+        [
+          "Department of Mathematics · Faculty Members (English)",
+          "https://www.cityu.edu.hk/en/ma/about-us/ma-academic-faculty"
         ]
       ],
       "checkedAt": null
@@ -3059,7 +3075,7 @@
     {
       "id": "tu-wien",
       "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverageNote": "已解析 0/4 个登记来源，0 条任职或方向待核。 官方目录内容待提取。 已登记离散数学与几何研究所和 Geometric Analysis 研究单元，个人名册及方向仍待核。",
       "rosterLinks": [
         [
           "E104-Institute of Discrete Mathematics and Geometry",
@@ -3068,6 +3084,14 @@
         [
           "Analysis and Scientific Computing 专组（仅部分范围）",
           "https://www.tuwien.at/en/mg/asc/people-2"
+        ],
+        [
+          "Research Unit of Geometric Analysis",
+          "https://www.tuwien.at/en/mg/dmg/fb7"
+        ],
+        [
+          "Institut für Diskrete Mathematik und Geometrie E104",
+          "https://www.dmg.tuwien.ac.at/"
         ]
       ],
       "checkedAt": null
@@ -3526,8 +3550,8 @@
     },
     {
       "id": "leiden",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/4 个登记来源，6 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 1、指标 0。 已读代数／算术几何旧研究组页，并与现行校方个人页核对部分任职。旧组页的职级和完整性不可用于现任认定，其他研究组和全院人员表待核。",
       "rosterLinks": [
         [
           "莱顿大学几何组（历史名录须核任职）",
@@ -3536,9 +3560,17 @@
         [
           "数学研究所个人主页（仅单人线索）",
           "https://pub.math.leidenuniv.nl/~vonkjb/"
+        ],
+        [
+          "Mathematical Institute · Staff",
+          "https://www.universiteitleiden.nl/en/science/mathematics/staff"
+        ],
+        [
+          "Mathematical Institute · Arithmetic Geometry archived group",
+          "https://websites.math.leidenuniv.nl/geom/geometry_pages/"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-24"
     },
     {
       "id": "loughborough",
@@ -3674,8 +3706,8 @@
     },
     {
       "id": "tu-dresden",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/2 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/4 个登记来源，51 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 1、指标 0。 已读取数学学院 A–Z 教授与几何研究所成员入口。按最新任命核实实代数几何讲席，并复核几何分析相关教授。全部研究组与外部联合单位仍待对账。",
       "rosterLinks": [
         [
           "Chairs and research groups — Institute of Geometry — TU Dresden",
@@ -3684,9 +3716,17 @@
         [
           "数学系或所属学院人员入口",
           "https://tu-dresden.de/mn/math/die-fakultaet/institute-und-professuren"
+        ],
+        [
+          "Institut für Geometrie · Beschäftigte",
+          "https://tu-dresden.de/mn/math/geometrie/das-institut/beschaeftigte"
+        ],
+        [
+          "Fakultät Mathematik · Professorinnen und Professoren A–Z",
+          "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-24"
     },
     {
       "id": "ohio-state",
@@ -3934,15 +3974,19 @@
     },
     {
       "id": "nottingham",
-      "coverage": "limited",
-      "coverageNote": "已解析 0/1 个登记来源，0 条任职或方向待核。 官方目录内容待提取。",
+      "coverage": "sample",
+      "coverageNote": "已解析 1/2 个登记来源，95 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 0。 已读取数学科学学院 Staff Listing 的职级及个人链接，并对照个人研究页核对部分 Fano、K 稳定性与双有理方向。需要逐人排除教学／行政、荣休、访问和联合单位重复记录。",
       "rosterLinks": [
         [
           "数学科学学院个人主页索引",
           "https://www.maths.nottingham.ac.uk/personal/"
+        ],
+        [
+          "School of Mathematical Sciences · Staff Listing",
+          "https://www.nottingham.ac.uk/mathematics/people/index.aspx"
         ]
       ],
-      "checkedAt": null
+      "checkedAt": "2026-11-24"
     },
     {
       "id": "southampton",
@@ -13601,6 +13645,139 @@
       "recordStatus": "directory"
     },
     {
+      "id": "amani-hussain-saloom",
+      "name": "Amani Hussain Saloom",
+      "aliases": [
+        "Amani Saloom"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "king-abdulaziz",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometry and Topology Section · individual field to verify",
+        "Differential geometry of space curves"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The Differential Geometry of a Space Curve via a Constant Vector in ℝ3",
+          "year": 2025,
+          "url": "https://doi.org/10.3390/axioms14030190",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Geometry and Topology Section · individual field to verify",
+          "url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a"
+        },
+        {
+          "text": "Differential geometry of space curves",
+          "url": "https://www.mdpi.com/2075-1680/14/3/190"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "azeb-zain-alghanemi",
+      "name": "Azeb Zain Alghanemi",
+      "aliases": [
+        "Azeb Alghanemi"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "king-abdulaziz",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometry and Topology Section · individual field to verify",
+        "Differential geometry of space curves"
+      ],
+      "homepage": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://orcid.org/0000-0001-8778-1062",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5053613182",
+          "orcid": "https://orcid.org/0000-0001-8778-1062",
+          "url": "https://openalex.org/authors/A5053613182",
+          "authorApiUrl": "https://api.openalex.org/authors/A5053613182",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5053613182,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 33,
+          "works": 39,
+          "citations": 157,
+          "hIndex": 6,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The Differential Geometry of a Space Curve via a Constant Vector in ℝ3",
+          "year": 2025,
+          "url": "https://doi.org/10.3390/axioms14030190",
+          "type": "期刊论文"
+        },
+        {
+          "title": "On a mixed boundary value problem on bounded domains of $\\mathbb{R}^3$",
+          "year": 2026,
+          "url": "https://doi.org/10.5565/PUBLMAT7022605"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Geometry and Topology Section · individual field to verify",
+          "url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a"
+        },
+        {
+          "text": "Differential geometry of space curves",
+          "url": "https://www.mdpi.com/2075-1680/14/3/190"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://orcid.org/0000-0001-8778-1062"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
       "id": "fahd-m-alshammari",
       "name": "Fahd M. Alshammari",
       "aliases": [],
@@ -14916,6 +15093,82 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "david-holmes",
+      "name": "David Holmes",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "leiden",
+          "department": "数学系",
+          "title": "Professor Pure Mathematics",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/david-holmes",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.davidholmes.nl/",
+      "cvUrl": "https://www.davidholmes.nl/images/pdfs/cv.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://www.davidholmes.nl/papers/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "个人主页明确链接其 Google Scholar 档案，但公开指标请求返回 403，OpenAlex 作者和统计待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, enumerative geometry, moduli of curves, and Arakelov geometry",
+          "url": "https://www.davidholmes.nl/papers/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "robin-de-jong",
+      "name": "Robin de Jong",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "leiden",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.universiteitleiden.nl/en/staffmembers/robin-de-jong",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://pub.math.leidenuniv.nl/~jongrsde/",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://pub.math.leidenuniv.nl/~jongrsde/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic geometry, moduli of curves and abelian varieties and Arakelov theory",
+          "url": "https://pub.math.leidenuniv.nl/~jongrsde/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -17589,6 +17842,44 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "hamid-abban",
+      "name": "Hamid Abban",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "nottingham",
+          "department": "数学系",
+          "title": "Associate Professor in Geometry",
+          "url": "https://www.nottingham.ac.uk/mathematics/people/hamid.abban",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/view/hamid-abban/home",
+      "cvUrl": "https://sites.google.com/view/hamid-abban/home",
+      "cvType": "公开 CV（主页内简版）",
+      "cvStatus": null,
+      "publicationsUrl": "https://sites.google.com/view/hamid-abban/research",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, birational geometry, K-stability and Fano varieties",
+          "url": "https://sites.google.com/view/hamid-abban/home"
+        }
+      ],
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -29015,6 +29306,89 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "mario-kummer",
+      "name": "Mario Kummer",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "tu-dresden",
+          "department": "数学系",
+          "title": "Professor (W2) of Real Algebraic Geometry",
+          "url": "https://tu-dresden.de/mn/math/geometrie/kummer/die-professur/inhaber-in",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://tu-dresden.de/mn/math/geometrie/kummer/startseite/?set_language=en",
+      "cvUrl": "https://tu-dresden.de/mn/math/geometrie/kummer/ressourcen/dateien/cv-1.pdf/at_download/file?lang=en",
+      "cvType": "公开 CV（历史版本）",
+      "cvStatus": null,
+      "publicationsUrl": "https://tu-dresden.de/mn/math/geometrie/kummer/startseite/?set_language=en",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "两篇可归属的期刊 DOI 在 OpenAlex 指向不同作者档案，累计论文数和引用量待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Spectrahedral shadows and completely positive maps on real closed fields",
+          "year": 2026,
+          "url": "https://doi.org/10.4171/JEMS/1509",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Real algebraic geometry, hyperbolic polynomials and real algebraic curves",
+          "url": "https://tu-dresden.de/mn/math/die-fakultaet/news/berufung-von-prof-mario-kummer"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "peter-hornung",
+      "name": "Peter Hornung",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "tu-dresden",
+          "department": "数学系",
+          "title": "Professor of Partial Differential Equations",
+          "url": "https://tu-dresden.de/mn/math/geometrie/hornung",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://wwwpub.zih.tu-dresden.de/~phornung/",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://wwwpub.zih.tu-dresden.de/~phornung/publications.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometric analysis, calculus of variations and nonlinear elasticity",
+          "url": "https://tu-dresden.de/mn/math/geometrie/das-institut/professoren?set_language=en"
+        }
+      ],
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {

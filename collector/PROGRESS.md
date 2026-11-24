@@ -1,14 +1,13 @@
 # 几何学者库进度
 
-更新日期 2026-11-24。QS 2026 数学 200 所，软科 GRAS 2026 数学 100 所，两榜合并去重 222 所。已登记来源 222 所，至少有一个已解析来源 186 所。
-目录去重后共 12153 条学者与学校记录，来源外的任职或研究交叉需要继续复核。
-网页收录 739 位，覆盖 136 所。有个人主页 362 位、公开 CV 154 位、发表列表 165 位、代表作 71 位、机构或作者计数 15 位、OpenAlex 指标 77 位。
+更新日期 2026-11-24。QS 2026 数学 200 所，软科 GRAS 2026 数学 100 所，两榜合并去重 222 所。已登记来源 222 所，至少有一个已解析来源 190 所。
+目录去重后共 12488 条学者与学校记录，来源外的任职或研究交叉需要继续复核。
+网页收录 746 位，覆盖 140 所。有个人主页 367 位、公开 CV 157 位、发表列表 171 位、代表作 74 位、机构或作者计数 15 位、OpenAlex 指标 78 位。
 已解析 3936 个个人页面。校级全名单对账完成 0 所。
 
 ## 原待查批次
 
-- 原已找到官网、待提取名册的 44 所中，已有可提取名册 43 所。
-  名册待核 1 所，包括阿卜杜勒阿齐兹国王大学。
+- 原已找到官网、待提取名册的 44 所中，已有可提取名册 44 所。
 - 原官网暂无法读取的 13 所中，已有可提取名册 13 所。
 
 出现在可提取名册中的学校仍需核实院系范围和未公开的人员字段。
@@ -56,7 +55,7 @@
 | 普渡大学西拉法叶分校 | 92 | 39 | 工作名单 | [数学系 Faculty Directory](https://www.math.purdue.edu/people/faculty) | 12 | 11 / 6 / 0 | 18 |
 | 南方科技大学 | — | 40 | 工作名单 | [Research-Research Areas](https://math.sustech.edu.cn/research_areas.html?lang=en) · [数学系科研教学系列](https://math.sustech.edu.cn/user/6.html) · [数学系研究生培养及方向](https://math.sustech.edu.cn/graduate_introduce.html) · [数学系介绍](https://math.sustech.edu.cn/news/about_us.html?lang=zh) · [数学系科研教学系列](https://math.sustech.edu.cn/user/6/0.html?lang=zh) | 10 | 1 / 0 / 0 | 8 |
 | 加州理工学院 | 20 | 41 | 工作名单 | [PMA Professorial Faculty](https://www.pma.caltech.edu/people/faculty) · [数学系 · Algebraic Geometry](https://mathematics.caltech.edu/research/research-areas/algebraic-geometry) · [数学系 · Geometry and Topology](https://mathematics.caltech.edu/research/research-areas/geometry-and-topology) · [数学系 · Visiting Associates](https://mathematics.caltech.edu/people/visiting-associates) · [数学系 People](https://mathematics.caltech.edu/people) | 6 | 3 / 0 / 2 | 6 |
-| 阿卜杜勒阿齐兹国王大学 | =58 | 42 | 来源待复核 | [Faculty of Science · Mathematics Department](https://kau.edu.sa/faculty/en/science/page/mathematics-department) · [Department of Mathematics Faculty Members](https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a) · [理学院官方院系入口](https://kau.edu.sa/faculty/en/science/page/faculty_administration) · [Department of Mathematics · Management and faculty links](https://kau.edu.sa/faculty/en/science/page/Management-of-Mathematics-Department) · [数学系阿拉伯语教师入口 · Research Directory](https://research.kau.edu.sa/) | 0 | 0 / 0 / 0 | 0 |
+| 阿卜杜勒阿齐兹国王大学 | =58 | 42 | 工作名单 | [Faculty of Science · Mathematics Department](https://kau.edu.sa/faculty/en/science/page/mathematics-department) · [Department of Mathematics · Faculty Directory (English PDF)](https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a) · [理学院官方院系入口](https://kau.edu.sa/faculty/en/science/page/faculty_administration) · [Department of Mathematics · Management and faculty links](https://kau.edu.sa/faculty/en/science/page/Management-of-Mathematics-Department) · [数学系阿拉伯语教师入口 · Research Directory](https://research.kau.edu.sa/) · [كلية العلوم · قسم الرياضيات](https://www.kau.edu.sa/faculty/ar/science/page/mathematics-department) | 2 | 0 / 0 / 1 | 85 |
 | 上海交通大学 | 27 | 42 | 工作名单 | [RESEARCH GROUPS - 高校国际化示范学院推进计划网站](https://nice-math.sjtu.edu.cn/Data/List/RESEARCHGROUPS) · [吴文俊数学中心基础数学团队](https://wucms.sjtu.edu.cn/yj_gruop/74.html) · [吴文俊数学中心 Faculty](https://wucms.sjtu.edu.cn/ry.html) · [吴文俊数学中心 Staff](https://wucms.sjtu.edu.cn/ry_staff.html) | 0 | 0 / 0 / 0 | 0 |
 | 不列颠哥伦比亚大学 | 40 | 44 | 工作名单 | [Differential Geometry](https://www.math.ubc.ca/research/research-topics/differential-geometry) · [温哥华校区数学系 Faculty Directory](https://www.math.ubc.ca/about-our-department/directory/1000) · [Algebra and Algebraic Geometry](https://www.math.ubc.ca/research/research-topics/algebra-and-algebraic-geometry) · [温哥华校区数学系任职名单](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/academic-staff/department-mathematics) | 8 | 8 / 1 / 0 | 326 |
 | 巴黎文理研究大学 | =22 | 45 | 工作名单 | [Algèbre et géométrie – Département de mathématiques et applications](https://www.math.ens.psl.eu/la-recherche/algebre-geometrie/) · [École normale supérieure · Département de mathématiques et applications](https://www.math.ens.psl.eu/en/welcome/) · [ENS Département de mathématiques et applications · Members](https://www.math.ens.psl.eu/en/members/) | 0 | 0 / 0 / 0 | 37 |
@@ -123,7 +122,7 @@
 | 墨尔本大学 | 44 | — | 工作名单 | [Members – Algebraic Geometry](https://algebraicgeometry.science.unimelb.edu.au/home-page/members/) · [People in pure mathematics](https://ms.unimelb.edu.au/research/pure-mathematics/people) · [数学与统计学院学术人员](https://ms.unimelb.edu.au/people/academic-staff) | 7 | 7 / 1 / 0 | 1 |
 | 宾夕法尼亚大学 | 45 | — | 工作名单 | [宾大数学系 Standing Faculty](https://www.math.upenn.edu/people/standing-faculty) · [应用数学与计算科学教师](https://amcs.upenn.edu/faculty/) | 13 | 12 / 1 / 0 | 1 |
 | 莫斯科国立大学 | =46 | — | 工作名单 | [/ Department of Differential Geometry and Applications /](https://dfgm.math.msu.ru/English/main.html) · [数学系微分几何教研室](https://dfgm.math.msu.ru/people/) · [力学数学学院人员名录](https://math.msu.ru/node/92) | 0 | 0 / 0 / 0 | 235 |
-| 首尔大学 | =46 | — | 工作名单 | [교수](https://my.math.snu.ac.kr/board/index.php?mid=portal_professor) · [数学系现任教授（韩文）](https://web.math.snu.ac.kr/board/index.php?mid=Main_Faculty) · [数理科学部教授名录](https://www.math.snu.ac.kr/eng/bbs/page.php?hid=professor) · [College of Natural Sciences Faculty](https://science.snu.ac.kr/about/organization/faculty) · [Natural Sciences 학부 Mathematical Sciences](https://www.math.snu.ac.kr/bbs/page.php?hid=professor) | 3 | 2 / 0 / 0 | 0 |
+| 首尔大学 | =46 | — | 工作名单 | [교수](https://my.math.snu.ac.kr/board/index.php?mid=portal_professor) · [数学系现任教授（韩文）](https://web.math.snu.ac.kr/board/index.php?mid=Main_Faculty) · [数理科学部教授名录](https://www.math.snu.ac.kr/eng/bbs/page.php?hid=professor) · [수리과학부 · 명예교수](https://web.math.snu.ac.kr/board/index.php?mid=Home_Professor_Emeritus) · [수리과학부 · 연구원/강사](https://parc.math.snu.ac.kr/board/index.php?mid=Home_Lecturer) · [College of Natural Sciences Faculty](https://science.snu.ac.kr/about/organization/faculty) · [Natural Sciences 학부 Mathematical Sciences](https://www.math.snu.ac.kr/bbs/page.php?hid=professor) | 3 | 2 / 0 / 0 | 0 |
 | 慕尼黑工业大学 | 50 | — | 工作名单 | [Home - Research Group Algebra](https://www.math.cit.tum.de/en/algebra/home/) · [Algebra & Algebraic Geometry](https://www.math.cit.tum.de/en/math/research/algebra-algebraic-geometry/) · [Geometry and Topology](https://www.math.cit.tum.de/en/math/research/groups/geometry-and-topology/) · [校级科研门户 · 数学系](https://portal.fis.tum.de/en/organisations/department-of-mathematics/persons/) · [Discrete Differential Geometry](https://www.math.cit.tum.de/en/math/research/groups/geometry-and-topology/discrete-differential-geometry/) · [Geometry and Topology](https://www.math.cit.tum.de/en/math/research/geometry-topology/) | 2 | 2 / 1 / 1 | 0 |
 | 香港大学 | 51 | — | 工作名单 | [Research: Research Groups](https://hkumath.hku.hk/web/research/group.html) · [Department of Mathematics · Geometry](https://hkumath.hku.hk/web/research/geometry.php) · [理学院 · 数学系人员](https://www.scifac.hku.hk/people/a-z/department-of-mathematics) | 2 | 0 / 1 / 0 | 28 |
 | 澳大利亚国立大学 | 52 | — | 工作名单 | [Algebraic & Differential Geometry](https://maths.anu.edu.au/research/research-areas/algebraic-differential-geometry) · [数学科学研究所学术人员](https://maths.anu.edu.au/people/academics) | 1 | 0 / 0 / 0 | 1 |
@@ -138,7 +137,7 @@
 | 代尔夫特理工大学 | 73 | — | 工作名单 | [Overview of professors at the faculty of EEMCS TU Delft](https://www.tudelft.nl/en/eemcs/the-faculty/professors) · [Applied Mathematics · Analysis group personnel](https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics/analysis/people) | 0 | 0 / 0 / 0 | 30 |
 | 圣保罗大学 | =74 | — | 工作名单 | [Grupos de pesquisa – Departamento de Matemática – Instituto de Matemática, Estatística e Ciência da ](https://www.ime.usp.br/mat/grupos/) · [The Geometry Research Group](https://www.ime.usp.br/~geometry/faculty.htm) · [IME 数学系教师名录](https://www.ime.usp.br/mat/docentes/) | 6 | 6 / 2 / 0 | 73 |
 | 蒙特利尔大学 | 79 | — | 工作名单 | [Geometry and topology](https://dms.umontreal.ca/en/research/research-interests/geometry-and-topology) · [数学与统计系教授名录](https://dms.umontreal.ca/fr/repertoire-departement/professeurs) | 0 | 0 / 0 / 0 | 3 |
-| 香港城市大学 | =80 | — | 来源待复核 | [Faculty Members](https://www.cityu.edu.hk/ma/about-us/ma-academic-faculty) · [数学系教师名录](https://www.cityu.edu.hk/en/ma/about-us/ma-academic-faculty) · [Department of Mathematics Faculty Members](https://www.cityu.edu.hk/ma/about-us/ma-academic-faculty) | 0 | 0 / 0 / 0 | 0 |
+| 香港城市大学 | =80 | — | 来源待复核 | [Faculty Members](https://www.cityu.edu.hk/ma/about-us/ma-academic-faculty) · [数学系教师名录](https://www.cityu.edu.hk/en/ma/about-us/ma-academic-faculty) · [Department of Mathematics Faculty Members](https://www.cityu.edu.hk/ma/about-us/ma-academic-faculty) · [Department of Mathematics · Faculty Members (English)](https://www.cityu.edu.hk/en/ma/about-us/ma-academic-faculty) | 0 | 0 / 0 / 0 | 0 |
 | 奥克兰大学 | =80 | — | 工作名单 | [Staff Research Interests](https://www.math.auckland.ac.nz/deptdb/staff_research.php) · [Algebra, Geometry and Combinatorics – University of Auckland](https://www.auckland.ac.nz/en/science/about-the-faculty/department-of-mathematics/mathematics-research/algebra-and-combinatorics-research.html) · [数学系学术人员](https://www.math.auckland.ac.nz/Directory/academic.php) | 1 | 1 / 0 / 0 | 0 |
 | 阿姆斯特丹大学 | 82 | — | 工作名单 | [Algebra, Geometry and Mathematical Physics - Korteweg-de Vries Institute for Mathematics - Universit](https://kdvi.uva.nl/research/algebra-geometry-mathematical-physics) · [Korteweg-de Vries 数学所](https://kdvi.uva.nl/people/academic-staff) · [Wetenschappelijk Personeel](https://kdvi.uva.nl/nl/wie-is-wie/wetenschappelijk-personeel) · [Directory](https://kdvi.uva.nl/people/people-at-kdvi-list) | 1 | 1 / 1 / 1 | 48 |
 | 布里斯托大学 | 83 | — | 工作名单 | [Academic Staff](https://www.bristolmathsresearch.org/people/academic/) · [Geometry & Topology – People](https://www.bristolmathsresearch.org/pure-mathematics/geometry/) · [School of Mathematics Research Areas](https://www.bristol.ac.uk/maths/postgraduate/phd/mathematics/research-areas/) · [校级科研门户 · 数学学院](https://research-information.bris.ac.uk/en/organisations/school-of-mathematics/persons/) · [Academic Staff (Concise View)](https://www.bristolmathsresearch.org/people/academic-concise/) | 1 | 0 / 0 / 1 | 15 |
@@ -175,7 +174,7 @@
 | 中国科学院大学 | =119 | — | 工作名单 | [师资队伍](https://math.ucas.ac.cn/szdw) · [数学科学学院教研室](https://math.ucas.ac.cn/index.php/zh-CN/about/jiaoyanshi) · [数学系或所属学院人员入口](https://math.ucas.ac.cn/index.php/en/facultystaff) · [数学科学学院专任教师](https://math.ucas.ac.cn/index.php/zh-CN/szdw/fulltimeteacher) · [分析数学与微分方程](https://math.ucas.ac.cn/index.php/zh-CN/szdw/fulltimeteacher/jys2) | 2 | 2 / 0 / 0 | 125 |
 | 阿德莱德大学 | =122 | — | 工作名单 | [Our research](https://adelaide.edu.au/about/school/mathematical-sciences/our-research/) · [数学系或所属学院人员入口](https://adelaide.edu.au/about/school/mathematical-sciences/our-people/) | 0 | 0 / 0 / 0 | 51 |
 | 慕尼黑大学 | =122 | — | 工作名单 | [- Department of Mathematics - LMU München](https://www.math.lmu.de/en/forschung/arbeitsgruppen/algebraische-geometrie/) · [数学系或所属学院人员入口](https://www.math.lmu.de/de/personen/professorinnen-und-professoren/) | 0 | 0 / 0 / 0 | 26 |
-| 维也纳工业大学 | =122 | — | 来源待复核 | [E104-Institute of Discrete Mathematics and Geometry](https://www.tuwien.at/en/mg/dmg) · [Analysis and Scientific Computing 专组（仅部分范围）](https://www.tuwien.at/en/mg/asc/people-2) | 0 | 0 / 0 / 0 | 0 |
+| 维也纳工业大学 | =122 | — | 来源待复核 | [E104-Institute of Discrete Mathematics and Geometry](https://www.tuwien.at/en/mg/dmg) · [Analysis and Scientific Computing 专组（仅部分范围）](https://www.tuwien.at/en/mg/asc/people-2) · [Research Unit of Geometric Analysis](https://www.tuwien.at/en/mg/dmg/fb7) · [Institut für Diskrete Mathematik und Geometrie E104](https://www.dmg.tuwien.ac.at/) | 0 | 0 / 0 / 0 | 0 |
 | 柏林自由大学 | =125 | — | 工作名单 | [Workgroups • Mathematics • Department of Mathematics and Computer Science](https://www.mi.fu-berlin.de/en/math/groups/index.html) · [数学系或所属学院人员入口](https://www.mi.fu-berlin.de/en/math/profs/index.html) | 0 | 0 / 0 / 0 | 67 |
 | 海德堡大学 | =128 | — | 工作名单 | [Algebra und Arithmetische Geometrie](https://www.math.uni-heidelberg.de/de/abteilungen/aag) · [Differential Geometry Research Group](https://www.mathi.uni-heidelberg.de/~diffgeo/Research.html) · [Geometry Group Theory](https://web.mathi.uni-heidelberg.de/ggt) · [数学系或所属学院人员入口](https://www.mathinf.uni-heidelberg.de/en/node/218/administration/faculty-directory?overlay=contact) | 2 | 2 / 0 / 0 | 0 |
 | 哈利法大学 | =130 | — | 工作名单 | [数学系或所属学院人员入口](https://www.ku.ac.ae/academics/college-of-computing-and-mathematical-sciences/department/department-of-mathematics) | 0 | 0 / 0 / 0 | 25 |
@@ -203,7 +202,7 @@
 | 赫瑞瓦特大学 | 151-200 | — | 来源待复核 | [Mathematics](https://www.hw.ac.uk/about/our-schools/mathematical-and-computer-sciences/departments/mathematics) · [数学系或所属学院人员入口](https://researchportal.hw.ac.uk/en/organisations/mathematics/persons/) · [Structure and symmetry research group](https://www.hw.ac.uk/about/our-schools/mathematical-and-computer-sciences/research/mathematical-sciences/structure-and-symmetry) | 0 | 0 / 0 / 0 | 0 |
 | 印度统计研究所 | 151-200 | — | 来源待复核 | [Statistics and Mathematics unit](https://www.isical.ac.in/~statmath/scientist.php) · [数学系或所属学院人员入口](https://www.isical.ac.in/~statmath/faculty.php) | 0 | 0 / 0 / 0 | 0 |
 | 卡尔斯鲁厄理工学院 | 151-200 | — | 工作名单 | [KIT - Institute of Algebra and Geometry - Research Groups](https://iag.math.kit.edu/english/26.php) · [Differentialgeometrie am IAG](https://iag.math.kit.edu/iag5/iag5.php) · [数学系或所属学院人员入口](https://www.math.kit.edu/english/personen.php) | 1 | 0 / 0 / 0 | 4 |
-| 莱顿大学 | 151-200 | — | 来源待复核 | [莱顿大学几何组（历史名录须核任职）](https://websites.math.leidenuniv.nl/geom/geometry_pages/) · [数学研究所个人主页（仅单人线索）](https://pub.math.leidenuniv.nl/~vonkjb/) | 0 | 0 / 0 / 0 | 0 |
+| 莱顿大学 | 151-200 | — | 工作名单 | [莱顿大学几何组（历史名录须核任职）](https://websites.math.leidenuniv.nl/geom/geometry_pages/) · [数学研究所个人主页（仅单人线索）](https://pub.math.leidenuniv.nl/~vonkjb/) · [Mathematical Institute · Staff](https://www.universiteitleiden.nl/en/science/mathematics/staff) · [Mathematical Institute · Arithmetic Geometry archived group](https://websites.math.leidenuniv.nl/geom/geometry_pages/) | 2 | 2 / 1 / 0 | 6 |
 | 拉夫堡大学 | 151-200 | — | 工作名单 | [Geometry and Mathematical Physics](https://www.lboro.ac.uk/departments/maths/research/research-groups-and-centres/geometry-mathematical-physics/) · [数学系或所属学院人员入口](https://www.lboro.ac.uk/departments/maths/staff/) | 3 | 2 / 0 / 0 | 32 |
 | 巴基斯坦国立科技大学 | 151-200 | — | 来源待复核 | [自然科学学院数学教职员](https://sns.nust.edu.pk/faculty?depart=SNS-MATH) · [数学系或所属学院人员入口](https://sns.nust.edu.pk/departments/department-of-mathematics/) | 0 | 0 / 0 / 0 | 0 |
 | 挪威科技大学 | 151-200 | — | 工作名单 | [数学科学系人员名录](https://www.ntnu.edu/imf/employees) | 0 | 0 / 0 / 0 | 105 |
@@ -213,7 +212,7 @@
 | 中山大学 | 151-200 | — | 工作名单 | [珠海数学学院师资目录（广州需另核）](https://mathzh.sysu.edu.cn/faculty) | 6 | 0 / 0 / 0 | 2 |
 | 斯旺西大学 | 151-200 | — | 工作名单 | [Mathematics Research and Impact - Swansea University](https://www.swansea.ac.uk/maths/research-and-impact/) · [数学系或所属学院人员入口](https://wap.swan.ac.uk/staff/science-and-engineering/school-of-mathematics-and-computer-science-staff/maths/) · [Algebra, Geometry and Topology group](https://www.swansea.ac.uk/maths/research-and-impact/algebra-geometry-topology/) | 1 | 1 / 1 / 1 | 3 |
 | 丹麦科技大学 | 151-200 | — | 工作名单 | [数学系或所属学院人员入口](https://www.compute.dtu.dk/Sections/Math) | 2 | 2 / 1 / 1 | 8 |
-| 德累斯顿工业大学 | 151-200 | — | 来源待复核 | [Chairs and research groups — Institute of Geometry — TU Dresden](https://tu-dresden.de/mn/math/geometrie/das-institut/professoren?set_language=en) · [数学系或所属学院人员入口](https://tu-dresden.de/mn/math/die-fakultaet/institute-und-professuren) | 0 | 0 / 0 / 0 | 0 |
+| 德累斯顿工业大学 | 151-200 | — | 工作名单 | [Chairs and research groups — Institute of Geometry — TU Dresden](https://tu-dresden.de/mn/math/geometrie/das-institut/professoren?set_language=en) · [数学系或所属学院人员入口](https://tu-dresden.de/mn/math/die-fakultaet/institute-und-professuren) · [Institut für Geometrie · Beschäftigte](https://tu-dresden.de/mn/math/geometrie/das-institut/beschaeftigte) · [Fakultät Mathematik · Professorinnen und Professoren A–Z](https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de) | 2 | 2 / 1 / 0 | 51 |
 | 俄亥俄州立大学 | 151-200 | — | 工作名单 | [RTG Arithmetic, Combinatorics and Topology of Algebraic Varieties](https://people.math.osu.edu/cueto.5/RTG/RTG-OSU23-28people.html) · [Research](https://math.osu.edu/research) · [数学系或所属学院人员入口](https://math.osu.edu/people) | 2 | 2 / 1 / 0 | 128 |
 | 大阪大学 | 151-200 | — | 工作名单 | [数学系人员名录](https://xoanon.math.sci.osaka-u.ac.jp/eng/staff.html) | 14 | 0 / 0 / 0 | 2 |
 | 谢菲尔德大学 | 151-200 | — | 工作名单 | [数学系或所属学院人员入口](https://sheffield.ac.uk/mps/people/academic/maths-and-statistics) | 5 | 1 / 1 / 1 | 14 |
@@ -229,7 +228,7 @@
 | 格拉斯哥大学 | 151-200 | — | 工作名单 | [University of Glasgow - Schools - School of Mathematics & Statistics - Research - Research](https://www.gla.ac.uk/schools/mathematicsstatistics/research/maths/algebraicgeometry/) · [数学系或所属学院人员入口](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/) · [Geometry and Topology group](https://www.gla.ac.uk/schools/mathematicsstatistics/research/maths/geometryandtopology/) | 4 | 4 / 0 / 1 | 105 |
 | 伊利诺伊大学芝加哥分校 | 151-200 | — | 工作名单 | [Algebra and Algebraic Geometry](https://mscs.uic.edu/research-groups/algebra-and-algebraic-geometry/) · [数学系或所属学院人员入口](https://mscs.uic.edu/about/faculty/) | 17 | 8 / 5 / 0 | 5 |
 | 米兰大学 | 151-200 | — | 工作名单 | [Algebraic Geometry Group](https://sites.unimi.it/geoalg/research1.html) · [数学系或所属学院人员入口](https://matematica.unimi.it/it/dipartimento/contatti/persone) | 0 | 0 / 0 / 0 | 0 |
-| 诺丁汉大学 | 151-200 | — | 来源待复核 | [数学科学学院个人主页索引](https://www.maths.nottingham.ac.uk/personal/) | 0 | 0 / 0 / 0 | 0 |
+| 诺丁汉大学 | 151-200 | — | 工作名单 | [数学科学学院个人主页索引](https://www.maths.nottingham.ac.uk/personal/) · [School of Mathematical Sciences · Staff Listing](https://www.nottingham.ac.uk/mathematics/people/index.aspx) | 1 | 1 / 1 / 0 | 95 |
 | 南安普敦大学 | 151-200 | — | 工作名单 | [Algebraic Geometry](https://www.southampton.ac.uk/maths/research/groups/algebraic-geometry.page) · [数学科学学院人员目录](https://www.southampton.ac.uk/people?search_api_school=School+of+Mathematical+Sciences) | 0 | 0 / 0 / 0 | 2 |
 | 华沙大学 | 151-200 | — | 来源待复核 | [Faculty of Mathematics, Informatics and Mechanics · Faculty leadership](https://mimuw.edu.pl/en/faculty/) | 0 | 0 / 0 / 0 | 0 |
 | 旁遮普大学 | 151-200 | — | 来源待复核 | [Research Groups:University of the Punjab](https://pu.edu.pk/page/facility/math-research-groups.html) · [全校人员目录（需筛选数学系）](https://www.pu.edu.pk/home/allstaff) | 0 | 0 / 0 / 0 | 0 |
@@ -252,7 +251,7 @@
 - 马里兰大学帕克分校。已看数学系 Faculty Research Interests 和个人页。几何方向的院系研究名单仍需与现任任职和 Brin Center 联合范围对账。
 - 南方科技大学。已对读数学系科研教学系列师资和研究生项目研究方向。尚待核专业介绍未覆盖的教师及杰曼诺夫数学中心中的联合任职。
 - 加州理工学院。数学系官方 People 页列出 19 位 Professorial Faculty 和 6 位荣休教授。已对照代数几何、几何与拓扑组及个别访问任职，现任与荣休或访问记录分别保留。仍有部分个人研究方向、其他院系联合任职及完整访问名单待核。
-- 阿卜杜勒阿齐兹国王大学。已查数学系英语名册文件与阿拉伯语研究目录入口。前者文件无法读取，后者网页和浏览器请求都失败。当前教师名册待核。
+- 阿卜杜勒阿齐兹国王大学。已从数学系英文官方 PDF 提取六个方向组并复核人员序号。几何拓扑组具名名单已入队，现已用出版方确认部分微分几何学者。个别职级、跨组专长、Rabigh 等校区和挂靠机构范围仍待核。
 - 浙江大学。新增数学交叉研究中心的教研人员入口，并以出版方与 OpenAlex 复核王枫的代表作。院系、研究中心跨聘关系及未公开方向人员继续待核。
 - 中南大学。已提取校级教师门户公开的五页数学与统计学院名录。名录中的职位按门户原标签保存，未公开方向的教师留待核。
 - 佐治亚理工学院。已交叉比对 School of Mathematics Faculty 目录和 Faculty Research Interests。仅方向或仅任职可确认的人员仍在复核队列。
@@ -278,6 +277,7 @@
 - 麦吉尔大学。已查院系 Academic Staff 与具明确几何方向的官方个人页面。其余 A–Z、相关研究中心和联合任职范围仍待核。
 - 莫纳什大学。已看纯数学研究组 Academic Staff 并交叉核对数位现任研究者。其他分组、辛几何相关与合聘档案仍需复核。
 - 圣保罗大学。已检查数学系教师目录和几何研究组页面。老版组页的专长仅与现任院系目录配对后用于判定。其余研究组与院系教师个人方向仍待核。
+- 香港城市大学。已查看数学系英文 Faculty Members 入口及博士招生简章。当前可读摘要与个人页尚不足以确认三个方向的完整名单。
 - 阿姆斯特丹大学。已查 Korteweg-de Vries 数学所教员入口、代数几何与数学物理研究项目页，并交叉确认代数几何项目负责人。全组和跨校任职仍待核。
 - 布里斯托大学。学术名册站点显示维护页。已从数学学院 Analysis and Geometry 与 Number Theory 研究页提取部分人员，并对照任职与成果门户。现任全名单及联合单位待核。
 - 南京大学。已读取数学系按拼音排列的中文现任师资目录。方向空白的教师、独立中心和其他院系合聘范围仍待核。
@@ -287,6 +287,7 @@
 - 利兹大学。已查 AGIS 研究组与数学学院专业信息。按个人任职和研究页面核对，尚未完成全组成员与合作单位清单。
 - 马德里自治大学。已提取数学系人员卡的公开职级及个人链接。研究组层级的身份和方向、荣休与合聘范围仍待核。
 - 中国科学院大学。已查看数学科学学院相关名录及校级个人页，核对两位教师的教授任职与研究方向。中科院相关院所双聘和院系覆盖仍待核。
+- 维也纳工业大学。已登记离散数学与几何研究所和 Geometric Analysis 研究单元，个人名册及方向仍待核。
 - 海德堡大学。已查数学研究所 Algebra und Arithmetische Geometrie 研究方向与教授分组。微分几何、跨中心及兼职任职仍待对账。
 - 智利大学。已提取理学院数学系 Cuerpo académico 的姓名、职级与方向。工程学院数学工程系、CMM 和跨学院任职另待核。
 - 亚琛工业大学。已提取 Geometry and Analysis 教研组公开人员名录并核对组负责人。数学系其他研究单位及合聘任职待对账。
@@ -296,11 +297,14 @@
 - 俄罗斯高等经济大学。已提取 Faculty of Mathematics 公开人员名录与自报研究关键词。部分联合研究所和兼职任职仍待逐人核对。
 - 杜伦大学。已查数学科学系 Geometry & Topology 学术人员，组内的退休和教学岗单列。其他纯数学研究组和联合任职待对账。
 - 卡尔斯鲁厄理工学院。已查代数与几何研究所微分几何组成员。其他代数与几何分组、相邻研究中心仍待核。
+- 莱顿大学。已读代数／算术几何旧研究组页，并与现行校方个人页核对部分任职。旧组页的职级和完整性不可用于现任认定，其他研究组和全院人员表待核。
 - 斯旺西大学。已提取 Algebra, Geometry and Topology 研究组具名成员及个人方向。组页身份与个人页有冲突的记录留待确认，院系完整人员表和其他研究组仍待核。
 - 丹麦科技大学。已提取 Section for Mathematics 的公开人员卡，核对研究门户中的微分几何和有限域代数曲线学者。其他数学研究组与跨院任职待对账。
+- 德累斯顿工业大学。已读取数学学院 A–Z 教授与几何研究所成员入口。按最新任命核实实代数几何讲席，并复核几何分析相关教授。全部研究组与外部联合单位仍待对账。
 - 俄亥俄州立大学。已查数学系 People 名录和代数簇 RTG 项目成员。现任教师、短期支持和荣休身份按任职证据区分，其他几何研究方向和联合任职待核。
 - 里约热内卢联邦大学。已读研究生项目师资 A–Z 面板并提取方向。页面职称主要是学历，仍需用现任院系名录区分教授和外聘参与者。
 - 格拉斯哥大学。已提取数学与统计学院 Research and Teaching 及 Honorary and Visiting 两个分组，并复核代数几何组和部分个人成果页。合聘、组内身份细分及其余研究方向待核。
+- 诺丁汉大学。已读取数学科学学院 Staff Listing 的职级及个人链接，并对照个人研究页核对部分 Fano、K 稳定性与双有理方向。需要逐人排除教学／行政、荣休、访问和联合单位重复记录。
 - 鲁汶天主教大学（法语）。已查看 IRMP 纯数学研究分组与学术成员名录。需要核对成员所属组及当前职位，避免把研究生或访问学者并入主名单。
 - 早稻田大学。已解析基干理工学部数学科日文现任教员名录，比较英文名册。应用数理、跨中心任职及未明确的几何细分方向仍待核。
 - 西安交通大学。已提取现任数学系中文名录的人名和个人页链接。英文 Professors 页面未显示完整名单，教授职级与校内外研究单位待逐人对账。
@@ -353,6 +357,7 @@
 - 香港城市大学 · Faculty Members。已保存网页，目录为动态列表或结构尚未对账。 [Faculty Members](https://www.cityu.edu.hk/ma/about-us/ma-academic-faculty)
 - 香港城市大学 · 数学系教师名录。已保存网页，目录为动态列表或结构尚未对账。 [数学系教师名录](https://www.cityu.edu.hk/en/ma/about-us/ma-academic-faculty)
 - 香港城市大学 · Department of Mathematics Faculty Members。已保存网页，目录为动态列表或结构尚未对账。 [Department of Mathematics Faculty Members](https://www.cityu.edu.hk/ma/about-us/ma-academic-faculty)
+- 香港城市大学 · Department of Mathematics · Faculty Members (English)。已保存网页，目录为动态列表或结构尚未对账。 [Department of Mathematics · Faculty Members (English)](https://www.cityu.edu.hk/en/ma/about-us/ma-academic-faculty)
 - 哥伦比亚大学 · 数学系 Algebraic Geometry。已保存网页，目录为动态列表或结构尚未对账。 [数学系 Algebraic Geometry](https://www.math.columbia.edu/research/algebraic-geometry/)
 - 哥伦比亚大学 · 数学系 Geometry and Analysis。已保存网页，目录为动态列表或结构尚未对账。 [数学系 Geometry and Analysis](https://www.math.columbia.edu/research/geometry-and-analysis/)
 - 马德里康普顿斯大学 · Ciencias Matemáticas。HTTPS 连接或证书校验失败。 [Ciencias Matemáticas](https://produccioncientifica.ucm.es/unidades/768/grupos)
@@ -420,10 +425,10 @@
 - 法赫德国王石油与矿业大学 · Mathematics Research Groups。已保存网页，目录为动态列表或结构尚未对账。 [Mathematics Research Groups](https://math.kfupm.edu.sa/research/mathematics-research-groups)
 - 法赫德国王石油与矿业大学 · 数学科学系教师名录。已保存网页，目录为动态列表或结构尚未对账。 [数学科学系教师名录](https://math.kfupm.edu.sa/people/math-faculty-directory)
 - 阿卜杜勒阿齐兹国王大学 · Faculty of Science · Mathematics Department。已保存网页，目录为动态列表或结构尚未对账。 [Faculty of Science · Mathematics Department](https://kau.edu.sa/faculty/en/science/page/mathematics-department)
-- 阿卜杜勒阿齐兹国王大学 · Department of Mathematics Faculty Members。来源返回的内容需要另行读取。 [Department of Mathematics Faculty Members](https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a)
 - 阿卜杜勒阿齐兹国王大学 · 理学院官方院系入口。已保存网页，目录为动态列表或结构尚未对账。 [理学院官方院系入口](https://kau.edu.sa/faculty/en/science/page/faculty_administration)
 - 阿卜杜勒阿齐兹国王大学 · Department of Mathematics · Management and faculty links。已保存网页，目录为动态列表或结构尚未对账。 [Department of Mathematics · Management and faculty links](https://kau.edu.sa/faculty/en/science/page/Management-of-Mathematics-Department)
 - 阿卜杜勒阿齐兹国王大学 · 数学系阿拉伯语教师入口 · Research Directory。HTTPS 连接或证书校验失败。 [数学系阿拉伯语教师入口 · Research Directory](https://research.kau.edu.sa/)
+- 阿卜杜勒阿齐兹国王大学 · كلية العلوم · قسم الرياضيات。已保存网页，目录为动态列表或结构尚未对账。 [كلية العلوم · قسم الرياضيات](https://www.kau.edu.sa/faculty/ar/science/page/mathematics-department)
 - 哈立德国王大学 · Faculty of Science · Department of Mathematics。HTTPS 连接或证书校验失败。 [Faculty of Science · Department of Mathematics](https://science.kku.edu.sa/en/node/219)
 - 哈立德国王大学 · Mathematics Department · Members (page 2)。HTTPS 连接或证书校验失败。 [Mathematics Department · Members (page 2)](https://science.kku.edu.sa/en/node/219?page=1)
 - 卡尔斯鲁厄理工学院 · KIT - Institute of Algebra and Geometry - Research Groups。已保存网页，目录为动态列表或结构尚未对账。 [KIT - Institute of Algebra and Geometry - Research Groups](https://iag.math.kit.edu/english/26.php)
@@ -433,6 +438,7 @@
 - 利兹大学 · 学院人员目录（需筛选数学系）。已保存网页，目录为动态列表或结构尚未对账。 [学院人员目录（需筛选数学系）](https://eps.leeds.ac.uk/stafflist)
 - 莱顿大学 · 莱顿大学几何组（历史名录须核任职）。已保存网页，目录为动态列表或结构尚未对账。 [莱顿大学几何组（历史名录须核任职）](https://websites.math.leidenuniv.nl/geom/geometry_pages/)
 - 莱顿大学 · 数学研究所个人主页（仅单人线索）。已保存网页，目录为动态列表或结构尚未对账。 [数学研究所个人主页（仅单人线索）](https://pub.math.leidenuniv.nl/~vonkjb/)
+- 莱顿大学 · Mathematical Institute · Staff。HTTPS 连接或证书校验失败。 [Mathematical Institute · Staff](https://www.universiteitleiden.nl/en/science/mathematics/staff)
 - 里斯本大学 · Geometry — Department of Mathematics — IST。已保存网页，目录为动态列表或结构尚未对账。 [Geometry — Department of Mathematics — IST](https://math.tecnico.ulisboa.pt/areas/geometria/)
 - 里斯本大学 · 数学系或所属学院人员入口。机构网站限制了目录请求。 [数学系或所属学院人员入口](https://researchportal.ulisboa.pt/pt/organisations/departamento-de-matem%C3%A1tica-7/persons/)
 - 慕尼黑大学 · - Department of Mathematics - LMU München。网页暂未读取成功。 [- Department of Mathematics - LMU München](https://www.math.lmu.de/en/forschung/arbeitsgruppen/algebraische-geometrie/)
@@ -508,6 +514,8 @@
 - 首尔大学 · 교수。网页暂未读取成功。 [교수](https://my.math.snu.ac.kr/board/index.php?mid=portal_professor)
 - 首尔大学 · 数学系现任教授（韩文）。网页暂未读取成功。 [数学系现任教授（韩文）](https://web.math.snu.ac.kr/board/index.php?mid=Main_Faculty)
 - 首尔大学 · 数理科学部教授名录。HTTPS 连接或证书校验失败。 [数理科学部教授名录](https://www.math.snu.ac.kr/eng/bbs/page.php?hid=professor)
+- 首尔大学 · 수리과학부 · 명예교수。HTTPS 连接或证书校验失败。 [수리과학부 · 명예교수](https://web.math.snu.ac.kr/board/index.php?mid=Home_Professor_Emeritus)
+- 首尔大学 · 수리과학부 · 연구원/강사。HTTPS 连接或证书校验失败。 [수리과학부 · 연구원/강사](https://parc.math.snu.ac.kr/board/index.php?mid=Home_Lecturer)
 - 首尔大学 · College of Natural Sciences Faculty。HTTPS 连接或证书校验失败。 [College of Natural Sciences Faculty](https://science.snu.ac.kr/about/organization/faculty)
 - 索邦大学 · Mathematics。已保存网页，目录为动态列表或结构尚未对账。 [Mathematics](https://sciences.sorbonne-universite.fr/en/research-areas/mathematics)
 - 南安普敦大学 · 数学科学学院人员目录。已保存网页，目录为动态列表或结构尚未对账。 [数学科学学院人员目录](https://www.southampton.ac.uk/people?search_api_school=School+of+Mathematical+Sciences)
@@ -538,8 +546,11 @@
 - 代尔夫特理工大学 · Overview of professors at the faculty of EEMCS TU Delft。已保存网页，目录为动态列表或结构尚未对账。 [Overview of professors at the faculty of EEMCS TU Delft](https://www.tudelft.nl/en/eemcs/the-faculty/professors)
 - 德累斯顿工业大学 · Chairs and research groups — Institute of Geometry — TU Dresden。已保存网页，目录为动态列表或结构尚未对账。 [Chairs and research groups — Institute of Geometry — TU Dresden](https://tu-dresden.de/mn/math/geometrie/das-institut/professoren?set_language=en)
 - 德累斯顿工业大学 · 数学系或所属学院人员入口。已保存网页，目录为动态列表或结构尚未对账。 [数学系或所属学院人员入口](https://tu-dresden.de/mn/math/die-fakultaet/institute-und-professuren)
+- 德累斯顿工业大学 · Institut für Geometrie · Beschäftigte。已保存网页，目录为动态列表或结构尚未对账。 [Institut für Geometrie · Beschäftigte](https://tu-dresden.de/mn/math/geometrie/das-institut/beschaeftigte)
 - 维也纳工业大学 · E104-Institute of Discrete Mathematics and Geometry。已保存网页，目录为动态列表或结构尚未对账。 [E104-Institute of Discrete Mathematics and Geometry](https://www.tuwien.at/en/mg/dmg)
 - 维也纳工业大学 · Analysis and Scientific Computing 专组（仅部分范围）。已保存网页，目录为动态列表或结构尚未对账。 [Analysis and Scientific Computing 专组（仅部分范围）](https://www.tuwien.at/en/mg/asc/people-2)
+- 维也纳工业大学 · Research Unit of Geometric Analysis。已保存网页，目录为动态列表或结构尚未对账。 [Research Unit of Geometric Analysis](https://www.tuwien.at/en/mg/dmg/fb7)
+- 维也纳工业大学 · Institut für Diskrete Mathematik und Geometrie E104。已保存网页，目录为动态列表或结构尚未对账。 [Institut für Diskrete Mathematik und Geometrie E104](https://www.dmg.tuwien.ac.at/)
 - 慕尼黑工业大学 · Home - Research Group Algebra。已保存网页，目录为动态列表或结构尚未对账。 [Home - Research Group Algebra](https://www.math.cit.tum.de/en/algebra/home/)
 - 慕尼黑工业大学 · Algebra & Algebraic Geometry。已保存网页，目录为动态列表或结构尚未对账。 [Algebra & Algebraic Geometry](https://www.math.cit.tum.de/en/math/research/algebra-algebraic-geometry/)
 - 慕尼黑工业大学 · Geometry and Topology。已保存网页，目录为动态列表或结构尚未对账。 [Geometry and Topology](https://www.math.cit.tum.de/en/math/research/groups/geometry-and-topology/)

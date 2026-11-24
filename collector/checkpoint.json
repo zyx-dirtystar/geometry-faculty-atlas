@@ -812,6 +812,16 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "cityuhk-roster-enpeople1",
+      "school": "cityuhk",
+      "url": "https://www.cityu.edu.hk/en/ma/about-us/ma-academic-faculty",
+      "label": "Department of Mathematics · Faculty Members (English)",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
       "id": "cmu-full-audit-source",
       "school": "cmu",
       "url": "https://www.cmu.edu/math/research/",
@@ -2005,11 +2015,11 @@
       "id": "king-abdulaziz-faculty",
       "school": "king-abdulaziz",
       "url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
-      "label": "Department of Mathematics Faculty Members",
-      "status": "source_error",
-      "count": 0,
-      "checked_at": "2026-11-23",
-      "note": "来源返回的内容需要另行读取。"
+      "label": "Department of Mathematics · Faculty Directory (English PDF)",
+      "status": "parsed",
+      "count": 92,
+      "checked_at": "2026-11-24",
+      "note": "从官方英文 PDF 逐分组核对序号并提取 92 名人员，涵盖分析、应用数学、代数、微分方程、几何拓扑和数值分析。个人细分方向、另设校区及联合机构仍待核。"
     },
     {
       "id": "king-abdulaziz-full-audit-source",
@@ -2040,6 +2050,16 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "HTTPS 连接或证书校验失败。"
+    },
+    {
+      "id": "king-abdulaziz-roster-arabicdept",
+      "school": "king-abdulaziz",
+      "url": "https://www.kau.edu.sa/faculty/ar/science/page/mathematics-department",
+      "label": "كلية العلوم · قسم الرياضيات",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
       "id": "king-khalid-dept",
@@ -2250,6 +2270,26 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "leiden-roster-directory1",
+      "school": "leiden",
+      "url": "https://www.universiteitleiden.nl/en/science/mathematics/staff",
+      "label": "Mathematical Institute · Staff",
+      "status": "source_error",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "HTTPS 连接或证书校验失败。"
+    },
+    {
+      "id": "leiden-roster-geometry1",
+      "school": "leiden",
+      "url": "https://websites.math.leidenuniv.nl/geom/geometry_pages/",
+      "label": "Mathematical Institute · Arithmetic Geometry archived group",
+      "status": "parsed",
+      "count": 8,
+      "checked_at": "2026-11-24",
+      "note": ""
     },
     {
       "id": "lisbon-dmist-faculty",
@@ -2770,6 +2810,16 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "nottingham-roster-directory1",
+      "school": "nottingham",
+      "url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+      "label": "School of Mathematical Sciences · Staff Listing",
+      "status": "parsed",
+      "count": 182,
+      "checked_at": "2026-11-24",
+      "note": ""
     },
     {
       "id": "novosibirsk-full-audit-source",
@@ -3782,6 +3832,26 @@
       "note": "HTTPS 连接或证书校验失败。"
     },
     {
+      "id": "snu-roster-koreanemeriti",
+      "school": "snu",
+      "url": "https://web.math.snu.ac.kr/board/index.php?mid=Home_Professor_Emeritus",
+      "label": "수리과학부 · 명예교수",
+      "status": "source_error",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "HTTPS 连接或证书校验失败。"
+    },
+    {
+      "id": "snu-roster-koreanteaching",
+      "school": "snu",
+      "url": "https://parc.math.snu.ac.kr/board/index.php?mid=Home_Lecturer",
+      "label": "수리과학부 · 연구원/강사",
+      "status": "source_error",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "HTTPS 连接或证书校验失败。"
+    },
+    {
       "id": "snu-roster-snu",
       "school": "snu",
       "url": "https://science.snu.ac.kr/about/organization/faculty",
@@ -4322,6 +4392,26 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "tu-dresden-roster-geom",
+      "school": "tu-dresden",
+      "url": "https://tu-dresden.de/mn/math/geometrie/das-institut/beschaeftigte",
+      "label": "Institut für Geometrie · Beschäftigte",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "tu-dresden-roster-professors",
+      "school": "tu-dresden",
+      "url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+      "label": "Fakultät Mathematik · Professorinnen und Professoren A–Z",
+      "status": "parsed",
+      "count": 53,
+      "checked_at": "2026-11-24",
+      "note": ""
+    },
+    {
       "id": "tu-wien-full-audit-source",
       "school": "tu-wien",
       "url": "https://www.tuwien.at/en/mg/dmg",
@@ -4339,6 +4429,26 @@
       "status": "needs_adapter",
       "count": 0,
       "checked_at": "2026-11-23",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "tu-wien-roster-geometry70",
+      "school": "tu-wien",
+      "url": "https://www.tuwien.at/en/mg/dmg/fb7",
+      "label": "Research Unit of Geometric Analysis",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "tu-wien-roster-mathorg",
+      "school": "tu-wien",
+      "url": "https://www.dmg.tuwien.ac.at/",
+      "label": "Institut für Diskrete Mathematik und Geometrie E104",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-24",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
@@ -57988,6 +58098,1478 @@
       }
     },
     {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "aatefhobiny",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Aatef Hobiny",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "abdelmoneimyouseflashin",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Abdel Moneim Yousef Lashin",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "abdelrahmanabdelhamidheliel",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Abdelrahman Abdelhamid Heliel",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "abdulahahmedmalghamdi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Abdulah Ahmed M Alghamdi",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "abdulazizsaleemalofi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Abdulaziz Saleem Alofi",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "abdullaheqalalmazroei",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Abdullah Eqal Almazroei",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "abdullahkamisalzahrani",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Abdullah Kamis Alzahrani",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "abdullahmathkeralotaibi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Abdullah Mathker Alotaibi",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "abdulrahmanalialsolami",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Abdulrahman Ali Alsolami",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "abeeromarbadghaish",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Abeer Omar Badghaish",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "abeerrajaalthibyani",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Abeer Raja Althibyani",
+        "title": "Lecturer",
+        "research": "Geometry and Topology Section · individual field to verify",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "adelnaifmalahmadi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Adel Naif M. Alahmadi",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "aftabhussainmuhammadakhterhussain",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Aftab Hussain Muhammad Akhter Hussain",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "ahmadnasseralkenani",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Ahmad Nasser Alkenani",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "ahmadtawfikaliabdelwahhab",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Ahmad Tawfik Ali Abdelwahhab",
+        "title": "Professor",
+        "research": "Geometry and Topology Section · individual field to verify",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "ahmedeidalsaedi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Ahmed Eid Alsaedi",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "ahmedmohamedelaiw",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Ahmed Mohamed Elaiw",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "ahmedmohammedalshehri",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Ahmed Mohammed Alshehri",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "ahmedmohammedsahlooli",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Ahmed Mohammed Sahlooli",
+        "title": "Teaching Assistant",
+        "research": "Geometry and Topology Section · individual field to verify",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "ahmedsalemelsherif",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Ahmed Salem El-Sherif",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "alisalehalshomrani",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Ali Saleh Alshomrani",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "amalfaizsaeedalharbi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Amal Faiz Saeed Alharbi",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "amanihussainsaloom",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Amani Hussain Saloom",
+        "title": "Assistant Professor",
+        "research": "Geometry and Topology Section · individual field to verify",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "amanizainbajamal",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Amani Zain Bajamal",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "amerhassanalbargi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Amer Hassan Albargi",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "areejsalehalharbi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Areej Saleh Alharbi",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "ashrafmobarezzenkoursalem",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Ashraf Mobarez Zenkour Salem",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "asimmohammadasiri",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Asim Mohammad Asiri",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "azebzainalghanemi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Azeb Zain Alghanemi",
+        "title": "Professor",
+        "research": "Geometry and Topology Section · individual field to verify",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "azizahhasanalrajhi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Azizah Hasan Alrajhi",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "badrahsalehalghamdi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Badrah Saleh Alghamdi",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "badriahmaeedalgethami",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Badriah Maeed Al Gethami",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "bashirahmadmuhammad",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Bashir Ahmad Muhammad",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "cenapozel",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Cenap Ozel",
+        "title": "Professor",
+        "research": "Geometry and Topology Section · individual field to verify",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "dalaladnanamermaturi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Dalal Adnan Amer Maturi",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "doaaabdulraufgarout",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Doaa Abdulrauf Garout",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "ebraheemothmanalzahrani",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Ebraheem Othman Alzahrani",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "elsayedmohammedelsayed",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Elsayed Mohammed Elsayed",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "emanahmedsimbawa",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Eman Ahmed Simbawa",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "farahatsayedaly",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Farahat Sayed Aly",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "farissaeedalzahrani",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Faris Saeed Alzahrani",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "ghadaalibasendwah",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Ghada Ali Basendwah",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "ghadasamirmatar",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Ghada Samir Matar",
+        "title": "Lecturer",
+        "research": "Geometry and Topology Section · individual field to verify",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "halaabdullahashi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Hala Abdullah Ashi",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "hamedhamdanalsulami",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Hamed Hamdan Alsulami",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "hanaasalemalashwali",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Hanaa Salem Alashwali",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "hashimmohammedalshehri",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Hashim Mohammed Alshehri",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "hasnaahamoudalzahrani",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Hasnaa Hamoud Alzahrani",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "hatoonabdullatifshoaib",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Hatoon Abdullatif Shoaib",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "hunidamohammedmalaikah",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Hunida Mohammed Malaikah",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "jehanalawialbar",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Jehan Alawi Al-Bar",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "khadijahabdullahmohammedsharaf",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Khadijah Abdullah Mohammed Sharaf",
+        "title": "Professor",
+        "research": "Geometry and Topology Section · individual field to verify",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "khadijahmohammedalamoudi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Khadijah Mohammed Al-Amoudi",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "khalilsalemalbasyouni",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Khalil Salem Al-Basyouni",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "lamiasaeedalqahtani",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Lamia Saeed Alqahtani",
+        "title": "Professor",
+        "research": "Geometry and Topology Section · individual field to verify",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "lindanabeelalzaben",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Linda Nabeel Alzaben",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "mahaeshaqnoorwali",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Maha Eshaq Noorwali",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "mahamohammedsaeed",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Maha Mohammed Saeed",
+        "title": "Associate Professor",
+        "research": "Geometry and Topology Section · individual field to verify",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "maifaisalmansouri",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Mai Faisal Mansouri",
+        "title": "Assistant Professor",
+        "research": "Geometry and Topology Section · individual field to verify",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "majedomaralbaity",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Majed Omar Albaity",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "manalfuadalnahdi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Manal Fuad Alnahdi",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "mansooraalialsulami",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Mansoor Aali Alsulami",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "mansourmahmoud",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Mansour Mahmoud",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "maryammohammedkareem",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Maryam Mohammed Kareem",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "mohamedmohamedeldessokyahmed",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Mohamed Mohamed El-Dessoky Ahmed",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "mohammadhusseinzailai",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Mohammad Hussein Zailai",
+        "title": "Associate Professor",
+        "research": "Geometry and Topology Section · individual field to verify",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "mohammedahmedalshumrani",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Mohammed Ahmed Alshumrani",
+        "title": "Professor",
+        "research": "Geometry and Topology Section · individual field to verify",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "mohammedmousaalshomrani",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Mohammed Mousa Al-Shomrani",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "monairahomaralansari",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Monairah Omar Alansari",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "moniafouadnaghi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Monia Fouad Naghi",
+        "title": "Associate Professor",
+        "research": "Geometry and Topology Section · individual field to verify",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "najwajamelkhojah",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Najwa Jamel Khojah",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "naseershahzadayub",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Naseer Shahzad Ayub",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "nawabhussainabdullah",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Nawab Hussain Abdullah",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "ramandeepbehl",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Ramandeep Behl",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "ramzisalsaedi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Ramzi S. Alsaedi",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "raniaabdullahalharbey",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Rania Abdullah Alharbey",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "reemothmansalahaldubiban",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Reem Othman Salah Aldubiban",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "safiahmohammedbawazeer",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Safiah Mohammed Bawazeer",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "salmamohammadaborasaltuwairqi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Salma Mohammad Aboras Al-Tuwairqi",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "samisororalbeshi",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Sami Soror Albeshi",
+        "title": "Lecturer",
+        "research": "Geometry and Topology Section · individual field to verify",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "saudmastouralsulami",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Saud Mastour Alsulami",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "sharefamohammadasiri",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Sharefa Mohammad Asiri",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "shathajameelmonaquel",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Shatha Jameel Monaquel",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "sivasankaransivanandam",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Sivasankaran Sivanandam",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "sohazuhairhamdan",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Soha Zuhair Hamdan",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "suhaahmedwazzan",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Suha Ahmed Wazzan",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "sumayahabdullahbatwa",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Sumayah Abdullah Batwa",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "taghreedghazisugati",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Taghreed Ghazi Sugati",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "tareqsaeedalmalki",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Tareq Saeed Almalki",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "wafaaabdullahalbar",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Wafaa Abdullah Albar",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "widyanhassanbasaffar",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Widyan Hassan Basaffar",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "king-abdulaziz-faculty",
+      "person_key": "zakaullahmalik",
+      "school": "king-abdulaziz",
+      "record": {
+        "name": "Zaka Ullah Malik",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://kau.edu.sa/web/static/9d8ccb41-5ef4-45b2-9d90-f42a8e9a9f1a",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
       "source": "king-khalid-recovery-2024-roster",
       "person_key": "abdallahahmedhyder",
       "school": "king-khalid",
@@ -65893,6 +67475,134 @@
         "source_kind": "department",
         "source_url": "https://agis.leeds.ac.uk/people/",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "leiden-roster-geometry1",
+      "person_key": "basedixhoven",
+      "school": "leiden",
+      "record": {
+        "name": "Bas Edixhoven",
+        "title": "",
+        "research": "",
+        "profile": "http://www.math.leidenuniv.nl/~edix/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://websites.math.leidenuniv.nl/geom/geometry_pages/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "leiden-roster-geometry1",
+      "person_key": "davidholmes",
+      "school": "leiden",
+      "record": {
+        "name": "David Holmes",
+        "title": "",
+        "research": "",
+        "profile": "http://www.math.leidenuniv.nl/~holmesdst/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://websites.math.leidenuniv.nl/geom/geometry_pages/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "leiden-roster-geometry1",
+      "person_key": "jinbijin",
+      "school": "leiden",
+      "record": {
+        "name": "Jinbi Jin",
+        "title": "",
+        "research": "",
+        "profile": "http://www.math.leidenuniv.nl/~jjin/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://websites.math.leidenuniv.nl/geom/geometry_pages/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "leiden-roster-geometry1",
+      "person_key": "martindjukanovic",
+      "school": "leiden",
+      "record": {
+        "name": "Martin Djukanovic",
+        "title": "",
+        "research": "",
+        "profile": "http://www.math.leidenuniv.nl/~djukanovicm/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://websites.math.leidenuniv.nl/geom/geometry_pages/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "leiden-roster-geometry1",
+      "person_key": "martinlubke",
+      "school": "leiden",
+      "record": {
+        "name": "Martin Lübke",
+        "title": "",
+        "research": "",
+        "profile": "http://www.math.leidenuniv.nl/~lubke/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://websites.math.leidenuniv.nl/geom/geometry_pages/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "leiden-roster-geometry1",
+      "person_key": "owenbiesel",
+      "school": "leiden",
+      "record": {
+        "name": "Owen Biesel",
+        "title": "",
+        "research": "",
+        "profile": "https://web.math.princeton.edu/~obiesel/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://websites.math.leidenuniv.nl/geom/geometry_pages/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "leiden-roster-geometry1",
+      "person_key": "robindejong",
+      "school": "leiden",
+      "record": {
+        "name": "Robin de Jong",
+        "title": "",
+        "research": "",
+        "profile": "http://www.math.leidenuniv.nl/~rdejong/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://websites.math.leidenuniv.nl/geom/geometry_pages/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "leiden-roster-geometry1",
+      "person_key": "wouterzomervrucht",
+      "school": "leiden",
+      "record": {
+        "name": "Wouter Zomervrucht",
+        "title": "",
+        "research": "",
+        "profile": "http://www.math.leidenuniv.nl/~wzomervr/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://websites.math.leidenuniv.nl/geom/geometry_pages/",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -87301,6 +89011,2918 @@
         "source_kind": "department",
         "source_url": "https://www.math.northwestern.edu/people/faculty/",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "aidanokeeffe",
+      "school": "nottingham",
+      "record": {
+        "name": "Aidan O'Keeffe",
+        "title": "Associate Professor of Statistics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/aidan.o'keeffe",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "alanbarker",
+      "school": "nottingham",
+      "record": {
+        "name": "Alan Barker",
+        "title": "Teaching Associate",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/a.barker",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "albertoangurelandres",
+      "school": "nottingham",
+      "record": {
+        "name": "Alberto Angurel Andres",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/alberto.angurelandres",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "alexandervishik",
+      "school": "nottingham",
+      "record": {
+        "name": "Alexander Vishik",
+        "title": "Professor of Algebra",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/alexander.vishik",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "alexroussopoulos",
+      "school": "nottingham",
+      "record": {
+        "name": "Alex Roussopoulos",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/alexander.roussopoulos",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "alicepeyraut",
+      "school": "nottingham",
+      "record": {
+        "name": "Alice Peyraut",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/alice.peyraut",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "angelicapozzi",
+      "school": "nottingham",
+      "record": {
+        "name": "Angelica Pozzi",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/angelica.pozzi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "annakalogirou",
+      "school": "nottingham",
+      "record": {
+        "name": "Anna Kalogirou",
+        "title": "Assistant Professor in Applied Mathematics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/anna.kalogirou",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "benwagstaffe",
+      "school": "nottingham",
+      "record": {
+        "name": "Ben Wagstaffe",
+        "title": "Machine Learning - Antibodydiscovery Scientist (Ktp Associate)",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/ben.wagstaffe",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "bhavikapatel",
+      "school": "nottingham",
+      "record": {
+        "name": "Bhavika Patel",
+        "title": "Senior Research Administrator",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/bhavika.patel2",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "bindibrook",
+      "school": "nottingham",
+      "record": {
+        "name": "Bindi Brook",
+        "title": "Professor of Mathematical Medicine and Biology",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/bindi.brook",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "catsmith",
+      "school": "nottingham",
+      "record": {
+        "name": "Cat Smith",
+        "title": "Senior Research Administrator",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/cat.smith",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "celenelee",
+      "school": "nottingham",
+      "record": {
+        "name": "Celene Lee",
+        "title": "Teaching Associate",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/jiayin.lee",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "cerianbrewer",
+      "school": "nottingham",
+      "record": {
+        "name": "Cerian Brewer",
+        "title": "Teaching Associate",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/cerian.brewer1",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "charlottebaxter",
+      "school": "nottingham",
+      "record": {
+        "name": "Charlotte Baxter",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/charlotte.baxter",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "chrisbrignell",
+      "school": "nottingham",
+      "record": {
+        "name": "Chris Brignell",
+        "title": "Professor, Head of Section Mathematical Education & Scholarship",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/chris.brignell",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "chrislanyon",
+      "school": "nottingham",
+      "record": {
+        "name": "Chris Lanyon",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/chris.lanyon",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "chrisluke",
+      "school": "nottingham",
+      "record": {
+        "name": "Chris Luke",
+        "title": "Teaching Associate",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/christopher.luke",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "christianwuthrich",
+      "school": "nottingham",
+      "record": {
+        "name": "Christian Wuthrich",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/christian.wuthrich",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "christopherblaxlandkay",
+      "school": "nottingham",
+      "record": {
+        "name": "Christopher Blaxland-Kay",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/christopher.blaxland-kay",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "christopherfallaize",
+      "school": "nottingham",
+      "record": {
+        "name": "Christopher Fallaize",
+        "title": "Lecturer in Statistics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/chris.fallaize",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "chriswilliams",
+      "school": "nottingham",
+      "record": {
+        "name": "Chris Williams",
+        "title": "Assistant Professor of Pure Mathematics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/chris.williams1",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "clairejameson",
+      "school": "nottingham",
+      "record": {
+        "name": "Claire Jameson",
+        "title": "Head of Operations - Computer Science and Mathematical Sciences",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/claire.jameson",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "danharborne",
+      "school": "nottingham",
+      "record": {
+        "name": "Dan Harborne",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/dan.harborne",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "danielcavey",
+      "school": "nottingham",
+      "record": {
+        "name": "Daniel Cavey",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/daniel.cavey2",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "danielclarkson",
+      "school": "nottingham",
+      "record": {
+        "name": "Daniel Clarkson",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/daniel.clarkson",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "danielnicks",
+      "school": "nottingham",
+      "record": {
+        "name": "Daniel Nicks",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/dan.nicks",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "davidhawker",
+      "school": "nottingham",
+      "record": {
+        "name": "David Hawker",
+        "title": "Research and Business Development Manager",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/david.hawker",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "davidsirl",
+      "school": "nottingham",
+      "record": {
+        "name": "David Sirl",
+        "title": "Senior Research Fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/david.sirl",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "edwardhall",
+      "school": "nottingham",
+      "record": {
+        "name": "Edward Hall",
+        "title": "Associate Professor and Deputy Head of Mathematical Education & Scholarship",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/edward.hall",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "elisebagley",
+      "school": "nottingham",
+      "record": {
+        "name": "Elise Bagley",
+        "title": "Registry and Academic Manager / Assessments / Faculty of Science",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/elise.johnson",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "emilyclaughton",
+      "school": "nottingham",
+      "record": {
+        "name": "Emily Claughton",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/pmyelc",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "eminbennychacko",
+      "school": "nottingham",
+      "record": {
+        "name": "Emin Benny Chacko",
+        "title": "Marie Sklodowska-Curie Early Stage Researcher",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/emin.bennychacko1",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "etiennefarcot",
+      "school": "nottingham",
+      "record": {
+        "name": "Etienne Farcot",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/etienne.farcot",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "ewanfewell",
+      "school": "nottingham",
+      "record": {
+        "name": "Ewan Fewell",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/ewan.fewell",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "felixhenson",
+      "school": "nottingham",
+      "record": {
+        "name": "Felix Henson",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/felix.henson",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "fenglongyou",
+      "school": "nottingham",
+      "record": {
+        "name": "Fenglong You",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/fenglong.you",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "frankball",
+      "school": "nottingham",
+      "record": {
+        "name": "Frank Ball",
+        "title": "Emeritus Professor of Applied Probability",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/frank.ball",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "frasersparks",
+      "school": "nottingham",
+      "record": {
+        "name": "Fraser Sparks",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/fraser.sparks",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "frederickthøgersen",
+      "school": "nottingham",
+      "record": {
+        "name": "Frederick Thøgersen",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/frederick.thogersen",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "fredrikstromberg",
+      "school": "nottingham",
+      "record": {
+        "name": "Fredrik Stromberg",
+        "title": "Associate Professor in Number Theory",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/fredrik.stromberg",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "garymirams",
+      "school": "nottingham",
+      "record": {
+        "name": "Gary Mirams",
+        "title": "Professor of Mathematical Physiology",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/gary.mirams",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "gemmacharvet",
+      "school": "nottingham",
+      "record": {
+        "name": "Gemma Charvet",
+        "title": "Operations Manager",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/gemma.charvet",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "gerardoadesso",
+      "school": "nottingham",
+      "record": {
+        "name": "Gerardo Adesso",
+        "title": "Professor of Mathematical Physics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/gerardo.adesso",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "gerdasuchodolskaite",
+      "school": "nottingham",
+      "record": {
+        "name": "Gerda Suchodolskaite",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/gerda.suchodolskaite",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "giovannidaddario",
+      "school": "nottingham",
+      "record": {
+        "name": "Giovanni D'Addario",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/giovanni.d'addario",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "gracejolly",
+      "school": "nottingham",
+      "record": {
+        "name": "Grace Jolly",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/grace.jolly",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "gregortanner",
+      "school": "nottingham",
+      "record": {
+        "name": "Gregor Tanner",
+        "title": "Professor of Applied Mathematics & Senior Tutor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/gregor.tanner",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "gurpreetnagra",
+      "school": "nottingham",
+      "record": {
+        "name": "Gurpreet Nagra",
+        "title": "Administrator",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/gurpreet.nagra",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "hafizkhalid",
+      "school": "nottingham",
+      "record": {
+        "name": "Hafiz Khalid",
+        "title": "Student Services Administrator/UP-East/PGR Team",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/hafiz.khalid1",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "hamidabban",
+      "school": "nottingham",
+      "record": {
+        "name": "Hamid Abban",
+        "title": "Associate Professor in Geometry & Director of PGR studies",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/hamid.abban",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "hamidmohaddes",
+      "school": "nottingham",
+      "record": {
+        "name": "Hamid Mohaddes",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/hamid.mohaddes",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "harineeselvadurai",
+      "school": "nottingham",
+      "record": {
+        "name": "Harinee Selvadurai",
+        "title": "Knowledge Exchange and Research Impact Manager",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/harinee.selvadurai",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "harryspencer",
+      "school": "nottingham",
+      "record": {
+        "name": "Harry Spencer",
+        "title": "EPSRC Postdoctoral Pathway Prize Fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/harry.spencer",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "heathpearson",
+      "school": "nottingham",
+      "record": {
+        "name": "Heath Pearson",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/heath.pearson",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "helendrysdale",
+      "school": "nottingham",
+      "record": {
+        "name": "Helen Drysdale",
+        "title": "Administrator",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/helen.drysdale",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "herryfridolinlalus",
+      "school": "nottingham",
+      "record": {
+        "name": "Herry Fridolin Lalus",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/herryfridolin.lalus",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "hollyjustice",
+      "school": "nottingham",
+      "record": {
+        "name": "Holly Justice",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/holly.justice",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "hongyuanshu",
+      "school": "nottingham",
+      "record": {
+        "name": "Hongyuan Shu",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/hongyuan.shu",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "huilingle",
+      "school": "nottingham",
+      "record": {
+        "name": "Huiling Le",
+        "title": "Emeritus Professor of Probability",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/huiling.le",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "iandryden",
+      "school": "nottingham",
+      "record": {
+        "name": "Ian Dryden",
+        "title": "Deputy Head of School and Professor of Statistics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/ian.dryden",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "ignaciobrevis",
+      "school": "nottingham",
+      "record": {
+        "name": "Ignacio Brevis",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/ignacio.brevis",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "jackpurllant",
+      "school": "nottingham",
+      "record": {
+        "name": "Jack Purllant",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/jack.purllant",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "jacopolestingi",
+      "school": "nottingham",
+      "record": {
+        "name": "Jacopo Lestingi",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/jacopo.lestingi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "jakepowell",
+      "school": "nottingham",
+      "record": {
+        "name": "Jake Powell",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/jake.powell2",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "jamesmacmanus",
+      "school": "nottingham",
+      "record": {
+        "name": "James MacManus",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/james.macmanus",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "jamesmalkin",
+      "school": "nottingham",
+      "record": {
+        "name": "James Malkin",
+        "title": "Leverhulme Early Career Fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/james.malkin",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "jamespreston",
+      "school": "nottingham",
+      "record": {
+        "name": "James Preston",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/james.preston1",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "jamiewalton",
+      "school": "nottingham",
+      "record": {
+        "name": "Jamie Walton",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/jamie.walton",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "jeanpaulschemeil",
+      "school": "nottingham",
+      "record": {
+        "name": "Jean Paul Schemeil",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/jeanpaul.schemeil",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "jennifernunns",
+      "school": "nottingham",
+      "record": {
+        "name": "Jennifer Nunns",
+        "title": "Senior Administrator",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/jennifer.nunns",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "jesusmiguelyuloasuncion",
+      "school": "nottingham",
+      "record": {
+        "name": "Jesus Miguel Yulo Asuncion",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/jesusmiguel.yuloasuncion",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "jillianbooth",
+      "school": "nottingham",
+      "record": {
+        "name": "Jillian Booth",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/jillian.booth",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "jingcetao",
+      "school": "nottingham",
+      "record": {
+        "name": "Jingce Tao",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/jingce.tao",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "joeburridge",
+      "school": "nottingham",
+      "record": {
+        "name": "Joe Burridge",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/joseph.burridge",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "joelfeinstein",
+      "school": "nottingham",
+      "record": {
+        "name": "Joel Feinstein",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/joel.feinstein",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "joeyshuttleworth",
+      "school": "nottingham",
+      "record": {
+        "name": "Joey Shuttleworth",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/joey.shuttleworth",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "johanneshofscheier",
+      "school": "nottingham",
+      "record": {
+        "name": "Johannes Hofscheier",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/johannes.hofscheier",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "johnbarrett",
+      "school": "nottingham",
+      "record": {
+        "name": "John Barrett",
+        "title": "Emeritus Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/john.barrett",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "johnbillingham",
+      "school": "nottingham",
+      "record": {
+        "name": "John Billingham",
+        "title": "Emeritus Professor of Theoretical Mechanics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/john.billingham",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "johnking",
+      "school": "nottingham",
+      "record": {
+        "name": "John King",
+        "title": "Professor of Theoretical Mechanics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/john.king",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "jonathandavies",
+      "school": "nottingham",
+      "record": {
+        "name": "Jonathan Davies",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/ppyjed",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "jonathanwattis",
+      "school": "nottingham",
+      "record": {
+        "name": "Jonathan Wattis",
+        "title": "Professor of Mathematical Sciences",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/jonathan.wattis",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "jormalouko",
+      "school": "nottingham",
+      "record": {
+        "name": "Jorma Louko",
+        "title": "Professor of Mathematical Physics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/jorma.louko",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "josephshuttleworth",
+      "school": "nottingham",
+      "record": {
+        "name": "Joseph Shuttleworth",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/joseph.shuttleworth",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "joshuafinn",
+      "school": "nottingham",
+      "record": {
+        "name": "Joshua Finn",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/joshua.finn",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "julianhanby",
+      "school": "nottingham",
+      "record": {
+        "name": "Julian Hanby",
+        "title": "Project Manager",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/julian.hanby",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "kamildrynda",
+      "school": "nottingham",
+      "record": {
+        "name": "Kamil Drynda",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/kamil.drynda",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "karthikbharath",
+      "school": "nottingham",
+      "record": {
+        "name": "Karthik Bharath",
+        "title": "Professor of Statistics, Head of Section Statistics & Probability",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/karthik.bharath",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "katherinehaynes",
+      "school": "nottingham",
+      "record": {
+        "name": "Katherine Haynes",
+        "title": "Learning Technology Officer",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/katherine.haynes",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "katiesevern",
+      "school": "nottingham",
+      "record": {
+        "name": "Katie Severn",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/katie.severn",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "keweizhang",
+      "school": "nottingham",
+      "record": {
+        "name": "Kewei Zhang",
+        "title": "Emeritus Professor of Mathematical Analysis",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/kewei.zhang",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "khalidaawashra",
+      "school": "nottingham",
+      "record": {
+        "name": "Khalida Awashra",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/khalida.awashra",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "kieransmith",
+      "school": "nottingham",
+      "record": {
+        "name": "Kieran Smith",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/pmyks4",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "kirillkrasnov",
+      "school": "nottingham",
+      "record": {
+        "name": "Kirill Krasnov",
+        "title": "Professor of Mathematical Physics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/kirill.krasnov",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "kirstybolton",
+      "school": "nottingham",
+      "record": {
+        "name": "Kirsty Bolton",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/kirsty.bolton",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "kristoffervanderzee",
+      "school": "nottingham",
+      "record": {
+        "name": "Kristoffer van der Zee",
+        "title": "Interim Head of School, Professor of Numerical Analysis & Computational Applied Mathematics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/kg.vanderzee",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "laurasberna",
+      "school": "nottingham",
+      "record": {
+        "name": "Laura Sberna",
+        "title": "Marie Sklodowska-Curie Postdoctoral fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/laura.sberna",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "leahband",
+      "school": "nottingham",
+      "record": {
+        "name": "Leah Band",
+        "title": "Professor, joint appointment between the School of Biosciences and School of Mathematical Sciences",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/leah.band",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "leahturner",
+      "school": "nottingham",
+      "record": {
+        "name": "Leah Turner",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/pmylt1",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "leonardosolidoro",
+      "school": "nottingham",
+      "record": {
+        "name": "Leonardo Solidoro",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/leonardo.solidoro",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "lewismatthews",
+      "school": "nottingham",
+      "record": {
+        "name": "Lewis Matthews",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/lewis.matthews1",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "likhangharryshum",
+      "school": "nottingham",
+      "record": {
+        "name": "Lik Hang Harry Shum",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/likhangharry.shum",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "lingyiyang",
+      "school": "nottingham",
+      "record": {
+        "name": "Lingyi Yang",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/lingyi.yang",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "lisamott",
+      "school": "nottingham",
+      "record": {
+        "name": "Lisa Mott",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/lisa.mott",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "lorenzopompili",
+      "school": "nottingham",
+      "record": {
+        "name": "Lorenzo Pompili",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/lorenzo.pompili",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "luisespath",
+      "school": "nottingham",
+      "record": {
+        "name": "Luis Espath",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/luis.espath",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "maciejjarema",
+      "school": "nottingham",
+      "record": {
+        "name": "Maciej Jarema",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/ppymj11",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "madalinguta",
+      "school": "nottingham",
+      "record": {
+        "name": "Madalin Guta",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/madalin.guta",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "marcoiglesias",
+      "school": "nottingham",
+      "record": {
+        "name": "Marco Iglesias",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/marco.iglesias",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "markusowen",
+      "school": "nottingham",
+      "record": {
+        "name": "Markus Owen",
+        "title": "Professor of Mathematical Biology",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/markus.owen",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "markvanrossum",
+      "school": "nottingham",
+      "record": {
+        "name": "Mark Van Rossum",
+        "title": "Chair and Director Neural Computation Research Group",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/mark.vanrossum",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "martinkurth",
+      "school": "nottingham",
+      "record": {
+        "name": "Martin Kurth",
+        "title": "University Teacher",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/martin.kurth",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "martinray",
+      "school": "nottingham",
+      "record": {
+        "name": "Martin Ray",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/pmymr5",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "martinrichter",
+      "school": "nottingham",
+      "record": {
+        "name": "Martin Richter",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/martin.richter",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "mathewcrosier",
+      "school": "nottingham",
+      "record": {
+        "name": "Mathew Crosier",
+        "title": "Senior Operations Manager - Computer Science and Mathematical Sciences",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/m.crosier",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "matteoicardi",
+      "school": "nottingham",
+      "record": {
+        "name": "Matteo Icardi",
+        "title": "Associate Professor in Applied Mathematics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/matteo.icardi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "matthewhubbard",
+      "school": "nottingham",
+      "record": {
+        "name": "Matthew Hubbard",
+        "title": "Professor in Scientific Computation",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/matthew.hubbard",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "matthewking",
+      "school": "nottingham",
+      "record": {
+        "name": "Matthew King",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/matthew.king1",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "matthewmould",
+      "school": "nottingham",
+      "record": {
+        "name": "Matthew Mould",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/matthew.mould",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "matthewscase",
+      "school": "nottingham",
+      "record": {
+        "name": "Matthew Scase",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/matthew.scase",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "matthewsmith",
+      "school": "nottingham",
+      "record": {
+        "name": "Matthew Smith",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/matthew.smith2",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "matthiaskurzke",
+      "school": "nottingham",
+      "record": {
+        "name": "Matthias Kurzke",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/matthias.kurzke",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "melanieng",
+      "school": "nottingham",
+      "record": {
+        "name": "Melanie Ng",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/manyinmelanie.ng",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "michaelclerx",
+      "school": "nottingham",
+      "record": {
+        "name": "Michael Clerx",
+        "title": "Senior Research Fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/michael.clerx",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "michaeltretyakov",
+      "school": "nottingham",
+      "record": {
+        "name": "Michael Tretyakov",
+        "title": "Professor of Mathematics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/michael.tretyakov",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "miguelbezaresfigueroa",
+      "school": "nottingham",
+      "record": {
+        "name": "Miguel Bezares Figueroa",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/miguel.bezaresfigueroa",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "nabilfadai",
+      "school": "nottingham",
+      "record": {
+        "name": "Nabil Fadai",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/nabil.fadai",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "nicholasharbour",
+      "school": "nottingham",
+      "record": {
+        "name": "Nicholas Harbour",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/nicholas.harbour",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "nicolagudelajtis",
+      "school": "nottingham",
+      "record": {
+        "name": "Nicola Gudelajtis",
+        "title": "Education & Student Experience Senior Administrator",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/nicola.gudelajtis",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "nikolaosdiamantis",
+      "school": "nottingham",
+      "record": {
+        "name": "Nikolaos Diamantis",
+        "title": "Professor of Pure Mathematics, Head of Section Pure Mathematics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/nikolaos.diamantis",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "olgaiziumtseva",
+      "school": "nottingham",
+      "record": {
+        "name": "Olga Iziumtseva",
+        "title": "Research Associate",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/olga.iziumtseva1",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "owennicholls",
+      "school": "nottingham",
+      "record": {
+        "name": "Owen Nicholls",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/pmyon1",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "paulwhitby",
+      "school": "nottingham",
+      "record": {
+        "name": "Paul Whitby",
+        "title": "Technical Manager",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/paul.whitby",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "peterneal",
+      "school": "nottingham",
+      "record": {
+        "name": "Peter Neal",
+        "title": "Professor of Statistics, Director of Education & Student Experience",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/peter.neal",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "philiponeill",
+      "school": "nottingham",
+      "record": {
+        "name": "Philip O'Neill",
+        "title": "Professor of Applied Probability",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/philip.oneill",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "quentinmuller",
+      "school": "nottingham",
+      "record": {
+        "name": "Quentin Muller",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/quentin.muller",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "rachelnicks",
+      "school": "nottingham",
+      "record": {
+        "name": "Rachel Nicks",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/rachel.nicks",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "renpengzheng",
+      "school": "nottingham",
+      "record": {
+        "name": "Renpeng Zheng",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/renpeng.zheng",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "reubenmenezes",
+      "school": "nottingham",
+      "record": {
+        "name": "Reuben Menezes",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/reuben.menezes",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "reubenodea",
+      "school": "nottingham",
+      "record": {
+        "name": "Reuben O'Dea",
+        "title": "Professor of Mathematics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/reuben.odea",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "riasymonds",
+      "school": "nottingham",
+      "record": {
+        "name": "Ria Symonds",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/ria.symonds",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "richardgraham",
+      "school": "nottingham",
+      "record": {
+        "name": "Richard Graham",
+        "title": "Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/richard.graham",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "richardtew",
+      "school": "nottingham",
+      "record": {
+        "name": "Richard Tew",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/richard.tew",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "richardwilkinson",
+      "school": "nottingham",
+      "record": {
+        "name": "Richard Wilkinson",
+        "title": "Professor of Statistics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/r.d.wilkinson",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "robertallen",
+      "school": "nottingham",
+      "record": {
+        "name": "Robert Allen",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/pcyrga",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "robertlaugwitz",
+      "school": "nottingham",
+      "record": {
+        "name": "Robert Laugwitz",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/robert.laugwitz",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "rodrigoveiga",
+      "school": "nottingham",
+      "record": {
+        "name": "Rodrigo Veiga",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/rodrigo.veiga",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "romancherniha",
+      "school": "nottingham",
+      "record": {
+        "name": "Roman Cherniha",
+        "title": "Associate Researcher",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/roman.cherniha1",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "romansyunyaev",
+      "school": "nottingham",
+      "record": {
+        "name": "Roman Syunyaev",
+        "title": "Senior Research Fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/roman.syunyaev2",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "rorycollett",
+      "school": "nottingham",
+      "record": {
+        "name": "Rory Collett",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/rory.collett",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "ruedigerthul",
+      "school": "nottingham",
+      "record": {
+        "name": "Ruediger Thul",
+        "title": "Associate Professor in Applied Mathematics, Director of PGT Studies",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/ruediger.thul",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "ryansunderland",
+      "school": "nottingham",
+      "record": {
+        "name": "Ryan Sunderland",
+        "title": "Research Associate",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/ryan.sunderland",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "samanthashinn",
+      "school": "nottingham",
+      "record": {
+        "name": "Samantha Shinn",
+        "title": "Research Manager",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/samantha.shinn",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "samclose",
+      "school": "nottingham",
+      "record": {
+        "name": "Sam Close",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/sam.close",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "samuellewis",
+      "school": "nottingham",
+      "record": {
+        "name": "Samuel Lewis",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/pmysl7",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "samuelpalama",
+      "school": "nottingham",
+      "record": {
+        "name": "Samuel Palama",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/samuel.palama",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "sarasajadi",
+      "school": "nottingham",
+      "record": {
+        "name": "Sara Sajadi",
+        "title": "Research Associate",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/sara.sajadi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "seangregory",
+      "school": "nottingham",
+      "record": {
+        "name": "Sean Gregory",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/ppysmg",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "simonpreston",
+      "school": "nottingham",
+      "record": {
+        "name": "Simon Preston",
+        "title": "Professor of Statistics and Applied Mathematics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/simon.preston",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "stefanruschel",
+      "school": "nottingham",
+      "record": {
+        "name": "Stefan Ruschel",
+        "title": "Research Associate/Fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/stefan.ruschel",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "stephaniemarshall",
+      "school": "nottingham",
+      "record": {
+        "name": "Stephanie Marshall",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/pmyrm7",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "stephencoombes",
+      "school": "nottingham",
+      "record": {
+        "name": "Stephen Coombes",
+        "title": "Professor of Applied Mathematics, Head of Section Applied Mathematics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/stephen.coombes",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "stephengreen",
+      "school": "nottingham",
+      "record": {
+        "name": "Stephen Green",
+        "title": "Principal Research Fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/stephen.green2",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "susannepumpluen",
+      "school": "nottingham",
+      "record": {
+        "name": "Susanne Pumpluen",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/susanne.pumpluen",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "svengnutzmann",
+      "school": "nottingham",
+      "record": {
+        "name": "Sven Gnutzmann",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/sven.gnutzmann",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "tanakornudomworarat",
+      "school": "nottingham",
+      "record": {
+        "name": "Tanakorn Udomworarat",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/tanakorn.udomworarat",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "theodorekypraios",
+      "school": "nottingham",
+      "record": {
+        "name": "Theodore Kypraios",
+        "title": "Professor of Statistics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/theodore.kypraios",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "thiagoassumpcao",
+      "school": "nottingham",
+      "record": {
+        "name": "Thiago Assumpção",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/thiago.assumpcao",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "thomassotiriou",
+      "school": "nottingham",
+      "record": {
+        "name": "Thomas Sotiriou",
+        "title": "Professor of Gravitational Physics, Head of Section Mathematical Physics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/thomas.sotiriou",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "tomward",
+      "school": "nottingham",
+      "record": {
+        "name": "Tom Ward",
+        "title": "Teaching Associate",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/tom.ward3",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "vaidehidixit",
+      "school": "nottingham",
+      "record": {
+        "name": "Vaidehi Dixit",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/vaidehi.dixit",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "valentinbreaz",
+      "school": "nottingham",
+      "record": {
+        "name": "Valentin Breaz",
+        "title": "Research Fellow in Statistics",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/valentin.breaz1",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "veronicablake",
+      "school": "nottingham",
+      "record": {
+        "name": "Veronica Blake",
+        "title": "Senior Administrator - School of Mathematical Sciences",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/veronica.blake",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "wasiurkhudabukhsh",
+      "school": "nottingham",
+      "record": {
+        "name": "Wasiur KhudaBukhsh",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/wasiur.khudabukhsh",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "williamsalkeld",
+      "school": "nottingham",
+      "record": {
+        "name": "William Salkeld",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/william.salkeld",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "yajieguo",
+      "school": "nottingham",
+      "record": {
+        "name": "Yajie Guo",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/pmxyg3",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "yijuehu",
+      "school": "nottingham",
+      "record": {
+        "name": "Yijue Hu",
+        "title": "PhD student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/yijue.hu",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "yordanraykov",
+      "school": "nottingham",
+      "record": {
+        "name": "Yordan Raykov",
+        "title": "Assistant Professor in Data science",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/yordan.raykov",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "yuehu",
+      "school": "nottingham",
+      "record": {
+        "name": "Yue Hu",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/yue.hu2",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "yueshen",
+      "school": "nottingham",
+      "record": {
+        "name": "Yue Shen",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/yue.shen",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "nottingham-roster-directory1",
+      "person_key": "yukuantao",
+      "school": "nottingham",
+      "record": {
+        "name": "Yukuan Tao",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "https://www.nottingham.ac.uk/mathematics/people/yukuan.tao",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.nottingham.ac.uk/mathematics/people/index.aspx",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -162708,6 +167330,854 @@
         "source_kind": "research",
         "source_url": "https://www.tudelft.nl/en/eemcs/the-faculty/departments/applied-mathematics/analysis/people",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "alexandraschwartz",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Alexandra Schwartz",
+        "title": "Professur für Mathematische Optimierung; Institut für Numerische Mathematik",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/numerik/schwartz",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "andreahoffkamp",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Andrea Hoffkamp",
+        "title": "Professur für Didaktik der Mathematik; Institut für Analysis",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/analysis/didaktik",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "andreasfischer",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Andreas Fischer",
+        "title": "Seniorprofessor (Forschung); Institut für Numerische Mathematik",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/numerik/fischer",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "andreasthom",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Andreas Thom",
+        "title": "Professur für Geometrie; Institut für Geometrie",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/geometrie/thom",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "anitabehme",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Anita Behme",
+        "title": "Professur für Angewandte Stochastik; Institut für Mathematische Stochastik",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/stochastik/behme",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "arnofehm",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Arno Fehm",
+        "title": "Professur für Algebra; Institut für Algebra",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/algebra/fehm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "axelvoigt",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Axel Voigt",
+        "title": "Professur für Wissenschaftliches Rechnen und Angewandte Mathematik; Institut für Wissenschaftliches Rechnen",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/wir/das-institut/professuren",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "christiangrossmann",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Christian Großmann",
+        "title": "Professur für Numerische Analysis; Institut für Numerische Mathematik",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/numerik/das-institut/beschaeftigte/ehemalige/grossmann",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "daniellordick",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Daniel Lordick",
+        "title": "AG Geometrische Modellierung und Visualisierung; Institut für Geometrie",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/geometrie/lordick",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "dietmarferger",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Dietmar Ferger",
+        "title": "Professur für Mathematische Statistik; Institut für Mathematische Stochastik",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/stochastik/ferger",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "dirkpauly",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Dirk Pauly",
+        "title": "Außerplanmäßige Professur für Angewandte Funktionalanalysis; Institut für Analysis",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/analysis/das-institut/memberbereiche/dirk-pauly",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "ellenhenke",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Ellen Henke",
+        "title": "Professur für Algebra mit Schwerpunkt Gruppentheorie; Institut für Algebra",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/algebra/henke",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "franzbaader",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Franz Baader",
+        "title": "Professur für Automatentheorie an der Fakultät Informatik; Zweitmitglied in der Fakultät Mathematik",
+        "research": "",
+        "profile": "http://lat.inf.tu-dresden.de/~baader/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "friedemannschuricht",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Friedemann Schuricht",
+        "title": "Professur für Nichtlineare Analysis; Institut für Geometrie",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/geometrie/schuricht",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "gertbar",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Gert Bär",
+        "title": "Professur für Geometrie / Kinematik; Institut für Geometrie",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/geometrie/das-institut/beschaeftigte/prof-baer",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "gunarmatthies",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Gunar Matthies",
+        "title": "Professur für Numerische Analysis; Institut für Numerische Mathematik",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/numerik/matthies",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "hansgorgroos",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Hans-Görg Roos",
+        "title": "Professur für Numerik partieller Differentialgleichungen; Institut für Numerische Mathematik",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/numerik/das-institut/beschaeftigte/ehemalige/roos",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "heatherharrington",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Heather Harrington",
+        "title": "Honorarprofessorin an der Fakultät Mathematik; Direktorin am Max-Planck-Institut für molekulare Zellbiologie und Genetik",
+        "research": "",
+        "profile": "https://www.mpi-cbg.de/research/researchgroups/currentgroups/heather-harrington/research-focus",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "hubertschwetlick",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Hubert Schwetlick",
+        "title": "Professur für Computernumerik; Institut für Numerische Mathematik",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/numerik/das-institut/beschaeftigte/ehemalige/schwetlick",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "jurgenfranz",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Jürgen Franz",
+        "title": "apl. Professur für Zuverlässigkeitsmodelle / Mathematische Statistik; Institut für Mathematische Stochastik",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/stochastik/das-institut/emeriti/juergen-franz",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "jurgenvoigt",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Jürgen Voigt",
+        "title": "Professur für Angewandte Funktionalanalysis; Institut für Analysis",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/analysis/das-institut/professuren-am-institut/professoren_im_ruhestand/voigt",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "klausdschmidt",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Klaus D. Schmidt",
+        "title": "Professur für Versicherungsmathematik / Risikotheorie; Institut für Mathematische Stochastik",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/stochastik/das-institut/emeriti/schmidt",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "manfredludwig",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Manfred Ludwig",
+        "title": "Professur für Computergeometrie und Computergraphik; Institut für Wissenschaftliches Rechnen",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/wir/das-institut/im-ruhestand/manfred-ludwig",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "manuelbodirsky",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Manuel Bodirsky",
+        "title": "Professur für Algebra und Diskrete Strukturen; Institut für Algebra",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/algebra/bodirsky",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "marcosalvalaglio",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Marco Salvalaglio",
+        "title": "Außerplanmäßige Professur für Computational Materials Science; Institut für Wissenschaftliches Rechnen",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/wir/das-institut/beschaeftigte/marco-salvalaglio",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "mariokummer",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Mario Kummer",
+        "title": "Juniorprofessur für Reelle algebraische Geometrie; Institut für Geometrie",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/geometrie/kummer",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "markusschmidtchen",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Markus Schmidtchen",
+        "title": "Juniorprofessur für Angewandte Mathematik; Institut für Wissenschaftliches Rechnen",
+        "research": "",
+        "profile": "https://www.markusschmidtchen.com",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "martinkellerressel",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Martin Keller-Ressel",
+        "title": "Professur für Stochastische Analysis und Finanzmathematik; Institut für Mathematische Stochastik",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/stochastik/mkeller",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "martinweber",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Martin Weber",
+        "title": "Professur für Halbgeordnete Räume / Positive Operatoren; Institut für Analysis",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/analysis/das-institut/professuren-am-institut/professoren_im_ruhestand/weber",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "oliversander",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Oliver Sander",
+        "title": "Professur für Numerik partieller Differentialgleichungen; Institut für Numerische Mathematik",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/numerik/sander/startseite",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "patrickmehlitz",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Patrick Mehlitz",
+        "title": "Professur für Angewandte Optimierung",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/numerik/mehlitz",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "peterhornung",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Peter Hornung",
+        "title": "Professur für Partielle Differentialgleichungen; Institut für Geometrie",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/geometrie/hornung",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "rainergebhardt",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Rainer Gebhardt",
+        "title": "Honorarprofessur für Geschichte der Mathematik; Adam-Ries-Bund e.V.",
+        "research": "",
+        "profile": "http://www.wirtschaft-im-erzgebirge.de/de/Wir_ueber_uns/Botschaftermarketing_Visitenkarten/Prof_Dr_Rainer_Gebhardt_1272.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "rainerpicard",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Rainer Picard",
+        "title": "Professur für Analysis; Institut für Analysis",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/analysis/das-institut/professuren-am-institut/professoren_im_ruhestand/picard",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "ralphchill",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Ralph Chill",
+        "title": "Professur für Funktionalanalysis; Institut für Analysis",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/analysis/chill",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "reinhardposchel",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Reinhard Pöschel",
+        "title": "Professur für Universelle Algebra; Institut für Algebra",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/poeschel",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "reneschilling",
+      "school": "tu-dresden",
+      "record": {
+        "name": "René Schilling",
+        "title": "Professur für Wahrscheinlichkeitstheorie; Institut für Mathematische Stochastik",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/stochastik/schilling",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "rolfkuhne",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Rolf Kühne",
+        "title": "Professur für Wahrscheinlichkeitstheorie, insb. Theorie der Stochastischen Prozesse; Institut für Mathematische Stochastik",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/stochastik/das-institut/emeriti/rolf-kuehne",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "sebastianfranz",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Sebastian Franz",
+        "title": "Projektgruppe Numerische Analysis; Institut für Wissenschaftliches Rechnen",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/wir/das-institut/beschaeftigte/sebastian-franz",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "sebastianrudolph",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Sebastian Rudolph",
+        "title": "Professor für Computational Logic; Zweitmitglied in der Fakultät Mathematik",
+        "research": "",
+        "profile": "https://iccl.inf.tu-dresden.de/web/Sebastian_Rudolph",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "stefandeschauer",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Stefan Deschauer",
+        "title": "Professur für Didaktik der Mathematik",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/analysis/didaktik/die-professur/emeritus-stefan-deschauer",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "stefaneschmidt",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Stefan E. Schmidt",
+        "title": "Professur für Methoden der angewandten Algebra; Institut für Algebra",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/algebra/schmidt/die-professur/kontakt",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "stefanneukamm",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Stefan Neukamm",
+        "title": "Professur für Angewandte Analysis; Institut für Wissenschaftliches Rechnen",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/wir/neukamm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "stefansiegmund",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Stefan Siegmund",
+        "title": "Professur für Dynamik und Steuerung; Institut für Analysis und Zentrum für Dynamik",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/analysis/siegmund",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "ulrichbrehm",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Ulrich Brehm",
+        "title": "Professur für Geometrie / Algorithmische und Computer- bzw. Konvexgeometrie; Institut für Geometrie",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/geometrie/das-institut/beschaeftigte/prof-brehm",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "ulrichkrahmer",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Ulrich Krähmer",
+        "title": "Professur für Geometrische Methoden in der Mathematik; Institut für Geometrie",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/geometrie/kraehmer",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "ulrikebaumann",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Ulrike Baumann",
+        "title": "Projektgruppe Diskrete Strukturen; Institut für Algebra",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/algebra/baumann",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "vadimalekseev",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Vadim Alekseev",
+        "title": "Außerplanmäßige Professur für Analytische und geometrische Gruppentheorie",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/geometrie/das-institut/beschaeftigte/vadim-alekseev",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "volkernollau",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Volker Nollau",
+        "title": "Professur für Stochastische Analysis / Steuerung; Institut für Mathematische Stochastik",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/stochastik/das-institut/emeriti/volker-nollau",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "wernertimmermann",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Werner Timmermann",
+        "title": "Professur für Theorie der Operatoralgebren / Mathematische Physik; Institut für Analysis",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/analysis/das-institut/professuren-am-institut/professoren_im_ruhestand/timmermann",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "winfriedschirotzek",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Winfried Schirotzek",
+        "title": "Professur für Nichtlineare Analysis / Variationsmethoden; Institut für Analysis",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/analysis/das-institut/professuren-am-institut/professoren_im_ruhestand/winfried_schirotzek",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "wolfgangenagel",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Wolfgang E. Nagel",
+        "title": "Professur für Rechnerarchitektur an der Fakultät für Informatik; Zweitmitglied in der Fakultät Mathematik",
+        "research": "",
+        "profile": "https://tu-dresden.de/zih/die-einrichtung/struktur/wolfgang-e-nagel",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "tu-dresden-roster-professors",
+      "person_key": "zoltansasvari",
+      "school": "tu-dresden",
+      "record": {
+        "name": "Zoltan Sasvári",
+        "title": "Professur für Stochastische Modelle / Zuverlässigkeitstheorie, Asymptotik; Institut für Mathematische Stochastik",
+        "research": "",
+        "profile": "https://tu-dresden.de/mn/math/stochastik/sasvari",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://tu-dresden.de/mn/math/die-fakultaet/professoren-a-bis-z?set_language=de",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -271917,6 +277387,37 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
     },
+    "azeb-zain-alghanemi": {
+      "status": "review_ready",
+      "author_id": "A5053613182",
+      "papers": [
+        {
+          "title": "The Differential Geometry of a Space Curve via a Constant Vector in ℝ3",
+          "year": 2025,
+          "url": "https://doi.org/10.3390/axioms14030190"
+        },
+        {
+          "title": "On a mixed boundary value problem on bounded domains of $\\mathbb{R}^3$",
+          "year": 2026,
+          "url": "https://doi.org/10.5565/PUBLMAT7022605"
+        }
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5053613182",
+        "orcid": "https://orcid.org/0000-0001-8778-1062",
+        "url": "https://openalex.org/authors/A5053613182",
+        "authorApiUrl": "https://api.openalex.org/authors/A5053613182",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5053613182,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 33,
+        "works": 39,
+        "citations": 157,
+        "hIndex": 6,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "balazs-szendroi": {
       "status": "review_ready",
       "author_id": "A5078229428",
@@ -273924,6 +279425,11 @@
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5062332468"
+    },
+    "mario-kummer": {
+      "status": "identity_review",
+      "reason": "两篇可归属的期刊 DOI 在 OpenAlex 指向不同作者档案，累计论文数和引用量待核。",
+      "checkedAt": "2026-11-24"
     },
     "mark-andrea-de-cataldo": {
       "status": "review_ready",
