@@ -1662,6 +1662,21 @@ def profile_fields(document, base):
         keywords = text_at(main, ".//div[@id='research']/p[" + class_token("keyicon") + "]")
         if keywords:
             research.append(keywords)
+    if target.hostname == "www.math.ubc.ca" and re.fullmatch(r"/user/\d+", target.path):
+        name = main.xpath(".//h2[" + class_token("profile-title") + "]")
+        if len(name) == 1:
+            official_name = contents(name[0])
+            official_title = text_at(name[0], "following-sibling::h2[1][" + class_token("h5") + "]")
+            if official_title == "Faculty":
+                official_title = "Academic Faculty"
+        for paragraph in main.xpath(".//p"):
+            focus = re.search(
+                r"\b(?:my|his|her|their) (?:current |general )?research "
+                r"(?:interests|focus|lies|examines|investigates|studies|is in).*?(?:\.(?=\s|$)|$)",
+                contents(paragraph), re.I,
+            )
+            if focus and 20 <= len(focus[0]) <= 360:
+                research.append(focus[0])
     if target.hostname == "math.nyu.edu" and re.fullmatch(r"/people/profiles/[^/]+\.html", target.path):
         headings = main.xpath(".//h1[normalize-space(.) != 'Faculty Profile']")
         titles = main.xpath(f".//div[{class_token('title')}]")
