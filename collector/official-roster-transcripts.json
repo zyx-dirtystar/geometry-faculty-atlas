@@ -3564,25 +3564,227 @@
   "snu-roster-sp": {
     "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor",
     "checkedAt": "2026-11-24",
-    "scope": "分段核对韩语现任教授页，录入三位明确列出复或代数几何的教师。未逐条录入其余现任教师；荣休、研究员和联合单位范围待核。",
+    "scope": "主页面全段核对 36 位教师及 1 位协议联聘。",
     "entries": [
+      {
+        "name": "Myung-ju Kang",
+        "title": "Professor",
+        "research": "Applied Mathematics Numerical Analysis",
+        "homepage": "http://ncia.snu.ac.kr/"
+      },
+      {
+        "name": "Jungsoo Kang",
+        "title": "Professor",
+        "research": "Symplectic Geometry",
+        "homepage": "https://sites.google.com/site/jungsookangshome"
+      },
+      {
+        "name": "Woong Kook",
+        "title": "Professor",
+        "research": "Combinatorial Mathematics Algebraic Topology",
+        "homepage": "http://www.math.snu.ac.kr/~woongkook/"
+      },
+      {
+        "name": "Jae-Hoon Kwon",
+        "title": "Professor",
+        "research": "Representation Theory Algebraic Combinatorics",
+        "homepage": "https://sites.google.com/site/jaehoonkw/home"
+      },
+      {
+        "name": "Kihyun Kim",
+        "title": "Assistant Professor",
+        "research": "Analysis Partial Differential Equations",
+        "homepage": "https://sites.google.com/view/kihyunkim"
+      },
       {
         "name": "Dano Kim",
         "title": "Professor",
-        "research": "Complex geometry, algebraic geometry and several complex variables",
+        "research": "Complex Geometry Algebraic Geometry Several Complex Variables",
         "homepage": "https://sites.google.com/view/kimdano"
+      },
+      {
+        "name": "Dohyeong Kim",
+        "title": "Associate Professor",
+        "research": "Number theory",
+        "homepage": "http://www.math.snu.ac.kr/~dohyeongkim/"
+      },
+      {
+        "name": "Panki Kim",
+        "title": "Professor",
+        "research": "Probability",
+        "homepage": "http://www.math.snu.ac.kr/~pkim/"
+      },
+      {
+        "name": "JungHwan Park",
+        "title": "Associate Professor",
+        "research": "Knot Theory Three and Four-dimensional Manifolds",
+        "homepage": "https://www.math.snu.ac.kr/~jungpark0817"
+      },
+      {
+        "name": "Jongil Park",
+        "title": "Professor",
+        "research": "Topology Topology of 4-Manifolds"
+      },
+      {
+        "name": "Hyungbin Park",
+        "title": "Associate Professor",
+        "research": "Mathematical Finance Probability and Stochastic Processes",
+        "homepage": "https://sites.google.com/site/hyungbin16"
+      },
+      {
+        "name": "Dongho Byeon",
+        "title": "Professor",
+        "research": "Number Theory",
+        "homepage": "http://www.math.snu.ac.kr/~dhbyeon/"
+      },
+      {
+        "name": "Sung-Soo Byun",
+        "title": "Assistant Professor",
+        "research": "Probability Theory Complex Analysis",
+        "homepage": "https://sites.google.com/view/sungsoobyun/"
+      },
+      {
+        "name": "Sun-Sig Byun",
+        "title": "Professor",
+        "research": "Analysis(PDEs)",
+        "homepage": "https://www.math.snu.ac.kr/~byun/"
+      },
+      {
+        "name": "Uhi Rinn Suh",
+        "title": "Associate Professor",
+        "research": "Algebra Mathematical Physics",
+        "homepage": "https://sites.google.com/site/urinnsuh/home"
+      },
+      {
+        "name": "Insuk Seo",
+        "title": "Professor",
+        "research": "Probability Theory AI for Mathematics",
+        "homepage": "http://www.math.snu.ac.kr/~insuk.seo/"
+      },
+      {
+        "name": "Byeong-Kweon Oh",
+        "title": "Professor",
+        "research": "Number Theory",
+        "homepage": "http://www.math.snu.ac.kr/~bkoh/"
       },
       {
         "name": "Jeongseok Oh",
         "title": "Assistant Professor",
-        "research": "Algebraic geometry, Gromov–Witten theory and Donaldson–Thomas theory",
-        "homepage": ""
+        "research": "Algebraic Geometry",
+        "homepage": "https://sites.google.com/view/jeongseokoh/"
+      },
+      {
+        "name": "Changkeun Oh",
+        "title": "Assistant Professor",
+        "research": "Fourier analysis",
+        "homepage": "https://sites.google.com/wisc.edu/chankeun/home"
+      },
+      {
+        "name": "Philsang Yoo",
+        "title": "Associate Professor",
+        "research": "Physical Mathematics",
+        "homepage": "https://sites.google.com/site/philsangyoo/"
+      },
+      {
+        "name": "Gye-Seon Lee",
+        "title": "Associate Professor",
+        "research": "Geometry and Topology",
+        "homepage": "http://www.math.snu.ac.kr/~gyeseonlee/"
+      },
+      {
+        "name": "Ki-Ahm Lee",
+        "title": "Professor",
+        "research": "Analysis(PDEs)",
+        "homepage": "http://www.math.snu.ac.kr/~kiahm/"
+      },
+      {
+        "name": "Dabeen Lee",
+        "title": "Assistant Professor",
+        "research": "Optimization Algorithms Machine Learning",
+        "homepage": "https://dabeenl.github.io"
+      },
+      {
+        "name": "Sanghyuk Lee",
+        "title": "Professor",
+        "research": "Harmonic Analysis",
+        "homepage": "http://www.math.snu.ac.kr/~shklee/"
+      },
+      {
+        "name": "Seung Jin Lee",
+        "title": "Associate Professor",
+        "research": "Algebraic Combinatorics",
+        "homepage": "https://sites.google.com/site/lsjin1986/"
+      },
+      {
+        "name": "Hun Hee Lee",
+        "title": "Professor",
+        "research": "analysis operator algebra abstract harmonic analysis",
+        "homepage": "http://www.math.snu.ac.kr/~hhlee/"
+      },
+      {
+        "name": "Seonhee Lim",
+        "title": "Professor",
+        "research": "Topology Geometric Group Theory Lie Groups and Ergodic Theory",
+        "homepage": "https://sites.google.com/view/seonheelim?usp=sharing"
+      },
+      {
+        "name": "Ja A Jeong",
+        "title": "Professor",
+        "research": "Analysis Operator Algebras"
+      },
+      {
+        "name": "Jung Hee Cheon",
+        "title": "Professor",
+        "research": "Number Theory Cryptology",
+        "homepage": "http://www.math.snu.ac.kr/~jhcheon/xe2/"
+      },
+      {
+        "name": "Seung Yeal Ha",
+        "title": "Professor",
+        "research": "Applied Mathematics(Nonlinear PDEs)",
+        "homepage": "http://www.math.snu.ac.kr/~syha/"
       },
       {
         "name": "David Hyeon",
         "title": "Professor",
         "research": "Algebraic geometry",
         "homepage": "http://www.math.snu.ac.kr/~hyeon/"
+      },
+      {
+        "name": "Youngjoon Hong",
+        "title": "Associate Professor",
+        "research": "Machine Learning Scientific Computing",
+        "homepage": "https://www.youngjoonhong.com/"
+      },
+      {
+        "name": "Jin Hong",
+        "title": "Professor",
+        "research": "Algebra (Cryptography)",
+        "homepage": "http://www.math.snu.ac.kr/~jinhong/"
+      },
+      {
+        "name": "Junho Peter Whang",
+        "title": "Assistant Professor",
+        "research": "Number Theory Geometry",
+        "homepage": "http://www.math.snu.ac.kr/~jwhang/"
+      },
+      {
+        "name": "Gerald Trutnau",
+        "title": "Professor",
+        "research": "Analysis(Stochastic Analysis)",
+        "homepage": "http://www.math.snu.ac.kr/~trutnau/"
+      },
+      {
+        "name": "Otto van Koert",
+        "title": "Professor",
+        "research": "Contact Topology",
+        "homepage": "http://www.math.snu.ac.kr/~okoert/"
+      },
+      {
+        "name": "Hwajong Yoo",
+        "title": "Joint Appointment · Professor",
+        "research": "Number Theory Arithmetic Geometry",
+        "homepage": "https://sites.google.com/site/hwajong/"
       }
     ]
   },
@@ -5802,5 +6004,638 @@
       }
     ],
     "scope": "20 人，来自设于 POSTECH 校园的独立 IBS 研究中心。两位负责人明确双聘；其余保持 IBS 职衔。"
+  },
+  "snu-adjunct-31": {
+    "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=adjunct",
+    "checkedAt": "2026-11-24",
+    "scope": "韩语现任分栏 23 条。按原职级提取。",
+    "entries": [
+      {
+        "name": "강혜정",
+        "title": "Teaching Professor",
+        "research": "Stochastic Processes"
+      },
+      {
+        "name": "김대용",
+        "title": "Teaching Professor",
+        "research": "Topology"
+      },
+      {
+        "name": "김동운",
+        "title": "Teaching Professor",
+        "research": "함수해석학"
+      },
+      {
+        "name": "김영득",
+        "title": "Teaching Professor",
+        "research": "Topology"
+      },
+      {
+        "name": "김우찬",
+        "title": "Teaching Professor",
+        "research": "Analysis"
+      },
+      {
+        "name": "김지영",
+        "title": "Teaching Professor",
+        "research": "Number Theory"
+      },
+      {
+        "name": "남계숙",
+        "title": "Teaching Professor",
+        "research": "Functional Analysis"
+      },
+      {
+        "name": "마대건",
+        "title": "Teaching Professor",
+        "research": "Cryptography"
+      },
+      {
+        "name": "박정필",
+        "title": "Teaching Professor",
+        "research": "Commutative Algebra"
+      },
+      {
+        "name": "이영민",
+        "title": "Teaching Professor",
+        "research": "Number Theory"
+      },
+      {
+        "name": "정경훈",
+        "title": "Teaching Professor",
+        "research": "Lie Algebra Representation Theory"
+      },
+      {
+        "name": "최형규",
+        "title": "Teaching Professor",
+        "research": "Topology"
+      },
+      {
+        "name": "노세은",
+        "title": "Visiting Academic",
+        "research": "해석학"
+      },
+      {
+        "name": "양현미",
+        "title": "Visiting Academic",
+        "research": "Applied Mathematics"
+      },
+      {
+        "name": "이석윤",
+        "title": "Visiting Academic",
+        "research": "암호학"
+      },
+      {
+        "name": "김종암",
+        "title": "Joint Appointment · Professor",
+        "research": "Computational Fluid Dynamic"
+      },
+      {
+        "name": "심형보",
+        "title": "Joint Appointment · Professor",
+        "research": "Control Theory Dynamic Systems"
+      },
+      {
+        "name": "이재욱",
+        "title": "Joint Appointment · Professor",
+        "research": "Statistical Analysis Learning and Data Mining Computational Finance"
+      },
+      {
+        "name": "정교민",
+        "title": "Joint Appointment · Professor",
+        "research": "Machine Learning"
+      },
+      {
+        "name": "허충길",
+        "title": "Joint Appointment · Professor",
+        "research": "Software Verification"
+      },
+      {
+        "name": "이슬비",
+        "title": "Contract appointment",
+        "research": "Dynamics and Number Theory"
+      },
+      {
+        "name": "이영(Lee Young)",
+        "title": "Special Appointment · Professor",
+        "research": "정보보안"
+      },
+      {
+        "name": "Ernest Ryu",
+        "title": "Visiting Academic",
+        "research": "Deep learning theory optimization theory."
+      }
+    ]
+  },
+  "snu-emeritus-31": {
+    "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=emeritus",
+    "checkedAt": "2026-11-24",
+    "scope": "韩语现任荣休分栏 22 条。",
+    "entries": [
+      {
+        "name": "강정혁",
+        "title": "Professor Emeritus",
+        "research": "Analysis Functions of Several Complex Variables Holomorphic Manifolds"
+      },
+      {
+        "name": "계승혁",
+        "title": "Professor Emeritus",
+        "research": "Analysis Functional Analysis"
+      },
+      {
+        "name": "고영소",
+        "title": "Professor Emeritus",
+        "research": "Algebra"
+      },
+      {
+        "name": "김 혁",
+        "title": "Professor Emeritus",
+        "research": "Topology"
+      },
+      {
+        "name": "김도한",
+        "title": "Professor Emeritus",
+        "research": "Analysis PDEs Hyperfunctions"
+      },
+      {
+        "name": "김명환",
+        "title": "Professor Emeritus",
+        "research": "Algebra Number Theory Cryptography"
+      },
+      {
+        "name": "김상문",
+        "title": "Professor Emeritus",
+        "research": "Analysis"
+      },
+      {
+        "name": "김영원",
+        "title": "Professor Emeritus",
+        "research": "Analysis Functions of a Complex Variable Symbolic Dynamics"
+      },
+      {
+        "name": "김창호",
+        "title": "Professor Emeritus",
+        "research": "Algebraic Geometry"
+      },
+      {
+        "name": "김홍종",
+        "title": "Professor Emeritus",
+        "research": "Geometry Differential Geometry"
+      },
+      {
+        "name": "박세희",
+        "title": "Professor Emeritus",
+        "research": "Topology and Nonlinear Analysis"
+      },
+      {
+        "name": "신동우",
+        "title": "Professor Emeritus",
+        "research": "Applied Mathematics Numerical Analysis nverse Problems"
+      },
+      {
+        "name": "윤재한",
+        "title": "Professor Emeritus",
+        "research": "Topology"
+      },
+      {
+        "name": "이사계",
+        "title": "Professor Emeritus",
+        "research": "Analysis Operator Algebra"
+      },
+      {
+        "name": "이우영",
+        "title": "Professor Emeritus",
+        "research": "Analysis Operator Theory"
+      },
+      {
+        "name": "이인석",
+        "title": "Professor Emeritus",
+        "research": "Algebra Representation Theory"
+      },
+      {
+        "name": "이현구",
+        "title": "Professor Emeritus",
+        "research": "Topology"
+      },
+      {
+        "name": "정재명",
+        "title": "Professor Emeritus",
+        "research": "Algebra Ring Theory"
+      },
+      {
+        "name": "조영현",
+        "title": "Professor Emeritus",
+        "research": "Algebra Commutative Algebras Homological Algebra"
+      },
+      {
+        "name": "지동표",
+        "title": "Professor Emeritus",
+        "research": "Geometry Riemannian Geometry"
+      },
+      {
+        "name": "최형인",
+        "title": "Professor Emeritus",
+        "research": "Differential Geometry Applied mathematics"
+      },
+      {
+        "name": "한종규",
+        "title": "Professor Emeritus",
+        "research": "Analysis Functions of Several Complex Variables"
+      }
+    ]
+  },
+  "snu-postdoc-en-31": {
+    "url": "https://www.math.snu.ac.kr/eng/bbs/page.php?hid=postdoc",
+    "checkedAt": "2026-11-24",
+    "scope": "英文分栏据 32 张具名卡片转录，研究单位和专长随来源记录。",
+    "entries": [
+      {
+        "name": "Changhoon Song",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": "Applied Mathematics"
+      },
+      {
+        "name": "Changyu Zhou",
+        "title": "Postdoctoral Fellow · IBS",
+        "research": ""
+      },
+      {
+        "name": "Chu-hee Cho",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": "Harmonic Analysis"
+      },
+      {
+        "name": "Deokwoo Lim",
+        "title": "Postdoctoral Fellow · IBS",
+        "research": ""
+      },
+      {
+        "name": "Donggeon Yhee",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": "Number Theory"
+      },
+      {
+        "name": "Dongha Kim",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": "Partial Differential Equations"
+      },
+      {
+        "name": "Dongho Lee",
+        "title": "Postdoctoral Fellow · QSMS",
+        "research": ""
+      },
+      {
+        "name": "Dongjun MIN",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": "Probability Theory"
+      },
+      {
+        "name": "Gi-Chan Bae",
+        "title": "Postdoctoral Fellow · BK21",
+        "research": "Partial Differential Equations"
+      },
+      {
+        "name": "Hoseob Seo",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": "Complex Geometry"
+      },
+      {
+        "name": "Hyeokjun Kwon",
+        "title": "Postdoctoral Fellow · BK21",
+        "research": "Arithmetic Geometry"
+      },
+      {
+        "name": "Hyunggi Kim",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": ""
+      },
+      {
+        "name": "Jeongtae Oh",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": "Harmonic Analysis"
+      },
+      {
+        "name": "Jihoon Kwak",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": "Applied Mathematics (Image Processing and Deep Learning)"
+      },
+      {
+        "name": "Jinbong Lee",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": "Harmonic Analysis"
+      },
+      {
+        "name": "Jinjoo Yoo",
+        "title": "Postdoctoral Fellow · QSMS",
+        "research": ""
+      },
+      {
+        "name": "Jinsil Lee",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": "Applied Mathematics"
+      },
+      {
+        "name": "Jongheun Yoon",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": "Number Theory"
+      },
+      {
+        "name": "Kang-Ju Lee",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": "Topological Combinatorics"
+      },
+      {
+        "name": "Lami Kim",
+        "title": "Postdoctoral Fellow · IBS",
+        "research": ""
+      },
+      {
+        "name": "Minkyu Lim",
+        "title": "Postdoctoral Fellow · IBS",
+        "research": ""
+      },
+      {
+        "name": "Myeongsu Lee",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": "Analysis"
+      },
+      {
+        "name": "Kevin Andreas Ruck",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": "Symplectic geometry"
+      },
+      {
+        "name": "Seul Bee Lee",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": ""
+      },
+      {
+        "name": "Siwon Kim",
+        "title": "Postdoctoral Fellow · IBS",
+        "research": ""
+      },
+      {
+        "name": "So-Yeon Lee",
+        "title": "Postdoctoral Fellow · BK21",
+        "research": "Representation Theory and Algebraic Combinatorics"
+      },
+      {
+        "name": "Sung-Tae Jin",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": "Combinatorial Matrix Theory"
+      },
+      {
+        "name": "Sylvain Carpentier",
+        "title": "Postdoctoral Fellow · BK21",
+        "research": "Mathematical Physics"
+      },
+      {
+        "name": "Zhendong Xu",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": "Functional analysis"
+      },
+      {
+        "name": "Yumi Cho",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": "Partial Differential Equations"
+      },
+      {
+        "name": "Yun Sung Ji",
+        "title": "Postdoctoral Fellow · Research Institute of Mathematics",
+        "research": "Algebra (Number Theory)"
+      },
+      {
+        "name": "MATSUDA JUNICHIRO",
+        "title": "Postdoctoral Fellow · BK21",
+        "research": "Functional Analysis"
+      }
+    ]
+  },
+  "snu-postdoc-ko-31": {
+    "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=postdoc",
+    "checkedAt": "2026-11-24",
+    "scope": "韩文分栏有 44 张具名卡片，与英文表人数和版本不同。",
+    "entries": [
+      {
+        "name": "강은지",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "작용소대수"
+      },
+      {
+        "name": "계승혁",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "해석학"
+      },
+      {
+        "name": "곽지훈",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "응용수학(영상처리 딥러닝)"
+      },
+      {
+        "name": "권혁준",
+        "title": "Postdoctoral Fellow · BK21",
+        "research": "Arithmetic Geometry"
+      },
+      {
+        "name": "김동하",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "편미분방정식"
+      },
+      {
+        "name": "김라미",
+        "title": "Postdoctoral Fellow · 기초과학연구원",
+        "research": ""
+      },
+      {
+        "name": "김민석",
+        "title": "Postdoctoral Fellow · 기초과학연구원",
+        "research": ""
+      },
+      {
+        "name": "김수현",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": ""
+      },
+      {
+        "name": "김시원",
+        "title": "Postdoctoral Fellow · 기초과학연구원",
+        "research": ""
+      },
+      {
+        "name": "김원세",
+        "title": "Postdoctoral Fellow · 기타",
+        "research": ""
+      },
+      {
+        "name": "박종진",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "금융수학"
+      },
+      {
+        "name": "이상훈",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "Geometric Analysis"
+      },
+      {
+        "name": "이석형",
+        "title": "Postdoctoral Fellow · QSMS",
+        "research": ""
+      },
+      {
+        "name": "이소연",
+        "title": "Postdoctoral Fellow · BK21",
+        "research": "표현론 및 대수적 조합론"
+      },
+      {
+        "name": "이슬비",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": ""
+      },
+      {
+        "name": "이우영",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "함수해석학"
+      },
+      {
+        "name": "이원재",
+        "title": "Postdoctoral Fellow · 기타",
+        "research": ""
+      },
+      {
+        "name": "이재정",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "기하위상"
+      },
+      {
+        "name": "이종민",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "응용수학"
+      },
+      {
+        "name": "이주아",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "위상수학"
+      },
+      {
+        "name": "이진봉",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "조화해석학"
+      },
+      {
+        "name": "이진실",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "응용수학"
+      },
+      {
+        "name": "이헌",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "함수해석학"
+      },
+      {
+        "name": "이호빈",
+        "title": "Postdoctoral Fellow · BK21",
+        "research": "비선형편미분방정식"
+      },
+      {
+        "name": "임민규",
+        "title": "Postdoctoral Fellow · 기초과학연구원",
+        "research": ""
+      },
+      {
+        "name": "장원용",
+        "title": "Postdoctoral Fellow · BK21",
+        "research": "위상수학-기하군론"
+      },
+      {
+        "name": "정찬규",
+        "title": "Postdoctoral Fellow · BK21",
+        "research": "사교위상수학"
+      },
+      {
+        "name": "조유미",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "편미분방정식"
+      },
+      {
+        "name": "지윤성",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "대수학(정수론)"
+      },
+      {
+        "name": "진성태",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "조합행렬론"
+      },
+      {
+        "name": "채원준",
+        "title": "Postdoctoral Fellow · 기초과학연구원",
+        "research": ""
+      },
+      {
+        "name": "최명제",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "계산과학"
+      },
+      {
+        "name": "최승일",
+        "title": "Postdoctoral Fellow · QSMS",
+        "research": ""
+      },
+      {
+        "name": "하영수",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": ""
+      },
+      {
+        "name": "한상근",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "정수론"
+      },
+      {
+        "name": "함세헌",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "조화해석학"
+      },
+      {
+        "name": "허태혁",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "표현론"
+      },
+      {
+        "name": "BAZIOTIS GEORGIOS",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "Functional analysis"
+      },
+      {
+        "name": "Changyu Zhou",
+        "title": "Postdoctoral Fellow · 기초과학연구원",
+        "research": ""
+      },
+      {
+        "name": "CHOI KEVIN",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "computer science(cryptography)"
+      },
+      {
+        "name": "Fanqin Zeng",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": ""
+      },
+      {
+        "name": "GIE GUNGMIN",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": ""
+      },
+      {
+        "name": "IMORI HAYATO",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": ""
+      },
+      {
+        "name": "Kevin Andreas Ruck",
+        "title": "Postdoctoral Fellow · 수학연구소",
+        "research": "Symplectic geometry"
+      }
+    ]
   }
 }

@@ -2251,8 +2251,24 @@
     {
       "id": "snu",
       "coverage": "sample",
-      "coverageNote": "已解析 1/7 个登记来源，0 条任职或方向待核。 已收录 3 位学者，个人主页 2、CV 1、指标 1。 韩文现任教授页可通过公开索引分段读取。已逐条核对部分复几何和代数几何教师，荣休、研究员及联合单位范围仍待核。",
+      "coverageNote": "已解析 5/15 个登记来源，0 条任职或方向待核。 已收录 10 位学者，个人主页 9、CV 2、指标 1。 韩文数理科学部全段核录教师及协议联聘 37 条、荣休 22 条、其他任职 23 条。博士后韩英分栏分别 44 条和 32 条，按已核别名合并。补查 QSMS、BK21、RIM 与 DASOM。两语博士后名单更新不同，交叉单位任职仍按公开证据逐项核实。",
       "rosterLinks": [
+        [
+          "수리과학부 · 联聘、特聘、访问、合同与授课",
+          "https://www.math.snu.ac.kr/bbs/page.php?hid=adjunct"
+        ],
+        [
+          "BK21 Center for Creative Future Talent in Mathematics",
+          "https://taoffice.math.snu.ac.kr/board/index.php?mid=bk21_main"
+        ],
+        [
+          "Dynamics and Arithmetic Structures on Manifolds · Research Group",
+          "https://www.math.snu.ac.kr/~lim/DASOM.html"
+        ],
+        [
+          "수리과학부 · 荣休与退休",
+          "https://www.math.snu.ac.kr/bbs/page.php?hid=emeritus"
+        ],
         [
           "교수",
           "https://my.math.snu.ac.kr/board/index.php?mid=portal_professor"
@@ -2262,8 +2278,24 @@
           "https://web.math.snu.ac.kr/board/index.php?mid=Main_Faculty"
         ],
         [
+          "Department of Mathematical Sciences · Postdocs",
+          "https://www.math.snu.ac.kr/eng/bbs/page.php?hid=postdoc"
+        ],
+        [
+          "수리과학부 · 박사후 연구원",
+          "https://www.math.snu.ac.kr/bbs/page.php?hid=postdoc"
+        ],
+        [
           "数理科学部教授名录",
           "https://www.math.snu.ac.kr/eng/bbs/page.php?hid=professor"
+        ],
+        [
+          "Center for Quantum Structures in Modules and Spaces · Vision and Members",
+          "https://qsms.math.snu.ac.kr/AboutUs"
+        ],
+        [
+          "Research Institute of Mathematics",
+          "https://rim.math.snu.ac.kr/"
         ],
         [
           "수리과학부 · 명예교수",
@@ -2278,7 +2310,7 @@
           "https://science.snu.ac.kr/about/organization/faculty"
         ],
         [
-          "Natural Sciences 학부 Mathematical Sciences",
+          "수리과학부 · 教授与联聘",
           "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
         ]
       ],
@@ -2527,8 +2559,16 @@
     {
       "id": "qmul",
       "coverage": "sample",
-      "coverageNote": "已解析 3/4 个登记来源，43 条任职或方向待核。 已收录 10 位学者，个人主页 7、CV 5、指标 2。 已核对数学科学学院 72 张学术卡片，以及几何／分析／引力中心 17 人和组合／代数／数论中心 18 人。已补查 107 个公开院系与中心个人页入口。旧名册的职称文字不作研究证据。无明示专长与交叉任职的条目继续保留核对记录。",
+      "coverageNote": "已解析 7/15 个登记来源，0 条任职或方向待核。 已收录 13 位学者，个人主页 12、CV 6、指标 7。 对照 72 张数学学院学术卡、几何／分析／引力中心与组合／代数／数论中心，核对两中心科研人员及概率／统计和复杂系统学术名册。逐条补读原来缺方向的个人资料。已识别并记录需另核的荣休、联属及交叉单位。",
       "rosterLinks": [
+        [
+          "Affiliates: Centre for Combinatorics, Algebra and Number Theory",
+          "https://www.seresearch.qmul.ac.uk/ccant/affiliates/"
+        ],
+        [
+          "Affiliates: Centre for Geometry, Analysis and Gravitation",
+          "https://www.seresearch.qmul.ac.uk/cgag/affiliates/"
+        ],
         [
           "Centre for Combinatorics, Algebra and Number Theory · Academics",
           "https://www.seresearch.qmul.ac.uk/ccant/people/academics/"
@@ -2538,12 +2578,48 @@
           "https://www.seresearch.qmul.ac.uk/ccant/research/algebra/"
         ],
         [
+          "Centre for Combinatorics, Algebra and Number Theory · Research Staff",
+          "https://www.seresearch.qmul.ac.uk/ccant/people/ras/"
+        ],
+        [
+          "Centre for Complex Systems · Academics",
+          "https://www.seresearch.qmul.ac.uk/ccs/people/academics/"
+        ],
+        [
           "Centre for Geometry, Analysis and Gravitation · Academics",
           "https://www.seresearch.qmul.ac.uk/cgag/people/academics/"
         ],
         [
+          "Centre for Geometry, Analysis and Gravitation · Research Staff",
+          "https://www.seresearch.qmul.ac.uk/cgag/people/ras/"
+        ],
+        [
+          "Centre for Probability, Statistics and Data Science · Academics",
+          "https://www.seresearch.qmul.ac.uk/cpsd/people/academics/"
+        ],
+        [
+          "Centre for Mathematical Education staff - School of Mathematical Sciences",
+          "https://www.qmul.ac.uk/maths/research/research-centres/mathematical-education/staff/"
+        ],
+        [
+          "Maths - Queen Mary University of London",
+          "https://www.qmul.ac.uk/find-an-expert/table/maths/"
+        ],
+        [
+          "People - School of Mathematical Sciences",
+          "https://www.qmul.ac.uk/maths/people/"
+        ],
+        [
+          "Research centres - School of Mathematical Sciences",
+          "https://www.qmul.ac.uk/maths/research/research-centres/"
+        ],
+        [
           "数学科学学院学术人员",
           "https://www.qmul.ac.uk/maths/people/academic-staff/"
+        ],
+        [
+          "Our Members - School of Physical and Chemical Sciences",
+          "https://www.qmul.ac.uk/spcs/collaborative-research-centres/gwi/our-members/"
         ]
       ],
       "checkedAt": "2026-11-24"
@@ -29685,10 +29761,37 @@
       "publicationsUrl": "https://www.qmul.ac.uk/maths/profiles/finka.html#fourth",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5088348731",
+          "orcid": "https://orcid.org/0000-0003-1562-4695",
+          "url": "https://openalex.org/authors/A5088348731",
+          "authorApiUrl": "https://api.openalex.org/authors/A5088348731",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5088348731,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 42,
+          "works": 75,
+          "citations": 939,
+          "hIndex": 17,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Stiefel tropical linear spaces",
+          "year": 2015,
+          "url": "https://doi.org/10.1016/j.jcta.2015.06.001"
+        },
+        {
+          "title": "Valuations for Matroid Polytope Subdivisions",
+          "year": 2010,
+          "url": "https://doi.org/10.4153/cjm-2010-064-9"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "matroids, tropical geometry, algebraic combinatorics, algebraic geometry",
@@ -29697,6 +29800,10 @@
         {
           "text": "Tropical algebraic geometry and matroid theory",
           "url": "https://www.seresearch.qmul.ac.uk/ccant/people/afink/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://webspace.maths.qmul.ac.uk/a.fink/"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -29729,14 +29836,27 @@
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "https://www.qmul.ac.uk/maths/profiles/membrillosolisi.html#fourth",
+      "publicationsUrl": "https://www.seresearch.qmul.ac.uk/cpsd/people/iamembrillosolis/#publications",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "两篇几何代表作和作者全名已由研究中心及出版方证实。OpenAlex 的变体署名未通过唯一作者匹配，累计数待核。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Basic metric geometry of the bottleneck distance",
+          "url": "https://doi.org/10.1090/proc/16776"
+        },
+        {
+          "title": "Do the Hodge Spectra Distinguish Orbifolds from Manifolds? Part 1",
+          "url": "https://doi.org/10.1307/mmj/20216126"
+        }
+      ],
       "directoryEvidence": [
+        {
+          "text": "Algebraic Topology, Applied Topology, Metric Geometry, Differential Geometry, Data Science",
+          "url": "https://www.seresearch.qmul.ac.uk/cpsd/people/academics/"
+        },
         {
           "text": "Differential geometry, metric geometry, spectral geometry of singular spaces and topology",
           "url": "https://www.qmul.ac.uk/maths/profiles/membrillosolisi.html"
@@ -29851,7 +29971,7 @@
       "cvUrl": "https://webspace.maths.qmul.ac.uk/b.noohi/cv.pdf",
       "cvType": null,
       "cvStatus": null,
-      "publicationsUrl": "https://www.qmul.ac.uk/maths/profiles/noohib.html#fourth",
+      "publicationsUrl": "https://webspace.maths.qmul.ac.uk/b.noohi/research.html",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
@@ -29880,7 +30000,7 @@
           "schoolId": "qmul",
           "department": "数学系",
           "title": "Reader in Algebra",
-          "url": "https://www.qmul.ac.uk/maths/profiles/rinconf.html",
+          "url": "https://www.seresearch.qmul.ac.uk/ccant/people/epabon/",
           "type": "primary",
           "checkedAt": "2026-11-24"
         }
@@ -29888,23 +30008,110 @@
       "fields": [
         "algebraic"
       ],
-      "tags": [],
-      "homepage": null,
+      "tags": [
+        "Algebraic geometry, tropical geometry and matroid theory"
+      ],
+      "homepage": "https://sites.google.com/site/feliper84/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "publicationsUrl": "https://www.seresearch.qmul.ac.uk/ccant/people/epabon/#publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5010115715",
+          "orcid": "https://orcid.org/0000-0002-6851-2120",
+          "url": "https://openalex.org/authors/A5010115715",
+          "authorApiUrl": "https://api.openalex.org/authors/A5010115715",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5010115715,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 24,
+          "works": 30,
+          "citations": 615,
+          "hIndex": 13,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Positively oriented matroids are realizable",
+          "url": "https://doi.org/10.4171/JEMS/680"
+        },
+        {
+          "title": "Stiefel tropical linear spaces",
+          "year": 2015,
+          "url": "https://doi.org/10.1016/j.jcta.2015.06.001"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Combinatorics, Matroid theory, Tropical geometry, Algebraic geometry",
+          "url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/"
+        },
+        {
+          "text": "Algebraic geometry, tropical geometry and matroid theory",
+          "url": "https://sites.google.com/site/feliper84/"
+        },
+        {
+          "text": "Combinatorics, Matroid theory, Tropical geometry, Algebraic geometry",
+          "url": "https://www.seresearch.qmul.ac.uk/ccant/people/epabon/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.seresearch.qmul.ac.uk/ccant/people/epabon/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "huy-nguyen",
+      "name": "Huy Nguyen",
+      "aliases": [
+        "Huy The Nguyen",
+        "Nguyễn Thế Huy"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "qmul",
+          "department": "数学系",
+          "title": "Reader in Mathematics",
+          "url": "https://www.qmul.ac.uk/maths/profiles/nguyenhthe.html",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/site/mathnguyenthehuy/home",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://researchpublications.its.qmul.ac.uk/publications/staff/39985.html",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Noncompact self-shrinkers for mean curvature flow with arbitrary genus",
+          "url": "https://doi.org/10.1515/crelle-2024-0073"
+        }
+      ],
       "directoryEvidence": [
         {
-          "text": "Combinatorics, Matroid theory, Tropical geometry, Algebraic geometry",
-          "url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/"
+          "text": "Differential geometry, geometric analysis, Ricci flow, mean curvature flow and Willmore surfaces",
+          "url": "https://www.qmul.ac.uk/maths/profiles/nguyenhthe.html"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -29930,18 +30137,44 @@
         "algebraic"
       ],
       "tags": [],
-      "homepage": null,
+      "homepage": "https://webspace.maths.qmul.ac.uk/i.tomasic/",
       "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "https://www.qmul.ac.uk/maths/profiles/tomasici.html#fourth",
+      "cvUrl": "https://webspace.maths.qmul.ac.uk/i.tomasic/cvt.html",
+      "cvType": "公开 CV（网页）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.seresearch.qmul.ac.uk/ccant/people/itomasic/#publications",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5103141255",
+          "orcid": "https://orcid.org/0009-0000-8778-5610",
+          "url": "https://openalex.org/authors/A5103141255",
+          "authorApiUrl": "https://api.openalex.org/authors/A5103141255",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5103141255,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 19,
+          "works": 26,
+          "citations": 161,
+          "hIndex": 8,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Difference Galois theory and dynamics",
+          "url": "https://doi.org/10.1016/j.aim.2022.108328"
+        },
+        {
+          "title": "Graphons arising from graphs definable over finite fields",
+          "year": 2022,
+          "url": "https://doi.org/10.4064/cm8395-1-2022"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Model theory, Categorical logic, Topos theory, Algebraic geometry, Difference algebra, Differential algebra",
@@ -29950,6 +30183,107 @@
         {
           "text": "Algebraic geometry of difference schemes and interactions with model theory and categorical logic",
           "url": "https://www.seresearch.qmul.ac.uk/ccant/people/itomasic/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://webspace.maths.qmul.ac.uk/i.tomasic/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "juan-valiente-kroon",
+      "name": "Juan Valiente-Kroon",
+      "aliases": [
+        "Juan A. Valiente Kroon",
+        "Juan Antonio Valiente Kroon"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "qmul",
+          "department": "数学系",
+          "title": "Professor in Applied Mathematics, Director of Research",
+          "url": "https://www.qmul.ac.uk/maths/profiles/valiente-kroona.html",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Mathematical General Relativity, Computer Algebra"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://researchpublications.its.qmul.ac.uk/publications/staff/19480.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Killing spinors as a characterisation of rotating black hole spacetimes",
+          "url": "https://doi.org/10.1088/0264-9381/33/12/125019"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Mathematical General Relativity, Computer Algebra",
+          "url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/"
+        },
+        {
+          "text": "Conformal and Lorentzian differential geometry, spinors, Einstein field equations and microlocal methods",
+          "url": "https://www.qmul.ac.uk/maths/postgraduate/postgraduate-research/phd-projects/current-phd-projects/gang---prof-juan-valiente-kroon/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "michael-ruzhansky",
+      "name": "Michael Ruzhansky",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "qmul",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.qmul.ac.uk/maths/profiles/ruzhanskymichael.html",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://analysis-pde.org/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://biblio.ugent.be/person/802002901346",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Lieb–Thirring inequalities on the spheres and SO(3)",
+          "url": "https://doi.org/10.1007/s13324-024-00991-2"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Geometric analysis, subelliptic analysis, harmonic analysis, PDE and function spaces on manifolds and Lie groups",
+          "url": "https://analysis-pde.org/"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -30049,9 +30383,9 @@
       "publicationsUrl": "https://www.seresearch.qmul.ac.uk/cgag/people/swang#publications",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
+      "identityNote": "两篇代表作与任职均可核，但 OpenAlex 同一 ID 混入遗传育种、材料和化学论文，累计著作和引用数不可归给这位学者。",
       "metrics": [],
-      "identityUrl": "https://openalex.org/A5103042856",
+      "identityUrl": "https://openalex.org/authors/A5103042856",
       "papers": [
         {
           "title": "Precise asymptotics near a generic S¹ × R³ singularity of mean curvature flow",
@@ -30089,18 +30423,44 @@
         "algebraic"
       ],
       "tags": [],
-      "homepage": null,
+      "homepage": "https://www.cantabgold.net/users/s.sasaki.03/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "publicationsUrl": "https://researchpublications.its.qmul.ac.uk/publications/staff/46292.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5067994415",
+          "orcid": null,
+          "url": "https://openalex.org/authors/A5067994415",
+          "authorApiUrl": "https://api.openalex.org/authors/A5067994415",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5067994415,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 7,
+          "works": 11,
+          "citations": 132,
+          "hIndex": 7,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "A Serre weight conjecture for geometric Hilbert modular forms in characteristic p",
+          "url": "https://doi.org/10.4171/jems/1265"
+        },
+        {
+          "title": "Integral models of Hilbert modular varieties in the ramified case, deformations of modular Galois representations, and weight one forms",
+          "year": 2018,
+          "url": "https://doi.org/10.1007/s00222-018-0825-x"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Arithmetic geometry of Hilbert modular varieties, modular forms and Langlands",
@@ -30109,6 +30469,10 @@
         {
           "text": "Algebraic number theory (the Langlands programme) and arithmetic geometry",
           "url": "https://www.qmul.ac.uk/maths/profiles/sasakis.html"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.seresearch.qmul.ac.uk/ccant/people/ssasaki/"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -30140,14 +30504,35 @@
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "本人主页列有 Google Drive 的 Curriculum Vitae 链接，公开读取失败。 https://drive.google.com/file/d/10eiL7ZY7vrbTFchirxaRF7_TnSATysMe/view?usp=sharing",
       "publicationsUrl": "https://sites.google.com/view/tylerkelly/home",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5081894902",
+          "orcid": "https://orcid.org/0000-0001-9353-0171",
+          "url": "https://openalex.org/authors/A5081894902",
+          "authorApiUrl": "https://api.openalex.org/authors/A5081894902",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5081894902,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 17,
+          "works": 25,
+          "citations": 175,
+          "hIndex": 7,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Hypergeometric Motives from Euler Integral Representations",
+          "url": "https://doi.org/10.1112/jlms.70424"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "algebraic geometry, mirror symmetry",
@@ -30156,6 +30541,10 @@
         {
           "text": "Algebraic geometry, mirror symmetry, toric varieties and Calabi–Yau geometry",
           "url": "https://www.seresearch.qmul.ac.uk/ccant/people/tkelly/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://profiles.flfdevnet.com/profile/t-kelly-1bham-ac-uk/"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -31953,7 +32342,9 @@
         "algebraic",
         "complex"
       ],
-      "tags": [],
+      "tags": [
+        "Complex Geometry Algebraic Geometry Several Complex Variables"
+      ],
       "homepage": "https://sites.google.com/view/kimdano",
       "homepageStatus": null,
       "cvUrl": "https://drive.google.com/file/d/1dZRMhEW3Ur4Sts5QI0s0D2DKTmXourWl/view?usp=drive_link",
@@ -31995,7 +32386,7 @@
       ],
       "directoryEvidence": [
         {
-          "text": "Complex geometry, algebraic geometry and several complex variables",
+          "text": "Complex Geometry Algebraic Geometry Several Complex Variables",
           "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
         },
         {
@@ -32033,11 +32424,11 @@
       "tags": [
         "Algebraic geometry"
       ],
-      "homepage": "http://www.math.snu.ac.kr/~hyeon/",
+      "homepage": "https://www.math.snu.ac.kr/~hyeon/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "本人主页列有 Download CV。读取 https://www.math.snu.ac.kr/~hyeon/cv-hyeon.pdf 超时，文件待核。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
@@ -32053,6 +32444,100 @@
         {
           "text": "Algebraic geometry",
           "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "dohyeong-kim",
+      "name": "Dohyeong Kim",
+      "aliases": [
+        "김도형"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "snu",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Number theory"
+      ],
+      "homepage": "https://www.math.snu.ac.kr/~dohyeongkim/",
+      "homepageStatus": null,
+      "cvUrl": "https://dohyeong.netlify.app/files/DKim_CV.pdf",
+      "cvType": "公开学术 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.snu.ac.kr/~dohyeongkim/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Number theory",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
+        },
+        {
+          "text": "Arithmetic geometry, arithmetic quantum field theory and p-adic number theory",
+          "url": "https://www.math.snu.ac.kr/~dohyeongkim/background.html"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "gye-seon-lee",
+      "name": "Gye-Seon Lee",
+      "aliases": [
+        "이계선"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "snu",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometry and Topology"
+      ],
+      "homepage": "https://www.math.snu.ac.kr/~gyeseonlee/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.math.snu.ac.kr/~gyeseonlee/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometry and Topology",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
+        },
+        {
+          "text": "Hyperbolic geometry, convex real projective structures, moduli and representation varieties",
+          "url": "https://www.math.snu.ac.kr/~gyeseonlee/"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -32077,8 +32562,10 @@
       "fields": [
         "algebraic"
       ],
-      "tags": [],
-      "homepage": null,
+      "tags": [
+        "Algebraic Geometry"
+      ],
+      "homepage": "https://sites.google.com/view/jeongseokoh/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
@@ -32092,11 +32579,245 @@
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Algebraic geometry, Gromov–Witten theory and Donaldson–Thomas theory",
+          "text": "Algebraic Geometry",
           "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
         },
         {
           "text": "Algebraic geometry, Gromov–Witten theory and Donaldson–Thomas theory",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jongil-park",
+      "name": "Jongil Park",
+      "aliases": [
+        "박종일"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "snu",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [
+        "Topology Topology of 4-Manifolds"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://snu.elsevierpure.com/en/persons/jongil-park/publications/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Topology Topology of 4-Manifolds",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
+        },
+        {
+          "text": "Complex geometry of surface singularities, algebraic surfaces, symplectic topology and four-manifolds",
+          "url": "https://www.math.cuhk.edu.hk/sites/default/files/seminar/files/20230213/pure_230217_jongil_park.pdf"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jungsoo-kang",
+      "name": "Jungsoo Kang",
+      "aliases": [
+        "강정수"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "snu",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Symplectic Geometry"
+      ],
+      "homepage": "https://sites.google.com/site/jungsookangshome/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Symplectic Geometry",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
+        },
+        {
+          "text": "Differential geometry, geometric analysis, symplectic geometry, Hamiltonian dynamics and Floer theory",
+          "url": "https://sites.google.com/site/jungsookangshome/home"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "junho-peter-whang",
+      "name": "Junho Peter Whang",
+      "aliases": [
+        "황준호"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "snu",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Number Theory Geometry"
+      ],
+      "homepage": "https://jhpwhang.github.io/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://jhpwhang.github.io/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Number Theory Geometry",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
+        },
+        {
+          "text": "Arithmetic geometry, Diophantine analysis, dynamics and topology",
+          "url": "https://jhpwhang.github.io/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "otto-van-koert",
+      "name": "Otto van Koert",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "snu",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Contact Topology"
+      ],
+      "homepage": "https://www.math.snu.ac.kr/~okoert/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.math.snu.ac.kr/~okoert/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Contact Topology",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
+        },
+        {
+          "text": "Differential geometry of contact and symplectic manifolds, Reeb dynamics, open books and symplectic homology",
+          "url": "https://www.math.snu.ac.kr/~okoert/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "philsang-yoo",
+      "name": "Philsang Yoo",
+      "aliases": [
+        "유필상"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "snu",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Physical Mathematics"
+      ],
+      "homepage": "https://sites.google.com/site/philsangyoo/home",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://snu.elsevierpure.com/en/persons/philsang-yoo/publications/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Physical Mathematics",
+          "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
+        },
+        {
+          "text": "Derived algebraic geometry, geometric Langlands and mathematical quantum field theory",
           "url": "https://www.math.snu.ac.kr/bbs/page.php?hid=professor"
         }
       ],
