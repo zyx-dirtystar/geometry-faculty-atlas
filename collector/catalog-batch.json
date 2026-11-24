@@ -327,7 +327,7 @@
     {
       "id": "imperial",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，25 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 1。",
+      "coverageNote": "已解析 1/3 个登记来源，23 条任职或方向待核。 已收录 3 位学者，个人主页 2、CV 0、指标 1。",
       "rosterLinks": [
         [
           "Members",
@@ -1731,7 +1731,7 @@
     {
       "id": "johns-hopkins",
       "coverage": "sample",
-      "coverageNote": "已解析 4/13 个登记来源，0 条任职或方向待核。 已逐条核对 数学系 · Faculty、Associated Faculty、Postdoctoral Fellows 和 Emeriti。 已收录 8 位学者，个人主页 5、CV 3、指标 2。 读完数学系 50 张和应用数学与统计系常规 50、次聘与研究兼职 31、博士后 15 张卡片。交叉查看 MINDS 常任和 Research Faculty、AMS 研究分组与 DSAI 新任名单。补记不变量理论、黎曼优化、形状统计和计算几何的交叉人员。",
+      "coverageNote": "已解析 8/16 个登记来源，0 条任职或方向待核。 已逐条核对 数学系 · Faculty、Associated Faculty、Postdoctoral Fellows 和 Emeriti。 已收录 8 位学者，个人主页 5、CV 3、指标 2。 读完数学系 50 张和应用数学与统计系常规 50、次聘与研究兼职 31、博士后 15 张卡片。交叉查看 MINDS 常任和 Research Faculty、AMS 研究分组与 DSAI 新任名单。补记不变量理论、黎曼优化、形状统计和计算几何的交叉人员。 MINDS 另核录常规 40、科研 5、Fellows 4、博士后 2 位，分辨旧校名和现任。DSAI 巡查了 22 位新聘公告及其分页目录，截至本批完整分页人员仍需复核。",
       "rosterLinks": [
         [
           "Applied Mathematics and Statistics · Secondary Appointments and Research and Adjunct Faculty",
@@ -1762,12 +1762,24 @@
           "https://engineering.jhu.edu/ams/people/postdoctoral-fellows/"
         ],
         [
+          "Data Science and AI Institute · Faculty full directory",
+          "https://ai.jhu.edu/people/faculty/"
+        ],
+        [
           "Data Science and AI Institute · 22 New Faculty",
           "https://ai.jhu.edu/news/data-science-and-ai-institute-announces-22-new-faculty/"
         ],
         [
           "Mathematical Institute for Data Science · Faculty",
           "https://www.minds.jhu.edu/faculty/"
+        ],
+        [
+          "Mathematical Institute for Data Science · MINDS Fellows",
+          "https://www.minds.jhu.edu/MINDS-fellows/"
+        ],
+        [
+          "Mathematical Institute for Data Science · Postdocs",
+          "https://www.minds.jhu.edu/postdocs/"
         ],
         [
           "Mathematical Institute for Data Science · Research Faculty",
@@ -2547,10 +2559,10 @@
     {
       "id": "monash",
       "coverage": "sample",
-      "coverageNote": "已解析 7/15 个登记来源，1 条任职或方向待核。 已收录 8 位学者，个人主页 3、CV 2、指标 0。 核读数学学院按职级公开的 6 个分栏，共 75 张卡片。对照拓扑组、纯数学、科研门户，为新辨认出的复几何、Stein 与接触及双曲几何学者补证。附属和兼职入口访问受限，马来西亚校区范围和部分专长仍待核。",
+      "coverageNote": "已解析 8/17 个登记来源，1 条任职或方向待核。 已收录 8 位学者，个人主页 3、CV 2、指标 0。 已核录 Clayton 数学学院按职级分栏的 75 张卡片、兼职及联属的 13 位，并对照纯数学、拓扑、相对论组和科研门户。已打开马来西亚科学与信息技术学院官方目录和课程信息，校区跨单位人员仍需逐项复核。",
       "rosterLinks": [
         [
-          "School of Mathematics · Adjuncts & Affiliates",
+          "School of Mathematics · Adjuncts, Affiliates and Emeritus",
           "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/affiliates-and-adjuncts"
         ],
         [
@@ -2560,6 +2572,10 @@
         [
           "Research Supervisors - School of Mathematics - Science",
           "https://www.monash.edu/science/research/graduate-research/find-a-supervisor/mathematical"
+        ],
+        [
+          "Malaysia · School of Information Technology · Academic staff",
+          "https://www.monash.edu.my/it/staff/academic"
         ],
         [
           "Malaysia · School of Science · Academic staff",
@@ -2602,6 +2618,10 @@
           "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-senior-lecturer"
         ],
         [
+          "Centre for Astrophysics · General Relativity Research",
+          "https://www.monash.edu/moca?external-uuid=eceddbfd-bdc8-4606-b77d-665c48dd4934"
+        ],
+        [
           "School of Mathematics · Research areas",
           "https://www.monash.edu/science/schools/school-of-mathematics/research"
         ],
@@ -2638,8 +2658,8 @@
     },
     {
       "id": "qmul",
-      "coverage": "sample",
-      "coverageNote": "已解析 10/23 个登记来源，9 条任职或方向待核。 已收录 13 位学者，个人主页 12、CV 8、指标 9。 核读数学学院学术 72、荣休 28、科研 12 张卡片。对照几何／分析／引力、组合／代数／数论、概率／统计、复杂系统和数学教育中心。引力波跨院网络核录 24 条非学生任职，另查跨院理论物理和计算机中心。校方旧博士后卡、中心报道和 2026 秋季活动以现任来源交叉核对。",
+      "coverage": "verified",
+      "coverageNote": "已解析 10/26 个登记来源，0 条任职或方向待核。 已收录 14 位学者，个人主页 13、CV 9、指标 9。 核读数学学院学术 72、荣休 28、科研 12 张卡片。对照几何／分析／引力、组合／代数／数论、概率／统计、复杂系统和数学教育中心。引力波跨院网络核录 24 条非学生任职，另查跨院理论物理和计算机中心。校方旧博士后卡、中心报道和 2026 秋季活动以现任来源交叉核对。 另以数学学院 People 总页的 128 个非学生链接与分栏 112 处比较，核对新增行政、学生、旧档和重复。并查海外联合课程学科和巴黎教学名录，按本校实际学术任职归属。",
       "rosterLinks": [
         [
           "Affiliates: Centre for Combinatorics, Algebra and Number Theory",
@@ -2726,12 +2746,24 @@
           "https://www.seresearch.qmul.ac.uk/news/5102/welcome-to-our-new-postdocs/"
         ],
         [
+          "巴黎教师范围与在地学科",
+          "https://www.qmul.ac.uk/paris/about-us/faculty-and-staff/index.html"
+        ],
+        [
+          "官方校区及海外教育伙伴",
+          "https://www.qmul.ac.uk/global/partnerships/regional-engagement/"
+        ],
+        [
           "数学科学学院学术人员",
           "https://www.qmul.ac.uk/maths/people/academic-staff/"
         ],
         [
           "Gravitational Wave Initiative · Our Members",
           "https://www.qmul.ac.uk/spcs/collaborative-research-centres/gwi/our-members/"
+        ],
+        [
+          "北京对外经贸大学联合项目 · 校方课程与学科说明",
+          "https://www.qmul.ac.uk/news/latest-news/2026/science-and-engineering/se/new-partnership-with-uibe-launches-two-ai-focused-programmes-in-beijing.html"
         ]
       ],
       "checkedAt": "2026-11-25"
@@ -2899,7 +2931,7 @@
     {
       "id": "bristol",
       "coverage": "sample",
-      "coverageNote": "已解析 1/5 个登记来源，12 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 1。 学术名册站点显示维护页。已从数学学院 Analysis and Geometry 与 Number Theory 研究页提取部分人员，并对照任职与成果门户。现任全名单及联合单位待核。",
+      "coverageNote": "已解析 1/5 个登记来源，11 条任职或方向待核。 已收录 2 位学者，个人主页 0、CV 0、指标 1。 学术名册站点显示维护页。已从数学学院 Analysis and Geometry 与 Number Theory 研究页提取部分人员，并对照任职与成果门户。现任全名单及联合单位待核。",
       "rosterLinks": [
         [
           "Academic Staff",
@@ -7471,6 +7503,47 @@
         }
       ],
       "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "tim-dokchitser",
+      "name": "Tim Dokchitser",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "bristol",
+          "department": "数学系",
+          "title": "Heilbronn Chair in Algebraic/Arithmetic Geometry",
+          "url": "https://www.bristol.ac.uk/people/person/Tim-Dokchitser-5d9d7ca2-3872-4c3f-aa26-faaecf50370f/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmetic geometry of elliptic and hyperelliptic curves"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.bristol.ac.uk/people/person/Tim-Dokchitser-5d9d7ca2-3872-4c3f-aa26-faaecf50370f/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic geometry of elliptic and hyperelliptic curves",
+          "url": "https://www.bristol.ac.uk/people/person/Tim-Dokchitser-5d9d7ca2-3872-4c3f-aa26-faaecf50370f/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -16530,6 +16603,57 @@
       "recordStatus": "directory"
     },
     {
+      "id": "alessio-corti",
+      "name": "Alessio Corti",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "imperial",
+          "department": "数学系",
+          "title": "Professor of Pure Mathematics",
+          "url": "https://profiles.imperial.ac.uk/a.corti",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.ma.imperial.ac.uk/~acorti/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://profiles.imperial.ac.uk/a.corti/publications",
+      "publicationCounts": [
+        {
+          "value": 60,
+          "url": "https://profiles.imperial.ac.uk/a.corti/publications?id=887776&noscript=noscript&respub-action=citation.html",
+          "scope": "Imperial 公开科研目录总条数，含期刊文章、预印本、章节等",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Birational geometry of Calabi–Yau pairs and 3-dimensional Cremona transformations",
+          "url": "https://doi.org/10.1515/crelle-2025-0095"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, birational geometry, minimal models, Fano varieties and mirror symmetry",
+          "url": "https://www.imperial.ac.uk/geometry/members/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "richard-thomas",
       "name": "Richard Thomas",
       "aliases": [],
@@ -16586,6 +16710,49 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "simon-k-donaldson",
+      "name": "Simon K Donaldson",
+      "aliases": [
+        "Simon Donaldson"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "imperial",
+          "department": "数学系",
+          "title": "Professor of Pure Mathematics",
+          "url": "https://profiles.imperial.ac.uk/s.donaldson",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ma.imperial.ac.uk/~skdona/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://profiles.imperial.ac.uk/s.donaldson/publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, complex geometry, symplectic geometry, Kähler metrics and algebraic geometry",
+          "url": "https://www.imperial.ac.uk/geometry/members/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -30337,6 +30504,62 @@
         }
       ],
       "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "federico-ardila",
+      "name": "Federico Ardila",
+      "aliases": [
+        "Federico Ardila-Mantilla"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "qmul",
+          "department": "数学系",
+          "title": "Chair in Combinatorics and Royal Society Wolfson Fellow",
+          "url": "https://www.qmul.ac.uk/maths/profiles/federico-ardila.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "combinatorics, geometry, polytopes, matroids"
+      ],
+      "homepage": "https://fardila.com/",
+      "homepageStatus": null,
+      "cvUrl": "https://fardila.com/cv.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://fardila.com/writing.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Lagrangian geometry of matroids",
+          "url": "https://arxiv.org/abs/2004.13116"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "combinatorics, geometry, polytopes, matroids",
+          "url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/"
+        },
+        {
+          "text": "Tropical algebraic geometry, combinatorial Hodge theory, matroid intersection theory and polyhedral geometry",
+          "url": "https://www.qmul.ac.uk/maths/profiles/federico-ardila.html"
+        },
+        {
+          "text": "In matroid theory, combinatorial Hodge theory, and intersection theory, Federico and his co-authors have contributed foundational constructions and results, and proved decades' old conjectures. In polyhedral geometry, they have constructed important families of polytopes, understood various ways of measuring them, and used them to derive algebraic, geometric, and physical consequences.",
+          "url": "https://www.qmul.ac.uk/maths/profiles/federico-ardila.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {

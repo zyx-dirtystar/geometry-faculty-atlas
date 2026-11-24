@@ -2302,13 +2302,23 @@
       "note": "15 条具名博士后记录。"
     },
     {
+      "id": "jhu-dsai-entire31",
+      "school": "johns-hopkins",
+      "url": "https://ai.jhu.edu/people/faculty/",
+      "label": "Data Science and AI Institute · Faculty full directory",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "jhu-dsai31",
       "school": "johns-hopkins",
       "url": "https://ai.jhu.edu/news/data-science-and-ai-institute-announces-22-new-faculty/",
       "label": "Data Science and AI Institute · 22 New Faculty",
       "status": "reference",
       "count": 0,
-      "checked_at": null,
+      "checked_at": "2026-11-25",
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
@@ -2316,20 +2326,40 @@
       "school": "johns-hopkins",
       "url": "https://www.minds.jhu.edu/faculty/",
       "label": "Mathematical Institute for Data Science · Faculty",
-      "status": "reference",
-      "count": 0,
-      "checked_at": "2026-11-24",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "status": "parsed",
+      "count": 40,
+      "checked_at": "2026-11-25",
+      "note": "核录 40 名，研究所名单与依托院系现任职级分别保留。"
+    },
+    {
+      "id": "jhu-minds-fellows31",
+      "school": "johns-hopkins",
+      "url": "https://www.minds.jhu.edu/MINDS-fellows/",
+      "label": "Mathematical Institute for Data Science · MINDS Fellows",
+      "status": "parsed",
+      "count": 4,
+      "checked_at": "2026-11-25",
+      "note": "核录 4 名，研究所名单与依托院系现任职级分别保留。"
+    },
+    {
+      "id": "jhu-minds-postdocs31",
+      "school": "johns-hopkins",
+      "url": "https://www.minds.jhu.edu/postdocs/",
+      "label": "Mathematical Institute for Data Science · Postdocs",
+      "status": "parsed",
+      "count": 2,
+      "checked_at": "2026-11-25",
+      "note": "核录 2 名，研究所名单与依托院系现任职级分别保留。"
     },
     {
       "id": "jhu-minds-research31",
       "school": "johns-hopkins",
       "url": "https://www.minds.jhu.edu/research-faculty/",
       "label": "Mathematical Institute for Data Science · Research Faculty",
-      "status": "reference",
-      "count": 0,
-      "checked_at": null,
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "status": "parsed",
+      "count": 5,
+      "checked_at": "2026-11-25",
+      "note": "核录 5 名，研究所名单与依托院系现任职级分别保留。"
     },
     {
       "id": "jhu-sylvester-30",
@@ -3565,11 +3595,11 @@
       "id": "monash-affiliates31",
       "school": "monash",
       "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/affiliates-and-adjuncts",
-      "label": "School of Mathematics · Adjuncts & Affiliates",
-      "status": "reference",
-      "count": 0,
-      "checked_at": null,
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "label": "School of Mathematics · Adjuncts, Affiliates and Emeritus",
+      "status": "parsed",
+      "count": 13,
+      "checked_at": "2026-11-25",
+      "note": "从官方公开页面逐项复核 13 位，按荣休、兼职、联属分栏保留。"
     },
     {
       "id": "monash-alternate-geometry",
@@ -3592,13 +3622,23 @@
       "note": "机构网站限制了目录请求。"
     },
     {
+      "id": "monash-malaysia-it31",
+      "school": "monash",
+      "url": "https://www.monash.edu.my/it/staff/academic",
+      "label": "Malaysia · School of Information Technology · Academic staff",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "monash-malaysia-science31",
       "school": "monash",
       "url": "https://www.monash.edu.my/science/staff/academic",
       "label": "Malaysia · School of Science · Academic staff",
       "status": "reference",
       "count": 0,
-      "checked_at": null,
+      "checked_at": "2026-11-25",
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
@@ -3690,6 +3730,16 @@
       "count": 13,
       "checked_at": "2026-11-25",
       "note": "该职级页核录 13 张具名卡片，按原目录分栏。详情未列研究方向的记录继续补证。"
+    },
+    {
+      "id": "monash-relativity31",
+      "school": "monash",
+      "url": "https://www.monash.edu/moca?external-uuid=eceddbfd-bdc8-4606-b77d-665c48dd4934",
+      "label": "Centre for Astrophysics · General Relativity Research",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "monash-research-index31",
@@ -5142,6 +5192,26 @@
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
+      "id": "qmul-paris31",
+      "school": "qmul",
+      "url": "https://www.qmul.ac.uk/paris/about-us/faculty-and-staff/index.html",
+      "label": "巴黎教师范围与在地学科",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "qmul-partnerships31",
+      "school": "qmul",
+      "url": "https://www.qmul.ac.uk/global/partnerships/regional-engagement/",
+      "label": "官方校区及海外教育伙伴",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "qmul-qs-roster",
       "school": "qmul",
       "url": "https://www.qmul.ac.uk/maths/people/academic-staff/",
@@ -5160,6 +5230,16 @@
       "count": 24,
       "checked_at": "2026-11-25",
       "note": "交叉核读 33 位成员。24 位为教师、科研、荣休及访问任职，另 9 位明确为学生。"
+    },
+    {
+      "id": "qmul-uibe31",
+      "school": "qmul",
+      "url": "https://www.qmul.ac.uk/news/latest-news/2026/science-and-engineering/se/new-partnership-with-uibe-launches-two-ai-focused-programmes-in-beijing.html",
+      "label": "北京对外经贸大学联合项目 · 校方课程与学科说明",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "regensburg-faculty",
@@ -70368,6 +70448,822 @@
       }
     },
     {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "adamcharles",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Adam Charles",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "alanyuille",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Alan Yuille",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "alexisbattle",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Alexis Battle",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "amitabhbasu",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Amitabh Basu",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "anqiliu",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Anqi Liu",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "benjamingrimmer",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Benjamin Grimmer",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "brianscaffo",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Brian S. Caffo",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "careypriebe",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Carey Priebe",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "donaldgeman",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Donald Geman",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "elanajudithfertig",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Elana Judith Fertig",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "elizaoreilly",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Eliza O’Reilly",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "enriquemallada",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Enrique Mallada",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "gregoryschirikjian",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Gregory S. Chirikjian",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "holdenlee",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Holden Lee",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "hynekhermansky",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Hynek Hermansky",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "ilyashpitser",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Ilya Shpitser",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "jasoneisner",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Jason Eisner",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "jeremiassulam",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Jeremias Sulam",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "joshuatvogelstein",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Joshua T. Vogelstein",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "laurentyounes",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Laurent Younes",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "mahyarfazlyab",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Mahyar Fazlyab",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "markdredze",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Mark Dredze",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "mateodiaz",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Mateo Diaz",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "mauromaggioni",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Mauro Maggioni",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "michaeldinitz",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Michael Dinitz",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "michaelimiller",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Michael I. Miller",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "michaelkazhdan",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Michael Kazhdan",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "najimdehak",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Najim Dehak",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "nicolasloizou",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Nicolas Loizou",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "ramachellappa",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Rama Chellappa",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "ramanarora",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Raman Arora",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "sanjeevpkhudanpur",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Sanjeev P. Khudanpur",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "soledadvillar",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Soledad Villar",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "suchisaria",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Suchi Saria",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "tamasbudavari",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Tamas Budavari",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "tracdtran",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Trac D. Tran",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "vishalmpatel",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Vishal M. Patel",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "vladimirbraverman",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Vladimir Braverman",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "yanniskevrekidis",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Yannis Kevrekidis",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-faculty-30",
+      "person_key": "yanxunxu",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Yanxun Xu",
+        "title": "MINDS Affiliate Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-fellows31",
+      "person_key": "dimitriosoikonomou",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Dimitrios Oikonomou",
+        "title": "MINDS Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/MINDS-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-fellows31",
+      "person_key": "estherwhang",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Esther Whang",
+        "title": "MINDS Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/MINDS-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-fellows31",
+      "person_key": "tahaentesari",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Taha Entesari",
+        "title": "MINDS Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/MINDS-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-fellows31",
+      "person_key": "zhenghanfang",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Zhenghan Fang",
+        "title": "MINDS Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/MINDS-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-postdocs31",
+      "person_key": "deliangwei",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Deliang Wei",
+        "title": "MINDS Postdoc",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/postdocs/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-postdocs31",
+      "person_key": "parisgiampouras",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Paris Giampouras",
+        "title": "MINDS Postdoc",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/postdocs/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-research31",
+      "person_key": "avantiathreya",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Avanti Athreya",
+        "title": "MINDS Affiliate Research Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/research-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-research31",
+      "person_key": "benjaminhaeffele",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Benjamin Haeffele",
+        "title": "MINDS Affiliate Research Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/research-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-research31",
+      "person_key": "donniellfishkind",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Donniell Fishkind",
+        "title": "MINDS Affiliate Research Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/research-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-research31",
+      "person_key": "youngserpark",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Youngser Park",
+        "title": "MINDS Affiliate Research Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/research-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-minds-research31",
+      "person_key": "zacharylubberts",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Zachary Lubberts",
+        "title": "MINDS Affiliate Research Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.minds.jhu.edu/research-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
       "source": "johns-hopkins-people",
       "person_key": "alexandershumakovitch",
       "school": "johns-hopkins",
@@ -102789,6 +103685,214 @@
         "source_kind": "department",
         "source_url": "https://math.mit.edu/directory/faculty/professors.html?show=gallery",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "monash-affiliates31",
+      "person_key": "alanpryde",
+      "school": "monash",
+      "record": {
+        "name": "Alan Pryde",
+        "title": "University Affiliate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/affiliates-and-adjuncts",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-affiliates31",
+      "person_key": "cristinavarsavsky",
+      "school": "monash",
+      "record": {
+        "name": "Cristina Varsavsky",
+        "title": "Adjunct Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/affiliates-and-adjuncts",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-affiliates31",
+      "person_key": "erickingwahchu",
+      "school": "monash",
+      "record": {
+        "name": "Eric King-Wah Chu",
+        "title": "University Affiliate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/affiliates-and-adjuncts",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-affiliates31",
+      "person_key": "henrywong",
+      "school": "monash",
+      "record": {
+        "name": "Henry Wong",
+        "title": "Adjunct Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/affiliates-and-adjuncts",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-affiliates31",
+      "person_key": "jeromedroniou",
+      "school": "monash",
+      "record": {
+        "name": "Jerome Droniou",
+        "title": "Adjunct Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/affiliates-and-adjuncts",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-affiliates31",
+      "person_key": "johnstillwell",
+      "school": "monash",
+      "record": {
+        "name": "John Stillwell",
+        "title": "University Affiliate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/affiliates-and-adjuncts",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-affiliates31",
+      "person_key": "leobrewin",
+      "school": "monash",
+      "record": {
+        "name": "Leo Brewin",
+        "title": "University Affiliate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/affiliates-and-adjuncts",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-affiliates31",
+      "person_key": "michaelpage",
+      "school": "monash",
+      "record": {
+        "name": "Michael Page",
+        "title": "University Affiliate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/affiliates-and-adjuncts",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-affiliates31",
+      "person_key": "nickwormald",
+      "school": "monash",
+      "record": {
+        "name": "Nick Wormald",
+        "title": "Emeritus Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/affiliates-and-adjuncts",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-affiliates31",
+      "person_key": "ozgeozcaki",
+      "school": "monash",
+      "record": {
+        "name": "Ozge Ozcaki",
+        "title": "University Affiliate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/affiliates-and-adjuncts",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-affiliates31",
+      "person_key": "robertgriffiths",
+      "school": "monash",
+      "record": {
+        "name": "Robert Griffiths",
+        "title": "Adjunct Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/affiliates-and-adjuncts",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-affiliates31",
+      "person_key": "robynarianrhod",
+      "school": "monash",
+      "record": {
+        "name": "Robyn Arianrhod",
+        "title": "University Affiliate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/affiliates-and-adjuncts",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-affiliates31",
+      "person_key": "timbrown",
+      "school": "monash",
+      "record": {
+        "name": "Tim Brown",
+        "title": "Adjunct Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/affiliates-and-adjuncts",
+        "checked_at": "2026-11-25"
       }
     },
     {
@@ -340774,6 +341878,19 @@
         "homepage": "",
         "cv": "",
         "publications": "https://www.qmul.ac.uk/maths/profiles/fayersm.html#fourth",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
+      "url": "https://www.qmul.ac.uk/maths/profiles/federico-ardila.html",
+      "cache_id": "profile-3bd0316f2ec6be0b",
+      "status": "parsed",
+      "record": {
+        "research": "In matroid theory, combinatorial Hodge theory, and intersection theory, Federico and his co-authors have contributed foundational constructions and results, and proved decades' old conjectures. In polyhedral geometry, they have constructed important families of polytopes, understood various ways of measuring them, and used them to derive algebraic, geometric, and physical consequences.",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
