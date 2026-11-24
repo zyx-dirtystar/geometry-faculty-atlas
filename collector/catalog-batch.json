@@ -3010,8 +3010,8 @@
     },
     {
       "id": "lse",
-      "coverage": "sample",
-      "coverageNote": "已解析 1/4 个登记来源，0 条任职或方向待核。 已核对数学系 Academic Faculty、Academic Associates、各研究领域和统计系相关代数统计项目。常任教师逐人匹配公开专长，组合或全纯分析相邻方向、纯教学和未来入职分别列明。已查的历史研究者保留前任职记录。荣誉及访问人员的细分方向和跨校单位仍待复核。",
+      "coverage": "verified",
+      "coverageNote": "已解析 1/6 个登记来源，0 条任职或方向待核。 已逐条核对 Department of Mathematics · Academic Faculty and Academic Associates。 已逐人核对数学系现行 Academic Faculty 和 Academic Associates 合计 60 名，包括 24 名访问系列任职。数学系研究方向和统计系在研分组另核，代数统计历史人员归档。常任名单三个收录方向为 0 人，微分几何 1 位访问高级研究员单列。组合几何和非交换几何分别记录其实际方向。",
       "rosterLinks": [
         [
           "Department of Mathematics · Discrete Mathematics",
@@ -3026,8 +3026,16 @@
           "https://www.lse.ac.uk/statistics/assets/Documents/Older-Grants-for-website-2024.pdf"
         ],
         [
-          "数学系或所属学院人员入口",
+          "Department of Mathematics · Research Officers and Students",
           "https://www.lse.ac.uk/mathematics/people"
+        ],
+        [
+          "Department of Mathematics · Academic Faculty and Academic Associates",
+          "https://www.lse.ac.uk/mathematics/people"
+        ],
+        [
+          "Department of Statistics · Current Research Groups",
+          "https://www.lse.ac.uk/statistics/research"
         ]
       ],
       "checkedAt": "2026-11-23"
@@ -3623,7 +3631,7 @@
     {
       "id": "qau",
       "coverage": "sample",
-      "coverageNote": "已解析 1/7 个登记来源，0 条任职或方向待核。 已逐条核对 Department of Mathematics · Faculty（现行个人页 17 份）。 已收录 2 位学者，个人主页 0、CV 0、指标 0。 已逐人阅读数学系 Faculty 当前目录所列的 17 份个人页，确认其中 2 人。已查系主页、行政人员页入口及 HEC 档案，报告实际签署于 2019–2020 年。外聘及跨单位任职仍缺现行可核名录。",
+      "coverageNote": "已解析 1/7 个登记来源，0 条任职或方向待核。 已逐条核对 Department of Mathematics · Faculty（现行个人页 17 份）。 已收录 2 位学者，个人主页 0、CV 0、指标 2。 已逐人核对数学系现行目录的 17 份个人页，确认 2 人。另查学院部门总览、科研办公室、行政名录、2019–2020 年 HEC 档案和物理系 17 人目录。物理系部分个人页未返回可核内容，外聘及跨单位任职仍缺现行可核名录。",
       "rosterLinks": [
         [
           "Department of Mathematics · Umar Hayat（个人页）",
@@ -28759,12 +28767,46 @@
       "cvType": null,
       "cvStatus": "已打开校级个人页标为 View Resume 的文件。该文件只有简要个人概况与研究兴趣，未找到独立完整学术 CV。",
       "publicationsUrl": "https://www.qau.edu.pk/profile.php?id=814013",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 6,
+          "scope": "真纳大学数学系个人页的 Research Publications 栏原数，统计截止日及作品类型未明示",
+          "url": "https://math.qau.edu.pk/faculty/dr-babar-majeed-mirza/",
+          "checkedAt": "2026-11-24"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5087011114",
+          "orcid": "https://orcid.org/0000-0002-3337-3714",
+          "url": "https://openalex.org/authors/A5087011114",
+          "authorApiUrl": "https://api.openalex.org/authors/A5087011114",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5087011114,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 20,
+          "works": 31,
+          "citations": 73,
+          "hIndex": 5,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Quantum interference and the formation of trapping regions around a Schwarzschild black hole",
+          "year": 2010,
+          "url": "https://doi.org/10.1016/j.physletb.2010.04.018"
+        },
+        {
+          "title": "CHAOTIC ACCRETION IN A NON-STATIONARY ELECTROMAGNETIC FIELD OF A SLOWLY ROTATING COMPACT STAR",
+          "year": 2007,
+          "url": "https://doi.org/10.1142/S0218271807011188"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Differential and Riemannian geometry, mathematical physics and astrophysics",
@@ -28773,6 +28815,10 @@
         {
           "text": "Mathematical Physics, Astrophysics, Differential & Riemannian Geometry",
           "url": "https://math.qau.edu.pk/faculty/dr-babar-majeed-mirza/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.qau.edu.pk/profile.php?id=814013"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -28805,12 +28851,46 @@
       "cvType": null,
       "cvStatus": "已查数学系与校级两份个人页，均未公开可确认的 CV 文件。",
       "publicationsUrl": "https://www.qau.edu.pk/profile.php?id=814019",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 41,
+          "scope": "真纳大学数学系个人页的 Research Publications 栏原数，统计截止日及作品类型未明示",
+          "url": "https://math.qau.edu.pk/faculty/dr-umar-hayat-2/",
+          "checkedAt": "2026-11-24"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "以校级个人页与 DOI 查 OpenAlex。所测 DOI 未唯一匹配同名作者；作者 ID 与累计指标暂缺。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5060817933",
+          "orcid": "https://orcid.org/0000-0002-1373-7701",
+          "url": "https://openalex.org/authors/A5060817933",
+          "authorApiUrl": "https://api.openalex.org/authors/A5060817933",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5060817933,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 46,
+          "works": 51,
+          "citations": 1240,
+          "hIndex": 21,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Classification of Well Log Data Using Vanishing Component Analysis",
+          "year": 2019,
+          "url": "https://doi.org/10.1007/s00024-019-02374-2"
+        },
+        {
+          "title": "An Efficient Algorithm for Nontrivial Eigenvectors in Max-Plus Algebra",
+          "year": 2019,
+          "url": "https://doi.org/10.3390/sym11060738"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic and arithmetic geometry and commutative algebra",
@@ -28819,6 +28899,10 @@
         {
           "text": "Algebraic/Arithmetic Geometry, Cryptography, Discrete Mathematics, Machine Learning, Commutative Algebra.",
           "url": "https://math.qau.edu.pk/faculty/dr-umar-hayat-2/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.qau.edu.pk/profile.php?id=814019"
         }
       ],
       "checkedAt": "2026-11-24",

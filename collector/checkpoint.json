@@ -2942,14 +2942,34 @@
       "note": "尚未取得网页。"
     },
     {
+      "id": "lse-math-other-roles",
+      "school": "lse",
+      "url": "https://www.lse.ac.uk/mathematics/people",
+      "label": "Department of Mathematics · Research Officers and Students",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "lse-math-source",
       "school": "lse",
       "url": "https://www.lse.ac.uk/mathematics/people",
-      "label": "数学系或所属学院人员入口",
+      "label": "Department of Mathematics · Academic Faculty and Academic Associates",
       "status": "parsed",
       "count": 60,
       "checked_at": "2026-11-23",
       "note": ""
+    },
+    {
+      "id": "lse-stats-research",
+      "school": "lse",
+      "url": "https://www.lse.ac.uk/statistics/research",
+      "label": "Department of Statistics · Current Research Groups",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "malaya-qs-roster",
@@ -337927,6 +337947,38 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "babar-majeed-mirza": {
+      "status": "review_ready",
+      "author_id": "A5087011114",
+      "papers": [
+        {
+          "title": "Quantum interference and the formation of trapping regions around a Schwarzschild black hole",
+          "year": 2010,
+          "url": "https://doi.org/10.1016/j.physletb.2010.04.018"
+        },
+        {
+          "title": "CHAOTIC ACCRETION IN A NON-STATIONARY ELECTROMAGNETIC FIELD OF A SLOWLY ROTATING COMPACT STAR",
+          "year": 2007,
+          "url": "https://doi.org/10.1142/S0218271807011188"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5087011114",
+        "orcid": "https://orcid.org/0000-0002-3337-3714",
+        "url": "https://openalex.org/authors/A5087011114",
+        "authorApiUrl": "https://api.openalex.org/authors/A5087011114",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5087011114,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 20,
+        "works": 31,
+        "citations": 73,
+        "hIndex": 5,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "balazs-szendroi": {
       "status": "review_ready",
       "author_id": "A5078229428",
@@ -342832,9 +342884,36 @@
       "candidate_url": "https://openalex.org/A5066847032"
     },
     "umar-hayat": {
-      "status": "identity_review",
-      "reason": "以校级个人页与 DOI 查 OpenAlex。所测 DOI 未唯一匹配同名作者；作者 ID 与累计指标暂缺。",
-      "checkedAt": "2026-11-24"
+      "status": "review_ready",
+      "author_id": "A5060817933",
+      "papers": [
+        {
+          "title": "Classification of Well Log Data Using Vanishing Component Analysis",
+          "year": 2019,
+          "url": "https://doi.org/10.1007/s00024-019-02374-2"
+        },
+        {
+          "title": "An Efficient Algorithm for Nontrivial Eigenvectors in Max-Plus Algebra",
+          "year": 2019,
+          "url": "https://doi.org/10.3390/sym11060738"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5060817933",
+        "orcid": "https://orcid.org/0000-0002-1373-7701",
+        "url": "https://openalex.org/authors/A5060817933",
+        "authorApiUrl": "https://api.openalex.org/authors/A5060817933",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5060817933,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 46,
+        "works": 51,
+        "citations": 1240,
+        "hIndex": 21,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "vaibhav-gadre": {
       "status": "review_ready",

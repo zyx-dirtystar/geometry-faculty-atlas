@@ -114,7 +114,9 @@
     "jaume-amoros": "A5012582833",
     "maria-alberich-carraminana": "A5087860991",
     "peter-fiebig": "A5084349444",
-    "person-517ffd94d2be": "A5100602900"
+    "person-517ffd94d2be": "A5100602900",
+    "umar-hayat": "A5060817933",
+    "babar-majeed-mirza": "A5087011114"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -171,7 +173,6 @@
     "william-yun-chen": "论文作者姓名没有唯一匹配。",
     "xuemiao-chen": "已用公开身份信息交叉核对 OpenAlex。高引样本混入水果代谢和材料研究，仅数条与规范理论相符。累计数暂不收录。",
     "bernhard-koeck": "机构公开 ORCID 命中，但 OpenAlex 的高引样本混入不相关的水力材料模型论文，作者档案累计数字暂缺。",
-    "umar-hayat": "以校级个人页与 DOI 查 OpenAlex。所测 DOI 未唯一匹配同名作者；作者 ID 与累计指标暂缺。",
     "person-f36827c8bf3c": "两篇具名复几何代表作在 OpenAlex 指向不同作者档案；累计论文数和引用量暂缺。"
   },
   "evidence": {
@@ -284,6 +285,8 @@
     "jaume-amoros": "已用独立机构身份及论文资料或公开 ORCID 核对，并抽查研究方向吻合的高引成果。",
     "maria-alberich-carraminana": "已用独立机构身份及论文资料或公开 ORCID 核对，并抽查研究方向吻合的高引成果。",
     "peter-fiebig": "已用独立机构身份及论文资料或公开 ORCID 核对，并抽查研究方向吻合的高引成果。",
-    "person-517ffd94d2be": "已用独立机构身份及论文资料或公开 ORCID 核对，并抽查研究方向吻合的高引成果。"
+    "person-517ffd94d2be": "已用独立机构身份及论文资料或公开 ORCID 核对，并抽查研究方向吻合的高引成果。",
+    "umar-hayat": "用真纳大学校级个人成果页的两篇具名论文、机构与别名匹配 OpenAlex，抽查高引成果主题与官方研究简介吻合。",
+    "babar-majeed-mirza": "用真纳大学校级个人成果页的两篇具名论文、机构与别名匹配 OpenAlex，抽查高引成果主题与官方研究简介吻合。"
   }
 }
