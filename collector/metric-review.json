@@ -70,7 +70,9 @@
     "asma-hassannezhad": "A5017585597",
     "nelly-villamizar": "A5016321436",
     "ruadhai-dervan": "A5020993951",
-    "azeb-zain-alghanemi": "A5053613182"
+    "azeb-zain-alghanemi": "A5053613182",
+    "calum-spicer": "A5030338640",
+    "christian-saemann": "A5025871116"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -85,7 +87,8 @@
     "peter-beelen": "两篇 DOI 及校方 ORCID 均指向 A5017069208，但该 OpenAlex 档案收入同名医学论文，累计指标待核。DTU Orbit 数量按其原分类另列。",
     "martin-man-chun-li": "已核对港中大名册及公开 CV。OpenAlex 的论文与作者匹配待核，论文数和引用量留空。",
     "mario-kummer": "两篇可归属的期刊 DOI 在 OpenAlex 指向不同作者档案，累计论文数和引用量待核。",
-    "david-holmes": "个人主页明确链接其 Google Scholar 档案，但公开指标请求返回 403，OpenAlex 作者和统计待核。"
+    "david-holmes": "个人主页明确链接其 Google Scholar 档案，但公开指标请求返回 403，OpenAlex 作者和统计待核。",
+    "andrey-soldatenkov": "已用出版社代表作对照 OpenAlex。匹配作者档案存在拆分或不一致，暂未录入总论文数与引用量。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -153,6 +156,8 @@
       "https://www.davidholmes.nl/",
       "https://scholar.google.com/citations?user=0IWC_2kAAAAJ",
       "https://orcid.org/0000-0002-6081-2516"
-    ]
+    ],
+    "calum-spicer": "已据校方任职、出版社 DOI 和数学论文抽样确认 OpenAlex 作者身份。",
+    "christian-saemann": "已据校方任职、出版社 DOI 和数学论文抽样确认 OpenAlex 作者身份。"
   }
 }

@@ -16,11 +16,10 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  deploy:
+  package:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    outputs:
+      artifact_name: ${{ steps.artifact.outputs.name }}
     steps:
       - name: Check out the repository
         uses: actions/checkout@v6
@@ -28,10 +27,24 @@ jobs:
           persist-credentials: false
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
+      - name: Name the Pages artifact for this attempt
+        id: artifact
+        run: echo "name=github-pages-${GITHUB_RUN_ATTEMPT}" >> "$GITHUB_OUTPUT"
       - name: Upload the static website
         uses: actions/upload-pages-artifact@v4
         with:
+          name: ${{ steps.artifact.outputs.name }}
           path: dist
+
+  deploy:
+    needs: package
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - name: Publish the website
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: ${{ needs.package.outputs.artifact_name }}

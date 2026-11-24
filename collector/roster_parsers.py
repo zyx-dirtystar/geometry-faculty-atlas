@@ -212,6 +212,23 @@ def parse_auckland_research(document, base):
     return rows
 
 
+def parse_iit_delhi_faculty(records, base):
+    if not isinstance(records, list):
+        return []
+    rows = []
+    for record in records:
+        name = clean(record.get("name") or "")
+        if not name:
+            continue
+        homepage = clean(record.get("webpage_url") or "")
+        uri = urlparse(homepage)
+        if uri.scheme not in ("https", "http") or not uri.hostname or uri.username or uri.password:
+            homepage = ""
+        rows.append(Entry(name, clean(record.get("title") or ""),
+                          clean(record.get("research_areas") or ""), homepage=homepage))
+    return rows
+
+
 def split_role(title, region=None):
     title = title.strip(" ,;–—")
     if region == "波兰":
@@ -1568,6 +1585,7 @@ PARSERS = {
     "cuhk_staff": parse_cuhk_staff,
     "isi_kolkata": parse_isi_kolkata, "lse_staff": parse_lse_staff, "utm_staff": parse_utm_staff,
     "auckland_research": parse_auckland_research,
+    "iit_delhi_faculty": parse_iit_delhi_faculty,
     "stanford": parse_stanford, "stonybrook": parse_stonybrook, "stonybrook_group": parse_stonybrook_group,
     "bonn": parse_bonn, "bicmr": parse_bicmr, "princeton": parse_princeton, "princeton_group": parse_princeton_group,
     "pku": parse_pending, "pku_pure":parse_pku_pure, "rutgers": parse_rutgers_directory,
