@@ -2232,6 +2232,36 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "jhu-ams-affiliated-31",
+      "school": "johns-hopkins",
+      "url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+      "label": "Applied Mathematics and Statistics · Secondary Appointments and Research and Adjunct Faculty",
+      "status": "parsed",
+      "count": 31,
+      "checked_at": "2026-11-25",
+      "note": "26 条双聘和 5 条研究与兼职记录。"
+    },
+    {
+      "id": "jhu-ams-cam31",
+      "school": "johns-hopkins",
+      "url": "https://engineering.jhu.edu/ams/research/computational-and-applied-mathematics/people-computational-and-applied-mathematics/",
+      "label": "Applied Mathematics and Statistics · Computational and Applied Mathematics · Our People",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "jhu-ams-ds31",
+      "school": "johns-hopkins",
+      "url": "https://engineering.jhu.edu/ams/research/data-science/people-statistics-and-learning-2/",
+      "label": "Applied Mathematics and Statistics · Data Science · Our People",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "jhu-ams-faculty-30",
       "school": "johns-hopkins",
       "url": "https://engineering.jhu.edu/ams/faculty/",
@@ -2242,6 +2272,46 @@
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
+      "id": "jhu-ams-faculty-31",
+      "school": "johns-hopkins",
+      "url": "https://engineering.jhu.edu/ams/faculty/",
+      "label": "Applied Mathematics and Statistics · Faculty",
+      "status": "parsed",
+      "count": 50,
+      "checked_at": "2026-11-25",
+      "note": "50 张学术人员卡片，含教学职级。"
+    },
+    {
+      "id": "jhu-ams-groups31",
+      "school": "johns-hopkins",
+      "url": "https://engineering.jhu.edu/ams/research/",
+      "label": "Applied Mathematics and Statistics · Research Areas",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "jhu-ams-postdocs-31",
+      "school": "johns-hopkins",
+      "url": "https://engineering.jhu.edu/ams/people/postdoctoral-fellows/",
+      "label": "Applied Mathematics and Statistics · Postdoctoral Fellows",
+      "status": "parsed",
+      "count": 15,
+      "checked_at": "2026-11-25",
+      "note": "15 条具名博士后记录。"
+    },
+    {
+      "id": "jhu-dsai31",
+      "school": "johns-hopkins",
+      "url": "https://ai.jhu.edu/news/data-science-and-ai-institute-announces-22-new-faculty/",
+      "label": "Data Science and AI Institute · 22 New Faculty",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "jhu-minds-faculty-30",
       "school": "johns-hopkins",
       "url": "https://www.minds.jhu.edu/faculty/",
@@ -2249,6 +2319,16 @@
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "jhu-minds-research31",
+      "school": "johns-hopkins",
+      "url": "https://www.minds.jhu.edu/research-faculty/",
+      "label": "Mathematical Institute for Data Science · Research Faculty",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
@@ -2812,6 +2892,16 @@
       "note": ""
     },
     {
+      "id": "ku-bk21-public31",
+      "school": "korea-university",
+      "url": "https://bk21math.korea.ac.kr/bk21math/index.do",
+      "label": "数学系 · BK21 数理科学培养与研究团队",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "ku-education-30",
       "school": "korea-university",
       "url": "https://mathedu.korea.ac.kr/mathedu/about/professor.do",
@@ -2880,6 +2970,56 @@
       "count": 0,
       "checked_at": "2026-11-24",
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "ku-science-math31",
+      "school": "korea-university",
+      "url": "https://science.korea.ac.kr/science-new/intro/mathematics.do",
+      "label": "理学院 · 数学系教师的交叉名册",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "ku-sejong-current31",
+      "school": "korea-university",
+      "url": "https://imath.korea.ac.kr/faculty/8574/subview.do",
+      "label": "世宗校区 · 应用数理科学部 · 现任教师",
+      "status": "parsed",
+      "count": 5,
+      "checked_at": "2026-11-25",
+      "note": "世宗校区应用数理科学部数据计算科学专业官方分栏 5 条。"
+    },
+    {
+      "id": "ku-sejong-departments31",
+      "school": "korea-university",
+      "url": "https://imath.korea.ac.kr/koreaSejong/7849/subview.do",
+      "label": "世宗理工学院官方院系入口",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "ku-sejong-retired31",
+      "school": "korea-university",
+      "url": "https://imath.korea.ac.kr/faculty/8575/subview.do",
+      "label": "世宗校区 · 应用数理科学部 · 荣休",
+      "status": "parsed",
+      "count": 5,
+      "checked_at": "2026-11-25",
+      "note": "世宗校区应用数理科学部数据计算科学专业官方分栏 5 条。"
+    },
+    {
+      "id": "ku-sejong-visiting31",
+      "school": "korea-university",
+      "url": "https://imath.korea.ac.kr/faculty/8576/subview.do",
+      "label": "世宗校区 · 应用数理科学部 · 访问",
+      "status": "parsed",
+      "count": 12,
+      "checked_at": "2026-11-25",
+      "note": "世宗校区应用数理科学部数据计算科学专业官方分栏 12 条。"
     },
     {
       "id": "kyoto-math",
@@ -3422,6 +3562,16 @@
       "note": ""
     },
     {
+      "id": "monash-affiliates31",
+      "school": "monash",
+      "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/affiliates-and-adjuncts",
+      "label": "School of Mathematics · Adjuncts & Affiliates",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "monash-alternate-geometry",
       "school": "monash",
       "url": "https://www.monash.edu/science/schools/school-of-mathematics/research/pure-maths",
@@ -3442,6 +3592,16 @@
       "note": "机构网站限制了目录请求。"
     },
     {
+      "id": "monash-pure-catalog31",
+      "school": "monash",
+      "url": "https://research.monash.edu/en/organisations/school-of-mathematics/persons/",
+      "label": "Monash Research · School of Mathematics · Profiles",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "monash-qs-roster",
       "school": "monash",
       "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People",
@@ -3450,6 +3610,96 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "机构网站限制了目录请求。"
+    },
+    {
+      "id": "monash-rank-asslect31",
+      "school": "monash",
+      "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-assistant-lecturer",
+      "label": "School of Mathematics · Assistant Lecturer",
+      "status": "parsed",
+      "count": 14,
+      "checked_at": "2026-11-25",
+      "note": "该职级页核录 14 张具名卡片，按原目录分栏。详情未列研究方向的记录继续补证。"
+    },
+    {
+      "id": "monash-rank-assoc31",
+      "school": "monash",
+      "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-professor",
+      "label": "School of Mathematics · Associate Professor",
+      "status": "parsed",
+      "count": 8,
+      "checked_at": "2026-11-25",
+      "note": "该职级页核录 8 张具名卡片，按原目录分栏。详情未列研究方向的记录继续补证。"
+    },
+    {
+      "id": "monash-rank-fellow31",
+      "school": "monash",
+      "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new2",
+      "label": "School of Mathematics · Research Fellow",
+      "status": "parsed",
+      "count": 12,
+      "checked_at": "2026-11-25",
+      "note": "该职级页核录 12 张具名卡片，按原目录分栏。详情未列研究方向的记录继续补证。"
+    },
+    {
+      "id": "monash-rank-index31",
+      "school": "monash",
+      "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff",
+      "label": "School of Mathematics · Academic Staff",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "monash-rank-lect31",
+      "school": "monash",
+      "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-lecturer",
+      "label": "School of Mathematics · Lecturer",
+      "status": "parsed",
+      "count": 9,
+      "checked_at": "2026-11-25",
+      "note": "该职级页核录 9 张具名卡片，按原目录分栏。详情未列研究方向的记录继续补证。"
+    },
+    {
+      "id": "monash-rank-prof31",
+      "school": "monash",
+      "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+      "label": "School of Mathematics · Professor",
+      "status": "parsed",
+      "count": 19,
+      "checked_at": "2026-11-25",
+      "note": "该职级页核录 19 张具名卡片，按原目录分栏。详情未列研究方向的记录继续补证。"
+    },
+    {
+      "id": "monash-rank-sen31",
+      "school": "monash",
+      "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-senior-lecturer",
+      "label": "School of Mathematics · Senior Lecturer",
+      "status": "parsed",
+      "count": 13,
+      "checked_at": "2026-11-25",
+      "note": "该职级页核录 13 张具名卡片，按原目录分栏。详情未列研究方向的记录继续补证。"
+    },
+    {
+      "id": "monash-research-index31",
+      "school": "monash",
+      "url": "https://www.monash.edu/science/schools/school-of-mathematics/research",
+      "label": "School of Mathematics · Research areas",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "monash-topology-group31",
+      "school": "monash",
+      "url": "https://www.monash.edu/topology",
+      "label": "Topology research group",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "montreal-28-cirget",
@@ -68492,6 +68742,1542 @@
       }
     },
     {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "abhirupdatta",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Abhirup Datta",
+        "title": "Affiliated Faculty · Professor, Biostatistics",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "anthonykearsley",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Anthony Kearsley",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "benjaminblumsmith",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Benjamin Blum-Smith",
+        "title": "Research staff · Assistant Research Scientist",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "benjaminhobbs",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Benjamin Hobbs",
+        "title": "Affiliated Faculty · Theodore M. and Kay W. Schad Professor of Environmental Management, Environmental Health and Engineering",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "chinmaymaheshwari",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Chinmay Maheshwari",
+        "title": "Affiliated Faculty · Assistant Professor, Electrical and Computer Engineering",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "dennicegayme",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Dennice Gayme",
+        "title": "Affiliated Faculty · Associate Professor, Mechanical Engineering",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "dimitrisgiovanis",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Dimitris Giovanis",
+        "title": "Affiliated Faculty · Assistant Research Professor, Civil and Systems Engineering",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "elizabethobgurn",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Elizabeth Obgurn",
+        "title": "Affiliated Faculty · Professor, Biostatistics",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "elizabethstuart",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Elizabeth Stuart",
+        "title": "Affiliated Faculty · Chair Professor, Biostatistics",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "enriquemallada",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Enrique Mallada",
+        "title": "Affiliated Faculty · Associate Professor, Electrical and Computer Engineering",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "feilu",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Fei Lu",
+        "title": "Affiliated Faculty · Assistant Professor, Mathematics",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "gregoryquiroz",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Gregory Quiroz",
+        "title": "Affiliated Faculty · Assistant Research Professor, Department of Physics and Astronomy",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "hanslindblad",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Hans Lindblad",
+        "title": "Affiliated Faculty · Professor, Mathematics",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "ilyashpitser",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Ilya Shpitser",
+        "title": "Affiliated Faculty · John C. Malone Assistant Professor, Computer Science",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "jaewooksuh",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Jaewook Suh",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "jeremiassulam",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Jeremias Sulam",
+        "title": "Affiliated Faculty · Assistant Professor, Biomedical Engineering",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "jerryprince",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Jerry Prince",
+        "title": "Affiliated Faculty · William B. Kouwenhoven Professor, Electrical and Computer Engineering",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "jessicasorrell",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Jessica Sorrell",
+        "title": "Affiliated Faculty · Assistant Professor, Computer Science",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "joelbader",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Joel Bader",
+        "title": "Affiliated Faculty · Professor, Biomedical Engineering",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "johngoutsias",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "John Goutsias",
+        "title": "Affiliated Faculty · Professor, Electrical and Computer Engineering",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "longhan",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Long Han",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "michaeldinitz",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Michael Dinitz",
+        "title": "Affiliated Faculty · Assistant Professor, Computer Science",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "michaelimiller",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Michael I. Miller",
+        "title": "Affiliated Faculty · Bessie Darling Massey Professor and Director, Biomedical Engineering",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "nataliatrayanova",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Natalia Trayanova",
+        "title": "Affiliated Faculty · Murray B. Sachs Professor, Biomedical Engineering",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "pabloiglesias",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Pablo Iglesias",
+        "title": "Affiliated Faculty · Edward J. Schaefer Professor, Electrical and Computer Engineering",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "somdattagoswami",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Somdatta Goswami",
+        "title": "Affiliated Faculty · Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "tahoeyoon",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "TaHoe Yoon",
+        "title": "Research staff · Assistant Research Scientist",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "takeruigusa",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Takeru Igusa",
+        "title": "Affiliated Faculty · Professor, Civil and Systems Engineering",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "tamerzaki",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Tamer Zaki",
+        "title": "Affiliated Faculty · Professor, Mechanical Engineering",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "vladimirbraverman",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Vladimir Braverman",
+        "title": "Affiliated Faculty · Associate Head of Faculty and Professor, Department of Computer Science",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-affiliated-31",
+      "person_key": "yusun",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Yu Sun",
+        "title": "Affiliated Faculty · Assistant Professor, Electrical and Computer Engineering",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/affiliated-faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "aldengreen",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Alden Green",
+        "title": "Assistant Professor",
+        "research": "Dimensionality reduction Graph-based nonparametric estimation High-dimensional regression Hypothesis testing",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "amitabhbasu",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Amitabh Basu",
+        "title": "Professor",
+        "research": "Optimization Discrete and Combinatorial Geometry Operations Research Convex Analysis Statistical and machine learning",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "anujsrivastava",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Anuj Srivastava",
+        "title": "Professor",
+        "research": "Biological Morphometrics Computational Statistics Functional Data Analysis Geometric Data Analysis Medical Image Analytics Statistical Shape Analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "apurvanakade",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Apurva Nakade",
+        "title": "Assistant Teaching Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "avantiathreya",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Avanti Athreya",
+        "title": "Associate Teaching Professor",
+        "research": "Probability Stochastic processes",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "benjamingrimmer",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Benjamin Grimmer",
+        "title": "Assistant Professor",
+        "research": "Design and analysis of algorithms for continuous optimization problems beyond the limited areas where classical theory applies",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "benjaminwandelt",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Benjamin Wandelt",
+        "title": "Bloomberg Distinguished Professor",
+        "research": "Artificial Intelligence Astronomy Computing Cosmology Physics Statistics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "berylcastello",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Beryl Castello",
+        "title": "Associate Teaching Professor",
+        "research": "Operations research Optimization Facility location Inventory modeling",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "careypriebe",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Carey Priebe",
+        "title": "Professor and Director of Mathematical Institute for Data Science",
+        "research": "Computational statistics kernel and mixture estimates statistical pattern recognition statistical image analysis dimensionality reduction model selection statistical inference for high-dimensional and graph data.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "danielnaiman",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Daniel Naiman",
+        "title": "Professor, Associate Department Head and Director of Graduate Studies",
+        "research": "Statistics Computational probability Bioinformatics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "davidaudley",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "David Audley",
+        "title": "Professor of the Practice",
+        "research": "Financial mathematics Term structure models Fixed income derivatives Quantitative portfolio strategies",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "dmitriytimkunisky",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Dmitriy (Tim) Kunisky",
+        "title": "Assistant Professor",
+        "research": "Probability Statistics Mathematical data science Convex optimization Discrete mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "domenicogiannone",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Domenico Giannone",
+        "title": "Bloomberg Distinguished Professor",
+        "research": "Macroeconometrics Forecasting",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "donaldgeman",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Donald Geman",
+        "title": "Professor Emeritus",
+        "research": "Image analysis statistical learning bioinformatics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "donniellfishkind",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Donniell Fishkind",
+        "title": "Teaching Professor, Director of Undergradute Studies",
+        "research": "Graph theory Matrix analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "edinahgnang",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Edinah Gnang",
+        "title": "Assistant Research Professor",
+        "research": "Discrete mathematics Experimental math Graph theory Image analysis Multilinear algebra",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "edwardscheinerman",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Edward Scheinerman",
+        "title": "Professor and Vice Dean for Special Projects",
+        "research": "Discrete Mathematics  Partially Ordered Sets  Random Methods  Graph Theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "elizaoreilly",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Eliza O’Reilly",
+        "title": "Assistant Professor",
+        "research": "Math of data science Stochastic and convex geometry Point processes High dimensional probability Statistical learning theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "fadilsantosa",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Fadil Santosa",
+        "title": "Professor and Yu Wu and Chaomei Chen Department Head",
+        "research": "Image processing Mathematical modeling (partial differential equations) Inverse problems (differential equations) Machine learning Optimal experiment design Photonics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "fredtorcaso",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Fred Torcaso",
+        "title": "Associate Teaching Professor",
+        "research": "Stochastic processes Asymptotics and partial differential equations",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "gregoryeyink",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Gregory Eyink",
+        "title": "Professor",
+        "research": "Mathematical physics Fluid mechanics Turbulence Dynamical systems Partial differential equations Nonequilibrium statistical physics Geophysics and climate",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "haoyangcao",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Haoyang Cao",
+        "title": "Assistant Professor",
+        "research": "Stochastic controls Stochastic differential games Mean-field games Generative models Transfer learning Financial mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "helyettegeman",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Hélyette Geman",
+        "title": "Professor of the Practice",
+        "research": "Commodities and Energy Mathematical Finance ML for Financial Bubbles Recognition NLP for Prediction in Finance",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "holdenlee",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Holden Lee",
+        "title": "Assistant Professor",
+        "research": "Machine learning Data science Probability",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "huizou",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Hui Zou",
+        "title": "Professor",
+        "research": "High-dimensional statistics Machine learning Statistical optimization Applied statistics for business, engineering and sciences",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "ioannisyanniskevrekidis",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Ioannis (Yannis) Kevrekidis",
+        "title": "Bloomberg Distinguished Professor",
+        "research": "Algorithms, data, and the computer-assisted modeling of complex dynamical systems",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "jamesfill",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "James Fill",
+        "title": "Professor Emeritus",
+        "research": "Probability Stochastic processes Random structures and algorithms",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "jamesspall",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "James Spall",
+        "title": "Research Professor",
+        "research": "Stochastic systems Parameter estimation Stochastic optimization Monte Carlo methods and simulation Neural networks Control systems System identification and Kalman filtering Mathematical statistics Optimization theory Uncertainty calculation",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "jinchengyang",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Jincheng Yang",
+        "title": "Assistant Professor",
+        "research": "Dynamical systems Fluid dynamics Kinetic theory Partial differential equations Partial regularity Robust optimization",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "johnmiller",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "John Miller",
+        "title": "Professor of the Practice",
+        "research": "Financial mathematics Equity derivative trading and risk management Number theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "johnwierman",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "John Wierman",
+        "title": "Professor Emeritus",
+        "research": "Probability Stochastic processes Statistics Discrete mathematics Percolation theory Random graphs",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "laurentyounes",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Laurent Younes",
+        "title": "Professor",
+        "research": "Statistical Properties of Markov Random Fields  Image Analysis Deformation Analysis Shape Recognition",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "luanaruiz",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Luana Ruiz",
+        "title": "Assistant Professor",
+        "research": "Large-scale graph machine learning Graph neural networks Signal processing Data science",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "luhaozhang",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Luhao Zhang",
+        "title": "Assistant Professor",
+        "research": "AI-assisted decision-making Decision-making under uncertainty Distributionally robust optimization Human-AI interaction Information acquisition",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "luhuanwu",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Luhuan Wu",
+        "title": "Assistant Professor",
+        "research": "AI for science Biochemical applications Generative models Inverse problems Probabilistic modeling Sampling",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "mariomicheli",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Mario Micheli",
+        "title": "Assistant Teaching Professor",
+        "research": "Mathematical image processing Shape analysis Variational methods Applied statistics Mathematical 3D printing",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "markkramer",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Mark Kramer",
+        "title": "Professor",
+        "research": "Biomarker detection Brain rhythms Computational neuroscience Dynamical systems Machine learning Neural data analysis Translational neuroengineering",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "mauromaggioni",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Mauro Maggioni",
+        "title": "Bloomberg Distinguished Professor",
+        "research": "Analysis Partial differential equations Algebraic topology Big data Data intensive computation Harmonic analysis over manifolds and over discrete structures",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "nicolasloizou",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Nicolas Loizou",
+        "title": "Assistant Professor",
+        "research": "Theory and applications of convex and non-convex optimization in large-scale machine learning and data science problems",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "sergeykushnarev",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Sergey Kushnarev",
+        "title": "Associate Teaching Professor",
+        "research": "Computational Geometry and Shape Analysis Data Science Applications Engineering and Mathematics Education Statistical Learning and Bayesian Methods Time Series Analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "shiqianma",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Shiqian Ma",
+        "title": "Professor",
+        "research": "Foundation Models Machine Learning Mathematical Foundations of AI Optimization Riemannian Optimization",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "soledadvillar",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Soledad Villar",
+        "title": "Assistant Professor",
+        "research": "Optimization for data science machine learning and optimization representation learning graph neural networks",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "soufianehayou",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Soufiane Hayou",
+        "title": "Assistant Professor",
+        "research": "Artificial intelligence Large-scale systems Statistical machine learning Theory and methodology of deep learning",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "sujihong",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Su Ji Hong",
+        "title": "Assistant Teaching Professor",
+        "research": "Algebraic combinatorics Lattice polytopes Cluster algebras",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "suryanarayanamaddu",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Suryanarayana Maddu",
+        "title": "Assistant Professor",
+        "research": "Biophysical modeling Dynamic systems Statistical inference Scientific machine learning",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "tamasbudavari",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Tamás Budavári",
+        "title": "Professor",
+        "research": "Computational statistics Bayesian inference Low-dimensional embeddings Streaming algorithms Parallel processing on GPUs Scientific databases Survey astronomy",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "taylorjones",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Taylor Jones",
+        "title": "Assistant Teaching Professor",
+        "research": "Fractal geometry Probability Dynamical systems",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "yanxunxu",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Yanxun Xu",
+        "title": "Professor and Jenniches Faculty Scholar",
+        "research": "Statistics Machine learning Nonparametric Bayes Reinforcement learning clinical trial designs Infectious disease (e.g., HIV) Electronic health/medical data.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "yuliangxu",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Yuliang Xu",
+        "title": "Assistant Professor",
+        "research": "Bayesian Nonparametrics Causal Inference Generative model evaluation Microbiome Data Neuroimaging Data Optimal Transport",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-faculty-31",
+      "person_key": "zerottiwoods",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Zerotti Woods",
+        "title": "Assistant Research Professor",
+        "research": "Applied mathematics Data science Machine learning Intelligent systems",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/faculty/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-postdocs-31",
+      "person_key": "amanrani",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Aman Rani",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/postdoctoral-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-postdocs-31",
+      "person_key": "benjaminbrindle",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Benjamin Brindle",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/postdoctoral-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-postdocs-31",
+      "person_key": "costanzabosone",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Costanza Bosone",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/postdoctoral-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-postdocs-31",
+      "person_key": "jingminsun",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Jingmin Sun",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/postdoctoral-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-postdocs-31",
+      "person_key": "lingyoupang",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Lingyou Pang",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/postdoctoral-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-postdocs-31",
+      "person_key": "ningliu",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Ning Liu",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/postdoctoral-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-postdocs-31",
+      "person_key": "qiutingtinachen",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Qiuting (Tina) Chen",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/postdoctoral-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-postdocs-31",
+      "person_key": "ruhuijin",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Ruhui Jin",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/postdoctoral-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-postdocs-31",
+      "person_key": "shashwatkumar",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Shashwat Kumar",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/postdoctoral-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-postdocs-31",
+      "person_key": "sichenyang",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Sichen Yang",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/postdoctoral-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-postdocs-31",
+      "person_key": "taehoyoon",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "TaeHo Yoon",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/postdoctoral-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-postdocs-31",
+      "person_key": "wescaldwell",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Wes Caldwell",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/postdoctoral-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-postdocs-31",
+      "person_key": "yantaowu",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Yantao Wu",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/postdoctoral-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-postdocs-31",
+      "person_key": "yunshanduan",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Yunshan Duan",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/postdoctoral-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "jhu-ams-postdocs-31",
+      "person_key": "yuqingwang",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Yuqing Wang",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://engineering.jhu.edu/ams/people/postdoctoral-fellows/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
       "source": "johns-hopkins-people",
       "person_key": "alexandershumakovitch",
       "school": "johns-hopkins",
@@ -83093,6 +84879,358 @@
         "source_kind": "department",
         "source_url": "https://wis.kuleuven.be/meetkunde/Members",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ku-sejong-current31",
+      "person_key": "박혁주",
+      "school": "korea-university",
+      "record": {
+        "name": "박혁주",
+        "title": "Assistant Professor",
+        "research": "수치해석, 과학계산",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8574/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-current31",
+      "person_key": "신관철",
+      "school": "korea-university",
+      "record": {
+        "name": "신관철",
+        "title": "Assistant Professor",
+        "research": "과학계산, 역문제",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8574/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-current31",
+      "person_key": "이승규",
+      "school": "korea-university",
+      "record": {
+        "name": "이승규",
+        "title": "Associate Professor",
+        "research": "수치해석/수리모델링",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8574/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-current31",
+      "person_key": "이연주",
+      "school": "korea-university",
+      "record": {
+        "name": "이연주",
+        "title": "Professor",
+        "research": "근사이론 / 영상처리",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8574/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-current31",
+      "person_key": "이태원",
+      "school": "korea-university",
+      "record": {
+        "name": "이태원",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8574/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-retired31",
+      "person_key": "안인경",
+      "school": "korea-university",
+      "record": {
+        "name": "안인경",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8575/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-retired31",
+      "person_key": "은희천",
+      "school": "korea-university",
+      "record": {
+        "name": "은희천",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8575/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-retired31",
+      "person_key": "이계성",
+      "school": "korea-university",
+      "record": {
+        "name": "이계성",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8575/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-retired31",
+      "person_key": "이기영",
+      "school": "korea-university",
+      "record": {
+        "name": "이기영",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8575/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-retired31",
+      "person_key": "황운재",
+      "school": "korea-university",
+      "record": {
+        "name": "황운재",
+        "title": "Professor Emeritus",
+        "research": "수치해석학",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8575/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-visiting31",
+      "person_key": "김순덕",
+      "school": "korea-university",
+      "record": {
+        "name": "김순덕",
+        "title": "Visiting Professor",
+        "research": "정수론",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8576/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-visiting31",
+      "person_key": "김지연",
+      "school": "korea-university",
+      "record": {
+        "name": "김지연",
+        "title": "Visiting Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8576/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-visiting31",
+      "person_key": "백승현",
+      "school": "korea-university",
+      "record": {
+        "name": "백승현",
+        "title": "Visiting Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8576/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-visiting31",
+      "person_key": "신수연",
+      "school": "korea-university",
+      "record": {
+        "name": "신수연",
+        "title": "Visiting Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8576/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-visiting31",
+      "person_key": "신혜선",
+      "school": "korea-university",
+      "record": {
+        "name": "신혜선",
+        "title": "Visiting Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8576/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-visiting31",
+      "person_key": "오형석",
+      "school": "korea-university",
+      "record": {
+        "name": "오형석",
+        "title": "Visiting Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8576/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-visiting31",
+      "person_key": "윤대기",
+      "school": "korea-university",
+      "record": {
+        "name": "윤대기",
+        "title": "Visiting Professor",
+        "research": "응용수학및확률론",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8576/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-visiting31",
+      "person_key": "윤창욱",
+      "school": "korea-university",
+      "record": {
+        "name": "윤창욱",
+        "title": "Visiting Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8576/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-visiting31",
+      "person_key": "이성",
+      "school": "korea-university",
+      "record": {
+        "name": "이성",
+        "title": "Visiting Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8576/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-visiting31",
+      "person_key": "전상우",
+      "school": "korea-university",
+      "record": {
+        "name": "전상우",
+        "title": "Visiting Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8576/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-visiting31",
+      "person_key": "최호원",
+      "school": "korea-university",
+      "record": {
+        "name": "최호원",
+        "title": "Visiting Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8576/subview.do",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ku-sejong-visiting31",
+      "person_key": "황진아",
+      "school": "korea-university",
+      "record": {
+        "name": "황진아",
+        "title": "Visiting Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://imath.korea.ac.kr/faculty/8576/subview.do",
+        "checked_at": "2026-11-25"
       }
     },
     {
@@ -100625,6 +102763,1206 @@
         "source_kind": "research",
         "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/research/pure-maths",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "monash-rank-asslect31",
+      "person_key": "alexingham",
+      "school": "monash",
+      "record": {
+        "name": "Alex Ingham",
+        "title": "Assistant Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-assistant-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-asslect31",
+      "person_key": "calumrobertson",
+      "school": "monash",
+      "record": {
+        "name": "Calum Robertson",
+        "title": "Assistant Lecturer",
+        "research": "General relativity, differential geometry and PDE",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-assistant-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-asslect31",
+      "person_key": "danieljackson",
+      "school": "monash",
+      "record": {
+        "name": "Daniel Jackson",
+        "title": "Assistant Lecturer",
+        "research": "Einstein equations, differential geometry and numerical PDE",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-assistant-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-asslect31",
+      "person_key": "eileenpan",
+      "school": "monash",
+      "record": {
+        "name": "Eileen Pan",
+        "title": "Assistant Lecturer",
+        "research": "Algorithms in group theory, algebraic groups and finite groups of Lie type",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-assistant-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-asslect31",
+      "person_key": "jessyke",
+      "school": "monash",
+      "record": {
+        "name": "Jessy Ke",
+        "title": "Assistant Lecturer",
+        "research": "Mathematical statistics and mathematics education",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-assistant-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-asslect31",
+      "person_key": "kaustavdas",
+      "school": "monash",
+      "record": {
+        "name": "Kaustav Das",
+        "title": "Assistant Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-assistant-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-asslect31",
+      "person_key": "mengshi",
+      "school": "monash",
+      "record": {
+        "name": "Meng Shi",
+        "title": "Assistant Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-assistant-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-asslect31",
+      "person_key": "michellestrumila",
+      "school": "monash",
+      "record": {
+        "name": "Michelle Strumila",
+        "title": "Assistant Lecturer",
+        "research": "Algebraic topology, higher categories, operads and topological field theories",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-assistant-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-asslect31",
+      "person_key": "qianwan",
+      "school": "monash",
+      "record": {
+        "name": "Qian Wan",
+        "title": "Assistant Lecturer",
+        "research": "Operations research, logistics routing and combinatorial optimization",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-assistant-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-asslect31",
+      "person_key": "sangeetajhanjee",
+      "school": "monash",
+      "record": {
+        "name": "Sangeeta Jhanjee",
+        "title": "Assistant Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-assistant-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-asslect31",
+      "person_key": "simonteague",
+      "school": "monash",
+      "record": {
+        "name": "Simon Teague",
+        "title": "Assistant Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-assistant-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-asslect31",
+      "person_key": "soojinroh",
+      "school": "monash",
+      "record": {
+        "name": "Soojin Roh",
+        "title": "Assistant Lecturer",
+        "research": "Spatial and multivariate statistics and data assimilation",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-assistant-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-asslect31",
+      "person_key": "stephendeng",
+      "school": "monash",
+      "record": {
+        "name": "Stephen Deng",
+        "title": "Assistant Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-assistant-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-asslect31",
+      "person_key": "vladkaseckarova",
+      "school": "monash",
+      "record": {
+        "name": "Vladka Seckarova",
+        "title": "Assistant Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-assistant-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-assoc31",
+      "person_key": "andyhammerlindl",
+      "school": "monash",
+      "record": {
+        "name": "Andy Hammerlindl",
+        "title": "Associate Professor",
+        "research": "Smooth dynamics, ergodic theory and three-dimensional foliations",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-assoc31",
+      "person_key": "anjaslim",
+      "school": "monash",
+      "record": {
+        "name": "Anja Slim",
+        "title": "Associate Professor",
+        "research": "Applied fluid mechanics and models of geoscientific processes",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-assoc31",
+      "person_key": "danielhorsley",
+      "school": "monash",
+      "record": {
+        "name": "Daniel Horsley",
+        "title": "Associate Professor",
+        "research": "Edge decompositions, graph theory and designs",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-assoc31",
+      "person_key": "ivanguo",
+      "school": "monash",
+      "record": {
+        "name": "Ivan Guo",
+        "title": "Associate Professor",
+        "research": "Stochastic optimal transport and financial mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-assoc31",
+      "person_key": "jonathankeith",
+      "school": "monash",
+      "record": {
+        "name": "Jonathan Keith",
+        "title": "Associate Professor",
+        "research": "Computational Bayesian methods, bioinformatics and epidemiological models",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-assoc31",
+      "person_key": "julieclutterbuck",
+      "school": "monash",
+      "record": {
+        "name": "Julie Clutterbuck",
+        "title": "Associate Professor",
+        "research": "Geometric analysis, flows, capillary surfaces and eigenvalues",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-assoc31",
+      "person_key": "tianhaitian",
+      "school": "monash",
+      "record": {
+        "name": "Tianhai Tian",
+        "title": "Associate Professor",
+        "research": "Mathematical biology, regulatory network inference and signalling models",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-assoc31",
+      "person_key": "yuguangwang",
+      "school": "monash",
+      "record": {
+        "name": "Yu Guang Wang",
+        "title": "Associate Professor",
+        "research": "Geometric deep learning, information geometry and applied harmonic analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-professor",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-fellow31",
+      "person_key": "alvarofernandezmora",
+      "school": "monash",
+      "record": {
+        "name": "Álvaro Fernández-Mora",
+        "title": "Research Fellow",
+        "research": "Hamiltonian dynamics and rigorous computational methods in KAM theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new2",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-fellow31",
+      "person_key": "anguskenny",
+      "school": "monash",
+      "record": {
+        "name": "Angus Kenny",
+        "title": "Research Fellow",
+        "research": "Evolutionary optimization, machine learning and surrogate modelling",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new2",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-fellow31",
+      "person_key": "antoinemarteau",
+      "school": "monash",
+      "record": {
+        "name": "Antoine Marteau",
+        "title": "Research Fellow",
+        "research": "Numerical PDE for physical models including nematic liquid crystals",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new2",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-fellow31",
+      "person_key": "aramperez",
+      "school": "monash",
+      "record": {
+        "name": "Aram Perez",
+        "title": "Research Fellow",
+        "research": "Probability and combinatorics of statistical mechanics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new2",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-fellow31",
+      "person_key": "dionneibarra",
+      "school": "monash",
+      "record": {
+        "name": "Dionne Ibarra",
+        "title": "Research Fellow",
+        "research": "Low-dimensional topology, hyperbolic Dehn surgery and knot theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new2",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-fellow31",
+      "person_key": "kevinhendrey",
+      "school": "monash",
+      "record": {
+        "name": "Kevin Hendrey",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new2",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-fellow31",
+      "person_key": "margauxintrona",
+      "school": "monash",
+      "record": {
+        "name": "Margaux Introna",
+        "title": "Research Fellow",
+        "research": "Celestial mechanics, the gravitational n-body problem and dynamics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new2",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-fellow31",
+      "person_key": "mihu",
+      "school": "monash",
+      "record": {
+        "name": "Mi Hu",
+        "title": "Research Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new2",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-fellow31",
+      "person_key": "minhnguyen",
+      "school": "monash",
+      "record": {
+        "name": "Minh Nguyen",
+        "title": "Research Fellow",
+        "research": "Random processes on graphs and self-interacting walks",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new2",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-fellow31",
+      "person_key": "nataliamcalistercaffarel",
+      "school": "monash",
+      "record": {
+        "name": "Natalia McAlister Caffarel",
+        "title": "Research Fellow",
+        "research": "Computer-assisted dynamics and partial hyperbolicity",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new2",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-fellow31",
+      "person_key": "runjiesong",
+      "school": "monash",
+      "record": {
+        "name": "Runjie Song",
+        "title": "Research Fellow",
+        "research": "High-speed fluid mechanics, boundary layers and asymptotic stability",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new2",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-fellow31",
+      "person_key": "xueraohe",
+      "school": "monash",
+      "record": {
+        "name": "Xuerao He",
+        "title": "Research Fellow",
+        "research": "Computational fluid dynamics and flow stability",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new2",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-lect31",
+      "person_key": "andreiachapouto",
+      "school": "monash",
+      "record": {
+        "name": "Andreia Chapouto",
+        "title": "Lecturer",
+        "research": "Analytic theory of nonlinear dispersive PDE",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-lect31",
+      "person_key": "danielmcinnes",
+      "school": "monash",
+      "record": {
+        "name": "Daniel McInnes",
+        "title": "Lecturer",
+        "research": "Controlled Markov processes and allocation of water and energy resources",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-lect31",
+      "person_key": "gianlucafaraco",
+      "school": "monash",
+      "record": {
+        "name": "Gianluca Faraco",
+        "title": "Lecturer",
+        "research": "Complex geometry and algebraic geometry of Riemann surfaces, character varieties and dynamics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-lect31",
+      "person_key": "jianhe",
+      "school": "monash",
+      "record": {
+        "name": "Jian He",
+        "title": "Lecturer",
+        "research": "Symplectic differential geometry, contact topology and knot theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-lect31",
+      "person_key": "jieyenfan",
+      "school": "monash",
+      "record": {
+        "name": "Jie Yen Fan",
+        "title": "Lecturer",
+        "research": "Stochastic processes in finance and population dynamics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-lect31",
+      "person_key": "justinforlano",
+      "school": "monash",
+      "record": {
+        "name": "Justin Forlano",
+        "title": "Lecturer",
+        "research": "Nonlinear dispersive PDE, integrability and probabilistic analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-lect31",
+      "person_key": "kihunnam",
+      "school": "monash",
+      "record": {
+        "name": "Kihun Nam",
+        "title": "Lecturer",
+        "research": "Backward stochastic differential equations and stochastic control",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-lect31",
+      "person_key": "pierreperruchaud",
+      "school": "monash",
+      "record": {
+        "name": "Pierre Perruchaud",
+        "title": "Lecturer",
+        "research": "Interactions of probability with geometry, random fields and constructive field theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-lect31",
+      "person_key": "victorvillalba",
+      "school": "monash",
+      "record": {
+        "name": "Victor Villalba",
+        "title": "Lecturer",
+        "research": "Mathematical models of neural and cardiac oscillations",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "andreacollevecchio",
+      "school": "monash",
+      "record": {
+        "name": "Andrea Collevecchio",
+        "title": "Professor",
+        "research": "Markov chain mixing, reinforced processes and large deviations",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "andreasernst",
+      "school": "monash",
+      "record": {
+        "name": "Andreas Ernst",
+        "title": "Professor",
+        "research": "Operations research, scheduling and logistics optimization",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "burkardpolster",
+      "school": "monash",
+      "record": {
+        "name": "Burkard Polster",
+        "title": "Professor",
+        "research": "Finite incidence geometry, designs, groups and mathematical visualization",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "danielmathews",
+      "school": "monash",
+      "record": {
+        "name": "Daniel Mathews",
+        "title": "Professor",
+        "research": "Hyperbolic geometry, knot invariants, contact topology and symplectic geometry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "davidwood",
+      "school": "monash",
+      "record": {
+        "name": "David Wood",
+        "title": "Professor",
+        "research": "Structural and extremal graph theory and theoretical computer science",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "fimaklebaner",
+      "school": "monash",
+      "record": {
+        "name": "Fima Klebaner",
+        "title": "Professor",
+        "research": "Stochastic processes, population models and mathematical finance",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "heikodietrich",
+      "school": "monash",
+      "record": {
+        "name": "Heiko Dietrich",
+        "title": "Professor",
+        "research": "Computational algebra and computational methods in group theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "ianwanless",
+      "school": "monash",
+      "record": {
+        "name": "Ian Wanless",
+        "title": "Professor",
+        "research": "Discrete mathematics, graph and design theory, and enumeration",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "jessicapurcell",
+      "school": "monash",
+      "record": {
+        "name": "Jessica Purcell",
+        "title": "Professor",
+        "research": "Geometry of hyperbolic 3-manifolds and knot theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "kaishamza",
+      "school": "monash",
+      "record": {
+        "name": "Kais Hamza",
+        "title": "Professor",
+        "research": "Probability, random walks and dependence on past increments",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "normando",
+      "school": "monash",
+      "record": {
+        "name": "Norman Do",
+        "title": "Professor",
+        "research": "Enumerative algebraic geometry, topological recursion and intersection theory of moduli spaces",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "paulcally",
+      "school": "monash",
+      "record": {
+        "name": "Paul Cally",
+        "title": "Professor",
+        "research": "Magnetohydrodynamics, helioseismology and solar wave dynamics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "ricardoruizbaier",
+      "school": "monash",
+      "record": {
+        "name": "Ricardo Ruiz Baier",
+        "title": "Professor",
+        "research": "Numerical PDE and mixed finite elements",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "santiagobadia",
+      "school": "monash",
+      "record": {
+        "name": "Santiago Badia",
+        "title": "Professor",
+        "research": "Finite-element discretization and numerical PDE",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "stevesiems",
+      "school": "monash",
+      "record": {
+        "name": "Steve Siems",
+        "title": "Professor",
+        "research": "Cloud and precipitation physics and applied fluid dynamics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "timgaroni",
+      "school": "monash",
+      "record": {
+        "name": "Tim Garoni",
+        "title": "Professor",
+        "research": "Finite statistical mechanics models, combinatorics and probability",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "toddoliynyk",
+      "school": "monash",
+      "record": {
+        "name": "Todd Oliynyk",
+        "title": "Professor",
+        "research": "PDE, mathematical analysis, geometry, and mathematical physics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "warwicktucker",
+      "school": "monash",
+      "record": {
+        "name": "Warwick Tucker",
+        "title": "Professor",
+        "research": "Rigorous numerical methods for computer-assisted proofs and dynamics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-prof31",
+      "person_key": "zihuaguo",
+      "school": "monash",
+      "record": {
+        "name": "Zihua Guo",
+        "title": "Professor",
+        "research": "Harmonic analysis, dispersive PDE and analytical methods",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-sen31",
+      "person_key": "alinacatalinadonea",
+      "school": "monash",
+      "record": {
+        "name": "Alina-Catalina Donea",
+        "title": "Senior Lecturer",
+        "research": "Solar and stellar physics, applied mathematics and statistical learning",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-senior-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-sen31",
+      "person_key": "gregorymarkowsky",
+      "school": "monash",
+      "record": {
+        "name": "Gregory Markowsky",
+        "title": "Senior Lecturer",
+        "research": "Planar complex analysis, Brownian motion and probability on graphs",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-senior-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-sen31",
+      "person_key": "hasanfallahgoul",
+      "school": "monash",
+      "record": {
+        "name": "Hasan Fallahgoul",
+        "title": "Senior Lecturer",
+        "research": "Financial risk and stochastic modelling of extremes",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-senior-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-sen31",
+      "person_key": "janoschrieger",
+      "school": "monash",
+      "record": {
+        "name": "Janosch Rieger",
+        "title": "Senior Lecturer",
+        "research": "Numerical analysis of evolving sets, inverse problems and control",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-senior-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-sen31",
+      "person_key": "kengodeguchi",
+      "school": "monash",
+      "record": {
+        "name": "Kengo Deguchi",
+        "title": "Senior Lecturer",
+        "research": "Computational and theoretical fluid dynamics and turbulence",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-senior-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-sen31",
+      "person_key": "markflegg",
+      "school": "monash",
+      "record": {
+        "name": "Mark Flegg",
+        "title": "Senior Lecturer",
+        "research": "Biological and multiscale modelling, including reaction-diffusion",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-senior-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-sen31",
+      "person_key": "melissalee",
+      "school": "monash",
+      "record": {
+        "name": "Melissa Lee",
+        "title": "Senior Lecturer",
+        "research": "Finite group theory, finite incidence geometry and algebraic combinatorics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-senior-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-sen31",
+      "person_key": "nganle",
+      "school": "monash",
+      "record": {
+        "name": "Ngan Le",
+        "title": "Senior Lecturer",
+        "research": "Stochastic partial differential equations and anomalous transport",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-senior-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-sen31",
+      "person_key": "oscartian",
+      "school": "monash",
+      "record": {
+        "name": "Oscar Tian",
+        "title": "Senior Lecturer",
+        "research": "Actuarial finance, volatility and derivative pricing",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-senior-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-sen31",
+      "person_key": "sergiorojas",
+      "school": "monash",
+      "record": {
+        "name": "Sergio Rojas",
+        "title": "Senior Lecturer",
+        "research": "Computational mathematics, numerical modelling and residual-minimization methods",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-senior-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-sen31",
+      "person_key": "simonclarke",
+      "school": "monash",
+      "record": {
+        "name": "Simon Clarke",
+        "title": "Senior Lecturer",
+        "research": "Nonlinear wave evolution and geophysical fluid flows",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-senior-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-sen31",
+      "person_key": "talipinsky",
+      "school": "monash",
+      "record": {
+        "name": "Tali Pinsky",
+        "title": "Senior Lecturer",
+        "research": "Dynamics on three-manifolds, periodic orbits and knot invariants",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-senior-lecturer",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "monash-rank-sen31",
+      "person_key": "yannbernard",
+      "school": "monash",
+      "record": {
+        "name": "Yann Bernard",
+        "title": "Senior Lecturer",
+        "research": "Geometric analysis, variational PDE, minimal and Willmore surfaces",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-senior-lecturer",
+        "checked_at": "2026-11-25"
       }
     },
     {
@@ -332306,13 +335644,6 @@
         "publications": "",
         "checked_at": "2026-11-24"
       },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/staff/dr-daniel-jackson",
-      "cache_id": "profile-624df56398b1ca6c",
-      "status": "source_error",
-      "record": null,
       "checked_at": "2026-11-24"
     },
     {

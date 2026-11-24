@@ -1731,15 +1731,47 @@
     {
       "id": "johns-hopkins",
       "coverage": "sample",
-      "coverageNote": "已解析 1/5 个登记来源，0 条任职或方向待核。 已逐条核对 数学系 · Faculty、Associated Faculty、Postdoctoral Fellows 和 Emeriti。 已收录 8 位学者，个人主页 5、CV 3、指标 2。 已核数学系当前常任、联属、博士后和荣休四栏的 50 条学术记录。另查应用数学、统计和数据科学中心。对照 Stanford 核实一份旧任职，区分几何数据分析和辛几何相关拓扑。交叉单位人员仍需逐条对账。",
+      "coverageNote": "已解析 4/13 个登记来源，0 条任职或方向待核。 已逐条核对 数学系 · Faculty、Associated Faculty、Postdoctoral Fellows 和 Emeriti。 已收录 8 位学者，个人主页 5、CV 3、指标 2。 读完数学系 50 张和应用数学与统计系常规 50、次聘与研究兼职 31、博士后 15 张卡片。交叉查看 MINDS 常任和 Research Faculty、AMS 研究分组与 DSAI 新任名单。补记不变量理论、黎曼优化、形状统计和计算几何的交叉人员。",
       "rosterLinks": [
+        [
+          "Applied Mathematics and Statistics · Secondary Appointments and Research and Adjunct Faculty",
+          "https://engineering.jhu.edu/ams/people/affiliated-faculty/"
+        ],
+        [
+          "Applied Mathematics and Statistics · Computational and Applied Mathematics · Our People",
+          "https://engineering.jhu.edu/ams/research/computational-and-applied-mathematics/people-computational-and-applied-mathematics/"
+        ],
+        [
+          "Applied Mathematics and Statistics · Data Science · Our People",
+          "https://engineering.jhu.edu/ams/research/data-science/people-statistics-and-learning-2/"
+        ],
         [
           "Department of Applied Mathematics and Statistics · Faculty",
           "https://engineering.jhu.edu/ams/faculty/"
         ],
         [
+          "Applied Mathematics and Statistics · Faculty",
+          "https://engineering.jhu.edu/ams/faculty/"
+        ],
+        [
+          "Applied Mathematics and Statistics · Research Areas",
+          "https://engineering.jhu.edu/ams/research/"
+        ],
+        [
+          "Applied Mathematics and Statistics · Postdoctoral Fellows",
+          "https://engineering.jhu.edu/ams/people/postdoctoral-fellows/"
+        ],
+        [
+          "Data Science and AI Institute · 22 New Faculty",
+          "https://ai.jhu.edu/news/data-science-and-ai-institute-announces-22-new-faculty/"
+        ],
+        [
           "Mathematical Institute for Data Science · Faculty",
           "https://www.minds.jhu.edu/faculty/"
+        ],
+        [
+          "Mathematical Institute for Data Science · Research Faculty",
+          "https://www.minds.jhu.edu/research-faculty/"
         ],
         [
           "Mathematics Department · Sylvester 职级说明",
@@ -1754,7 +1786,7 @@
           "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/mathematics/#facultytext"
         ]
       ],
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "king-khalid",
@@ -2515,8 +2547,12 @@
     {
       "id": "monash",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，0 条任职或方向待核。 已收录 4 位学者，个人主页 0、CV 0、指标 0。 已看纯数学研究组 Academic Staff 并交叉核对数位现任研究者。其他分组、辛几何相关与合聘档案仍需复核。",
+      "coverageNote": "已解析 7/14 个登记来源，4 条任职或方向待核。 已收录 7 位学者，个人主页 3、CV 2、指标 0。 核读数学学院按职级公开的 6 个分栏，共 75 张卡片。对照拓扑组、纯数学、科研门户，为新辨认出的复几何、Stein 与接触及双曲几何学者补证。附属和兼职入口访问受限，马来西亚校区范围和部分专长仍待核。",
       "rosterLinks": [
+        [
+          "School of Mathematics · Adjuncts & Affiliates",
+          "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/affiliates-and-adjuncts"
+        ],
         [
           "Pure Mathematics - Science",
           "https://www.monash.edu/science/schools/school-of-mathematics/research/pure-maths"
@@ -2526,11 +2562,51 @@
           "https://www.monash.edu/science/research/graduate-research/find-a-supervisor/mathematical"
         ],
         [
+          "Monash Research · School of Mathematics · Profiles",
+          "https://research.monash.edu/en/organisations/school-of-mathematics/persons/"
+        ],
+        [
           "数学学院人员名录",
           "https://www.monash.edu/science/schools/school-of-mathematics/Our-People"
+        ],
+        [
+          "School of Mathematics · Assistant Lecturer",
+          "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-assistant-lecturer"
+        ],
+        [
+          "School of Mathematics · Associate Professor",
+          "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-professor"
+        ],
+        [
+          "School of Mathematics · Research Fellow",
+          "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new2"
+        ],
+        [
+          "School of Mathematics · Academic Staff",
+          "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff"
+        ],
+        [
+          "School of Mathematics · Lecturer",
+          "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-lecturer"
+        ],
+        [
+          "School of Mathematics · Professor",
+          "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new"
+        ],
+        [
+          "School of Mathematics · Senior Lecturer",
+          "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-senior-lecturer"
+        ],
+        [
+          "School of Mathematics · Research areas",
+          "https://www.monash.edu/science/schools/school-of-mathematics/research"
+        ],
+        [
+          "Topology research group",
+          "https://www.monash.edu/topology"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "rudn",
@@ -3058,12 +3134,16 @@
     },
     {
       "id": "korea-university",
-      "coverage": "sample",
-      "coverageNote": "已解析 5/6 个登记来源，0 条任职或方向待核。 已逐条核对 수학교육과 · 교수진（数学教育系现任）、수학과 · 명예교수（数学系荣休）、수학과 · 전임교수（数学系韩文现任教师）、수학과 · 방문연구자 및 연구교수（访问及研究教授）。 已收录 4 位学者，个人主页 2、CV 0、指标 2。 对照 17 位韩文现任教师、17 位荣休、13 条访问记录、数学教育系 6 位教师及官方研究方向表。补入英文旧页少收的代数几何与数学教育系的曲面几何，纠正两名荣休任职。其他校区及联合单位补查中。",
+      "coverage": "verified",
+      "coverageNote": "已解析 8/12 个登记来源，0 条任职或方向待核。 已逐条核对 수학교육과 · 교수진（数学教育系现任）、수학과 · 명예교수（数学系荣休）、수학과 · 전임교수（数学系韩文现任教师）、수학과 · 방문연구자 및 연구교수（访问及研究教授）。 已收录 4 位学者，个人主页 2、CV 0、指标 2。 核对首尔数学系韩语现任 17、荣休 17、访问 13 次（12 人）、数学教育系 6 人，并对照理学院和 BK21 数学组。核对世宗应用数理科学部现任 5、荣休 5、访问 12 人。世宗现任一条空白专长采用 SUNY Korea 具名报告补证。",
       "rosterLinks": [
         [
           "数学系或所属学院人员入口",
           "https://math.korea.edu/math_en/people/faculty.do"
+        ],
+        [
+          "数学系 · BK21 数理科学培养与研究团队",
+          "https://bk21math.korea.ac.kr/bk21math/index.do"
         ],
         [
           "수학교육과 · 교수진（数学教育系现任）",
@@ -3084,9 +3164,29 @@
         [
           "수학과 · 연구분야（15 个专长条目）",
           "https://math.korea.ac.kr/math/member/research.do"
+        ],
+        [
+          "理学院 · 数学系教师的交叉名册",
+          "https://science.korea.ac.kr/science-new/intro/mathematics.do"
+        ],
+        [
+          "世宗校区 · 应用数理科学部 · 现任教师",
+          "https://imath.korea.ac.kr/faculty/8574/subview.do"
+        ],
+        [
+          "世宗理工学院官方院系入口",
+          "https://imath.korea.ac.kr/koreaSejong/7849/subview.do"
+        ],
+        [
+          "世宗校区 · 应用数理科学部 · 荣休",
+          "https://imath.korea.ac.kr/faculty/8575/subview.do"
+        ],
+        [
+          "世宗校区 · 应用数理科学部 · 访问",
+          "https://imath.korea.ac.kr/faculty/8576/subview.do"
         ]
       ],
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "polito",
@@ -21661,25 +21761,162 @@
       "recordStatus": "directory"
     },
     {
-      "id": "daniel-jackson",
-      "name": "Daniel Jackson",
+      "id": "daniel-mathews",
+      "name": "Daniel Mathews",
       "aliases": [],
       "affiliations": [
         {
           "schoolId": "monash",
           "department": "数学系",
-          "title": "Academic Faculty",
-          "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/staff/dr-daniel-jackson",
+          "title": "Professor",
+          "url": "https://research.monash.edu/en/persons/daniel-mathews/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.danielmathews.info/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.danielmathews.info/wp-content/uploads/2026/01/CV-2025-09-15-public.pdf",
+      "cvType": "公开学术 CV（2025-09）",
+      "cvStatus": null,
+      "publicationsUrl": "https://research.monash.edu/en/persons/daniel-mathews/publications/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Hyperbolic geometry, knot invariants, contact topology and symplectic geometry",
+          "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new"
+        },
+        {
+          "text": "Hyperbolic geometry, symplectic geometry, contact topology, Floer homology and mathematical physics",
+          "url": "https://www.monash.edu/topology"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "gianluca-faraco",
+      "name": "Gianluca Faraco",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "monash",
+          "department": "数学系",
+          "title": "Lecturer",
+          "url": "https://research.monash.edu/en/persons/gianluca-faraco/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/view/gianluca-faraco/home",
+      "homepageStatus": null,
+      "cvUrl": "https://sites.google.com/view/gianluca-faraco/home/brief-cv",
+      "cvType": "公开 CV（简版）",
+      "cvStatus": null,
+      "publicationsUrl": "https://research.monash.edu/en/persons/gianluca-faraco/publications/",
+      "publicationCounts": [
+        {
+          "value": 16,
+          "scope": "Monash Research 个人档案的 Article 分类",
+          "checkedAt": "2026-11-25",
+          "url": "https://research.monash.edu/en/persons/gianluca-faraco/"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry and algebraic geometry of Riemann surfaces, character varieties and dynamics",
+          "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-lecturer"
+        },
+        {
+          "text": "Complex geometry, complex algebraic geometry, moduli spaces of Riemann surfaces, character varieties and dynamics",
+          "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-lecturer"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jessica-purcell",
+      "name": "Jessica Purcell",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "monash",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://research.monash.edu/en/persons/jessica-purcell/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [
-        "Differential geometry and mathematical physics"
+        "Geometry of hyperbolic 3-manifolds and knot theory"
       ],
+      "homepage": "https://users.monash.edu/~jpurcell/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://users.monash.edu/~jpurcell/publications.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometry of hyperbolic 3-manifolds and knot theory",
+          "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new"
+        },
+        {
+          "text": "Hyperbolic geometry, knot theory, low-dimensional topology and geometric structures on 3-manifolds",
+          "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jian-he",
+      "name": "Jian He",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "monash",
+          "department": "数学系",
+          "title": "Lecturer",
+          "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/staff/jian-he",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
       "homepage": null,
       "homepageStatus": null,
       "cvUrl": null,
@@ -21688,21 +21925,26 @@
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "papers": [
         {
-          "text": "Differential geometry and mathematical physics",
-          "url": "https://www.monash.edu/science/schools/school-of-mathematics/research/pure-maths"
-        },
-        {
-          "text": "Differential geometry and mathematical physics",
-          "url": "https://www.monash.edu/science/schools/school-of-mathematics/research/pure-maths"
+          "title": "Correlators and Descendants of Subcritical Stein Manifolds",
+          "url": "https://doi.org/10.1142/S0129167X13500043"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "directoryEvidence": [
+        {
+          "text": "Symplectic differential geometry, contact topology and knot theory",
+          "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-lecturer"
+        },
+        {
+          "text": "Symplectic differential geometry, contact topology, subcritical Stein manifolds and knot theory",
+          "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-lecturer"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -21716,14 +21958,15 @@
           "title": "Associate Professor",
           "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/staff/julie-clutterbuck",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [
-        "Geometric analysis and mean curvature flow"
+        "Geometric analysis and mean curvature flow",
+        "Geometric analysis, flows, capillary surfaces and eigenvalues"
       ],
       "homepage": null,
       "homepageStatus": null,
@@ -21743,11 +21986,15 @@
           "url": "https://www.monash.edu/science/schools/school-of-mathematics/research/pure-maths"
         },
         {
+          "text": "Geometric analysis, flows, capillary surfaces and eigenvalues",
+          "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-professor"
+        },
+        {
           "text": "Geometric analysis and mean curvature flow",
           "url": "https://www.monash.edu/science/schools/school-of-mathematics/research/pure-maths"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -21761,7 +22008,7 @@
           "title": "Professor",
           "url": "https://research.monash.edu/en/persons/norm-do/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -21809,6 +22056,10 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Enumerative algebraic geometry, topological recursion and intersection theory of moduli spaces",
+          "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-new"
+        },
+        {
           "text": "Enumerative geometry, moduli of curves and Gromov–Witten theory",
           "url": "https://www.monash.edu/science/schools/school-of-mathematics/research/pure-maths"
         },
@@ -21817,7 +22068,7 @@
           "url": "https://www.monash.edu/science/schools/school-of-mathematics/research/pure-maths"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -21831,7 +22082,7 @@
           "title": "Senior Lecturer",
           "url": "https://research.monash.edu/en/persons/yann-bernard/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -21883,11 +22134,15 @@
           "url": "https://www.monash.edu/science/schools/school-of-mathematics/research/pure-maths"
         },
         {
+          "text": "Geometric analysis, variational PDE, minimal and Willmore surfaces",
+          "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/academic-staff-senior-lecturer"
+        },
+        {
           "text": "Geometric analysis and variational calculus",
           "url": "https://www.monash.edu/science/schools/school-of-mathematics/research/pure-maths"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
