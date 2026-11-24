@@ -6222,6 +6222,16 @@
       "note": ""
     },
     {
+      "id": "tokyo-icms31",
+      "school": "tokyo",
+      "url": "https://www.ms.u-tokyo.ac.jp/icms/members.html",
+      "label": "数理科学连携基盘中心 · 组织任职",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "tokyo-ipmu",
       "school": "tokyo",
       "url": "https://www.ipmu.jp/en/place-and-people/scientific-staff",
@@ -6240,6 +6250,36 @@
       "count": 7,
       "checked_at": "2026-11-23",
       "note": ""
+    },
+    {
+      "id": "tokyo-local31",
+      "school": "tokyo",
+      "url": "https://www.ms.u-tokyo.ac.jp/teacher/ichiran_gojyuon.html",
+      "label": "数理科学研究科 · 日文教员五十音顺",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "tokyo-pamphlet31",
+      "school": "tokyo",
+      "url": "https://www.ms.u-tokyo.ac.jp/Suri_Pamphlet2026.pdf",
+      "label": "数理科学研究科 · 2026 官方手册",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "tokyo-project31",
+      "school": "tokyo",
+      "url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
+      "label": "数理科学研究科 · 特任与特别教授",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "toronto-about-legacy",
@@ -6897,7 +6937,7 @@
       "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
       "label": "数学系 Academic and Lecturing Staff",
       "status": "parsed",
-      "count": 62,
+      "count": 84,
       "checked_at": "2026-11-23",
       "note": ""
     },
@@ -6910,6 +6950,56 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "ucl-group-geo31",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+      "label": "Mathematics · Geometry and Topology",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "ucl-group-number31",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/number-theory",
+      "label": "Mathematics · Number Theory",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "ucl-honorary31",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+      "label": "Mathematics · Honorary and Emeritus Staff",
+      "status": "parsed",
+      "count": 46,
+      "checked_at": "2026-11-25",
+      "note": "官方荣休和荣誉名录 46 条，为能交叉确认者逐人标记具体角色。"
+    },
+    {
+      "id": "ucl-lsgnt31",
+      "school": "ucl",
+      "url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+      "label": "London School of Geometry and Number Theory · Staff",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "ucl-research-fellows31",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows",
+      "label": "Mathematics · Research Associates and Fellows",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "ucla-geometry",
@@ -222808,6 +222898,38 @@
     },
     {
       "source": "ucl-faculty",
+      "person_key": "alansokal",
+      "school": "ucl",
+      "record": {
+        "name": "Alan Sokal",
+        "title": "Professor",
+        "research": "Enumerative combinatorics, complex function theory, statistical mechanics",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=ADSOK62",
+        "homepage": "http://www.ucl.ac.uk/~ucahad0",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
+      "person_key": "alejandrodiazdelao",
+      "school": "ucl",
+      "record": {
+        "name": "Alejandro Diaz De La O",
+        "title": "Associate Professor",
+        "research": "Operational research and computational statistics for healthcare, probabilistic numerical analysis, metamodelling",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=FADIA90",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
       "person_key": "aleksanderdoan",
       "school": "ucl",
       "record": {
@@ -222840,6 +222962,22 @@
     },
     {
       "source": "ucl-faculty",
+      "person_key": "alexeyzaikin",
+      "school": "ucl",
+      "record": {
+        "name": "Alexey Zaikin",
+        "title": "Professor",
+        "research": "Multi-scale modelling in systems biology and medicine",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=AZAIK87",
+        "homepage": "http://www.ucl.ac.uk/~rmjbale/index.htm",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
       "person_key": "alexsobolev",
       "school": "ucl",
       "record": {
@@ -222864,6 +223002,22 @@
         "research": "Financial mathematics, stochastic control",
         "profile": "https://profiles.ucl.ac.uk/86517-alex-tse",
         "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
+      "person_key": "andreamacrina",
+      "school": "ucl",
+      "record": {
+        "name": "Andrea Macrina",
+        "title": "Professor",
+        "research": "Applied probability, stochastic processes, financial and insurance mathematics",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=AMACR82",
+        "homepage": "http://amacrina.wixsite.com/macrina",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
@@ -222911,22 +223065,6 @@
         "title": "Academic and Lecturing Staff",
         "research": "Extremal and Probabilistic combinatorics, Ramsey theory, Graph colourings",
         "profile": "",
-        "homepage": "",
-        "topics": [],
-        "source_kind": "department",
-        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
-        "checked_at": "2026-11-23"
-      }
-    },
-    {
-      "source": "ucl-faculty",
-      "person_key": "associateprofalejandrodiazdelao",
-      "school": "ucl",
-      "record": {
-        "name": "Associate Prof Alejandro Diaz De La O",
-        "title": "Academic and Lecturing Staff",
-        "research": "Operational research and computational statistics for healthcare, probabilistic numerical analysis, metamodelling",
-        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=FADIA90",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
@@ -222984,6 +223122,22 @@
     },
     {
       "source": "ucl-faculty",
+      "person_key": "camilogarciatrillos",
+      "school": "ucl",
+      "record": {
+        "name": "Camilo Garcia Trillos",
+        "title": "Academic and Lecturing Staff",
+        "research": "Financial mathematics",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=CAGAR51",
+        "homepage": "https://camilogarciatrillos.com/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
       "person_key": "carinadunlop",
       "school": "ucl",
       "record": {
@@ -222992,6 +223146,22 @@
         "research": "Mathematical Biology and Biophysics",
         "profile": "https://profiles.ucl.ac.uk/99325-carina-dunlop",
         "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
+      "person_key": "carlomarinelli",
+      "school": "ucl",
+      "record": {
+        "name": "Carlo Marinelli",
+        "title": "Professor",
+        "research": "Stochastic analysis, financial mathematics",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=CMARI86",
+        "homepage": "https://sites.google.com/site/cm788ucl/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
@@ -223080,6 +223250,22 @@
     },
     {
       "source": "ucl-faculty",
+      "person_key": "costantebellettini",
+      "school": "ucl",
+      "record": {
+        "name": "Costante Bellettini",
+        "title": "Professor",
+        "research": "Geometric measure theory, geometric analysis, calculus of variations, elliptic PDEs",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=CBELL94",
+        "homepage": "http://www.homepages.ucl.ac.uk/~ucahcbe/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
       "person_key": "danielschwarz",
       "school": "ucl",
       "record": {
@@ -223120,6 +223306,38 @@
         "research": "Applied analysis, numerical analysis, wave propagation, mathematical modelling",
         "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=DHEWE35",
         "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
+      "person_key": "dmitrivassiliev",
+      "school": "ucl",
+      "record": {
+        "name": "Dmitri Vassiliev",
+        "title": "Professor",
+        "research": "Spectral theory, microlocal analysis, geometric analysis, general relativity",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=DVASS76",
+        "homepage": "http://www.homepages.ucl.ac.uk/~ucahdva/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
+      "person_key": "edwardjohnson",
+      "school": "ucl",
+      "record": {
+        "name": "Edward Johnson",
+        "title": "Professor",
+        "research": "Fluid mechanics with applications to the oceans and the atmosphere",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=ERJOH80",
+        "homepage": "http://www.ucl.ac.uk/~ucaherj/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
@@ -223240,6 +223458,22 @@
     },
     {
       "source": "ucl-faculty",
+      "person_key": "helenwilson",
+      "school": "ucl",
+      "record": {
+        "name": "Helen Wilson",
+        "title": "Professor",
+        "research": "Non-Newtonian fluids",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=HWILS67",
+        "homepage": "http://www.ucl.ac.uk/~ucahhwi/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
       "person_key": "hourymelkonian",
       "school": "ucl",
       "record": {
@@ -223256,6 +223490,38 @@
     },
     {
       "source": "ucl-faculty",
+      "person_key": "iainsmears",
+      "school": "ucl",
+      "record": {
+        "name": "Iain Smears",
+        "title": "Associate Professor",
+        "research": "Numerical analysis of PDE, stochastic control problems, error analysis and adaptivity",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=ISMEA05",
+        "homepage": "http://www.homepages.ucl.ac.uk/~ucahism/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
+      "person_key": "ianpetrow",
+      "school": "ucl",
+      "record": {
+        "name": "Ian Petrow",
+        "title": "Associate Professor",
+        "research": "Analytic number theory; especially L-functions and automorphic forms",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=IPETR90",
+        "homepage": "https://www.ucl.ac.uk/~ucahpet/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
       "person_key": "iliakamotski",
       "school": "ucl",
       "record": {
@@ -223264,6 +223530,22 @@
         "research": "Differential equations, boundary value problems, wave equations",
         "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=IKAMO33",
         "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
+      "person_key": "isidorosstrouthos",
+      "school": "ucl",
+      "record": {
+        "name": "Isidoros Strouthos",
+        "title": "Academic and Lecturing Staff",
+        "research": "N/A",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=ISTRO65",
+        "homepage": "http://www.ucl.ac.uk/~ucahist/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
@@ -223304,6 +223586,22 @@
     },
     {
       "source": "ucl-faculty",
+      "person_key": "johntalbot",
+      "school": "ucl",
+      "record": {
+        "name": "John Talbot",
+        "title": "Academic and Lecturing Staff",
+        "research": "Combinatorics, extremal problems for hypergraphs and graphs",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=JMTAL98",
+        "homepage": "http://www.ucl.ac.uk/~ucahjmt",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
       "person_key": "jordanhofmann",
       "school": "ucl",
       "record": {
@@ -223320,6 +223618,22 @@
     },
     {
       "source": "ucl-faculty",
+      "person_key": "karenpage",
+      "school": "ucl",
+      "record": {
+        "name": "Karen Page",
+        "title": "Professor",
+        "research": "Mathematical biology, dynamical systems, stochastic processes",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=KMPAG75",
+        "homepage": "http://www.ucl.ac.uk/~ucackmp",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
       "person_key": "larslouder",
       "school": "ucl",
       "record": {
@@ -223328,6 +223642,22 @@
         "research": "Geometric group theory",
         "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=LLOUD96",
         "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
+      "person_key": "leonidparnovski",
+      "school": "ucl",
+      "record": {
+        "name": "Leonid Parnovski",
+        "title": "Professor",
+        "research": "Spectral theory of differential and pseudodifferential operators, periodic and almost-periodic problems",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=LPARN78",
+        "homepage": "http://www.homepages.ucl.ac.uk/~ucahlep/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
@@ -223376,6 +223706,22 @@
         "research": "Arithmetic geometry and automorphic forms",
         "profile": "https://profiles.ucl.ac.uk/72812-luis-garcia-martinez",
         "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
+      "person_key": "mahirhadzic",
+      "school": "ucl",
+      "record": {
+        "name": "Mahir Hadzic",
+        "title": "Professor",
+        "research": "Nonlinear partial differential equations, Mathematical Physics",
+        "profile": "https://profiles.ucl.ac.uk/71751-mahir-hadzic",
+        "homepage": "https://www.homepages.ucl.ac.uk/~ucahadz/index.html",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
@@ -223472,6 +223818,22 @@
         "research": "Geometric analysis, minimal surfaces, eigenvalue optimisation",
         "profile": "https://profiles.ucl.ac.uk/91365-mikhail-karpukhin",
         "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
+      "person_key": "nadiasidorova",
+      "school": "ucl",
+      "record": {
+        "name": "Nadia Sidorova",
+        "title": "Professor",
+        "research": "Probability theory, random media, diffusions on Riemannian manifolds",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=NSIDO22",
+        "homepage": "http://www.homepages.ucl.ac.uk/~ucahnsi/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
@@ -223624,6 +223986,22 @@
     },
     {
       "source": "ucl-faculty",
+      "person_key": "rosemaryharris",
+      "school": "ucl",
+      "record": {
+        "name": "Rosemary Harris",
+        "title": "Academic and Lecturing Staff",
+        "research": "Stochastic processes and applications",
+        "profile": "https://profiles.ucl.ac.uk/89367-rosemary-harris",
+        "homepage": "https://www.ucl.ac.uk/~ucahrh0/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
       "person_key": "ruthreynolds",
       "school": "ucl",
       "record": {
@@ -223680,6 +224058,22 @@
         "research": "Analysis of scale-interaction effects in composite media, analysis of wave phenomena in composite media, derivation and rigorous justification of asymptotic models in composite media, error estimates in homogenisation theory",
         "profile": "https://profiles.ucl.ac.uk/71395-shane-cooper",
         "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
+      "person_key": "shohamletzter",
+      "school": "ucl",
+      "record": {
+        "name": "Shoham Letzter",
+        "title": "Academic and Lecturing Staff",
+        "research": "Combinatorics, extremal graph theory, Ramsey theory, property testing",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=SLETZ34",
+        "homepage": "http://www.homepages.ucl.ac.uk/~ucahsle/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
@@ -223784,6 +224178,22 @@
     },
     {
       "source": "ucl-faculty",
+      "person_key": "vladimirdokchitser",
+      "school": "ucl",
+      "record": {
+        "name": "Vladimir Dokchitser",
+        "title": "Professor",
+        "research": "Number theory, arithmetic geometry, elliptic curves, L-functions",
+        "profile": "https://profiles.ucl.ac.uk/74794-vladimir-dokchitser",
+        "homepage": "http://www.homepages.ucl.ac.uk/~ucahvdo/webpage.html",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
       "person_key": "wajidmannan",
       "school": "ucl",
       "record": {
@@ -223796,6 +224206,774 @@
         "source_kind": "department",
         "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
+      "person_key": "yiannispetridis",
+      "school": "ucl",
+      "record": {
+        "name": "Yiannis Petridis",
+        "title": "Professor",
+        "research": "Analytic number theory, automorphic forms, spectral theory",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=IPETR71",
+        "homepage": "http://www.homepages.ucl.ac.uk/~ucahipe/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-faculty",
+      "person_key": "yusranaqvi",
+      "school": "ucl",
+      "record": {
+        "name": "Yusra Naqvi",
+        "title": "Academic and Lecturing Staff",
+        "research": "Algebraic combinatorics, geometric group theory, representation theory",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=YNAQV58",
+        "homepage": "https://www.ucl.ac.uk/~ucahyna/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+        "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "adyachenko",
+      "school": "ucl",
+      "record": {
+        "name": "A Dyachenko",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "albrown",
+      "school": "ucl",
+      "record": {
+        "name": "A L Brown",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "cctan",
+      "school": "ucl",
+      "record": {
+        "name": "C C Tan",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "che",
+      "school": "ucl",
+      "record": {
+        "name": "C He",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "csherlawjohnson",
+      "school": "ucl",
+      "record": {
+        "name": "C Sherlaw-Johnson",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "felixschulze",
+      "school": "ucl",
+      "record": {
+        "name": "Felix Schulze",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=FSCHU22",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "gvanderheijden",
+      "school": "ucl",
+      "record": {
+        "name": "G Van Der Heijden",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=GVANH52",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "hfry",
+      "school": "ucl",
+      "record": {
+        "name": "H Fry",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=HMFRY30",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "hsmoat",
+      "school": "ucl",
+      "record": {
+        "name": "H S Moat",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "imrebarany",
+      "school": "ucl",
+      "record": {
+        "name": "Imre Bárány",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=IBARA89",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "jasonlotay",
+      "school": "ucl",
+      "record": {
+        "name": "Jason Lotay",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "jcrhunt",
+      "school": "ucl",
+      "record": {
+        "name": "J C R Hunt",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=JHUNT78",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "jcurtis",
+      "school": "ucl",
+      "record": {
+        "name": "J Curtis",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "jejayne",
+      "school": "ucl",
+      "record": {
+        "name": "J E Jayne",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=JEJAY52",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "jfenn",
+      "school": "ucl",
+      "record": {
+        "name": "J Fenn",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "johnhaight",
+      "school": "ucl",
+      "record": {
+        "name": "John Haight",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "jonnyevans",
+      "school": "ucl",
+      "record": {
+        "name": "Jonny Evans",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "jpanovskagriffiths",
+      "school": "ucl",
+      "record": {
+        "name": "J Panovska-Griffiths",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/17053-jasmina-panovskagriffiths",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "jruf",
+      "school": "ucl",
+      "record": {
+        "name": "J Ruf",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=JRUFX23",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "jvpepper",
+      "school": "ucl",
+      "record": {
+        "name": "J V Pepper",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "jwitte",
+      "school": "ucl",
+      "record": {
+        "name": "J Witte",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "kmjansons",
+      "school": "ucl",
+      "record": {
+        "name": "K M Jansons",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/10216-kalvis-marks-jansons",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "konstanzerietsch",
+      "school": "ucl",
+      "record": {
+        "name": "Konstanze Rietsch",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/72516-konstanze-rietsch",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "lcapriotti",
+      "school": "ucl",
+      "record": {
+        "name": "L Capriotti",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "ldavis",
+      "school": "ucl",
+      "record": {
+        "name": "L Davis",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "lmenguturk",
+      "school": "ucl",
+      "record": {
+        "name": "L Menguturk",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "lorenzofoscolo",
+      "school": "ucl",
+      "record": {
+        "name": "Lorenzo Foscolo",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/72813-lorenzo-foscolo",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "mcapoferri",
+      "school": "ucl",
+      "record": {
+        "name": "M Capoferri",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=MCAPO68",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "mhenrard",
+      "school": "ucl",
+      "record": {
+        "name": "M Henrard",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=MHENR30",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "michaelsinger",
+      "school": "ucl",
+      "record": {
+        "name": "Michael Singer",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/36641-michael-singer",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "mlaczkovich",
+      "school": "ucl",
+      "record": {
+        "name": "M Laczkovich",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/6706-miklos-laczkovich",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "mlevitin",
+      "school": "ucl",
+      "record": {
+        "name": "M Levitin",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=MLEVI76",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "mronan",
+      "school": "ucl",
+      "record": {
+        "name": "M Ronan",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/18397-mark-ronan",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "mrsperothman",
+      "school": "ucl",
+      "record": {
+        "name": "Mrs P E Rothman",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=PEROT30",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "nrochanene",
+      "school": "ucl",
+      "record": {
+        "name": "N Rocha Nene",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "pgwilliams",
+      "school": "ucl",
+      "record": {
+        "name": "P G Williams",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "pmccloud",
+      "school": "ucl",
+      "record": {
+        "name": "P McCloud",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "pmcmullen",
+      "school": "ucl",
+      "record": {
+        "name": "P McMullen",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=PMCMU56",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "rgrimshaw",
+      "school": "ucl",
+      "record": {
+        "name": "R Grimshaw",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "sarahfrei",
+      "school": "ucl",
+      "record": {
+        "name": "Sarah Frei",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "sarridge",
+      "school": "ucl",
+      "record": {
+        "name": "S Arridge",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=SRARR14",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "scolhede",
+      "school": "ucl",
+      "record": {
+        "name": "S C Olhede",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=SCOLH43",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "stevenbishop",
+      "school": "ucl",
+      "record": {
+        "name": "Steven Bishop",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/2467",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "tmonks",
+      "school": "ucl",
+      "record": {
+        "name": "T Monks",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "ttreasure",
+      "school": "ucl",
+      "record": {
+        "name": "T Treasure",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=TTREA26",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-honorary31",
+      "person_key": "wstephenson",
+      "school": "ucl",
+      "record": {
+        "name": "W Stephenson",
+        "title": "Honorary or Emeritus Mathematics Staff",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
       }
     },
     {
@@ -318503,19 +319681,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.mat.uniroma1.it/it/elenco-docenti?fnome=Foscolo&femail=&frole=&pcurrentpage",
-      "cache_id": "profile-9db131a472865f0b",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://www.mat.uniroma1.it/it/elenco-docenti?fnome=Piazza&femail=&frole=&pcurrentpage",
       "cache_id": "profile-9d9ff47b93b45859",
       "status": "parsed",
@@ -348295,19 +349460,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/dario-beraldo",
-      "cache_id": "profile-1bd1da47aa81585d",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
       "url": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/grigory-mikhalkin",
       "cache_id": "profile-c8b23ca216ee78e0",
       "status": "parsed",
@@ -352510,6 +353662,27 @@
       "status": "identity_review",
       "reason": "同一人的论文指向不同作者档案。"
     },
+    "alessio-corti": {
+      "status": "review_ready",
+      "author_id": "A5050065800",
+      "papers": [],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5050065800",
+        "orcid": "https://orcid.org/0000-0002-9009-0403",
+        "url": "https://openalex.org/authors/A5050065800",
+        "authorApiUrl": "https://api.openalex.org/authors/A5050065800",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5050065800,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 27,
+        "works": 82,
+        "citations": 3566,
+        "hIndex": 28,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "alex-fink": {
       "status": "review_ready",
       "author_id": "A5088348731",
@@ -353871,7 +355044,7 @@
           "url": "https://doi.org/10.1007/s00209-023-03248-z"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "snapshot": {
         "source": "OpenAlex",
         "authorId": "A5001257585",
@@ -353879,10 +355052,10 @@
         "url": "https://openalex.org/authors/A5001257585",
         "authorApiUrl": "https://api.openalex.org/authors/A5001257585",
         "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5001257585,type:article&per_page=1&select=id",
-        "checkedAt": "2026-11-24",
+        "checkedAt": "2026-11-25",
         "articles": 12,
         "works": 16,
-        "citations": 194,
+        "citations": 196,
         "hIndex": 9,
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
@@ -354218,6 +355391,27 @@
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5074971723"
+    },
+    "federico-ardila": {
+      "status": "review_ready",
+      "author_id": "A5083845808",
+      "papers": [],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5083845808",
+        "orcid": "https://orcid.org/0000-0002-6744-1826",
+        "url": "https://openalex.org/authors/A5083845808",
+        "authorApiUrl": "https://api.openalex.org/authors/A5083845808",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5083845808,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 7,
+        "works": 15,
+        "citations": 99,
+        "hIndex": 7,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "felipe-rincon": {
       "status": "review_ready",
@@ -355101,6 +356295,20 @@
       "reason": "OpenAlex 请求或返回数据失败。",
       "checkedAt": "2026-11-23"
     },
+    "jian-he": {
+      "status": "identity_review",
+      "reason": "Monash 数学任职和 Stein 几何论文可确认；OpenAlex 候选同时混入组合数学和不同署名结果，未能证实为一个人。",
+      "author_id": "A5045172769",
+      "papers": [
+        {
+          "title": "CORRELATORS AND DESCENDANTS OF SUBCRITICAL STEIN MANIFOLDS",
+          "year": 2013,
+          "url": "https://doi.org/10.1142/S0129167X13500043"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "candidate_url": "https://openalex.org/authors/A5045172769"
+    },
     "jian-song": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
@@ -355296,6 +356504,11 @@
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5068623131"
     },
+    "joshua-daniels-holgate": {
+      "status": "identity_review",
+      "reason": "UCL 和本人站确认现任。以有 DOI 的代表作查 OpenAlex，数据库中的作者署名未能唯一匹配。",
+      "checkedAt": "2026-11-25"
+    },
     "juan-valiente-kroon": {
       "status": "review_ready",
       "author_id": "A5103765995",
@@ -355367,6 +356580,33 @@
         "works": 33,
         "citations": 318,
         "hIndex": 12,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "junho-peter-whang": {
+      "status": "review_ready",
+      "author_id": "A5085729680",
+      "papers": [
+        {
+          "title": "Arithmetic of curves on moduli of local systems",
+          "year": 2020,
+          "url": "https://doi.org/10.2140/ant.2020.14.2575"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5085729680",
+        "orcid": "https://orcid.org/0000-0002-1067-3132",
+        "url": "https://openalex.org/authors/A5085729680",
+        "authorApiUrl": "https://api.openalex.org/authors/A5085729680",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5085729680,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 9,
+        "works": 16,
+        "citations": 115,
+        "hIndex": 6,
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
       }
@@ -358238,6 +359478,38 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "simon-k-donaldson": {
+      "status": "review_ready",
+      "author_id": "A5028118630",
+      "papers": [
+        {
+          "title": "Deformations Of Multivalued Harmonic Functions",
+          "year": 2021,
+          "url": "https://doi.org/10.1093/qmath/haab018"
+        },
+        {
+          "title": "Kähler-Einstein metrics on Fano manifolds. I: Approximation of metrics with cone singularities",
+          "year": 2014,
+          "url": "https://doi.org/10.1090/S0894-0347-2014-00799-2"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5028118630",
+        "orcid": "https://orcid.org/0000-0003-4772-1166",
+        "url": "https://openalex.org/authors/A5028118630",
+        "authorApiUrl": "https://api.openalex.org/authors/A5028118630",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5028118630,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 76,
+        "works": 234,
+        "citations": 18837,
+        "hIndex": 53,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "sonja-mapes": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
@@ -358473,6 +359745,27 @@
         "works": 151,
         "citations": 9347,
         "hIndex": 44,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "todd-oliynyk": {
+      "status": "review_ready",
+      "author_id": "A5007227171",
+      "papers": [],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5007227171",
+        "orcid": "https://orcid.org/0000-0003-3457-9578",
+        "url": "https://openalex.org/authors/A5007227171",
+        "authorApiUrl": "https://api.openalex.org/authors/A5007227171",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5007227171,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 55,
+        "works": 76,
+        "citations": 1211,
+        "hIndex": 21,
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
       }

@@ -139,7 +139,12 @@
     "otto-van-koert": "A5013451902",
     "gye-seon-lee": "A5004276299",
     "philsang-yoo": "A5069995044",
-    "jeongseok-oh": "A5019814714"
+    "jeongseok-oh": "A5019814714",
+    "federico-ardila": "A5083845808",
+    "alessio-corti": "A5050065800",
+    "simon-k-donaldson": "A5028118630",
+    "todd-oliynyk": "A5007227171",
+    "junho-peter-whang": "A5085729680"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -205,7 +210,9 @@
     "amaranta-membrillo-solis": "两篇几何代表作和作者全名已由研究中心及出版方证实。OpenAlex 的变体署名未通过唯一作者匹配，累计数待核。",
     "shengwen-wang": "两篇代表作与任职均可核，但 OpenAlex 同一 ID 混入遗传育种、材料和化学论文，累计著作和引用数不可归给这位学者。",
     "michael-ruzhansky": "QMUL 和 Ghent 的任职及 Ghent 官方 ORCID 已核。OpenAlex 回传的作者身份与 ORCID 未一致，累计论文及引用待核。",
-    "jongil-park": "SNU Pure 与辛填充代表作确认身份。OpenAlex 档案混合几何拓扑、雷达与增强现实等同名作者的作品，累计值待核。"
+    "jongil-park": "SNU Pure 与辛填充代表作确认身份。OpenAlex 档案混合几何拓扑、雷达与增强现实等同名作者的作品，累计值待核。",
+    "jian-he": "Monash 数学任职和 Stein 几何论文可确认；OpenAlex 候选同时混入组合数学和不同署名结果，未能证实为一个人。",
+    "joshua-daniels-holgate": "UCL 和本人站确认现任。以有 DOI 的代表作查 OpenAlex，数据库中的作者署名未能唯一匹配。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -299,7 +306,7 @@
     "zbynek-sir": "已用个人页公开 ORCID 与院校任职核对作者姓名及高引研究样本。",
     "adam-topaz": "已用个人页具名代表作 DOI核对作者姓名及高引研究样本。",
     "andrea-brini": "已用个人页具名代表作 DOI核对作者姓名及高引研究样本。",
-    "dano-kim": "已用个人页具名代表作 DOI核对作者姓名及高引研究样本。",
+    "dano-kim": "已对照个人或官方岗位与资料、ORCID 或代表论文；校对 OpenAlex 前列成果的主题和作者。",
     "dinakar-muthiah": "已用个人页具名代表作 DOI核对作者姓名及高引研究样本。",
     "hamid-abban": "已用个人页具名代表作 DOI核对作者姓名及高引研究样本。",
     "james-pascaleff": "已用个人页具名代表作 DOI核对作者姓名及高引研究样本。",
@@ -342,6 +349,11 @@
     "otto-van-koert": "院系任职、ORCID 或有机构／出版方来源的代表作互证，抽读 OpenAlex 前列作品，作者和主题一致。另向 PLOS 核对一篇跨学科心电图论文，SNU 数学系单位及同一 ORCID 0000-0002-3596-7524 均一致。",
     "gye-seon-lee": "院系任职、ORCID 或有机构／出版方来源的代表作互证，抽读 OpenAlex 前列作品，作者和主题一致。",
     "philsang-yoo": "院系任职、ORCID 或有机构／出版方来源的代表作互证，抽读 OpenAlex 前列作品，作者和主题一致。",
-    "jeongseok-oh": "院系任职、ORCID 或有机构／出版方来源的代表作互证，抽读 OpenAlex 前列作品，作者和主题一致。"
+    "jeongseok-oh": "院系任职、ORCID 或有机构／出版方来源的代表作互证，抽读 OpenAlex 前列作品，作者和主题一致。",
+    "federico-ardila": "已对照个人或官方岗位与资料、ORCID 或代表论文；校对 OpenAlex 前列成果的主题和作者。",
+    "alessio-corti": "已对照个人或官方岗位与资料、ORCID 或代表论文；校对 OpenAlex 前列成果的主题和作者。",
+    "simon-k-donaldson": "已对照个人或官方岗位与资料、ORCID 或代表论文；校对 OpenAlex 前列成果的主题和作者。",
+    "todd-oliynyk": "已对照个人或官方岗位与资料、ORCID 或代表论文；校对 OpenAlex 前列成果的主题和作者。",
+    "junho-peter-whang": "已对照个人或官方岗位与资料、ORCID 或代表论文；校对 OpenAlex 前列成果的主题和作者。"
   }
 }

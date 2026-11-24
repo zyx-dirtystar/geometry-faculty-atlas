@@ -327,7 +327,7 @@
     {
       "id": "imperial",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，23 条任职或方向待核。 已收录 3 位学者，个人主页 2、CV 0、指标 1。",
+      "coverageNote": "已解析 1/3 个登记来源，23 条任职或方向待核。 已收录 3 位学者，个人主页 2、CV 0、指标 3。",
       "rosterLinks": [
         [
           "Members",
@@ -675,11 +675,15 @@
     {
       "id": "tokyo",
       "coverage": "sample",
-      "coverageNote": "已解析 2/3 个登记来源，0 条任职或方向待核。 已逐条核对 数理科学研究科 Faculty Members、Kavli IPMU · Faculty Members。 已收录 25 位学者，个人主页 7、CV 7、指标 0。",
+      "coverageNote": "已解析 2/7 个登记来源，1 条任职或方向待核。 已逐条核对 数理科学研究科 Faculty Members、Kavli IPMU · Faculty Members。 已收录 27 位学者，个人主页 8、CV 7、指标 0。 核对数理科学研究科英文名录及 Kavli IPMU，另查日文 2026 手册、现任目录、17 条特任或特别教授职务，以及数理科学连携基盘中心三个分栏。日文别名、方向和跨单位任职继续逐项对账。",
       "rosterLinks": [
         [
           "数理科学研究科 Faculty Members",
           "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
+        ],
+        [
+          "数理科学连携基盘中心 · 组织任职",
+          "https://www.ms.u-tokyo.ac.jp/icms/members.html"
         ],
         [
           "Kavli IPMU Scientific Members",
@@ -688,6 +692,18 @@
         [
           "Kavli IPMU · Faculty Members",
           "https://db.ipmu.jp/member/memberen.html"
+        ],
+        [
+          "数理科学研究科 · 日文教员五十音顺",
+          "https://www.ms.u-tokyo.ac.jp/teacher/ichiran_gojyuon.html"
+        ],
+        [
+          "数理科学研究科 · 2026 官方手册",
+          "https://www.ms.u-tokyo.ac.jp/Suri_Pamphlet2026.pdf"
+        ],
+        [
+          "数理科学研究科 · 特任与特别教授",
+          "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html"
         ]
       ],
       "checkedAt": "2026-11-23"
@@ -975,7 +991,7 @@
     {
       "id": "northwestern",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，20 条任职或方向待核。 已收录 7 位学者，个人主页 6、CV 4、指标 1。",
+      "coverageNote": "已解析 1/1 个登记来源，20 条任职或方向待核。 已收录 8 位学者，个人主页 7、CV 5、指标 1。",
       "rosterLinks": [
         [
           "数学系 Core Faculty",
@@ -1347,7 +1363,7 @@
     {
       "id": "ucl",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，9 条任职或方向待核。 已收录 2 位学者，个人主页 1、CV 1、指标 0。",
+      "coverageNote": "已解析 2/7 个登记来源，0 条任职或方向待核。 已收录 9 位学者，个人主页 7、CV 3、指标 0。 修复学术教师名单中链接姓名被跳过的问题，核录 84 位，交叉查院系几何／拓扑、数论及 LSGNT。荣誉／荣休名册 46 张；补核几何组博士后、教学岗位和转任记录。荣誉或荣休精确职级和其他联聘仍需分人补证。",
       "rosterLinks": [
         [
           "数学系 Academic and Lecturing Staff",
@@ -1356,9 +1372,29 @@
         [
           "UCL Geometry and Topology",
           "https://www.homepages.ucl.ac.uk/~ucahoan/geometry.html"
+        ],
+        [
+          "Mathematics · Geometry and Topology",
+          "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology"
+        ],
+        [
+          "Mathematics · Number Theory",
+          "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/number-theory"
+        ],
+        [
+          "Mathematics · Honorary and Emeritus Staff",
+          "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff"
+        ],
+        [
+          "London School of Geometry and Number Theory · Staff",
+          "https://lsgnt-cdt.ucl.ac.uk/staff/"
+        ],
+        [
+          "Mathematics · Research Associates and Fellows",
+          "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/research-associates-and-fellows"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "barcelona",
@@ -1895,7 +1931,7 @@
     {
       "id": "sapienza",
       "coverage": "sample",
-      "coverageNote": "已解析 2/4 个登记来源，6 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 1、指标 0。 已查数学系及其微分几何方向、校级现任科研个人档案和个人发表页。几何组全员与联合单位仍待核。",
+      "coverageNote": "已解析 2/4 个登记来源，5 条任职或方向待核。 已收录 3 位学者，个人主页 3、CV 2、指标 0。 已查数学系及其微分几何方向、校级现任科研个人档案和个人发表页。几何组全员与联合单位仍待核。",
       "rosterLinks": [
         [
           "Dipartimento di Matematica · Research group in differential geometry",
@@ -2295,7 +2331,7 @@
     {
       "id": "snu",
       "coverage": "sample",
-      "coverageNote": "已解析 5/15 个登记来源，0 条任职或方向待核。 已收录 10 位学者，个人主页 9、CV 2、指标 6。 韩文数理科学部全段核录教师及协议联聘 37 条、荣休 22 条、其他任职 23 条。博士后韩英分栏分别 44 条和 32 条，按已核别名合并。补查 QSMS、BK21、RIM 与 DASOM。两语博士后名单更新不同，交叉单位任职仍按公开证据逐项核实。",
+      "coverageNote": "已解析 5/15 个登记来源，0 条任职或方向待核。 已收录 10 位学者，个人主页 9、CV 2、指标 7。 韩文数理科学部全段核录教师及协议联聘 37 条、荣休 22 条、其他任职 23 条。博士后韩英分栏分别 44 条和 32 条，按已核别名合并。补查 QSMS、BK21、RIM 与 DASOM。两语博士后名单更新不同，交叉单位任职仍按公开证据逐项核实。",
       "rosterLinks": [
         [
           "수리과학부 · 联聘、特聘、访问、合同与授课",
@@ -2559,7 +2595,7 @@
     {
       "id": "monash",
       "coverage": "sample",
-      "coverageNote": "已解析 8/17 个登记来源，1 条任职或方向待核。 已收录 8 位学者，个人主页 3、CV 2、指标 0。 已核录 Clayton 数学学院按职级分栏的 75 张卡片、兼职及联属的 13 位，并对照纯数学、拓扑、相对论组和科研门户。已打开马来西亚科学与信息技术学院官方目录和课程信息，校区跨单位人员仍需逐项复核。",
+      "coverageNote": "已解析 8/17 个登记来源，1 条任职或方向待核。 已收录 8 位学者，个人主页 3、CV 2、指标 1。 已核录 Clayton 数学学院按职级分栏的 75 张卡片、兼职及联属的 13 位，并对照纯数学、拓扑、相对论组和科研门户。已打开马来西亚科学与信息技术学院官方目录和课程信息，校区跨单位人员仍需逐项复核。",
       "rosterLinks": [
         [
           "School of Mathematics · Adjuncts, Affiliates and Emeritus",
@@ -2659,7 +2695,7 @@
     {
       "id": "qmul",
       "coverage": "verified",
-      "coverageNote": "已解析 10/26 个登记来源，0 条任职或方向待核。 已收录 14 位学者，个人主页 13、CV 9、指标 9。 核读数学学院学术 72、荣休 28、科研 12 张卡片。对照几何／分析／引力、组合／代数／数论、概率／统计、复杂系统和数学教育中心。引力波跨院网络核录 24 条非学生任职，另查跨院理论物理和计算机中心。校方旧博士后卡、中心报道和 2026 秋季活动以现任来源交叉核对。 另以数学学院 People 总页的 128 个非学生链接与分栏 112 处比较，核对新增行政、学生、旧档和重复。并查海外联合课程学科和巴黎教学名录，按本校实际学术任职归属。",
+      "coverageNote": "已解析 10/26 个登记来源，0 条任职或方向待核。 已收录 14 位学者，个人主页 13、CV 9、指标 10。 核读数学学院学术 72、荣休 28、科研 12 张卡片。对照几何／分析／引力、组合／代数／数论、概率／统计、复杂系统和数学教育中心。引力波跨院网络核录 24 条非学生任职，另查跨院理论物理和计算机中心。校方旧博士后卡、中心报道和 2026 秋季活动以现任来源交叉核对。 另以数学学院 People 总页的 128 个非学生链接与分栏 112 处比较，核对新增行政、学生、旧档和重复。并查海外联合课程学科和巴黎教学名录，按本校实际学术任职归属。",
       "rosterLinks": [
         [
           "Affiliates: Centre for Combinatorics, Algebra and Number Theory",
@@ -2931,7 +2967,7 @@
     {
       "id": "bristol",
       "coverage": "sample",
-      "coverageNote": "已解析 1/5 个登记来源，11 条任职或方向待核。 已收录 2 位学者，个人主页 0、CV 0、指标 1。 学术名册站点显示维护页。已从数学学院 Analysis and Geometry 与 Number Theory 研究页提取部分人员，并对照任职与成果门户。现任全名单及联合单位待核。",
+      "coverageNote": "已解析 1/5 个登记来源，11 条任职或方向待核。 已收录 2 位学者，个人主页 1、CV 0、指标 1。 学术名册站点显示维护页。已从数学学院 Analysis and Geometry 与 Number Theory 研究页提取部分人员，并对照任职与成果门户。现任全名单及联合单位待核。",
       "rosterLinks": [
         [
           "Academic Staff",
@@ -7525,18 +7561,23 @@
       "tags": [
         "Arithmetic geometry of elliptic and hyperelliptic curves"
       ],
-      "homepage": null,
+      "homepage": "https://people.maths.bris.ac.uk/~matyd/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "https://www.bristol.ac.uk/people/person/Tim-Dokchitser-5d9d7ca2-3872-4c3f-aa26-faaecf50370f/",
+      "publicationsUrl": "https://people.maths.bris.ac.uk/~matyd/",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Quotients of hyperelliptic curves and étale cohomology",
+          "url": "https://doi.org/10.48550/arXiv.1510.08880"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Arithmetic geometry of elliptic and hyperelliptic curves",
@@ -11888,10 +11929,10 @@
         {
           "schoolId": "geneva",
           "department": "数学系",
-          "title": "Associate Professor",
-          "url": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/dario-beraldo",
+          "title": "Associate Professor of Mathematics",
+          "url": "https://www.unige.ch/math/en/section/enseignants-et-chercheurs-2/dario-beraldo",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -11899,31 +11940,36 @@
       ],
       "tags": [
         "Arithmetic geometry and geometric representation theory",
-        "Geometric representation theory and arithmetic geometry"
+        "Algebraic geometry, arithmetic geometry and geometric Langlands"
       ],
       "homepage": null,
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "publicationsUrl": "https://discovery.ucl.ac.uk/view/people/DBERA62.html",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "metrics": [],
       "identityUrl": "https://openalex.org/A5089977377",
-      "papers": [],
+      "papers": [
+        {
+          "title": "Non-commutative nature of ℓ-adic vanishing cycles",
+          "url": "https://doi.org/10.1515/crelle-2024-0099"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Arithmetic geometry and geometric representation theory",
           "url": "https://www.unige.ch/math/recherche/groupes-de-recherche"
         },
         {
-          "text": "Geometric representation theory and arithmetic geometry",
-          "url": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/dario-beraldo"
+          "text": "Algebraic geometry, arithmetic geometry and geometric Langlands",
+          "url": "https://www.unige.ch/math/en/section/enseignants-et-chercheurs-2/dario-beraldo"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -16635,8 +16681,24 @@
         }
       ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5050065800",
+          "orcid": "https://orcid.org/0000-0002-9009-0403",
+          "url": "https://openalex.org/authors/A5050065800",
+          "authorApiUrl": "https://api.openalex.org/authors/A5050065800",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5050065800,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 27,
+          "works": 82,
+          "citations": 3566,
+          "hIndex": 28,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [
         {
@@ -16648,6 +16710,10 @@
         {
           "text": "Algebraic geometry, birational geometry, minimal models, Fano varieties and mirror symmetry",
           "url": "https://www.imperial.ac.uk/geometry/members/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://profiles.imperial.ac.uk/a.corti"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -16742,14 +16808,45 @@
       "publicationsUrl": "https://profiles.imperial.ac.uk/s.donaldson/publications",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5028118630",
+          "orcid": "https://orcid.org/0000-0003-4772-1166",
+          "url": "https://openalex.org/authors/A5028118630",
+          "authorApiUrl": "https://api.openalex.org/authors/A5028118630",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5028118630,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 76,
+          "works": 234,
+          "citations": 18837,
+          "hIndex": 53,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Deformations Of Multivalued Harmonic Functions",
+          "year": 2021,
+          "url": "https://doi.org/10.1093/qmath/haab018"
+        },
+        {
+          "title": "Kähler-Einstein metrics on Fano manifolds. I: Approximation of metrics with cone singularities",
+          "year": 2014,
+          "url": "https://doi.org/10.1090/S0894-0347-2014-00799-2"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Differential geometry, complex geometry, symplectic geometry, Kähler metrics and algebraic geometry",
           "url": "https://www.imperial.ac.uk/geometry/members/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://profiles.imperial.ac.uk/s.donaldson/publications"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -22128,9 +22225,9 @@
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "Monash 数学任职和 Stein 几何论文可确认；OpenAlex 候选同时混入组合数学和不同署名结果，未能证实为一个人。",
       "metrics": [],
-      "identityUrl": null,
+      "identityUrl": "https://openalex.org/authors/A5045172769",
       "papers": [
         {
           "title": "Correlators and Descendants of Subcritical Stein Manifolds",
@@ -22309,8 +22406,24 @@
         }
       ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5007227171",
+          "orcid": "https://orcid.org/0000-0003-3457-9578",
+          "url": "https://openalex.org/authors/A5007227171",
+          "authorApiUrl": "https://api.openalex.org/authors/A5007227171",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5007227171,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 55,
+          "works": 76,
+          "citations": 1211,
+          "hIndex": 21,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [
         {
@@ -22326,6 +22439,10 @@
         {
           "text": "Differential geometry, Ricci flow, geometric PDE and mathematical general relativity",
           "url": "https://www.monash.edu/science/schools/school-of-mathematics/Our-People/staff/todd-oliynyk"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://research.monash.edu/en/persons/todd-oliynyk/"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -23101,6 +23218,51 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "eric-zaslow",
+      "name": "Eric Zaslow",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "northwestern",
+          "department": "数学系",
+          "title": "Henry Sanborn Noyes Chair in Mathematics",
+          "url": "https://www.math.northwestern.edu/people/faculty/eric-zaslow.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Mathematical Physics"
+      ],
+      "homepage": "https://sites.math.northwestern.edu/~zaslow/",
+      "homepageStatus": null,
+      "cvUrl": "https://sites.math.northwestern.edu/~zaslow/cv16.pdf",
+      "cvType": "公开学术 CV（旧版）",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Mathematical Physics",
+          "url": "https://www.math.northwestern.edu/people/faculty/"
+        },
+        {
+          "text": "Algebraic geometry, symplectic geometry, geometric mirror symmetry, sheaf theory and cluster varieties",
+          "url": "https://www.math.northwestern.edu/people/faculty/eric-zaslow.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -30536,8 +30698,24 @@
       "publicationsUrl": "https://fardila.com/writing.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5083845808",
+          "orcid": "https://orcid.org/0000-0002-6744-1826",
+          "url": "https://openalex.org/authors/A5083845808",
+          "authorApiUrl": "https://api.openalex.org/authors/A5083845808",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5083845808,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 7,
+          "works": 15,
+          "citations": 99,
+          "hIndex": 7,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [
         {
@@ -30557,6 +30735,10 @@
         {
           "text": "In matroid theory, combinatorial Hodge theory, and intersection theory, Federico and his co-authors have contributed foundational constructions and results, and proved decades' old conjectures. In polyhedral geometry, they have constructed important families of polytopes, understood various ways of measuring them, and used them to derive algebraic, geometric, and physical consequences.",
           "url": "https://www.qmul.ac.uk/maths/profiles/federico-ardila.html"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://orcid.org/0000-0002-6744-1826"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -31842,6 +32024,50 @@
       "recordStatus": "directory"
     },
     {
+      "id": "lorenzo-foscolo",
+      "name": "Lorenzo Foscolo",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "sapienza",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://research.uniroma1.it/researcher/d37abf816a3482f58d0b4001c7f7caa94a9f3ddcd620d8e8a53b72c0",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/uniroma1.it/lfoscolo",
+      "homepageStatus": null,
+      "cvUrl": "https://www.homepages.ucl.ac.uk/~ucahlfo/CV.pdf",
+      "cvType": "公开学术 CV（迁任前版本）",
+      "cvStatus": null,
+      "publicationsUrl": "https://profiles.ucl.ac.uk/72813-lorenzo-foscolo/publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Calorons and Constituent Monopoles",
+          "url": "https://doi.org/10.1007/s00220-023-04827-1"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, special holonomy, geometric analysis and Calabi–Yau metrics",
+          "url": "https://research.uniroma1.it/researcher/d37abf816a3482f58d0b4001c7f7caa94a9f3ddcd620d8e8a53b72c0"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "simone-diverio",
       "name": "Simone Diverio",
       "aliases": [],
@@ -33001,10 +33227,10 @@
           "url": "https://openalex.org/authors/A5001257585",
           "authorApiUrl": "https://api.openalex.org/authors/A5001257585",
           "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5001257585,type:article&per_page=1&select=id",
-          "checkedAt": "2026-11-24",
+          "checkedAt": "2026-11-25",
           "articles": 12,
           "works": 16,
-          "citations": 194,
+          "citations": 196,
           "hIndex": 9,
           "articleScope": "OpenAlex type:article",
           "citationScope": "OpenAlex 作者档案累计引用"
@@ -33034,7 +33260,7 @@
         },
         {
           "text": "个人研究或论文来源",
-          "url": "https://sites.google.com/view/kimdano"
+          "url": "https://snu.elsevierpure.com/en/persons/dano-kim/"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -33514,8 +33740,24 @@
         }
       ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5085729680",
+          "orcid": "https://orcid.org/0000-0002-1067-3132",
+          "url": "https://openalex.org/authors/A5085729680",
+          "authorApiUrl": "https://api.openalex.org/authors/A5085729680",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5085729680,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 9,
+          "works": 16,
+          "citations": 115,
+          "hIndex": 6,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [
         {
@@ -33531,6 +33773,10 @@
         {
           "text": "Arithmetic geometry, Diophantine analysis, dynamics and topology",
           "url": "https://jhpwhang.github.io/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://snu.elsevierpure.com/en/persons/junho-peter-whang/"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -37633,6 +37879,45 @@
       "recordStatus": "directory"
     },
     {
+      "id": "yoshikazu-giga",
+      "name": "Yoshikazu Giga",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "tokyo",
+          "department": "数学系",
+          "title": "Project Professor",
+          "url": "https://www.u-tokyo.ac.jp/focus/en/people/people000367.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ms.u-tokyo.ac.jp/~ygiga/introduction.html",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, curvature flows and nonlinear geometric PDE",
+          "url": "https://www.u-tokyo.ac.jp/focus/en/people/people000367.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "yoshinori-gongyo",
       "name": "Yoshinori Gongyo",
       "aliases": [],
@@ -37680,6 +37965,45 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "yujiro-kawamata",
+      "name": "Yujiro Kawamata",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "tokyo",
+          "department": "数学系",
+          "title": "University Professor",
+          "url": "https://researchmap.jp/read0067873",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, birational geometry, minimal model program and derived categories",
+          "url": "https://researchmap.jp/read0067873"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -41215,6 +41539,334 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "costante-bellettini",
+      "name": "Costante Bellettini",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ucl",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://profiles.ucl.ac.uk/56995-costante-bellettini",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.homepages.ucl.ac.uk/~ucahcbe/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.homepages.ucl.ac.uk/~ucahcbe/Costante_CV.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://profiles.ucl.ac.uk/56995-costante-bellettini/publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Extensions of Schoen–Simon–Yau and Schoen–Simon theorems via iteration à la De Giorgi",
+          "url": "https://doi.org/10.1007/s00222-025-01317-0"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Geometric measure theory, geometric analysis, calculus of variations, elliptic PDEs",
+          "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff"
+        },
+        {
+          "text": "Differential geometry, geometric analysis, geometric measure theory, calculus of variations and calibrated geometry",
+          "url": "https://profiles.ucl.ac.uk/56995-costante-bellettini"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "dmitri-vassiliev",
+      "name": "Dmitri Vassiliev",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ucl",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.homepages.ucl.ac.uk/~ucahdva/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.homepages.ucl.ac.uk/~ucahdva/cv/cv.html",
+      "cvType": "公开 CV（简版）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.homepages.ucl.ac.uk/~ucahdva/publicat/publicat.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Spectral theory, microlocal analysis, geometric analysis, general relativity",
+          "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff"
+        },
+        {
+          "text": "Spectral geometry, geometric analysis, microlocal analysis and mathematical relativity",
+          "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "edward-segal",
+      "name": "Edward Segal",
+      "aliases": [
+        "Ed Segal"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "ucl",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.homepages.ucl.ac.uk/~ucaheps/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.homepages.ucl.ac.uk/~ucaheps/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Interactions between geometry, algebra and topological quantum field theory",
+          "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff"
+        },
+        {
+          "text": "Algebraic geometry, mirror symmetry, derived categories, and matrix factorizations",
+          "url": "https://www.homepages.ucl.ac.uk/~ucaheps/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "luis-garcia-martinez",
+      "name": "Luis Garcia Martinez",
+      "aliases": [
+        "Luis Emilio García Martínez",
+        "Luis García"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "ucl",
+          "department": "数学系",
+          "title": "Associate Professor of Mathematics",
+          "url": "https://profiles.ucl.ac.uk/72812-luis-garcia-martinez",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmetic geometry and automorphic forms"
+      ],
+      "homepage": "https://www.homepages.ucl.ac.uk/~ucahljg/index.htm",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic geometry and automorphic forms",
+          "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff"
+        },
+        {
+          "text": "Arithmetic geometry, Shimura varieties, automorphic forms and variations of Hodge structure",
+          "url": "https://lsgnt-cdt.ucl.ac.uk/staff/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "mikhail-karpukhin",
+      "name": "Mikhail Karpukhin",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ucl",
+          "department": "数学系",
+          "title": "Associate Professor in Pure Mathematics",
+          "url": "https://profiles.ucl.ac.uk/91365-mikhail-karpukhin",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometric analysis, minimal surfaces, eigenvalue optimisation"
+      ],
+      "homepage": "https://sites.google.com/view/mkarpukh/home",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Existence of harmonic maps and eigenvalue optimization in higher dimensions",
+          "url": "https://doi.org/10.1007/s00222-024-01247-3"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Geometric analysis, minimal surfaces, eigenvalue optimisation",
+          "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff"
+        },
+        {
+          "text": "Differential geometry, geometric analysis, harmonic maps, minimal surfaces and eigenvalue optimization",
+          "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "selim-ghazouani",
+      "name": "Selim Ghazouani",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ucl",
+          "department": "数学系",
+          "title": "Faculty · Department of Mathematics",
+          "url": "https://profiles.ucl.ac.uk/88465-selim-ghazouani",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [
+        "Dynamical systems and Geometry"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Dynamical systems and Geometry",
+          "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff"
+        },
+        {
+          "text": "Complex geometry and complex hyperbolic structures, differential geometry, moduli of geometric structures on surfaces and dynamical systems",
+          "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "vladimir-dokchitser",
+      "name": "Vladimir Dokchitser",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ucl",
+          "department": "数学系",
+          "title": "Professor of Pure Mathematics",
+          "url": "https://profiles.ucl.ac.uk/74794-vladimir-dokchitser",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.homepages.ucl.ac.uk/~ucahvdo/webpage.html",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://profiles.ucl.ac.uk/74794-vladimir-dokchitser/publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Quotients of hyperelliptic curves and étale cohomology",
+          "url": "https://doi.org/10.48550/arXiv.1510.08880"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Number theory, arithmetic geometry, elliptic curves, L-functions",
+          "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff"
+        },
+        {
+          "text": "Arithmetic algebraic geometry, elliptic and hyperelliptic curves, Galois representations and L-functions",
+          "url": "https://profiles.ucl.ac.uk/74794-vladimir-dokchitser"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {

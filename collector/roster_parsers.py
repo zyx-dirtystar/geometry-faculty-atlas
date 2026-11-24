@@ -1021,9 +1021,16 @@ def parse_ucl(document, base):
     for row in document.xpath("//table[.//strong[.='Name']]//tr[td[3] and not(.//strong[.='Name'])]"):
         name_cell = row.xpath("./td[1]")[0]
         name = next((clean(t) for t in name_cell.xpath("./text()") if clean(t)), "")
-        title = "Professor" if re.match(r"^Prof(?:essor)?\.? ",name) else "Academic and Lecturing Staff"
+        name_link = next(iter(name_cell.xpath("./a[following-sibling::br][1]")), None) if not name else None
+        if name_link is not None:
+            name = contents(name_link)
+        rank = re.match(r"^((?:Associate |Assistant )?)Prof(?:essor)?\.?\s+", name)
+        title = rank[1] + "Professor" if rank else "Academic and Lecturing Staff"
+        name = name[rank.end():] if rank else name
         profile = next((url for label,url in urls(name_cell,base) if label.casefold()=="ucl profile"),"")
         homepage = next((url for label,url in urls(row,base) if label.casefold() in {"website","personal website","homepage"}),"")
+        if not homepage and name_link is not None:
+            homepage = next((url for label, url in urls(name_cell, base) if label == contents(name_link)), "")
         if name:
             records.append(Entry(untitled(name),title,text_at(row,"./td[2]"),profile,homepage))
     return records
