@@ -75,6 +75,7 @@ def parse_structured_directory(document, base, layout):
         name = value(card, "name")
         if not name:
             continue
+        name = re.sub(r"^(?:Emeritus Professor\s+|Mrs?\.?\s+|Mx\.?\s+|Doctor\s+)", "", name, flags=re.I) if layout.get("strip_english_honorific") else name
         name = re.sub(r"^(?:(?:(?:Associate|Assistant) Professor|A/Prof|Prof|Professor|Dra?|Professeur)\.?\s+)+", "", name, flags=re.I).strip(" ,")
         if layout.get("split_han_alias"):
             name = re.sub(r"\s+[\u3400-\u9fff]+$", "", name)
@@ -248,9 +249,9 @@ def split_role(title, region=None):
         return "other"
     if re.search(r"\bprofesor(?:a)? (?:asociad[oa]|asistent[ea]|titular)", title, re.I):
         return "faculty" if region == "智利" or "titular" in title.casefold() else "associated"
-    if region in {"英国", "澳大利亚", "新西兰"} and re.match(r"^(?:senior )?lecturer\b", title, re.I):
+    if region in {"英国", "澳大利亚", "新西兰", "马来西亚"} and re.match(r"^(?:senior )?lecturer\b", title, re.I):
         return "other" if re.search(r"teaching|education|placement", title, re.I) else "faculty"
-    if re.search(r"post.?doc|postdoktor|instructor|lecturer|student|\bph\.?d\.? candidate\b|professional services staff|^former faculty$|^lecteur|^dottorand|^doctorand|^講師$|博士后", title, re.I):
+    if re.search(r"post.?doc|postdoktor|instructor|lecturer|student|\bph\.?d\.? candidate\b|professional services staff|^former faculty$|^lecteur|\b(?:dottorand[oa]|doctorand[oa]?|doctorante?|doktorand(?:in)?)\b|^講師$|博士后", title, re.I):
         return "other"
     if re.search(r"\bprofessors?\b|\bprofesor de matemáticas\b|\bacademic faculty\b|\btenure-track researcher\b|\breader\b|universitetslektor|prof\. dr\.|univ\.-?prof\.|assoz\. prof\.|professeur|professor(?:e|essa) (?:ordinari[oa]|associat[oa])|\bprofesor[a]? ayudante doctor[a]?\b|catedr[aá]tic[ao]|titular de universidad|contratad[oa] doctor|ma[iî]tr(?:e|esse) de conf[ée]rences|研究员|教授|^助教$", title, re.I):
         return "faculty"
@@ -1562,6 +1563,18 @@ def parse_heidelberg_algebra(document, base):
     return rows
 
 
+def parse_ufrj_department(document, base):
+    rows = []
+    for item in document.xpath("//div[@class='entry-content']/ul/li"):
+        name, _, details = contents(item).partition(" – ")
+        if not name:
+            continue
+        _, _, research = details.partition("Área de pesquisa:")
+        target = next(iter(item.xpath("./a[1]/@href")), "")
+        rows.append(Entry(name, "", research.strip(), "", profile_link(base, target) if target else ""))
+    return rows
+
+
 def parse_ufrj_graduate(document, base):
     rows = []
     for card in document.xpath("//div[contains(@class,'panel-group')]//div[div[@class='panel-heading'] and .//div[@class='panel-body']]"):
@@ -1620,7 +1633,8 @@ PARSERS = {
     "waseda_japanese":parse_waseda_japanese, "usp_staff":parse_usp_staff,
     "usp_geometry":parse_usp_geometry, "durham_geometry":parse_durham_geometry,
     "sustech_graduate":parse_sustech_graduate,
-    "kit_geometry":parse_kit_geometry, "heidelberg_algebra":parse_heidelberg_algebra, "ufrj_graduate":parse_ufrj_graduate,
+    "kit_geometry":parse_kit_geometry, "heidelberg_algebra":parse_heidelberg_algebra,
+    "ufrj_department":parse_ufrj_department, "ufrj_graduate":parse_ufrj_graduate,
 }
 
 
@@ -1629,7 +1643,19 @@ def profile_fields(document, base):
     main = (document.xpath("//main") or document.xpath("//body") or [document])[0]
     research = []
     official_title = ""
+    official_name = ""
     target = urlparse(base)
+    if target.hostname == "math.nyu.edu" and re.fullmatch(r"/people/profiles/[^/]+\.html", target.path):
+        headings = main.xpath(".//h1[normalize-space(.) != 'Faculty Profile']")
+        titles = main.xpath(f".//div[{class_token('title')}]")
+        if len(headings) == 1 and len(titles) == 1:
+            official_name = contents(headings[0])
+            official_title = contents(titles[0])
+    if target.hostname == "math.qau.edu.pk" and re.fullmatch(r"/faculty/[^/]+/?", target.path):
+        official_name = re.sub(r"^(?:Prof\.?\s+)?Dr\.?\s+", "", text_at(main, "(.//h1)[1]"), flags=re.I)
+        titles = main.xpath(".//tr[td[1][normalize-space(.)='Designation:']]/td[2]")
+        if len(titles) == 1:
+            official_title = contents(titles[0])
     if target.hostname == "mat.uab.cat" and target.path == "/departament/uab/pop_ex_nou.php":
         heading = text_at(main, "(.//h2)[1]")
         match = re.match(r"((?:Full |Associate |Assistant |Emeritus )?Professor|Lecturer)\b", heading, re.I)
@@ -1718,6 +1744,8 @@ def profile_fields(document, base):
     fields = {"research":" / ".join(dict.fromkeys(research)), "homepage":homepage, "cv":cv, "publications":bibliography}
     if official_title:
         fields["official_title"] = official_title
+        if official_name:
+            fields["official_name"] = official_name
     if len(orcids) == 1:
         fields["orcid"] = next(iter(orcids))
     person_path = urlparse(base).path.rstrip("/")

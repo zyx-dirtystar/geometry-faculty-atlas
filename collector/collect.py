@@ -269,13 +269,19 @@ def ingest_rosters(db, seed):
 
 
 def add_profile_data(db):
-    for row in db.execute("SELECT url, cache_id FROM profiles").fetchall():
+    for row in db.execute("SELECT url, cache_id, record FROM profiles").fetchall():
         meta, document = read_snapshot(row["cache_id"])
         if meta is None:
             continue
         if document is None:
             with db:
-                db.execute("UPDATE profiles SET status='source_error', checked_at=? WHERE url=?", (seen_date(meta), row["url"]))
+                if row["record"] is None:
+                    db.execute("UPDATE profiles SET status='source_error', checked_at=? WHERE url=?",
+                               (seen_date(meta), row["url"]))
+                else:
+                    stored = json.loads(row["record"])
+                    db.execute("UPDATE profiles SET status='parsed', checked_at=? WHERE url=?",
+                               (stored.get("checked_at"), row["url"]))
             continue
         details = profile_fields(document, meta["final_url"])
         details["checked_at"] = seen_date(meta)
@@ -308,7 +314,9 @@ def population(db):
         review = reviewed.get((group["school"],name_key(group["name"])), {})
         group["profile"] = review.get("affiliation") or next((row["profile"] for row in evidence if row["profile"]), "")
         directory_profile = profiles.get(group["profile"], {})
-        official_title = directory_profile.get("official_title", "") if group["school"] == "uab" else ""
+        official_name = directory_profile.get("official_name", "")
+        profile_matches = official_name and name_key(official_name) == name_key(group["name"])
+        official_title = directory_profile.get("official_title", "") if profile_matches or group["school"] == "uab" else ""
         group["title"] = review.get("title") or (active["title"] if active else official_title)
         group["unit"] = review.get("unit") or (active.get("unit") if active else None)
         group["role"] = review.get("role") or split_role(group["title"], regions.get(group["school"]))

@@ -4672,6 +4672,26 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "southampton-cgta-members",
+      "school": "southampton",
+      "url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications/people",
+      "label": "Centre for Geometry, Topology, and Applications · People · 1",
+      "status": "parsed",
+      "count": 10,
+      "checked_at": "2026-11-24",
+      "note": ""
+    },
+    {
+      "id": "southampton-cgta-members-2",
+      "school": "southampton",
+      "url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications/people?page=1",
+      "label": "Centre for Geometry, Topology, and Applications · People · 2",
+      "status": "parsed",
+      "count": 5,
+      "checked_at": "2026-11-24",
+      "note": ""
+    },
+    {
       "id": "southampton-full-audit-source",
       "school": "southampton",
       "url": "https://www.southampton.ac.uk/maths/research/groups/algebraic-geometry.page",
@@ -4690,6 +4710,26 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "southampton-pure-maths",
+      "school": "southampton",
+      "url": "https://www.southampton.ac.uk/research/groups/pure-mathematics",
+      "label": "Pure Mathematics · People · 1",
+      "status": "parsed",
+      "count": 10,
+      "checked_at": "2026-11-24",
+      "note": ""
+    },
+    {
+      "id": "southampton-pure-maths-2",
+      "school": "southampton",
+      "url": "https://www.southampton.ac.uk/research/groups/pure-mathematics?page=1",
+      "label": "Pure Mathematics · People · 2",
+      "status": "parsed",
+      "count": 7,
+      "checked_at": "2026-11-24",
+      "note": ""
     },
     {
       "id": "spbu-27-higher",
@@ -5842,6 +5882,16 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "ufrj-dm-staff",
+      "school": "ufrj",
+      "url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+      "label": "Departamento de Matemática · Corpo Docente",
+      "status": "parsed",
+      "count": 63,
+      "checked_at": "2026-11-24",
+      "note": ""
+    },
+    {
       "id": "ufrj-full-audit-source",
       "school": "ufrj",
       "url": "https://sites.google.com/im.ufrj.br/algebra-ufrj/details",
@@ -5909,6 +5959,16 @@
       "status": "parsed",
       "count": 65,
       "checked_at": "2026-11-23",
+      "note": ""
+    },
+    {
+      "id": "ukm-math-programme",
+      "school": "ukm",
+      "url": "https://www.ukm.my/jsmt/staff-department/mathematics-programme/",
+      "label": "Department of Mathematical Sciences · Mathematics Programme",
+      "status": "parsed",
+      "count": 15,
+      "checked_at": "2026-11-24",
       "note": ""
     },
     {
@@ -170677,6 +170737,246 @@
       }
     },
     {
+      "source": "southampton-cgta-members",
+      "person_key": "armandomartino",
+      "school": "southampton",
+      "record": {
+        "name": "Armando Martino",
+        "title": "Professor",
+        "research": "Geometric Group Theory Actions on Trees and Bass-Serre Theory",
+        "profile": "https://www.southampton.ac.uk/people/5x62td/professor-armando-martino",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications/people",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-cgta-members",
+      "person_key": "ashotminasyan",
+      "school": "southampton",
+      "record": {
+        "name": "Ashot Minasyan",
+        "title": "Professor",
+        "research": "Word Hyperbolic Relatively Hyperbolic and Acylindrically Hyperbolic Groups",
+        "profile": "https://www.southampton.ac.uk/people/5x5p69/professor-ashot-minasyan",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications/people",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-cgta-members",
+      "person_key": "bernhardkoeck",
+      "school": "southampton",
+      "record": {
+        "name": "Bernhard Koeck",
+        "title": "Reader",
+        "research": "Riemann-Roch theory (Operations on) Higher Algebraic K-Theory",
+        "profile": "https://www.southampton.ac.uk/people/5wz7nt/doctor-bernhard-koeck",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications/people",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-cgta-members",
+      "person_key": "danielkasprowski",
+      "school": "southampton",
+      "record": {
+        "name": "Daniel Kasprowski",
+        "title": "Associate Professor",
+        "research": "Topology of 4-manifolds Geometric topology Coarse geometry",
+        "profile": "https://www.southampton.ac.uk/people/62cnqg/doctor-daniel-kasprowski",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications/people",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-cgta-members",
+      "person_key": "grahamniblo",
+      "school": "southampton",
+      "record": {
+        "name": "Graham Niblo",
+        "title": "Professor",
+        "research": "Geometric group theory Non-commutative geometry",
+        "profile": "https://www.southampton.ac.uk/people/5wxzdr/professor-graham-niblo",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications/people",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-cgta-members",
+      "person_key": "ianleary",
+      "school": "southampton",
+      "record": {
+        "name": "Ian Leary",
+        "title": "Professor of Pure Mathematics",
+        "research": "Geometric Group Theory Cohomology of Groups",
+        "profile": "https://www.southampton.ac.uk/people/5x7v5y/professor-ian-leary",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications/people",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-cgta-members",
+      "person_key": "jacekbrodzki",
+      "school": "southampton",
+      "record": {
+        "name": "Jacek Brodzki",
+        "title": "Professor of Pure Mathematics",
+        "research": "Topological data analysis",
+        "profile": "https://www.southampton.ac.uk/people/5wyq7d/professor-jacek-brodzki",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications/people",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-cgta-members",
+      "person_key": "janspakula",
+      "school": "southampton",
+      "record": {
+        "name": "Jan Spakula",
+        "title": "Associate Professor",
+        "research": "C*-algebras, noncommutative geometry geometric and analytic group theory",
+        "profile": "https://www.southampton.ac.uk/people/5xbccv/doctor-jan-spakula",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications/people",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-cgta-members",
+      "person_key": "jelenagrbic",
+      "school": "southampton",
+      "record": {
+        "name": "Jelena Grbic",
+        "title": "Professor of Mathematics",
+        "research": "Topology Algebra Combinatorics Geometry",
+        "profile": "https://www.southampton.ac.uk/people/5x9nk7/professor-jelena-grbic",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications/people",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-cgta-members",
+      "person_key": "jimanderson",
+      "school": "southampton",
+      "record": {
+        "name": "Jim Anderson",
+        "title": "Professor of Mathematics",
+        "research": "Hyperbolic space and its isometries",
+        "profile": "https://www.southampton.ac.uk/people/5wy5k9/professor-jim-anderson",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications/people",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-cgta-members-2",
+      "person_key": "nansenpetrosyan",
+      "school": "southampton",
+      "record": {
+        "name": "Nansen Petrosyan",
+        "title": "Professor",
+        "research": "Geometric Group Theory Topology Algebra Geometry",
+        "profile": "https://www.southampton.ac.uk/people/5xbnck/professor-nansen-petrosyan",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications/people?page=1",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-cgta-members-2",
+      "person_key": "nickwright",
+      "school": "southampton",
+      "record": {
+        "name": "Nick Wright",
+        "title": "Associate Professor",
+        "research": "Coarse geometry Non-commutative geometry The Baum-Connes conjecture",
+        "profile": "https://www.southampton.ac.uk/people/5x28lv/doctor-nick-wright",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications/people?page=1",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-cgta-members-2",
+      "person_key": "peterkropholler",
+      "school": "southampton",
+      "record": {
+        "name": "Peter Kropholler",
+        "title": "",
+        "research": "Splittings of groups and group actions on trees. Ends of groups.",
+        "profile": "https://www.southampton.ac.uk/people/5x9wx2/emeritus-professor-peter-kropholler",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications/people?page=1",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-cgta-members-2",
+      "person_key": "saratrunecka",
+      "school": "southampton",
+      "record": {
+        "name": "Sara Trunecka",
+        "title": "Senior Administrator",
+        "research": "",
+        "profile": "https://www.southampton.ac.uk/people/5x8xkx/mrs-sara-trunecka",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications/people?page=1",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-cgta-members-2",
+      "person_key": "stephentheriault",
+      "school": "southampton",
+      "record": {
+        "name": "Stephen Theriault",
+        "title": "Professor of Mathematics",
+        "research": "The homotopy theory of spheres and Moore spaces.",
+        "profile": "https://www.southampton.ac.uk/people/5x9nl2/professor-stephen-theriault",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications/people?page=1",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
       "source": "southampton-full-audit-source",
       "person_key": "bernhardkoeck",
       "school": "southampton",
@@ -170706,6 +171006,278 @@
         "source_kind": "research",
         "source_url": "https://www.southampton.ac.uk/maths/research/groups/algebraic-geometry.page",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "southampton-pure-maths",
+      "person_key": "armandomartino",
+      "school": "southampton",
+      "record": {
+        "name": "Armando Martino",
+        "title": "Professor",
+        "research": "Geometric Group Theory Actions on Trees and Bass-Serre Theory",
+        "profile": "https://www.southampton.ac.uk/people/5x62td/professor-armando-martino",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.southampton.ac.uk/research/groups/pure-mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-pure-maths",
+      "person_key": "ashotminasyan",
+      "school": "southampton",
+      "record": {
+        "name": "Ashot Minasyan",
+        "title": "Professor",
+        "research": "Word Hyperbolic Relatively Hyperbolic and Acylindrically Hyperbolic Groups",
+        "profile": "https://www.southampton.ac.uk/people/5x5p69/professor-ashot-minasyan",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.southampton.ac.uk/research/groups/pure-mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-pure-maths",
+      "person_key": "bernhardkoeck",
+      "school": "southampton",
+      "record": {
+        "name": "Bernhard Koeck",
+        "title": "Reader",
+        "research": "Riemann-Roch theory (Operations on) Higher Algebraic K-Theory",
+        "profile": "https://www.southampton.ac.uk/people/5wz7nt/doctor-bernhard-koeck",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.southampton.ac.uk/research/groups/pure-mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-pure-maths",
+      "person_key": "danielkasprowski",
+      "school": "southampton",
+      "record": {
+        "name": "Daniel Kasprowski",
+        "title": "Associate Professor",
+        "research": "Topology of 4-manifolds Geometric topology Coarse geometry",
+        "profile": "https://www.southampton.ac.uk/people/62cnqg/doctor-daniel-kasprowski",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.southampton.ac.uk/research/groups/pure-mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-pure-maths",
+      "person_key": "davidgammack",
+      "school": "southampton",
+      "record": {
+        "name": "David Gammack",
+        "title": "Associate Dean (Education)",
+        "research": "",
+        "profile": "https://www.southampton.ac.uk/people/5xhksb/professor-david-gammack",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.southampton.ac.uk/research/groups/pure-mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-pure-maths",
+      "person_key": "grahamniblo",
+      "school": "southampton",
+      "record": {
+        "name": "Graham Niblo",
+        "title": "Professor",
+        "research": "Geometric group theory Non-commutative geometry",
+        "profile": "https://www.southampton.ac.uk/people/5wxzdr/professor-graham-niblo",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.southampton.ac.uk/research/groups/pure-mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-pure-maths",
+      "person_key": "ianleary",
+      "school": "southampton",
+      "record": {
+        "name": "Ian Leary",
+        "title": "Professor of Pure Mathematics",
+        "research": "Geometric Group Theory Cohomology of Groups",
+        "profile": "https://www.southampton.ac.uk/people/5x7v5y/professor-ian-leary",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.southampton.ac.uk/research/groups/pure-mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-pure-maths",
+      "person_key": "jacekbrodzki",
+      "school": "southampton",
+      "record": {
+        "name": "Jacek Brodzki",
+        "title": "Professor of Pure Mathematics",
+        "research": "Topological data analysis",
+        "profile": "https://www.southampton.ac.uk/people/5wyq7d/professor-jacek-brodzki",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.southampton.ac.uk/research/groups/pure-mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-pure-maths",
+      "person_key": "janspakula",
+      "school": "southampton",
+      "record": {
+        "name": "Jan Spakula",
+        "title": "Associate Professor",
+        "research": "C*-algebras, noncommutative geometry geometric and analytic group theory",
+        "profile": "https://www.southampton.ac.uk/people/5xbccv/doctor-jan-spakula",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.southampton.ac.uk/research/groups/pure-mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-pure-maths",
+      "person_key": "jelenagrbic",
+      "school": "southampton",
+      "record": {
+        "name": "Jelena Grbic",
+        "title": "Professor of Mathematics",
+        "research": "Topology Algebra Combinatorics Geometry",
+        "profile": "https://www.southampton.ac.uk/people/5x9nk7/professor-jelena-grbic",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.southampton.ac.uk/research/groups/pure-mathematics",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-pure-maths-2",
+      "person_key": "jimanderson",
+      "school": "southampton",
+      "record": {
+        "name": "Jim Anderson",
+        "title": "Professor of Mathematics",
+        "research": "Hyperbolic space and its isometries",
+        "profile": "https://www.southampton.ac.uk/people/5wy5k9/professor-jim-anderson",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.southampton.ac.uk/research/groups/pure-mathematics?page=1",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-pure-maths-2",
+      "person_key": "lukewaite",
+      "school": "southampton",
+      "record": {
+        "name": "Luke Waite",
+        "title": "",
+        "research": "Hyperbolic Geometry Fuchsian Groups",
+        "profile": "https://www.southampton.ac.uk/people/62kvk7/mx-luke-waite",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.southampton.ac.uk/research/groups/pure-mathematics?page=1",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-pure-maths-2",
+      "person_key": "nansenpetrosyan",
+      "school": "southampton",
+      "record": {
+        "name": "Nansen Petrosyan",
+        "title": "Professor",
+        "research": "Geometric Group Theory Topology Algebra Geometry",
+        "profile": "https://www.southampton.ac.uk/people/5xbnck/professor-nansen-petrosyan",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.southampton.ac.uk/research/groups/pure-mathematics?page=1",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-pure-maths-2",
+      "person_key": "nickwright",
+      "school": "southampton",
+      "record": {
+        "name": "Nick Wright",
+        "title": "Associate Professor",
+        "research": "Coarse geometry Non-commutative geometry The Baum-Connes conjecture",
+        "profile": "https://www.southampton.ac.uk/people/5x28lv/doctor-nick-wright",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.southampton.ac.uk/research/groups/pure-mathematics?page=1",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-pure-maths-2",
+      "person_key": "peterkropholler",
+      "school": "southampton",
+      "record": {
+        "name": "Peter Kropholler",
+        "title": "",
+        "research": "Splittings of groups and group actions on trees. Ends of groups.",
+        "profile": "https://www.southampton.ac.uk/people/5x9wx2/emeritus-professor-peter-kropholler",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.southampton.ac.uk/research/groups/pure-mathematics?page=1",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-pure-maths-2",
+      "person_key": "stephentheriault",
+      "school": "southampton",
+      "record": {
+        "name": "Stephen Theriault",
+        "title": "Professor of Mathematics",
+        "research": "The homotopy theory of spheres and Moore spaces.",
+        "profile": "https://www.southampton.ac.uk/people/5x9nl2/professor-stephen-theriault",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.southampton.ac.uk/research/groups/pure-mathematics?page=1",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "southampton-pure-maths-2",
+      "person_key": "vesnaperisic",
+      "school": "southampton",
+      "record": {
+        "name": "Vesna Perisic",
+        "title": "Principal Teaching Fellow",
+        "research": "Pedagogical Research Assessment and Feedback",
+        "profile": "https://www.southampton.ac.uk/people/5wxqkp/doctor-vesna-perisic",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.southampton.ac.uk/research/groups/pure-mathematics?page=1",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -210601,6 +211173,1014 @@
       }
     },
     {
+      "source": "ufrj-dm-staff",
+      "person_key": "adanjosecorchofernandez",
+      "school": "ufrj",
+      "record": {
+        "name": "Adán José Corcho Fernández",
+        "title": "",
+        "research": "Equações Diferenciais Parciais",
+        "profile": "",
+        "homepage": "https://sites.google.com/view/adan-corcho/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "ademirfernandopazoto",
+      "school": "ufrj",
+      "record": {
+        "name": "Ademir Fernando Pazoto",
+        "title": "",
+        "research": "Equações Diferenciais Parciais",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "aftabpande",
+      "school": "ufrj",
+      "record": {
+        "name": "Aftab Pande",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "agnaldodaconceicaoesquincalha",
+      "school": "ufrj",
+      "record": {
+        "name": "Agnaldo da Conceição Esquincalha",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "albetacostamafra",
+      "school": "ufrj",
+      "record": {
+        "name": "Albetã Costa Mafra",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "alejandrocabrera",
+      "school": "ufrj",
+      "record": {
+        "name": "Alejandro Cabrera",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://sites.google.com/matematica.ufrj.br/alejandro/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "alexandereduardoarbietomendoza",
+      "school": "ufrj",
+      "record": {
+        "name": "Alexander Eduardo Arbieto Mendoza",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "anatolileontiev",
+      "school": "ufrj",
+      "record": {
+        "name": "Anatoli Leontiev",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "andrewclarke",
+      "school": "ufrj",
+      "record": {
+        "name": "Andrew Clarke",
+        "title": "",
+        "research": "Geometria diferencial",
+        "profile": "",
+        "homepage": "https://arquimedes.nce.ufrj.br/dm/andrew/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "arielmolinuevo",
+      "school": "ufrj",
+      "record": {
+        "name": "Ariel Molinuevo",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://sites.google.com/view/amoli/página-principal",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "brunocesarazevedoscardua",
+      "school": "ufrj",
+      "record": {
+        "name": "Bruno Cesar Azevedo Scardua",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "carolinalemosdeoliveira",
+      "school": "ufrj",
+      "record": {
+        "name": "Carolina Lemos de Oliveira",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "carolinelimadesouza",
+      "school": "ufrj",
+      "record": {
+        "name": "Caroline Lima de Souza",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "ceciliasalgado",
+      "school": "ufrj",
+      "record": {
+        "name": "Cecília Salgado",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "eleonorapintodemoura",
+      "school": "ufrj",
+      "record": {
+        "name": "Eleonora Pinto de Moura",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "erikrojasmendoza",
+      "school": "ufrj",
+      "record": {
+        "name": "Erik Rojas Mendoza",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "erwintopp",
+      "school": "ufrj",
+      "record": {
+        "name": "Erwin Topp",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "felippesoaresguimaraes",
+      "school": "ufrj",
+      "record": {
+        "name": "Felippe Soares Guimarães",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "gerardemilegrimberg",
+      "school": "ufrj",
+      "record": {
+        "name": "Gérard Emile Grimberg",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "guilhermeaugustodelarocqueleal",
+      "school": "ufrj",
+      "record": {
+        "name": "Guilherme Augusto de la Rocque Leal",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "helenajudithnussenzweiglopes",
+      "school": "ufrj",
+      "record": {
+        "name": "Helena Judith Nussenzweig Lopes",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "ilirsnopche",
+      "school": "ufrj",
+      "record": {
+        "name": "Ilir Snopche",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "isaianisoli",
+      "school": "ufrj",
+      "record": {
+        "name": "Isaia Nisoli",
+        "title": "",
+        "research": "Sistemas Dinâmicos",
+        "profile": "",
+        "homepage": "https://arquimedes.nce.ufrj.br/dm/isaia",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "jaquelinesiqueira",
+      "school": "ufrj",
+      "record": {
+        "name": "Jaqueline Siqueira",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://sites.google.com/view/jaqueline-siqueira/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "jefersonleandrogarciadearaujo",
+      "school": "ufrj",
+      "record": {
+        "name": "Jeferson Leandro Garcia de Araujo",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "joaomirandacarnevale",
+      "school": "ufrj",
+      "record": {
+        "name": "João Miranda Carnevale",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "julianafernandesdasilva",
+      "school": "ufrj",
+      "record": {
+        "name": "Juliana Fernandes da Silva",
+        "title": "",
+        "research": "Equações Diferenciais Parciais",
+        "profile": "",
+        "homepage": "https://sites.google.com/view/jfernandes/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "katringritgelfert",
+      "school": "ufrj",
+      "record": {
+        "name": "Katrin Grit Gelfert",
+        "title": "",
+        "research": "Sistemas Dinâmicos",
+        "profile": "",
+        "homepage": "https://sites.google.com/view/gelfert",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "lazaroorlandorodriguezdiaz",
+      "school": "ufrj",
+      "record": {
+        "name": "Lázaro Orlando Rodríguez Díaz",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "leonardomacarini",
+      "school": "ufrj",
+      "record": {
+        "name": "Leonardo Macarini",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "lucascala",
+      "school": "ufrj",
+      "record": {
+        "name": "Luca Scala",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "lucasmioranci",
+      "school": "ufrj",
+      "record": {
+        "name": "Lucas Mioranci",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "lucianasilvasalgado",
+      "school": "ufrj",
+      "record": {
+        "name": "Luciana Silva Salgado",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "lucianequoosconte",
+      "school": "ufrj",
+      "record": {
+        "name": "Luciane Quoos Conte",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "luizfeliperimolaribeirodacruz",
+      "school": "ufrj",
+      "record": {
+        "name": "Luiz Felipe Rimola Ribeiro da Cruz",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "manuelstadlbauer",
+      "school": "ufrj",
+      "record": {
+        "name": "Manuel Stadlbauer",
+        "title": "",
+        "research": "Teoria Ergódica e Probabilidade",
+        "profile": "",
+        "homepage": "https://arquimedes.nce.ufrj.br/dm/manuel/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "maralmostafazadehfard",
+      "school": "ufrj",
+      "record": {
+        "name": "Maral Mostafazadehfard",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "marcelotavaresramosluiz",
+      "school": "ufrj",
+      "record": {
+        "name": "Marcelo Tavares Ramos Luiz",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "marciafusaropinto",
+      "school": "ufrj",
+      "record": {
+        "name": "Marcia Fusaro Pinto",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "mariadarcigodinhodasilva",
+      "school": "ufrj",
+      "record": {
+        "name": "Maria Darci Godinho da Silva",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "mariafernandaelbert",
+      "school": "ufrj",
+      "record": {
+        "name": "Maria Fernanda Elbert",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://arquimedes.nce.ufrj.br/dm/fernanda",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "mariajosepacifico",
+      "school": "ufrj",
+      "record": {
+        "name": "Maria Jose Pacifico",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "marisabeatrizbezerraleal",
+      "school": "ufrj",
+      "record": {
+        "name": "Marisa Beatriz Bezerra Leal",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "mauriziomonge",
+      "school": "ufrj",
+      "record": {
+        "name": "Maurizio Monge",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "michaeldeutsch",
+      "school": "ufrj",
+      "record": {
+        "name": "Michael Deutsch",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "nedirdoespiritosanto",
+      "school": "ufrj",
+      "record": {
+        "name": "Nedir do Espirito Santo",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "nunoalexandremartinsdematosluzia",
+      "school": "ufrj",
+      "record": {
+        "name": "Nuno Alexandre Martins de Matos Luzia",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "pedrogamboaromero",
+      "school": "ufrj",
+      "record": {
+        "name": "Pedro Gamboa Romero",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "rodrigocardoso",
+      "school": "ufrj",
+      "record": {
+        "name": "Rodrigo Cardoso",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "samuelsenti",
+      "school": "ufrj",
+      "record": {
+        "name": "Samuel Senti",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "selenealvesmaia",
+      "school": "ufrj",
+      "record": {
+        "name": "Selene Alves Maia",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "sergioaugustoromanaibarra",
+      "school": "ufrj",
+      "record": {
+        "name": "Sergio Augusto Romaña Ibarra",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "seyedhamidhassanzadehhafshejani",
+      "school": "ufrj",
+      "record": {
+        "name": "Seyed Hamid Hassanzadeh Hafshejani",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://arquimedes.nce.ufrj.br/dm/hamid",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "tatianamarinsroque",
+      "school": "ufrj",
+      "record": {
+        "name": "Tatiana Marins Roque",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "thiagodrummondlinhares",
+      "school": "ufrj",
+      "record": {
+        "name": "Thiago Drummond Linhares",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "thiagohartzmaia",
+      "school": "ufrj",
+      "record": {
+        "name": "Thiago Hartz Maia",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "tuliosantosgentil",
+      "school": "ufrj",
+      "record": {
+        "name": "Tulio Santos Gentil",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "victoraugustogiraldo",
+      "school": "ufrj",
+      "record": {
+        "name": "Victor Augusto Giraldo",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "viniciusbouca",
+      "school": "ufrj",
+      "record": {
+        "name": "Vinicius Bouça",
+        "title": "",
+        "research": "Álgebra Comutativa, Geometria Algébrica",
+        "profile": "",
+        "homepage": "https://sites.google.com/im.ufrj.br/vbouca",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "walcysantos",
+      "school": "ufrj",
+      "record": {
+        "name": "Walcy Santos",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://arquimedes.nce.ufrj.br/dm/walcy",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "wiltonzumpichiattiarruda",
+      "school": "ufrj",
+      "record": {
+        "name": "Wilton Zumpichiatti Arruda",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "wladimiraugustodasneves",
+      "school": "ufrj",
+      "record": {
+        "name": "Wladimir Augusto das Neves",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ufrj-dm-staff",
+      "person_key": "xaviercarvajalparedes",
+      "school": "ufrj",
+      "record": {
+        "name": "Xavier Carvajal Paredes",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://arquimedes.nce.ufrj.br/dm/departamento-de-matematica/corpo-docente/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
       "source": "ufrj-pgmat-docentes",
       "person_key": "ademirfernandopazoto",
       "school": "ufrj",
@@ -214022,6 +215602,246 @@
         "source_kind": "department",
         "source_url": "https://math.illinois.edu/directory/faculty",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "ukm-math-programme",
+      "person_key": "abdghafurahmad",
+      "school": "ukm",
+      "record": {
+        "name": "Abd Ghafur Ahmad",
+        "title": "Professor",
+        "research": "Teori Kumpulan, Aljabar Kombinatorik (Group Theory, Combinatorial Algebra)",
+        "profile": "https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNTgyNQ==",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ukm.my/jsmt/staff-department/mathematics-programme/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ukm-math-programme",
+      "person_key": "alawiahibrahim",
+      "school": "ukm",
+      "record": {
+        "name": "Alawiah Ibrahim",
+        "title": "Senior Lecturer",
+        "research": "Analisis Kompleks (Complex Analysis)",
+        "profile": "https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzE3MA==",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ukm.my/jsmt/staff-department/mathematics-programme/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ukm-math-programme",
+      "person_key": "anuarmohdishak",
+      "school": "ukm",
+      "record": {
+        "name": "Anuar Mohd Ishak",
+        "title": "Professor",
+        "research": "Mekanik Bendalir (Fluid Mechanics)",
+        "profile": "https://ukmsarjana.ukm.my/main/lihat_profil/SzAxNzM4MA==",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ukm.my/jsmt/staff-department/mathematics-programme/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ukm-math-programme",
+      "person_key": "assocprofdrazminshamrambely",
+      "school": "ukm",
+      "record": {
+        "name": "Assoc. Prof. Dr. Azmin Sham Rambely",
+        "title": "Associate Professor",
+        "research": "Pemodelan, Biomekanik (Modelling, Biomechanics)",
+        "profile": "https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzE0Nw==",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ukm.my/jsmt/staff-department/mathematics-programme/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ukm-math-programme",
+      "person_key": "assocprofdreddieshahrilismail",
+      "school": "ukm",
+      "record": {
+        "name": "Assoc. Prof. Dr. Eddie Shahril Ismail",
+        "title": "Associate Professor",
+        "research": "Kriptografi Matematik, Teori Nombor (Mathematical Cryptography, Number Theory)",
+        "profile": "https://ukmsarjana.ukm.my/main/lihat_profil/SzAwOTk0Nw==",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ukm.my/jsmt/staff-department/mathematics-programme/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ukm-math-programme",
+      "person_key": "assocprofdrfatimahabdulrazak",
+      "school": "ukm",
+      "record": {
+        "name": "Assoc. Prof. Dr. Fatimah Abdul Razak",
+        "title": "Associate Professor",
+        "research": "Fizik Matematik dan Sistem Kompleks (Mathematical Physics and Complex Systems)",
+        "profile": "https://ukmsarjana.ukm.my/main/lihat_profil/SzAxNTczMg==",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ukm.my/jsmt/staff-department/mathematics-programme/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ukm-math-programme",
+      "person_key": "ishakhashim",
+      "school": "ukm",
+      "record": {
+        "name": "Ishak Hashim",
+        "title": "Professor",
+        "research": "Mekanik Bendalir, Kaedah Berangka, Pemodelan Matematik (Fluid Mechanics, Numerical Methods, Mathematical Modelling)",
+        "profile": "https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNjM4OA==",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ukm.my/jsmt/staff-department/mathematics-programme/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ukm-math-programme",
+      "person_key": "leekhaichien",
+      "school": "ukm",
+      "record": {
+        "name": "Lee Khai Chien",
+        "title": "Senior Lecturer",
+        "research": "Analisis Berangka (Numerical Analysis)",
+        "profile": "https://ukmsarjana.ukm.my/main/lihat_profil/SzAyNTM0Mg==",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ukm.my/jsmt/staff-department/mathematics-programme/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ukm-math-programme",
+      "person_key": "maslinadarus",
+      "school": "ukm",
+      "record": {
+        "name": "Maslina Darus",
+        "title": "Professor",
+        "research": "Analisis Kompleks, Teori Fungsi Univalen (Complex Analysis, Geometric Function Theory)",
+        "profile": "https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNjM5Mg==",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ukm.my/jsmt/staff-department/mathematics-programme/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ukm-math-programme",
+      "person_key": "mohdalmiealias",
+      "school": "ukm",
+      "record": {
+        "name": "Mohd Almie Alias",
+        "title": "Senior Lecturer",
+        "research": "Kaedah set kontur, matematik biologi, matematik gunaan dan pengkomputeran (Level set method, mathematical biology, applied and computational mathematics)",
+        "profile": "https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMDA2MQ==",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ukm.my/jsmt/staff-department/mathematics-programme/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ukm-math-programme",
+      "person_key": "mohdsalmimdnoorani",
+      "school": "ukm",
+      "record": {
+        "name": "Mohd. Salmi Md Noorani",
+        "title": "Professor",
+        "research": "Teori Ergodik, Sistem Dinamik (Ergodic Theory, Dynamical Systems)",
+        "profile": "https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNTIyNA==",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ukm.my/jsmt/staff-department/mathematics-programme/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ukm-math-programme",
+      "person_key": "muhammadsyafiqjohar",
+      "school": "ukm",
+      "record": {
+        "name": "Muhammad Syafiq Johar",
+        "title": "Lecturer",
+        "research": "Pembezaan Geometri, Aliran Geometri, Kumpulan Lie, Persamaan pembezaan separa (Differential geometry, geometric flows, Lie groups, partial differential equations.)",
+        "profile": "https://ukmsarjana.ukm.my/main/lihat_profil/SzAyMDIyNA==",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ukm.my/jsmt/staff-department/mathematics-programme/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ukm-math-programme",
+      "person_key": "roslindamohdnazar",
+      "school": "ukm",
+      "record": {
+        "name": "Roslinda Mohd Nazar",
+        "title": "Professor",
+        "research": "Dinamik Bendalir, Pemindahan Haba Olakan (Fluid Dynamics, Convective Heat Transfer)",
+        "profile": "https://ukmsarjana.ukm.my/main/lihat_profil/SzAwNzEzNg==",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ukm.my/jsmt/staff-department/mathematics-programme/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ukm-math-programme",
+      "person_key": "sakhinahabubakar",
+      "school": "ukm",
+      "record": {
+        "name": "Sakhinah Abu Bakar",
+        "title": "Senior Lecturer",
+        "research": "Matematik Pengkomputeran, Sistem Cerdas, Algoritma Pembelajaran Mesin (Computational Mathematics, Intelligent Systems, Machine Learning Algorithms)",
+        "profile": "https://ukmsarjana.ukm.my/main/lihat_profil/SzAxNDEwMQ==",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ukm.my/jsmt/staff-department/mathematics-programme/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "ukm-math-programme",
+      "person_key": "syahidachedzulkifli",
+      "school": "ukm",
+      "record": {
+        "name": "Syahida Che Dzul-Kifli",
+        "title": "Senior Lecturer",
+        "research": "Sistem Dinamik (Dynamical Systems)",
+        "profile": "https://ukmsarjana.ukm.my/main/lihat_profil/SzAxNDA0OQ==",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ukm.my/jsmt/staff-department/mathematics-programme/",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -264800,6 +266620,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Silver Professor of Mathematics",
+        "official_name": "Fedor Bogomolov",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -264813,6 +266635,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Silver Professor of Mathematics",
+        "official_name": "Sylvain E. Cappell",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -264826,6 +266650,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Silver Professor of Mathematics",
+        "official_name": "Jeff Cheeger",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -264839,6 +266665,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Jay Gould Professor of Mathematics",
+        "official_name": "Mikhael Gromov",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -264852,6 +266680,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Associate Professor of Mathematics",
+        "official_name": "Fengbo Hang",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -264865,6 +266695,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Silver Professor of Mathematics",
+        "official_name": "Bruce Kleiner",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -264878,19 +266710,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://math.nyu.edu/people/profiles/LUTWAK_Erwin.html",
-      "cache_id": "profile-6bc5f6df53255c3c",
-      "status": "parsed",
-      "record": {
-        "research": "Convex geometry, geometric and analytic inequalities.",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
+        "official_title": "Silver Professor of Mathematics",
+        "official_name": "Fang-Hua Lin",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -264904,6 +266725,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Professor of Mathematics",
+        "official_name": "Alena Pirutka",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -264917,6 +266740,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Professor of Mathematics",
+        "official_name": "Yuri Tschinkel",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -264930,6 +266755,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Professor of Mathematics",
+        "official_name": "Deane Yang",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -264943,6 +266770,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Professor of Mathematics",
+        "official_name": "Robert Young",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -264956,6 +266785,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Professor of Mathematics",
+        "official_name": "Gaoyong Zhang",
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
@@ -266744,6 +268575,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Professor",
+        "official_name": "Amjad Hussain",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
@@ -266757,6 +268590,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Professor",
+        "official_name": "Asif Ali",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
@@ -266770,6 +268605,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Assistant Professor",
+        "official_name": "Aysha Bibi",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
@@ -266783,6 +268620,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Associate Professor",
+        "official_name": "Babar Majeed Mirza",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
@@ -266796,6 +268635,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Associate Professor",
+        "official_name": "Maria Samreen",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
@@ -266809,6 +268650,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Chairman / Professor",
+        "official_name": "Masood Khan",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
@@ -266822,6 +268665,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Assistant Professor",
+        "official_name": "Mubashar Khan",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
@@ -266835,6 +268680,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Assistant Professor",
+        "official_name": "Naveed Ahmed Azam",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
@@ -266848,6 +268695,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Assistant Professor",
+        "official_name": "Sajjad ur Rehman",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
@@ -266861,6 +268710,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Assistant Professor",
+        "official_name": "Sohail Ahmad Khan",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
@@ -266874,6 +268725,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Professor",
+        "official_name": "Sohail Nadeem",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
@@ -266887,6 +268740,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Assistant Professor",
+        "official_name": "Suraj Khan",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
@@ -266900,6 +268755,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Dean FNS / Distinguished National Professor",
+        "official_name": "Tasawar Hayat",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
@@ -266913,6 +268770,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Professor",
+        "official_name": "Tayyab Kamran",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
@@ -266926,6 +268785,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Professor",
+        "official_name": "Umar Hayat",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
@@ -266939,6 +268800,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Professor",
+        "official_name": "Waqas Mahmood",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
@@ -266952,6 +268815,8 @@
         "homepage": "",
         "cv": "",
         "publications": "",
+        "official_title": "Professor",
+        "official_name": "Zia Bashir",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
@@ -295758,45 +297623,6 @@
       "checked_at": "2026-11-23"
     },
     {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24737/",
-      "cache_id": "profile-93444d3a39e4d727",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24739/",
-      "cache_id": "profile-fa3082a5b954ce49",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24762/",
-      "cache_id": "profile-a22f73742177aad9",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
       "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24815/",
       "cache_id": "profile-ba19390642fbeb49",
       "status": "parsed",
@@ -295812,71 +297638,6 @@
     {
       "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24817/",
       "cache_id": "profile-0982c376655b43ae",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24863/",
-      "cache_id": "profile-4b705536b6389278",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24871/",
-      "cache_id": "profile-bf2049804997ce7b",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24873/",
-      "cache_id": "profile-72dc1dc1750d5afe",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24949/",
-      "cache_id": "profile-20724f01de32f946",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24952/",
-      "cache_id": "profile-0a2bc303a52006b9",
       "status": "parsed",
       "record": {
         "research": "",
@@ -295927,71 +297688,6 @@
       "checked_at": "2026-11-23"
     },
     {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24972/",
-      "cache_id": "profile-e51a6a882e56937e",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24973/",
-      "cache_id": "profile-314cc593006161cb",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24976/",
-      "cache_id": "profile-48b4814af1eb6b13",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24978/",
-      "cache_id": "profile-7e2e7b576d94457f",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24980/",
-      "cache_id": "profile-b060c7a8d26032da",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
       "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24994/",
       "cache_id": "profile-d8fddc618027daf9",
       "status": "parsed",
@@ -296018,125 +297714,8 @@
       "checked_at": "2026-11-23"
     },
     {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/25038/",
-      "cache_id": "profile-3e95f5d045cdbe0a",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/25039/",
-      "cache_id": "profile-72ef72b2dc026b4d",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/25041/",
-      "cache_id": "profile-c01e41b4771b7e0a",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/25063/",
-      "cache_id": "profile-27eccc2eeb78708c",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
       "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/25081/",
       "cache_id": "profile-e9722e77c60b7122",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/25082/",
-      "cache_id": "profile-4d3ce2025b854022",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/25092/",
-      "cache_id": "profile-27f484bfa6303b4b",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/25096/",
-      "cache_id": "profile-655e69b6e8bf6520",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/25097/",
-      "cache_id": "profile-4cae1d0e071303ce",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/25104/",
-      "cache_id": "profile-4ef9cca6ae0d2dc3",
       "status": "parsed",
       "record": {
         "research": "",
@@ -323919,20 +325498,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.southampton.ac.uk/maths/about/staff/bk2.page",
-      "cache_id": "profile-73167c43be88322a",
-      "status": "parsed",
-      "record": {
-        "research": "Riemann-Roch theory (Operations on) Higher Algebraic K-Theory Equivariant Riemann-Roch theory / Riemann-Roch theory (Operations on) Higher Algebraic K-Theory Equivariant Riemann-Roch theory Geometric Galois Module Theory",
-        "homepage": "",
-        "cv": "",
-        "publications": "https://www.southampton.ac.uk/people/5wz7nt/doctor-bernhard-koeck#publications",
-        "orcid": "0000-0001-6943-7874",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://www.sustech.edu.cn/zh/faculties/gaohui.html",
       "cache_id": "profile-c74538b74edd95cd",
       "status": "parsed",
@@ -331987,19 +333552,6 @@
       "checked_at": "2026-11-23"
     },
     {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N17-1254",
-      "cache_id": "profile-d8862f95e502a339",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N17-1468",
       "cache_id": "profile-3a93b6dae535aac0",
       "status": "parsed",
@@ -332132,19 +333684,6 @@
       "checked_at": "2026-11-23"
     },
     {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N20-1265",
-      "cache_id": "profile-85b9107e44bcf480",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N20-1533",
       "cache_id": "profile-89df5d71fcaedb1f",
       "status": "parsed",
@@ -332156,45 +333695,6 @@
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N21-1255",
-      "cache_id": "profile-66ce10d5e381a5ef",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N21-1392",
-      "cache_id": "profile-b5dc5fb67c50d006",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N21-1634",
-      "cache_id": "profile-fc66ce4306bce6ab",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N21-1639",
@@ -332236,97 +333736,6 @@
       "checked_at": "2026-11-23"
     },
     {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N21-2484",
-      "cache_id": "profile-6e10860236e77943",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N21-2560",
-      "cache_id": "profile-d12c0f64ccd37ab3",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N22-1531",
-      "cache_id": "profile-f03e9c7f48fc86a0",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N22-1722",
-      "cache_id": "profile-82da11da8bf3f4d3",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N22-1826",
-      "cache_id": "profile-329debf61b70a408",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N22-2241",
-      "cache_id": "profile-abaa7d5177f1e1be",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N22-2249",
-      "cache_id": "profile-fb4d8c29299dcd30",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N22-6",
       "cache_id": "profile-98cfa036fd1026e7",
       "status": "parsed",
@@ -332354,59 +333763,6 @@
       "checked_at": "2026-11-23"
     },
     {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N23-1677",
-      "cache_id": "profile-282b9118038cd02e",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N23-1678",
-      "cache_id": "profile-7b01fbc36c1ce10b",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N23-1680",
-      "cache_id": "profile-c1ed0bfac6b8a5b3",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N23-1800",
-      "cache_id": "profile-04f11d4c02921bec",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "orcid": "0000-0001-9900-6485",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N24-1711",
       "cache_id": "profile-2284d8578a40f04e",
       "status": "parsed",
@@ -332418,98 +333774,6 @@
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N24-1780",
-      "cache_id": "profile-b48915531cb5a748",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N24-1782",
-      "cache_id": "profile-8f30adf489907488",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "orcid": "0009-0008-5083-0957",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N24-2014",
-      "cache_id": "profile-d0ee1d7dbbbf48b1",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N24-2206",
-      "cache_id": "profile-5576d251da338cc2",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N24-2260",
-      "cache_id": "profile-b2a042db0a8debaa",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N24-2352",
-      "cache_id": "profile-803681564d6526d3",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N24-952",
-      "cache_id": "profile-a84693e9785cff80",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N25-1613",
@@ -332525,73 +333789,8 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N25-1736",
-      "cache_id": "profile-2a19f47eb35c3679",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N25-2130",
       "cache_id": "profile-5aeca953eeaf4e06",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N26-1979",
-      "cache_id": "profile-fc949bf4adb58df2",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N26-1982",
-      "cache_id": "profile-c0eb3ac455b935b1",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N26-1983",
-      "cache_id": "profile-33171788a81131cd",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N26-2013",
-      "cache_id": "profile-b98baabad58cc12b",
       "status": "parsed",
       "record": {
         "research": "",
@@ -334376,6 +335575,14 @@
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5110146541"
     },
+    "bernhard-koeck": {
+      "status": "identity_review",
+      "reason": "机构公开 ORCID 命中，但 OpenAlex 的高引样本混入不相关的水力材料模型论文，作者档案累计数字暂缺。",
+      "author_id": "A5003439624",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "candidate_url": "https://openalex.org/authors/A5003439624"
+    },
     "bharathwaj-palvannan": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
@@ -335973,6 +337180,27 @@
       "status": "source_error",
       "reason": "OpenAlex 请求或返回数据失败。",
       "checkedAt": "2026-11-23"
+    },
+    "jim-anderson": {
+      "status": "review_ready",
+      "author_id": "A5083754346",
+      "papers": [],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5083754346",
+        "orcid": "https://orcid.org/0000-0002-7849-144X",
+        "url": "https://openalex.org/authors/A5083754346",
+        "authorApiUrl": "https://api.openalex.org/authors/A5083754346",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5083754346,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 29,
+        "works": 61,
+        "citations": 1590,
+        "hIndex": 15,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "jim-bryan": {
       "status": "source_error",
@@ -338946,6 +340174,11 @@
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5066847032"
+    },
+    "umar-hayat": {
+      "status": "identity_review",
+      "reason": "以校级个人页与 DOI 查 OpenAlex。所测 DOI 未唯一匹配同名作者；作者 ID 与累计指标暂缺。",
+      "checkedAt": "2026-11-24"
     },
     "vaibhav-gadre": {
       "status": "review_ready",

@@ -108,7 +108,8 @@
     "yevgeny-liokumovich": "A5033217028",
     "yuchen-liu": "A5100373051",
     "lyle-noakes": "A5001541606",
-    "chris-lazda": "A5090431992"
+    "chris-lazda": "A5090431992",
+    "jim-anderson": "A5083754346"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -163,7 +164,9 @@
     "tom-bridgeland-frs": "论文作者姓名没有唯一匹配。",
     "william-haboush": "OpenAlex HTTP 404。",
     "william-yun-chen": "论文作者姓名没有唯一匹配。",
-    "xuemiao-chen": "已用公开身份信息交叉核对 OpenAlex。高引样本混入水果代谢和材料研究，仅数条与规范理论相符。累计数暂不收录。"
+    "xuemiao-chen": "已用公开身份信息交叉核对 OpenAlex。高引样本混入水果代谢和材料研究，仅数条与规范理论相符。累计数暂不收录。",
+    "bernhard-koeck": "机构公开 ORCID 命中，但 OpenAlex 的高引样本混入不相关的水力材料模型论文，作者档案累计数字暂缺。",
+    "umar-hayat": "以校级个人页与 DOI 查 OpenAlex。所测 DOI 未唯一匹配同名作者；作者 ID 与累计指标暂缺。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -269,6 +272,7 @@
     "yevgeny-liokumovich": "已用个人页具名代表作 DOI核对作者姓名及高引研究样本。",
     "yuchen-liu": "已用个人页具名代表作 DOI核对作者姓名及高引研究样本。",
     "lyle-noakes": "用校方公开 ORCID、姓名、机构及出版社代表作核对 OpenAlex。",
-    "chris-lazda": "用校方公开 ORCID、姓名、机构及出版社代表作核对 OpenAlex。"
+    "chris-lazda": "用校方公开 ORCID、姓名、机构及出版社代表作核对 OpenAlex。",
+    "jim-anderson": "南安普敦大学个人页的 ORCID 与单位匹配；抽查高引论文主题为双曲几何、Kleinian 群及同一作者的网络数学成果。"
   }
 }
