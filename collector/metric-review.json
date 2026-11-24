@@ -162,7 +162,9 @@
     "sarah-frei": "A5055333253",
     "hoseob-seo": "A5003528447",
     "baba-shinpei": "A5065261489",
-    "nir-gadish": "A5020691249"
+    "nir-gadish": "A5020691249",
+    "liana-heuberger": "A5082598958",
+    "laurent-manivel": "A5017367646"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -236,7 +238,8 @@
     "haesong-seo": "IMRN 论文与 SNU 任职确认身份。OpenAlex 尚未提供足够的当前和历史机构信息验证整个作者档案。",
     "takeshi-ikeda": "至少一个公开 DOI 在 OpenAlex 请求未返回作品。需按公开 ORCID、姓名与第二个唯一匹配代表作再消歧。",
     "doug-park": "至少一个公开 DOI 在 OpenAlex 请求未返回作品。需按公开 ORCID、姓名与第二个唯一匹配代表作再消歧。",
-    "hong-hansol": "匹配两所任职及几何代表作，但 OpenAlex 档案还包含关于分子对接、细胞毒性的高引研究，未证实该论文来自同一位数学学者。总数和引用量待核。"
+    "hong-hansol": "匹配两所任职及几何代表作，但 OpenAlex 档案还包含关于分子对接、细胞毒性的高引研究，未证实该论文来自同一位数学学者。总数和引用量待核。",
+    "andrei-teleman": "已核其几何代表作，但 OpenAlex 同一作者档案包括非本人主编的 Several Complex Variables 合辑，需核对合辑层级的条目归属和计量。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -393,6 +396,8 @@
     "sarah-frei": "对照具名机构与个人页、公开 ORCID 或代表作 DOI，另复核该 OpenAlex 档案主要作品的作者及主题。",
     "hoseob-seo": "对照具名机构与个人页、公开 ORCID 或代表作 DOI，另复核该 OpenAlex 档案主要作品的作者及主题。",
     "baba-shinpei": "官方机构人物与代表作 DOI 或 arXiv 核验，并逐项查看 OpenAlex 档案的主题和高引作品。",
-    "nir-gadish": "官方机构人物与代表作 DOI 或 arXiv 核验，并逐项查看 OpenAlex 档案的主题和高引作品。"
+    "nir-gadish": "官方机构人物与代表作 DOI 或 arXiv 核验，并逐项查看 OpenAlex 档案的主题和高引作品。",
+    "liana-heuberger": "核两篇代表作链接、现任机构和 OpenAlex 高引样本。",
+    "laurent-manivel": "核两篇代表作链接、现任机构和 OpenAlex 高引样本。"
   }
 }

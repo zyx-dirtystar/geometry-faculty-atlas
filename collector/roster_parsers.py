@@ -1677,6 +1677,15 @@ def profile_fields(document, base):
             )
             if focus and 20 <= len(focus[0]) <= 360:
                 research.append(focus[0])
+    if target.hostname == "vitdirectory.vit.ac.in" and re.fullmatch(r"/page/faculty/\d+/?", target.path):
+        official_name = untitled(text_at(main, "(.//h1)[1]"))
+        designation = main.xpath(".//strong[normalize-space()='Designation :']")
+        if len(designation) == 1:
+            official_title = clean(designation[0].tail or "")
+        specializations = main.xpath(
+            ".//div[normalize-space()='Areas of Specialization']/following-sibling::ul[1]/li"
+        )
+        research.extend(contents(item) for item in specializations if 3 <= len(contents(item)) <= 140)
     if target.hostname == "math.nyu.edu" and re.fullmatch(r"/people/profiles/[^/]+\.html", target.path):
         headings = main.xpath(".//h1[normalize-space(.) != 'Faculty Profile']")
         titles = main.xpath(f".//div[{class_token('title')}]")

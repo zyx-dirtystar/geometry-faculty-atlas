@@ -1183,8 +1183,20 @@
     {
       "id": "aix-marseille",
       "coverage": "sample",
-      "coverageNote": "已解析 1/5 个登记来源，160 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 0、指标 0。 已查 I2M 的 AGT 研究团队、全体成员名录及具名个人页，确认部分 AMU 任职。中心的其他组和多单位联合任职尚需逐人确认。",
+      "coverageNote": "已解析 4/8 个登记来源，78 条任职或方向待核。 已收录 6 位学者，个人主页 4、CV 1、指标 2。 I2M 跨 CNRS、AMU 与 Centrale Méditerranée，读取全字母册和 AGT 34、AGLR 55 条组内卡片。优先核复与代数几何小组、Fano／K-模及奇点／几何分析具名人员。联合单位的雇主与访问状态分别对照，其他组内人员专长仍继续逐人。",
       "rosterLinks": [
+        [
+          "I2M · Groupe Analyse, Géométrie, Topologie",
+          "https://www.i2m.univ-amu.fr/equipes-scientifiques/analyse-geometrie-topologie-agt/"
+        ],
+        [
+          "I2M · Groupe Arithmétique, Géométrie, Logique et Représentations",
+          "https://www.i2m.univ-amu.fr/equipes-scientifiques/groupe-arithmetique-geometrie-logique-et-representations-aglr/"
+        ],
+        [
+          "I2M · Liste alphabétique des personnels",
+          "https://www.i2m.univ-amu.fr/liste-alphabetique-des-personnels-de-li2m/"
+        ],
         [
           "I2M · Arithmétique, Géométrie, Logique et Représentations",
           "https://www.i2m.univ-amu.fr/equipes-scientifiques/groupe-arithmetique-geometrie-logique-et-representations-aglr/"
@@ -1206,7 +1218,7 @@
           "https://www.i2m.univ-amu.fr/equipes-scientifiques/analyse-geometrie-topologie-agt/"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "central-south",
@@ -2415,8 +2427,28 @@
     {
       "id": "msu-moscow",
       "coverage": "sample",
-      "coverageNote": "已解析 2/5 个登记来源，234 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 0。 已提取俄文数学力学系人员名录与英文微分几何人员链接。俄英文姓名、现任职级及其他相关教研室仍待逐条对账。",
+      "coverageNote": "已解析 4/11 个登记来源，203 条任职或方向待核。 已收录 10 位学者，个人主页 9、CV 0、指标 0。 官方力学数学学院总表读取 414 条（去重 213），以具名岗位原文和数学部各组交叉。微分几何应用教研室补录 25 个俄文具名卡片，并核部分方向。高等几何、一般拓扑和交叉研究单位仍待逐人。",
       "rosterLinks": [
+        [
+          "Кафедра Высшей алгебры",
+          "https://math.msu.ru/node/412"
+        ],
+        [
+          "Механико-математический факультет · 数学各教研室",
+          "https://math.msu.ru/node/410"
+        ],
+        [
+          "Кафедра Дифференциальной геометрии и приложений · 俄文具名成员",
+          "https://dfgm.math.msu.ru/people/"
+        ],
+        [
+          "Кафедра Высшей геометрии и топологии",
+          "https://math.msu.ru/vgt"
+        ],
+        [
+          "Геометрия и математическая физика · ITMP",
+          "https://master.math.msu.ru/summer-school-geometry"
+        ],
         [
           "Кафедра дифференциальной геометрии и приложений",
           "https://math.msu.ru/difgem"
@@ -2436,9 +2468,13 @@
         [
           "力学数学学院人员名录",
           "https://math.msu.ru/node/92"
+        ],
+        [
+          "Механико-математический факультет · Сотрудники",
+          "https://math.msu.ru/workers"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "snu",
@@ -3455,8 +3491,24 @@
     {
       "id": "vit-vellore",
       "coverage": "sample",
-      "coverageNote": "已解析 1/4 个登记来源，208 条任职或方向待核。 已查 Vellore 与 Chennai 的教师及招生指导名单。当前几何线索见于教学文档，能证实该校区现任研究方向的个人页待核。",
+      "coverageNote": "已解析 2/8 个登记来源，82 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 0。 公开教职名册逐人核对研究专长栏；Vellore 2026 研究导师手册 114 条，具名匹配教员 105 人。Chennai 校区当前教师入口直连不稳定，采用公开人员披露及研究导师 PDF 交叉，具名专长确认 Soumendu Roy。其他校区及未说明专长人员继续核对。",
       "rosterLinks": [
+        [
+          "Chennai · 2025–26 Mandatory staff disclosure",
+          "https://chennai.vit.ac.in/files/Mandatory_Disclosures_2025-2026.pdf"
+        ],
+        [
+          "Chennai SAS Mathematics · eligible guide details",
+          "https://chennai.vit.ac.in/files/re_supervisordetails_research_admission/sas-maths.pdf"
+        ],
+        [
+          "Chennai SAS · Mathematics faculty",
+          "https://chennai.vit.ac.in/academics/schools/sas/mfaculty/"
+        ],
+        [
+          "Chennai · Academic Research by Division",
+          "https://chennai.vit.ac.in/research/academic/"
+        ],
         [
           "VIT Faculty directory",
           "https://vit.ac.in/faculty"
@@ -3470,11 +3522,11 @@
           "https://vit.ac.in/school/allfaculty/sas/mathematics"
         ],
         [
-          "数学研究方向与指导教师（官方 PDF）",
+          "Vellore SAS Mathematics · July 2026 研究导师",
           "https://vit.ac.in/sites/default/files/vitree/Research-Guide-July-2026/Research-Guide-July-2026-Mathematics-SAS.pdf"
         ]
       ],
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "bit",
@@ -5446,7 +5498,7 @@
           "title": "Professeur",
           "url": "https://www.i2m.univ-amu.fr/user/andrei.teleman/",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -5456,7 +5508,61 @@
       "tags": [
         "Groupe Analyse, Géométrie, Topologie"
       ],
-      "homepage": "https://www.i2m.univ-amu.fr/user/andrei.teleman/",
+      "homepage": "https://www.i2m.univ-amu.fr/perso/andrei.teleman/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.i2m.univ-amu.fr/perso/andrei.teleman/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已核其几何代表作，但 OpenAlex 同一作者档案包括非本人主编的 Several Complex Variables 合辑，需核对合辑层级的条目归属和计量。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5109057405",
+      "papers": [
+        {
+          "title": "A gauge theoretical generalization of Bryant's correspondence",
+          "url": "https://doi.org/10.48550/arXiv.2602.17132"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Groupe Analyse, Géométrie, Topologie",
+          "url": "https://www.i2m.univ-amu.fr/annuaire/?letter=%25"
+        },
+        {
+          "text": "Groupe Analyse, Géométrie, Topologie",
+          "url": "https://www.i2m.univ-amu.fr/liste-alphabetique-des-personnels-de-li2m/"
+        },
+        {
+          "text": "Complex geometry, gauge theory and classification of complex surfaces",
+          "url": "https://www.i2m.univ-amu.fr/user/andrei.teleman/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "camille-plenat",
+      "name": "Camille Plenat",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "aix-marseille",
+          "department": "数学系",
+          "title": "Maîtresse de conférences",
+          "url": "https://www.i2m.univ-amu.fr/equipes-scientifiques/analyse-geometrie-topologie-agt/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Groupe Analyse, Géométrie, Topologie"
+      ],
+      "homepage": null,
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
@@ -5474,11 +5580,15 @@
           "url": "https://www.i2m.univ-amu.fr/annuaire/?letter=%25"
         },
         {
-          "text": "Complex geometry, gauge theory and classification of complex surfaces",
-          "url": "https://www.i2m.univ-amu.fr/user/andrei.teleman/"
+          "text": "Groupe Analyse, Géométrie, Topologie",
+          "url": "https://www.i2m.univ-amu.fr/liste-alphabetique-des-personnels-de-li2m/"
+        },
+        {
+          "text": "Algebraic geometry of surface singularities, resolution, the Nash problem and jet schemes",
+          "url": "https://gas.math.cnrs.fr/?page_id=639"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -5492,7 +5602,7 @@
           "title": "Professeur",
           "url": "https://www.i2m.univ-amu.fr/user/frederic.mangolte/",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -5520,11 +5630,222 @@
           "url": "https://www.i2m.univ-amu.fr/annuaire/?letter=%25"
         },
         {
+          "text": "Groupe Analyse, Géométrie, Topologie",
+          "url": "https://www.i2m.univ-amu.fr/liste-alphabetique-des-personnels-de-li2m/"
+        },
+        {
           "text": "Real algebraic geometry and real algebraic surfaces",
           "url": "https://www.i2m.univ-amu.fr/user/frederic.mangolte/"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "laurent-manivel",
+      "name": "Laurent Manivel",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "aix-marseille",
+          "department": "CNRS · Institut de Mathématiques de Marseille (I2M)",
+          "title": "Directeur de recherche CNRS · I2M",
+          "url": "https://www.i2m.univ-amu.fr/equipes-scientifiques/analyse-geometrie-topologie-agt/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Groupe Analyse, Géométrie, Topologie"
+      ],
+      "homepage": "https://manivel.perso.math.cnrs.fr/new.html",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://manivel.perso.math.cnrs.fr/new-publications.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5017367646",
+          "orcid": "https://orcid.org/0000-0001-6235-454X",
+          "url": "https://openalex.org/authors/A5017367646",
+          "authorApiUrl": "https://api.openalex.org/authors/A5017367646",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5017367646,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 94,
+          "works": 160,
+          "citations": 3605,
+          "hIndex": 33,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The geometry of the Coble cubic and orbital degeneracy loci",
+          "url": "https://doi.org/10.1007/s00208-019-01949-7"
+        },
+        {
+          "title": "Hecke cycles on moduli of vector bundles and orbital degeneracy loci",
+          "year": 2023,
+          "url": "https://doi.org/10.48550/arXiv.2310.06482"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Groupe Analyse, Géométrie, Topologie",
+          "url": "https://www.i2m.univ-amu.fr/annuaire/?letter=%25"
+        },
+        {
+          "text": "Groupe Analyse, Géométrie, Topologie",
+          "url": "https://www.i2m.univ-amu.fr/liste-alphabetique-des-personnels-de-li2m/"
+        },
+        {
+          "text": "Algebraic geometry of homogeneous varieties, Fano and Calabi–Yau varieties, vector bundle moduli and degeneracy loci",
+          "url": "https://manivel.perso.math.cnrs.fr/new.html"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://manivel.perso.math.cnrs.fr/new-publications.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "liana-heuberger",
+      "name": "Liana Heuberger",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "aix-marseille",
+          "department": "数学系",
+          "title": "Maîtresse de conférences",
+          "url": "https://www.i2m.univ-amu.fr/equipes-scientifiques/analyse-geometrie-topologie-agt/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Groupe Analyse, Géométrie, Topologie"
+      ],
+      "homepage": "https://sites.google.com/view/lianaheuberger/home",
+      "homepageStatus": null,
+      "cvUrl": "https://drive.google.com/file/d/1LvPeXIKwjOxgthFdxAHVYGfRbDfIotHd/view?usp=drive_link",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://sites.google.com/view/lianaheuberger/home",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5082598958",
+          "orcid": "https://orcid.org/0000-0002-8038-9620",
+          "url": "https://openalex.org/authors/A5082598958",
+          "authorApiUrl": "https://api.openalex.org/authors/A5082598958",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5082598958,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 9,
+          "works": 14,
+          "citations": 158,
+          "hIndex": 5,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On K-moduli of Fano threefolds with degree 28 and Picard rank 4",
+          "url": "https://doi.org/10.5802/afst.1829"
+        },
+        {
+          "title": "Anticanonical divisors on Fano fourfolds",
+          "year": 2015,
+          "url": "https://doi.org/10.48550/arXiv.1505.02437"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Groupe Analyse, Géométrie, Topologie",
+          "url": "https://www.i2m.univ-amu.fr/annuaire/?letter=%25"
+        },
+        {
+          "text": "Groupe Analyse, Géométrie, Topologie",
+          "url": "https://www.i2m.univ-amu.fr/liste-alphabetique-des-personnels-de-li2m/"
+        },
+        {
+          "text": "Algebraic and birational geometry, toric degenerations, Fano varieties, K-moduli and mirror symmetry",
+          "url": "https://sites.google.com/view/lianaheuberger/home"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://sites.google.com/view/lianaheuberger/home"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "nader-yeganefar",
+      "name": "Nader Yeganefar",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "aix-marseille",
+          "department": "数学系",
+          "title": "Maître de conférences",
+          "url": "https://www.i2m.univ-amu.fr/equipes-scientifiques/analyse-geometrie-topologie-agt/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Groupe Analyse, Géométrie, Topologie"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Groupe Analyse, Géométrie, Topologie",
+          "url": "https://www.i2m.univ-amu.fr/annuaire/?letter=%25"
+        },
+        {
+          "text": "Groupe Analyse, Géométrie, Topologie",
+          "url": "https://www.i2m.univ-amu.fr/liste-alphabetique-des-personnels-de-li2m/"
+        },
+        {
+          "text": "Differential and Riemannian geometry, L² cohomology and spectral geometry",
+          "url": "https://www.i2m.univ-amu.fr/user/nader.yeganefar/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -22883,6 +23204,294 @@
       "recordStatus": "directory"
     },
     {
+      "id": "person-25af3e847a68",
+      "name": "Жеглов Александр Борисович",
+      "aliases": [
+        "Alexander Zheglov"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "msu-moscow",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://dfgm.math.msu.ru/people/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://dfgm.math.msu.ru/people/zheglov/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, algebraic surfaces, integrable systems and commutative rings of differential operators",
+          "url": "https://dfgm.math.msu.ru/sci_archiev.php"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-d76c398ebf3f",
+      "name": "Иванов Александр Олегович",
+      "aliases": [
+        "Alexander Ivanov"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "msu-moscow",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://dfgm.math.msu.ru/people/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://dfgm.math.msu.ru/people/ivanov/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, metric geometry, Steiner networks and geometric optimization",
+          "url": "https://dfgm.math.msu.ru/sci_archiev.php"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-cc6e3c515885",
+      "name": "Коняев Андрей Юрьевич",
+      "aliases": [
+        "Andrey Konyaev"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "msu-moscow",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://dfgm.math.msu.ru/people/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://dfgm.math.msu.ru/people/konyaev/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, Nijenhuis operators and integrable systems",
+          "url": "https://dfgm.math.msu.ru/sci_archiev.php"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-125e0ef5bff0",
+      "name": "Кудрявцева Елена Александровна",
+      "aliases": [
+        "Elena Kudryavtseva"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "msu-moscow",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://dfgm.math.msu.ru/people/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://dfgm.math.msu.ru/people/koudr/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Integrable Hamiltonian systems, differential geometry and topology of foliations",
+          "url": "https://dfgm.math.msu.ru/sci_archiev.php"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-4e3fcaece952",
+      "name": "Орлов Дмитрий Олегович",
+      "aliases": [
+        "Dmitri Orlov",
+        "Dmitry Orlov"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "msu-moscow",
+          "department": "数学系",
+          "title": "Professor and Head of Higher Algebra",
+          "url": "https://math.msu.ru/node/412",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.mathnet.ru/php/person.phtml?option_lang=eng&personid=11896",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, derived categories, K3 surfaces and noncommutative geometry",
+          "url": "https://scs.math.msu.ru/index.php/ru/node/18902"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-d126859e9cbc",
+      "name": "Ошемков Андрей Александрович",
+      "aliases": [
+        "Andrey Oshemkov"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "msu-moscow",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://dfgm.math.msu.ru/people/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://dfgm.math.msu.ru/people/oshemkov/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and topology of integrable Hamiltonian systems",
+          "url": "https://dfgm.math.msu.ru/sci_archiev.php"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-0337932c3c61",
+      "name": "Пржиялковский Виктор Владимирович",
+      "aliases": [
+        "Victor Przyjalkowski"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "msu-moscow",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://dfgm.math.msu.ru/people/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://dfgm.math.msu.ru/people/przyjalkowski/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of Fano varieties, mirror symmetry and Landau–Ginzburg models",
+          "url": "https://www.hse.ru/en/org/persons/28126958/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "person-9305ecf0c6fa",
       "name": "Тужилин Алексей Августинович",
       "aliases": [
@@ -22896,7 +23505,7 @@
           "title": "профессор",
           "url": "https://fmmp.math.msu.ru/teachers/tuzhilin-aleksej-avgustinovich",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -22921,7 +23530,89 @@
           "url": "https://fmmp.math.msu.ru/teachers/tuzhilin-aleksej-avgustinovich"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-df353d33207d",
+      "name": "Фоменко Анатолий Тимофеевич",
+      "aliases": [
+        "Anatoly Fomenko"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "msu-moscow",
+          "department": "数学系",
+          "title": "Professor and Chair",
+          "url": "https://dfgm.math.msu.ru/people/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://dfgm.math.msu.ru/people/fomenko/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, topology of integrable Hamiltonian systems and global geometric variational problems",
+          "url": "https://dfgm.math.msu.ru/sci_archiev.php"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-65e3ebb52648",
+      "name": "Шафаревич Андрей Игоревич",
+      "aliases": [
+        "Andrei Shafarevich"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "msu-moscow",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://dfgm.math.msu.ru/people/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://dfgm.math.msu.ru/people/shafarevich/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and mathematical physics, semiclassical and geometric methods in quantum mechanics",
+          "url": "https://master.math.msu.ru/summer-school-geometry"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -49354,6 +50045,50 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "soumendu-roy",
+      "name": "Soumendu Roy",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "vit-vellore",
+          "department": "School of Advanced Sciences, Mathematics · Chennai",
+          "title": "Assistant Professor · Chennai campus",
+          "url": "https://chennai.vit.ac.in/files/Mandatory_Disclosures_2025-2026.pdf",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查 Chennai 职工披露、研究导师 PDF 及校级档案，未取得可核实的公开 CV。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "OpenAlex HTTP 404",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "A Classification of Kenmotsu Manifold Admitting ⁎-Einstein Soliton",
+          "url": "https://doi.org/10.47013/16.1.8"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, Riemannian and contact manifolds, Ricci solitons and Yamabe flow",
+          "url": "https://chennai.vit.ac.in/files/re_supervisordetails_research_admission/sas-maths.pdf"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
