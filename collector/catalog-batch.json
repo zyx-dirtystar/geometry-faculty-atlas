@@ -1495,8 +1495,16 @@
     {
       "id": "manchester",
       "coverage": "sample",
-      "coverageNote": "已解析 2/3 个登记来源，93 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 1。 已查数学系 A–Z、Analysis and Geometry 与 Number Theory 研究组和校方 Research Explorer。根据现任职级与项目证据确认算术几何学者。其余组员及兼职名单仍待核。",
+      "coverageNote": "已解析 2/6 个登记来源，93 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 1。 已查数学系 A–Z、Analysis and Geometry 与 Number Theory 研究组和校方 Research Explorer。根据现任职级与项目证据确认算术几何学者。其余组员及兼职名单仍待核。",
       "rosterLinks": [
+        [
+          "Mathematics · Algebra Logic And Number Theory",
+          "https://www.maths.manchester.ac.uk/research/themes/algebra-logic-and-number-theory/"
+        ],
+        [
+          "Mathematics · Analysis Geometry And Dynamical Systems",
+          "https://www.maths.manchester.ac.uk/research/themes/analysis-geometry-and-dynamical-systems/"
+        ],
         [
           "Academic and research staff A–Z",
           "https://www.maths.manchester.ac.uk/about/people/academic-and-research-staff/?C=S"
@@ -1504,6 +1512,10 @@
         [
           "Analysis and geometry - Department of Mathematics - The University of Manchester",
           "https://www.maths.manchester.ac.uk/research/expertise/analysis-and-geometry/"
+        ],
+        [
+          "Mathematics · A-Z academic staff with rank",
+          "https://www.maths.manchester.ac.uk/about/people/academic-and-research-staff/"
         ],
         [
           "数学系 Academic and Research Staff",
@@ -1707,8 +1719,16 @@
     {
       "id": "muenster",
       "coverage": "sample",
-      "coverageNote": "已解析 2/3 个登记来源，120 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 1。",
+      "coverageNote": "已解析 3/5 个登记来源，119 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 1、指标 2。  重新读取 Mathematics Münster 全成员专长表，与 CRC 几何及数学研究所的任职资料交叉。",
       "rosterLinks": [
+        [
+          "Mathematical Institute · AG Differentialgeometrie",
+          "https://www.uni-muenster.de/Diffgeo/arbeitsgruppe.html"
+        ],
+        [
+          "Mathematics Münster · all members and research fields",
+          "https://www.uni-muenster.de/MathematicsMuenster/people/mitglieder.shtml"
+        ],
         [
           "Members of Mathematics Münster",
           "https://www.uni-muenster.de/MathematicsMuenster/people/mitglieder.shtml"
@@ -1722,7 +1742,7 @@
           "https://www.uni-muenster.de/MathematischesInstitut/en/institut/personen.shtml"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "pisa",
@@ -4347,8 +4367,56 @@
     {
       "id": "bologna",
       "coverage": "sample",
-      "coverageNote": "已解析 7/9 个登记来源，93 条任职或方向待核。 已收录 3 位学者，个人主页 2、CV 3、指标 0。 已读取数学系 Docenti e ricercatori 第 1–6 页与 Geometria delle varietà 的成员页。已交叉核对具有明确 Fano、Hodge 与超 Kähler 方向的人员。其余教授的个人方向、跨系任职和未覆盖的研究组仍待核。",
+      "coverageNote": "已解析 19/21 个登记来源，78 条任职或方向待核。 已收录 10 位学者，个人主页 3、CV 9、指标 0。 已读取数学系 Docenti e ricercatori 第 1–6 页与 Geometria delle varietà 的成员页。已交叉核对具有明确 Fano、Hodge 与超 Kähler 方向的人员。其余教授的个人方向、跨系任职和未覆盖的研究组仍待核。 英文 Geometry 24 个具名研究方向与合同级别已核。另读复分析、几何测度论、Carnot 群、代数与代数几何等官方研究组。",
       "rosterLinks": [
+        [
+          "Mathematics · Geometry area of research",
+          "https://matematica.unibo.it/en/research/research-areas/geometry?set_language=en"
+        ],
+        [
+          "Mathematics · Algebra and combinatorics",
+          "https://matematica.unibo.it/en/research/research-groups/algebra-and-combinatorics"
+        ],
+        [
+          "Mathematics · Commutative Algebra and classical algebraic Geometry",
+          "https://matematica.unibo.it/en/research/research-groups/commutative-algebra-and-classical-algebraic-geometry"
+        ],
+        [
+          "Mathematics · Complex Analysis",
+          "https://matematica.unibo.it/en/research/research-groups/complex-analysis"
+        ],
+        [
+          "Mathematics · Geometric Analysis in Phase-Space and PDEs",
+          "https://matematica.unibo.it/en/research/research-groups/geometric-analysis-in-phase-space-and-pdes"
+        ],
+        [
+          "Mathematics · Geometric analysis on Carnot groups",
+          "https://matematica.unibo.it/en/research/research-groups/geometric-analysis-on-carnot-groups"
+        ],
+        [
+          "Mathematics · Geometric and Computational Topology",
+          "https://matematica.unibo.it/en/research/research-groups/geometric-and-computational-topology"
+        ],
+        [
+          "Mathematics · Geometric and harmonic analysis for data analysis and machine learning",
+          "https://matematica.unibo.it/en/research/research-groups/geometric-and-harmonic-analysis-for-data-analysis-and-machine-learning"
+        ],
+        [
+          "Mathematics · Geometric Measure Theory",
+          "https://matematica.unibo.it/en/research/research-groups/geometric-measure-theory"
+        ],
+        [
+          "Mathematics · Geometric modeling and processing",
+          "https://matematica.unibo.it/en/research/research-groups/geometric-modeling-and-processing"
+        ],
+        [
+          "Mathematics · Geometry of varieties",
+          "https://matematica.unibo.it/en/research/research-groups/geometry-of-varieties"
+        ],
+        [
+          "Mathematics · Nonlocal equations and fractional minimal surfaces",
+          "https://matematica.unibo.it/en/research/research-groups/nonlocal-equations-and-fractional-minimal-surfaces"
+        ],
         [
           "Commutative Algebra and classical algebraic Geometry — Mathematics",
           "https://math.unibo.it/en/research/research-groups/commutative-algebra-and-classical-algebraic-geometry"
@@ -4386,7 +4454,7 @@
           "https://matematica.unibo.it/it/ricerca/gruppi-di-ricerca/geometria-delle-varieta"
         ]
       ],
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "tec-monterrey",
@@ -4955,7 +5023,7 @@
     {
       "id": "ohio-state",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，128 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 1、指标 0。 已查数学系 People 名录和代数簇 RTG 项目成员。现任教师、短期支持和荣休身份按任职证据区分，其他几何研究方向和联合任职待核。",
+      "coverageNote": "已解析 18/20 个登记来源，13 条任职或方向待核。 已收录 16 位学者，个人主页 14、CV 2、指标 0。 读取官网 9 个任职分栏，共 398 张卡片，包括 1 位 Chair、80 位 Faculty、31 科研／访问、7 联属、57 荣休、34 讲师、25 职员、145 研究生、18 学生助理。另读取涉及三个方向的 7 个学术分组筛选，组内研究专长及各校区继续逐项核。 同名逐项对读官网研究总表，确认 78 位具名专长和任职配对；特别补查 Mansfield 代数几何学者。",
       "rosterLinks": [
         [
           "RTG Arithmetic, Combinatorics and Topology of Algebraic Varieties",
@@ -4968,9 +5036,77 @@
         [
           "数学系或所属学院人员入口",
           "https://math.osu.edu/people"
+        ],
+        [
+          "Mathematics · named research statements verified against People",
+          "https://math.osu.edu/research"
+        ],
+        [
+          "Mathematics · Chair, Faculty",
+          "https://math.osu.edu/people"
+        ],
+        [
+          "Mathematics · Faculty",
+          "https://math.osu.edu/people"
+        ],
+        [
+          "Mathematics · Postdocs & Visitors",
+          "https://math.osu.edu/people"
+        ],
+        [
+          "Mathematics · Associated Faculty",
+          "https://math.osu.edu/people"
+        ],
+        [
+          "Mathematics · Emeritus",
+          "https://math.osu.edu/people"
+        ],
+        [
+          "Mathematics · Lecturer",
+          "https://math.osu.edu/people"
+        ],
+        [
+          "Mathematics · Staff",
+          "https://math.osu.edu/people"
+        ],
+        [
+          "Mathematics · Graduate Student",
+          "https://math.osu.edu/people"
+        ],
+        [
+          "Mathematics · Student Associate",
+          "https://math.osu.edu/people"
+        ],
+        [
+          "Mathematics · Algebraic Geometry directory filter",
+          "https://math.osu.edu/people?field_research_interests_target_id%5B72%5D=72"
+        ],
+        [
+          "Mathematics · Complex Analysis directory filter",
+          "https://math.osu.edu/people?field_research_interests_target_id%5B25%5D=25"
+        ],
+        [
+          "Mathematics · Differential Geometry directory filter",
+          "https://math.osu.edu/people?field_research_interests_target_id%5B28%5D=28"
+        ],
+        [
+          "Mathematics · Geometric Group Theory directory filter",
+          "https://math.osu.edu/people?field_research_interests_target_id%5B150%5D=150"
+        ],
+        [
+          "Mathematics · Number Theory directory filter",
+          "https://math.osu.edu/people?field_research_interests_target_id%5B23%5D=23"
+        ],
+        [
+          "Mathematics · Mathematical Physics directory filter",
+          "https://math.osu.edu/people?field_research_interests_target_id%5B70%5D=70"
+        ],
+        [
+          "Mathematics · Algebraic and Geometric Topology directory filter",
+          "https://math.osu.edu/people?field_research_interests_target_id%5B151%5D=151"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "osaka",
@@ -5235,11 +5371,19 @@
     {
       "id": "glasgow",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，97 条任职或方向待核。 已收录 4 位学者，个人主页 4、CV 0、指标 3。 已提取数学与统计学院 Research and Teaching 及 Honorary and Visiting 两个分组，并复核代数几何组和部分个人成果页。合聘、组内身份细分及其余研究方向待核。",
+      "coverageNote": "已解析 1/5 个登记来源，97 条任职或方向待核。 已收录 4 位学者，个人主页 4、CV 0、指标 3。 已提取数学与统计学院 Research and Teaching 及 Honorary and Visiting 两个分组，并复核代数几何组和部分个人成果页。合聘、组内身份细分及其余研究方向待核。",
       "rosterLinks": [
+        [
+          "Core Structures · Geometry, Algebra, Analysis and Number Theory",
+          "https://core.maths.gla.ac.uk/Welcome"
+        ],
         [
           "University of Glasgow - Schools - School of Mathematics & Statistics - Research - Research",
           "https://www.gla.ac.uk/schools/mathematicsstatistics/research/maths/algebraicgeometry/"
+        ],
+        [
+          "Mathematics and Statistics · Geometry and Topology Staff",
+          "https://www.gla.ac.uk/schools/mathematicsstatistics/research/maths/geometryandtopology/"
         ],
         [
           "数学系或所属学院人员入口",
@@ -5407,7 +5551,7 @@
     {
       "id": "utrecht",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，103 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 0、指标 0。 已查看数学研究所现任职员与个人研究资料，复核部分几何学者。校内其他方向和联合任职待对账。",
+      "coverageNote": "已解析 7/9 个登记来源，85 条任职或方向待核。 已收录 6 位学者，个人主页 6、CV 3、指标 1。 数学所官方 People 117 条，从卡片恢复具体职级及荣休区。Utrecht Geometry Centre 另有 57 条具名中心身份，复核其代数几何 18、微分几何 12、代数拓扑及数学史分组，并对照科研门户。主聘和研究专长继续由具名资料逐项核证。",
       "rosterLinks": [
         [
           "数学所研究组入口",
@@ -5420,9 +5564,33 @@
         [
           "数学系或所属学院人员入口",
           "https://www.uu.nl/en/organisation/mathematical-institute/employees"
+        ],
+        [
+          "Mathematical Institute · Current people and emeriti",
+          "https://www.uu.nl/en/organisation/mathematical-institute/organisation/people"
+        ],
+        [
+          "Utrecht Geometry Centre · Algebraic Geometry",
+          "https://www.uu.nl/en/research/utrecht-geometry-centre/research/algebraic-geometry"
+        ],
+        [
+          "Utrecht Geometry Centre · Differential Geometry",
+          "https://www.uu.nl/en/research/utrecht-geometry-centre/research/differential-geometry"
+        ],
+        [
+          "Utrecht Geometry Centre · History of Mathematics",
+          "https://www.uu.nl/en/research/utrecht-geometry-centre/research/history-of-mathematics"
+        ],
+        [
+          "Utrecht Geometry Centre · all role categories",
+          "https://www.uu.nl/en/research/utrecht-geometry-centre/about-us/our-members"
+        ],
+        [
+          "Utrecht Geometry Centre · Algebraic Topology",
+          "https://www.uu.nl/en/research/utrecht-geometry-centre/research/algebraic-topology"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "waseda",
@@ -7935,7 +8103,7 @@
           "title": "Associate Professor",
           "url": "https://www.unibo.it/sitoweb/a.petracci/en",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -7956,11 +8124,139 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Algebraic geometry, Algebraic varieties, Fano varieties, Toric varieties and polytopes, Deformation theory, Moduli spaces, K-stability of Fano varieties, Mirror symmetry",
+          "url": "https://matematica.unibo.it/en/research/research-areas/geometry?set_language=en"
+        },
+        {
           "text": "Algebraic geometry, Fano varieties, K-stability and mirror symmetry",
           "url": "https://www.unibo.it/sitoweb/a.petracci/ricerca"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "antonella-grassi",
+      "name": "Antonella Grassi",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "bologna",
+          "department": "数学系",
+          "title": "Professoressa ordinaria",
+          "url": "https://www.unibo.it/sitoweb/antonella.grassi3",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": "https://www.unibo.it/sitoweb/antonella.grassi3/cv",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Birational Geometry, Singularities, Elliptic fibrations, in particular Calabi Yau varieties and applications to String Theory, Toric varieties.",
+          "url": "https://matematica.unibo.it/en/research/research-areas/geometry?set_language=en"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "emanuele-latini",
+      "name": "Emanuele Latini",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "bologna",
+          "department": "数学系",
+          "title": "Professore associato",
+          "url": "https://www.unibo.it/sitoweb/emanuele.latini",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Cartan Geometry, Quantum geometry and quantum gravity, Higher spin gauge theory",
+          "url": "https://matematica.unibo.it/en/research/research-areas/geometry?set_language=en"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "enrico-fatighenti",
+      "name": "Enrico Fatighenti",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "bologna",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.unibo.it/sitoweb/enrico.fatighenti/en",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [
+        "Algebraic geometry, Fano varieties and hyperkähler geometry"
+      ],
+      "homepage": "https://sites.google.com/view/enricofatighenti/home",
+      "homepageStatus": null,
+      "cvUrl": "https://sites.google.com/view/enricofatighenti/cv",
+      "cvType": "本人网页 CV（含教育、任职及学术活动）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.unibo.it/sitoweb/enrico.fatighenti/pubblicazioni",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic Geometry: Fano varieties, hyperkähler varieties, surfaces of general type",
+          "url": "https://matematica.unibo.it/en/research/research-areas/geometry?set_language=en"
+        },
+        {
+          "text": "Algebraic geometry, Fano varieties and hyperkähler geometry",
+          "url": "https://www.unibo.it/sitoweb/enrico.fatighenti/en"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -7971,23 +8267,21 @@
         {
           "schoolId": "bologna",
           "department": "数学系",
-          "title": "Professore ordinario",
-          "url": "https://www.unibo.it/sitoweb/giovanni.mongardi2",
+          "title": "Full Professor",
+          "url": "https://www.unibo.it/sitoweb/giovanni.mongardi2/en",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic",
         "complex"
       ],
-      "tags": [
-        "Algebraic geometry of hyperkähler and symplectic varieties"
-      ],
+      "tags": [],
       "homepage": null,
       "homepageStatus": null,
-      "cvUrl": "https://www.dropbox.com/scl/fi/bk3v6yh6viffh5x6jxu88/curriculum_current.pdf?dl=1&rlkey=yjyep3malsypee9o0geg40aur",
-      "cvType": "公开 CV（本人注明更新较少）",
+      "cvUrl": "https://www.unibo.it/sitoweb/giovanni.mongardi2/download/curriculum_current.pdf",
+      "cvType": "公开学术 CV（院系存档版本）",
       "cvStatus": null,
       "publicationsUrl": "https://www.unibo.it/sitoweb/giovanni.mongardi2/pubblicazioni",
       "publicationCounts": [],
@@ -7998,11 +8292,58 @@
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Algebraic geometry of hyperkähler and symplectic varieties",
-          "url": "https://matematica.unibo.it/it/ricerca/gruppi-di-ricerca/geometria-delle-varieta"
+          "text": "Complex Algebraic Geometry, Irreducible Holomorphic symplectic Manifolds",
+          "url": "https://matematica.unibo.it/en/research/research-areas/geometry?set_language=en"
+        },
+        {
+          "text": "Complex Algebraic Geometry, Irreducible Holomorphic symplectic Manifolds",
+          "url": "https://matematica.unibo.it/en/research/research-areas/geometry?set_language=en"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "luca-battistella",
+      "name": "Luca Battistella",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "bologna",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.unibo.it/sitoweb/luca.battistella2/en",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": "https://www.unibo.it/sitoweb/luca.battistella2/download/cv-Battistella.pdf",
+      "cvType": "公开学术 CV（院系存档版本）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.unibo.it/sitoweb/luca.battistella2/pubblicazioni",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "algebraic geometry, moduli spaces, tropical geometry, enumerative geometry",
+          "url": "https://matematica.unibo.it/en/research/research-areas/geometry?set_language=en"
+        },
+        {
+          "text": "algebraic geometry, moduli spaces, tropical geometry, enumerative geometry",
+          "url": "https://matematica.unibo.it/en/research/research-areas/geometry?set_language=en"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -8016,7 +8357,7 @@
           "title": "Full Professor",
           "url": "https://www.unibo.it/sitoweb/luca.migliorini/en",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -8039,11 +8380,132 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Hodge theory, Perverse sheaves, HIlbert schemes of singular curves, Compactified jacobians of algebraic curves, Higgs bundles in curves",
+          "url": "https://matematica.unibo.it/en/research/research-areas/geometry?set_language=en"
+        },
+        {
           "text": "Algebraic geometry, Hodge theory, and geometry of moduli spaces",
           "url": "https://matematica.unibo.it/it/ricerca/gruppi-di-ricerca/geometria-delle-varieta"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "luca-moci",
+      "name": "Luca Moci",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "bologna",
+          "department": "数学系",
+          "title": "Professore ordinario",
+          "url": "https://www.unibo.it/sitoweb/luca.moci2",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": "https://www.unibo.it/sitoweb/luca.moci2/cv",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "I am interested in applications of Combinatorics to: Representation Theory, Commutative Algebra, Algebraic Geometry, Algebraic Topology",
+          "url": "https://matematica.unibo.it/en/research/research-areas/geometry?set_language=en"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "nicola-tito-pagani",
+      "name": "Nicola Tito Pagani",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "bologna",
+          "department": "数学系",
+          "title": "Professore associato",
+          "url": "https://www.unibo.it/sitoweb/nicolatito.pagani",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": "https://www.unibo.it/sitoweb/nicolatito.pagani/cv",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "moduli theory, enumerative geometry, algebraic curves, Jacobians",
+          "url": "https://matematica.unibo.it/en/research/research-areas/geometry?set_language=en"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "stefano-francaviglia",
+      "name": "Stefano Francaviglia",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "bologna",
+          "department": "数学系",
+          "title": "Professore ordinario",
+          "url": "https://www.unibo.it/sitoweb/stefano.francaviglia",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": "https://www.unibo.it/sitoweb/stefano.francaviglia/cv",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "hyperbolic, topology, outer space, representation, manifold, currents, fundamental group, triangulation, low dimension, harmonic, measure, geometry, dynamical systems, geometric topology, geometric group theory, hyperbolic geometry, Hilbert metric, Hilbert geometry, convex projective geometry, translation surfaces, conjugacy problem, automorphisms of groups, moduli spaces, graph theory, simplicial volume, Gromov, Thurston, bounded cohomology, barycentric maps",
+          "url": "https://matematica.unibo.it/en/research/research-areas/geometry?set_language=en"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -23870,6 +24332,86 @@
       "recordStatus": "directory"
     },
     {
+      "id": "hans-joachim-hein",
+      "name": "Hans-Joachim Hein",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "muenster",
+          "department": "数学系",
+          "title": "Professor (W2)",
+          "url": "https://cris.uni-muenster.de/portal/de/person/72861013",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry"
+      ],
+      "homepage": "https://sites.google.com/view/hhein/home",
+      "homepageStatus": null,
+      "cvUrl": "https://cris.uni-muenster.de/portal/de/person/72861013",
+      "cvType": "机构简版 CV（教育及任职章节）",
+      "cvStatus": null,
+      "publicationsUrl": "https://cris.uni-muenster.de/portal/de/person/72861013",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5004923567",
+          "orcid": "https://orcid.org/0000-0002-3719-9549",
+          "url": "https://openalex.org/authors/A5004923567",
+          "authorApiUrl": "https://api.openalex.org/authors/A5004923567",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5004923567,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 21,
+          "works": 27,
+          "citations": 1032,
+          "hIndex": 17,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Collapsing immortal Kähler–Ricci flows",
+          "url": "https://doi.org/10.1017/fmp.2025.10"
+        },
+        {
+          "title": "Gravitational instantons from rational elliptic surfaces",
+          "year": 2011,
+          "url": "https://doi.org/10.1090/s0894-0347-2011-00723-6"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry",
+          "url": "https://www.uni-muenster.de/MathematicsMuenster/people/mitglieder.shtml"
+        },
+        {
+          "text": "Differential geometry",
+          "url": "https://www.uni-muenster.de/MathematicsMuenster/people/mitglieder.shtml"
+        },
+        {
+          "text": "Kähler geometry, Einstein metrics, Ricci flow, geometry and analysis on singular spaces",
+          "url": "https://www.uni-muenster.de/FB10/Service/show_perspage.shtml?id=1521"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://cris.uni-muenster.de/portal/de/person/72861013"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "person-c642c6f87df3",
       "name": "宗润弘",
       "aliases": [],
@@ -26526,6 +27068,209 @@
       "recordStatus": "directory"
     },
     {
+      "id": "andrey-gogolyev",
+      "name": "Andrey Gogolyev",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ohio-state",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://math.osu.edu/people/gogolyev.1",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential Geometry, Topology, Dynamical Systems, Hyperbolic Dynamics",
+          "url": "https://math.osu.edu/research"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "andrzej-derdzinski",
+      "name": "Andrzej Derdzinski",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ohio-state",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://math.osu.edu/people/derdzinski.1",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential Geometry - Einstein Manifolds"
+      ],
+      "homepage": "https://people.math.osu.edu/derdzinski.1/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential Geometry - Einstein Manifolds",
+          "url": "https://math.osu.edu/research"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "angelica-cueto",
+      "name": "Angelica Cueto",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ohio-state",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://math.osu.edu/people/cueto.5",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://people.math.osu.edu/cueto.5/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic Geometry, Combinatorics, Non-Archimedean Geometry, Tropical Geometry",
+          "url": "https://math.osu.edu/research"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "beibei-liu",
+      "name": "Beibei Liu",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ohio-state",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://math.osu.edu/people/liu.11302",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/view/beibei-liu/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Hyperbolic Geometry, Kleinian Groups, Geometric Group Theory, Topology and Geometry of 3-, 4-manifolds, Heegaard Floer Homology",
+          "url": "https://math.osu.edu/research"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "bo-guan",
+      "name": "Bo Guan",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ohio-state",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://math.osu.edu/people/guan.19",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry, elliptic PDEs and geometric analysis"
+      ],
+      "homepage": "https://people.math.osu.edu/guan.19/",
+      "homepageStatus": null,
+      "cvUrl": "https://people.math.osu.edu/guan/guan-brief.pdf",
+      "cvType": "公开简版 CV（院系存档旧版）",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential Geometry, Partial Differential Equations - Geometric Analysis",
+          "url": "https://math.osu.edu/research"
+        },
+        {
+          "text": "Differential geometry, elliptic PDEs and geometric analysis",
+          "url": "https://math.osu.edu/research"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "david-anderson",
       "name": "David Anderson",
       "aliases": [],
@@ -26536,7 +27281,7 @@
           "title": "Professor",
           "url": "https://math.osu.edu/people/anderson.2804",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -26557,11 +27302,54 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Algebraic geometry, Combinatorics, Representation theory, Schubert varieties and Toric Varieties, Equivariant Cohomology and its Applications",
+          "url": "https://math.osu.edu/research"
+        },
+        {
           "text": "Algebraic geometry, equivariant cohomology and enumerative geometry",
           "url": "https://people.math.osu.edu/cueto.5/RTG/RTG-OSU23-28people.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "eric-katz",
+      "name": "Eric Katz",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ohio-state",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://math.osu.edu/people/katz.60",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://people.math.osu.edu/katz.60/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Tropical Geometry, Combinatorial Algebraic Geometry, Arithmetic & Enumerative Geometry",
+          "url": "https://math.osu.edu/research"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -26575,7 +27363,7 @@
           "title": "Professor",
           "url": "https://math.osu.edu/people/tseng.109",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -26596,11 +27384,343 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Algebraic Geometry, Symplectic Topology & Geometry, Mirror Symmetry, Gromov-Witten Theory",
+          "url": "https://math.osu.edu/research"
+        },
+        {
           "text": "Algebraic geometry, symplectic geometry and Gromov–Witten theory",
           "url": "https://people.math.osu.edu/cueto.5/RTG/RTG-OSU23-28people.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jean-francois-lafont",
+      "name": "Jean-François Lafont",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ohio-state",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://math.osu.edu/people/lafont.1",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://people.math.osu.edu/lafont.1/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://people.math.osu.edu/lafont.1/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, topology, geometric group theory and K-theory",
+          "url": "https://math.osu.edu/research"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jennifer-park",
+      "name": "Jennifer Park",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ohio-state",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://math.osu.edu/people/park.2720",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Number Theory and Algebraic Geometry, Algebraic Curves and Arithmetic Properties, Number and Function Fields",
+          "url": "https://math.osu.edu/research"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "liz-vivas",
+      "name": "Liz Vivas",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ohio-state",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://math.osu.edu/people/vivas.3",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://people.math.osu.edu/vivas.3/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://people.math.osu.edu/vivas.3/research.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Holomorphic Dynamical Systems, Several Complex Variables, Complex Geometry & Affine Algebraic Geometry, Monge-Ampere equations and CR manifolds",
+          "url": "https://math.osu.edu/research"
+        },
+        {
+          "text": "Complex geometry, affine algebraic geometry, several complex variables, holomorphic dynamics and CR geometry",
+          "url": "https://people.math.osu.edu/vivas.3/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "marjorie-drake",
+      "name": "Marjorie Drake",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ohio-state",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://math.osu.edu/people/drake.607",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.marjoriekdrake.com",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Analysis, Interpolation and Approximation Theory, Geometric Analysis, Whitney-type extension and trace problems, Convexity, Sobolev spaces",
+          "url": "https://math.osu.edu/research"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "matthew-stenzel",
+      "name": "Matthew Stenzel",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ohio-state",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://math.osu.edu/people/stenzel.3",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential Geometry, Several Complex Variables"
+      ],
+      "homepage": "https://people.math.osu.edu/stenzel.3/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential Geometry, Several Complex Variables",
+          "url": "https://math.osu.edu/research"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "mirel-caibar",
+      "name": "Mirel Caibar",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ohio-state",
+          "department": "Department of Mathematics · Mansfield",
+          "title": "Associate Professor (Mansfield)",
+          "url": "https://math.osu.edu/people/caibar.1",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic Geometry, Singularity Theory, Hodge Theory",
+        "Algebraic geometry, singularity theory and Hodge theory"
+      ],
+      "homepage": "https://people.math.osu.edu/caibar.1/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic Geometry, Singularity Theory, Hodge Theory",
+          "url": "https://math.osu.edu/research"
+        },
+        {
+          "text": "Algebraic geometry, singularity theory and Hodge theory",
+          "url": "https://math.osu.edu/research"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "roy-joshua",
+      "name": "Roy Joshua",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ohio-state",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://math.osu.edu/people/joshua.1",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://people.math.osu.edu/joshua.1/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic and Arithmetic Geometry, K-Theory, Singular Varieties, Computational aspects of geometry, Quantum computation",
+          "url": "https://math.osu.edu/research"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "stefan-patrikis",
+      "name": "Stefan Patrikis",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ohio-state",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://math.osu.edu/people/patrikis.1",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Number theory, Automorphic forms, Arithmetic Geometry,"
+      ],
+      "homepage": "https://people.math.osu.edu/patrikis.1/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Number theory, Automorphic forms, Arithmetic Geometry,",
+          "url": "https://math.osu.edu/research"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -50170,7 +51290,7 @@
           "title": "Professor",
           "url": "https://www.uu.nl/staff/CFFaber",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -50201,7 +51321,7 @@
           "url": "https://www.uu.nl/staff/CFFaber"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -50217,7 +51337,7 @@
           "title": "Professor",
           "url": "https://www.uu.nl/staff/GRCavalcanti",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -50243,7 +51363,194 @@
           "url": "https://www.uu.nl/staff/GRCavalcanti"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "marius-crainic",
+      "name": "Marius Crainic",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "utrecht",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.uu.nl/staff/MNCrainic",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://webspace.science.uu.nl/~crain101/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.staff.science.uu.nl/~crain101/CV.pdf",
+      "cvType": "公开学术 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://webspace.science.uu.nl/~crain101/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5064361316",
+          "orcid": null,
+          "url": "https://openalex.org/authors/A5064361316",
+          "authorApiUrl": "https://api.openalex.org/authors/A5064361316",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5064361316,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 46,
+          "works": 118,
+          "citations": 3758,
+          "hIndex": 31,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Integrability of Lie brackets",
+          "url": "https://doi.org/10.4007/annals.2003.157.575"
+        },
+        {
+          "title": "Deformations of Lie Groupoids",
+          "url": "https://doi.org/10.1093/imrn/rny221"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, Poisson geometry, Lie groupoids and Lie algebroids",
+          "url": "https://www.uu.nl/staff/MNCrainic"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://webspace.science.uu.nl/~crain101/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "marta-pieropan",
+      "name": "Marta Pieropan",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "utrecht",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.uu.nl/staff/MPieropan",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry and number theory, Diophantine geometry"
+      ],
+      "homepage": "https://reh.math.uni-duesseldorf.de/~pieropan/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and number theory, Diophantine geometry",
+          "url": "https://www.uu.nl/staff/MPieropan"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "martijn-kool",
+      "name": "Martijn Kool",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "utrecht",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.uu.nl/staff/MKool1",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://webspace.science.uu.nl/~kool0009/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.uu.nl/staff/MKool1/CV",
+      "cvType": "机构简版 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.uu.nl/staff/MKool1/Publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and Donaldson–Thomas theory of Calabi–Yau varieties",
+          "url": "https://webspace.science.uu.nl/~kool0009/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "pieter-belmans",
+      "name": "Pieter Belmans",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "utrecht",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://www.uu.nl/staff/PBelmans",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://pbelmans.ncag.info/",
+      "homepageStatus": null,
+      "cvUrl": "https://pbelmans.ncag.info/about",
+      "cvType": "本人网页简版 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://pbelmans.ncag.info/writing/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, derived categories and noncommutative algebraic geometry",
+          "url": "https://pbelmans.ncag.info/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
