@@ -59,7 +59,7 @@
     {
       "id": "oxford",
       "coverage": "sample",
-      "coverageNote": "已解析 2/4 个登记来源，17 条任职或方向待核。 已收录 9 位学者，个人主页 0、CV 3、指标 4。",
+      "coverageNote": "已解析 2/4 个登记来源，17 条任职或方向待核。 已收录 9 位学者，个人主页 1、CV 3、指标 4。",
       "rosterLinks": [
         [
           "Mathematical Institute Algebra Group",
@@ -411,7 +411,7 @@
     {
       "id": "warwick",
       "coverage": "sample",
-      "coverageNote": "已解析 2/3 个登记来源，45 条任职或方向待核。 已收录 9 位学者，个人主页 3、CV 1、指标 2。",
+      "coverageNote": "已解析 2/3 个登记来源，45 条任职或方向待核。 已收录 9 位学者，个人主页 4、CV 2、指标 3。",
       "rosterLinks": [
         [
           "Mathematics Institute Algebraic Geometry",
@@ -675,7 +675,7 @@
     {
       "id": "tokyo",
       "coverage": "sample",
-      "coverageNote": "已解析 5/9 个登记来源，8 条任职或方向待核。 已逐条核对 数理科学研究科 Faculty Members、Kavli IPMU · Faculty Members。 已收录 29 位学者，个人主页 9、CV 7、指标 0。 核对数理科学研究科英文名录及 Kavli IPMU，另查日文 2026 手册、现任目录、17 条特任或特别教授职务，以及数理科学连携基盘中心三个分栏。日文别名、方向和跨单位任职继续逐项对账。 已转录特任与特别教授 17 条、连携中心 17 条兼任或专任记录，查到日法联合研究室与 IPMU 访问分册。区分访问计划与现任。荣休群体和各机构研究院的有名额全名单仍需逐一核对。",
+      "coverageNote": "已解析 9/12 个登记来源，3 条任职或方向待核。 已逐条核对 数理科学研究科 Faculty Members、Kavli IPMU · Faculty Members。 已收录 29 位学者，个人主页 9、CV 7、指标 0。 核对数理科学研究科英文名录及 Kavli IPMU，另查日文 2026 手册、现任目录、17 条特任或特别教授职务，以及数理科学连携基盘中心三个分栏。日文别名、方向和跨单位任职继续逐项对账。 已转录特任与特别教授 17 条、连携中心 17 条兼任或专任记录，查到日法联合研究室与 IPMU 访问分册。区分访问计划与现任。荣休群体和各机构研究院的有名额全名单仍需逐一核对。 英日名录补核特任 8 位专长。日法实验室全页 27 条任职、Kavli IPMU 高级 5 位、在岗研究员 12 位、联属 31 位已转录。跨机构及联属的准确专长和荣休仍逐项识别。",
       "rosterLinks": [
         [
           "数理科学研究科 Faculty Members",
@@ -694,7 +694,19 @@
           "https://www.ipmu.jp/en/place-and-people/scientific-staff"
         ],
         [
+          "Kavli IPMU · Affiliate Members",
+          "https://db.ipmu.jp/member/memberen.html"
+        ],
+        [
           "Kavli IPMU · Faculty Members",
+          "https://db.ipmu.jp/member/memberen.html"
+        ],
+        [
+          "Kavli IPMU · Project Researchers",
+          "https://db.ipmu.jp/member/memberen.html"
+        ],
+        [
+          "Kavli IPMU · Senior Fellows",
           "https://db.ipmu.jp/member/memberen.html"
         ],
         [
@@ -1371,8 +1383,20 @@
     {
       "id": "ucl",
       "coverage": "sample",
-      "coverageNote": "已解析 3/7 个登记来源，0 条任职或方向待核。 已收录 9 位学者，个人主页 7、CV 3、指标 3。 修复学术教师名单中链接姓名被跳过的问题，核录 84 位，交叉查院系几何／拓扑、数论及 LSGNT。荣誉／荣休名册 46 张；补核几何组博士后、教学岗位和转任记录。荣誉或荣休精确职级和其他联聘仍需分人补证。 官方 Research Associates and Fellows 共 28 条已录，对照几何组专长；其中 3 张现行卡片的方向仍标 TBC。",
+      "coverageNote": "已解析 4/11 个登记来源，1 条任职或方向待核。 已收录 9 位学者，个人主页 7、CV 3、指标 4。 修复学术教师名单中链接姓名被跳过的问题，核录 84 位，交叉查院系几何／拓扑、数论及 LSGNT。荣誉／荣休名册 46 张；补核几何组博士后、教学岗位和转任记录。荣誉或荣休精确职级和其他联聘仍需分人补证。 官方 Research Associates and Fellows 共 28 条已录，对照几何组专长；其中 3 张现行卡片的方向仍标 TBC。 补查数学物理组 18 条及 DataSig、David Potter Institute 和校区入口。科研人员 3 位 TBC 已通过本人或研究组来源确定专长。多位荣誉联属的主聘由 Lancaster、Oxford、Warwick、KCL 与 Rice 交叉确认。",
       "rosterLinks": [
+        [
+          "UCL · Campuses and mathematics department",
+          "https://www.ucl.ac.uk/about/campuses-and-facilities/ucl-campuses"
+        ],
+        [
+          "DataSig · Cross-institution team",
+          "https://datasig.ac.uk/people"
+        ],
+        [
+          "David Potter Institute for Quantum Information Science · People",
+          "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people"
+        ],
         [
           "数学系 Academic and Lecturing Staff",
           "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff"
@@ -1396,6 +1420,10 @@
         [
           "London School of Geometry and Number Theory · Staff",
           "https://lsgnt-cdt.ucl.ac.uk/staff/"
+        ],
+        [
+          "Mathematics · Mathematical Physics researchers",
+          "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics"
         ],
         [
           "Mathematics · Research Associates and Fellows",
@@ -1939,7 +1967,7 @@
     {
       "id": "sapienza",
       "coverage": "sample",
-      "coverageNote": "已解析 2/4 个登记来源，5 条任职或方向待核。 已收录 3 位学者，个人主页 3、CV 2、指标 0。 已查数学系及其微分几何方向、校级现任科研个人档案和个人发表页。几何组全员与联合单位仍待核。",
+      "coverageNote": "已解析 2/4 个登记来源，5 条任职或方向待核。 已收录 3 位学者，个人主页 3、CV 2、指标 1。 已查数学系及其微分几何方向、校级现任科研个人档案和个人发表页。几何组全员与联合单位仍待核。",
       "rosterLinks": [
         [
           "Dipartimento di Matematica · Research group in differential geometry",
@@ -2339,7 +2367,7 @@
     {
       "id": "snu",
       "coverage": "sample",
-      "coverageNote": "已解析 8/21 个登记来源，1 条任职或方向待核。 已收录 10 位学者，个人主页 9、CV 2、指标 7。 韩文数理科学部全段核录教师及协议联聘 37 条、荣休 22 条、其他任职 23 条。博士后韩英分栏分别 44 条和 32 条，按已核别名合并。补查 QSMS、BK21、RIM 与 DASOM。两语博士后名单更新不同，交叉单位任职仍按公开证据逐项核实。 数学教育系补核 7 位现任和 7 位荣休，DASOM 具名记录 7 位。基础科学研究院公布研究教员名单，其他研究身份使用院系博士后和个人来源。数学研究所 2026 年报仅给人数小计，独立名册和 QSMS 现任分栏当前未完整公开或无法稳定读取。",
+      "coverageNote": "已解析 8/22 个登记来源，0 条任职或方向待核。 已收录 10 位学者，个人主页 9、CV 2、指标 7。 韩文数理科学部全段核录教师及协议联聘 37 条、荣休 22 条、其他任职 23 条。博士后韩英分栏分别 44 条和 32 条，按已核别名合并。补查 QSMS、BK21、RIM 与 DASOM。两语博士后名单更新不同，交叉单位任职仍按公开证据逐项核实。 数学教育系补核 7 位现任和 7 位荣休，DASOM 具名记录 7 位。基础科学研究院公布研究教员名单，其他研究身份使用院系博士后和个人来源。数学研究所 2026 年报仅给人数小计，独立名册和 QSMS 现任分栏当前未完整公开或无法稳定读取。",
       "rosterLinks": [
         [
           "수리과학부 · 联聘、特聘、访问、合同与授课",
@@ -2376,6 +2404,10 @@
         [
           "数学系现任教授（韩文）",
           "https://web.math.snu.ac.kr/board/index.php?mid=Main_Faculty"
+        ],
+        [
+          "PARC · 研究人员与讲师历史交叉来源",
+          "https://parc.math.snu.ac.kr/board/index.php?mid=Home_Lecturer"
         ],
         [
           "Department of Mathematical Sciences · Postdocs",
@@ -2627,7 +2659,7 @@
     {
       "id": "monash",
       "coverage": "sample",
-      "coverageNote": "已解析 8/17 个登记来源，1 条任职或方向待核。 已收录 8 位学者，个人主页 3、CV 2、指标 2。 已核录 Clayton 数学学院按职级分栏的 75 张卡片、兼职及联属的 13 位，并对照纯数学、拓扑、相对论组和科研门户。已打开马来西亚科学与信息技术学院官方目录和课程信息，校区跨单位人员仍需逐项复核。",
+      "coverageNote": "已解析 8/19 个登记来源，0 条任职或方向待核。 已收录 8 位学者，个人主页 4、CV 3、指标 2。 已核录 Clayton 数学学院按职级分栏的 75 张卡片、兼职及联属的 13 位，并对照纯数学、拓扑、相对论组和科研门户。已打开马来西亚科学与信息技术学院官方目录和课程信息，校区跨单位人员仍需逐项复核。",
       "rosterLinks": [
         [
           "School of Mathematics · Adjuncts, Affiliates and Emeritus",
@@ -2694,7 +2726,15 @@
           "https://www.monash.edu/science/schools/school-of-mathematics/research"
         ],
         [
+          "Monash Suzhou · Academic Staff",
+          "https://www.monash.edu/SUzhou/about-us/our-people/academic-staff"
+        ],
+        [
           "Topology research group",
+          "https://www.monash.edu/topology"
+        ],
+        [
+          "Topology Group · Academics",
           "https://www.monash.edu/topology"
         ]
       ],
@@ -22450,11 +22490,11 @@
       "tags": [
         "Enumerative geometry, moduli of curves and Gromov–Witten theory"
       ],
-      "homepage": null,
+      "homepage": "https://users.monash.edu/~normd/",
       "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvUrl": "https://users.monash.edu/~normd/documents/Do-Curriculum-Vitae.pdf",
+      "cvType": "公开学术 CV（较早版本）",
+      "cvStatus": null,
       "publicationsUrl": "https://research.monash.edu/en/persons/norm-do/publications/",
       "publicationCounts": [
         {
@@ -26383,46 +26423,50 @@
         {
           "schoolId": "oxford",
           "department": "数学系",
-          "title": "Academic Faculty",
-          "url": "https://www.maths.ox.ac.uk/people/jason.lotay",
+          "title": "Professor of Mathematics",
+          "url": "https://www.balliol.ox.ac.uk/professor-jason-lotay",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [
-        "Geometry",
-        "I work on differential geometry and geometric analysis"
+        "Geometry"
       ],
-      "homepage": null,
+      "homepage": "https://people.maths.ox.ac.uk/lotay/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvStatus": "已查本人 About、Oxford 学院和公开发表页，只有简历式介绍，未找到本人公开独立 CV 文件。",
+      "publicationsUrl": "https://people.maths.ox.ac.uk/lotay/publications.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
+      "identityNote": "已核对个人公开作品并排查两个 DOI。OpenAlex 作品署名未能稳定落到一个唯一作者档案。",
       "metrics": [],
-      "identityUrl": "https://openalex.org/A5025931295",
-      "papers": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Local descriptions of the heterotic SU(3) moduli space",
+          "url": "https://doi.org/10.1007/s00220-025-05309-2"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Geometry",
           "url": "https://www.maths.ox.ac.uk/groups/geometry/members"
         },
         {
-          "text": "I work on differential geometry and geometric analysis. I am particularly interested in geometry related with special holonomy and calibrated submanifolds, geometric flows including Lagrangian mean curvature flow and the G 2 -Laplacian flow, as well as gauge theory, typically in higher dimensions, and geometric problems arising from theoretical physics, such as M-Theory and heterotic String Theory. / Research groups Geometry Mathematical Physics Oxford Centre for Nonlinear PDE / Research interests I work on differential geometry and geometric analysis. I am particularly interested in geometry related with special holonomy and calibrated submanifolds, geometric flows including Lagrangian mean curvature flow and the G 2 -Laplacian flow, as well as gauge theory, typically in higher dimensions, and geometric problems arising from theoretical physics, such as M-Theory and heterotic String Theory.",
-          "url": "https://www.maths.ox.ac.uk/people/jason.lotay"
+          "text": "Differential geometry, special holonomy, calibrated submanifolds and Lagrangian mean curvature flow",
+          "url": "https://people.maths.ox.ac.uk/lotay/"
         },
         {
           "text": "个人研究或论文来源",
           "url": "https://www.maths.ox.ac.uk/people/jason.lotay"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -32186,19 +32230,44 @@
       "publicationsUrl": "https://profiles.ucl.ac.uk/72813-lorenzo-foscolo/publications",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex HTTP 404",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5010480492",
+          "orcid": null,
+          "url": "https://openalex.org/authors/A5010480492",
+          "authorApiUrl": "https://api.openalex.org/authors/A5010480492",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5010480492,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 12,
+          "works": 21,
+          "citations": 447,
+          "hIndex": 10,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [
         {
           "title": "Calorons and Constituent Monopoles",
           "url": "https://doi.org/10.1007/s00220-023-04827-1"
+        },
+        {
+          "title": "Hypertoric varieties, $W$-Hilbert schemes, and Coulomb branches",
+          "year": 2023,
+          "url": "https://doi.org/10.48550/arXiv.2304.08125"
         }
       ],
       "directoryEvidence": [
         {
           "text": "Differential geometry, special holonomy, geometric analysis and Calabi–Yau metrics",
           "url": "https://research.uniroma1.it/researcher/d37abf816a3482f58d0b4001c7f7caa94a9f3ddcd620d8e8a53b72c0"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://sites.google.com/uniroma1.it/lfoscolo"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -37043,17 +37112,16 @@
         {
           "schoolId": "tokyo",
           "department": "Kavli IPMU",
-          "title": "Academic Faculty (Kavli IPMU)",
+          "title": "Project Professor and Senior Fellow",
           "url": "https://db.ipmu.jp/member/personal/170en.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [
-        "Algebraic geometry and derived categories",
         "Mathematics Mathematics"
       ],
       "homepage": null,
@@ -37070,15 +37138,15 @@
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Algebraic geometry and derived categories",
-          "url": "https://www.ipmu.jp/en/research-activities/research-program/mathematics"
+          "text": "Algebraic geometry, derived categories, noncommutative geometry and birational models",
+          "url": "https://db.ipmu.jp/member/personal/170en.html"
         },
         {
           "text": "Mathematics Mathematics",
           "url": "https://db.ipmu.jp/member/personal/170en.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -37521,7 +37589,7 @@
           "title": "Associate Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -37548,7 +37616,7 @@
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -37827,13 +37895,14 @@
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/tsaito_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [
+        "Arithmetic and algebraic geometry",
         "Arithmetic geometry and algebraic geometry",
         "Galois representations, ramification"
       ],
@@ -37851,6 +37920,10 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Arithmetic and algebraic geometry",
+          "url": "https://fj-lmi.cnrs.fr/members/"
+        },
+        {
           "text": "Arithmetic geometry and algebraic geometry",
           "url": "https://www.ms.u-tokyo.ac.jp/~t-saito/"
         },
@@ -37859,7 +37932,7 @@
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/tsaito_e.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -38018,7 +38091,7 @@
           "title": "Professor（Kavli IPMU）",
           "url": "http://db.ipmu.jp/member/personal/1417en.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -38045,7 +38118,7 @@
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -41929,12 +42002,40 @@
       "cvType": "公开 CV（简版）",
       "cvStatus": null,
       "publicationsUrl": "https://www.homepages.ucl.ac.uk/~ucahdva/publicat/publicat.html",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 105,
+          "scope": "UCL Research Outputs 平台全部成果，含期刊、书章和预印本，版本可重复",
+          "url": "https://profiles.ucl.ac.uk/2572-dmitri-vassiliev/publications",
+          "checkedAt": "2026-11-25"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5064744298",
+          "orcid": "https://orcid.org/0000-0001-5150-9083",
+          "url": "https://openalex.org/authors/A5064744298",
+          "authorApiUrl": "https://api.openalex.org/authors/A5064744298",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5064744298,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 47,
+          "works": 103,
+          "citations": 1628,
+          "hIndex": 18,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Beyond the Hodge theorem: Curl and asymmetric pseudodifferential projections",
+          "url": "https://doi.org/10.1112/jlms.70431"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Spectral theory, microlocal analysis, geometric analysis, general relativity",
@@ -41943,6 +42044,10 @@
         {
           "text": "Spectral geometry, geometric analysis, microlocal analysis and mathematical relativity",
           "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://profiles.ucl.ac.uk/2572-dmitri-vassiliev/publications"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -48776,35 +48881,65 @@
         {
           "schoolId": "warwick",
           "department": "数学系",
-          "title": "Professor",
-          "url": "https://warwick.ac.uk/fac/sci/maths/people/staff/schulze",
+          "title": "Professor of Mathematics",
+          "url": "https://warwick.ac.uk/fac/sci/maths/people/staff/schulze/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [],
-      "homepage": null,
+      "homepage": "https://www.felixschulze.eu/",
       "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvUrl": "https://felixschulze.eu/images/felix/CV_FSchulze.pdf",
+      "cvType": "公开学术 CV（个人站公开版）",
+      "cvStatus": null,
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
         {
-          "text": "Differential Geometry, Partial Differential Equations and Geometric Analysis. I am especially interested in geometric flows (mean curvature flow, Ricci flow, Willmore flow etc), minimal surfaces and Willmore surfaces. / Research Interests: Differential Geometry, Partial Differential Equations and Geometric Analysis. I am especially interested in geometric flows (mean curvature flow, Ricci flow, Willmore flow etc), minimal surfaces and Willmore surfaces.",
-          "url": "https://warwick.ac.uk/fac/sci/maths/people/staff/schulze"
+          "source": "OpenAlex",
+          "authorId": "A5047248750",
+          "orcid": "https://orcid.org/0000-0002-7011-2126",
+          "url": "https://openalex.org/authors/A5047248750",
+          "authorApiUrl": "https://api.openalex.org/authors/A5047248750",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5047248750,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 41,
+          "works": 66,
+          "citations": 1943,
+          "hIndex": 26,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Stability of translating solutions to mean curvature flow",
+          "url": "https://doi.org/10.1093/imrn/rny095"
+        },
+        {
+          "title": "Remarks on the self-shrinking Clifford torus",
+          "year": 2019,
+          "url": "https://doi.org/10.1515/crelle-2019-0015"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis, geometric flows and minimal surfaces",
+          "url": "https://www.felixschulze.eu/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://warwick.ac.uk/fac/sci/maths/people/staff/schulze/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {

@@ -154,7 +154,13 @@
     "martin-orr": "A5004407401",
     "marco-maculan": "A5068271527",
     "mario-kummer": "A5047589315",
-    "tim-hoffmann": "A5020935099"
+    "tim-hoffmann": "A5020935099",
+    "lorenzo-foscolo": "A5010480492",
+    "dmitri-vassiliev": "A5064744298",
+    "steven-sivek": "A5045169936",
+    "felix-schulze": "A5047248750",
+    "sarah-frei": "A5055333253",
+    "hoseob-seo": "A5003528447"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -223,7 +229,9 @@
     "jongil-park": "SNU Pure 与辛填充代表作确认身份。OpenAlex 档案混合几何拓扑、雷达与增强现实等同名作者的作品，累计值待核。",
     "jian-he": "Monash 数学任职和 Stein 几何论文可确认；OpenAlex 候选同时混入组合数学和不同署名结果，未能证实为一个人。",
     "joshua-daniels-holgate": "UCL 和本人站确认现任。以有 DOI 的代表作查 OpenAlex，数据库中的作者署名未能唯一匹配。",
-    "federico-ardila": "本人作品表确认两种署名。代表作在 OpenAlex 分到 A5040287199（Federico Ardila）和 A5083845808（Federico Ardila-Mantilla），后一档 7 篇文章、99 次引用仅覆盖其部分作品，累计值待核。"
+    "federico-ardila": "本人作品表确认两种署名。代表作在 OpenAlex 分到 A5040287199（Federico Ardila）和 A5083845808（Federico Ardila-Mantilla），后一档 7 篇文章、99 次引用仅覆盖其部分作品，累计值待核。",
+    "jason-d-lotay": "已核对个人公开作品并排查两个 DOI。OpenAlex 作品署名未能稳定落到一个唯一作者档案。",
+    "haesong-seo": "IMRN 论文与 SNU 任职确认身份。OpenAlex 尚未提供足够的当前和历史机构信息验证整个作者档案。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -372,6 +380,12 @@
     "jessica-purcell": "对照官方任职、公开 ORCID 或题名和 DOI，复核代表作的单位、共同作者和 OpenAlex 高引作品。",
     "martin-orr": "对照官方任职、公开 ORCID 或题名和 DOI，复核代表作的单位、共同作者和 OpenAlex 高引作品。",
     "marco-maculan": "对照官方任职、公开 ORCID 或题名和 DOI，复核代表作的单位、共同作者和 OpenAlex 高引作品。",
-    "tim-hoffmann": "对照官方任职、公开 ORCID 或题名和 DOI，复核代表作的单位、共同作者和 OpenAlex 高引作品。"
+    "tim-hoffmann": "对照官方任职、公开 ORCID 或题名和 DOI，复核代表作的单位、共同作者和 OpenAlex 高引作品。",
+    "lorenzo-foscolo": "对照具名机构与个人页、公开 ORCID 或代表作 DOI，另复核该 OpenAlex 档案主要作品的作者及主题。",
+    "dmitri-vassiliev": "对照具名机构与个人页、公开 ORCID 或代表作 DOI，另复核该 OpenAlex 档案主要作品的作者及主题。",
+    "steven-sivek": "对照具名机构与个人页、公开 ORCID 或代表作 DOI，另复核该 OpenAlex 档案主要作品的作者及主题。",
+    "felix-schulze": "对照具名机构与个人页、公开 ORCID 或代表作 DOI，另复核该 OpenAlex 档案主要作品的作者及主题。",
+    "sarah-frei": "对照具名机构与个人页、公开 ORCID 或代表作 DOI，另复核该 OpenAlex 档案主要作品的作者及主题。",
+    "hoseob-seo": "对照具名机构与个人页、公开 ORCID 或代表作 DOI，另复核该 OpenAlex 档案主要作品的作者及主题。"
   }
 }

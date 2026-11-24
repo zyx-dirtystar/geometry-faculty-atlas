@@ -296,6 +296,9 @@ def population(db):
     source_order = {source["id"]:index for index, source in enumerate(load_sources())}
     review_path = ROOT / "verified-profiles.json"
     reviews = json.loads(review_path.read_text(encoding="utf-8")) if review_path.is_file() else []
+    unknown_schools = sorted({row["school"] for row in reviews} - regions.keys())
+    if unknown_schools:
+        raise ValueError(f"Verified profiles reference unknown school IDs: {', '.join(unknown_schools)}")
     reviewed = {(row["school"],name_key(row["name"])):row for row in reviews}
     roster_aliases = {
         (row["school"],name_key(alias)):row["name"] for row in reviews for alias in row.get("rosterAliases", [])
@@ -368,8 +371,8 @@ def population(db):
         text = " / ".join(item["text"] for item in sources)
         fields = matched_fields(text)
         group["fields"] = fields
-        if review.get("decision") == "adjacent":
-            decision = "adjacent"
+        if review.get("decision") in ("adjacent", "other_topic"):
+            decision = review["decision"]
         elif group["role"] in ("emeritus","associated","other"):
             decision = group["role"]
         elif not text or (ADJACENT.search(text) and not fields):

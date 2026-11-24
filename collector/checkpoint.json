@@ -3752,6 +3752,16 @@
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
+      "id": "monash-suzhou31",
+      "school": "monash",
+      "url": "https://www.monash.edu/SUzhou/about-us/our-people/academic-staff",
+      "label": "Monash Suzhou · Academic Staff",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "monash-topology-group31",
       "school": "monash",
       "url": "https://www.monash.edu/topology",
@@ -3760,6 +3770,16 @@
       "count": 0,
       "checked_at": null,
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "monash-topology31",
+      "school": "monash",
+      "url": "https://www.monash.edu/topology",
+      "label": "Topology Group · Academics",
+      "status": "source_error",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "网页暂未读取成功。"
     },
     {
       "id": "montreal-28-cirget",
@@ -5722,6 +5742,16 @@
       "note": "网页暂未读取成功。"
     },
     {
+      "id": "snu-parc-research31",
+      "school": "snu",
+      "url": "https://parc.math.snu.ac.kr/board/index.php?mid=Home_Lecturer",
+      "label": "PARC · 研究人员与讲师历史交叉来源",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
       "id": "snu-postdoc-en-31",
       "school": "snu",
       "url": "https://www.math.snu.ac.kr/eng/bbs/page.php?hid=postdoc",
@@ -6286,10 +6316,10 @@
       "school": "tokyo",
       "url": "https://fj-lmi.cnrs.fr/members/",
       "label": "CNRS 与东京大学 · 日法数学联合实验室成员",
-      "status": "reference",
-      "count": 0,
+      "status": "parsed",
+      "count": 27,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "官方页面列 2 位主任、6 位 PI、12 位无公开结束日期的联属及 7 位已结束联属。联合机构身份保留，原校主聘另核。"
     },
     {
       "id": "tokyo-icms31",
@@ -6312,6 +6342,16 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "tokyo-ipmu-affiliates31",
+      "school": "tokyo",
+      "url": "https://db.ipmu.jp/member/memberen.html",
+      "label": "Kavli IPMU · Affiliate Members",
+      "status": "parsed",
+      "count": 31,
+      "checked_at": "2026-11-25",
+      "note": "读取官方分栏并筛出 Mathematics 共 31 条。原册包含非数学方向及跨栏重复。"
+    },
+    {
       "id": "tokyo-ipmu-people",
       "school": "tokyo",
       "url": "https://db.ipmu.jp/member/memberen.html",
@@ -6320,6 +6360,26 @@
       "count": 7,
       "checked_at": "2026-11-23",
       "note": ""
+    },
+    {
+      "id": "tokyo-ipmu-project31",
+      "school": "tokyo",
+      "url": "https://db.ipmu.jp/member/memberen.html",
+      "label": "Kavli IPMU · Project Researchers",
+      "status": "parsed",
+      "count": 12,
+      "checked_at": "2026-11-25",
+      "note": "读取官方分栏并筛出 Mathematics 共 12 条。原册包含非数学方向及跨栏重复。"
+    },
+    {
+      "id": "tokyo-ipmu-senior31",
+      "school": "tokyo",
+      "url": "https://db.ipmu.jp/member/memberen.html",
+      "label": "Kavli IPMU · Senior Fellows",
+      "status": "parsed",
+      "count": 5,
+      "checked_at": "2026-11-25",
+      "note": "读取官方分栏并筛出 Mathematics 共 5 条。原册包含非数学方向及跨栏重复。"
     },
     {
       "id": "tokyo-ipmu-visitors31",
@@ -7012,6 +7072,36 @@
       "note": ""
     },
     {
+      "id": "ucl-campus31",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/about/campuses-and-facilities/ucl-campuses",
+      "label": "UCL · Campuses and mathematics department",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "ucl-datasig31",
+      "school": "ucl",
+      "url": "https://datasig.ac.uk/people",
+      "label": "DataSig · Cross-institution team",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "ucl-dpi31",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+      "label": "David Potter Institute for Quantum Information Science · People",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
       "id": "ucl-faculty",
       "school": "ucl",
       "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff",
@@ -7070,6 +7160,16 @@
       "count": 0,
       "checked_at": null,
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "ucl-mathphys31",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+      "label": "Mathematics · Mathematical Physics researchers",
+      "status": "parsed",
+      "count": 18,
+      "checked_at": "2026-11-25",
+      "note": "官方数学物理组 18 人，研究组职衔与教职及科研名册交叉核对。"
     },
     {
       "id": "ucl-research-fellows31",
@@ -199937,6 +200037,438 @@
       }
     },
     {
+      "source": "tokyo-fjlmi31",
+      "person_key": "ahmedabbes",
+      "school": "tokyo",
+      "record": {
+        "name": "Ahmed Abbes",
+        "title": "Center Principal Investigator",
+        "research": "Arithmetic geometry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "atsushishiho",
+      "school": "tokyo",
+      "record": {
+        "name": "Atsushi Shiho",
+        "title": "Research Affiliate · since 2024-09",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "brunokahn",
+      "school": "tokyo",
+      "record": {
+        "name": "Bruno Kahn",
+        "title": "Center Principal Investigator",
+        "research": "Arithmetic geometry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "clementerignoux",
+      "school": "tokyo",
+      "record": {
+        "name": "Clément Erignoux",
+        "title": "Research Affiliate · since 2024-10",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "danielcaro",
+      "school": "tokyo",
+      "record": {
+        "name": "Daniel Caro",
+        "title": "Former Research Affiliate · concluded public appointment",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "daniellehilhorst",
+      "school": "tokyo",
+      "record": {
+        "name": "Danielle Hilhorst",
+        "title": "Research Affiliate · since 2024-01",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "fannykassel",
+      "school": "tokyo",
+      "record": {
+        "name": "Fanny Kassel",
+        "title": "Former Research Affiliate · concluded public appointment",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "frankloray",
+      "school": "tokyo",
+      "record": {
+        "name": "Frank Loray",
+        "title": "Former Research Affiliate · concluded public appointment",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "hidekosekiguchi",
+      "school": "tokyo",
+      "record": {
+        "name": "Hideko Sekiguchi",
+        "title": "Research Affiliate · since 2023-09",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "hidetakasakai",
+      "school": "tokyo",
+      "record": {
+        "name": "Hidetaka Sakai",
+        "title": "Research Affiliate · since 2024-08",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "hirokimasuda",
+      "school": "tokyo",
+      "record": {
+        "name": "Hiroki Masuda",
+        "title": "Former Research Affiliate · concluded public appointment",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "hiroshimatano",
+      "school": "tokyo",
+      "record": {
+        "name": "Hiroshi Matano",
+        "title": "Center Principal Investigator",
+        "research": "PDE and life sciences",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "hugodacunha",
+      "school": "tokyo",
+      "record": {
+        "name": "Hugo Da Cunha",
+        "title": "Research Affiliate · since 2024-10",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "lucpirio",
+      "school": "tokyo",
+      "record": {
+        "name": "Luc Pirio",
+        "title": "Center Principal Investigator",
+        "research": "Algebraic and arithmetic geometry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "makikosasada",
+      "school": "tokyo",
+      "record": {
+        "name": "Makiko Sasada",
+        "title": "Research Affiliate · since 2024-10",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "mariellesimon",
+      "school": "tokyo",
+      "record": {
+        "name": "Marielle Simon",
+        "title": "Research Affiliate · since 2024-10",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "masahiroyamamoto",
+      "school": "tokyo",
+      "record": {
+        "name": "Masahiro Yamamoto",
+        "title": "Center Principal Investigator",
+        "research": "PDE and inverse problems",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "michaelpevzner",
+      "school": "tokyo",
+      "record": {
+        "name": "Michael Pevzner",
+        "title": "Center Director",
+        "research": "Lie theory, geometric group theory and representation theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "naokiimai",
+      "school": "tokyo",
+      "record": {
+        "name": "Naoki Imai",
+        "title": "Research Affiliate · since 2024-09",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "paulemileparadan",
+      "school": "tokyo",
+      "record": {
+        "name": "Paul-Émile Paradan",
+        "title": "Former Research Affiliate · concluded public appointment",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "stefanoolla",
+      "school": "tokyo",
+      "record": {
+        "name": "Stefano Olla",
+        "title": "Research Affiliate · since 2024-10",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "takeshisaito",
+      "school": "tokyo",
+      "record": {
+        "name": "Takeshi Saito",
+        "title": "Center Principal Investigator",
+        "research": "Arithmetic and algebraic geometry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "takuyasakasai",
+      "school": "tokyo",
+      "record": {
+        "name": "Takuya Sakasai",
+        "title": "Former Research Affiliate · concluded public appointment",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "tomoyukiabe",
+      "school": "tokyo",
+      "record": {
+        "name": "Tomoyuki Abe",
+        "title": "Research Affiliate · since 2024-09",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "toshiyukikobayashi",
+      "school": "tokyo",
+      "record": {
+        "name": "Toshiyuki Kobayashi",
+        "title": "Center Director",
+        "research": "Lie theory, geometric group theory and representation theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "valentinmassicot",
+      "school": "tokyo",
+      "record": {
+        "name": "Valentin Massicot",
+        "title": "Research Affiliate · since 2025-04",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-fjlmi31",
+      "person_key": "yasuhitomiyamoto",
+      "school": "tokyo",
+      "record": {
+        "name": "Yasuhito Miyamoto",
+        "title": "Former Research Affiliate · concluded public appointment",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://fj-lmi.cnrs.fr/members/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
       "source": "tokyo-icms31",
       "person_key": "atsushishiho",
       "school": "tokyo",
@@ -200193,6 +200725,502 @@
       }
     },
     {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "agnieszkamariabodzentaskibinska",
+      "school": "tokyo",
+      "record": {
+        "name": "Agnieszka Maria Bodzenta-Skibinska",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/1376en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "akishiikeda",
+      "school": "tokyo",
+      "record": {
+        "name": "Akishi Ikeda",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/1888en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "alexandervoronov",
+      "school": "tokyo",
+      "record": {
+        "name": "Alexander Voronov",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/670en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "alexeybondal",
+      "school": "tokyo",
+      "record": {
+        "name": "Alexey Bondal",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/170en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "annapuskas",
+      "school": "tokyo",
+      "record": {
+        "name": "Anna Puskas",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/5824en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "atsushitakahashi",
+      "school": "tokyo",
+      "record": {
+        "name": "Atsushi Takahashi",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/298en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "christianschnell",
+      "school": "tokyo",
+      "record": {
+        "name": "Christian Schnell",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/1997en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "davidrobertmorrison",
+      "school": "tokyo",
+      "record": {
+        "name": "David Robert Morrison",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/133en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "dinakarmuthiah",
+      "school": "tokyo",
+      "record": {
+        "name": "Dinakar Muthiah",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/5687en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "francescosala",
+      "school": "tokyo",
+      "record": {
+        "name": "Francesco Sala",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/5134en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "hokutouehara",
+      "school": "tokyo",
+      "record": {
+        "name": "Hokuto Uehara",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/303en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "koheisato",
+      "school": "tokyo",
+      "record": {
+        "name": "Kohei Sato",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/7563en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "kyojisaito",
+      "school": "tokyo",
+      "record": {
+        "name": "Kyoji Saito",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/57en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "makinakasuji",
+      "school": "tokyo",
+      "record": {
+        "name": "Maki Nakasuji",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/6275en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "meraltosun",
+      "school": "tokyo",
+      "record": {
+        "name": "Meral Tosun",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/7521en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "motohicomulase",
+      "school": "tokyo",
+      "record": {
+        "name": "Motohico Mulase",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/164en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "norihirohanihara",
+      "school": "tokyo",
+      "record": {
+        "name": "Norihiro Hanihara",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/6909en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "scotthuaileicarnahan",
+      "school": "tokyo",
+      "record": {
+        "name": "Scott Huai-Lei Carnahan",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/1197en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "shinnosukeokawa",
+      "school": "tokyo",
+      "record": {
+        "name": "Shinnosuke Okawa",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/1844en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "shiroikeda",
+      "school": "tokyo",
+      "record": {
+        "name": "Shiro Ikeda",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/4880en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "susumuariki",
+      "school": "tokyo",
+      "record": {
+        "name": "Susumu Ariki",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/366en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "takehikoyasuda",
+      "school": "tokyo",
+      "record": {
+        "name": "Takehiko Yasuda",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/2784en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "tatsukikuwagaki",
+      "school": "tokyo",
+      "record": {
+        "name": "Tatsuki Kuwagaki",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/5078en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "toshitakekohno",
+      "school": "tokyo",
+      "record": {
+        "name": "Toshitake Kohno",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/804en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "toshiyukikobayashi",
+      "school": "tokyo",
+      "record": {
+        "name": "Toshiyuki Kobayashi",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/805en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "vadimschechtman",
+      "school": "tokyo",
+      "record": {
+        "name": "Vadim Schechtman",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/3996en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "williamrossgoodchilddonovan",
+      "school": "tokyo",
+      "record": {
+        "name": "William Ross Goodchild Donovan",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/4007en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "yasuyukikawahigashi",
+      "school": "tokyo",
+      "record": {
+        "name": "Yasuyuki Kawahigashi",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/85en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "yoshihisasaito",
+      "school": "tokyo",
+      "record": {
+        "name": "Yoshihisa Saito",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/372en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "yusukenakajima",
+      "school": "tokyo",
+      "record": {
+        "name": "Yusuke Nakajima",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/5310en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-affiliates31",
+      "person_key": "yusukesato",
+      "school": "tokyo",
+      "record": {
+        "name": "Yusuke Sato",
+        "title": "Research Affiliate",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/6021en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
       "source": "tokyo-ipmu-people",
       "person_key": "alexeybondal",
       "school": "tokyo",
@@ -200309,6 +201337,278 @@
         "source_url": "https://db.ipmu.jp/member/memberen.html",
         "checked_at": "2026-11-23",
         "unit": "Kavli IPMU"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-project31",
+      "person_key": "andreigrekov",
+      "school": "tokyo",
+      "record": {
+        "name": "Andrei Grekov",
+        "title": "Project Researcher",
+        "research": "Integrable systems, representation theory and mathematical quantum field theory",
+        "profile": "https://db.ipmu.jp/member/personal/8031en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-project31",
+      "person_key": "anyanordskova",
+      "school": "tokyo",
+      "record": {
+        "name": "Anya Nordskova",
+        "title": "Kavli IPMU Fellow",
+        "research": "Derived categories in commutative and noncommutative algebraic geometry, representation theory and differential geometry",
+        "profile": "https://db.ipmu.jp/member/personal/8051en.html",
+        "homepage": "https://anyanord.ru/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-project31",
+      "person_key": "chihongchow",
+      "school": "tokyo",
+      "record": {
+        "name": "Chi Hong Chow",
+        "title": "Project Researcher",
+        "research": "Enumerative geometry of flag varieties, mirror symmetry, and Langlands duality",
+        "profile": "https://db.ipmu.jp/member/personal/8387en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-project31",
+      "person_key": "dariusandreasdramburg",
+      "school": "tokyo",
+      "record": {
+        "name": "Darius Andreas Dramburg",
+        "title": "STINT Postdoctoral Fellow",
+        "research": "Representation theory and algebraic geometry of skew group algebras and McKay quivers",
+        "profile": "https://db.ipmu.jp/member/personal/8062en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-project31",
+      "person_key": "konstantinaleshkin",
+      "school": "tokyo",
+      "record": {
+        "name": "Konstantin Aleshkin",
+        "title": "Kavli IPMU Fellow",
+        "research": "Enumerative algebraic geometry, Gromov–Witten theory and mirror symmetry",
+        "profile": "https://db.ipmu.jp/member/personal/5632en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-project31",
+      "person_key": "linghufan",
+      "school": "tokyo",
+      "record": {
+        "name": "Linghu Fan",
+        "title": "JSPS Postdoctoral Fellow",
+        "research": "Algebraic geometry of quotient singularities and the McKay correspondence in positive characteristic",
+        "profile": "https://db.ipmu.jp/member/personal/6823en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-project31",
+      "person_key": "lutianzhao",
+      "school": "tokyo",
+      "record": {
+        "name": "Lutian Zhao",
+        "title": "Project Researcher · Postdoctoral Researcher",
+        "research": "Enumerative algebraic geometry, representation theory and string theory",
+        "profile": "https://db.ipmu.jp/member/personal/7707en.html",
+        "homepage": "https://lutian-zhao.github.io/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-project31",
+      "person_key": "nobuoiida",
+      "school": "tokyo",
+      "record": {
+        "name": "Nobuo Iida",
+        "title": "Project Researcher",
+        "research": "Gauge theory and differential geometry in dimension four, including symplectic and contact structures",
+        "profile": "https://db.ipmu.jp/member/personal/8246en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-project31",
+      "person_key": "sarunaskaubrys",
+      "school": "tokyo",
+      "record": {
+        "name": "Sarunas Kaubrys",
+        "title": "Project Researcher",
+        "research": "Derived algebraic geometry, geometric representation theory and cohomological Donaldson–Thomas invariants",
+        "profile": "https://db.ipmu.jp/member/personal/7877en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-project31",
+      "person_key": "simengsimonehu",
+      "school": "tokyo",
+      "record": {
+        "name": "Simeng Simone Hu",
+        "title": "Project Researcher",
+        "research": "Differential forms on symmetric spaces, tropical moduli spaces, graph complexes and periods",
+        "profile": "https://db.ipmu.jp/member/personal/8025en.html",
+        "homepage": "https://simonehu.github.io/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-project31",
+      "person_key": "tianlemao",
+      "school": "tokyo",
+      "record": {
+        "name": "Tianle Mao",
+        "title": "Project Researcher",
+        "research": "Algebraic geometry of projective varieties, Bridgeland stability and moduli spaces",
+        "profile": "https://db.ipmu.jp/member/personal/6022en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-project31",
+      "person_key": "tizianogaibisso",
+      "school": "tokyo",
+      "record": {
+        "name": "Tiziano Gaibisso",
+        "title": "JSPS Postdoctoral Fellow",
+        "research": "Mathematics and representation theory with an Imperial College London affiliation",
+        "profile": "https://db.ipmu.jp/member/personal/8046en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-senior31",
+      "person_key": "alexeybondal",
+      "school": "tokyo",
+      "record": {
+        "name": "Alexey Bondal",
+        "title": "Senior Fellow",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/170en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-senior31",
+      "person_key": "andreiokounkov",
+      "school": "tokyo",
+      "record": {
+        "name": "Andrei Okounkov",
+        "title": "Senior Fellow",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/5480en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-senior31",
+      "person_key": "kyojisaito",
+      "school": "tokyo",
+      "record": {
+        "name": "Kyoji Saito",
+        "title": "Senior Fellow",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/57en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-senior31",
+      "person_key": "toshitakekohno",
+      "school": "tokyo",
+      "record": {
+        "name": "Toshitake Kohno",
+        "title": "Senior Fellow",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/804en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "tokyo-ipmu-senior31",
+      "person_key": "toshiyukikobayashi",
+      "school": "tokyo",
+      "record": {
+        "name": "Toshiyuki Kobayashi",
+        "title": "Senior Fellow",
+        "research": "",
+        "profile": "https://db.ipmu.jp/member/personal/805en.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://db.ipmu.jp/member/memberen.html",
+        "checked_at": "2026-11-25"
       }
     },
     {
@@ -225997,6 +227297,294 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-mathphys31",
+      "person_key": "alansokal",
+      "school": "ucl",
+      "record": {
+        "name": "Alan Sokal",
+        "title": "Research Group Member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-mathphys31",
+      "person_key": "alexsobolev",
+      "school": "ucl",
+      "record": {
+        "name": "Alex Sobolev",
+        "title": "Research Group Member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-mathphys31",
+      "person_key": "antoniodalfonsodelsordo",
+      "school": "ucl",
+      "record": {
+        "name": "Antonio d’Alfonso del Sordo",
+        "title": "Research Group Member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-mathphys31",
+      "person_key": "bettihartmann",
+      "school": "ucl",
+      "record": {
+        "name": "Betti Hartmann",
+        "title": "Research Group Member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-mathphys31",
+      "person_key": "christianboehmer",
+      "school": "ucl",
+      "record": {
+        "name": "Christian Boehmer",
+        "title": "Research Group Member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-mathphys31",
+      "person_key": "dmitrivassiliev",
+      "school": "ucl",
+      "record": {
+        "name": "Dmitri Vassiliev",
+        "title": "Research Group Member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-mathphys31",
+      "person_key": "erikjensko",
+      "school": "ucl",
+      "record": {
+        "name": "Erik Jensko",
+        "title": "Research Group Member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-mathphys31",
+      "person_key": "jeffreygalkowski",
+      "school": "ucl",
+      "record": {
+        "name": "Jeffrey Galkowski",
+        "title": "Research Group Member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-mathphys31",
+      "person_key": "leonidparnovski",
+      "school": "ucl",
+      "record": {
+        "name": "Leonid Parnovski",
+        "title": "Research Group Member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-mathphys31",
+      "person_key": "mahirhadzic",
+      "school": "ucl",
+      "record": {
+        "name": "Mahir Hadzic",
+        "title": "Research Group Member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-mathphys31",
+      "person_key": "marcellomalagutti",
+      "school": "ucl",
+      "record": {
+        "name": "Marcello Malagutti",
+        "title": "Research Group Member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-mathphys31",
+      "person_key": "michalkwasigroch",
+      "school": "ucl",
+      "record": {
+        "name": "Michal Kwasigroch",
+        "title": "Research Group Member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-mathphys31",
+      "person_key": "nadiasidorova",
+      "school": "ucl",
+      "record": {
+        "name": "Nadia Sidorova",
+        "title": "Research Group Member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-mathphys31",
+      "person_key": "philippecharron",
+      "school": "ucl",
+      "record": {
+        "name": "Philippe Charron",
+        "title": "Research Group Member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-mathphys31",
+      "person_key": "rodhalburd",
+      "school": "ucl",
+      "record": {
+        "name": "Rod Halburd",
+        "title": "Research Group Member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-mathphys31",
+      "person_key": "rosemaryharris",
+      "school": "ucl",
+      "record": {
+        "name": "Rosemary Harris",
+        "title": "Research Group Member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-mathphys31",
+      "person_key": "selimghazouani",
+      "school": "ucl",
+      "record": {
+        "name": "Selim Ghazouani",
+        "title": "Research Group Member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-mathphys31",
+      "person_key": "yanlongfang",
+      "school": "ucl",
+      "record": {
+        "name": "Yan-Long Fang",
+        "title": "Research Group Member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
         "checked_at": "2026-11-25"
       }
     },
@@ -308045,19 +309633,6 @@
       "checked_at": "2026-11-23"
     },
     {
-      "url": "https://warwick.ac.uk/fac/sci/maths/people/staff/schulze",
-      "cache_id": "profile-ee4218480f76b0d9",
-      "status": "parsed",
-      "record": {
-        "research": "Differential Geometry, Partial Differential Equations and Geometric Analysis. I am especially interested in geometric flows (mean curvature flow, Ricci flow, Willmore flow etc), minimal surfaces and Willmore surfaces. / Research Interests: Differential Geometry, Partial Differential Equations and Geometric Analysis. I am especially interested in geometric flows (mean curvature flow, Ricci flow, Willmore flow etc), minimal surfaces and Willmore surfaces.",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
       "url": "https://warwick.ac.uk/fac/sci/maths/people/staff/ssood",
       "cache_id": "profile-5b4858e8ccd9414a",
       "status": "parsed",
@@ -336371,20 +337946,6 @@
       "checked_at": "2026-11-23"
     },
     {
-      "url": "https://www.maths.ox.ac.uk/people/jason.lotay",
-      "cache_id": "profile-eaa3e9030f938298",
-      "status": "parsed",
-      "record": {
-        "research": "I work on differential geometry and geometric analysis. I am particularly interested in geometry related with special holonomy and calibrated submanifolds, geometric flows including Lagrangian mean curvature flow and the G 2 -Laplacian flow, as well as gauge theory, typically in higher dimensions, and geometric problems arising from theoretical physics, such as M-Theory and heterotic String Theory. / Research groups Geometry Mathematical Physics Oxford Centre for Nonlinear PDE / Research interests I work on differential geometry and geometric analysis. I am particularly interested in geometry related with special holonomy and calibrated submanifolds, geometric flows including Lagrangian mean curvature flow and the G 2 -Laplacian flow, as well as gauge theory, typically in higher dimensions, and geometric problems arising from theoretical physics, such as M-Theory and heterotic String Theory.",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "orcid": "0000-0002-0456-4538",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
       "url": "https://www.maths.ox.ac.uk/people/jochen.koenigsmann",
       "cache_id": "profile-cbbc77d9fbf3cfdc",
       "status": "parsed",
@@ -356762,6 +358323,27 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "dmitri-vassiliev": {
+      "status": "review_ready",
+      "author_id": "A5064744298",
+      "papers": [],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5064744298",
+        "orcid": "https://orcid.org/0000-0001-5150-9083",
+        "url": "https://openalex.org/authors/A5064744298",
+        "authorApiUrl": "https://api.openalex.org/authors/A5064744298",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5064744298,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 47,
+        "works": 103,
+        "citations": 1628,
+        "hIndex": 18,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "dmitriy-rumynin": {
       "status": "source_error",
       "reason": "OpenAlex 请求或返回数据失败。",
@@ -357004,9 +358586,36 @@
       }
     },
     "felix-schulze": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "checkedAt": "2026-11-23"
+      "status": "review_ready",
+      "author_id": "A5047248750",
+      "papers": [
+        {
+          "title": "Consequences of Strong Stability of Minimal Submanifolds",
+          "year": 2018,
+          "url": "https://doi.org/10.1093/imrn/rny095"
+        },
+        {
+          "title": "Remarks on the self-shrinking Clifford torus",
+          "year": 2019,
+          "url": "https://doi.org/10.1515/crelle-2019-0015"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5047248750",
+        "orcid": "https://orcid.org/0000-0002-7011-2126",
+        "url": "https://openalex.org/authors/A5047248750",
+        "authorApiUrl": "https://api.openalex.org/authors/A5047248750",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5047248750,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 41,
+        "works": 66,
+        "citations": 1943,
+        "hIndex": 26,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "fernando-coda-marques": {
       "status": "review_ready",
@@ -357225,6 +358834,12 @@
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5040280051"
     },
+    "haesong-seo": {
+      "status": "identity_review",
+      "reason": "当前与历史机构缺少可核对的匹配。",
+      "author_id": "A5113970128",
+      "checkedAt": "2026-11-25"
+    },
     "hamid-abban": {
       "status": "review_ready",
       "author_id": "A5029975180",
@@ -357320,6 +358935,38 @@
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
+    },
+    "hoseob-seo": {
+      "status": "review_ready",
+      "author_id": "A5003528447",
+      "papers": [
+        {
+          "title": "On the Schwarz Lemma for Bergman metrics of bounded domains",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s12220-026-02488-9"
+        },
+        {
+          "title": "On $$L^2$$ extension from singular hypersurfaces",
+          "year": 2023,
+          "url": "https://doi.org/10.1007/s00209-023-03248-z"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5003528447",
+        "orcid": "https://orcid.org/0000-0002-9589-2106",
+        "url": "https://openalex.org/authors/A5003528447",
+        "authorApiUrl": "https://api.openalex.org/authors/A5003528447",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5003528447,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 5,
+        "works": 7,
+        "citations": 48,
+        "hIndex": 3,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "hubert-bray": {
       "status": "identity_review",
@@ -357643,9 +359290,13 @@
     },
     "jason-d-lotay": {
       "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/A5025931295"
+      "reason": "论文作者姓名没有唯一匹配。",
+      "checkedAt": "2026-11-25"
+    },
+    "jason-lotay": {
+      "status": "identity_review",
+      "reason": "论文作者姓名没有唯一匹配。",
+      "checkedAt": "2026-11-25"
     },
     "jason-semeraro": {
       "status": "identity_review",
@@ -358600,9 +360251,36 @@
       "checkedAt": "2026-11-23"
     },
     "lorenzo-foscolo": {
-      "status": "source_error",
-      "reason": "OpenAlex HTTP 404",
-      "checkedAt": "2026-11-25"
+      "status": "review_ready",
+      "author_id": "A5010480492",
+      "papers": [
+        {
+          "title": "Calorons and Constituent Monopoles",
+          "year": 2023,
+          "url": "https://doi.org/10.1007/s00220-023-04827-1"
+        },
+        {
+          "title": "Hypertoric varieties, $W$-Hilbert schemes, and Coulomb branches",
+          "year": 2023,
+          "url": "https://doi.org/10.48550/arXiv.2304.08125"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5010480492",
+        "orcid": null,
+        "url": "https://openalex.org/authors/A5010480492",
+        "authorApiUrl": "https://api.openalex.org/authors/A5010480492",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5010480492,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 12,
+        "works": 21,
+        "citations": 447,
+        "hIndex": 10,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "lotte-hollands": {
       "status": "review_ready",
@@ -360962,6 +362640,33 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
     },
+    "sarah-frei": {
+      "status": "review_ready",
+      "author_id": "A5055333253",
+      "papers": [
+        {
+          "title": "Cubic fourfolds with birational Fano varieties of lines",
+          "year": 2024,
+          "url": "https://doi.org/10.48550/arXiv.2410.22259"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5055333253",
+        "orcid": "https://orcid.org/0000-0001-8879-7891",
+        "url": "https://openalex.org/authors/A5055333253",
+        "authorApiUrl": "https://api.openalex.org/authors/A5055333253",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5055333253,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 12,
+        "works": 20,
+        "citations": 93,
+        "hIndex": 6,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "saugata-basu": {
       "status": "source_error",
       "reason": "OpenAlex 请求或返回数据失败。",
@@ -361207,6 +362912,27 @@
         "works": 28,
         "citations": 439,
         "hIndex": 12,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "steven-sivek": {
+      "status": "review_ready",
+      "author_id": "A5045169936",
+      "papers": [],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5045169936",
+        "orcid": "https://orcid.org/0000-0003-0230-8087",
+        "url": "https://openalex.org/authors/A5045169936",
+        "authorApiUrl": "https://api.openalex.org/authors/A5045169936",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5045169936,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 42,
+        "works": 61,
+        "citations": 1065,
+        "hIndex": 20,
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
       }
