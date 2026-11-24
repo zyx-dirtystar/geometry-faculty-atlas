@@ -2169,8 +2169,8 @@
   },
   "johns-hopkins-people": {
     "url": "https://mathematics.jhu.edu/people/",
-    "checkedAt": "2026-11-23",
-    "scope": "已核录官方 People 页 Faculty 类别的 36 位人员。关联教师、博士后及荣休教师另有栏目。",
+    "checkedAt": "2026-11-24",
+    "scope": "复核四个学术分栏的 50 条记录。常任、三年期 Sylvester、联属、其他博士后和荣休分别判定。",
     "entries": [
       {
         "name": "Cesar Bardomiano Martinez",
@@ -2196,7 +2196,7 @@
       {
         "name": "Caterina Consani",
         "title": "Professor",
-        "research": "Arithmetic geometry / noncommutative geometry",
+        "research": "Arithmetic geometry, number theory, non-commutative geometry",
         "profile": "https://mathematics.jhu.edu/directory/caterina-consani/"
       },
       {
@@ -2217,12 +2217,12 @@
       {
         "name": "Ruiyu Han",
         "title": "J.J. Sylvester Assistant Professor",
-        "research": "Other specified mathematics research"
+        "research": "Optimal transport, high-dimensional statistics and partial differential equations"
       },
       {
         "name": "Mengwei Hu",
         "title": "J.J. Sylvester Assistant Professor",
-        "research": "Algebraic geometry, symplectic geometry and representation theory",
+        "research": "Representation theory, algebraic and symplectic geometry",
         "homepage": "https://hmengwei.github.io/"
       },
       {
@@ -2233,7 +2233,7 @@
       {
         "name": "Mikhail Khovanov",
         "title": "Professor",
-        "research": "Other specified mathematics research"
+        "research": "Categorification, representation theory, low-dimensional topology"
       },
       {
         "name": "Nitu Kitchloo",
@@ -2243,13 +2243,13 @@
       {
         "name": "Chi Li",
         "title": "Research Professor",
-        "research": "Complex geometry / algebraic geometry / geometric analysis",
+        "research": "Complex geometry, algebraic geometry, and geometric analysis",
         "homepage": "https://math.jhu.edu/~chili/"
       },
       {
         "name": "Zhaolin Li",
         "title": "J.J. Sylvester Assistant Professor",
-        "research": "Other specified mathematics research"
+        "research": "Automorphic forms, L-functions, relative trace formula, relative Langlands program"
       },
       {
         "name": "Hans Lindblad",
@@ -2259,7 +2259,7 @@
       {
         "name": "Fei Lu",
         "title": "Director of Graduate Studies, Associate Professor",
-        "research": "Other specified mathematics research"
+        "research": "Malliavin calculus, stochastic PDE, stochastic modeling in scientific computing, statistical inference, and data assimilation"
       },
       {
         "name": "Mauro Maggioni",
@@ -2285,7 +2285,7 @@
       {
         "name": "Dat Pham",
         "title": "J.J. Sylvester Assistant Professor",
-        "research": "p-adic Hodge theory and arithmetic geometry"
+        "research": "Integral p-adic Hodge theory, moduli spaces of p-adic Galois representations, p-adic Langlands program"
       },
       {
         "name": "Emily Riehl",
@@ -2333,12 +2333,12 @@
       {
         "name": "Zhiren Wang",
         "title": "Professor",
-        "research": "Other specified mathematics research"
+        "research": "Homogeneous dynamical systems, classification of group actions, number theory, and machine learning"
       },
       {
         "name": "Kayla Wright",
         "title": "Senior Lecturer",
-        "research": "Other specified mathematics research"
+        "research": "Algebraic combinatorics, cluster algebras and representation theory"
       },
       {
         "name": "Yueqiao Wu",
@@ -2349,7 +2349,7 @@
       {
         "name": "Murilo Corato Zanarella",
         "title": "J.J. Sylvester Assistant Professor",
-        "research": "Other specified mathematics research"
+        "research": "Arithmetic aspects of the (relative) Langlands program, Euler systems and Iwasawa theory"
       },
       {
         "name": "Zihui Zhao",
@@ -2362,6 +2362,76 @@
         "title": "Professor",
         "research": "Algebraic geometry",
         "homepage": "https://sites.google.com/view/ziquan-zhuang/"
+      },
+      {
+        "name": "Gregory Eyink",
+        "title": "Affiliated Faculty · Professor",
+        "research": "Mathematical physics, fluid mechanics, turbulence, dynamical systems, partial differential equations, non-equilibrium statistical physics, geophysics and climate, astrophysics, and plasma physics"
+      },
+      {
+        "name": "Edinah Gnang",
+        "title": "Affiliated Faculty · Assistant Professor",
+        "research": "Discrete mathematics, graph theory, multilinear algebra, image analysis, experimental math"
+      },
+      {
+        "name": "Tim Kunisky",
+        "title": "Affiliated Faculty · Assistant Professor",
+        "research": "Probability theory, statistics, mathematical data science, convex optimization, discrete mathematics, computational complexity"
+      },
+      {
+        "name": "Sixu Li",
+        "title": "Postdoctoral Fellow",
+        "research": "Applied mathematics and machine learning interacting particle systems, non-convex optimization, multi-agent-based learning, and generative modeling"
+      },
+      {
+        "name": "Egbert Rijke",
+        "title": "Postdoctoral Fellow",
+        "research": "Univalent mathematics and formalization of mathematics"
+      },
+      {
+        "name": "Colton Sandvik",
+        "title": "Simons Collaboration Postdoctoral Fellow",
+        "research": "Geometric representation theory and modular representation theory"
+      },
+      {
+        "name": "Matthew Sunohara",
+        "title": "NSERC Postdoctoral Fellow",
+        "research": "Langlands program, topological graph theory"
+      },
+      {
+        "name": "Prairie Wentworth-Nice",
+        "title": "Postdoctoral Teaching Fellow",
+        "research": "Algebraic combinatorics"
+      },
+      {
+        "name": "Haihan Wu",
+        "title": "Simons Collaboration Postdoctoral Fellow",
+        "research": "Representation theory, low-dimensional topology, and categorification"
+      },
+      {
+        "name": "Yantao Wu",
+        "title": "Postdoctoral Fellow",
+        "research": "Statistical machine learning LLM agents, partial differential equations, AI for science"
+      },
+      {
+        "name": "Bernard Shiffman",
+        "title": "Professor Emeritus and Academy Professor",
+        "research": "several complex variables, complex geometry"
+      },
+      {
+        "name": "Vyacheslav Shokurov",
+        "title": "Professor Emeritus",
+        "research": "Algebraic geometry"
+      },
+      {
+        "name": "Joel Spruck",
+        "title": "J.J. Sylvester Professor Emeritus",
+        "research": "Partial differential equations, geometric analysis"
+      },
+      {
+        "name": "W. Stephen Wilson",
+        "title": "Professor Emeritus",
+        "research": "Algebraic topology, homotopy theory"
       }
     ]
   },
@@ -5031,6 +5101,294 @@
         "name": "김대준",
         "title": "Assistant Professor",
         "research": "Algebra"
+      }
+    ]
+  },
+  "psau-handbook-30-a": {
+    "url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+    "checkedAt": "2026-11-24",
+    "scope": "手册 116–117 页列 33 条。以名录所列职级为历史基线，未明确的研究方向继续核对具名档案。",
+    "entries": [
+      {
+        "name": "Fahd bin Misfer Al-Jaidi",
+        "title": "Head of Department"
+      },
+      {
+        "name": "Rene George",
+        "title": "Professor"
+      },
+      {
+        "name": "Essam Rushdi Al-Zahhar",
+        "title": "Professor"
+      },
+      {
+        "name": "Muhammad Mudathir Muhammad Abdo",
+        "title": "Professor"
+      },
+      {
+        "name": "Hossam Nabawy",
+        "title": "Professor"
+      },
+      {
+        "name": "Nisar Kotakaran Subi",
+        "title": "Professor"
+      },
+      {
+        "name": "Mahmoud Mohamed Salim Saleh",
+        "title": "Professor"
+      },
+      {
+        "name": "Abdel Basit Abdel Hamid Mohamed",
+        "title": "Professor"
+      },
+      {
+        "name": "Mohamed Abdel Rahman El Shorbagy",
+        "title": "Professor"
+      },
+      {
+        "name": "Abdullah bin Mohammed Ahmed Al-Durahim",
+        "title": "Associate Professor"
+      },
+      {
+        "name": "Khader Hayat Khan",
+        "title": "Associate Professor"
+      },
+      {
+        "name": "Abdel-Aleem Abdo Al-Saadani",
+        "title": "Associate Professor"
+      },
+      {
+        "name": "Mahmoud Al-Morshedy",
+        "title": "Associate Professor"
+      },
+      {
+        "name": "Amr Refaat Turki El-Sunbaty",
+        "title": "Associate Professor"
+      },
+      {
+        "name": "Raja Goplan",
+        "title": "Associate Professor"
+      },
+      {
+        "name": "Abdel Fattah Azzam",
+        "title": "Associate Professor"
+      },
+      {
+        "name": "Imad Rizq Attia",
+        "title": "Associate Professor"
+      },
+      {
+        "name": "Fahd bin Samir Wadi Al-Shammari",
+        "title": "Associate Professor"
+      },
+      {
+        "name": "Imad Al-Qadim",
+        "title": "Associate Professor"
+      },
+      {
+        "name": "Murad Mustafa Shehadeh Ara R",
+        "title": "Associate Professor"
+      },
+      {
+        "name": "Hani Samih Bayoumi",
+        "title": "Associate Professor"
+      },
+      {
+        "name": "Majid Khan",
+        "title": "Associate Professor"
+      },
+      {
+        "name": "Mohamed Metwally Attia Metwally",
+        "title": "Associate Professor"
+      },
+      {
+        "name": "Muhammad Abdullah Al-Shahrani",
+        "title": "Assistant Professor"
+      },
+      {
+        "name": "Mohamed Mohamed Awad Abdel Jalil",
+        "title": "Assistant Professor"
+      },
+      {
+        "name": "Jalal Abdel Qader Al-Ashari",
+        "title": "Assistant Professor"
+      },
+      {
+        "name": "Abdul Karim Muhammad Hamarsha",
+        "title": "Assistant Professor"
+      },
+      {
+        "name": "Muhammad Nasser Al-Shahrani",
+        "title": "Assistant Professor"
+      },
+      {
+        "name": "Md. Taufiq Nasseef",
+        "title": "Assistant Professor",
+        "research": "Computational neuroscience and mathematical modelling"
+      },
+      {
+        "name": "Muhammad Saud Abdul Aziz Al Daoud",
+        "title": "Assistant Professor"
+      },
+      {
+        "name": "Abdulaziz Al-Otaibi",
+        "title": "Assistant Professor"
+      },
+      {
+        "name": "Tariq Muhammad Abdel Latif",
+        "title": "Assistant Professor"
+      },
+      {
+        "name": "Mahmoud Hosseini Harbi",
+        "title": "Assistant Professor"
+      }
+    ]
+  },
+  "psau-handbook-30-b": {
+    "url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+    "checkedAt": "2026-11-24",
+    "scope": "手册 117–118 页列 34 条。分别记录教授、讲师与助教，方向过宽的条目需查个人科研来源。",
+    "entries": [
+      {
+        "name": "Afrah Abulqasim Basali",
+        "title": "Professor",
+        "research": "Mathematical statistics"
+      },
+      {
+        "name": "Mashael Mothebet Albaidani",
+        "title": "Associate Professor",
+        "research": "Linear algebra and its applications"
+      },
+      {
+        "name": "Laila Fouad Seddek",
+        "title": "Associate Professor",
+        "research": "Numerical analysis"
+      },
+      {
+        "name": "Karima Mohamed Oraby",
+        "title": "Associate Professor"
+      },
+      {
+        "name": "Gehad Mohamed Mahfood",
+        "title": "Assistant Professor"
+      },
+      {
+        "name": "Ola Abdelnaby Ashour",
+        "title": "Assistant Professor"
+      },
+      {
+        "name": "Shaimaa Abdou Ahmed Dawood",
+        "title": "Assistant Professor"
+      },
+      {
+        "name": "Abeer Adel Alnana",
+        "title": "Assistant Professor"
+      },
+      {
+        "name": "Jihan Ghazi Alahmadi",
+        "title": "Assistant Professor"
+      },
+      {
+        "name": "Aeshah Abdullah Aldosari",
+        "title": "Assistant Professor"
+      },
+      {
+        "name": "Sarah Rashed Aldawsari",
+        "title": "Assistant Professor",
+        "research": "Stochastic modelling"
+      },
+      {
+        "name": "Hala Abdelmageed Mahmoud",
+        "title": "Assistant Professor"
+      },
+      {
+        "name": "Rabab Omar Alzahrani",
+        "title": "Assistant Professor"
+      },
+      {
+        "name": "Hend Salah Shahen",
+        "title": "Assistant Professor",
+        "research": "Mathematical statistics"
+      },
+      {
+        "name": "Enas Hassan Elkordy",
+        "title": "Assistant Professor"
+      },
+      {
+        "name": "Amna Mohammed Ali",
+        "title": "Lecturer"
+      },
+      {
+        "name": "Manal Abdullah Alhaqbani",
+        "title": "Lecturer"
+      },
+      {
+        "name": "Faizah Matar Alharbi",
+        "title": "Lecturer"
+      },
+      {
+        "name": "Ashwag Khalid Aljeraiwi",
+        "title": "Lecturer"
+      },
+      {
+        "name": "Shikhah Ibrahim Alothman",
+        "title": "Lecturer"
+      },
+      {
+        "name": "Manasik Mahjob Mustafa",
+        "title": "Lecturer"
+      },
+      {
+        "name": "Basheer Rashid Aldosari",
+        "title": "Lecturer"
+      },
+      {
+        "name": "Nouf Katib Alawaji",
+        "title": "Lecturer"
+      },
+      {
+        "name": "Noura Abdulrahman Alquwazani",
+        "title": "Lecturer"
+      },
+      {
+        "name": "Sarah Saleh Alassaf",
+        "title": "Lecturer"
+      },
+      {
+        "name": "Sabah Sidig Hasballa Sidig",
+        "title": "Lecturer"
+      },
+      {
+        "name": "Munirah Abdullah Alrumayli",
+        "title": "Lecturer"
+      },
+      {
+        "name": "Reem Sulaiman Alrashed",
+        "title": "Lecturer"
+      },
+      {
+        "name": "Sharifah Ali Almaymuni",
+        "title": "Lecturer"
+      },
+      {
+        "name": "Maryam Mubarak Almadrada",
+        "title": "Lecturer"
+      },
+      {
+        "name": "Latifa Abdulatif Almulhim",
+        "title": "Teaching Assistant"
+      },
+      {
+        "name": "Fatimah Muhamad Aldrees",
+        "title": "Teaching Assistant"
+      },
+      {
+        "name": "Refah Mohammed Alwthiah",
+        "title": "Teaching Assistant"
+      },
+      {
+        "name": "Somaya Ibrahim Alshber",
+        "title": "Teaching Assistant"
       }
     ]
   }

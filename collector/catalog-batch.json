@@ -1731,14 +1731,22 @@
     {
       "id": "johns-hopkins",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，2 条任职或方向待核。 已收录 7 位学者，个人主页 4、CV 3、指标 2。 对照数学系现任名册与官方招聘分类。Sylvester 助理教授为三年期博士后，保留姓名与公开字段在人员复核表。联合、访问、荣休及应用数学研究群另对账。",
+      "coverageNote": "已解析 1/5 个登记来源，0 条任职或方向待核。 已逐条核对 数学系 · Faculty、Associated Faculty、Postdoctoral Fellows 和 Emeriti。 已收录 8 位学者，个人主页 5、CV 3、指标 2。 已核数学系当前常任、联属、博士后和荣休四栏的 50 条学术记录。另查应用数学、统计和数据科学中心。对照 Stanford 核实一份旧任职，区分几何数据分析和辛几何相关拓扑。交叉单位人员仍需逐条对账。",
       "rosterLinks": [
+        [
+          "Department of Applied Mathematics and Statistics · Faculty",
+          "https://engineering.jhu.edu/ams/faculty/"
+        ],
+        [
+          "Mathematical Institute for Data Science · Faculty",
+          "https://www.minds.jhu.edu/faculty/"
+        ],
         [
           "Mathematics Department · Sylvester 职级说明",
           "https://mathematics.jhu.edu/about/jobs/"
         ],
         [
-          "数学系 People",
+          "数学系 · Faculty、Associated Faculty、Postdoctoral Fellows 和 Emeriti",
           "https://mathematics.jhu.edu/people/"
         ],
         [
@@ -1746,7 +1754,7 @@
           "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/mathematics/#facultytext"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-24"
     },
     {
       "id": "king-khalid",
@@ -1811,7 +1819,7 @@
     {
       "id": "prince-sattam",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，0 条任职或方向待核。 已补查 PSAU 官网数学系、相关学院与英文几何方向索引，未发现能同时核实三类方向及当前职位的个人记录。",
+      "coverageNote": "已解析 3/6 个登记来源，46 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 0。 已核录 Al Kharj 数学系 2025 手册的男生部 33 条、女生部 34 条名册，从现行科研门户和出版社论文确认 Al-Sulail 的一位微分几何学者。手册未列细分方向的人员及其他校区待逐项核。",
       "rosterLinks": [
         [
           "Mathematics · Research Portal",
@@ -1820,9 +1828,25 @@
         [
           "数学系研究档案",
           "https://psau.sa.elsevierpure.com/en/organisations/mathematics-5/persons/"
+        ],
+        [
+          "Faculty Members · Al Kharj 数学系",
+          "https://faculty.psau.edu.sa/en/psau/facultymembers/1?college=3898&dept=3937&name="
+        ],
+        [
+          "Department of Mathematics · 2025 Handbook · 男生部",
+          "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116"
+        ],
+        [
+          "Department of Mathematics · 2025 Handbook · 女生部",
+          "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117"
+        ],
+        [
+          "Sciences in Sulail · 有关人员",
+          "https://psau.sa.elsevierpure.com/en/organisations/sciences-in-sulail/persons/"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-24"
     },
     {
       "id": "sapienza",
@@ -2503,8 +2527,20 @@
     {
       "id": "qmul",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 1、指标 0。",
+      "coverageNote": "已解析 1/4 个登记来源，0 条任职或方向待核。 已收录 6 位学者，个人主页 3、CV 3、指标 0。 已查数学科学学院 72 张现任卡片以及两处中心 Academics 分栏（几何、分析与引力 17 人、组合代数与数论 18 人）。新增的代数和算术几何学者均有个别专长来源，中心其他学者与联合任职仍须逐人复核。",
       "rosterLinks": [
+        [
+          "Centre for Combinatorics, Algebra and Number Theory · Academics",
+          "https://www.seresearch.qmul.ac.uk/ccant/people/academics/"
+        ],
+        [
+          "Centre for Combinatorics, Algebra and Number Theory · Algebra",
+          "https://www.seresearch.qmul.ac.uk/ccant/research/algebra/"
+        ],
+        [
+          "Centre for Geometry, Analysis and Gravitation · Academics",
+          "https://www.seresearch.qmul.ac.uk/cgag/people/academics/"
+        ],
         [
           "数学科学学院学术人员",
           "https://www.qmul.ac.uk/maths/people/academic-staff/"
@@ -2947,7 +2983,7 @@
     {
       "id": "korea-university",
       "coverage": "sample",
-      "coverageNote": "已解析 5/6 个登记来源，0 条任职或方向待核。 已逐条核对 수학교육과 · 교수진（数学教育系现任）、수학과 · 명예교수（数学系荣休）、수학과 · 전임교수（数学系韩文现任教师）、수학과 · 방문연구자 및 연구교수（访问及研究教授）。 已收录 4 位学者，个人主页 2、CV 0、指标 0。 对照 17 位韩文现任教师、17 位荣休、13 条访问记录、数学教育系 6 位教师及官方研究方向表。补入英文旧页少收的代数几何与数学教育系的曲面几何，纠正两名荣休任职。其他校区及联合单位补查中。",
+      "coverageNote": "已解析 5/6 个登记来源，0 条任职或方向待核。 已逐条核对 수학교육과 · 교수진（数学教育系现任）、수학과 · 명예교수（数学系荣休）、수학과 · 전임교수（数学系韩文现任教师）、수학과 · 방문연구자 및 연구교수（访问及研究教授）。 已收录 4 位学者，个人主页 2、CV 0、指标 2。 对照 17 位韩文现任教师、17 位荣休、13 条访问记录、数学教育系 6 位教师及官方研究方向表。补入英文旧页少收的代数几何与数学教育系的曲面几何，纠正两名荣休任职。其他校区及联合单位补查中。",
       "rosterLinks": [
         [
           "数学系或所属学院人员入口",
@@ -3151,7 +3187,7 @@
     {
       "id": "postech",
       "coverage": "sample",
-      "coverageNote": "已解析 2/5 个登记来源，0 条任职或方向待核。 已收录 6 位学者，个人主页 4、CV 3、指标 2。 已对照现任常任页、Geometry & Topology、代数和数论方向、IBS 几何物理中心与 MINDS 公开页，补入两位辛几何学者和一位双曲三维流形学者。纠正荣休、计算机兼任和相邻拓扑方向。研究所成员和其他任职类别仍待核。",
+      "coverageNote": "已解析 2/5 个登记来源，0 条任职或方向待核。 已收录 6 位学者，个人主页 4、CV 3、指标 4。 已对照现任常任页、Geometry & Topology、代数和数论方向、IBS 几何物理中心与 MINDS 公开页，补入两位辛几何学者和一位双曲三维流形学者。纠正荣休、计算机兼任和相邻拓扑方向。研究所成员和其他任职类别仍待核。",
       "rosterLinks": [
         [
           "Department of Mathematics · Faculty",
@@ -3682,9 +3718,13 @@
     },
     {
       "id": "qau",
-      "coverage": "sample",
-      "coverageNote": "已解析 1/7 个登记来源，0 条任职或方向待核。 已逐条核对 Department of Mathematics · Faculty（现行个人页 17 份）。 已收录 2 位学者，个人主页 0、CV 0、指标 2。 已逐人核对数学系现行目录的 17 份个人页，确认 2 人。另查学院部门总览、科研办公室、行政名录、2019–2020 年 HEC 档案和物理系 17 人目录。物理系部分个人页未返回可核内容，外聘及跨单位任职仍缺现行可核名录。",
+      "coverage": "verified",
+      "coverageNote": "已解析 1/11 个登记来源，0 条任职或方向待核。 已逐条核对 Department of Mathematics · Faculty（现行个人页 17 份）。 已收录 2 位学者，个人主页 0、CV 0、指标 2。 已逐人核完数学系公开现任目录 17 份个人档案，确认 2 人。查了理学院部门总览、科研办公室、历史 HEC 名册、物理系及其 11 个在研组、计算机系与物理中心。现行公开来源未发现需另列的数学几何联合岗位或访问成员；历史名单按年代保留。",
       "rosterLinks": [
+        [
+          "Department of Computer Sciences · Programme and scope",
+          "https://cs.qau.edu.pk/programme/bs-cs"
+        ],
         [
           "Department of Mathematics · Umar Hayat（个人页）",
           "https://math.qau.edu.pk/faculty/dr-umar-hayat-2/"
@@ -3700,6 +3740,18 @@
         [
           "Faculty of Natural Sciences · Departments",
           "https://fns.qau.edu.pk/"
+        ],
+        [
+          "National Centre for Physics · Interdisciplinary scope",
+          "https://www.ncp.edu.pk/piam3d-products-engineering.php"
+        ],
+        [
+          "Department of Physics · Nuclear & Particle Physics · Members",
+          "https://phys.qau.edu.pk/rgroups.php?rid=10"
+        ],
+        [
+          "Department of Physics · Research Groups（11 组）",
+          "https://phys.qau.edu.pk/index.php?page=research_groups"
         ],
         [
           "Department of Physics · Faculty Members（跨学科补查）",
@@ -16582,15 +16634,14 @@
           "title": "Professor",
           "url": "https://mathematics.jhu.edu/directory/caterina-consani/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-24"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [
-        "Arithmetic geometry",
-        "noncommutative geometry",
+        "Arithmetic geometry, number theory, non-commutative geometry",
         "Arithmetic geometry and noncommutative geometry"
       ],
       "homepage": "https://kconsani.github.io/index.html",
@@ -16607,7 +16658,7 @@
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Arithmetic geometry / noncommutative geometry",
+          "text": "Arithmetic geometry, number theory, non-commutative geometry",
           "url": "https://mathematics.jhu.edu/people/"
         },
         {
@@ -16615,7 +16666,7 @@
           "url": "https://mathematics.jhu.edu/directory/caterina-consani/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -16629,7 +16680,7 @@
           "title": "Professor",
           "url": "https://mathematics.jhu.edu/directory/chikako-mese/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-24"
         }
       ],
       "fields": [
@@ -16656,7 +16707,7 @@
           "url": "https://mathematics.jhu.edu/people/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -16670,7 +16721,7 @@
           "title": "Professor",
           "url": "https://mathematics.jhu.edu/directory/jacob-bernstein/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-24"
         }
       ],
       "fields": [
@@ -16728,7 +16779,50 @@
           "url": "https://msp.org/gt/2018/22-2/gt-v22-n2-p09-s.pdf"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "mee-seong-im",
+      "name": "Mee Seong Im",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "johns-hopkins",
+          "department": "数学系",
+          "title": "Associate Research Professor",
+          "url": "https://krieger.jhu.edu/blog/2025/09/09/new-faculty/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/site/meeseongim/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometric and topological aspects of (Grothendieck-)Springer fibers, topological quantum field theories, representations of Lie superalgebras",
+          "url": "https://mathematics.jhu.edu/people/"
+        },
+        {
+          "text": "Algebraic geometry of Springer fibers, geometric representation theory and quantum field theories",
+          "url": "https://mathematics.jhu.edu/people/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -16742,7 +16836,7 @@
           "title": "Professor",
           "url": "https://mathematics.jhu.edu/directory/yannick-sire/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-24"
         }
       ],
       "fields": [
@@ -16767,7 +16861,7 @@
           "url": "https://mathematics.jhu.edu/people/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -16781,7 +16875,7 @@
           "title": "Professor",
           "url": "https://mathematics.jhu.edu/directory/yi-wang/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-24"
         }
       ],
       "fields": [
@@ -16808,7 +16902,7 @@
           "url": "https://mathematics.jhu.edu/people/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -16822,7 +16916,7 @@
           "title": "Assistant Professor",
           "url": "https://mathematics.jhu.edu/people/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-24"
         }
       ],
       "fields": [
@@ -16847,7 +16941,7 @@
           "url": "https://mathematics.jhu.edu/people/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {
@@ -18024,7 +18118,7 @@
       "publicationsUrl": "https://sites.google.com/view/changho-han/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "出版方与学者主页可确认两篇具名论文。OpenAlex 将这些作品分入两个作者档案，整合前无法引用累计总数。",
       "metrics": [],
       "identityUrl": null,
       "papers": [],
@@ -18081,10 +18175,37 @@
         }
       ],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5091866605",
-      "papers": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5091866605",
+          "orcid": null,
+          "url": "https://openalex.org/authors/A5091866605",
+          "authorApiUrl": "https://api.openalex.org/authors/A5091866605",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5091866605,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 51,
+          "works": 60,
+          "citations": 333,
+          "hIndex": 9,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On rank 3 quadratic equations of projective varieties",
+          "year": 2023,
+          "url": "https://doi.org/10.1090/tran/9083"
+        },
+        {
+          "title": "On syzygies of non-complete embedding of projective varieties",
+          "year": 2007,
+          "url": "https://doi.org/10.1007/s00209-007-0181-9"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Research Areas : Algebraic Geometry",
@@ -18097,6 +18218,10 @@
         {
           "text": "Algebraic Geometry",
           "url": "https://math.korea.ac.kr/math/member/full-time-professors.do"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://pure.korea.ac.kr/en/persons/euisung-park/"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -18141,10 +18266,37 @@
         }
       ],
       "opportunities": [],
-      "identityNote": "OpenAlex 请求或返回数据失败。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5110966248",
+          "orcid": null,
+          "url": "https://openalex.org/authors/A5110966248",
+          "authorApiUrl": "https://api.openalex.org/authors/A5110966248",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5110966248,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 30,
+          "works": 37,
+          "citations": 529,
+          "hIndex": 13,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "HELICOIDAL MINIMAL SURFACES IN ℍ2×ℝ",
+          "year": 2011,
+          "url": "https://doi.org/10.1017/S0004972711003042"
+        },
+        {
+          "title": "A connected sum construction for complete minimal surfaces of finite total curvature",
+          "year": 2001,
+          "url": "https://doi.org/10.4310/CAG.2001.v9.n1.a5"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Research Areas : Differential Geometry, Minimal Surfaces",
@@ -18157,6 +18309,10 @@
         {
           "text": "Differential Geometry, Minimal Surfaces",
           "url": "https://math.korea.ac.kr/math/member/full-time-professors.do"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://pure.korea.ac.kr/en/persons/seong-deog-yang/"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -27717,10 +27873,42 @@
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5113530074",
+          "orcid": null,
+          "url": "https://openalex.org/authors/A5113530074",
+          "authorApiUrl": "https://api.openalex.org/authors/A5113530074",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5113530074,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 22,
+          "works": 34,
+          "citations": 799,
+          "hIndex": 14,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Floer cohomology and disc instantons of Lagrangian torus fibers in Fano toric manifolds",
+          "year": 2006,
+          "url": "https://doi.org/10.4310/AJM.2006.v10.n4.a10"
+        },
+        {
+          "title": "Holomorphic discs, spin structures, and Floer cohomology of the Clifford torus",
+          "year": 2004,
+          "url": "https://doi.org/10.1155/S1073792804132716"
+        },
+        {
+          "title": "Holomorphic discs, spin structures, and Floer cohomology of the Clifford torus",
+          "year": 2004,
+          "url": "https://academic.oup.com/imrn/article-abstract/2004/35/1803/856548"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Symplectic Topology | Mirror symmetry | Singularity",
@@ -27732,6 +27920,10 @@
         },
         {
           "text": "Differential geometry of symplectic manifolds, symplectic topology, mirror symmetry and singularities",
+          "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m06_02&wr_id=33"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://math.postech.ac.kr/en/bbs/board.php?bo_table=m06_02&wr_id=33"
         }
       ],
@@ -27971,10 +28163,37 @@
       "publicationsUrl": "https://cgp.ibs.re.kr/~yongoh/all.pdf",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5102862770",
+          "orcid": "https://orcid.org/0000-0003-0333-4308",
+          "url": "https://openalex.org/authors/A5102862770",
+          "authorApiUrl": "https://api.openalex.org/authors/A5102862770",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5102862770,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-24",
+          "articles": 79,
+          "works": 216,
+          "citations": 7088,
+          "hIndex": 41,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Floer cohomology of lagrangian intersections and pseudo‐holomorphic disks I",
+          "year": 1993,
+          "url": "https://doi.org/10.1002/cpa.3160460702"
+        },
+        {
+          "title": "Floer cohomology of lagrangian intersections and pseudo‐holomorphic disks II: (ℂ Pn), ℝpn",
+          "year": 1993,
+          "url": "https://doi.org/10.1002/cpa.3160460703"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Symplectic Topology and Geometry | Floer Homology Theory | Hamiltonian dynamical | Mirror symmetry Theory",
@@ -27983,6 +28202,81 @@
         {
           "text": "Differential geometry of symplectic manifolds, Hamiltonian dynamics, Floer homology and mirror symmetry",
           "url": "https://cgp.ibs.re.kr/~yongoh/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://cgp.ibs.re.kr/~yongoh/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "abd-elmotaleb-abd-allah-alamin",
+      "name": "Abd Elmotaleb Abd Allah Alamin",
+      "aliases": [
+        "Abd Elmotaleb A. M. A. Elamin"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "prince-sattam",
+          "department": "College of Sciences and Humanities · Al-Sulail",
+          "title": "Assistant Professor",
+          "url": "https://psau.sa.elsevierpure.com/en/persons/abd-elmotaleb-abd-allah-alamin-2/",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Mathematics كلية العلوم والدراسات الإنسانية بالسليل"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://psau.sa.elsevierpure.com/en/persons/abd-elmotaleb-abd-allah-alamin-2/publications/",
+      "publicationCounts": [
+        {
+          "value": 29,
+          "scope": "校级 Pure 档案 Research output 栏显示总数",
+          "url": "https://psau.sa.elsevierpure.com/en/persons/abd-elmotaleb-abd-allah-alamin-2/",
+          "checkedAt": "2026-11-24"
+        },
+        {
+          "value": 29,
+          "scope": "机构 Pure 档案的 Research output 总数",
+          "url": "https://psau.sa.elsevierpure.com/en/persons/abd-elmotaleb-abd-allah-alamin-2/publications/",
+          "checkedAt": "2026-11-23"
+        },
+        {
+          "value": 29,
+          "scope": "机构 Pure 档案的 Article 分类",
+          "url": "https://psau.sa.elsevierpure.com/en/persons/abd-elmotaleb-abd-allah-alamin-2/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontojournal%2Farticle",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Some Chen Inequalities for Submanifolds in Trans-Sasakian Manifolds Admitting a Semi-Symmetric Non-Metric Connection",
+          "url": "https://doi.org/10.3390/axioms13030195"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of submanifolds, semi-symmetric connections and Chen inequalities",
+          "url": "https://doi.org/10.3390/axioms13030195"
+        },
+        {
+          "text": "Mathematics كلية العلوم والدراسات الإنسانية بالسليل",
+          "url": "https://psau.sa.elsevierpure.com/en/persons/abd-elmotaleb-abd-allah-alamin-2/"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -29198,6 +29492,145 @@
       "recordStatus": "directory"
     },
     {
+      "id": "alex-fink",
+      "name": "Alex Fink",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "qmul",
+          "department": "数学系",
+          "title": "Professor in Pure Mathematics",
+          "url": "https://www.qmul.ac.uk/maths/profiles/finka.html",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Professor in Pure Mathematics",
+        "Head of the Centre for Combinatorics, Algebra and Number Theory",
+        "Tropical algebraic geometry and matroid theory"
+      ],
+      "homepage": "https://webspace.maths.qmul.ac.uk/a.fink/",
+      "homepageStatus": null,
+      "cvUrl": "https://webspace.maths.qmul.ac.uk/a.fink/Fink-CV.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Professor in Pure Mathematics; Head of the Centre for Combinatorics, Algebra and Number Theory",
+          "url": "https://www.qmul.ac.uk/maths/people/academic-staff/"
+        },
+        {
+          "text": "Tropical algebraic geometry and matroid theory",
+          "url": "https://www.seresearch.qmul.ac.uk/ccant/people/afink/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "behrang-noohi",
+      "name": "Behrang Noohi",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "qmul",
+          "department": "数学系",
+          "title": "Reader in Pure Mathematics",
+          "url": "https://www.qmul.ac.uk/maths/profiles/noohib.html",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Reader in Pure Mathematics"
+      ],
+      "homepage": "https://webspace.maths.qmul.ac.uk/b.noohi/",
+      "homepageStatus": null,
+      "cvUrl": "https://webspace.maths.qmul.ac.uk/b.noohi/cv.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Reader in Pure Mathematics",
+          "url": "https://www.qmul.ac.uk/maths/people/academic-staff/"
+        },
+        {
+          "text": "Algebraic geometry of stacks, algebraic topology and interactions with homotopy theory",
+          "url": "https://www.seresearch.qmul.ac.uk/ccant/people/bnoohi/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ivan-tomasic",
+      "name": "Ivan Tomasic",
+      "aliases": [
+        "Ivan Tomašić"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "qmul",
+          "department": "数学系",
+          "title": "Reader in Pure Mathematics",
+          "url": "https://www.qmul.ac.uk/maths/profiles/tomasici.html",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Reader in Pure Mathematics"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Reader in Pure Mathematics",
+          "url": "https://www.qmul.ac.uk/maths/people/academic-staff/"
+        },
+        {
+          "text": "Algebraic geometry of difference schemes and interactions with model theory and categorical logic",
+          "url": "https://www.seresearch.qmul.ac.uk/ccant/people/itomasic/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
       "id": "shengwen-wang",
       "name": "Shengwen Wang",
       "aliases": [],
@@ -29240,6 +29673,96 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "shu-sasaki",
+      "name": "Shu Sasaki",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "qmul",
+          "department": "数学系",
+          "title": "Lecturer in Number Theory",
+          "url": "https://www.qmul.ac.uk/maths/profiles/sasakis.html",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Lecturer in Number Theory and Director of Undergraduate Admissions",
+          "url": "https://www.qmul.ac.uk/maths/people/academic-staff/"
+        },
+        {
+          "text": "Arithmetic geometry of Hilbert modular varieties, modular forms and Langlands",
+          "url": "https://www.seresearch.qmul.ac.uk/ccant/people/ssasaki"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "tyler-kelly",
+      "name": "Tyler Kelly",
+      "aliases": [
+        "Tyler L. Kelly"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "qmul",
+          "department": "数学系",
+          "title": "Professor of Pure Mathematics",
+          "url": "https://www.qmul.ac.uk/maths/profiles/kellyt.html",
+          "type": "primary",
+          "checkedAt": "2026-11-24"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Professor of Pure Mathematics"
+      ],
+      "homepage": "https://sites.google.com/view/tylerkelly/home",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://sites.google.com/view/tylerkelly/home",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Professor of Pure Mathematics",
+          "url": "https://www.qmul.ac.uk/maths/people/academic-staff/"
+        },
+        {
+          "text": "Algebraic geometry, mirror symmetry, toric varieties and Calabi–Yau geometry",
+          "url": "https://www.seresearch.qmul.ac.uk/ccant/people/tkelly/"
+        }
+      ],
+      "checkedAt": "2026-11-24",
       "recordStatus": "directory"
     },
     {

@@ -2232,6 +2232,26 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "jhu-ams-faculty-30",
+      "school": "johns-hopkins",
+      "url": "https://engineering.jhu.edu/ams/faculty/",
+      "label": "Department of Applied Mathematics and Statistics · Faculty",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "jhu-minds-faculty-30",
+      "school": "johns-hopkins",
+      "url": "https://www.minds.jhu.edu/faculty/",
+      "label": "Mathematical Institute for Data Science · Faculty",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "jhu-sylvester-30",
       "school": "johns-hopkins",
       "url": "https://mathematics.jhu.edu/about/jobs/",
@@ -2245,11 +2265,11 @@
       "id": "johns-hopkins-people",
       "school": "johns-hopkins",
       "url": "https://mathematics.jhu.edu/people/",
-      "label": "数学系 People",
+      "label": "数学系 · Faculty、Associated Faculty、Postdoctoral Fellows 和 Emeriti",
       "status": "parsed",
-      "count": 36,
-      "checked_at": "2026-11-23",
-      "note": "已核录官方 People 页 Faculty 类别的 36 位人员。关联教师、博士后及荣休教师另有栏目。"
+      "count": 50,
+      "checked_at": "2026-11-24",
+      "note": "复核四个学术分栏的 50 条记录。常任、三年期 Sylvester、联属、其他博士后和荣休分别判定。"
     },
     {
       "id": "johns-hopkins-recovery-catalogue",
@@ -4262,6 +4282,46 @@
       "note": ""
     },
     {
+      "id": "psau-current-math-30",
+      "school": "prince-sattam",
+      "url": "https://faculty.psau.edu.sa/en/psau/facultymembers/1?college=3898&dept=3937&name=",
+      "label": "Faculty Members · Al Kharj 数学系",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "psau-handbook-30-a",
+      "school": "prince-sattam",
+      "url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+      "label": "Department of Mathematics · 2025 Handbook · 男生部",
+      "status": "parsed",
+      "count": 33,
+      "checked_at": "2026-11-24",
+      "note": "手册 116–117 页列 33 条。以名录所列职级为历史基线，未明确的研究方向继续核对具名档案。"
+    },
+    {
+      "id": "psau-handbook-30-b",
+      "school": "prince-sattam",
+      "url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+      "label": "Department of Mathematics · 2025 Handbook · 女生部",
+      "status": "parsed",
+      "count": 34,
+      "checked_at": "2026-11-24",
+      "note": "手册 117–118 页列 34 条。分别记录教授、讲师与助教，方向过宽的条目需查个人科研来源。"
+    },
+    {
+      "id": "psau-sulail-pure-30",
+      "school": "prince-sattam",
+      "url": "https://psau.sa.elsevierpure.com/en/organisations/sciences-in-sulail/persons/",
+      "label": "Sciences in Sulail · 有关人员",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "psl-alternate-geometry",
       "school": "psl",
       "url": "https://www.math.ens.psl.eu/la-recherche/algebre-geometrie/",
@@ -4362,6 +4422,16 @@
       "note": ""
     },
     {
+      "id": "qau-cs-areas-30",
+      "school": "qau",
+      "url": "https://cs.qau.edu.pk/programme/bs-cs",
+      "label": "Department of Computer Sciences · Programme and scope",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "qau-full-audit-source",
       "school": "qau",
       "url": "https://math.qau.edu.pk/faculty/dr-umar-hayat-2/",
@@ -4402,6 +4472,36 @@
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
+      "id": "qau-ncp-30",
+      "school": "qau",
+      "url": "https://www.ncp.edu.pk/piam3d-products-engineering.php",
+      "label": "National Centre for Physics · Interdisciplinary scope",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "qau-phys-relativity-30",
+      "school": "qau",
+      "url": "https://phys.qau.edu.pk/rgroups.php?rid=10",
+      "label": "Department of Physics · Nuclear & Particle Physics · Members",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "qau-phys-rgroups-30",
+      "school": "qau",
+      "url": "https://phys.qau.edu.pk/index.php?page=research_groups",
+      "label": "Department of Physics · Research Groups（11 组）",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "qau-physics-faculty",
       "school": "qau",
       "url": "https://phys.qau.edu.pk/?page=faculty_members",
@@ -4426,6 +4526,36 @@
       "school": "qau",
       "url": "https://math.qau.edu.pk/about-us/staff-members/",
       "label": "Department of Mathematics · Staff Members（行政人员）",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "qmul-ccant-academics-30",
+      "school": "qmul",
+      "url": "https://www.seresearch.qmul.ac.uk/ccant/people/academics/",
+      "label": "Centre for Combinatorics, Algebra and Number Theory · Academics",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "qmul-ccant-alg-30",
+      "school": "qmul",
+      "url": "https://www.seresearch.qmul.ac.uk/ccant/research/algebra/",
+      "label": "Centre for Combinatorics, Algebra and Number Theory · Algebra",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "qmul-cgag-academics-30",
+      "school": "qmul",
+      "url": "https://www.seresearch.qmul.ac.uk/cgag/people/academics/",
+      "label": "Centre for Geometry, Analysis and Gravitation · Academics",
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-24",
@@ -68044,7 +68174,7 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68060,7 +68190,23 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "johns-hopkins-people",
+      "person_key": "bernardshiffman",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Bernard Shiffman",
+        "title": "Professor Emeritus and Academy Professor",
+        "research": "several complex variables, complex geometry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.jhu.edu/people/",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68070,13 +68216,13 @@
       "record": {
         "name": "Caterina Consani",
         "title": "Professor",
-        "research": "Arithmetic geometry / noncommutative geometry",
+        "research": "Arithmetic geometry, number theory, non-commutative geometry",
         "profile": "https://mathematics.jhu.edu/directory/caterina-consani/",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68092,7 +68238,7 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68108,7 +68254,7 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68118,13 +68264,13 @@
       "record": {
         "name": "Chi Li",
         "title": "Research Professor",
-        "research": "Complex geometry / algebraic geometry / geometric analysis",
+        "research": "Complex geometry, algebraic geometry, and geometric analysis",
         "profile": "",
         "homepage": "https://math.jhu.edu/~chili/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68140,7 +68286,23 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "johns-hopkins-people",
+      "person_key": "coltonsandvik",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Colton Sandvik",
+        "title": "Simons Collaboration Postdoctoral Fellow",
+        "research": "Geometric representation theory and modular representation theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.jhu.edu/people/",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68150,13 +68312,13 @@
       "record": {
         "name": "Dat Pham",
         "title": "J.J. Sylvester Assistant Professor",
-        "research": "p-adic Hodge theory and arithmetic geometry",
+        "research": "Integral p-adic Hodge theory, moduli spaces of p-adic Galois representations, p-adic Langlands program",
         "profile": "",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68172,7 +68334,7 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68188,7 +68350,39 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "johns-hopkins-people",
+      "person_key": "edinahgnang",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Edinah Gnang",
+        "title": "Affiliated Faculty · Assistant Professor",
+        "research": "Discrete mathematics, graph theory, multilinear algebra, image analysis, experimental math",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.jhu.edu/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "johns-hopkins-people",
+      "person_key": "egbertrijke",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Egbert Rijke",
+        "title": "Postdoctoral Fellow",
+        "research": "Univalent mathematics and formalization of mathematics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.jhu.edu/people/",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68204,7 +68398,7 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68220,7 +68414,7 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68230,13 +68424,45 @@
       "record": {
         "name": "Fei Lu",
         "title": "Director of Graduate Studies, Associate Professor",
-        "research": "Other specified mathematics research",
+        "research": "Malliavin calculus, stochastic PDE, stochastic modeling in scientific computing, statistical inference, and data assimilation",
         "profile": "",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "johns-hopkins-people",
+      "person_key": "gregoryeyink",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Gregory Eyink",
+        "title": "Affiliated Faculty · Professor",
+        "research": "Mathematical physics, fluid mechanics, turbulence, dynamical systems, partial differential equations, non-equilibrium statistical physics, geophysics and climate, astrophysics, and plasma physics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.jhu.edu/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "johns-hopkins-people",
+      "person_key": "haihanwu",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Haihan Wu",
+        "title": "Simons Collaboration Postdoctoral Fellow",
+        "research": "Representation theory, low-dimensional topology, and categorification",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.jhu.edu/people/",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68252,7 +68478,7 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68268,7 +68494,7 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68284,7 +68510,23 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "johns-hopkins-people",
+      "person_key": "joelspruck",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Joel Spruck",
+        "title": "J.J. Sylvester Professor Emeritus",
+        "research": "Partial differential equations, geometric analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.jhu.edu/people/",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68300,7 +68542,7 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68310,13 +68552,13 @@
       "record": {
         "name": "Kayla Wright",
         "title": "Senior Lecturer",
-        "research": "Other specified mathematics research",
+        "research": "Algebraic combinatorics, cluster algebras and representation theory",
         "profile": "",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68332,7 +68574,23 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "johns-hopkins-people",
+      "person_key": "matthewsunohara",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Matthew Sunohara",
+        "title": "NSERC Postdoctoral Fellow",
+        "research": "Langlands program, topological graph theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.jhu.edu/people/",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68348,7 +68606,7 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68364,7 +68622,7 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68374,13 +68632,13 @@
       "record": {
         "name": "Mengwei Hu",
         "title": "J.J. Sylvester Assistant Professor",
-        "research": "Algebraic geometry, symplectic geometry and representation theory",
+        "research": "Representation theory, algebraic and symplectic geometry",
         "profile": "",
         "homepage": "https://hmengwei.github.io/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68390,13 +68648,13 @@
       "record": {
         "name": "Mikhail Khovanov",
         "title": "Professor",
-        "research": "Other specified mathematics research",
+        "research": "Categorification, representation theory, low-dimensional topology",
         "profile": "",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68406,13 +68664,13 @@
       "record": {
         "name": "Murilo Corato Zanarella",
         "title": "J.J. Sylvester Assistant Professor",
-        "research": "Other specified mathematics research",
+        "research": "Arithmetic aspects of the (relative) Langlands program, Euler systems and Iwasawa theory",
         "profile": "",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68428,7 +68686,23 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "johns-hopkins-people",
+      "person_key": "prairiewentworthnice",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Prairie Wentworth-Nice",
+        "title": "Postdoctoral Teaching Fellow",
+        "research": "Algebraic combinatorics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.jhu.edu/people/",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68444,7 +68718,7 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68454,13 +68728,13 @@
       "record": {
         "name": "Ruiyu Han",
         "title": "J.J. Sylvester Assistant Professor",
-        "research": "Other specified mathematics research",
+        "research": "Optimal transport, high-dimensional statistics and partial differential equations",
         "profile": "",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68476,7 +68750,71 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "johns-hopkins-people",
+      "person_key": "sixuli",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Sixu Li",
+        "title": "Postdoctoral Fellow",
+        "research": "Applied mathematics and machine learning interacting particle systems, non-convex optimization, multi-agent-based learning, and generative modeling",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.jhu.edu/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "johns-hopkins-people",
+      "person_key": "timkunisky",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Tim Kunisky",
+        "title": "Affiliated Faculty · Assistant Professor",
+        "research": "Probability theory, statistics, mathematical data science, convex optimization, discrete mathematics, computational complexity",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.jhu.edu/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "johns-hopkins-people",
+      "person_key": "vyacheslavshokurov",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Vyacheslav Shokurov",
+        "title": "Professor Emeritus",
+        "research": "Algebraic geometry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.jhu.edu/people/",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "johns-hopkins-people",
+      "person_key": "wstephenwilson",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "W. Stephen Wilson",
+        "title": "Professor Emeritus",
+        "research": "Algebraic topology, homotopy theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.jhu.edu/people/",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68492,7 +68830,23 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "johns-hopkins-people",
+      "person_key": "yantaowu",
+      "school": "johns-hopkins",
+      "record": {
+        "name": "Yantao Wu",
+        "title": "Postdoctoral Fellow",
+        "research": "Statistical machine learning LLM agents, partial differential equations, AI for science",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.jhu.edu/people/",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68508,7 +68862,7 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68524,7 +68878,7 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68540,7 +68894,7 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68550,13 +68904,13 @@
       "record": {
         "name": "Zhaolin Li",
         "title": "J.J. Sylvester Assistant Professor",
-        "research": "Other specified mathematics research",
+        "research": "Automorphic forms, L-functions, relative trace formula, relative Langlands program",
         "profile": "",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68566,13 +68920,13 @@
       "record": {
         "name": "Zhiren Wang",
         "title": "Professor",
-        "research": "Other specified mathematics research",
+        "research": "Homogeneous dynamical systems, classification of group actions, number theory, and machine learning",
         "profile": "",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68588,7 +68942,7 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -68604,7 +68958,7 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://mathematics.jhu.edu/people/",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -156531,6 +156885,1078 @@
         "source_kind": "research",
         "source_url": "https://www.math.princeton.edu/graduate/faculty-research",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "abdelaleemabdoalsaadani",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Abdel-Aleem Abdo Al-Saadani",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "abdelbasitabdelhamidmohamed",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Abdel Basit Abdel Hamid Mohamed",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "abdelfattahazzam",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Abdel Fattah Azzam",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "abdulazizalotaibi",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Abdulaziz Al-Otaibi",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "abdulkarimmuhammadhamarsha",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Abdul Karim Muhammad Hamarsha",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "abdullahbinmohammedahmedaldurahim",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Abdullah bin Mohammed Ahmed Al-Durahim",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "amrrefaatturkielsunbaty",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Amr Refaat Turki El-Sunbaty",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "essamrushdialzahhar",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Essam Rushdi Al-Zahhar",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "fahdbinmisferaljaidi",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Fahd bin Misfer Al-Jaidi",
+        "title": "Head of Department",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "fahdbinsamirwadialshammari",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Fahd bin Samir Wadi Al-Shammari",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "hanisamihbayoumi",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Hani Samih Bayoumi",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "hossamnabawy",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Hossam Nabawy",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "imadalqadim",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Imad Al-Qadim",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "imadrizqattia",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Imad Rizq Attia",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "jalalabdelqaderalashari",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Jalal Abdel Qader Al-Ashari",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "khaderhayatkhan",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Khader Hayat Khan",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "mahmoudalmorshedy",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Mahmoud Al-Morshedy",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "mahmoudhosseiniharbi",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Mahmoud Hosseini Harbi",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "mahmoudmohamedsalimsaleh",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Mahmoud Mohamed Salim Saleh",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "majidkhan",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Majid Khan",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "mdtaufiqnasseef",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Md. Taufiq Nasseef",
+        "title": "Assistant Professor",
+        "research": "Computational neuroscience and mathematical modelling",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "mohamedabdelrahmanelshorbagy",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Mohamed Abdel Rahman El Shorbagy",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "mohamedmetwallyattiametwally",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Mohamed Metwally Attia Metwally",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "mohamedmohamedawadabdeljalil",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Mohamed Mohamed Awad Abdel Jalil",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "muhammadabdullahalshahrani",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Muhammad Abdullah Al-Shahrani",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "muhammadmudathirmuhammadabdo",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Muhammad Mudathir Muhammad Abdo",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "muhammadnasseralshahrani",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Muhammad Nasser Al-Shahrani",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "muhammadsaudabdulazizaldaoud",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Muhammad Saud Abdul Aziz Al Daoud",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "muradmustafashehadeharar",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Murad Mustafa Shehadeh Ara R",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "nisarkotakaransubi",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Nisar Kotakaran Subi",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "rajagoplan",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Raja Goplan",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "renegeorge",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Rene George",
+        "title": "Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-a",
+      "person_key": "tariqmuhammadabdellatif",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Tariq Muhammad Abdel Latif",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "abeeradelalnana",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Abeer Adel Alnana",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "aeshahabdullahaldosari",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Aeshah Abdullah Aldosari",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "afrahabulqasimbasali",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Afrah Abulqasim Basali",
+        "title": "Professor",
+        "research": "Mathematical statistics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "amnamohammedali",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Amna Mohammed Ali",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "ashwagkhalidaljeraiwi",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Ashwag Khalid Aljeraiwi",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "basheerrashidaldosari",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Basheer Rashid Aldosari",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "enashassanelkordy",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Enas Hassan Elkordy",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "faizahmataralharbi",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Faizah Matar Alharbi",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "fatimahmuhamadaldrees",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Fatimah Muhamad Aldrees",
+        "title": "Teaching Assistant",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "gehadmohamedmahfood",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Gehad Mohamed Mahfood",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "halaabdelmageedmahmoud",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Hala Abdelmageed Mahmoud",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "hendsalahshahen",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Hend Salah Shahen",
+        "title": "Assistant Professor",
+        "research": "Mathematical statistics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "jihanghazialahmadi",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Jihan Ghazi Alahmadi",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "karimamohamedoraby",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Karima Mohamed Oraby",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "lailafouadseddek",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Laila Fouad Seddek",
+        "title": "Associate Professor",
+        "research": "Numerical analysis",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "latifaabdulatifalmulhim",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Latifa Abdulatif Almulhim",
+        "title": "Teaching Assistant",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "manalabdullahalhaqbani",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Manal Abdullah Alhaqbani",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "manasikmahjobmustafa",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Manasik Mahjob Mustafa",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "maryammubarakalmadrada",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Maryam Mubarak Almadrada",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "mashaelmothebetalbaidani",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Mashael Mothebet Albaidani",
+        "title": "Associate Professor",
+        "research": "Linear algebra and its applications",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "munirahabdullahalrumayli",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Munirah Abdullah Alrumayli",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "noufkatibalawaji",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Nouf Katib Alawaji",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "nouraabdulrahmanalquwazani",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Noura Abdulrahman Alquwazani",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "olaabdelnabyashour",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Ola Abdelnaby Ashour",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "rababomaralzahrani",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Rabab Omar Alzahrani",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "reemsulaimanalrashed",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Reem Sulaiman Alrashed",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "refahmohammedalwthiah",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Refah Mohammed Alwthiah",
+        "title": "Teaching Assistant",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "sabahsidighasballasidig",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Sabah Sidig Hasballa Sidig",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "sarahrashedaldawsari",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Sarah Rashed Aldawsari",
+        "title": "Assistant Professor",
+        "research": "Stochastic modelling",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "sarahsalehalassaf",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Sarah Saleh Alassaf",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "shaimaaabdouahmeddawood",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Shaimaa Abdou Ahmed Dawood",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "sharifahalialmaymuni",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Sharifah Ali Almaymuni",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "shikhahibrahimalothman",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Shikhah Ibrahim Alothman",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "psau-handbook-30-b",
+      "person_key": "somayaibrahimalshber",
+      "school": "prince-sattam",
+      "record": {
+        "name": "Somaya Ibrahim Alshber",
+        "title": "Teaching Assistant",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117",
+        "checked_at": "2026-11-24"
       }
     },
     {
@@ -339195,6 +340621,11 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "changho-han": {
+      "status": "identity_review",
+      "reason": "出版方与学者主页可确认两篇具名论文。OpenAlex 将这些作品分入两个作者档案，整合前无法引用累计总数。",
+      "checkedAt": "2026-11-24"
+    },
     "chao-li": {
       "status": "identity_review",
       "reason": "同一人的论文指向不同作者档案。",
@@ -339270,6 +340701,38 @@
         "works": 120,
         "citations": 4558,
         "hIndex": 35,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "cheol-hyun-cho": {
+      "status": "review_ready",
+      "author_id": "A5113530074",
+      "papers": [
+        {
+          "title": "Floer cohomology and disc instantons of Lagrangian torus fibers in Fano toric manifolds",
+          "year": 2006,
+          "url": "https://doi.org/10.4310/AJM.2006.v10.n4.a10"
+        },
+        {
+          "title": "Holomorphic discs, spin structures, and Floer cohomology of the Clifford torus",
+          "year": 2004,
+          "url": "https://doi.org/10.1155/S1073792804132716"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5113530074",
+        "orcid": null,
+        "url": "https://openalex.org/authors/A5113530074",
+        "authorApiUrl": "https://api.openalex.org/authors/A5113530074",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5113530074,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 22,
+        "works": 34,
+        "citations": 799,
+        "hIndex": 14,
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
       }
@@ -342175,10 +343638,36 @@
       "candidate_url": "https://openalex.org/A5049749113"
     },
     "park-eui-sung": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/A5091866605"
+      "status": "review_ready",
+      "author_id": "A5091866605",
+      "papers": [
+        {
+          "title": "On rank 3 quadratic equations of projective varieties",
+          "year": 2023,
+          "url": "https://doi.org/10.1090/tran/9083"
+        },
+        {
+          "title": "On syzygies of non-complete embedding of projective varieties",
+          "year": 2007,
+          "url": "https://doi.org/10.1007/s00209-007-0181-9"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5091866605",
+        "orcid": null,
+        "url": "https://openalex.org/authors/A5091866605",
+        "authorApiUrl": "https://api.openalex.org/authors/A5091866605",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5091866605,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 51,
+        "works": 60,
+        "citations": 333,
+        "hIndex": 9,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "paul-c-yang": {
       "status": "source_error",
@@ -344162,9 +345651,36 @@
       "candidate_url": "https://openalex.org/A5040867467"
     },
     "yang-seong-deog": {
-      "status": "source_error",
-      "reason": "OpenAlex 请求或返回数据失败。",
-      "checkedAt": "2026-11-23"
+      "status": "review_ready",
+      "author_id": "A5110966248",
+      "papers": [
+        {
+          "title": "HELICOIDAL MINIMAL SURFACES IN ℍ2×ℝ",
+          "year": 2011,
+          "url": "https://doi.org/10.1017/S0004972711003042"
+        },
+        {
+          "title": "A connected sum construction for complete minimal surfaces of finite total curvature",
+          "year": 2001,
+          "url": "https://doi.org/10.4310/CAG.2001.v9.n1.a5"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5110966248",
+        "orcid": null,
+        "url": "https://openalex.org/authors/A5110966248",
+        "authorApiUrl": "https://api.openalex.org/authors/A5110966248",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5110966248,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 30,
+        "works": 37,
+        "citations": 529,
+        "hIndex": 13,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "yann-bernard": {
       "status": "identity_review",
@@ -344230,6 +345746,38 @@
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
+    },
+    "yong-geun-oh": {
+      "status": "review_ready",
+      "author_id": "A5102862770",
+      "papers": [
+        {
+          "title": "Floer cohomology of lagrangian intersections and pseudo‐holomorphic disks I",
+          "year": 1993,
+          "url": "https://doi.org/10.1002/cpa.3160460702"
+        },
+        {
+          "title": "Floer cohomology of lagrangian intersections and pseudo‐holomorphic disks II: (ℂ Pn), ℝpn",
+          "year": 1993,
+          "url": "https://doi.org/10.1002/cpa.3160460703"
+        }
+      ],
+      "checkedAt": "2026-11-24",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5102862770",
+        "orcid": "https://orcid.org/0000-0003-0333-4308",
+        "url": "https://openalex.org/authors/A5102862770",
+        "authorApiUrl": "https://api.openalex.org/authors/A5102862770",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5102862770,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 79,
+        "works": 216,
+        "citations": 7088,
+        "hIndex": 41,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "yoshinori-gongyo": {
       "status": "identity_review",

@@ -388,7 +388,7 @@
   {"id":"cornell-faculty","school":"cornell","name":"数学系 Department Faculty","url":"https://math.cornell.edu/faculty","kind":"department","parser":"cornell"},
   {"id":"ip-paris-cmls","school":"ip-paris","name":"École Polytechnique CMLS","url":"https://portail.polytechnique.edu/cmls/presentation","kind":"center","parser":"pending"},
   {"id":"jean-monnet-icj","school":"jean-monnet","name":"Institut Camille Jordan","url":"https://www.univ-st-etienne.fr/fr/icj.html","kind":"center","parser":"pending"},
-  {"id":"johns-hopkins-people","school":"johns-hopkins","name":"数学系 People","url":"https://mathematics.jhu.edu/people/","kind":"department","parser":"pending"},
+  {"id":"johns-hopkins-people","school":"johns-hopkins","name":"数学系 · Faculty、Associated Faculty、Postdoctoral Fellows 和 Emeriti","url":"https://mathematics.jhu.edu/people/","kind":"department","parser":"pending","audited_count":50,"audit_date":"2026-11-24"},
   {"id":"king-khalid-dept","school":"king-khalid","name":"Faculty of Science · Department of Mathematics","url":"https://science.kku.edu.sa/en/node/219","kind":"department","parser":"pending"},
   {"id":"ku-leuven-algebra","school":"ku-leuven","name":"Section of Algebra · Members","url":"https://wis.kuleuven.be/algebra/members","kind":"research","parser":"kuleuven"},
   {"id":"polimi-faculty","school":"polimi","name":"Dipartimento di Matematica · Professori ordinari","url":"https://www.mate.polimi.it/pagina-personale?id_qualifica=1&lg=en","kind":"department","parser":"polimi"},
@@ -719,5 +719,18 @@
   {"id":"jhu-sylvester-30","school":"johns-hopkins","name":"Mathematics Department · Sylvester 职级说明","url":"https://mathematics.jhu.edu/about/jobs/","kind":"campus","parser":"pending"},
   {"id":"postech-geometry-30","school":"postech","name":"Department of Mathematics · Geometry & Topology","url":"https://math.postech.ac.kr/en/bbs/board.php?bo_table=m06_02&sca=Geometry+%EF%BC%86+Topology","kind":"campus","parser":"pending"},
   {"id":"postech-ibs-30","school":"postech","name":"IBS Center for Geometry and Physics · People","url":"https://cgp.ibs.re.kr/people/","kind":"campus","parser":"pending"},
-  {"id":"postech-minds-30","school":"postech","name":"MINDS · Research areas","url":"https://minds.postech.ac.kr/minds2/res/research_area.do","kind":"campus","parser":"pending"}
+  {"id":"postech-minds-30","school":"postech","name":"MINDS · Research areas","url":"https://minds.postech.ac.kr/minds2/res/research_area.do","kind":"campus","parser":"pending"},
+  {"id":"jhu-ams-faculty-30","school":"johns-hopkins","parser":"pending","url":"https://engineering.jhu.edu/ams/faculty/","name":"Department of Applied Mathematics and Statistics · Faculty","kind":"campus"},
+  {"id":"jhu-minds-faculty-30","school":"johns-hopkins","parser":"pending","url":"https://www.minds.jhu.edu/faculty/","name":"Mathematical Institute for Data Science · Faculty","kind":"campus"},
+  {"id":"qmul-cgag-academics-30","school":"qmul","parser":"pending","url":"https://www.seresearch.qmul.ac.uk/cgag/people/academics/","name":"Centre for Geometry, Analysis and Gravitation · Academics","kind":"campus"},
+  {"id":"qmul-ccant-academics-30","school":"qmul","parser":"pending","url":"https://www.seresearch.qmul.ac.uk/ccant/people/academics/","name":"Centre for Combinatorics, Algebra and Number Theory · Academics","kind":"campus"},
+  {"id":"qmul-ccant-alg-30","school":"qmul","parser":"pending","url":"https://www.seresearch.qmul.ac.uk/ccant/research/algebra/","name":"Centre for Combinatorics, Algebra and Number Theory · Algebra","kind":"campus"},
+  {"id":"psau-handbook-30-a","school":"prince-sattam","parser":"pending","url":"https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=116","name":"Department of Mathematics · 2025 Handbook · 男生部","kind":"department"},
+  {"id":"psau-handbook-30-b","school":"prince-sattam","parser":"pending","url":"https://www.psau.edu.sa/csh/sitesuploads/csh/2025-11/Department%20Hanbook-2025.pdf#page=117","name":"Department of Mathematics · 2025 Handbook · 女生部","kind":"department"},
+  {"id":"psau-current-math-30","school":"prince-sattam","parser":"pending","url":"https://faculty.psau.edu.sa/en/psau/facultymembers/1?college=3898&dept=3937&name=","name":"Faculty Members · Al Kharj 数学系","kind":"campus"},
+  {"id":"psau-sulail-pure-30","school":"prince-sattam","parser":"pending","url":"https://psau.sa.elsevierpure.com/en/organisations/sciences-in-sulail/persons/","name":"Sciences in Sulail · 有关人员","kind":"campus"},
+  {"id":"qau-phys-rgroups-30","school":"qau","name":"Department of Physics · Research Groups（11 组）","url":"https://phys.qau.edu.pk/index.php?page=research_groups","parser":"pending","kind":"campus"},
+  {"id":"qau-phys-relativity-30","school":"qau","name":"Department of Physics · Nuclear & Particle Physics · Members","url":"https://phys.qau.edu.pk/rgroups.php?rid=10","parser":"pending","kind":"campus"},
+  {"id":"qau-cs-areas-30","school":"qau","name":"Department of Computer Sciences · Programme and scope","url":"https://cs.qau.edu.pk/programme/bs-cs","parser":"pending","kind":"campus"},
+  {"id":"qau-ncp-30","school":"qau","name":"National Centre for Physics · Interdisciplinary scope","url":"https://www.ncp.edu.pk/piam3d-products-engineering.php","parser":"pending","kind":"campus"}
 ]

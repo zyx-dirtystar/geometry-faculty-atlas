@@ -31,7 +31,8 @@ def inspect(anchor):
     identifier = ""
     institutions = set()
     papers = []
-    for doi in anchor.get("doi",[]):
+    dois = list(dict.fromkeys(anchor.get("doi", [])))
+    for doi in dois:
         work = api("/works/https://doi.org/" + quote(doi,safe="/."),select="display_name,doi,authorships,publication_year")
         matches = [entry for entry in work.get("authorships",[]) if name_key((entry.get("author") or {}).get("display_name") or "") in accepted_names]
         if len(matches) != 1:
@@ -42,7 +43,9 @@ def inspect(anchor):
             return {"status":"identity_review","reason":"同一人的论文指向不同作者档案。"}
         identifier = new_id
         institutions.update(i["display_name"] for i in author.get("institutions",[]) if i.get("display_name"))
-        papers.append({"title":work["display_name"],"year":work["publication_year"],"url":"https://doi.org/" + doi})
+        title = work.get("display_name") or ""
+        if title.strip():
+            papers.append({"title":title,"year":work.get("publication_year"),"url":"https://doi.org/" + doi})
     orcid = anchor.get("orcid","")
     if orcid and not re.fullmatch(r"\d{4}-\d{4}-\d{4}-\d{3}[\dX]",orcid):
         return {"status":"identity_review","reason":"公开 ORCID 格式待核对。"}
@@ -60,7 +63,7 @@ def inspect(anchor):
     institutions.update(a["institution"]["display_name"] for a in profile.get("affiliations") or [] if a.get("institution"))
     aliases = {name_key(i) for i in anchor["institutions"]}
     institution_matches = sorted(i for i in institutions if name_key(i) in aliases)
-    if not institution_matches and len(papers) < 2:
+    if not institution_matches and len(dois) < 2:
         return {"status":"identity_review","author_id":identifier,"reason":"当前与历史机构缺少可核对的匹配。"}
     articles = api("/works",filter=f"authorships.author.id:{identifier},type:article",per_page=1,select="id")
     top = api("/works",filter=f"authorships.author.id:{identifier}",per_page=5,
