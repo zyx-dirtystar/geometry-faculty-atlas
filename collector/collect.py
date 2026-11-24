@@ -343,6 +343,7 @@ def population(db):
                 counts.append({**count, "checkedAt":checked})
         group["cv"] = cv
         group["cv_type"] = review.get("cvType") or ("公开 CV（简版）" if cv and re.search(r"(?:mini|short|brief)[-_]?[_-]?(?:cv|vita)|cv[-_](?:mini|short|brief)", cv, re.I) else None)
+        group["cv_status"] = review.get("cvStatus")
         group["publications"] = publications
         group["publication_counts"] = counts
         group["topic_sources"] = sources
@@ -368,6 +369,15 @@ def population(db):
         group["aliases"] = review.get("aliases", [])
         dates = [row.get("checked_at") or "" for row in evidence]
         group["checked_at"] = max(dates + [review.get("checkedAt","")]) or None
+    homepage_owners = defaultdict(set)
+    for group in result.values():
+        if group["decision"] == "candidate" and group["homepage"]:
+            homepage_owners[group["homepage"].rstrip("/")].add(name_key(group["name"]))
+    shared_homepages = {url for url, owners in homepage_owners.items() if len(owners) > 1}
+    for group in result.values():
+        if group["homepage"].rstrip("/") in shared_homepages:
+            group["homepage"] = ""
+            group["homepage_status"] = "现有链接由不同学者共用，未核实到独立个人主页。"
     return sorted(result.values(), key=lambda group: (group["school"],group["name"]))
 
 
@@ -483,8 +493,12 @@ def make_patch(seed, data, source_rows, scope_notes, school_reviews):
                                   ("publicationsUrl",person["publications"])):
                 if value and not updated.get(target):
                     updated[target] = value
+            if person.get("homepage_status") and not updated.get("homepage"):
+                updated["homepageStatus"] = person["homepage_status"]
             if updated.get("cvUrl") == person["cv"] and person["cv_type"]:
                 updated["cvType"] = person["cv_type"]
+            if person.get("cv_status") and not updated.get("cvUrl"):
+                updated["cvStatus"] = person["cv_status"]
             if person["publication_counts"]:
                 counts = {(m["scope"], m["url"], m["checkedAt"]): m for m in updated.get("publicationCounts", [])}
                 counts.update({(m["scope"], m["url"], m["checkedAt"]): m for m in person["publication_counts"]})
@@ -534,9 +548,10 @@ def make_patch(seed, data, source_rows, scope_notes, school_reviews):
                 "url":person["affiliation_url"],"type":"primary","checkedAt":person["checked_at"],
             }],
             "fields":person["fields"],"tags":keep_tags(person["topic_sources"]),
-            "homepage":anchor.get("homepage") or person["homepage"] or None, "cvUrl":cv or None,
+            "homepage":anchor.get("homepage") or person["homepage"] or None,
+            "homepageStatus":person.get("homepage_status"), "cvUrl":cv or None,
             "cvType":person["cv_type"] if cv == person["cv"] else None,
-            "cvStatus":"独立 CV 待核对。" if not cv else None,
+            "cvStatus":(person.get("cv_status") or "独立 CV 待核对。") if not cv else None,
             "publicationsUrl":publications or None,
             "publicationCounts":person["publication_counts"],
             "opportunities":person["opportunities"],
@@ -709,7 +724,10 @@ def export(db, seed):
                 link_reason = "尚无可复核的个人页访问记录"
             for key, label in (("homepage", "个人主页"), ("cvUrl", "CV"), ("publicationsUrl", "发表列表")):
                 if not p.get(key):
-                    notes.append(f"{label}待核，{link_reason}")
+                    reason = p.get("homepageStatus") if key == "homepage" else p.get("cvStatus") if key == "cvUrl" else None
+                    if reason == "独立 CV 待核对。":
+                        reason = None
+                    notes.append(f"{label}待核，{reason.rstrip('。') if reason else link_reason}")
             counts = p.get("publicationCounts") or []
             if not counts:
                 notes.append("未登记作者或机构明确披露的计数及口径")
@@ -781,8 +799,8 @@ def export(db, seed):
         lines.extend([
             "## 最近一轮个人页补查",
             "",
-            f"{profile_run['checkedAt']} 核查了 {profile_run['schools']} 所学校的 {profile_run['attempted']} 个已登记个人页入口，"
-            f"其中 {profile_run['fetched']} 个返回内容、{profile_run['failed']} 个请求失败。"
+            f"{profile_run['checkedAt']} 对 {profile_run['schools']} 所学校登记的个人页入口执行 {profile_run['attempted']} 次公开访问，"
+            f"其中 {profile_run['fetched']} 次返回内容、{profile_run['failed']} 次请求失败。"
             "后续以个人页内容和官方任职为准核对方向与个人字段。",
             "",
         ])
