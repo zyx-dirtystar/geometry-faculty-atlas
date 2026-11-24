@@ -776,6 +776,16 @@ def export(db, seed):
         f"已解析 {profile_count} 个个人页面。校级全名单对账完成 {completed_schools} 所。",
         "",
     ]
+    profile_run = cohorts.get("latestProfileRun")
+    if profile_run:
+        lines.extend([
+            "## 最近一轮个人页补查",
+            "",
+            f"{profile_run['checkedAt']} 核查了 {profile_run['schools']} 所学校的 {profile_run['attempted']} 个已登记个人页入口，"
+            f"其中 {profile_run['fetched']} 个返回内容、{profile_run['failed']} 个请求失败。"
+            "后续以个人页内容和官方任职为准核对方向与个人字段。",
+            "",
+        ])
     if cohorts:
         parsed_schools = {row["school"] for row in sources if row["status"] == "parsed"}
         review_groups = cohorts["cohorts"]
