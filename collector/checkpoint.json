@@ -3642,6 +3642,56 @@
       "note": "浏览纯数学组 Academic Staff，转录四位任职与主题可交叉确认的学者。院系完整名单和相邻方向仍待对账。"
     },
     {
+      "id": "monash-applied31",
+      "school": "monash",
+      "url": "https://www.monash.edu/science/schools/school-of-mathematics/research/applied-maths",
+      "label": "Applied and Computational Mathematics · research groups",
+      "status": "source_error",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "机构网站限制了目录请求。"
+    },
+    {
+      "id": "monash-campuses31",
+      "school": "monash",
+      "url": "https://www.monash.edu/about/who/glance/campuses",
+      "label": "Monash University · 官方校区范围",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "monash-centres31",
+      "school": "monash",
+      "url": "https://www.monash.edu/science/schools/school-of-mathematics/research",
+      "label": "School of Mathematics · Applied, Pure, Stochastic and joint centres",
+      "status": "source_error",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "机构网站限制了目录请求。"
+    },
+    {
+      "id": "monash-cmss31",
+      "school": "monash",
+      "url": "https://www.monash.edu/science/cmss/about-us",
+      "label": "CMSS · research scope",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "monash-cqfis31",
+      "school": "monash",
+      "url": "https://research.monash.edu/en/organisations/centre-for-quantitative-finance-and-investment-strategies/",
+      "label": "CQFIS · institutional centre people and outputs",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
       "id": "monash-full-audit-source",
       "school": "monash",
       "url": "https://www.monash.edu/science/research/graduate-research/find-a-supervisor/mathematical",
@@ -3650,6 +3700,26 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "机构网站限制了目录请求。"
+    },
+    {
+      "id": "monash-iitb31",
+      "school": "monash",
+      "url": "https://iitbmonash.org/programOutline",
+      "label": "IIT Bombay–Monash · 联合培养与校区范围",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "monash-indo31",
+      "school": "monash",
+      "url": "https://www.monash.edu/indonesia/about/academic-staff",
+      "label": "Indonesia · academic staff and data science",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "monash-malaysia-it31",
@@ -3666,6 +3736,36 @@
       "school": "monash",
       "url": "https://www.monash.edu.my/science/staff/academic",
       "label": "Malaysia · School of Science · Academic staff",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "monash-matrix31",
+      "school": "monash",
+      "url": "https://www.matrix-inst.org.au/governance/",
+      "label": "MATRIX · named roles and partnership",
+      "status": "source_error",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "HTTPS 连接或证书校验失败。"
+    },
+    {
+      "id": "monash-optim31",
+      "school": "monash",
+      "url": "https://optima.org.au/our-people/",
+      "label": "ARC OPTIMA · participating academic institutions",
+      "status": "source_error",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "HTTPS 连接或证书校验失败。"
+    },
+    {
+      "id": "monash-prato31",
+      "school": "monash",
+      "url": "https://www.monash.edu/study-abroad/outbound/study-in-prato",
+      "label": "Prato · 学术项目与人员范围",
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-25",
@@ -3780,6 +3880,16 @@
       "count": 0,
       "checked_at": null,
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "monash-stochastic31",
+      "school": "monash",
+      "url": "https://www.monash.edu/science/schools/school-of-mathematics/research/stochastic-processes",
+      "label": "Stochastic Processes · academic list",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
     },
     {
       "id": "monash-suzhou31",
@@ -7622,6 +7732,136 @@
       "note": ""
     },
     {
+      "id": "ucl-area31-analysis",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+      "label": "Mathematics group · Analysis",
+      "status": "parsed",
+      "count": 19,
+      "checked_at": "2026-11-25",
+      "note": "从组页提取具名个人档案链接，与院系教职、科研岗及荣休名册交叉；研究组不作为单独主聘。"
+    },
+    {
+      "id": "ucl-area31-applied-analysis",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/applied-analysis",
+      "label": "Mathematics group · Applied Analysis",
+      "status": "parsed",
+      "count": 9,
+      "checked_at": "2026-11-25",
+      "note": "从组页提取具名个人档案链接，与院系教职、科研岗及荣休名册交叉；研究组不作为单独主聘。"
+    },
+    {
+      "id": "ucl-area31-clinical-operational-research-unit",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/clinical-operational-research-unit",
+      "label": "Mathematics group · Clinical Operational Research Unit",
+      "status": "parsed",
+      "count": 11,
+      "checked_at": "2026-11-25",
+      "note": "从组页提取具名个人档案链接，与院系教职、科研岗及荣休名册交叉；研究组不作为单独主聘。"
+    },
+    {
+      "id": "ucl-area31-combinatorics",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/combinatorics",
+      "label": "Mathematics group · Combinatorics",
+      "status": "parsed",
+      "count": 6,
+      "checked_at": "2026-11-25",
+      "note": "从组页提取具名个人档案链接，与院系教职、科研岗及荣休名册交叉；研究组不作为单独主聘。"
+    },
+    {
+      "id": "ucl-area31-financial-mathematics",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/financial-mathematics",
+      "label": "Mathematics group · Financial Mathematics",
+      "status": "parsed",
+      "count": 7,
+      "checked_at": "2026-11-25",
+      "note": "从组页提取具名个人档案链接，与院系教职、科研岗及荣休名册交叉；研究组不作为单独主聘。"
+    },
+    {
+      "id": "ucl-area31-fluid-mechanics",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/fluid-mechanics",
+      "label": "Mathematics group · Fluid Mechanics",
+      "status": "parsed",
+      "count": 10,
+      "checked_at": "2026-11-25",
+      "note": "从组页提取具名个人档案链接，与院系教职、科研岗及荣休名册交叉；研究组不作为单独主聘。"
+    },
+    {
+      "id": "ucl-area31-geometry-and-topology",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+      "label": "Mathematics group · Geometry and Topology",
+      "status": "parsed",
+      "count": 19,
+      "checked_at": "2026-11-25",
+      "note": "从组页提取具名个人档案链接，与院系教职、科研岗及荣休名册交叉；研究组不作为单独主聘。"
+    },
+    {
+      "id": "ucl-area31-mathematical-biology",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-biology",
+      "label": "Mathematics group · Mathematical Biology",
+      "status": "parsed",
+      "count": 16,
+      "checked_at": "2026-11-25",
+      "note": "从组页提取具名个人档案链接，与院系教职、科研岗及荣休名册交叉；研究组不作为单独主聘。"
+    },
+    {
+      "id": "ucl-area31-mathematical-modelling-industry-and-society",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-modelling-industry-and-society",
+      "label": "Mathematics group · Mathematical Modelling in Industry and Society",
+      "status": "parsed",
+      "count": 7,
+      "checked_at": "2026-11-25",
+      "note": "从组页提取具名个人档案链接，与院系教职、科研岗及荣休名册交叉；研究组不作为单独主聘。"
+    },
+    {
+      "id": "ucl-area31-mathematical-physics",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+      "label": "Mathematics group · Mathematical Physics",
+      "status": "parsed",
+      "count": 18,
+      "checked_at": "2026-11-25",
+      "note": "从组页提取具名个人档案链接，与院系教职、科研岗及荣休名册交叉；研究组不作为单独主聘。"
+    },
+    {
+      "id": "ucl-area31-medical-modelling-group",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/medical-modelling-group",
+      "label": "Mathematics group · Medical Modelling Group",
+      "status": "parsed",
+      "count": 3,
+      "checked_at": "2026-11-25",
+      "note": "从组页提取具名个人档案链接，与院系教职、科研岗及荣休名册交叉；研究组不作为单独主聘。"
+    },
+    {
+      "id": "ucl-area31-number-theory",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/number-theory",
+      "label": "Mathematics group · Number Theory",
+      "status": "parsed",
+      "count": 10,
+      "checked_at": "2026-11-25",
+      "note": "从组页提取具名个人档案链接，与院系教职、科研岗及荣休名册交叉；研究组不作为单独主聘。"
+    },
+    {
+      "id": "ucl-area31-numerical-analysis-and-scientific-computing",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/numerical-analysis-and-scientific-computing",
+      "label": "Mathematics group · Numerical Analysis and Scientific Computing",
+      "status": "parsed",
+      "count": 9,
+      "checked_at": "2026-11-25",
+      "note": "从组页提取具名个人档案链接，与院系教职、科研岗及荣休名册交叉；研究组不作为单独主聘。"
+    },
+    {
       "id": "ucl-campus31",
       "school": "ucl",
       "url": "https://www.ucl.ac.uk/about/campuses-and-facilities/ucl-campuses",
@@ -7635,21 +7875,21 @@
       "id": "ucl-datasig31",
       "school": "ucl",
       "url": "https://datasig.ac.uk/people",
-      "label": "DataSig · Cross-institution team",
-      "status": "pending",
-      "count": 0,
-      "checked_at": null,
-      "note": "尚未取得网页。"
+      "label": "DataSig · cross-institution team",
+      "status": "parsed",
+      "count": 31,
+      "checked_at": "2026-11-25",
+      "note": "项目页 31 个具名条目涉及 Oxford、UCL、Imperial 等多个机构，项目身份不代表 UCL 主聘。"
     },
     {
       "id": "ucl-dpi31",
       "school": "ucl",
       "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
       "label": "David Potter Institute for Quantum Information Science · People",
-      "status": "pending",
-      "count": 0,
-      "checked_at": null,
-      "note": "尚未取得网页。"
+      "status": "parsed",
+      "count": 19,
+      "checked_at": "2026-11-25",
+      "note": "逐卡核对 4 位 Core Faculty 和 15 位 Associate Faculty，物理方向和数学系岗位区分。"
     },
     {
       "id": "ucl-faculty",
@@ -7705,11 +7945,11 @@
       "id": "ucl-lsgnt31",
       "school": "ucl",
       "url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
-      "label": "London School of Geometry and Number Theory · Staff",
-      "status": "reference",
-      "count": 0,
-      "checked_at": null,
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "label": "London School of Geometry and Number Theory · UCL staff assignment",
+      "status": "parsed",
+      "count": 21,
+      "checked_at": "2026-11-25",
+      "note": "官方联合中心总表 69 条，按所列机构筛出 UCL 21 人。校外主聘和历史身份按各院正式个人页再核。"
     },
     {
       "id": "ucl-mathphys31",
@@ -7730,6 +7970,16 @@
       "count": 28,
       "checked_at": "2026-11-25",
       "note": "官方科研分栏 28 张，核对 Renata Picciotto 的个人页和研究组拼写。"
+    },
+    {
+      "id": "ucl-research-index31",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research",
+      "label": "Mathematics · index of research areas",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
       "id": "ucla-geometry",
@@ -250125,6 +250375,3110 @@
       }
     },
     {
+      "source": "ucl-area31-analysis",
+      "person_key": "alansokal",
+      "school": "ucl",
+      "record": {
+        "name": "Alan Sokal",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=ADSOK62",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-analysis",
+      "person_key": "alexanderwalker",
+      "school": "ucl",
+      "record": {
+        "name": "Alexander Walker",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=AWALK68",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-analysis",
+      "person_key": "alexsobolev",
+      "school": "ucl",
+      "record": {
+        "name": "Alex Sobolev",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=ASOBO33",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-analysis",
+      "person_key": "antoinegansemer",
+      "school": "ucl",
+      "record": {
+        "name": "Antoine Gansemer",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/104494-antoine-gansemer",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-analysis",
+      "person_key": "beatriznavarrolameda",
+      "school": "ucl",
+      "record": {
+        "name": "Beatriz Navarro Lameda",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=BNAVA25",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-analysis",
+      "person_key": "dmitrivassiliev",
+      "school": "ucl",
+      "record": {
+        "name": "Dmitri Vassiliev",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=DVASS76",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-analysis",
+      "person_key": "felipemarceca",
+      "school": "ucl",
+      "record": {
+        "name": "Felipe Marceca",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/107516-felipe-marceca",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-analysis",
+      "person_key": "jeffreygalkowski",
+      "school": "ucl",
+      "record": {
+        "name": "Jeffrey Galkowski",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=JGALK87",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-analysis",
+      "person_key": "leonidparnovski",
+      "school": "ucl",
+      "record": {
+        "name": "Leonid Parnovski",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/2506-leonid-parnovski",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-analysis",
+      "person_key": "mahirhadzic",
+      "school": "ucl",
+      "record": {
+        "name": "Mahir Hadzic",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=MHADZ42",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-analysis",
+      "person_key": "marcellomalagutti",
+      "school": "ucl",
+      "record": {
+        "name": "Marcello Malagutti",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/94894-marcello-malagutti",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-analysis",
+      "person_key": "mikhailkarpukhin",
+      "school": "ucl",
+      "record": {
+        "name": "Mikhail Karpukhin",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=MKARP96",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-analysis",
+      "person_key": "nadiasidorova",
+      "school": "ucl",
+      "record": {
+        "name": "Nadia Sidorova",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=NSIDO22",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-analysis",
+      "person_key": "philippecharron",
+      "school": "ucl",
+      "record": {
+        "name": "Philippe Charron",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/100015-philippe-charron",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-analysis",
+      "person_key": "rodhalburd",
+      "school": "ucl",
+      "record": {
+        "name": "Rod Halburd",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=RHALB06",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-analysis",
+      "person_key": "selimghazouani",
+      "school": "ucl",
+      "record": {
+        "name": "Selim Ghazouani",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=SGHAZ12",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-analysis",
+      "person_key": "stevenflynn",
+      "school": "ucl",
+      "record": {
+        "name": "Steven Flynn",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/99937-steven-flynn",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-analysis",
+      "person_key": "yanlongfang",
+      "school": "ucl",
+      "record": {
+        "name": "Yan-Long Fang",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=YLFAN45",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-analysis",
+      "person_key": "yiannispetridis",
+      "school": "ucl",
+      "record": {
+        "name": "Yiannis Petridis",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=IPETR71",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-applied-analysis",
+      "person_key": "carlomarinelli",
+      "school": "ucl",
+      "record": {
+        "name": "Carlo Marinelli",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=CMARI86",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/applied-analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-applied-analysis",
+      "person_key": "davidhewett",
+      "school": "ucl",
+      "record": {
+        "name": "David Hewett",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=DHEWE35",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/applied-analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-applied-analysis",
+      "person_key": "iainsmears",
+      "school": "ucl",
+      "record": {
+        "name": "Iain Smears",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/61150",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/applied-analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-applied-analysis",
+      "person_key": "iliakamotski",
+      "school": "ucl",
+      "record": {
+        "name": "Ilia Kamotski",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=IKAMO33",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/applied-analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-applied-analysis",
+      "person_key": "rodhalburd",
+      "school": "ucl",
+      "record": {
+        "name": "Rod Halburd",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=RHALB06",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/applied-analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-applied-analysis",
+      "person_key": "shanecooper",
+      "school": "ucl",
+      "record": {
+        "name": "Shane Cooper",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=SCOOP21",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/applied-analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-applied-analysis",
+      "person_key": "thomassales",
+      "school": "ucl",
+      "record": {
+        "name": "Thomas Sales",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/109429-thomas-sales",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/applied-analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-applied-analysis",
+      "person_key": "valerysmyshlyaev",
+      "school": "ucl",
+      "record": {
+        "name": "Valery Smyshlyaev",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=VPSMY51",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/applied-analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-applied-analysis",
+      "person_key": "yanlongfang",
+      "school": "ucl",
+      "record": {
+        "name": "Yan-Long Fang",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=YLFAN45",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/applied-analysis",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-clinical-operational-research-unit",
+      "person_key": "associateprofalejandrodiazdelao",
+      "school": "ucl",
+      "record": {
+        "name": "Associate Prof Alejandro Diaz De La O",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=FADIA90",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/clinical-operational-research-unit",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-clinical-operational-research-unit",
+      "person_key": "carolmcdonald",
+      "school": "ucl",
+      "record": {
+        "name": "Carol McDonald",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/10448-carol-mcdonald",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/clinical-operational-research-unit",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-clinical-operational-research-unit",
+      "person_key": "christinapagel",
+      "school": "ucl",
+      "record": {
+        "name": "Christina Pagel",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=ACPAG88",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/clinical-operational-research-unit",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-clinical-operational-research-unit",
+      "person_key": "julietaylor",
+      "school": "ucl",
+      "record": {
+        "name": "Julie Taylor",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/47014-julie-taylor",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/clinical-operational-research-unit",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-clinical-operational-research-unit",
+      "person_key": "lucagrieco",
+      "school": "ucl",
+      "record": {
+        "name": "Luca Grieco",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=LGRIE55",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/clinical-operational-research-unit",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-clinical-operational-research-unit",
+      "person_key": "martinutley",
+      "school": "ucl",
+      "record": {
+        "name": "Martin Utley",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=MLUTL84",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/clinical-operational-research-unit",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-clinical-operational-research-unit",
+      "person_key": "mehdihafezi",
+      "school": "ucl",
+      "record": {
+        "name": "Mehdi Hafezi",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/107780-mehdi-hafezi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/clinical-operational-research-unit",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-clinical-operational-research-unit",
+      "person_key": "populationslifelonghealth",
+      "school": "ucl",
+      "record": {
+        "name": "Populations & Lifelong Health",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/researchTheme/66",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/clinical-operational-research-unit",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-clinical-operational-research-unit",
+      "person_key": "qihuang",
+      "school": "ucl",
+      "record": {
+        "name": "Qi Huang",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/83307-qi-huang",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/clinical-operational-research-unit",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-clinical-operational-research-unit",
+      "person_key": "sonyacrowe",
+      "school": "ucl",
+      "record": {
+        "name": "Sonya Crowe",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=SCROW81",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/clinical-operational-research-unit",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-clinical-operational-research-unit",
+      "person_key": "zellaking",
+      "school": "ucl",
+      "record": {
+        "name": "Zella King",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/80667-zella-king",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/clinical-operational-research-unit",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-combinatorics",
+      "person_key": "alansokal",
+      "school": "ucl",
+      "record": {
+        "name": "Alan Sokal",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=ADSOK62",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/combinatorics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-combinatorics",
+      "person_key": "alexeypokrovskiy",
+      "school": "ucl",
+      "record": {
+        "name": "Alexey Pokrovskiy",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=APOKR39",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/combinatorics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-combinatorics",
+      "person_key": "antoniogirao",
+      "school": "ucl",
+      "record": {
+        "name": "Antonio Girao",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/103596-antonio-girao",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/combinatorics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-combinatorics",
+      "person_key": "johntalbot",
+      "school": "ucl",
+      "record": {
+        "name": "John Talbot",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=JMTAL98",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/combinatorics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-combinatorics",
+      "person_key": "shohamletzter",
+      "school": "ucl",
+      "record": {
+        "name": "Shoham Letzter",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=SLETZ34",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/combinatorics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-combinatorics",
+      "person_key": "yusranaqvi",
+      "school": "ucl",
+      "record": {
+        "name": "Yusra Naqvi",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=YNAQV58",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/combinatorics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-financial-mathematics",
+      "person_key": "alextse",
+      "school": "ucl",
+      "record": {
+        "name": "Alex Tse",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=ASLTS89",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/financial-mathematics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-financial-mathematics",
+      "person_key": "andreamacrina",
+      "school": "ucl",
+      "record": {
+        "name": "Andrea Macrina",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=AMACR82",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/financial-mathematics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-financial-mathematics",
+      "person_key": "camilogarciatrillos",
+      "school": "ucl",
+      "record": {
+        "name": "Camilo Garcia Trillos",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=CAGAR51",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/financial-mathematics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-financial-mathematics",
+      "person_key": "carlomarinelli",
+      "school": "ucl",
+      "record": {
+        "name": "Carlo Marinelli",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=CMARI86",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/financial-mathematics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-financial-mathematics",
+      "person_key": "danielschwarz",
+      "school": "ucl",
+      "record": {
+        "name": "Daniel Schwarz",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=DCSCH32",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/financial-mathematics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-financial-mathematics",
+      "person_key": "haoni",
+      "school": "ucl",
+      "record": {
+        "name": "Hao Ni",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=HNIXX56",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/financial-mathematics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-financial-mathematics",
+      "person_key": "neofytosrodosthenous",
+      "school": "ucl",
+      "record": {
+        "name": "Neofytos Rodosthenous",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=NRODO76",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/financial-mathematics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-fluid-mechanics",
+      "person_key": "benjaminwalker",
+      "school": "ucl",
+      "record": {
+        "name": "Benjamin Walker",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/84321-benjamin-walker",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/fluid-mechanics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-fluid-mechanics",
+      "person_key": "caraneal",
+      "school": "ucl",
+      "record": {
+        "name": "Cara Neal",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/100043-cara-neal",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/fluid-mechanics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-fluid-mechanics",
+      "person_key": "catherinekamal",
+      "school": "ucl",
+      "record": {
+        "name": "Catherine Kamal",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/99268-catherine-kamal",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/fluid-mechanics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-fluid-mechanics",
+      "person_key": "edwardjohnson",
+      "school": "ucl",
+      "record": {
+        "name": "Edward Johnson",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/8836-edward-johnson",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/fluid-mechanics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-fluid-mechanics",
+      "person_key": "gavinesler",
+      "school": "ucl",
+      "record": {
+        "name": "Gavin Esler",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/2679-gavin-esler",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/fluid-mechanics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-fluid-mechanics",
+      "person_key": "gunnarpeng",
+      "school": "ucl",
+      "record": {
+        "name": "Gunnar Peng",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/99140-gunnar-peng",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/fluid-mechanics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-fluid-mechanics",
+      "person_key": "helenwilson",
+      "school": "ucl",
+      "record": {
+        "name": "Helen Wilson",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/4230-helen-wilson",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/fluid-mechanics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-fluid-mechanics",
+      "person_key": "jeanmarcvandenbroeck",
+      "school": "ucl",
+      "record": {
+        "name": "Jean-Marc Vanden-Broeck",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/4560-jeanmarc-vandenbroeck",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/fluid-mechanics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-fluid-mechanics",
+      "person_key": "philippearce",
+      "school": "ucl",
+      "record": {
+        "name": "Philip Pearce",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/83526-philip-pearce",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/fluid-mechanics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-fluid-mechanics",
+      "person_key": "robbmcdonald",
+      "school": "ucl",
+      "record": {
+        "name": "Robb McDonald",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/8846-robb-mcdonald",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/fluid-mechanics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "aleksanderdoan",
+      "school": "ucl",
+      "record": {
+        "name": "Aleksander Doan",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=ADOAN20",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "costantebellettini",
+      "school": "ucl",
+      "record": {
+        "name": "Costante Bellettini",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=CBELL94",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "darioberaldo",
+      "school": "ucl",
+      "record": {
+        "name": "Dario Beraldo",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=DBERA62",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "edsegal",
+      "school": "ucl",
+      "record": {
+        "name": "Ed Segal",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=EPSEG38",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "francisjohnson",
+      "school": "ucl",
+      "record": {
+        "name": "Francis Johnson",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=FEAJO83",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "gorapadabera",
+      "school": "ucl",
+      "record": {
+        "name": "Gorapada Bera",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/109161-gorapada-bera",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "jeffreygalkowski",
+      "school": "ucl",
+      "record": {
+        "name": "Jeffrey Galkowski",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=JGALK87",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "jordanhofmann",
+      "school": "ucl",
+      "record": {
+        "name": "Jordan Hofmann",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/68570-jordan-hofmann",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "larslouder",
+      "school": "ucl",
+      "record": {
+        "name": "Lars Louder",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=LLOUD96",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "marcellomalagutti",
+      "school": "ucl",
+      "record": {
+        "name": "Marcello Malagutti",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/94894-marcello-malagutti",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "markroberts",
+      "school": "ucl",
+      "record": {
+        "name": "Mark Roberts",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/6882-mark-roberts",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "mikhailkarpukhin",
+      "school": "ucl",
+      "record": {
+        "name": "Mikhail Karpukhin",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=MKARP96",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "renatapicciotto",
+      "school": "ucl",
+      "record": {
+        "name": "Renata Picciotto",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/110986-renata-picciotto",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "rhiannonsavage",
+      "school": "ucl",
+      "record": {
+        "name": "Rhiannon Savage",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/106678-rhiannon-savage",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "ruthreynolds",
+      "school": "ucl",
+      "record": {
+        "name": "Ruth Reynolds",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=RREYN33",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "selimghazouani",
+      "school": "ucl",
+      "record": {
+        "name": "Selim Ghazouani",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=SGHAZ12",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "stevenflynn",
+      "school": "ucl",
+      "record": {
+        "name": "Steven Flynn",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/99937-steven-flynn",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "wajidmannan",
+      "school": "ucl",
+      "record": {
+        "name": "Wajid Mannan",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/22738-wajid-mannan",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-geometry-and-topology",
+      "person_key": "yusranaqvi",
+      "school": "ucl",
+      "record": {
+        "name": "Yusra Naqvi",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=YNAQV58",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/geometry-and-topology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-biology",
+      "person_key": "alexeyzaikin",
+      "school": "ucl",
+      "record": {
+        "name": "Alexey Zaikin",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/9159-alexey-zaikin",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-biology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-biology",
+      "person_key": "andrewnugent",
+      "school": "ucl",
+      "record": {
+        "name": "Andrew Nugent",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/105981-andrew-nugent",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-biology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-biology",
+      "person_key": "benjaminwalker",
+      "school": "ucl",
+      "record": {
+        "name": "Benjamin Walker",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/84321-benjamin-walker",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-biology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-biology",
+      "person_key": "caraneal",
+      "school": "ucl",
+      "record": {
+        "name": "Cara Neal",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/100043-cara-neal",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-biology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-biology",
+      "person_key": "carinadunlop",
+      "school": "ucl",
+      "record": {
+        "name": "Carina Dunlop",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/99325-carina-dunlop",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-biology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-biology",
+      "person_key": "claudiadesousamirandaperez",
+      "school": "ucl",
+      "record": {
+        "name": "Claudia De Sousa Miranda Perez",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/85836-claudia-de-sousa-miranda-perez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-biology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-biology",
+      "person_key": "danielbooth",
+      "school": "ucl",
+      "record": {
+        "name": "Daniel Booth",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/108364-daniel-booth",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-biology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-biology",
+      "person_key": "davidmorselli",
+      "school": "ucl",
+      "record": {
+        "name": "David Morselli",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/98891-david-morselli",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-biology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-biology",
+      "person_key": "gunnarpeng",
+      "school": "ucl",
+      "record": {
+        "name": "Gunnar Peng",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/99140-gunnar-peng",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-biology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-biology",
+      "person_key": "karenpage",
+      "school": "ucl",
+      "record": {
+        "name": "Karen Page",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/2311-karen-page",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-biology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-biology",
+      "person_key": "masoudahmadi",
+      "school": "ucl",
+      "record": {
+        "name": "Masoud Ahmadi",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/103287-masoud-ahmadi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-biology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-biology",
+      "person_key": "nickovenden",
+      "school": "ucl",
+      "record": {
+        "name": "Nick Ovenden",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/6690-nick-ovenden",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-biology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-biology",
+      "person_key": "philippearce",
+      "school": "ucl",
+      "record": {
+        "name": "Philip Pearce",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/83526-philip-pearce",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-biology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-biology",
+      "person_key": "rosemaryharris",
+      "school": "ucl",
+      "record": {
+        "name": "Rosemary Harris",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/89367-rosemary-harris",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-biology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-biology",
+      "person_key": "stevebaigent",
+      "school": "ucl",
+      "record": {
+        "name": "Steve Baigent",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/7618-steve-baigent",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-biology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-biology",
+      "person_key": "vijaiananddharmalingam",
+      "school": "ucl",
+      "record": {
+        "name": "Vijai Anand Dharmalingam",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/94285-vijai-anand-dharmalingam",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-biology",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-modelling-industry-and-society",
+      "person_key": "benjaminwalker",
+      "school": "ucl",
+      "record": {
+        "name": "Benjamin Walker",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/84321-benjamin-walker",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-modelling-industry-and-society",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-modelling-industry-and-society",
+      "person_key": "catherinekamal",
+      "school": "ucl",
+      "record": {
+        "name": "Catherine Kamal",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/99268-catherine-kamal",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-modelling-industry-and-society",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-modelling-industry-and-society",
+      "person_key": "gunnarpeng",
+      "school": "ucl",
+      "record": {
+        "name": "Gunnar Peng",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/99140-gunnar-peng",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-modelling-industry-and-society",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-modelling-industry-and-society",
+      "person_key": "jacobjepson",
+      "school": "ucl",
+      "record": {
+        "name": "Jacob Jepson",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/59686-joseph-jacob",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-modelling-industry-and-society",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-modelling-industry-and-society",
+      "person_key": "masoudahmadi",
+      "school": "ucl",
+      "record": {
+        "name": "Masoud Ahmadi",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/103287-masoud-ahmadi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-modelling-industry-and-society",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-modelling-industry-and-society",
+      "person_key": "nickovenden",
+      "school": "ucl",
+      "record": {
+        "name": "Nick Ovenden",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/6690-nick-ovenden",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-modelling-industry-and-society",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-modelling-industry-and-society",
+      "person_key": "rosemaryharris",
+      "school": "ucl",
+      "record": {
+        "name": "Rosemary Harris",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/89367-rosemary-harris",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-modelling-industry-and-society",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-physics",
+      "person_key": "alansokal",
+      "school": "ucl",
+      "record": {
+        "name": "Alan Sokal",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=ADSOK62",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-physics",
+      "person_key": "alexsobolev",
+      "school": "ucl",
+      "record": {
+        "name": "Alex Sobolev",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=ASOBO33",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-physics",
+      "person_key": "antoniodalfonsodelsordo",
+      "school": "ucl",
+      "record": {
+        "name": "Antonio d’Alfonso del Sordo",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/81448-antonio-dalfonso-del-sordo",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-physics",
+      "person_key": "associateprofmahirhadzic",
+      "school": "ucl",
+      "record": {
+        "name": "Associate Prof Mahir Hadzic",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=MHADZ42",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-physics",
+      "person_key": "bettihartmann",
+      "school": "ucl",
+      "record": {
+        "name": "Betti Hartmann",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=BHART50",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-physics",
+      "person_key": "christianboehmer",
+      "school": "ucl",
+      "record": {
+        "name": "Christian Boehmer",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=CGBOH42",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-physics",
+      "person_key": "dmitrivassiliev",
+      "school": "ucl",
+      "record": {
+        "name": "Dmitri Vassiliev",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=DVASS76",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-physics",
+      "person_key": "erikjensko",
+      "school": "ucl",
+      "record": {
+        "name": "Erik Jensko",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/73882-erik-jensko",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-physics",
+      "person_key": "jeffreygalkowski",
+      "school": "ucl",
+      "record": {
+        "name": "Jeffrey Galkowski",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=JGALK87",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-physics",
+      "person_key": "leonidparnovski",
+      "school": "ucl",
+      "record": {
+        "name": "Leonid Parnovski",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=LPARN78",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-physics",
+      "person_key": "marcellomalagutti",
+      "school": "ucl",
+      "record": {
+        "name": "Marcello Malagutti",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/94894-marcello-malagutti",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-physics",
+      "person_key": "michalkwasigroch",
+      "school": "ucl",
+      "record": {
+        "name": "Michal Kwasigroch",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=MPKWA49",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-physics",
+      "person_key": "nadiasidorova",
+      "school": "ucl",
+      "record": {
+        "name": "Nadia Sidorova",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=NSIDO22",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-physics",
+      "person_key": "philippecharron",
+      "school": "ucl",
+      "record": {
+        "name": "Philippe Charron",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/100015-philippe-charron",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-physics",
+      "person_key": "rodhalburd",
+      "school": "ucl",
+      "record": {
+        "name": "Rod Halburd",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=RHALB06",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-physics",
+      "person_key": "rosemaryharris",
+      "school": "ucl",
+      "record": {
+        "name": "Rosemary Harris",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/89367-rosemary-harris",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-physics",
+      "person_key": "selimghazouani",
+      "school": "ucl",
+      "record": {
+        "name": "Selim Ghazouani",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=SGHAZ12",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-mathematical-physics",
+      "person_key": "yanlongfang",
+      "school": "ucl",
+      "record": {
+        "name": "Yan-Long Fang",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=YLFAN45",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/mathematical-physics",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-medical-modelling-group",
+      "person_key": "nickovendenbscphd",
+      "school": "ucl",
+      "record": {
+        "name": "Nick Ovenden BSc PhD",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=NCOVE55",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/medical-modelling-group",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-medical-modelling-group",
+      "person_key": "robertbowlesbscphd",
+      "school": "ucl",
+      "record": {
+        "name": "Robert Bowles BSc PhD",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=RIBOW20",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/medical-modelling-group",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-medical-modelling-group",
+      "person_key": "stevebaigentmadphil",
+      "school": "ucl",
+      "record": {
+        "name": "Steve Baigent MA DPhil",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=SABAI49",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/medical-modelling-group",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-number-theory",
+      "person_key": "alexanderwalker",
+      "school": "ucl",
+      "record": {
+        "name": "Alexander Walker",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=AWALK68",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/number-theory",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-number-theory",
+      "person_key": "andreiyafaev",
+      "school": "ucl",
+      "record": {
+        "name": "Andrei Yafaev",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=AYAFA73",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/number-theory",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-number-theory",
+      "person_key": "ceciliabusuioc",
+      "school": "ucl",
+      "record": {
+        "name": "Cecilia Busuioc",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=CBUSU28",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/number-theory",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-number-theory",
+      "person_key": "ianpetrow",
+      "school": "ucl",
+      "record": {
+        "name": "Ian Petrow",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/72814-ian-petrow",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/number-theory",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-number-theory",
+      "person_key": "nikoletakalaydzhieva",
+      "school": "ucl",
+      "record": {
+        "name": "Nikoleta Kalaydzhieva",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=NDKAL46",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/number-theory",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-number-theory",
+      "person_key": "olivergregory",
+      "school": "ucl",
+      "record": {
+        "name": "Oliver Gregory",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/107460-oliver-gregory",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/number-theory",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-number-theory",
+      "person_key": "richardhill",
+      "school": "ucl",
+      "record": {
+        "name": "Richard Hill",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=RMHIL99",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/number-theory",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-number-theory",
+      "person_key": "stephaniechan",
+      "school": "ucl",
+      "record": {
+        "name": "Stephanie Chan",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/58188-stephanie-chan",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/number-theory",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-number-theory",
+      "person_key": "vladimirdokchitser",
+      "school": "ucl",
+      "record": {
+        "name": "Vladimir Dokchitser",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=VDOKS64",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/number-theory",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-number-theory",
+      "person_key": "yiannispetridis",
+      "school": "ucl",
+      "record": {
+        "name": "Yiannis Petridis",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=IPETR71",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/number-theory",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-numerical-analysis-and-scientific-computing",
+      "person_key": "davidhewett",
+      "school": "ucl",
+      "record": {
+        "name": "David Hewett",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=DHEWE35",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/numerical-analysis-and-scientific-computing",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-numerical-analysis-and-scientific-computing",
+      "person_key": "erikburman",
+      "school": "ucl",
+      "record": {
+        "name": "Erik Burman",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=ENBUR31",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/numerical-analysis-and-scientific-computing",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-numerical-analysis-and-scientific-computing",
+      "person_key": "fabianheimann",
+      "school": "ucl",
+      "record": {
+        "name": "Fabian Heimann",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/98815-fabian-heimann",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/numerical-analysis-and-scientific-computing",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-numerical-analysis-and-scientific-computing",
+      "person_key": "freyabull",
+      "school": "ucl",
+      "record": {
+        "name": "Freya Bull",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=FBULL81",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/numerical-analysis-and-scientific-computing",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-numerical-analysis-and-scientific-computing",
+      "person_key": "iainsmears",
+      "school": "ucl",
+      "record": {
+        "name": "Iain Smears",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/61150",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/numerical-analysis-and-scientific-computing",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-numerical-analysis-and-scientific-computing",
+      "person_key": "masoudahmadi",
+      "school": "ucl",
+      "record": {
+        "name": "Masoud Ahmadi",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/103287-masoud-ahmadi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/numerical-analysis-and-scientific-computing",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-numerical-analysis-and-scientific-computing",
+      "person_key": "maxjensen",
+      "school": "ucl",
+      "record": {
+        "name": "Max Jensen",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://iris.ucl.ac.uk/iris/browse/profile?upi=MJENS30",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/numerical-analysis-and-scientific-computing",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-numerical-analysis-and-scientific-computing",
+      "person_key": "thomassales",
+      "school": "ucl",
+      "record": {
+        "name": "Thomas Sales",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "https://profiles.ucl.ac.uk/109429-thomas-sales",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/numerical-analysis-and-scientific-computing",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-area31-numerical-analysis-and-scientific-computing",
+      "person_key": "timobetcke",
+      "school": "ucl",
+      "record": {
+        "name": "Timo Betcke",
+        "title": "Research Group Affiliate",
+        "research": "",
+        "profile": "http://iris.ucl.ac.uk/iris/browse/profile?upi=TBETC52",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research/numerical-analysis-and-scientific-computing",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "adamjones",
+      "school": "ucl",
+      "record": {
+        "name": "Adam Jones",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "alexallmont",
+      "school": "ucl",
+      "record": {
+        "name": "Alex Allmont",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "alexandrebloch",
+      "school": "ucl",
+      "record": {
+        "name": "Alexandre Bloch",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "arthurbizzi",
+      "school": "ucl",
+      "record": {
+        "name": "Arthur Bizzi",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "benwalker",
+      "school": "ucl",
+      "record": {
+        "name": "Ben Walker",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "blankahorvath",
+      "school": "ucl",
+      "record": {
+        "name": "Blanka Horvath",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "callumlau",
+      "school": "ucl",
+      "record": {
+        "name": "Callum Lau",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "crissalvi",
+      "school": "ucl",
+      "record": {
+        "name": "Cris Salvi",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "davidmcbride",
+      "school": "ucl",
+      "record": {
+        "name": "David McBride",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "francescopiatti",
+      "school": "ucl",
+      "record": {
+        "name": "Francesco Piatti",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "haoni",
+      "school": "ucl",
+      "record": {
+        "name": "Hao Ni",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "jamesfoster",
+      "school": "ucl",
+      "record": {
+        "name": "James Foster",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "jasonrader",
+      "school": "ucl",
+      "record": {
+        "name": "Jason Rader",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "leijiang",
+      "school": "ucl",
+      "record": {
+        "name": "Lei Jiang",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "leonardoroveri",
+      "school": "ucl",
+      "record": {
+        "name": "Leonardo Roveri",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "lingyiyang",
+      "school": "ucl",
+      "record": {
+        "name": "Lingyi Yang",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "martingeller",
+      "school": "ucl",
+      "record": {
+        "name": "Martin Geller",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "maudlemercier",
+      "school": "ucl",
+      "record": {
+        "name": "Maud Lemercier",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "nielscarioukotlarek",
+      "school": "ucl",
+      "record": {
+        "name": "Niels Cariou Kotlarek",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "nikitazozoulenko",
+      "school": "ucl",
+      "record": {
+        "name": "Nikita Zozoulenko",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "paolaarrubarrena",
+      "school": "ucl",
+      "record": {
+        "name": "Paola Arrubarrena",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "raeidsaqur",
+      "school": "ucl",
+      "record": {
+        "name": "Raeid Saqur",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "sammorley",
+      "school": "ucl",
+      "record": {
+        "name": "Sam Morley",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "samuelcohen",
+      "school": "ucl",
+      "record": {
+        "name": "Samuel Cohen",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "terrylyons",
+      "school": "ucl",
+      "record": {
+        "name": "Terry Lyons",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "thomascass",
+      "school": "ucl",
+      "record": {
+        "name": "Thomas Cass",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "viktoriiadavletshyna",
+      "school": "ucl",
+      "record": {
+        "name": "Viktoriia Davletshyna",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "weixinyang",
+      "school": "ucl",
+      "record": {
+        "name": "Weixin Yang",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "wenge",
+      "school": "ucl",
+      "record": {
+        "name": "Wen Ge",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "wensu",
+      "school": "ucl",
+      "record": {
+        "name": "Wen Su",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-datasig31",
+      "person_key": "yuewu",
+      "school": "ucl",
+      "record": {
+        "name": "Yue Wu",
+        "title": "Center Affiliate · Cross-university project listing",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://datasig.ac.uk/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "alessioserafini",
+      "school": "ucl",
+      "record": {
+        "name": "Alessio Serafini",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Alessio Serafini (Physics & Astronomy) specialises in quantum information with continuous variables, quantum optics and quantum control, including Gaussian states and quantum protocols.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "andrewgreen",
+      "school": "ucl",
+      "record": {
+        "name": "Andrew Green",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Andrew Green (Physics & Astronomy) researches correlated quantum systems, including tensor network models in AdS/CFT and both equilibrium and out-of-equilibrium strongly correlated phenomena.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "bettihartmann",
+      "school": "ucl",
+      "record": {
+        "name": "Betti Hartmann",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Betti Hartmann (Mathematics) researches general relativity and field theory, focusing on black holes, solitons, and applications to astrophysics and cosmology.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "christianboehmer",
+      "school": "ucl",
+      "record": {
+        "name": "Christian Boehmer",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Christian Böehmer (Mathematics) studies general relativity and cosmology, focusing on alternative gravity theories that avoid singularities.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "clarabradley",
+      "school": "ucl",
+      "record": {
+        "name": "Clara Bradley",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Clara Bradley (Philosophy) is a lecturer whose research focuses on the philosophy of physics, particularly the structure of gauge theories and their Hamiltonian and Lagrangian formulations.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "emmatobin",
+      "school": "ucl",
+      "record": {
+        "name": "Emma Tobin",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Emma Tobin (Science & Technology Studies) is Professor of Philosophy of Science, working on the metaphysics of natural kinds and the philosophy of chemistry and biochemistry.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "johannesnoller",
+      "school": "ucl",
+      "record": {
+        "name": "Johannes Noller",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Johannes Noller (Physics & Astronomy) studies gravitational wave science, cosmology and particle physics, combining theoretical and data-driven methods and exploring dark energy.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "jonathanoppenheim",
+      "school": "ucl",
+      "record": {
+        "name": "Jonathan Oppenheim",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Jonathan Oppenheim (Co-Director) explores an alternative to quantum gravity in which spacetime remains classical while quantum theory is modified, resulting in an intrinsic breakdown of predictability",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "lluismasanes",
+      "school": "ucl",
+      "record": {
+        "name": "Lluis Masanes",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Lluis Masanes (Physics & Astronomy) is interested in discrete holography and quantum causality.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "marikataylor",
+      "school": "ucl",
+      "record": {
+        "name": "Marika Taylor",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Marika Taylor (Executive Dean) works on quantum gravity, string theory and holography. She uses the holographic principle to explore black holes and quantum information.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "marzenaszymanska",
+      "school": "ucl",
+      "record": {
+        "name": "Marzena Szymanska",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Marzena Szymanska (Physics & Astronomy) studies out-of-equilibrium phenomena in light–matter systems, including exciton-polaritons, cavity and circuit QED, and cold atoms.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "oferlahav",
+      "school": "ucl",
+      "record": {
+        "name": "Ofer Lahav",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Ofer Lahav (Physics & Astronomy) is the Perren Chair of Astronomy, whose research focuses on observational cosmology, galaxy surveys and the nature of dark energy and dark matter.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "peterbarker",
+      "school": "ucl",
+      "record": {
+        "name": "Peter Barker",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Peter Barker (Head of Experimental Research) cools, manipulates and transports atoms, molecules and nanoparticles in optical tweezers, and explores levitated nanomechanics for quantum sensing.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "rodhalburd",
+      "school": "ucl",
+      "record": {
+        "name": "Rod Halburd",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Rod Halburd (Mathematics) works on integrable systems, the anti‑self‑dual Yang‑Mills equations, general relativity and complex analysis.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "roryjubber",
+      "school": "ucl",
+      "record": {
+        "name": "Rory Jubber",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Rory Jubber (Science & Technology Studies) is a lecturer in the philosophy of science. His research focuses on the metaphysics of physical science and the social epistemology of science.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "rosemaryharris",
+      "school": "ucl",
+      "record": {
+        "name": "Rosemary Harris",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Rosemary Harris (Mathematics) studies stochastic non‑equilibrium processes, including interacting particle systems and large deviations.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "sougatobose",
+      "school": "ucl",
+      "record": {
+        "name": "Sougato Bose",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Sougato (Co-Director) investigates experimental protocols to test the quantum nature of gravity, in close collaboration with experimentalists cooling and levitating large masses.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "taniamonteiro",
+      "school": "ucl",
+      "record": {
+        "name": "Tania Monteiro",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Tania Monteiro (Physics & Astronomy) works at the interface of quantum and classical regimes and collaborates closely with experimentalists.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-dpi31",
+      "person_key": "tobycubitt",
+      "school": "ucl",
+      "record": {
+        "name": "Toby Cubitt",
+        "title": "Center Affiliate · Quantum Information Science",
+        "research": "Toby Cubitt (Physics & Astronomy) is interested in mathematically rigorous toy models of AdS/CFT duality and its connections to quantum error correction and Hamiltonian simulation.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/dpi-qis/people",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
       "source": "ucl-faculty",
       "person_key": "alansokal",
       "school": "ucl",
@@ -252201,6 +255555,342 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/honorary-and-emeritus-staff",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "aleksanderdoan",
+      "school": "ucl",
+      "record": {
+        "name": "Aleksander Doan",
+        "title": "Center Affiliate · teaching member",
+        "research": "Differential geometry, gauge theory, symplectic topology",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "andreiyafaev",
+      "school": "ucl",
+      "record": {
+        "name": "Andrei Yafaev",
+        "title": "Center Affiliate · teaching member",
+        "research": "Arithmetic algebraic geometry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "ceciliabusuioc",
+      "school": "ucl",
+      "record": {
+        "name": "Cecilia Busuioc",
+        "title": "Center Affiliate · teaching member",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "costantebellettini",
+      "school": "ucl",
+      "record": {
+        "name": "Costante Bellettini",
+        "title": "Center Affiliate · teaching member",
+        "research": "Geometric measure theory, Geometric analysis, Calculus of variations and Elliptic PDEs.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "darioberaldo",
+      "school": "ucl",
+      "record": {
+        "name": "Dario Beraldo",
+        "title": "Center Affiliate · teaching member",
+        "research": "Geometric representation theory, especially on the geometric Langlands program. Derived algebraic geometry, higher category theory, connections to number theory and to mathematical physics.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "dmitrivassiliev",
+      "school": "ucl",
+      "record": {
+        "name": "Dmitri Vassiliev",
+        "title": "Center Affiliate · teaching member",
+        "research": "Spectral theory, microlocal analysis, geometric analysis and general relativity",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "ianpetrow",
+      "school": "ucl",
+      "record": {
+        "name": "Ian Petrow",
+        "title": "Center Affiliate · teaching member",
+        "research": "Analytic number theory, particularly the analytic theory of automorphic forms and L-functions.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "johntalbot",
+      "school": "ucl",
+      "record": {
+        "name": "John Talbot",
+        "title": "Center Affiliate · teaching member",
+        "research": "Combinatorics, extremal problems for hypergraphs and graphs",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "lorenzofoscolo",
+      "school": "ucl",
+      "record": {
+        "name": "Lorenzo Foscolo",
+        "title": "Center Affiliate · teaching member",
+        "research": "Differential Geometry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "luisgarciamartinez",
+      "school": "ucl",
+      "record": {
+        "name": "Luis Garcia Martinez",
+        "title": "Center Affiliate · teaching member",
+        "research": "Automorphic forms, Shimura varieties and special values of L-functions.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "mahirhadzic",
+      "school": "ucl",
+      "record": {
+        "name": "Mahir Hadzic",
+        "title": "Center Affiliate · teaching member",
+        "research": "Nonlinear partial differential equations and general relativity, free boundary problems and singularity formation phenomena.",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "michaelsinger",
+      "school": "ucl",
+      "record": {
+        "name": "Michael Singer",
+        "title": "Center Affiliate · teaching member",
+        "research": "Differential Geometry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "mikhailkarpukhin",
+      "school": "ucl",
+      "record": {
+        "name": "Mikhail Karpukhin",
+        "title": "Center Affiliate · teaching member",
+        "research": "Eigenvalue optimisation, minimal surfaces, harmonic maps",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "nikoletakalaydzhieva",
+      "school": "ucl",
+      "record": {
+        "name": "Nikoleta Kalaydzhieva",
+        "title": "Center Affiliate · teaching member",
+        "research": "Analytic Number Theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "nikonkurnosov",
+      "school": "ucl",
+      "record": {
+        "name": "Nikon Kurnosov",
+        "title": "Center Affiliate · teaching member",
+        "research": "Hyperkahler geometry, Algebraic geometry",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "richardhill",
+      "school": "ucl",
+      "record": {
+        "name": "Richard Hill",
+        "title": "Center Affiliate · teaching member",
+        "research": "Cohomology of arithmetic groups",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "rodhalburd",
+      "school": "ucl",
+      "record": {
+        "name": "Rod Halburd",
+        "title": "Center Affiliate · teaching member",
+        "research": "Integrable systems, singularities of differential equations",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "selimghazouani",
+      "school": "ucl",
+      "record": {
+        "name": "Selim Ghazouani",
+        "title": "Center Affiliate · teaching member",
+        "research": "Geometric structures on manifolds, Moduli spaces and applications to Dynamical Systems",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "stephaniechan",
+      "school": "ucl",
+      "record": {
+        "name": "Stephanie Chan",
+        "title": "Center Affiliate · teaching member",
+        "research": "Arithmetic statistics",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "vladimirdokchitser",
+      "school": "ucl",
+      "record": {
+        "name": "Vladimir Dokchitser",
+        "title": "Center Affiliate · teaching member",
+        "research": "Abelian varieties, L-values, Galois representations",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ucl-lsgnt31",
+      "person_key": "yiannispetridis",
+      "school": "ucl",
+      "record": {
+        "name": "Yiannis Petridis",
+        "title": "Center Affiliate · teaching member",
+        "research": "Analytic number theory, automorphic forms and spectral theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://lsgnt-cdt.ucl.ac.uk/staff/",
         "checked_at": "2026-11-25"
       }
     },
@@ -309904,19 +313594,6 @@
     {
       "url": "https://iag.math.kit.edu/iag5/iag5_Wei.php",
       "cache_id": "profile-ac8d0972d78de268",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://iris.ucl.ac.uk/iris/browse/profile?upi=AYAFA73",
-      "cache_id": "profile-5f4b5c5e96616260",
       "status": "parsed",
       "record": {
         "research": "",
@@ -382897,10 +386574,25 @@
       "candidate_url": "https://openalex.org/authors/A5109057405"
     },
     "andrei-yafaev": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/A5073481271"
+      "status": "review_ready",
+      "author_id": "A5073481271",
+      "papers": [],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5073481271",
+        "orcid": "https://orcid.org/0000-0002-7089-4789",
+        "url": "https://openalex.org/authors/A5073481271",
+        "authorApiUrl": "https://api.openalex.org/authors/A5073481271",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5073481271,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 32,
+        "works": 49,
+        "citations": 843,
+        "hIndex": 15,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "andres-fernandez-herrero": {
       "status": "identity_review",
@@ -385541,6 +389233,20 @@
       "status": "source_error",
       "reason": "OpenAlex HTTP 404。",
       "checkedAt": "2026-11-24"
+    },
+    "jingyi-chen": {
+      "status": "identity_review",
+      "reason": "已核 UBC 研究任职和 Hopf 曲面论文。OpenAlex 同作者档还包含卫星海洋资料及地震反演等高引成果，无法确认同一作者，累计值待核。",
+      "author_id": "A5100350600",
+      "papers": [
+        {
+          "title": "On stability of the fibres of Hopf surfaces as harmonic maps and minimal surfaces",
+          "year": 2021,
+          "url": "https://doi.org/10.48550/arXiv.2009.00187"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "candidate_url": "https://openalex.org/authors/A5100350600"
     },
     "joaquim-roe-i-vellve": {
       "status": "identity_review",
@@ -389720,9 +393426,8 @@
     },
     "yann-bernard": {
       "status": "identity_review",
-      "reason": "当前与历史机构缺少可核对的匹配。",
-      "author_id": "A5074011742",
-      "checkedAt": "2026-11-24"
+      "reason": "确认 Monash 官方公开 ORCID 及 Willmore 论文，OpenAlex 把作品与 ORCID 归到不同作者档案，未采用单一档案的统计。",
+      "checkedAt": "2026-11-25"
     },
     "yannick-sire": {
       "status": "identity_review",
@@ -389824,6 +393529,33 @@
     "yoshinori-namikawa": {
       "status": "identity_review",
       "reason": "同一人的论文指向不同作者档案。"
+    },
+    "young-heon-kim": {
+      "status": "review_ready",
+      "author_id": "A5101699975",
+      "papers": [
+        {
+          "title": "A solution to the Monge transport problem for Brownian martingales",
+          "year": 2021,
+          "url": "https://doi.org/10.1214/20-AOP1462"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5101699975",
+        "orcid": "https://orcid.org/0000-0001-6920-603X",
+        "url": "https://openalex.org/authors/A5101699975",
+        "authorApiUrl": "https://api.openalex.org/authors/A5101699975",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5101699975,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 40,
+        "works": 57,
+        "citations": 1532,
+        "hIndex": 20,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "yu-min": {
       "status": "identity_review",
