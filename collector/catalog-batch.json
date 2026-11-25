@@ -1167,8 +1167,12 @@
     {
       "id": "tokyo",
       "coverage": "sample",
-      "coverageNote": "已解析 9/12 个登记来源，0 条任职或方向待核。 已逐条核对 数理科学研究科 Faculty Members、Kavli IPMU · Faculty Members。 已收录 29 位学者，个人主页 9、CV 7、指标 0。 核对数理科学研究科英文名录及 Kavli IPMU，另查日文 2026 手册、现任目录、17 条特任或特别教授职务，以及数理科学连携基盘中心三个分栏。日文别名、方向和跨单位任职继续逐项对账。 已转录特任与特别教授 17 条、连携中心 17 条兼任或专任记录，查到日法联合研究室与 IPMU 访问分册。区分访问计划与现任。荣休群体和各机构研究院的有名额全名单仍需逐一核对。 英日名录补核特任 8 位专长。日法实验室全页 27 条任职、Kavli IPMU 高级 5 位、在岗研究员 12 位、联属 31 位已转录。跨机构及联属的准确专长和荣休仍逐项识别。 三位法国侧 PI 由 IHÉS、IMJ-PRG 和 Versailles 机构页逐名核对，留作合作研究身份。",
+      "coverageNote": "已解析 9/16 个登记来源，0 条任职或方向待核。 已逐条核对 数理科学研究科 Faculty Members、Kavli IPMU · Faculty Members。 已收录 30 位学者，个人主页 10、CV 7、指标 1。 核对数理科学研究科英文名录及 Kavli IPMU，另查日文 2026 手册、现任目录、17 条特任或特别教授职务，以及数理科学连携基盘中心三个分栏。日文别名、方向和跨单位任职继续逐项对账。 已转录特任与特别教授 17 条、连携中心 17 条兼任或专任记录，查到日法联合研究室与 IPMU 访问分册。区分访问计划与现任。荣休群体和各机构研究院的有名额全名单仍需逐一核对。 英日名录补核特任 8 位专长。日法实验室全页 27 条任职、Kavli IPMU 高级 5 位、在岗研究员 12 位、联属 31 位已转录。跨机构及联属的准确专长和荣休仍逐项识别。 三位法国侧 PI 由 IHÉS、IMJ-PRG 和 Versailles 机构页逐名核对，留作合作研究身份。 新核日语五十音当前 67 条、2027 引导中的日英名册及四方向名录，补足复流形叶状结构。追加校级名誉教授年度公报，历史及荣休总名册仍分开复核。",
       "rosterLinks": [
+        [
+          "東京大学 · 令和8年度名誉教授の称号授与",
+          "https://www.u-tokyo.ac.jp/focus/ja/articles/z1401_00002.html"
+        ],
         [
           "数理科学研究科 Faculty Members",
           "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
@@ -1204,6 +1208,18 @@
         [
           "Kavli IPMU · 当前公布的数学访问",
           "https://www.ipmu.jp/en/place-and-people/visitors"
+        ],
+        [
+          "数理科学研究科 · 教員一覧（５０音順）",
+          "https://www.ms.u-tokyo.ac.jp/teacher/ichiran_gojyuon.html"
+        ],
+        [
+          "数理科学研究科 · 教員一覧表（分野別）",
+          "https://www.ms.u-tokyo.ac.jp/teacher/ichiran_category.html"
+        ],
+        [
+          "大学院数理科学研究科 · 令和9年度 各教員の研究分野",
+          "https://www.ms.u-tokyo.ac.jp/kyoumu/kenkyubunya.html"
         ],
         [
           "数理科学研究科 · 日文教员五十音顺",
@@ -3383,8 +3399,24 @@
     {
       "id": "melbourne",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，0 条任职或方向待核。 已收录 8 位学者，个人主页 8、CV 1、指标 0。  校方 2026 研究手册和代数几何组核对 Jack Hall 的现任和代数叠研究。",
+      "coverageNote": "已解析 1/7 个登记来源，0 条任职或方向待核。 已收录 16 位学者，个人主页 16、CV 2、指标 1。 核对全校数学与统计学院 116 条学术列表、纯数学具名学术成员 29 位、代数几何组与几何分析组。具名补录复／微分／代数几何及联属研究。各组未标明的职级、统计和应用组及其他跨院联合任职继续复核。",
       "rosterLinks": [
+        [
+          "School of Mathematics & Statistics · Academic Staff",
+          "https://ms.unimelb.edu.au/people/academic-staff"
+        ],
+        [
+          "Algebraic Geometry · staff, postdocs and affiliates",
+          "https://algebraicgeometry.science.unimelb.edu.au/"
+        ],
+        [
+          "Analysis",
+          "https://analysis.science.unimelb.edu.au/home/people/"
+        ],
+        [
+          "School of Mathematics & Statistics · Pure Mathematics academic staff",
+          "https://ms.unimelb.edu.au/research/pure-mathematics/people"
+        ],
         [
           "Members – Algebraic Geometry",
           "https://algebraicgeometry.science.unimelb.edu.au/home-page/members/"
@@ -3619,7 +3651,7 @@
     {
       "id": "anu",
       "coverage": "sample",
-      "coverageNote": "已解析 6/20 个登记来源，1 条任职或方向待核。 已收录 9 位学者，个人主页 9、CV 3、指标 5。 数学科学研究所现任列表三页 45 人、荣休和名誉 20 人、长访 17 人。另交叉四个具名研究组、分析与几何组 17 人及学校研究访问入口。个人档案已逐张读取，常设职、博士后、研究 fellowship、访问和荣休分开。继续复核名单空白方向与跨学科任职。 检查应用计算数学组 33 条、数据科学组 5 条、理论物理和计算学院入口。理论物理的应用拓扑与几何组、长访计划年度名册仍须逐人核完。 本批补查物理学院应用拓扑与几何 4 位、数学物理 8 位，逐条核对其官方分组。",
+      "coverageNote": "已解析 6/20 个登记来源，1 条任职或方向待核。 已收录 9 位学者，个人主页 9、CV 3、指标 5。 数学科学研究所现任列表三页 45 人、荣休和名誉 20 人、长访 17 人。另交叉四个具名研究组、分析与几何组 17 人及学校研究访问入口。个人档案已逐张读取，常设职、博士后、研究 fellowship、访问和荣休分开。继续复核名单空白方向与跨学科任职。 检查应用计算数学组 33 条、数据科学组 5 条、理论物理和计算学院入口。理论物理的应用拓扑与几何组、长访计划年度名册仍须逐人核完。 本批补查物理学院应用拓扑与几何 4 位、数学物理 8 位，逐条核对其官方分组。 核对 2026 MATRIX–RIMS 几何流的具名参加者，补入 Min Chen 的科研 fellowship；Griffith Ware 的官网和 2026 教学记录可证现在职，未展示三个方向的研究。",
       "rosterLinks": [
         [
           "MSI · Algebraic & Differential Geometry",
@@ -4675,7 +4707,7 @@
     {
       "id": "alberta",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，0 条任职或方向待核。 已收录 5 位学者，个人主页 4、CV 1、指标 1。 已查看数学与统计科学系 Academic Staff 和六领域研究目录。用校级目录确认四位代数几何及一位微分几何学者。PIMS 等联合渠道的任职范围仍待核。",
+      "coverageNote": "已解析 1/3 个登记来源，0 条任职或方向待核。 已收录 9 位学者，个人主页 6、CV 1、指标 2。 已查看数学与统计科学系 Academic Staff 和六领域研究目录。用校级目录确认四位代数几何及一位微分几何学者。PIMS 等联合渠道的任职范围仍待核。 逐条核对校系公开六研究方向里的代数组、几何及数学物理组。检查 PIMS Alberta 站点及活动，并补入具名研究方向。直接 Academic Staff 和校级目录此次访问受限，现任及联属仍逐人补核。",
       "rosterLinks": [
         [
           "Mathematical and Statistical Sciences academic staff",
@@ -6891,15 +6923,35 @@
     {
       "id": "unimi",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 0。 已查校方复代数几何与几何研究组及现行个人档案。已依现行校方职级更正旧研究组条目，其他人及合作机构待核。",
+      "coverageNote": "已解析 1/7 个登记来源，1 条任职或方向待核。 已收录 17 位学者，个人主页 16、CV 2、指标 2。 核对校系主站 138 条分栏条目、UniFind 146 位、几何研究线、复代数几何和 INdAM 单位。新匹配代数几何、微分几何和复几何的具名现任。荣休、访问个人身份及其余相关研究线继续逐项核对。",
       "rosterLinks": [
+        [
+          "Geometria algebrica complessa · Chi siamo",
+          "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-algebrica-complessa"
+        ],
+        [
+          "Dipartimento di Matematica · Persone",
+          "https://matematica.unimi.it/it/dipartimento/contatti/persone"
+        ],
         [
           "Algebraic Geometry Group",
           "https://sites.unimi.it/geoalg/research1.html"
         ],
         [
+          "Geometria · Persone",
+          "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria-0"
+        ],
+        [
+          "INdAM – UniMi · academic affiliation",
+          "https://matematica.unimi.it/it/indam-unimi"
+        ],
+        [
           "数学系或所属学院人员入口",
           "https://matematica.unimi.it/it/dipartimento/contatti/persone"
+        ],
+        [
+          "UniFind · Dipartimento di Matematica Federigo Enriques",
+          "https://expertise.unimi.it/resource/orgunit/5815?language=it-IT"
         ]
       ],
       "checkedAt": "2026-11-23"
@@ -7919,6 +7971,45 @@
       "recordStatus": "directory"
     },
     {
+      "id": "jochen-kuttler",
+      "name": "Jochen Kuttler",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "alberta",
+          "department": "数学系",
+          "title": "Mathematics and Statistical Sciences · academic staff",
+          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "现有链接由不同学者共用，未核实到独立个人主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of transformation groups and group actions on algebraic varieties",
+          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "nikita-karpenko",
       "name": "Nikita Karpenko",
       "aliases": [],
@@ -7929,7 +8020,7 @@
           "title": "Centennial Professor",
           "url": "https://apps.ualberta.ca/directory/person/karpenko",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -7960,7 +8051,155 @@
           "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "stefan-gille",
+      "name": "Stefan Gille",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "alberta",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.ualberta.ca/~gille/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": "https://www.math.ualberta.ca/~gille/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and arithmetic geometry, Chow motives, quadratic forms and algebraic cycles",
+          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "vincent-bouchard",
+      "name": "Vincent Bouchard",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "alberta",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://sites.ualberta.ca/~vbouchar/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": "https://arxiv.org/a/bouchard_v_1.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5035536527",
+          "orcid": "https://orcid.org/0000-0003-4777-9819",
+          "url": "https://openalex.org/authors/A5035536527",
+          "authorApiUrl": "https://api.openalex.org/authors/A5035536527",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5035536527,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 35,
+          "works": 51,
+          "citations": 2414,
+          "hIndex": 24,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Remodeling the B-Model",
+          "year": 2008,
+          "url": "https://doi.org/10.1007/s00220-008-0620-4"
+        },
+        {
+          "title": "Supereigenvalue models and topological recursion",
+          "year": 2018,
+          "url": "https://doi.org/10.1007/JHEP04(2018)138"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and mathematical physics, topological recursion, moduli of curves and spectral curves",
+          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://sites.ualberta.ca/~vbouchar/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "vladimir-chernousov",
+      "name": "Vladimir Chernousov",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "alberta",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "现有链接由不同学者共用，未核实到独立个人主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry, algebraic groups and Galois cohomology",
+          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -28207,6 +28446,45 @@
       "recordStatus": "directory"
     },
     {
+      "id": "alex-ghitza",
+      "name": "Alex Ghitza",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "melbourne",
+          "department": "数学系",
+          "title": "Associate Professor of Mathematics",
+          "url": "https://ms.unimelb.edu.au/research/pure-mathematics/people",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://ms.unimelb.edu.au/people/profile?id=663",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry of Shimura varieties, automorphic forms, and Galois representations",
+          "url": "https://ms.unimelb.edu.au/people/profile?id=663"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "arun-ram",
       "name": "Arun Ram",
       "aliases": [],
@@ -28243,6 +28521,45 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "brian-krummel",
+      "name": "Brian Krummel",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "melbourne",
+          "department": "数学系",
+          "title": "School of Mathematics and Statistics · research and supervisory staff",
+          "url": "https://ms.unimelb.edu.au/research/pure-mathematics/people",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://ms.unimelb.edu.au/people/profile?id=1906",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis of minimal surfaces, varifolds, and geometric measure theory",
+          "url": "https://ms.unimelb.edu.au/people/profile?id=1906"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -28330,6 +28647,45 @@
       "recordStatus": "directory"
     },
     {
+      "id": "gufang-zhao",
+      "name": "Gufang Zhao",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "melbourne",
+          "department": "数学系",
+          "title": "School of Mathematics and Statistics · academic staff",
+          "url": "https://ms.unimelb.edu.au/research/pure-mathematics/people",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/site/gufangzhao/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, geometric representation theory, moduli spaces and cohomological Hall algebras",
+          "url": "https://sites.google.com/site/gufangzhao/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "jack-hall",
       "name": "Jack Hall",
       "aliases": [],
@@ -28382,6 +28738,81 @@
         {
           "text": "个人研究或论文来源",
           "url": "https://blogs.unimelb.edu.au/jack-hall/home/writing/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jesse-gell-redman",
+      "name": "Jesse Gell-Redman",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "melbourne",
+          "department": "数学系",
+          "title": "Associate Professor of Mathematics",
+          "url": "https://ms.unimelb.edu.au/research/pure-mathematics/people",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://jessegell.github.io/about_me/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": "https://jessegell.github.io/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5058613383",
+          "orcid": "https://orcid.org/0000-0002-9412-4674",
+          "url": "https://openalex.org/authors/A5058613383",
+          "authorApiUrl": "https://api.openalex.org/authors/A5058613383",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5058613383,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 17,
+          "works": 26,
+          "citations": 366,
+          "hIndex": 10,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Hodge cohomology of some foliated boundary and foliated cusp metrics",
+          "year": 2014,
+          "url": "https://doi.org/10.1002/mana.201300076"
+        },
+        {
+          "title": "Spectral and Hodge theory of “Witt” incomplete cusp edge spaces",
+          "year": 2019,
+          "url": "https://doi.org/10.4171/cmh/472"
+        },
+        {
+          "title": "Spectral and Hodge theory of “Witt” incomplete cusp edge spaces",
+          "year": 2019,
+          "url": "https://doi.org/10.4171/CMH/472"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, geometric analysis, singular geometric operators and microlocal analysis",
+          "url": "https://jessegell.github.io/about_me/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://jessegell.github.io/about_me/"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -28471,6 +28902,84 @@
       "recordStatus": "directory"
     },
     {
+      "id": "leo-tzou",
+      "name": "Leo Tzou",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "melbourne",
+          "department": "数学系",
+          "title": "Associate Professor of Mathematics",
+          "url": "https://ms.unimelb.edu.au/research/pure-mathematics/people",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://vicgap.org/author/leo-tzou/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis, geometric inverse problems and partial differential equations",
+          "url": "https://vicgap.org/author/leo-tzou/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "marco-carfagnini",
+      "name": "Marco Carfagnini",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "melbourne",
+          "department": "数学系",
+          "title": "Lecturer · Mathematics and Statistics",
+          "url": "https://ms.unimelb.edu.au/research/pure-mathematics/people",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/view/marcocarfagnini",
+      "homepageStatus": null,
+      "cvUrl": "https://marcocarfagnini.wordpress.com/wp-content/uploads/2022/08/marco-carfagnini-cv-5.pdf",
+      "cvType": "公开 CV（2022 旧版）",
+      "cvStatus": null,
+      "publicationsUrl": "https://sites.google.com/view/marcocarfagnini",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of sub-Riemannian manifolds, stochastic analysis on Lie groups and hypoelliptic analysis",
+          "url": "https://sites.google.com/view/marcocarfagnini"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "paul-norbury",
       "name": "Paul Norbury",
       "aliases": [],
@@ -28511,6 +29020,84 @@
       "recordStatus": "directory"
     },
     {
+      "id": "volker-schlue",
+      "name": "Volker Schlue",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "melbourne",
+          "department": "数学系",
+          "title": "School of Mathematics and Statistics · research and supervisory staff",
+          "url": "https://ms.unimelb.edu.au/research/pure-mathematics/people",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://analysis.science.unimelb.edu.au/home/people/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential and Lorentzian geometry, geometric analysis, nonlinear PDEs and mathematical general relativity",
+          "url": "https://analysis.science.unimelb.edu.au/home/people/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "yaping-yang",
+      "name": "Yaping Yang",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "melbourne",
+          "department": "数学系",
+          "title": "Senior Lecturer in Mathematics",
+          "url": "https://ms.unimelb.edu.au/research/pure-mathematics/people",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/site/yapingyanghomepage/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": "https://sites.google.com/site/yapingyanghomepage/publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of moduli spaces and quiver varieties, geometric representation theory and quantum groups",
+          "url": "https://sites.google.com/site/yapingyanghomepage/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "yulia-alexandr",
       "name": "Yulia Alexandr",
       "aliases": [],
@@ -28521,7 +29108,7 @@
           "title": "Lecturer",
           "url": "https://algebraicgeometry.science.unimelb.edu.au/home-page/members/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -28546,7 +29133,7 @@
           "url": "https://algebraicgeometry.science.unimelb.edu.au/home-page/members/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -50733,6 +51320,83 @@
       "recordStatus": "directory"
     },
     {
+      "id": "taro-asuke",
+      "name": "Taro Asuke",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "tokyo",
+          "department": "数理科学研究科",
+          "title": "Associate Professor · Graduate School of Mathematical Sciences",
+          "url": "https://www.ms.u-tokyo.ac.jp/teacher/asuke.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [
+        "Differential Topology"
+      ],
+      "homepage": "https://www.ms.u-tokyo.ac.jp/~asuke/index-e.html",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/~asuke/aboutme/myworks.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5037458575",
+          "orcid": null,
+          "url": "https://openalex.org/authors/A5037458575",
+          "authorApiUrl": "https://api.openalex.org/authors/A5037458575",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5037458575,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 26,
+          "works": 43,
+          "citations": 144,
+          "hIndex": 7,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On the real secondary classes of transversely holomorphic foliations",
+          "year": 2000,
+          "url": "https://doi.org/10.5802/aif.1782"
+        },
+        {
+          "title": "On the real secondary classes of transversely holomorphic foliations. II",
+          "year": 2003,
+          "url": "https://doi.org/10.2748/tmj/1113247479"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential Topology",
+          "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
+        },
+        {
+          "text": "Complex geometry and differential geometry, holomorphic foliations, characteristic classes and local holomorphic dynamical systems",
+          "url": "https://www.s.u-tokyo.ac.jp/en/people/asuke_taro/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.s.u-tokyo.ac.jp/en/people/asuke_taro/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "tatsuro-kawakami",
       "name": "Tatsuro Kawakami",
       "aliases": [],
@@ -59194,6 +59858,774 @@
         }
       ],
       "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alberto-alzati",
+      "name": "Alberto Alzati",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Associato Confermato",
+          "url": "https://www.unimi.it/it/ugov/rubrica/person0000010635",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [
+        "Associate professor"
+      ],
+      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000010635",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": "https://www.unimi.it/it/ugov/person/alberto-alzati",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Associate professor",
+          "url": "https://sites.unimi.it/geoalg/research1.html"
+        },
+        {
+          "text": "Complex algebraic geometry, projective geometry and algebraic varieties",
+          "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-algebrica-complessa"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alice-garbagnati",
+      "name": "Alice Garbagnati",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Associato",
+          "url": "https://www.unimi.it/it/ugov/rubrica/person0000018319",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [
+        "Associate professor"
+      ],
+      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000018319",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": "https://www.unimi.it/it/ugov/person/alice-garbagnati",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Associate professor",
+          "url": "https://sites.unimi.it/geoalg/research1.html"
+        },
+        {
+          "text": "Complex algebraic geometry, K3 surfaces, automorphisms and lattice theory",
+          "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-algebrica-complessa"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "anna-gori",
+      "name": "Anna Gori",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Associato",
+          "url": "https://www.unimi.it/it/ugov/rubrica/person0000017578",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000017578",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": "https://www.unimi.it/it/ugov/person/anna-gori",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and complex geometry, conformal structures and complex manifolds",
+          "url": "https://air.unimi.it/retrieve/dfa8b9a8-236a-748b-e053-3a05fe0a3a96/Gori2021_Article_ANoteOnModuliSpacesOfConformal.pdf"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "chiara-camere",
+      "name": "Chiara Camere",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Associato",
+          "url": "https://www.unimi.it/it/ugov/rubrica/person0000053756",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [
+        "Associate professor"
+      ],
+      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000053756",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": "https://www.unimi.it/it/ugov/person/chiara-camere",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5065250876",
+          "orcid": "https://orcid.org/0000-0002-4793-3495",
+          "url": "https://openalex.org/authors/A5065250876",
+          "authorApiUrl": "https://api.openalex.org/authors/A5065250876",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5065250876,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 19,
+          "works": 24,
+          "citations": 376,
+          "hIndex": 12,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Symplectic involutions of holomorphic symplectic four-folds",
+          "year": 2012,
+          "url": "https://doi.org/10.1112/blms/bdr133"
+        },
+        {
+          "title": "Cubic threefolds and hyperkähler manifolds uniformized by the 10-dimensional complex ball",
+          "year": 2019,
+          "url": "https://doi.org/10.1007/s00208-018-1766-9"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Associate professor",
+          "url": "https://sites.unimi.it/geoalg/research1.html"
+        },
+        {
+          "text": "Complex algebraic geometry of K3 surfaces, hyperkähler manifolds, automorphisms and moduli",
+          "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria-0"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://expertise.unimi.it/get/person/chiara-camere"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "diego-matessi",
+      "name": "Diego Matessi",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Associato",
+          "url": "https://www.unimi.it/it/ugov/rubrica/person0000017594",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Associate professor"
+      ],
+      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000017594",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": "https://www.unimi.it/it/ugov/person/diego-matessi",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Associate professor",
+          "url": "https://sites.unimi.it/geoalg/research1.html"
+        },
+        {
+          "text": "Differential geometry and symplectic geometry, Lagrangian submanifolds and mirror symmetry",
+          "url": "https://doi.org/10.1142/S0129167X21500464"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "elisabetta-colombo",
+      "name": "Elisabetta Colombo",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Associato Confermato",
+          "url": "https://www.unimi.it/it/ugov/rubrica/person0000011910",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [
+        "Associate professor"
+      ],
+      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000011910",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": "https://www.unimi.it/it/ugov/person/elisabetta-colombo",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Associate professor",
+          "url": "https://sites.unimi.it/geoalg/research1.html"
+        },
+        {
+          "text": "Complex algebraic geometry, deformation theory, moduli, and algebraic curves",
+          "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-algebrica-complessa"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "fabio-cavalletti",
+      "name": "Fabio Cavalletti",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Ordinario",
+          "url": "https://www.unimi.it/it/ugov/rubrica/person0000165029",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000165029",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": "https://www.unimi.it/it/ugov/person/fabio-cavalletti",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5036786403",
+          "orcid": "https://orcid.org/0000-0003-2494-9029",
+          "url": "https://openalex.org/authors/A5036786403",
+          "authorApiUrl": "https://api.openalex.org/authors/A5036786403",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5036786403,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 33,
+          "works": 45,
+          "citations": 1289,
+          "hIndex": 19,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Metric measure spaces, Ricci curvature, and optimal transport",
+          "year": 2026,
+          "url": "https://doi.org/10.1016/j.indag.2026.03.004"
+        },
+        {
+          "title": "A review of Lorentzian synthetic theory of timelike Ricci curvature bounds",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s10714-022-03004-4"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis of metric-measure spaces, Ricci curvature and optimal transport",
+          "url": "https://www.unimi.it/it/ugov/person/fabio-cavalletti"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.unimi.it/en/ugov/person/fabio-cavalletti"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "fabrizio-andreatta",
+      "name": "Fabrizio Andreatta",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Ordinario",
+          "url": "https://www.unimi.it/it/ugov/rubrica/person0000017333",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000017333",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": "https://www.unimi.it/it/ugov/person/fabrizio-andreatta",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry and p-adic geometry, Shimura varieties and modular forms",
+          "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-aritmetica-motivi-e-teoria-dei-numeri"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "federico-binda",
+      "name": "Federico Binda",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Associato",
+          "url": "https://www.unimi.it/it/ugov/rubrica/person0000078722",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000078722",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": "https://www.unimi.it/it/ugov/person/federico-binda",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, motives, algebraic cycles and algebraic K-theory",
+          "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-aritmetica-motivi-e-teoria-dei-numeri"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "giulio-ciraolo",
+      "name": "Giulio Ciraolo",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Ordinario",
+          "url": "https://www.unimi.it/it/ugov/rubrica/person0000127157",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000127157",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": "https://www.unimi.it/it/ugov/person/giulio-ciraolo",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis, geometric inequalities and quantitative rigidity of hypersurfaces",
+          "url": "https://www.unimi.it/it/ugov/person/giulio-ciraolo"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "lambertus-van-geemen",
+      "name": "Lambertus Van Geemen",
+      "aliases": [
+        "Bert van Geemen",
+        "Lambertus van Geemen"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Ordinario",
+          "url": "https://www.unimi.it/it/ugov/rubrica/person0000015603",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [
+        "Full professor"
+      ],
+      "homepage": "https://sites.unimi.it/vangeemen/curriculumGeom0809.html",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": "https://www.unimi.it/it/ugov/person/lambertus-vangeemen",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Full professor",
+          "url": "https://sites.unimi.it/geoalg/research1.html"
+        },
+        {
+          "text": "Complex algebraic geometry, K3 surfaces, abelian varieties and Hodge theory",
+          "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-algebrica-complessa"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "luca-barbieri-viale",
+      "name": "Luca Barbieri Viale",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Ordinario",
+          "url": "https://www.unimi.it/it/ugov/rubrica/person0000016523",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000016523",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": "https://www.unimi.it/it/ugov/person/luca-barbieri-viale",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of motives and algebraic cycles, Hodge theoretic realization",
+          "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-aritmetica-motivi-e-teoria-dei-numeri"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "luigi-lombardi",
+      "name": "Luigi Lombardi",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Associato",
+          "url": "https://www.unimi.it/it/ugov/rubrica/person0000124190",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [
+        "Associate professor"
+      ],
+      "homepage": "https://sites.unimi.it/luigilombardi/",
+      "homepageStatus": null,
+      "cvUrl": "https://sites.unimi.it/luigilombardi/Cvweb.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://sites.unimi.it/luigilombardi/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "两篇本人研究方向匹配的 DOI 在 OpenAlex 指向两个作者档案。Google Scholar 公开搜索未核唯一身份，保留本人发表页及公开 CV。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Irregular fibrations of derived equivalent varieties",
+          "year": 2025,
+          "url": "https://doi.org/10.4171/RMI/1546"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Associate professor",
+          "url": "https://sites.unimi.it/geoalg/research1.html"
+        },
+        {
+          "text": "Complex algebraic geometry, irregular varieties, birational and derived geometry",
+          "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria-0"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://sites.unimi.it/luigilombardi/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "marina-bertolini",
+      "name": "Marina Bertolini",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Associato Confermato",
+          "url": "https://www.unimi.it/it/ugov/rubrica/person0000012312",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [
+        "Associate professor"
+      ],
+      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000012312",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": "https://www.unimi.it/it/ugov/person/marina-bertolini",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Associate professor",
+          "url": "https://sites.unimi.it/geoalg/research1.html"
+        },
+        {
+          "text": "Complex algebraic geometry, projective geometry, multiview geometry and algebraic varieties",
+          "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-algebrica-complessa"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "paolo-mastrolia",
+      "name": "Paolo Mastrolia",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Associato",
+          "url": "https://www.unimi.it/it/ugov/rubrica/person0000047191",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000047191",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "publicationsUrl": "https://www.unimi.it/it/ugov/person/paolo-mastrolia",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, geometric analysis, nonlinear elliptic equations and Riemannian manifolds",
+          "url": "https://www.unimi.it/it/ugov/person/paolo-mastrolia"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "paolo-stellari",
+      "name": "Paolo Stellari",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Ordinario",
+          "url": "https://www.unimi.it/it/ugov/rubrica/person0000016378",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [
+        "Full professor"
+      ],
+      "homepage": "https://sites.unimi.it/stellari/",
+      "homepageStatus": null,
+      "cvUrl": "https://sites.unimi.it/stellari/Research/CVStellari.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://sites.unimi.it/stellari/research1.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Categorical Torelli theorems: results and open problems",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s12215-022-00796-x"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Full professor",
+          "url": "https://sites.unimi.it/geoalg/research1.html"
+        },
+        {
+          "text": "Complex algebraic geometry and derived categories, moduli, projective varieties and K3 surfaces",
+          "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-algebrica-complessa"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {

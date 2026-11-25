@@ -253,7 +253,12 @@
     "james-sparks": "A5000313788",
     "lionel-j-mason": "A5021117957",
     "june-huh": "A5077920540",
-    "will-sawin": "A5066955363"
+    "will-sawin": "A5066955363",
+    "chiara-camere": "A5065250876",
+    "fabio-cavalletti": "A5036786403",
+    "vincent-bouchard": "A5035536527",
+    "taro-asuke": "A5037458575",
+    "jesse-gell-redman": "A5058613383"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -342,7 +347,8 @@
     "luc-nguyen": "尝试牛津具名记录和 DOI 交叉匹配 OpenAlex，返回 404。仍保留牛津官网可读发表列表。",
     "bhargav-bhatt": "用两篇具名 DOI 核对分别指向不同的 OpenAlex 作者档案。现任 Princeton 与 IAS 双聘已核，Google Scholar 公开搜索未取得可唯一对应的汇总。总数待核。",
     "dmitry-kubrak": "用 IAS 公开 ORCID 查询 OpenAlex 返回 404。已补录本人展示的论文与预印本共 12 项及范围，累计被引待核。",
-    "konstantinos-kartas": "以官方数学期刊 DOI 查询，OpenAlex 未返回唯一作者。已补录本人展示的 Research papers 共 9 项及范围，累计被引待核。"
+    "konstantinos-kartas": "以官方数学期刊 DOI 查询，OpenAlex 未返回唯一作者。已补录本人展示的 Research papers 共 9 项及范围，累计被引待核。",
+    "luigi-lombardi": "两篇本人研究方向匹配的 DOI 在 OpenAlex 指向两个作者档案。Google Scholar 公开搜索未核唯一身份，保留本人发表页及公开 CV。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -593,6 +599,11 @@
     "lionel-j-mason": "牛津具名 ORCID 和任职互证，核对共形 Laplacian、扭量理论、自对偶重力等高引作品。",
     "chenyang-xu": "Princeton 具名成果库的两篇 DOI 与 Princeton 或 IAS 任职一致，逐项核对高引 K-稳定性、极小模型及 log canonical 作品。",
     "june-huh": "Princeton 和 IAS 身份及两篇 DOI 交叉核对。高引抽样覆盖组合 Hodge、Lorentzian 多项式、Milnor 数和拟阵。",
-    "will-sawin": "SIAM 的 ORCID 与 Princeton 任职一致。高引抽样的 HNHN 原文列同一作者当时的 Columbia 数学系，与 CV 历史任职一致。另对照数论以及单位距离的具名成果。"
+    "will-sawin": "SIAM 的 ORCID 与 Princeton 任职一致。高引抽样的 HNHN 原文列同一作者当时的 Columbia 数学系，与 CV 历史任职一致。另对照数论以及单位距离的具名成果。",
+    "chiara-camere": "官方 UniFind 任职及两篇 DOI 同作者，抽查超凯勒自同构、辛对合和 Verra 四维簇。",
+    "fabio-cavalletti": "米兰大学任职与两个出版条目交叉，抽查 Ricci 曲率、最优传输和等周问题的高引成果。",
+    "vincent-bouchard": "Alberta 现任与两篇可核 DOI 互证，抽查弦理论、拓扑递归、Hurwitz 数和复几何成果。",
+    "taro-asuke": "东京任职与两篇叶状结构 DOI 互证，主要抽样为全纯叶状结构、横截射影结构与特征类。",
+    "jesse-gell-redman": "墨尔本现聘与两篇 Hodge/Dirac 几何 DOI 互证。高引深度学习预印本在 arXiv 明列 Jesse Gell-Redman，连分数论文见 Williams 数学系具名发表和出版社。"
   }
 }

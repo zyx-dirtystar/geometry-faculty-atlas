@@ -5192,6 +5192,46 @@
       "note": ""
     },
     {
+      "id": "melb-acad-b35",
+      "school": "melbourne",
+      "url": "https://ms.unimelb.edu.au/people/academic-staff",
+      "label": "School of Mathematics & Statistics · Academic Staff",
+      "status": "reference",
+      "count": 116,
+      "checked_at": "2026-11-25",
+      "note": "官方旧站可读版 116 条学术名册。只列 Dr 的人员保留待核正式职级；研究部门名称与学者专长分开。"
+    },
+    {
+      "id": "melb-ag-b35",
+      "school": "melbourne",
+      "url": "https://algebraicgeometry.science.unimelb.edu.au/",
+      "label": "Algebraic Geometry · staff, postdocs and affiliates",
+      "status": "reference",
+      "count": 17,
+      "checked_at": "2026-11-25",
+      "note": "已核 17 条具名团队档案。交叉检查主聘、博士后、历史和联属。"
+    },
+    {
+      "id": "melb-analysis-b35",
+      "school": "melbourne",
+      "url": "https://analysis.science.unimelb.edu.au/home/people/",
+      "label": "Analysis",
+      "status": "reference",
+      "count": 4,
+      "checked_at": "2026-11-25",
+      "note": "已核 4 条具名团队档案。交叉检查主聘、博士后、历史和联属。"
+    },
+    {
+      "id": "melb-pure-b35",
+      "school": "melbourne",
+      "url": "https://ms.unimelb.edu.au/research/pure-mathematics/people",
+      "label": "School of Mathematics & Statistics · Pure Mathematics academic staff",
+      "status": "reference",
+      "count": 29,
+      "checked_at": "2026-11-25",
+      "note": "纯数学分组学术栏 29 条。单列该站下方博士生。方向逐人用具名档案匹配。"
+    },
+    {
       "id": "melbourne-alternate-geometry",
       "school": "melbourne",
       "url": "https://algebraicgeometry.science.unimelb.edu.au/home-page/members/",
@@ -9542,6 +9582,16 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "tokyo-emeriti26-b35",
+      "school": "tokyo",
+      "url": "https://www.u-tokyo.ac.jp/focus/ja/articles/z1401_00002.html",
+      "label": "東京大学 · 令和8年度名誉教授の称号授与",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
+    },
+    {
       "id": "tokyo-faculty",
       "school": "tokyo",
       "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html",
@@ -9630,6 +9680,36 @@
       "count": 5,
       "checked_at": "2026-11-25",
       "note": "核对完整访问页。46 条中 5 条由机构列为 Mathematics，现时在访和未来计划分别标示。"
+    },
+    {
+      "id": "tokyo-jp-aca-b35",
+      "school": "tokyo",
+      "url": "https://www.ms.u-tokyo.ac.jp/teacher/ichiran_gojyuon.html",
+      "label": "数理科学研究科 · 教員一覧（５０音順）",
+      "status": "reference",
+      "count": 67,
+      "checked_at": "2026-11-25",
+      "note": "官方 67 条具名任职及研究领域。用 2027 官方日语姓名和英译说明消歧。研究方向页面及同属 IPMU 教授同时保留。"
+    },
+    {
+      "id": "tokyo-jp-directions-b35",
+      "school": "tokyo",
+      "url": "https://www.ms.u-tokyo.ac.jp/teacher/ichiran_category.html",
+      "label": "数理科学研究科 · 教員一覧表（分野別）",
+      "status": "reference",
+      "count": 65,
+      "checked_at": "2026-11-25",
+      "note": "核对代数、几何、分析、应用数理四栏。类别本身不用于证明学者的细方向。"
+    },
+    {
+      "id": "tokyo-jp-geo-b35",
+      "school": "tokyo",
+      "url": "https://www.ms.u-tokyo.ac.jp/kyoumu/kenkyubunya.html",
+      "label": "大学院数理科学研究科 · 令和9年度 各教員の研究分野",
+      "status": "reference",
+      "count": 49,
+      "checked_at": "2026-11-25",
+      "note": "2027 入学指导手册的日英名册对应录，与现任 67 条对照。只有匹配当前系名录的个人进入这份登记。"
     },
     {
       "id": "tokyo-local31",
@@ -11772,6 +11852,26 @@
       "note": ""
     },
     {
+      "id": "unimi-ag-b35",
+      "school": "unimi",
+      "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-algebrica-complessa",
+      "label": "Geometria algebrica complessa · Chi siamo",
+      "status": "reference",
+      "count": 9,
+      "checked_at": "2026-11-25",
+      "note": "核对公开 9 条具名机构信息，与任职来源分别记录。"
+    },
+    {
+      "id": "unimi-dept-b35",
+      "school": "unimi",
+      "url": "https://matematica.unimi.it/it/dipartimento/contatti/persone",
+      "label": "Dipartimento di Matematica · Persone",
+      "status": "reference",
+      "count": 138,
+      "checked_at": "2026-11-25",
+      "note": "院系名册按六栏逐项核对。官职与学者所列主要几何方向另交叉。{'Professori': 69, 'Professori a contratto': 2, 'Ricercatori': 30, 'Assegnisti': 13, 'Visiting Scholar': 3, 'Personale tecnico - amministrativo': 21}"
+    },
+    {
       "id": "unimi-full-audit-source",
       "school": "unimi",
       "url": "https://sites.unimi.it/geoalg/research1.html",
@@ -11782,6 +11882,26 @@
       "note": ""
     },
     {
+      "id": "unimi-geometry-b35",
+      "school": "unimi",
+      "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria-0",
+      "label": "Geometria · Persone",
+      "status": "reference",
+      "count": 12,
+      "checked_at": "2026-11-25",
+      "note": "核对公开 12 条具名机构信息，与任职来源分别记录。"
+    },
+    {
+      "id": "unimi-indam-b35",
+      "school": "unimi",
+      "url": "https://matematica.unimi.it/it/indam-unimi",
+      "label": "INdAM – UniMi · academic affiliation",
+      "status": "reference",
+      "count": 40,
+      "checked_at": "2026-11-25",
+      "note": "核对公开 40 条具名机构信息，与任职来源分别记录。"
+    },
+    {
       "id": "unimi-math-source",
       "school": "unimi",
       "url": "https://matematica.unimi.it/it/dipartimento/contatti/persone",
@@ -11790,6 +11910,16 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "unimi-unifind-b35",
+      "school": "unimi",
+      "url": "https://expertise.unimi.it/resource/orgunit/5815?language=it-IT",
+      "label": "UniFind · Dipartimento di Matematica Federigo Enriques",
+      "status": "reference",
+      "count": 146,
+      "checked_at": "2026-11-25",
+      "note": "科研门户 146 条，含博士生、研究员和教师。与院系现任名单互证；门户历史头衔不覆盖个人页或分栏的较新证据。"
     },
     {
       "id": "unsw-geometry-audit-2",
@@ -485578,19 +485708,6 @@
       "checked_at": "2026-11-23"
     },
     {
-      "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ike_e.html",
-      "cache_id": "profile-c0a3574d688fa8ad",
-      "status": "parsed",
-      "record": {
-        "research": "Applications of microlocal sheaf theory to geometry, persistent homology",
-        "homepage": "",
-        "cv": "",
-        "publications": "https://www.ms.u-tokyo.ac.jp/publication_e/index_e.html",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
       "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/kawakami_e.html",
       "cache_id": "profile-b001450a7014ef2b",
       "status": "parsed",
@@ -501110,6 +501227,38 @@
       "status": "identity_review",
       "reason": "同一人的论文指向不同作者档案。"
     },
+    "chiara-camere": {
+      "status": "review_ready",
+      "author_id": "A5065250876",
+      "papers": [
+        {
+          "title": "Symplectic involutions of holomorphic symplectic four-folds",
+          "year": 2012,
+          "url": "https://doi.org/10.1112/blms/bdr133"
+        },
+        {
+          "title": "Cubic threefolds and hyperkähler manifolds uniformized by the 10-dimensional complex ball",
+          "year": 2018,
+          "url": "https://doi.org/10.1007/s00208-018-1766-9"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5065250876",
+        "orcid": "https://orcid.org/0000-0002-4793-3495",
+        "url": "https://openalex.org/authors/A5065250876",
+        "authorApiUrl": "https://api.openalex.org/authors/A5065250876",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5065250876,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 19,
+        "works": 24,
+        "citations": 376,
+        "hIndex": 12,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "chiara-damiolini": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
@@ -502220,6 +502369,38 @@
       "status": "identity_review",
       "reason": "同一人的论文指向不同作者档案。",
       "checkedAt": "2026-11-24"
+    },
+    "fabio-cavalletti": {
+      "status": "review_ready",
+      "author_id": "A5036786403",
+      "papers": [
+        {
+          "title": "Metric measure spaces, Ricci curvature, and optimal transport",
+          "year": 2026,
+          "url": "https://doi.org/10.1016/j.indag.2026.03.004"
+        },
+        {
+          "title": "A review of Lorentzian synthetic theory of timelike Ricci curvature bounds",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s10714-022-03004-4"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5036786403",
+        "orcid": "https://orcid.org/0000-0003-2494-9029",
+        "url": "https://openalex.org/authors/A5036786403",
+        "authorApiUrl": "https://api.openalex.org/authors/A5036786403",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5036786403,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 33,
+        "works": 45,
+        "citations": 1289,
+        "hIndex": 19,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "fabricio-valencia-quintero": {
       "status": "identity_review",
@@ -503468,6 +503649,38 @@
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
+    },
+    "jesse-gell-redman": {
+      "status": "review_ready",
+      "author_id": "A5058613383",
+      "papers": [
+        {
+          "title": "Hodge cohomology of some foliated boundary and foliated cusp metrics",
+          "year": 2014,
+          "url": "https://doi.org/10.1002/mana.201300076"
+        },
+        {
+          "title": "Spectral and Hodge theory of “Witt” incomplete cusp edge spaces",
+          "year": 2019,
+          "url": "https://doi.org/10.4171/cmh/472"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5058613383",
+        "orcid": "https://orcid.org/0000-0002-9412-4674",
+        "url": "https://openalex.org/authors/A5058613383",
+        "authorApiUrl": "https://api.openalex.org/authors/A5058613383",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5058613383,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 17,
+        "works": 26,
+        "citations": 366,
+        "hIndex": 10,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "jessica-purcell": {
       "status": "review_ready",
@@ -504723,6 +504936,11 @@
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5035555259"
+    },
+    "luigi-lombardi": {
+      "status": "identity_review",
+      "reason": "同一人的论文指向不同作者档案。",
+      "checkedAt": "2026-11-25"
     },
     "lyle-noakes": {
       "status": "review_ready",
@@ -508191,6 +508409,38 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "taro-asuke": {
+      "status": "review_ready",
+      "author_id": "A5037458575",
+      "papers": [
+        {
+          "title": "On the real secondary classes of transversely holomorphic foliations",
+          "year": 2000,
+          "url": "https://doi.org/10.5802/aif.1782"
+        },
+        {
+          "title": "On the real secondary classes of transversely holomorphic foliations. II",
+          "year": 2003,
+          "url": "https://doi.org/10.2748/tmj/1113247479"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5037458575",
+        "orcid": null,
+        "url": "https://openalex.org/authors/A5037458575",
+        "authorApiUrl": "https://api.openalex.org/authors/A5037458575",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5037458575,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 26,
+        "works": 43,
+        "citations": 144,
+        "hIndex": 7,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "tashiro-kenshiro": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
@@ -508758,6 +509008,38 @@
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5077828658"
+    },
+    "vincent-bouchard": {
+      "status": "review_ready",
+      "author_id": "A5035536527",
+      "papers": [
+        {
+          "title": "Remodeling the B-Model",
+          "year": 2008,
+          "url": "https://doi.org/10.1007/s00220-008-0620-4"
+        },
+        {
+          "title": "Supereigenvalue models and topological recursion",
+          "year": 2018,
+          "url": "https://doi.org/10.1007/JHEP04(2018)138"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5035536527",
+        "orcid": "https://orcid.org/0000-0003-4777-9819",
+        "url": "https://openalex.org/authors/A5035536527",
+        "authorApiUrl": "https://api.openalex.org/authors/A5035536527",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5035536527,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 35,
+        "works": 51,
+        "citations": 2414,
+        "hIndex": 24,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "vladimir-berkovich": {
       "status": "source_error",
