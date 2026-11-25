@@ -2643,7 +2643,7 @@
     {
       "id": "granada",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 0。 交叉核对官方 Geometría y Topología 名册、校级与个人研究页。几何拓扑以外的代数方向及其他关联单位尚待核。",
+      "coverageNote": "已解析 2/10 个登记来源，0 条任职或方向待核。 已收录 20 位学者，个人主页 19、CV 18、指标 5。 本轮取得几何系 36 个具名岗位，科研门户 42 个当前研究档案与 69 个历年名录分列，并逐名读取院系和校级个人档案。交叉 FQM 324、FQM 325 及在研项目，具名确认极小曲面、复／全纯接触几何、洛伦兹与仿射微分几何。IMAG、代数系的现任人员和独立代数几何研究范围继续按来源复核。",
       "rosterLinks": [
         [
           "FACULTAD DE CIENCIAS",
@@ -2652,9 +2652,41 @@
         [
           "Departamento de Geometría y Topología",
           "https://www.ugr.es/universidad/organizacion/entidades/departamento-geometria-topologia"
+        ],
+        [
+          "UGR-CRIS · Departamento de Álgebra",
+          "https://produccioncientifica.ugr.es/unidades/8715/investigadores"
+        ],
+        [
+          "OTRI · FQM 324 Geometría diferencial",
+          "https://ofertaimasd.ugr.es/fqm/grupos-de-investigacion/fqm-324-grupo-de-investigacion-geometria-diferencial-y-sus-aplicaciones/"
+        ],
+        [
+          "UGR-CRIS: 42 current researcher entries and 69 timeline entries",
+          "https://produccioncientifica.ugr.es/unidades/8753/investigadores"
+        ],
+        [
+          "Geometría y Topología · FQM 324 and 325",
+          "https://geometry.ugr.es/investigacion/grupos"
+        ],
+        [
+          "Departamento Geometría y Topología · directorio",
+          "https://geometry.ugr.es/informacion/directorio-personal"
+        ],
+        [
+          "Geometría y Topología · research projects",
+          "https://geometry.ugr.es/investigacion/proyectos"
+        ],
+        [
+          "IMAG · research projects and groups",
+          "https://wpd.ugr.es/~imag/research-projects-and-groups/"
+        ],
+        [
+          "IMAG · structure",
+          "https://wpd.ugr.es/~imag/structure/"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "uiuc",
@@ -3379,7 +3411,7 @@
     {
       "id": "rudn",
       "coverage": "sample",
-      "coverageNote": "已解析 1/10 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 0。 已查俄文招生教师库、尼科尔斯基研究所结构、科研项目及个人档案。指标理论和非交换几何与本库方向分别记录；现行全员专长仍待对照。 官方科学院员工入口显示 490 全学部岗位；数学研究所所长已按具名成果确认 PDE。另从工程学院期刊的 2026 作者任职和机构成果库验证了曲面微分几何交叉。",
+      "coverageNote": "已解析 1/10 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 0。 已查俄文招生教师库、尼科尔斯基研究所结构、科研项目及个人档案。指标理论和非交换几何与本库方向分别记录；现行全员专长仍待对照。 数理与自然科学学院官方员工入口显示 490 全学部岗位；数学研究所所长已按具名成果确认 PDE。另从工程学院期刊的 2026 作者任职和机构成果库验证了曲面微分几何交叉。",
       "rosterLinks": [
         [
           "FizMat · Учёные",
@@ -5934,12 +5966,16 @@
     },
     {
       "id": "utm",
-      "coverage": "sample",
-      "coverageNote": "已解析 1/20 个登记来源，0 条任职或方向待核。 已查理学院、数学科学系、理学院学术人员名录及岗位学科清单。岗位方向中列有几何，仍缺能确认现任个人研究方向的证据。 数学系现任及荣休 62 张卡片按所属职级及同一行的个人专长重读；与理学院 60 条数学人员／方向、校级名录、CIAM 和研究生项目对照。旧几何课程与当前研究方向分别记录。 再核当前院系表 61 人及三个有截止日的荣休条目、五个研究专题面板、六个研究组的成员及可见专题，及 CIAM。AAAG 当前成员研究为群论、代数图论、拓扑／模糊分析和复分析数值应用。",
+      "coverage": "verified",
+      "coverageNote": "已解析 1/23 个登记来源，0 条任职或方向待核。 数学科学系研究方向卡 62 张（含荣休），按院系 61 条当前名单和 3 条退休服务名单交叉。额外条目已核专长与别名。逐组核对六个研究组与五个专题面板、CIAM 的 13 位成员，以及吉隆坡 MJIIT 数学与管理工程人员。具名纯数学专长以群论、代数图论、分析和相关建模为主。已检查复分析方向，并区分计算共形映射、复边值问题、授课及招聘专长。当前没有确认符合三类收录标准的任职。",
       "rosterLinks": [
         [
           "Faculty of Science · Mathematical Sciences specialities",
           "https://science.utm.my/faculty-of-science-academic-staff/"
+        ],
+        [
+          "UTM Scholar · Applied Algebra and Analysis Group",
+          "https://pure.utm.my/cluster/research-groups?id=BKXLwKw"
         ],
         [
           "Applied Algebra and Analysis Group · Research",
@@ -5950,7 +5986,7 @@
           "https://science.utm.my/aaag/members/"
         ],
         [
-          "UTM Scholar · Centre for Industrial & Applied Mathematics",
+          "UTM Scholar · CIAM academic staff and research groups",
           "https://pure.utm.my/research-centre/J091002"
         ],
         [
@@ -5996,6 +6032,14 @@
         [
           "Mathematical Optimization Group · Research",
           "https://science.utm.my/mathopt/research-area/"
+        ],
+        [
+          "Kuala Lumpur · MJIIT Staff Directory",
+          "https://mjiit.utm.my/staff-directory/"
+        ],
+        [
+          "Kuala Lumpur · MJIIT Management of Technology",
+          "https://mjiit.utm.my/mot/academic-staff/"
         ],
         [
           "MJIIT staff · Zahriddin Muminov",
@@ -16374,6 +16418,67 @@
       "recordStatus": "directory"
     },
     {
+      "id": "ana-maria-hurtado-cortegana",
+      "name": "Ana María Hurtado Cortegana",
+      "aliases": [
+        "Ana María Hurtado"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Geometría y Topología",
+          "title": "Profesora Titular de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/ana-maria-hurtado-cortegana",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ugr.es/~ahurtado",
+      "homepageStatus": null,
+      "cvUrl": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/ana-maria-hurtado-cortegana.pdf",
+      "cvType": "院系简版 CV",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5103214609",
+          "orcid": "https://orcid.org/0000-0003-0526-9829",
+          "url": "https://openalex.org/authors/A5103214609",
+          "authorApiUrl": "https://api.openalex.org/authors/A5103214609",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5103214609,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 19,
+          "works": 25,
+          "citations": 275,
+          "hIndex": 9,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential and sub-Riemannian geometry, Sasakian manifolds, parabolicity and geometric variational problems",
+          "url": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/ana-maria-hurtado-cortegana.pdf"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://orcid.org/0000-0003-0526-9829"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "antonio-alarcon-lopez",
       "name": "Antonio Alarcón López",
       "aliases": [
@@ -16382,24 +16487,379 @@
       "affiliations": [
         {
           "schoolId": "granada",
-          "department": "数学系",
+          "department": "Departamento de Geometría y Topología",
           "title": "Catedrático de Universidad",
-          "url": "https://www.ugr.es/personal/antonio-alarcon-lopez",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/antonio-alarcon-lopez",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "complex",
         "differential"
       ],
-      "tags": [
-        "Geometría y Topología"
-      ],
+      "tags": [],
       "homepage": "https://www.ugr.es/~alarcon/",
       "homepageStatus": null,
       "cvUrl": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/antonio-alarcon-lopez.pdf",
-      "cvType": null,
+      "cvType": "院系简版 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.ugr.es/~alarcon/publicaciones.html",
+      "publicationCounts": [
+        {
+          "value": 87,
+          "scope": "UGR 科研档案未筛选 Publications 的结果总数，含页面所列成果类型",
+          "url": "https://produccioncientifica.ugr.es/investigadores/352419/publicaciones?lang=es",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5044040131",
+          "orcid": "https://orcid.org/0000-0001-9557-3378",
+          "url": "https://openalex.org/authors/A5044040131",
+          "authorApiUrl": "https://api.openalex.org/authors/A5044040131",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5044040131,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 65,
+          "works": 92,
+          "citations": 994,
+          "hIndex": 19,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Complete complex hypersurfaces in the ball come in foliations",
+          "year": 2022,
+          "url": "https://doi.org/10.4310/jdg/1656005494"
+        },
+        {
+          "title": "Complete complex hypersurfaces in the ball come in foliations",
+          "url": "https://arxiv.org/abs/1802.02004"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry, minimal surfaces, Riemann surfaces, geometric analysis and holomorphic contact geometry",
+          "url": "https://www.ugr.es/~alarcon/invest.html"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.ugr.es/~alarcon/publicaciones.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "antonio-martinez-lopez",
+      "name": "Antonio Martínez López",
+      "aliases": [
+        "Antonio Martínez"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Geometría y Topología",
+          "title": "Catedrático de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/antonio-martinez-lopez",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ugr.es/~amartine/",
+      "homepageStatus": null,
+      "cvUrl": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/antonio-martinez-lopez.pdf",
+      "cvType": "院系简版 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://produccioncientifica.ugr.es/investigadores/352524/publicaciones?lang=es",
+      "publicationCounts": [
+        {
+          "value": 5,
+          "scope": "UGR 科研档案未筛选 Publications 的结果总数，含页面所列成果类型",
+          "url": "https://produccioncientifica.ugr.es/investigadores/352524/publicaciones?lang=es",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Affine differential geometry, minimal surfaces, classical surface theory and geometric variational problems",
+          "url": "https://www.ugr.es/~amartine/investigacion.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "antonio-ros-mulero",
+      "name": "Antonio Ros Mulero",
+      "aliases": [
+        "Antonio Ros"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "数学系",
+          "title": "Catedrático de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/antonio-ros-mulero",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometría y Topología"
+      ],
+      "homepage": "https://wpd.ugr.es/~aros/homepage/",
+      "homepageStatus": null,
+      "cvUrl": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/antonio-ros-mulero.pdf",
+      "cvType": "旧版完整 CV，2019",
+      "cvStatus": null,
+      "publicationsUrl": "https://produccioncientifica.ugr.es/investigadores/352796/publicaciones",
+      "publicationCounts": [
+        {
+          "value": 63,
+          "scope": "UGR 科研档案明示 Publications 合计，含页面所列不同成果类型",
+          "url": "https://produccioncientifica.ugr.es/investigadores/352796/publicaciones",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5090766500",
+          "orcid": "https://orcid.org/0000-0001-5811-5642",
+          "url": "https://openalex.org/authors/A5090766500",
+          "authorApiUrl": "https://api.openalex.org/authors/A5090766500",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5090766500,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 72,
+          "works": 106,
+          "citations": 3944,
+          "hIndex": 35,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Bounds on the topology and index of minimal surfaces",
+          "year": 2019,
+          "url": "https://doi.org/10.4310/ACTA.2019.v223.n1.a2"
+        },
+        {
+          "title": "Stable constant mean curvature tori and the isoperimetric problem in three space forms",
+          "year": 1992,
+          "url": "https://doi.org/10.1007/BF02566501"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Geometría y Topología",
+          "url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-geometria-topologia"
+        },
+        {
+          "text": "Differential geometry, geometric analysis, minimal surfaces and isoperimetric problems",
+          "url": "https://produccioncientifica.ugr.es/investigadores/352796/publicaciones"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://wpd.ugr.es/~aros/publications/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "francisco-jose-lopez-fernandez",
+      "name": "Francisco José López Fernández",
+      "aliases": [
+        "Francisco J. López",
+        "Francisco José López"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Geometría y Topología",
+          "title": "Catedrático de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/francisco-jose-lopez-fernandez",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ugr.es/~fjlopez",
+      "homepageStatus": null,
+      "cvUrl": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/francisco-jose-lopez-fernandez.pdf",
+      "cvType": "旧版完整 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://produccioncientifica.ugr.es/investigadores/354167/publicaciones?lang=es",
+      "publicationCounts": [
+        {
+          "value": 89,
+          "scope": "UGR 科研档案未筛选 Publications 的结果总数，含页面所列成果类型",
+          "url": "https://produccioncientifica.ugr.es/investigadores/354167/publicaciones?lang=es",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, complex geometry and approximation theory for complete minimal surfaces and embedded complex curves",
+          "url": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/francisco-jose-lopez-fernandez.pdf"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "francisco-martin-serrano",
+      "name": "Francisco Martín Serrano",
+      "aliases": [
+        "Francisco Martín"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Geometría y Topología",
+          "title": "Catedrático de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/francisco-martin-serrano",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ugr.es/~fmartin",
+      "homepageStatus": null,
+      "cvUrl": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/francisco-martin-serrano.pdf",
+      "cvType": "院系简版 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://produccioncientifica.ugr.es/investigadores/354211/publicaciones?lang=es",
+      "publicationCounts": [
+        {
+          "value": 55,
+          "scope": "UGR 科研档案未筛选 Publications 的结果总数，含页面所列成果类型",
+          "url": "https://produccioncientifica.ugr.es/investigadores/354211/publicaciones?lang=es",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, minimal surfaces, mean curvature flows and translators in three-dimensional manifolds",
+          "url": "https://produccioncientifica.ugr.es/investigadores/354211/detalle?lang=gl"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "francisco-milan-lopez",
+      "name": "Francisco Milán López",
+      "aliases": [
+        "Francisco Milán"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Geometría y Topología",
+          "title": "Catedrático de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/francisco-milan-lopez",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ugr.es/~milan/",
+      "homepageStatus": null,
+      "cvUrl": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/francisco-milan-lopez.pdf",
+      "cvType": "旧版简版 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://produccioncientifica.ugr.es/investigadores/356370/publicaciones?lang=es",
+      "publicationCounts": [
+        {
+          "value": 36,
+          "scope": "UGR 科研档案未筛选 Publications 的结果总数，含页面所列成果类型",
+          "url": "https://produccioncientifica.ugr.es/investigadores/356370/publicaciones?lang=es",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Affine differential geometry, affine spheres, convex affine maximal graphs and geometric analysis",
+          "url": "https://produccioncientifica.ugr.es/unidades/8715/colaboracion/investigador/1687232"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "francisco-torralbo-torralbo",
+      "name": "Francisco Torralbo Torralbo",
+      "aliases": [
+        "Francisco Torralbo"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Geometría y Topología",
+          "title": "Profesor Titular de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/francisco-torralbo-torralbo",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ugr.es/~ftorralbo/",
+      "homepageStatus": null,
+      "cvUrl": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/francisco-torralbo-torralbo.pdf",
+      "cvType": "院系简版 CV",
       "cvStatus": null,
       "publicationsUrl": null,
       "publicationCounts": [],
@@ -16410,15 +16870,637 @@
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Geometría y Topología",
-          "url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-geometria-topologia"
-        },
-        {
-          "text": "Complex geometry and differential geometry, complex analysis of minimal surfaces",
-          "url": "https://www.ugr.es/~alarcon/invest.html"
+          "text": "Differential geometry and geometric analysis, constant mean curvature, minimal surfaces and homogeneous 3-manifolds",
+          "url": "https://www.ugr.es/~ftorralbo/"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "joaquin-perez-munoz",
+      "name": "Joaquín Pérez Muñoz",
+      "aliases": [
+        "Joaquín Pérez"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Geometría y Topología",
+          "title": "Catedrático de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/joaquin-perez-munoz",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://wpd.ugr.es/~jperez/",
+      "homepageStatus": null,
+      "cvUrl": "https://wpd.ugr.es/~jperez/wordpress/wp-content/uploads/curricactual.pdf",
+      "cvType": "完整 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://produccioncientifica.ugr.es/investigadores/355445/publicaciones?lang=es",
+      "publicationCounts": [
+        {
+          "value": 46,
+          "scope": "UGR 科研档案未筛选 Publications 的结果总数，含页面所列成果类型",
+          "url": "https://produccioncientifica.ugr.es/investigadores/355445/publicaciones?lang=es",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5100757801",
+          "orcid": "https://orcid.org/0000-0003-1877-8884",
+          "url": "https://openalex.org/authors/A5100757801",
+          "authorApiUrl": "https://api.openalex.org/authors/A5100757801",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5100757801,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 47,
+          "works": 75,
+          "citations": 1307,
+          "hIndex": 21,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Bounds on the topology and index of minimal surfaces",
+          "year": 2019,
+          "url": "https://doi.org/10.4310/ACTA.2019.v223.n1.a2"
+        },
+        {
+          "title": "Minimal Surfaces of Finite Genus: Classification, Dynamics and Laminations",
+          "url": "https://doi.org/10.1137/25M1803188"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, geometric analysis, minimal and constant mean curvature surfaces, isoperimetric problems",
+          "url": "https://orcid.org/0000-0003-1877-8884"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://orcid.org/0000-0003-1877-8884"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jose-antonio-galvez-lopez",
+      "name": "José Antonio Gálvez López",
+      "aliases": [
+        "José A. Gálvez",
+        "Jose Antonio Galvez"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Geometría y Topología",
+          "title": "Catedrático de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/jose-antonio-galvez-lopez",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ugr.es/~jagalvez",
+      "homepageStatus": null,
+      "cvUrl": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/jose-antonio-galvez-lopez.pdf",
+      "cvType": "院系简版 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://produccioncientifica.ugr.es/investigadores/354754/publicaciones?lang=es",
+      "publicationCounts": [
+        {
+          "value": 59,
+          "scope": "UGR 科研档案未筛选 Publications 的结果总数，含页面所列成果类型",
+          "url": "https://produccioncientifica.ugr.es/investigadores/354754/publicaciones?lang=es",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, surfaces with prescribed Gaussian and mean curvature, Weingarten spheres, global surface theory",
+          "url": "https://produccioncientifica.ugr.es/investigadores/354754/colaboracion/investigador/223891"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jose-maria-espinar-garcia",
+      "name": "José María Espinar García",
+      "aliases": [
+        "José M. Espinar",
+        "Jose Maria Espinar"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Geometría y Topología",
+          "title": "Catedrático de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/jose-maria-espinar-garcia",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, geometric analysis, prescribed curvature, minimal hypersurfaces, conformal geometry",
+          "url": "https://produccioncientifica.ugr.es/investigadores/754680/detalle?lang=es"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "juan-de-dios-perez-jimenez",
+      "name": "Juan de Dios Pérez Jiménez",
+      "aliases": [
+        "Juan de Dios Pérez"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Geometría y Topología",
+          "title": "Catedrático de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/juan-dios-perez-jimenez",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://gigda.ugr.es/jdperez",
+      "homepageStatus": null,
+      "cvUrl": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/juan-dios-perez-jimenez.pdf",
+      "cvType": "院系简版 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://gigda.ugr.es/jdperez/investigacion.php",
+      "publicationCounts": [
+        {
+          "value": 106,
+          "scope": "UGR 科研档案未筛选 Publications 的结果总数，含页面所列成果类型",
+          "url": "https://produccioncientifica.ugr.es/investigadores/354957/publicaciones?lang=es",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry and differential geometry of real hypersurfaces in complex space forms, complex quadrics and Grassmannians",
+          "url": "https://gigda.ugr.es/jdperez/investigacion.php"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "leonor-ferrer-martinez",
+      "name": "Leonor Ferrer Martínez",
+      "aliases": [
+        "Leonor Ferrer"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Geometría y Topología",
+          "title": "Profesora Titular de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/leonor-ferrer-martinez",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ugr.es/~lferrer",
+      "homepageStatus": null,
+      "cvUrl": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/leonor-ferrer-martinez.pdf",
+      "cvType": "院系简版 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://produccioncientifica.ugr.es/investigadores/355682/publicaciones?lang=es",
+      "publicationCounts": [
+        {
+          "value": 14,
+          "scope": "UGR 科研档案未筛选 Publications 的结果总数，含页面所列成果类型",
+          "url": "https://produccioncientifica.ugr.es/investigadores/355682/publicaciones?lang=es",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, geometric analysis, minimal surfaces in product spaces and Lorentzian translating solitons",
+          "url": "https://produccioncientifica.ugr.es/investigadores/355682/publicaciones?lang=es"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "manuel-cesar-rosales-lombardo",
+      "name": "Manuel César Rosales Lombardo",
+      "aliases": [
+        "César Rosales",
+        "Manuel César Rosales"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Geometría y Topología",
+          "title": "Catedrático de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/manuel-cesar-rosales-lombardo",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ugr.es/~crosales/",
+      "homepageStatus": null,
+      "cvUrl": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/manuel-cesar-rosales-lombardo.pdf",
+      "cvType": "院系简版 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.ugr.es/~crosales/research.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential and sub-Riemannian geometry, isoperimetry, constant mean curvature and variational problems on weighted manifolds",
+          "url": "https://www.ugr.es/~crosales/research.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "manuel-maria-ritore-cortes",
+      "name": "Manuel María Ritore Cortés",
+      "aliases": [
+        "Manuel Ritoré",
+        "Manuel María Ritoré Cortés"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Geometría y Topología",
+          "title": "Catedrático de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/manuel-maria-ritore-cortes-ritore",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ugr.es/~ritore/",
+      "homepageStatus": null,
+      "cvUrl": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/manuel-maria-ritore-cortes.pdf",
+      "cvType": "院系简版 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://produccioncientifica.ugr.es/investigadores/357248/publicaciones?lang=es",
+      "publicationCounts": [
+        {
+          "value": 56,
+          "scope": "UGR 科研档案未筛选 Publications 的结果总数，含页面所列成果类型",
+          "url": "https://produccioncientifica.ugr.es/investigadores/357248/publicaciones?lang=es",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5010935187",
+          "orcid": "https://orcid.org/0000-0002-1136-3881",
+          "url": "https://openalex.org/authors/A5010935187",
+          "authorApiUrl": "https://api.openalex.org/authors/A5010935187",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5010935187,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 50,
+          "works": 93,
+          "citations": 1978,
+          "hIndex": 23,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Continuity of the isoperimetric profile of a complete Riemannian manifold under sectional curvature conditions",
+          "year": 2017,
+          "url": "https://doi.org/10.4171/RMI/935"
+        },
+        {
+          "title": "A proof by calibration of an isoperimetric inequality in the Heisenberg group $${\\mathbb{H}^n}$$",
+          "year": 2011,
+          "url": "https://doi.org/10.1007/s00526-011-0425-8"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential and sub-Riemannian geometry, geometric variational and isoperimetric problems, contact manifolds and Heisenberg groups",
+          "url": "https://www.ugr.es/~ritore/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://orcid.org/0000-0002-1136-3881"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "maria-magdalena-rodriguez-perez",
+      "name": "María Magdalena Rodríguez Pérez",
+      "aliases": [
+        "Magdalena Rodríguez"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Geometría y Topología",
+          "title": "Profesora Titular de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/maria-magdalena-rodriguez-perez",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ugr.es/~magdarp",
+      "homepageStatus": null,
+      "cvUrl": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/maria-magdalena-rodriguez-perez.pdf",
+      "cvType": "院系简版 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://produccioncientifica.ugr.es/investigadores/355869/publicaciones?lang=es",
+      "publicationCounts": [
+        {
+          "value": 29,
+          "scope": "UGR 科研档案未筛选 Publications 的结果总数，含页面所列成果类型",
+          "url": "https://produccioncientifica.ugr.es/investigadores/355869/publicaciones?lang=es",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis, minimal surfaces in product spaces and holomorphic data for minimal surfaces",
+          "url": "https://produccioncientifica.ugr.es/investigadores/355682/colaboracion/investigador/2694562"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "miguel-ortega-titos",
+      "name": "Miguel Ortega Titos",
+      "aliases": [
+        "Miguel Ortega"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Geometría y Topología",
+          "title": "Profesor Titular de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/miguel-ortega-titos",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ugr.es/~miortega",
+      "homepageStatus": null,
+      "cvUrl": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/miguel-ortega-titos.pdf",
+      "cvType": "旧版简版 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.ugr.es/~miortega/pubs.htm",
+      "publicationCounts": [
+        {
+          "value": 41,
+          "scope": "UGR 科研档案未筛选 Publications 的结果总数，含页面所列成果类型",
+          "url": "https://produccioncientifica.ugr.es/investigadores/356376/publicaciones?lang=es",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Translators of the Mean Curvature Flow in Hyperbolic Einstein’s Static Universe",
+          "url": "https://dergipark.org.tr/en/pub/iejg/issue/84071/1437356"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, pseudo-Riemannian geometry, submanifold theory and geometric flows",
+          "url": "https://www.ugr.es/~miortega/pubs.htm"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "miguel-sanchez-caja",
+      "name": "Miguel Sánchez Caja",
+      "aliases": [
+        "Miguel Sánchez"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Geometría y Topología",
+          "title": "Catedrático de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/miguel-sanchez-caja",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://gigda.ugr.es/sanchezm",
+      "homepageStatus": null,
+      "cvUrl": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/miguel-sanchez-caja.pdf",
+      "cvType": "院系简版 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://gigda.ugr.es/sanchezm/research.php",
+      "publicationCounts": [
+        {
+          "value": 115,
+          "scope": "UGR 科研档案明示 Publications 合计，含页面所列不同成果类型",
+          "url": "https://produccioncientifica.ugr.es/investigadores/357441/publicaciones?lang=ca",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Lorentzian differential geometry, Finsler and Lorentz–Finsler geometry and geometric analysis of spacetime",
+          "url": "https://gigda.ugr.es/sanchezm/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "rafael-lopez-camino",
+      "name": "Rafael López Camino",
+      "aliases": [
+        "Rafael López"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Geometría y Topología",
+          "title": "Catedrático de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/rafael-lopez-camino",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ugr.es/~rcamino/",
+      "homepageStatus": null,
+      "cvUrl": "https://geometry.ugr.es/sites/dpto/geometry/public/curriculum/rafael-lopez-camino.pdf",
+      "cvType": "院系简版 CV",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, constant mean and prescribed curvature surfaces, spacelike surfaces and Lorentz–Minkowski geometry",
+          "url": "https://www.ugr.es/~rcamino/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "sebastian-montiel-gomez",
+      "name": "Sebastián Montiel Gómez",
+      "aliases": [
+        "Sebastián Montiel"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Geometría y Topología",
+          "title": "Catedrático de Universidad",
+          "url": "https://geometry.ugr.es/informacion/directorio-personal/sebastian-montiel-gomez",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ugr.es/~smontiel",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://produccioncientifica.ugr.es/investigadores/357528/publicaciones?lang=en",
+      "publicationCounts": [
+        {
+          "value": 45,
+          "scope": "UGR 科研档案未筛选 Publications 的结果总数，含页面所列成果类型",
+          "url": "https://produccioncientifica.ugr.es/investigadores/357528/publicaciones?lang=es",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Riemannian and differential geometry, geometric spinors, hypersurfaces and their spectral invariants",
+          "url": "https://produccioncientifica.ugr.es/investigadores/357528/publicaciones?lang=en"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {

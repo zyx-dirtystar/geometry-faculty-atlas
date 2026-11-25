@@ -10132,6 +10132,86 @@
       "note": ""
     },
     {
+      "id": "ugr-alg-cris31",
+      "school": "granada",
+      "url": "https://produccioncientifica.ugr.es/unidades/8715/investigadores",
+      "label": "UGR-CRIS · Departamento de Álgebra",
+      "status": "source_error",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "HTTPS 连接或证书校验失败。"
+    },
+    {
+      "id": "ugr-diff-app31",
+      "school": "granada",
+      "url": "https://ofertaimasd.ugr.es/fqm/grupos-de-investigacion/fqm-324-grupo-de-investigacion-geometria-diferencial-y-sus-aplicaciones/",
+      "label": "OTRI · FQM 324 Geometría diferencial",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "ugr-geom-cris31",
+      "school": "granada",
+      "url": "https://produccioncientifica.ugr.es/unidades/8753/investigadores",
+      "label": "UGR-CRIS: 42 current researcher entries and 69 timeline entries",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "ugr-geom-groups31",
+      "school": "granada",
+      "url": "https://geometry.ugr.es/investigacion/grupos",
+      "label": "Geometría y Topología · FQM 324 and 325",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "ugr-geom-person31",
+      "school": "granada",
+      "url": "https://geometry.ugr.es/informacion/directorio-personal",
+      "label": "Departamento Geometría y Topología · directorio",
+      "status": "parsed",
+      "count": 36,
+      "checked_at": "2026-11-25",
+      "note": "36 条具名官方岗位，当前教授、荣休、项目科研人员、在读和行政分开核验。院系与科研门户交叉。"
+    },
+    {
+      "id": "ugr-geom-projects31",
+      "school": "granada",
+      "url": "https://geometry.ugr.es/investigacion/proyectos",
+      "label": "Geometría y Topología · research projects",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "ugr-imag-groups31",
+      "school": "granada",
+      "url": "https://wpd.ugr.es/~imag/research-projects-and-groups/",
+      "label": "IMAG · research projects and groups",
+      "status": "source_error",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "网页暂未读取成功。"
+    },
+    {
+      "id": "ugr-imag-structure31",
+      "school": "granada",
+      "url": "https://wpd.ugr.es/~imag/structure/",
+      "label": "IMAG · structure",
+      "status": "source_error",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "网页暂未读取成功。"
+    },
+    {
       "id": "uic-full-audit-source",
       "school": "uic",
       "url": "https://mscs.uic.edu/research-groups/algebra-and-algebraic-geometry/",
@@ -10572,6 +10652,16 @@
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
+      "id": "utm-aaag-pure31",
+      "school": "utm",
+      "url": "https://pure.utm.my/cluster/research-groups?id=BKXLwKw",
+      "label": "UTM Scholar · Applied Algebra and Analysis Group",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "utm-aaag-topics31",
       "school": "utm",
       "url": "https://science.utm.my/aaag/research-area/",
@@ -10595,11 +10685,11 @@
       "id": "utm-ciam31",
       "school": "utm",
       "url": "https://pure.utm.my/research-centre/J091002",
-      "label": "UTM Scholar · Centre for Industrial & Applied Mathematics",
-      "status": "needs_adapter",
+      "label": "UTM Scholar · CIAM academic staff and research groups",
+      "status": "reference",
       "count": 0,
       "checked_at": "2026-11-25",
-      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "utm-department-research31",
@@ -10710,6 +10800,26 @@
       "count": 0,
       "checked_at": "2026-11-25",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "utm-mjiit-all31",
+      "school": "utm",
+      "url": "https://mjiit.utm.my/staff-directory/",
+      "label": "Kuala Lumpur · MJIIT Staff Directory",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "utm-mjiit-mot31",
+      "school": "utm",
+      "url": "https://mjiit.utm.my/mot/academic-staff/",
+      "label": "Kuala Lumpur · MJIIT Management of Technology",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "utm-muminov31",
@@ -359129,6 +359239,582 @@
       }
     },
     {
+      "source": "ugr-geom-person31",
+      "person_key": "aireseduardomenanibarbieri",
+      "school": "granada",
+      "record": {
+        "name": "Aires Eduardo Menani Barbieri",
+        "title": "Personal Investigador Predoctoral en Formacion",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/aires-eduardo-menani-barbieri",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "alfonsoromerosarabia",
+      "school": "granada",
+      "record": {
+        "name": "Alfonso Romero Sarabia",
+        "title": "Profesor Emérito",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/alfonso-romero-sarabia",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "anamariahurtadocortegana",
+      "school": "granada",
+      "record": {
+        "name": "Ana María Hurtado Cortegana",
+        "title": "Profesora Titular de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/ana-maria-hurtado-cortegana",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "andreadelprete",
+      "school": "granada",
+      "record": {
+        "name": "Andrea Del Prete",
+        "title": "Programa Investigacion Juan de la Cierva",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/andrea-del-prete",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "antonioalarconlopez",
+      "school": "granada",
+      "record": {
+        "name": "Antonio Alarcón López",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/antonio-alarcon-lopez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "antoniojesusortegaravelo",
+      "school": "granada",
+      "record": {
+        "name": "Antonio Jesús Ortega Ravelo",
+        "title": "Contratos Predoctorales Formacion Doctores Ley 14/2011 Fpi",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/antonio-jesus-ortega-ravelo",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "antoniomartinezlopez",
+      "school": "granada",
+      "record": {
+        "name": "Antonio Martínez López",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/antonio-martinez-lopez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "antoniorosmulero",
+      "school": "granada",
+      "record": {
+        "name": "Antonio Ros Mulero",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/antonio-ros-mulero",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "davidherediagomez",
+      "school": "granada",
+      "record": {
+        "name": "David Heredia Gómez",
+        "title": "Responsable de Gestión",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/david-heredia-gomez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "diegoalfonsomarinmunoz",
+      "school": "granada",
+      "record": {
+        "name": "Diego Alfonso Marín Muñoz",
+        "title": "Ayuda Puente Doctores Plan Propio",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/diego-alfonso-marin-munoz",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "domingorodriguezperez",
+      "school": "granada",
+      "record": {
+        "name": "Domingo Rodríguez Pérez",
+        "title": "Profesor Sustituto Interino",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/domingo-rodriguez-perez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "donghwiseo",
+      "school": "granada",
+      "record": {
+        "name": "Donghwi Seo",
+        "title": "Contrato Investigador con Cargo a Proyecto",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/donghwi-seo",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "eddygledsonsouzagama",
+      "school": "granada",
+      "record": {
+        "name": "Eddygledson Souza Gama",
+        "title": "Contrato Investigador con Cargo a Proyecto",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/eddygledson-souza-gama",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "fernangonzalezibanez",
+      "school": "granada",
+      "record": {
+        "name": "Fernán González Ibáñez",
+        "title": "Contratos Predoctorales Formacion Doctores Ley 14/2011 Fpi",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/fernan-gonzalez-ibanez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "franciscojoselopezfernandez",
+      "school": "granada",
+      "record": {
+        "name": "Francisco José López Fernández",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/francisco-jose-lopez-fernandez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "franciscomartinserrano",
+      "school": "granada",
+      "record": {
+        "name": "Francisco Martín Serrano",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/francisco-martin-serrano",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "franciscomilanlopez",
+      "school": "granada",
+      "record": {
+        "name": "Francisco Milán López",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/francisco-milan-lopez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "franciscotorralbotorralbo",
+      "school": "granada",
+      "record": {
+        "name": "Francisco Torralbo Torralbo",
+        "title": "Profesor Titular de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/francisco-torralbo-torralbo",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "javierhervasaniorte",
+      "school": "granada",
+      "record": {
+        "name": "Javier Hervás Aniorte",
+        "title": "Contratos Predoctorales Formacion Doctores Ley 14/2011 Fpi",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/javier-hervas-aniorte",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "joaquinperezmunoz",
+      "school": "granada",
+      "record": {
+        "name": "Joaquín Pérez Muñoz",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/joaquin-perez-munoz",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "jorgehidalgocalderon",
+      "school": "granada",
+      "record": {
+        "name": "Jorge Hidalgo Calderón",
+        "title": "Contrato Investigador con Cargo a Proyecto",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/jorge-hidalgo-calderon",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "joseantoniogalvezlopez",
+      "school": "granada",
+      "record": {
+        "name": "José Antonio Gálvez López",
+        "title": "Subdirector de Departamento Catedrático de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/jose-antonio-galvez-lopez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "josemariaespinargarcia",
+      "school": "granada",
+      "record": {
+        "name": "José María Espinar García",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/jose-maria-espinar-garcia",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "juandediosperezjimenez",
+      "school": "granada",
+      "record": {
+        "name": "Juan de Dios Pérez Jiménez",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/juan-dios-perez-jimenez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "juliareinamartin",
+      "school": "granada",
+      "record": {
+        "name": "Julia Reina Martín",
+        "title": "Contratos Predoctorales Formacion Doctores Ley 14/2011 Fpi",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/julia-reina-martin",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "kaizhang",
+      "school": "granada",
+      "record": {
+        "name": "Kai Zhang",
+        "title": "Contrato Investigador con Cargo a Proyecto",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/kai-zhang",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "leonorferrermartinez",
+      "school": "granada",
+      "record": {
+        "name": "Leonor Ferrer Martínez",
+        "title": "Profesora Titular de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/leonor-ferrer-martinez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "manuelcesarrosaleslombardo",
+      "school": "granada",
+      "record": {
+        "name": "Manuel César Rosales Lombardo",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/manuel-cesar-rosales-lombardo",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "manuelmariaritorecortes",
+      "school": "granada",
+      "record": {
+        "name": "Manuel María Ritore Cortés",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/manuel-maria-ritore-cortes-ritore",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "mariamagdalenarodriguezperez",
+      "school": "granada",
+      "record": {
+        "name": "María Magdalena Rodríguez Pérez",
+        "title": "Profesora Titular de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/maria-magdalena-rodriguez-perez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "miguelortegatitos",
+      "school": "granada",
+      "record": {
+        "name": "Miguel Ortega Titos",
+        "title": "Profesor Titular de Universidad Director de Departamento",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/miguel-ortega-titos",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "miguelsanchezcaja",
+      "school": "granada",
+      "record": {
+        "name": "Miguel Sánchez Caja",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/miguel-sanchez-caja",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "paulainmaculadagarcialinares",
+      "school": "granada",
+      "record": {
+        "name": "Paula Inmaculada García Linares",
+        "title": "Contratos Predoctorales Formacion Doctores Ley 14/2011 Fpi",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/paula-inmaculada-garcia-linares",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "rafaellopezcamino",
+      "school": "granada",
+      "record": {
+        "name": "Rafael López Camino",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/rafael-lopez-camino",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "sebastianmontielgomez",
+      "school": "granada",
+      "record": {
+        "name": "Sebastián Montiel Gómez",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/sebastian-montiel-gomez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-geom-person31",
+      "person_key": "yuanyuanlian",
+      "school": "granada",
+      "record": {
+        "name": "Yuanyuan Lian",
+        "title": "Contrato Investigador con Cargo a Proyecto",
+        "research": "",
+        "profile": "https://geometry.ugr.es/informacion/directorio-personal/yuanyuan-lian",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://geometry.ugr.es/informacion/directorio-personal",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
       "source": "uic-full-audit-source",
       "person_key": "izzetcoskun",
       "school": "uic",
@@ -483373,19 +484059,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.ugr.es/personal/antonio-alarcon-lopez",
-      "cache_id": "profile-bd23f3974cddb757",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://www.ugr.es/~alarcon/",
       "cache_id": "profile-29e11a0b386c345d",
       "status": "parsed",
@@ -489601,6 +490274,27 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
     },
+    "ana-maria-hurtado-cortegana": {
+      "status": "review_ready",
+      "author_id": "A5103214609",
+      "papers": [],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5103214609",
+        "orcid": "https://orcid.org/0000-0003-0526-9829",
+        "url": "https://openalex.org/authors/A5103214609",
+        "authorApiUrl": "https://api.openalex.org/authors/A5103214609",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5103214609,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 19,
+        "works": 25,
+        "citations": 275,
+        "hIndex": 9,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "ananth-shankar": {
       "status": "source_error",
       "reason": "OpenAlex 请求或返回数据失败。",
@@ -489838,6 +490532,65 @@
         "works": 64,
         "citations": 1411,
         "hIndex": 20,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "antonio-alarcon-lopez": {
+      "status": "review_ready",
+      "author_id": "A5044040131",
+      "papers": [
+        {
+          "title": "Complete complex hypersurfaces in the ball come in foliations",
+          "year": 2022,
+          "url": "https://doi.org/10.4310/jdg/1656005494"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5044040131",
+        "orcid": "https://orcid.org/0000-0001-9557-3378",
+        "url": "https://openalex.org/authors/A5044040131",
+        "authorApiUrl": "https://api.openalex.org/authors/A5044040131",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5044040131,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 65,
+        "works": 92,
+        "citations": 994,
+        "hIndex": 19,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "antonio-ros-mulero": {
+      "status": "review_ready",
+      "author_id": "A5090766500",
+      "papers": [
+        {
+          "title": "Bounds on the topology and index of minimal surfaces",
+          "year": 2019,
+          "url": "https://doi.org/10.4310/ACTA.2019.v223.n1.a2"
+        },
+        {
+          "title": "Stable constant mean curvature tori and the isoperimetric problem in three space forms",
+          "year": 1992,
+          "url": "https://doi.org/10.1007/BF02566501"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5090766500",
+        "orcid": "https://orcid.org/0000-0001-5811-5642",
+        "url": "https://openalex.org/authors/A5090766500",
+        "authorApiUrl": "https://api.openalex.org/authors/A5090766500",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5090766500,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 72,
+        "works": 106,
+        "citations": 3944,
+        "hIndex": 35,
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
       }
@@ -492731,6 +493484,38 @@
       "reason": "OpenAlex 请求或返回数据失败。",
       "checkedAt": "2026-11-23"
     },
+    "joaquin-perez-munoz": {
+      "status": "review_ready",
+      "author_id": "A5100757801",
+      "papers": [
+        {
+          "title": "Bounds on the topology and index of minimal surfaces",
+          "year": 2019,
+          "url": "https://doi.org/10.4310/ACTA.2019.v223.n1.a2"
+        },
+        {
+          "title": "Minimal Surfaces of Finite Genus: Classification, Dynamics and Laminations",
+          "year": 2026,
+          "url": "https://doi.org/10.1137/25M1803188"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5100757801",
+        "orcid": "https://orcid.org/0000-0003-1877-8884",
+        "url": "https://openalex.org/authors/A5100757801",
+        "authorApiUrl": "https://api.openalex.org/authors/A5100757801",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5100757801,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 47,
+        "works": 75,
+        "citations": 1307,
+        "hIndex": 21,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "joeri-van-der-veken": {
       "status": "review_ready",
       "author_id": "A5033126696",
@@ -493641,6 +494426,38 @@
       "author_id": "A5011684933",
       "papers": [],
       "candidate_url": "https://openalex.org/authors/A5011684933"
+    },
+    "manuel-maria-ritore-cortes": {
+      "status": "review_ready",
+      "author_id": "A5010935187",
+      "papers": [
+        {
+          "title": "Continuity of the isoperimetric profile of a complete Riemannian manifold under sectional curvature conditions",
+          "year": 2017,
+          "url": "https://doi.org/10.4171/RMI/935"
+        },
+        {
+          "title": "A proof by calibration of an isoperimetric inequality in the Heisenberg group $${\\mathbb{H}^n}$$",
+          "year": 2011,
+          "url": "https://doi.org/10.1007/s00526-011-0425-8"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5010935187",
+        "orcid": "https://orcid.org/0000-0002-1136-3881",
+        "url": "https://openalex.org/authors/A5010935187",
+        "authorApiUrl": "https://api.openalex.org/authors/A5010935187",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5010935187,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 50,
+        "works": 93,
+        "citations": 1978,
+        "hIndex": 23,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "marc-masdeu-sabate": {
       "status": "identity_review",

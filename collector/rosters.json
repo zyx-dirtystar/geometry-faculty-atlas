@@ -1125,7 +1125,7 @@
   {"id":"durham-bio31","school":"durham","parser":"pending","name":"Durham Biostatistics Unit · Members","url":"https://dur.ac.uk/research/institutes-and-centres/research-methods/research/the-durham-biostatistics-unit/","kind":"research"},
   {"id":"durham-prob-former31","school":"durham","parser":"pending","name":"Probability at Durham · Former Members","url":"https://www.maths.dur.ac.uk/PiNE/PaD/former.html","kind":"research"},
   {"id":"utm-science-core31","school":"utm","parser":"pending","name":"UTM Directory · Faculty of Science","url":"https://www.utm.my/directory/faculty/fakulti-sains/fakulti-sains","kind":"research"},
-  {"id":"utm-ciam31","school":"utm","parser":"pending","name":"UTM Scholar · Centre for Industrial & Applied Mathematics","url":"https://pure.utm.my/research-centre/J091002","kind":"research"},
+  {"id":"utm-ciam31","school":"utm","parser":"pending","name":"UTM Scholar · CIAM academic staff and research groups","url":"https://pure.utm.my/research-centre/J091002","kind":"campus"},
   {"id":"utm-math-pg31","school":"utm","parser":"pending","name":"Faculty of Science · Postgraduate Mathematics","url":"https://science.utm.my/pg/mphil-phd-mathematics/","kind":"research"},
   {"id":"utm-muminov31","school":"utm","parser":"pending","name":"MJIIT staff · Zahriddin Muminov","url":"https://mjiit.utm.my/research-tribology/drmuminov/","kind":"research"},
   {"id":"utm-shaymaa31","school":"utm","parser":"pending","name":"UTM Scholar · Shaymaa Darwish","url":"https://pure.utm.my/Scholar/ScholarInfoDetails/9X7R","kind":"research"},
@@ -1156,5 +1156,16 @@
   {"id":"utm-smoca-people31","school":"utm","parser":"pending","name":"Statistical Modeling and Climate Analytics · Members","url":"https://science.utm.my/smoca/research-member/","kind":"research"},
   {"id":"utm-mathopt-topics31","school":"utm","parser":"pending","name":"Mathematical Optimization Group · Research","url":"https://science.utm.my/mathopt/research-area/","kind":"research"},
   {"id":"utm-isc-topics31","school":"utm","parser":"pending","name":"Industrial and Scientific Computation · Research","url":"https://science.utm.my/isc/research-area/","kind":"research"},
-  {"id":"utm-fluid-topics31","school":"utm","parser":"pending","name":"Fluid Mechanics · Research","url":"https://science.utm.my/fluidmech/research-areas/","kind":"research"}
+  {"id":"utm-fluid-topics31","school":"utm","parser":"pending","name":"Fluid Mechanics · Research","url":"https://science.utm.my/fluidmech/research-areas/","kind":"research"},
+  {"id":"utm-mjiit-all31","school":"utm","parser":"pending","name":"Kuala Lumpur · MJIIT Staff Directory","url":"https://mjiit.utm.my/staff-directory/","kind":"campus"},
+  {"id":"utm-mjiit-mot31","school":"utm","parser":"pending","name":"Kuala Lumpur · MJIIT Management of Technology","url":"https://mjiit.utm.my/mot/academic-staff/","kind":"campus"},
+  {"id":"utm-aaag-pure31","school":"utm","parser":"pending","name":"UTM Scholar · Applied Algebra and Analysis Group","url":"https://pure.utm.my/cluster/research-groups?id=BKXLwKw","kind":"campus"},
+  {"id":"ugr-geom-person31","school":"granada","parser":"pending","name":"Departamento Geometría y Topología · directorio","url":"https://geometry.ugr.es/informacion/directorio-personal","kind":"department"},
+  {"id":"ugr-geom-cris31","school":"granada","parser":"pending","name":"UGR-CRIS: 42 current researcher entries and 69 timeline entries","url":"https://produccioncientifica.ugr.es/unidades/8753/investigadores","kind":"campus"},
+  {"id":"ugr-geom-groups31","school":"granada","parser":"pending","name":"Geometría y Topología · FQM 324 and 325","url":"https://geometry.ugr.es/investigacion/grupos","kind":"research"},
+  {"id":"ugr-geom-projects31","school":"granada","parser":"pending","name":"Geometría y Topología · research projects","url":"https://geometry.ugr.es/investigacion/proyectos","kind":"research"},
+  {"id":"ugr-diff-app31","school":"granada","parser":"pending","name":"OTRI · FQM 324 Geometría diferencial","url":"https://ofertaimasd.ugr.es/fqm/grupos-de-investigacion/fqm-324-grupo-de-investigacion-geometria-diferencial-y-sus-aplicaciones/","kind":"research"},
+  {"id":"ugr-imag-structure31","school":"granada","parser":"pending","name":"IMAG · structure","url":"https://wpd.ugr.es/~imag/structure/","kind":"research"},
+  {"id":"ugr-imag-groups31","school":"granada","parser":"pending","name":"IMAG · research projects and groups","url":"https://wpd.ugr.es/~imag/research-projects-and-groups/","kind":"research"},
+  {"id":"ugr-alg-cris31","school":"granada","parser":"pending","name":"UGR-CRIS · Departamento de Álgebra","url":"https://produccioncientifica.ugr.es/unidades/8715/investigadores","kind":"research"}
 ]
