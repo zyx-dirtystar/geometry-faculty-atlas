@@ -113,7 +113,7 @@
     "cambridge": "核对 DPMMS 57 位学者、62 位研究人员及 25 位荣休／离任，以及 DAMTP 73 位学者、91 位研究人员及 34 位荣休。两系分别对照研究组及 2027 年具名申请导师专长。独立核实跨系岗位、联合研究单位、大学学院及固定期研究人员。 本批逐名核对 177 个校内具名页面，69 个主页标签中一处是 Scholar 引用页，另查 68 个个人主页，36 个返回可读。核实列作 Academic Research Staff 的博士生、固定期博士后、学院研究员和教师，未披露具体方向的继续调查。",
     "fudan": "上海数学中心 Current Faculty & Researchers 名册已核录。数学科学学院教职员工目录的名单未随页面静态返回，两个院系的其他人员及重叠任职待核。",
     "harvard": "已核录数学系 2026–27 研究方向表的具名人员，对照资深导师表。中心联聘和新增任职另待核。",
-    "johns-hopkins": "读完数学系 50 张和应用数学与统计系常规 50、次聘与研究兼职 31、博士后 15 张卡片。交叉查看 MINDS 常任和 Research Faculty、AMS 研究分组与 DSAI 新任名单。补记不变量理论、黎曼优化、形状统计和计算几何的交叉人员。 MINDS 另核录常规 40、科研 5、Fellows 4、博士后 2 位，分辨旧校名和现任。DSAI 巡查了 22 位新聘公告及其分页目录，截至本批完整分页人员仍需复核。",
+    "johns-hopkins": "读完数学系 50 张和应用数学与统计系常规 50、次聘与研究兼职 31、博士后 15 张卡片。交叉查看 MINDS 常任和 Research Faculty、AMS 研究分组与 DSAI 新任名单。补记不变量理论、黎曼优化、形状统计和计算几何的交叉人员。 MINDS 另核录常规 40、科研 5、Fellows 4、博士后 2 位，分辨旧校名和现任。DSAI 巡查了 22 位新聘公告及其分页目录，截至本批完整分页人员仍需复核。 续核 DSAI 目录第 1–15 页 180 张具名卡。截至本次校方目录报告 24 页 280 条，公开命令行入口返回 HTTP 403，公开网页索引第 16–24 页也无法读取；剩余 100 条成员卡未查全。补查 DSAI 2026–27 在岗博士后 5 人、关联中心总表、物理的宇宙学与引力 15 人及理论粒子 7 人。确认 Bah、Berti 和 Carroll 的交叉方向。Chi Li 的 2026-08-12 CV 同时列 Rutgers Professor 和 JHU Research Professor；保留已证双任职。复核八位已入库学者的公开 CV、论文书目和引用归属，有访问失败和同名混入的字段保留逐人记录。",
     "king-khalid": "对照 2024 阿文及英文系名册与 2026 出版社署名，确认 Akram Ali 的校系与方向。两位讲师仅有历史职级；校区全员及之后的职位变化待核。",
     "kth": "已解析 Department of Mathematics Members 与代数几何／交换代数组。研究组的合并标签待按个人细分，历史或访问身份保留。",
     "michigan": "已解析官方 Tenured, Tenure Track 页面及代数、代数几何分类页。研究方向混合标签、短期任职及其他院系待核。",
@@ -260,9 +260,9 @@
   "latestProfileRun": {
     "checkedAt": "2026-11-25",
     "schools": 1,
-    "attempted": 13,
-    "fetched": 13,
-    "failed": 0
+    "attempted": 10,
+    "fetched": 9,
+    "failed": 1
   },
   "schoolReviews": {
     "lse": {
@@ -1699,9 +1699,9 @@
   },
   "latestMetricRun": {
     "checkedAt": "2026-11-25",
-    "reviewed": 30,
-    "accepted": 23,
-    "held": 7,
+    "reviewed": 6,
+    "accepted": 4,
+    "held": 2,
     "scholar": 1
   }
 }
