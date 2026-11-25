@@ -11,11 +11,35 @@
     {
       "id": "princeton",
       "coverage": "sample",
-      "coverageNote": "已解析 2/2 个登记来源，22 条任职或方向待核。 已收录 5 位学者，个人主页 4、CV 3、指标 2。",
+      "coverageNote": "已解析 2/8 个登记来源，0 条任职或方向待核。 已收录 12 位学者，个人主页 11、CV 7、指标 4。  原数学系 22 条待核逐人匹配具名主页、成果与任职。IAS 为独立机构，显式双聘与研究学者单列。新增 PACM、CS、物理和 PCTS 入口，各跨院名册仍继续核对。",
       "rosterLinks": [
+        [
+          "Computer Science · Faculty",
+          "https://www.cs.princeton.edu/people/faculty"
+        ],
+        [
+          "Graduate School · Mathematics faculty and advisers",
+          "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/mathematics"
+        ],
+        [
+          "Institute for Advanced Study · School of Mathematics (separate institution)",
+          "https://www.ias.edu/math"
+        ],
         [
           "数学系 People",
           "https://www.math.princeton.edu/people"
+        ],
+        [
+          "Program in Applied and Computational Mathematics · Faculty",
+          "https://www.pacm.princeton.edu/people/faculty"
+        ],
+        [
+          "Princeton Center for Theoretical Science · People",
+          "https://pcts.princeton.edu/people"
+        ],
+        [
+          "Department of Physics · Faculty",
+          "https://phy.princeton.edu/people/faculty"
         ],
         [
           "数学系 Faculty Research",
@@ -27,8 +51,20 @@
     {
       "id": "paris-saclay",
       "coverage": "sample",
-      "coverageNote": "已解析 3/7 个登记来源，4 条任职或方向待核。 已收录 28 位学者，个人主页 21、CV 5、指标 1。  核对 CNRS 法定研究职级和 Orsay 具名岗位，七位常设研究岗位按现任、四类访客和教学岗按官方分栏判定。IMJ-PRG、IHES、历史任职与 Orsay 任职分开。",
+      "coverageNote": "已解析 3/11 个登记来源，0 条任职或方向待核。 已收录 30 位学者，个人主页 23、CV 6、指标 1。  核对 CNRS 法定研究职级和 Orsay 具名岗位，七位常设研究岗位按现任、四类访客和教学岗按官方分栏判定。IMJ-PRG、IHES、历史任职与 Orsay 任职分开。 四位 Orsay 原待核人员已查出实名顺序、研究和职级。本次交叉对照数学研究生院与 EDMH 的数学单位，Versailles、Évry、Centre Borelli、IHES 和合作院校继续逐单位复核。",
       "rosterLinks": [
+        [
+          "École Doctorale Mathématiques Hadamard · Laboratoires d’accueil",
+          "https://fmjh.imo.universite-paris-saclay.fr/fr/campus-de-paris-saclay/formation/edmh/lecole-doctorale/laboratoires-daccueil/"
+        ],
+        [
+          "Graduate School Mathématiques · Laboratoires",
+          "https://www.universite-paris-saclay.fr/graduate-schools/graduate-school-mathematiques/recherche-graduate-school-mathematiques"
+        ],
+        [
+          "UVSQ · Laboratoire de Mathématiques de Versailles",
+          "https://www.uvsq.fr/laboratoire-de-mathematiques-de-versailles-lmv"
+        ],
         [
           "CNRS · permanent research appointment categories",
           "https://carrieres.cnrs.fr/concours-externes-des-chercheurs-h-f/"
@@ -56,6 +92,10 @@
         [
           "LMO · Topology and Dynamics members",
           "https://www.imo.universite-paris-saclay.fr/en/people/equipe/json/80/"
+        ],
+        [
+          "UFR Sciences · Laboratoires de mathématiques",
+          "https://www.sciences.universite-paris-saclay.fr/recherche/direction-de-la-recherche/laboratoires/mathematiques"
         ]
       ],
       "checkedAt": "2026-11-23"
@@ -63,7 +103,7 @@
     {
       "id": "oxford",
       "coverage": "sample",
-      "coverageNote": "已解析 7/9 个登记来源，17 条任职或方向待核。 已收录 10 位学者，个人主页 2、CV 4、指标 5。 数学研究所当前 A–Z 按十种真实目录标签登记 647 项（含 Academic Faculty 118、Emeritus 42、Postdoctoral Research Associate 65 和跨列重复）。交叉核对 Geometry、Algebra、Number Theory 和 Centre for Nonlinear PDE 等具名名册，继续核其他数学组、学院和联合中心。",
+      "coverageNote": "已解析 7/15 个登记来源，0 条任职或方向待核。 已收录 19 位学者，个人主页 11、CV 8、指标 10。 数学研究所当前 A–Z 按十种真实目录标签登记 647 项（含 Academic Faculty 118、Emeritus 42、Postdoctoral Research Associate 65 和跨列重复）。交叉核对 Geometry、Algebra、Number Theory 和 Centre for Nonlinear PDE 等具名名册，继续核其他数学组、学院和联合中心。 原名单 17 条任职或方向待核均核具名来源。增加几何、数学物理与拓扑的论文和跨院入口。学院兼职、数学物理与计算机科学的相关研究组仍继续核对。 加入粒子理论组 52 张具名名卡，并核实 Lukas 和 Constantin 的 Calabi–Yau 研究。",
       "rosterLinks": [
         [
           "Mathematical Institute Algebra Group",
@@ -72,6 +112,14 @@
         [
           "Mathematical Institute · Algebra",
           "https://www.maths.ox.ac.uk/groups/algebra/algebra-members"
+        ],
+        [
+          "Computer Science · Research areas",
+          "https://www.cs.ox.ac.uk/research/"
+        ],
+        [
+          "Computer Science · Research personnel",
+          "https://www.cs.ox.ac.uk/people/researchers.html"
         ],
         [
           "Mathematical Institute · Geometry",
@@ -84,6 +132,10 @@
         [
           "Mathematical Institute Geometry Members",
           "https://www.maths.ox.ac.uk/groups/geometry/members"
+        ],
+        [
+          "Mathematical Institute · Mathematical Physics group members",
+          "https://www.maths.ox.ac.uk/groups/mathematical-physics/members"
         ],
         [
           "Mathematical Institute · Oxford Centre for Nonlinear PDE",
@@ -100,6 +152,18 @@
         [
           "Mathematical Institute · A–Z people list (all ten appointment categories)",
           "https://www.maths.ox.ac.uk/people/find/list"
+        ],
+        [
+          "Department of Physics · Particle Theory people",
+          "https://www.physics.ox.ac.uk/research/group/particle-theory/people"
+        ],
+        [
+          "Mathematical Institute · Research group index",
+          "https://www.maths.ox.ac.uk/research"
+        ],
+        [
+          "Mathematical Institute · Topology group members",
+          "https://www.maths.ox.ac.uk/groups/topology/members-topology-group"
         ]
       ],
       "checkedAt": "2026-11-25"
@@ -3555,7 +3619,7 @@
     {
       "id": "anu",
       "coverage": "sample",
-      "coverageNote": "已解析 6/18 个登记来源，1 条任职或方向待核。 已收录 9 位学者，个人主页 9、CV 3、指标 5。 数学科学研究所现任列表三页 45 人、荣休和名誉 20 人、长访 17 人。另交叉四个具名研究组、分析与几何组 17 人及学校研究访问入口。个人档案已逐张读取，常设职、博士后、研究 fellowship、访问和荣休分开。继续复核名单空白方向与跨学科任职。 检查应用计算数学组 33 条、数据科学组 5 条、理论物理和计算学院入口。理论物理的应用拓扑与几何组、长访计划年度名册仍须逐人核完。",
+      "coverageNote": "已解析 6/20 个登记来源，1 条任职或方向待核。 已收录 9 位学者，个人主页 9、CV 3、指标 5。 数学科学研究所现任列表三页 45 人、荣休和名誉 20 人、长访 17 人。另交叉四个具名研究组、分析与几何组 17 人及学校研究访问入口。个人档案已逐张读取，常设职、博士后、研究 fellowship、访问和荣休分开。继续复核名单空白方向与跨学科任职。 检查应用计算数学组 33 条、数据科学组 5 条、理论物理和计算学院入口。理论物理的应用拓扑与几何组、长访计划年度名册仍须逐人核完。 本批补查物理学院应用拓扑与几何 4 位、数学物理 8 位，逐条核对其官方分组。",
       "rosterLinks": [
         [
           "MSI · Algebraic & Differential Geometry",
@@ -3596,6 +3660,14 @@
         [
           "MSI · People category index",
           "https://maths.anu.edu.au/people"
+        ],
+        [
+          "Research School of Physics · Mathematical Physics group",
+          "https://physics.anu.edu.au/research/ftp/mpg/?tab=people"
+        ],
+        [
+          "Research School of Physics · Applied Topology and Geometry group",
+          "https://physics.anu.edu.au/research/ftp/topo/?tab=people"
         ],
         [
           "数学科学研究所学术人员",
@@ -7074,6 +7146,89 @@
     }
   ],
   "people": [
+    {
+      "checkedAt": "2026-11-25",
+      "id": "chenyang-xu",
+      "name": "Chenyang Xu",
+      "nameZh": "许晨阳",
+      "initials": "CX",
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "教授",
+          "url": "https://www.math.princeton.edu/people/chenyang-xu",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "双有理几何",
+        "Fano",
+        "K-稳定性",
+        "奇点",
+        "高维代数几何"
+      ],
+      "homepage": "https://web.math.princeton.edu/~chenyang/",
+      "cvUrl": null,
+      "cvStatus": "已查具名院系页面及所链接的学者主页，当前未找到可独立核实的公开 CV。",
+      "bioUrl": "https://www.math.princeton.edu/news/department-welcomes-chenyang-xu-professor-mathematics",
+      "publicationsUrl": "https://web.math.princeton.edu/~chenyang/",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5102008315",
+          "orcid": "https://orcid.org/0000-0001-6627-3069",
+          "url": "https://openalex.org/authors/A5102008315",
+          "authorApiUrl": "https://api.openalex.org/authors/A5102008315",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5102008315,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-23",
+          "articles": 55,
+          "works": 120,
+          "citations": 4549,
+          "hIndex": 35,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        },
+        {
+          "source": "OpenAlex",
+          "authorId": "A5102008315",
+          "orcid": "https://orcid.org/0000-0001-6627-3069",
+          "url": "https://openalex.org/authors/A5102008315",
+          "authorApiUrl": "https://api.openalex.org/authors/A5102008315",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5102008315,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 55,
+          "works": 120,
+          "citations": 4568,
+          "hIndex": 35,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityNote": "用 Princeton 任职、Fano K-稳定性论文和 Annals 的作者信息核对。索引里还有多位不同领域的同名作者。",
+      "papers": [
+        {
+          "title": "K-stability of Fano varieties: an algebro-geometric approach",
+          "year": 2021,
+          "url": "https://doi.org/10.4171/emss/51"
+        },
+        {
+          "title": "Finite generation for valuations computing stability thresholds and applications to K-stability",
+          "year": 2022,
+          "url": "https://doi.org/10.4007/annals.2022.196.2.2"
+        },
+        {
+          "title": "Special test configuration and K-stability of Fano varieties",
+          "year": 2014,
+          "url": "https://doi.org/10.4007/annals.2014.180.1.4"
+        }
+      ],
+      "relevance": "如果需要讨论 Fano 紧化的代数侧，可以从 K-稳定性、奇点和双有理方法切入。"
+    },
     {
       "checkedAt": "2026-11-25",
       "id": "ravi-vakil",
@@ -36711,6 +36866,195 @@
       "recordStatus": "directory"
     },
     {
+      "id": "alexander-ritter",
+      "name": "Alexander Ritter",
+      "aliases": [
+        "Alexander F. Ritter"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "oxford",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.maths.ox.ac.uk/people/alexander.ritter",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometry",
+        "Research groups Geometry"
+      ],
+      "homepage": "https://people.maths.ox.ac.uk/ritter/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.maths.ox.ac.uk/system/files/users/cv/cv_24.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://people.maths.ox.ac.uk/ritter/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5108032942",
+          "orcid": "https://orcid.org/0000-0001-8286-7887",
+          "url": "https://openalex.org/authors/A5108032942",
+          "authorApiUrl": "https://api.openalex.org/authors/A5108032942",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5108032942,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 5,
+          "works": 12,
+          "citations": 303,
+          "hIndex": 7,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Floer theory for negative line bundles via Gromov–Witten invariants",
+          "year": 2014,
+          "url": "https://arxiv.org/abs/1106.3975"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Geometry",
+          "url": "https://www.maths.ox.ac.uk/groups/geometry/members"
+        },
+        {
+          "text": "Differential geometry and symplectic topology, homological mirror symmetry, Floer theory and Gromov–Witten theory",
+          "url": "https://www.maths.ox.ac.uk/people/alexander.ritter"
+        },
+        {
+          "text": "Symplectic topology, Homological Mirror Symmetry, Floer theory, Gromov-Witten theory. / Research groups Geometry / Research interests Symplectic topology, Homological Mirror Symmetry, Floer theory, Gromov-Witten theory.",
+          "url": "https://www.maths.ox.ac.uk/people/alexander.ritter"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.maths.ox.ac.uk/people/alexander.ritter"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "andre-lukas",
+      "name": "Andre Lukas",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "oxford",
+          "department": "数学系",
+          "title": "Professor of Theoretical Physics",
+          "url": "https://www.physics.ox.ac.uk/our-people/lukas",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://www.physics.ox.ac.uk/our-people/lukas",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.physics.ox.ac.uk/our-people/lukas/publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and complex geometry of Calabi–Yau manifolds, vector bundles and string compactification",
+          "url": "https://www.physics.ox.ac.uk/our-people/lukas/publications"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "andrea-mondino",
+      "name": "Andrea Mondino",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "oxford",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.maths.ox.ac.uk/people/andrea.mondino",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometry",
+        "Prof",
+        "Mondino works at the interface of analysis and geometry"
+      ],
+      "homepage": "https://www.maths.ox.ac.uk/people/andrea.mondino",
+      "homepageStatus": null,
+      "cvUrl": "https://www.maths.ox.ac.uk/system/files/users/cv/CurriculumMondino_17.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://www.maths.ox.ac.uk/people/andrea.mondino",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5015153981",
+          "orcid": "https://orcid.org/0000-0002-1932-7148",
+          "url": "https://openalex.org/authors/A5015153981",
+          "authorApiUrl": "https://api.openalex.org/authors/A5015153981",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5015153981,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 85,
+          "works": 125,
+          "citations": 4059,
+          "hIndex": 34,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometry",
+          "url": "https://www.maths.ox.ac.uk/groups/geometry/members"
+        },
+        {
+          "text": "Differential geometry and metric geometry, curvature of metric measure spaces, optimal transport and geometric analysis",
+          "url": "https://www.maths.ox.ac.uk/people/andrea.mondino"
+        },
+        {
+          "text": "Prof. Mondino works at the interface of analysis and geometry. More specifically, his research focuses on problems arising in differential and metric geometry, approached through analytic techniques such as optimal transport, functional analysis, partial differential equations, the calculus of variations, gradient flows, nonlinear analysis, and geometric measure theory. While his work is primarily theoretical, both the topics he investigates and the methods he employs have deep connections with applications in the natural sciences—particularly physics and biology—as well as in economics. / Research groups Oxford Centre for Nonlinear PDE Geometry Mathematical Physics",
+          "url": "https://www.maths.ox.ac.uk/people/andrea.mondino"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.maths.ox.ac.uk/people/andrea.mondino"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "andrew-dancer",
       "name": "Andrew Dancer",
       "aliases": [],
@@ -36809,6 +37153,78 @@
         {
           "text": "个人研究或论文来源",
           "url": "https://www.maths.ox.ac.uk/people/damian.rossler"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "dominic-joyce",
+      "name": "Dominic Joyce",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "oxford",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.maths.ox.ac.uk/people/dominic.joyce",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex",
+        "differential"
+      ],
+      "tags": [
+        "Geometry",
+        "Research groups Geometry"
+      ],
+      "homepage": "https://people.maths.ox.ac.uk/~joyce/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.maths.ox.ac.uk/system/files/user-cvs/joyce.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://people.maths.ox.ac.uk/~joyce/publ.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5023239521",
+          "orcid": "https://orcid.org/0000-0002-3530-8801",
+          "url": "https://openalex.org/authors/A5023239521",
+          "authorApiUrl": "https://api.openalex.org/authors/A5023239521",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5023239521,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 60,
+          "works": 155,
+          "citations": 7518,
+          "hIndex": 44,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometry",
+          "url": "https://www.maths.ox.ac.uk/groups/geometry/members"
+        },
+        {
+          "text": "Differential geometry, complex geometry of Calabi–Yau manifolds and special holonomy, and algebraic geometry of Donaldson–Thomas invariants",
+          "url": "https://people.maths.ox.ac.uk/~joyce/resint.html"
+        },
+        {
+          "text": "Research groups Geometry",
+          "url": "https://www.maths.ox.ac.uk/people/dominic.joyce"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.maths.ox.ac.uk/people/dominic.joyce"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -36972,6 +37388,79 @@
       "recordStatus": "directory"
     },
     {
+      "id": "james-sparks",
+      "name": "James Sparks",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "oxford",
+          "department": "数学系",
+          "title": "Professor of Mathematical Physics",
+          "url": "https://www.maths.ox.ac.uk/people/james.sparks",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Mathematical physics, theoretical physics, geometry",
+        "CFT correspondence",
+        "Research groups Mathematical Physics"
+      ],
+      "homepage": "https://users.ox.ac.uk/~math0391/index.html",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查具名院系页面及所链接的学者主页，当前未找到可独立核实的公开 CV。",
+      "publicationsUrl": "https://inspirehep.net/author/profile/J.Sparks.1",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5000313788",
+          "orcid": "https://orcid.org/0000-0003-3699-5225",
+          "url": "https://openalex.org/authors/A5000313788",
+          "authorApiUrl": "https://api.openalex.org/authors/A5000313788",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5000313788,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 92,
+          "works": 129,
+          "citations": 8711,
+          "hIndex": 47,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Sasaki–Einstein Manifolds",
+          "year": 2011,
+          "url": "https://arxiv.org/abs/1004.2461"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of Sasaki–Einstein and special holonomy manifolds, toric geometry, and mathematical physics",
+          "url": "https://www.maths.ox.ac.uk/people/james.sparks"
+        },
+        {
+          "text": "Mathematical physics, theoretical physics, geometry. More specifically I work on supersymmetric field theories, supergravity, and the how these are related via the AdS/CFT correspondence. I'm also interested in geometric structures that arise in string theory and theoretical physics more broadly, notably special holonomy manifolds, Sasaki-Einstein manifolds, generalized geometry. Over the last couple of years I've developed the theory of equivariant localization in supergravity. / Research groups Mathematical Physics",
+          "url": "https://www.maths.ox.ac.uk/people/james.sparks"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.maths.ox.ac.uk/people/james.sparks"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "jason-d-lotay",
       "name": "Jason D Lotay",
       "aliases": [],
@@ -37098,6 +37587,66 @@
       "recordStatus": "directory"
     },
     {
+      "id": "kevin-mcgerty",
+      "name": "Kevin McGerty",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "oxford",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.maths.ox.ac.uk/people/kevin.mcgerty",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Geometry",
+        "Research groups Algebra Geometry"
+      ],
+      "homepage": "https://people.maths.ox.ac.uk/mcgerty/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查具名院系页面及所链接的学者主页，当前未找到可独立核实的公开 CV。",
+      "publicationsUrl": "https://www.maths.ox.ac.uk/people/kevin.mcgerty",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "OpenAlex 的档案虽命中牛津和公开 ORCID，但与神经科学的 Kevin McGerty 混入同一结果。在 Oxford 具名发表记录核对时发现纹状体和多巴胺作品不属于所核几何学者，论文总数与累计被引待核。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5052033332",
+      "papers": [
+        {
+          "title": "Kirwan surjectivity for quiver varieties",
+          "year": 2018,
+          "url": "https://doi.org/10.1007/s00222-017-0765-x"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Geometry",
+          "url": "https://www.maths.ox.ac.uk/groups/geometry/members"
+        },
+        {
+          "text": "Algebraic geometry of quiver and singular algebraic varieties, geometric representation theory, and symplectic resolutions",
+          "url": "https://www.maths.ox.ac.uk/people/kevin.mcgerty"
+        },
+        {
+          "text": "Geometric representation theory: quantum groups, algebraic groups, topology of singular varieties, D-modules. / Research groups Algebra Geometry / Research interests Geometric representation theory: quantum groups, algebraic groups, topology of singular varieties, D-modules.",
+          "url": "https://www.maths.ox.ac.uk/people/kevin.mcgerty"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.maths.ox.ac.uk/people/kevin.mcgerty"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "konstantin-ardakov",
       "name": "Konstantin Ardakov",
       "aliases": [],
@@ -37158,6 +37707,131 @@
         {
           "text": "个人研究或论文来源",
           "url": "https://www.maths.ox.ac.uk/people/konstantin.ardakov"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "lionel-j-mason",
+      "name": "Lionel J Mason",
+      "aliases": [
+        "Lionel Mason",
+        "Lionel J. Mason"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "oxford",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.maths.ox.ac.uk/people/lionel.mason",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [
+        "Geometry",
+        "Research groups Geometry Mathematical Physics"
+      ],
+      "homepage": "https://people.maths.ox.ac.uk/lmason/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.maths.ox.ac.uk/system/files/users/cvs/cv2017.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://www.maths.ox.ac.uk/people/lionel.mason",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5021117957",
+          "orcid": "https://orcid.org/0000-0003-2464-6730",
+          "url": "https://openalex.org/authors/A5021117957",
+          "authorApiUrl": "https://api.openalex.org/authors/A5021117957",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5021117957,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 97,
+          "works": 157,
+          "citations": 7577,
+          "hIndex": 48,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometry",
+          "url": "https://www.maths.ox.ac.uk/groups/geometry/members"
+        },
+        {
+          "text": "Complex geometry and differential geometry of twistor spaces, self-duality and conformal geometry, mathematical relativity",
+          "url": "https://www.spc.ox.ac.uk/people/prof-lionel-mason"
+        },
+        {
+          "text": "Research groups Geometry Mathematical Physics / My research interests lies in mathematical physics, focussing mostly on general relativity and quantum theory.",
+          "url": "https://www.maths.ox.ac.uk/people/lionel.mason"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.maths.ox.ac.uk/people/lionel.mason"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "luc-nguyen",
+      "name": "Luc Nguyen",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "oxford",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.maths.ox.ac.uk/people/luc.nguyen",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Partial differential equations and geometry",
+        "Research groups Oxford Centre for Nonlinear PDE",
+        "Research interests Partial differential equations and geometry"
+      ],
+      "homepage": "https://www.maths.ox.ac.uk/people/luc.nguyen",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查具名院系页面及所链接的学者主页，当前未找到可独立核实的公开 CV。",
+      "publicationsUrl": "https://www.maths.ox.ac.uk/people/luc.nguyen",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "尝试牛津具名记录和 DOI 交叉匹配 OpenAlex，返回 404。仍保留牛津官网可读发表列表。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometric analysis, differential geometry and partial differential equations in conformal geometry",
+          "url": "https://www.maths.ox.ac.uk/people/luc.nguyen"
+        },
+        {
+          "text": "Partial differential equations and geometry / Research groups Oxford Centre for Nonlinear PDE / Research interests Partial differential equations and geometry",
+          "url": "https://www.maths.ox.ac.uk/people/luc.nguyen"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.maths.ox.ac.uk/people/luc.nguyen"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -37237,6 +37911,62 @@
         {
           "text": "个人研究或论文来源",
           "url": "https://www.maths.ox.ac.uk/people/pierrick.bousseau"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "richard-earl",
+      "name": "Richard Earl",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "oxford",
+          "department": "数学系",
+          "title": "Tutor and Fellow in Mathematics · Worcester College",
+          "url": "https://www.maths.ox.ac.uk/people/richard.earl",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [
+        "Research groups Geometry"
+      ],
+      "homepage": "https://people.maths.ox.ac.uk/earl/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查具名院系页面及所链接的学者主页，当前未找到可独立核实的公开 CV。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "Oxford 具名档案与历史代数几何 DOI 已核，OpenAlex 查询未返回可采信作者档案。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The Hodge numbers of the moduli spaces of vector bundles over a Riemann surface",
+          "year": 2000,
+          "url": "https://doi.org/10.1093/qjmath/51.4.465"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and complex geometry of moduli spaces of holomorphic vector bundles on Riemann surfaces",
+          "url": "https://doi.org/10.1093/qjmath/51.4.465"
+        },
+        {
+          "text": "Research groups Geometry",
+          "url": "https://www.maths.ox.ac.uk/people/richard.earl"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.maths.ox.ac.uk/people/richard.earl"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -38008,6 +38738,66 @@
       "recordStatus": "directory"
     },
     {
+      "id": "dmitry-kubrak",
+      "name": "Dmitry Kubrak",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "CNRS researcher · Laboratoire de Mathématiques d’Orsay",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/24994/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": "https://sites.google.com/view/dmitrykubrak/home",
+      "homepageStatus": null,
+      "cvUrl": "https://drive.google.com/file/d/1fz5M-9AisW-x7pn8_u8vdaw9WA1ESm39/view?usp=sharing",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://sites.google.com/view/dmitrykubrak/home",
+      "publicationCounts": [
+        {
+          "value": 12,
+          "scope": "作者主页 My papers and preprints 下 12 项。出版链接与同题 arXiv 版本合并计数。",
+          "checkedAt": "2026-11-25",
+          "url": "https://sites.google.com/view/dmitrykubrak/home"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "用 IAS 公开 ORCID 查询 OpenAlex 返回 404。已补录本人展示的论文与预印本共 12 项及范围，累计被引待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        },
+        {
+          "text": "Algebraic geometry, arithmetic geometry, algebraic stacks, and homotopy-theoretic techniques",
+          "url": "https://sites.google.com/view/dmitrykubrak/home"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.ias.edu/scholars/dmitry-kubrak"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "fahlaoui-rachid",
       "name": "Fahlaoui Rachid",
       "aliases": [],
@@ -38275,6 +39065,66 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "konstantinos-kartas",
+      "name": "Konstantinos Kartas",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "paris-saclay",
+          "department": "Institut de Mathématique d’Orsay",
+          "title": "Chargé de recherche CNRS · Laboratoire de Mathématiques d’Orsay",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/25105/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmétique et Géométrie Algébrique"
+      ],
+      "homepage": "https://sites.google.com/view/kartaskostas",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查具名院系页面及所链接的学者主页，当前未找到可独立核实的公开 CV。",
+      "publicationsUrl": "https://sites.google.com/view/kartaskostas",
+      "publicationCounts": [
+        {
+          "value": 9,
+          "scope": "作者主页 Research papers 下 9 条，含 5 篇已刊、1 篇待刊和 3 篇投稿或预印本。排除另列的综述、论文与报告。",
+          "checkedAt": "2026-11-25",
+          "url": "https://sites.google.com/view/kartaskostas"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "以官方数学期刊 DOI 查询，OpenAlex 未返回唯一作者。已补录本人展示的 Research papers 共 9 项及范围，累计被引待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/la-recherche/arithmetique-et-geometrie-algebrique/"
+        },
+        {
+          "text": "Arithmétique et Géométrie Algébrique",
+          "url": "https://www.imo.universite-paris-saclay.fr/fr/membres/"
+        },
+        {
+          "text": "Arithmetic algebraic geometry and model theory, tilting, valued fields and perfectoid arithmetic",
+          "url": "https://sites.google.com/view/kartaskostas"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://sites.google.com/view/kartaskostas"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -40496,6 +41346,49 @@
       "recordStatus": "directory"
     },
     {
+      "id": "bhargav-bhatt",
+      "name": "Bhargav Bhatt",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "Fernholz Joint Professor · Princeton University and Institute for Advanced Study",
+          "url": "https://www.math.princeton.edu/people/bhargav-bhatt",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.ias.edu/~bhatt/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.ias.edu/sites/default/files/Bhatt_CV_2025.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.ias.edu/~bhatt/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "用两篇具名 DOI 核对分别指向不同的 OpenAlex 作者档案。现任 Princeton 与 IAS 双聘已核，Google Scholar 公开搜索未取得可唯一对应的汇总。总数待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, arithmetic geometry, p-adic geometry and commutative algebra",
+          "url": "https://www.math.ias.edu/~bhatt/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.ias.edu/~bhatt/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "fernando-coda-marques",
       "name": "Fernando Codá Marques",
       "aliases": [],
@@ -40568,6 +41461,198 @@
       "recordStatus": "directory"
     },
     {
+      "id": "guido-bosco",
+      "name": "Guido Bosco",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "Assistant Professor of Mathematics",
+          "url": "https://www.math.princeton.edu/people/guido-bosco",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmetic algebraic geometry and p-adic analytic geometry"
+      ],
+      "homepage": "https://web.math.princeton.edu/~gb5927/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查具名院系页面及所链接的学者主页，当前未找到可独立核实的公开 CV。",
+      "publicationsUrl": "https://web.math.princeton.edu/~gb5927/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry and p-adic analytic geometry",
+          "url": "https://web.math.princeton.edu/~gb5927/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "june-huh",
+      "name": "June Huh",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.math.princeton.edu/people/june-huh-0",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://web.math.princeton.edu/~huh/",
+      "homepageStatus": null,
+      "cvUrl": "https://web.math.princeton.edu/~huh/JuneHuhCV.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://web.math.princeton.edu/~huh/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5077920540",
+          "orcid": "https://orcid.org/0009-0003-9731-6190",
+          "url": "https://openalex.org/authors/A5077920540",
+          "authorApiUrl": "https://api.openalex.org/authors/A5077920540",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5077920540,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 23,
+          "works": 36,
+          "citations": 2485,
+          "hIndex": 23,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Hodge theory for combinatorial geometries",
+          "year": 2018,
+          "url": "https://doi.org/10.4007/annals.2018.188.2.1"
+        },
+        {
+          "title": "Milnor numbers of projective hypersurfaces and the chromatic polynomial of graphs",
+          "year": 2012,
+          "url": "https://doi.org/10.1090/S0894-0347-2012-00731-0"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, combinatorial Hodge theory, tropical geometry and matroids",
+          "url": "https://www.math.princeton.edu/news/june-huh-join-faculty-professor"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://web.math.princeton.edu/~huh/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "mingjia-zhang",
+      "name": "Mingjia Zhang",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "Assistant Professor of Mathematics",
+          "url": "https://www.math.princeton.edu/people/mingjia-zhang",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://collaborate.princeton.edu/en/persons/mingjia-zhang/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查具名院系页面及所链接的学者主页，当前未找到可独立核实的公开 CV。",
+      "publicationsUrl": "https://collaborate.princeton.edu/en/persons/mingjia-zhang/publications/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry, p-adic Shimura varieties and local-global compatibility",
+          "url": "https://collaborate.princeton.edu/en/persons/mingjia-zhang/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "nicholas-katz",
+      "name": "Nicholas Katz",
+      "aliases": [
+        "Nicholas M. Katz",
+        "Nick Katz"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.math.princeton.edu/people/nicholas-katz",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://web.math.princeton.edu/~nmk/",
+      "homepageStatus": null,
+      "cvUrl": "https://web.math.princeton.edu/~nmk/newcv.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://web.math.princeton.edu/WebCV/KatzBIB.pdf",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and arithmetic geometry, étale sheaves, exponential sums and monodromy",
+          "url": "https://web.math.princeton.edu/~nmk/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "paul-c-yang",
       "name": "Paul C. Yang",
       "aliases": [],
@@ -40611,6 +41696,45 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ravi-shankar",
+      "name": "Ravi Shankar",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "Assistant Professor of Mathematics",
+          "url": "https://www.math.princeton.edu/people/ravi-shankar",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/view/ravi-shankar-math/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查具名院系页面及所链接的学者主页，当前未找到可独立核实的公开 CV。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometric analysis, differential geometry and nonlinear elliptic PDE for special Lagrangian graphs",
+          "url": "https://sites.google.com/view/ravi-shankar-math/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -40661,6 +41785,65 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "will-sawin",
+      "name": "Will Sawin",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "Luisa and Robert Fernholz Professor of Mathematics",
+          "url": "https://www.math.princeton.edu/people/will-sawin",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://williamsawin.com/",
+      "homepageStatus": null,
+      "cvUrl": "https://williamsawin.com/cv.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://collaborate.princeton.edu/en/persons/will-sawin/publications/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5066955363",
+          "orcid": "https://orcid.org/0000-0003-0344-5438",
+          "url": "https://openalex.org/authors/A5066955363",
+          "authorApiUrl": "https://api.openalex.org/authors/A5066955363",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5066955363,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 43,
+          "works": 79,
+          "citations": 1465,
+          "hIndex": 23,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry, geometric methods in analytic number theory, étale cohomology and algebraic curves",
+          "url": "https://collaborate.princeton.edu/en/persons/will-sawin/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://epubs.siam.org/doi/10.1137/25M1806132"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {

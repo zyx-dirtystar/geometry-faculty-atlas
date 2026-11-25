@@ -246,7 +246,14 @@
     "asilata-bapat": "A5003286058",
     "anand-deopurkar": "A5014263010",
     "svetlana-makarova": "A5112149697",
-    "brett-parker": "A5020017045"
+    "brett-parker": "A5020017045",
+    "alexander-ritter": "A5108032942",
+    "andrea-mondino": "A5015153981",
+    "dominic-joyce": "A5023239521",
+    "james-sparks": "A5000313788",
+    "lionel-j-mason": "A5021117957",
+    "june-huh": "A5077920540",
+    "will-sawin": "A5066955363"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -329,7 +336,13 @@
     "joan-licata": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。 已以 ANU 具名档案或校研究门户的 ORCID 核对。",
     "bryan-wang": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。 已以 ANU 具名档案或校研究门户的 ORCID 核对。",
     "ian-le": "OpenAlex HTTP 404 已以 ANU 具名档案或校研究门户的 ORCID 核对。",
-    "qiuye-jia": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。 已以 ANU 具名档案或校研究门户的 ORCID 核对。"
+    "qiuye-jia": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。 已以 ANU 具名档案或校研究门户的 ORCID 核对。",
+    "kevin-mcgerty": "OpenAlex 的档案虽命中牛津和公开 ORCID，但与神经科学的 Kevin McGerty 混入同一结果。在 Oxford 具名发表记录核对时发现纹状体和多巴胺作品不属于所核几何学者，论文总数与累计被引待核。",
+    "richard-earl": "Oxford 具名档案与历史代数几何 DOI 已核，OpenAlex 查询未返回可采信作者档案。",
+    "luc-nguyen": "尝试牛津具名记录和 DOI 交叉匹配 OpenAlex，返回 404。仍保留牛津官网可读发表列表。",
+    "bhargav-bhatt": "用两篇具名 DOI 核对分别指向不同的 OpenAlex 作者档案。现任 Princeton 与 IAS 双聘已核，Google Scholar 公开搜索未取得可唯一对应的汇总。总数待核。",
+    "dmitry-kubrak": "用 IAS 公开 ORCID 查询 OpenAlex 返回 404。已补录本人展示的论文与预印本共 12 项及范围，累计被引待核。",
+    "konstantinos-kartas": "以官方数学期刊 DOI 查询，OpenAlex 未返回唯一作者。已补录本人展示的 Research papers 共 9 项及范围，累计被引待核。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -572,6 +585,14 @@
     "asilata-bapat": "官网 ORCID、ANU 单位及稳定条件、球面对象和 q-变形高引结果一致。",
     "anand-deopurkar": "官网 ORCID、ANU 单位及 Hurwitz 空间、向量丛、稳定 log 曲面高引结果一致。",
     "svetlana-makarova": "官网 ORCID、ANU 单位及模空间、determinantal line bundles 与 Fano 成果一致。",
-    "brett-parker": "官网 ORCID、ANU 单位及爆裂流形、全纯曲线及 Gromov–Witten 高引结果一致。"
+    "brett-parker": "官网 ORCID、ANU 单位及爆裂流形、全纯曲线及 Gromov–Witten 高引结果一致。",
+    "alexander-ritter": "牛津具名 ORCID 和任职互证，抽样确认为该作者的 Floer、Fukaya 与 Gromov–Witten 成果。",
+    "andrea-mondino": "牛津具名官方 ORCID 和现任单位互证。高引作品逐条核对下 Ricci 界、度量测度和等周问题。",
+    "dominic-joyce": "牛津具名 ORCID 和任职互证，高引特殊和乐、G2、Calabi–Yau 及 Donaldson–Thomas 成果一致。",
+    "james-sparks": "牛津具名 ORCID 和任职互证，核对 Sasaki–Einstein、环面几何、弦理论高引作品。",
+    "lionel-j-mason": "牛津具名 ORCID 和任职互证，核对共形 Laplacian、扭量理论、自对偶重力等高引作品。",
+    "chenyang-xu": "Princeton 具名成果库的两篇 DOI 与 Princeton 或 IAS 任职一致，逐项核对高引 K-稳定性、极小模型及 log canonical 作品。",
+    "june-huh": "Princeton 和 IAS 身份及两篇 DOI 交叉核对。高引抽样覆盖组合 Hodge、Lorentzian 多项式、Milnor 数和拟阵。",
+    "will-sawin": "SIAM 的 ORCID 与 Princeton 任职一致。高引抽样的 HNHN 原文列同一作者当时的 Columbia 数学系，与 CV 历史任职一致。另对照数论以及单位距离的具名成果。"
   }
 }
