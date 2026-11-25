@@ -251,6 +251,10 @@ def split_role(title, region=None):
         return "other"
     if re.search(r"\b(?:J\.\s*J\.\s*Sylvester|Szeg[oöő]) Assistant Professor\b", title, re.I):
         return "other"
+    if re.match(r"^(?:(?:postgraduate|graduate) teaching assistant|teaching assistant|teaching demonstrator)\b", title, re.I):
+        return "other"
+    if region == "英国" and re.fullmatch(r"Maclaurin Scholar", title, re.I):
+        return "other"
     if region == "法国":
         if re.fullmatch(r"(?:direct(?:eur|rice)|charg[ée]e?) de recherche(?:\s+CNRS)?", title, re.I):
             return "faculty"

@@ -1502,6 +1502,26 @@
       "note": ""
     },
     {
+      "id": "durham-algorithms31",
+      "school": "durham",
+      "url": "https://algorithmscomplexity.webspace.durham.ac.uk/people/",
+      "label": "Computer Science · Algorithms and Complexity · named people",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "durham-bio-stats31",
+      "school": "durham",
+      "url": "https://dur.ac.uk/research/institutes-and-centres/research-methods/research/the-durham-biostatistics-unit/",
+      "label": "Durham Biostatistics Unit · individual members",
+      "status": "reference",
+      "count": 10,
+      "checked_at": "2026-11-25",
+      "note": "10 位中心具名工作者，网页说明与成员专长主要为生物统计和试验设计，所查范围与当前数学研究组对照。"
+    },
+    {
       "id": "durham-bio31",
       "school": "durham",
       "url": "https://dur.ac.uk/research/institutes-and-centres/research-methods/research/the-durham-biostatistics-unit/",
@@ -1515,11 +1535,11 @@
       "id": "durham-bsi31",
       "school": "durham",
       "url": "https://dur.ac.uk/research/institutes-and-centres/biophysical-sciences-institute/about-us/people/",
-      "label": "Biophysical Sciences Institute · Members",
-      "status": "needs_adapter",
-      "count": 0,
+      "label": "Biophysical Sciences Institute · research community",
+      "status": "reference",
+      "count": 73,
       "checked_at": "2026-11-25",
-      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+      "note": "73 位具名跨系成员。核对数学关联的几何、拓扑、统计、物理以及生物学，社群成员身份与院系现聘分开。"
     },
     {
       "id": "durham-cpt-research31",
@@ -1535,11 +1555,21 @@
       "id": "durham-cpt31",
       "school": "durham",
       "url": "https://dur.ac.uk/departments/academic/physics/particle-theory/people/",
-      "label": "Centre for Particle Theory · 3 personnel lists",
+      "label": "Centre for Particle Theory · academic, research and doctoral members",
       "status": "reference",
       "count": 102,
       "checked_at": "2026-11-25",
-      "note": "跨数学和物理两系。原名录为学术 41、科研 18、博士生 43，个别拼写或学生重名保持原样。现任职务和专长继续与个人档案交叉。"
+      "note": "逐行核对 41 学术、18 科研及 43 博士生条目。现任头衔以具名任职来源为准，解开物理与数学其他学校的同名学者。"
+    },
+    {
+      "id": "durham-cs-staff31",
+      "school": "durham",
+      "url": "https://dur.ac.uk/departments/academic/computer-science/about-us/staff/",
+      "label": "Computer Science · official staff roles",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "durham-full-audit-source",
@@ -1622,6 +1652,16 @@
       "note": "研究页的 26 个具名职务／专长项目；按照人员主名册交叉。"
     },
     {
+      "id": "durham-math-current31",
+      "school": "durham",
+      "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/about-us/our-people/",
+      "label": "Mathematical Sciences · current role index",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "durham-math-source",
       "school": "durham",
       "url": "https://www.durham.ac.uk/departments/academic/mathematical-sciences/",
@@ -1630,6 +1670,16 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "机构网站限制了目录请求。"
+    },
+    {
+      "id": "durham-med-bio31",
+      "school": "durham",
+      "url": "https://dur.ac.uk/research/institutes-and-centres/biophysical-sciences-institute/research-profile/mathematical--computational-biology-/",
+      "label": "BSI · Mathematical and Computational Biology",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "durham-phystaff31",
@@ -2420,6 +2470,26 @@
       "count": 0,
       "checked_at": null,
       "note": "尚未取得网页。"
+    },
+    {
+      "id": "glasgow-gta-role31",
+      "school": "glasgow",
+      "url": "https://www.gla.ac.uk/media/Media_526522_smxx.pdf",
+      "label": "Glasgow · Graduate Teaching Assistant appointment role",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "校方公开职位说明要求现为格拉斯哥博士生。对象已与数学系具名助教栏交叉。"
+    },
+    {
+      "id": "glasgow-maclaurin-role31",
+      "school": "glasgow",
+      "url": "https://special.lib.gla.ac.uk/schools/mathematicsstatistics/research/postgraduate/",
+      "label": "Glasgow Mathematics and Statistics · Maclaurin postgraduate funding",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "校方将 Maclaurin 放在研究生资助和博士申请分栏，具名目录对应学生角色。"
     },
     {
       "id": "glasgow-math-source",
@@ -5250,6 +5320,16 @@
       "count": 57,
       "checked_at": "2026-11-25",
       "note": "官方页面读取 faculty.js 中 CTP 分组 57 人（PI 与教师 24，科研与学术岗位 33）。原表混有已变动任职，逐人从现行 Physics 页面交叉确认。"
+    },
+    {
+      "id": "mit-ctp-official-current31",
+      "school": "mit",
+      "url": "https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/people/",
+      "label": "MIT Center for Theoretical Physics · current membership",
+      "status": "reference",
+      "count": 121,
+      "checked_at": "2026-11-25",
+      "note": "MIT Physics 官方现行名录 121 张卡，涵盖教职、博士后、访问、荣休与 In Memoriam 等栏目。两种 Pieter 姓名拼写仅照源保留在研究生补证，未进入教师目录。"
     },
     {
       "id": "mit-ctp-people31",
@@ -430373,19 +430453,6 @@
       "checked_at": "2026-11-23"
     },
     {
-      "url": "https://math.illinois.edu/directory/profile/rguzma1",
-      "cache_id": "profile-a6acd36ba01cfe44",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "https://faculty.math.illinois.edu/~rguzma1/",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
       "url": "https://math.illinois.edu/directory/profile/rsong",
       "cache_id": "profile-b3554385c4a40a00",
       "status": "parsed",
@@ -461677,32 +461744,6 @@
       "checked_at": "2026-11-23"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/aaroncoats/",
-      "cache_id": "profile-c5b755c7a16ea2fa",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/aaronpaterson/",
-      "cache_id": "profile-dc0f0fc1bab4297c",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/abdollahjalilian/",
       "cache_id": "profile-f966bc92f2461b64",
       "status": "parsed",
@@ -461743,19 +461784,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/alexandramidkiff/",
-      "cache_id": "profile-52c36aca6824d442",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/alexbartel/",
       "cache_id": "profile-a0e702acbcebcae5",
       "status": "parsed",
@@ -461784,19 +461812,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/alicjapietrzak/",
-      "cache_id": "profile-f31cf51c0ae93f93",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/analecuona/",
       "cache_id": "profile-f50844926c727fad",
       "status": "parsed",
@@ -461806,32 +461821,6 @@
         "cv": "",
         "publications": "",
         "orcid": "0000-0001-5594-3661",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/andrazcepic/",
-      "cache_id": "profile-a87c40090e8aeb82",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/andrebedell/",
-      "cache_id": "profile-df0b5d9ae4a31ee3",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
@@ -461879,19 +461868,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/annanoelle/",
-      "cache_id": "profile-6ff9ca582addfead",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/annapuskas/",
       "cache_id": "profile-0233fee141ddb774",
       "status": "parsed",
@@ -461904,19 +461880,6 @@
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/antauyang/",
-      "cache_id": "profile-9e1006304aae0ca6",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
     },
     {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/antonizosimov/",
@@ -461947,19 +461910,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/arianenidellemelichrisko/",
-      "cache_id": "profile-54af0ad7445db5cb",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/arielramireztorres/",
       "cache_id": "profile-dfe203467ca9aa27",
       "status": "parsed",
@@ -461971,32 +461921,6 @@
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/arshiatajlilimoghanjoghi/",
-      "cache_id": "profile-1551116e61c92eaf",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/ayeshasarwar/",
-      "cache_id": "profile-148ac792220c5b3a",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
     },
     {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/bennmacdonald/",
@@ -462012,32 +461936,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/bethelagozie/",
-      "cache_id": "profile-c86d10dd51a54978",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/boshixiao/",
-      "cache_id": "profile-ef47b1dd1b3a3a91",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/brendanowens/",
       "cache_id": "profile-0c54de02fc5cbddd",
       "status": "parsed",
@@ -462050,32 +461948,6 @@
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/callummacaulay/",
-      "cache_id": "profile-1f9e649994b9dd08",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/chenshu/",
-      "cache_id": "profile-ad7c2e95bafd0417",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
     },
     {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/chiaradonatone/",
@@ -462128,19 +462000,6 @@
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/christineduffield/",
-      "cache_id": "profile-809edfca5cd6b50a",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
     },
     {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/christopherathorne/",
@@ -462378,20 +462237,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/elkanahmagembenyabuto/",
-      "cache_id": "profile-8a119986689d4022",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "orcid": "0000-0002-9796-6682",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/",
       "cache_id": "profile-e219b173a6e5d0a8",
       "status": "parsed",
@@ -462412,32 +462257,6 @@
       "checked_at": "2026-11-25"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/fengjiaoli/",
-      "cache_id": "profile-2d1db92650ca7fd9",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/francescacoke/",
-      "cache_id": "profile-d6888b9518606873",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/francescogiglio/",
       "cache_id": "profile-37c328db9946be7f",
       "status": "parsed",
@@ -462449,32 +462268,6 @@
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/francisswan/",
-      "cache_id": "profile-c65adb7318cf4109",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/gabrielcorrigan/",
-      "cache_id": "profile-917fc6c23ed686e9",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
     },
     {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/gwynbellamy/",
@@ -462517,58 +462310,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haoshengtan/",
-      "cache_id": "profile-f68efce08bb9c6b2",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/hessahalmaaz/",
-      "cache_id": "profile-5472baf19de19e4f",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/hongjinren/",
-      "cache_id": "profile-87aaa9f3f914d259",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/iainbell/",
-      "cache_id": "profile-5580654f240daea9",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/ianstrachan/",
       "cache_id": "profile-e7d780d86b5eb613",
       "status": "parsed",
@@ -462580,332 +462321,6 @@
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e08593",
-      "cache_id": "profile-d46b1dd03f022856",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e18092",
-      "cache_id": "profile-cde02b43245b0955",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e1809f",
-      "cache_id": "profile-1aa03b7e8cdbd483",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e18590",
-      "cache_id": "profile-c8c8edfe801ac18b",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e18594",
-      "cache_id": "profile-e566ec4d38e471e6",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e18597",
-      "cache_id": "profile-a18f926817f91d6b",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e18794",
-      "cache_id": "profile-9aa9dfab05ef8b25",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e18b97",
-      "cache_id": "profile-68f7a91b6e4ac4ac",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e48a94",
-      "cache_id": "profile-a16464d24fec23a4",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e68692",
-      "cache_id": "profile-1b97cd64f76804ec",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e78096",
-      "cache_id": "profile-192d2c95550c719f",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e78194",
-      "cache_id": "profile-d097ab591a994ef9",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e78293",
-      "cache_id": "profile-cd5cbca706fafdab",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e78294",
-      "cache_id": "profile-5701f0e40eb65623",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e7829e",
-      "cache_id": "profile-3622fc5c7c1c6f14",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e78391",
-      "cache_id": "profile-6ff3860134142554",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e78397",
-      "cache_id": "profile-b888853a958f6d78",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e78494",
-      "cache_id": "profile-ad22dc6af21daed5",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e7869e",
-      "cache_id": "profile-14ea91b0d73afdd6",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9e8e7869f",
-      "cache_id": "profile-297f4e649807cb55",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9eae48391",
-      "cache_id": "profile-d6156740ac3f1c1b",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9eaec8094",
-      "cache_id": "profile-8a73da370dbb48ee",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9eee08397",
-      "cache_id": "profile-369d001399afa507",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4ed9efe28a93",
-      "cache_id": "profile-c5e1b47e859c8006",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/index.html/staffcontact/person/4edee6e28594",
-      "cache_id": "profile-2324ebf60d9274f8",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "orcid": "0000-0001-6265-5043",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
     },
     {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/ioanniskalogridis/",
@@ -462946,19 +462361,6 @@
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/jackbaird/",
-      "cache_id": "profile-f61fe2063b84b2da",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
     },
     {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/jafetbelmontosuna/",
@@ -463052,32 +462454,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/jiamingzhang/",
-      "cache_id": "profile-4087e85d694abeaf",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/jieyang/",
-      "cache_id": "profile-a0df8468f10b3234",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/joachimzacharias/",
       "cache_id": "profile-f30d64564fc76ffc",
       "status": "parsed",
@@ -463118,19 +462494,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/kirstyryman/",
-      "cache_id": "profile-02ad52a7975a69a6",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/leonardomigliorini/",
       "cache_id": "profile-42bdffd816cabe12",
       "status": "parsed",
@@ -463142,45 +462505,6 @@
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/linghaokang/",
-      "cache_id": "profile-44f8412cf3f637a5",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/lornarichardson/",
-      "cache_id": "profile-205680056fddcba2",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/louiseblackman/",
-      "cache_id": "profile-01109e4054509283",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
     },
     {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/lucacrugnola/",
@@ -463210,47 +462534,8 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/majanagler/",
-      "cache_id": "profile-efe70331882dfe68",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/mariamalmudarraalmudarra/",
-      "cache_id": "profile-a8fe25b53f8b4edb",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/marinoazzola/",
       "cache_id": "profile-fb154a42312973de",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/markpencovitch/",
-      "cache_id": "profile-e02cf79c1ec3bfc1",
       "status": "parsed",
       "record": {
         "research": "",
@@ -463302,19 +462587,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/matthewparker/",
-      "cache_id": "profile-7d8202c753ebee7f",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/mayetrigupta/",
       "cache_id": "profile-7e77927cd5a5f809",
       "status": "parsed",
@@ -463326,19 +462598,6 @@
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/meyvizhisasibalasenthilraja/",
-      "cache_id": "profile-2f11b3f9f533e426",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
     },
     {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/michaelwemyss/",
@@ -463420,19 +462679,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/naomiprovan/",
-      "cache_id": "profile-e7e820b8034d66bf",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/nemadean/",
       "cache_id": "profile-444fb291c5cc9148",
       "status": "parsed",
@@ -463485,51 +462731,12 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/petercollinson/",
-      "cache_id": "profile-6d83ee80574b27d3",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/philippbader/",
-      "cache_id": "profile-23a7c391be4080ba",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/philippotto/",
       "cache_id": "profile-022026688711ec0d",
       "status": "parsed",
       "record": {
         "research": "",
         "homepage": "https://philot789.github.io/",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/qianruozhang/",
-      "cache_id": "profile-0195c39030f0515b",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
         "cv": "",
         "publications": "",
         "checked_at": "2026-11-24"
@@ -463577,19 +462784,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/raymondcallaghan/",
-      "cache_id": "profile-e149fca43c6b937c",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/robertteed/",
       "cache_id": "profile-22ac3e43c6c3a7c7",
       "status": "parsed",
@@ -463601,32 +462795,6 @@
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/rodrigoroemig/",
-      "cache_id": "profile-b644ef5448b2df47",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/rorymorrison/",
-      "cache_id": "profile-b5a83e10c6543c93",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
     },
     {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/runlianxia/",
@@ -463656,19 +462824,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/ruthraistrick/",
-      "cache_id": "profile-e31a221af053a854",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/sagestanish/",
       "cache_id": "profile-fb2fdbb486aca8af",
       "status": "parsed",
@@ -463683,47 +462838,8 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/saraeuzzor/",
-      "cache_id": "profile-bef38b986d866e8d",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/sarahdonaldson/",
-      "cache_id": "profile-321aa9a827b54e5c",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/scottrichardson/",
       "cache_id": "profile-f78d3184b544fb12",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/scottwarrander/",
-      "cache_id": "profile-b808d475c11df5cd",
       "status": "parsed",
       "record": {
         "research": "",
@@ -463746,19 +462862,6 @@
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/simeonhellsten/",
-      "cache_id": "profile-8f70dcc928e8ab14",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
     },
     {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/stefandawydiak/",
@@ -463814,45 +462917,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/susannaterron/",
-      "cache_id": "profile-5f79c41cf1a784e4",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/tanishakumari/",
-      "cache_id": "profile-74217657399123df",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/taoshen/",
-      "cache_id": "profile-9780472b06fd6eef",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/tarabrendle/",
       "cache_id": "profile-2651dbc849f44c1b",
       "status": "parsed",
@@ -463866,19 +462930,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/tengweiyeo/",
-      "cache_id": "profile-4aced2d47cadcaeb",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/terezaneocleous/",
       "cache_id": "profile-5a4ff5b42645afce",
       "status": "parsed",
@@ -463890,19 +462941,6 @@
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/theresaortscheidt/",
-      "cache_id": "profile-08070cbe6b672861",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
     },
     {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/tiffanyvlaar/",
@@ -464011,19 +463049,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/willoughbyseago/",
-      "cache_id": "profile-942161d29c136b36",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/xiaochenyang/",
       "cache_id": "profile-926ba551937ce784",
       "status": "parsed",
@@ -464061,91 +463086,6 @@
         "checked_at": "2026-11-24"
       },
       "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/yixueyang/",
-      "cache_id": "profile-c08a63b51fd1a9da",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/yuezhang/",
-      "cache_id": "profile-9ef949dd4ee8f08d",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/yuhezhang/",
-      "cache_id": "profile-a380d1c32b42b525",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/zhengduozhao/",
-      "cache_id": "profile-ce72d77fee64f710",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/zitafulop/",
-      "cache_id": "profile-1003da0dd9b4b8a2",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/zoepronins/",
-      "cache_id": "profile-4e7c33b1b1accd56",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/zubaydahalotaibi/",
-      "cache_id": "profile-16db675d87b00849",
-      "status": "source_error",
-      "record": null,
-      "checked_at": "2026-11-25"
     },
     {
       "url": "https://www.homepages.ucl.ac.uk/~ucahoan/",
@@ -499444,6 +498384,38 @@
       "reason": "OpenAlex 请求或返回数据失败。",
       "checkedAt": "2026-11-23"
     },
+    "barton-zwiebach": {
+      "status": "review_ready",
+      "author_id": "A5057263116",
+      "papers": [
+        {
+          "title": "Minimal-Area Metrics on the Swiss Cross and Punctured Torus",
+          "year": 2020,
+          "url": "https://doi.org/10.1007/s00220-020-03734-z"
+        },
+        {
+          "title": "INTERPOLATING STRING FIELD THEORIES",
+          "year": 1992,
+          "url": "https://doi.org/10.1142/S0217732392000951"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5057263116",
+        "orcid": "https://orcid.org/0000-0001-6504-3210",
+        "url": "https://openalex.org/authors/A5057263116",
+        "authorApiUrl": "https://api.openalex.org/authors/A5057263116",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5057263116,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 147,
+        "works": 298,
+        "citations": 21198,
+        "hIndex": 78,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "bas-janssens": {
       "status": "review_ready",
       "author_id": "A5049294699",
@@ -500205,6 +499177,38 @@
         "works": 131,
         "citations": 5308,
         "hIndex": 38,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "christopher-prior": {
+      "status": "review_ready",
+      "author_id": "A5053788266",
+      "papers": [
+        {
+          "title": "The writhe of open and closed curves",
+          "year": 2006,
+          "url": "https://doi.org/10.1088/0305-4470/39/26/005"
+        },
+        {
+          "title": "The extended polar writhe: a tool for open curves mechanics",
+          "year": 2016,
+          "url": "https://doi.org/10.1088/1751-8113/49/21/215201"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5053788266",
+        "orcid": "https://orcid.org/0000-0003-4015-5106",
+        "url": "https://openalex.org/authors/A5053788266",
+        "authorApiUrl": "https://api.openalex.org/authors/A5053788266",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5053788266,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 39,
+        "works": 54,
+        "citations": 756,
+        "hIndex": 13,
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
       }
@@ -504647,6 +503651,38 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-24"
     },
+    "omid-amini": {
+      "status": "review_ready",
+      "author_id": "A5009621249",
+      "papers": [
+        {
+          "title": "Hodge theory for tropical fans",
+          "year": 2026,
+          "url": "https://doi.org/10.24033/bsmf.2931"
+        },
+        {
+          "title": "Lifting harmonic morphisms I: metrized complexes and Berkovich skeleta",
+          "year": 2015,
+          "url": "https://doi.org/10.1186/s40687-014-0019-0"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5009621249",
+        "orcid": null,
+        "url": "https://openalex.org/authors/A5009621249",
+        "authorApiUrl": "https://api.openalex.org/authors/A5009621249",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5009621249,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 39,
+        "works": 93,
+        "citations": 1322,
+        "hIndex": 21,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "otto-van-koert": {
       "status": "review_ready",
       "author_id": "A5013451902",
@@ -506795,6 +505831,38 @@
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
+    },
+    "thomas-rudelius": {
+      "status": "review_ready",
+      "author_id": "A5016813938",
+      "papers": [
+        {
+          "title": "Gopakumar-Vafa invariants and the Emergent String Conjecture",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/JHEP03(2024)061"
+        },
+        {
+          "title": "Moduli space reconstruction and Weak Gravity",
+          "year": 2023,
+          "url": "https://doi.org/10.1007/JHEP12(2023)134"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5016813938",
+        "orcid": "https://orcid.org/0000-0002-8912-2789",
+        "url": "https://openalex.org/authors/A5016813938",
+        "authorApiUrl": "https://api.openalex.org/authors/A5016813938",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5016813938,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 47,
+        "works": 64,
+        "citations": 3965,
+        "hIndex": 35,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "tianling-jin": {
       "status": "identity_review",
