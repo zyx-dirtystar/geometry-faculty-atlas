@@ -11,11 +11,27 @@
     {
       "id": "princeton",
       "coverage": "sample",
-      "coverageNote": "已解析 2/17 个登记来源，0 条任职或方向待核。 已收录 15 位学者，个人主页 13、CV 10、指标 10。 逐项复核数学系原待核名册，并补查具名跨单位名单：PACM 新入口五页共 62 位、PCTS 教师 11 位、CS 原官方名录 99 位，以及数学系 Associated Faculty、独立 IAS 和 Princeton Gravity Initiative 具名研究。学者主名单新增 Dafermos（另证 Cambridge 任职）、Klainerman、Rodnianski。研究组 Fellows 及部分物理交叉任职仍需逐人确认。作者同名与拆分档案、访问失败或历史书目范围见字段表。",
+      "coverageNote": "已解析 4/25 个登记来源，0 条任职或方向待核。 已收录 19 位学者，个人主页 15、CV 13、指标 12。 逐项复核数学系原待核名册，并补查具名跨单位名单：PACM 新入口五页共 62 位、PCTS 教师 11 位、CS 原官方名录 99 位，以及数学系 Associated Faculty、独立 IAS 和 Princeton Gravity Initiative 具名研究。学者主名单新增 Dafermos（另证 Cambridge 任职）、Klainerman、Rodnianski。研究组 Fellows 及部分物理交叉任职仍需逐人确认。作者同名与拆分档案、访问失败或历史书目范围见字段表。 续核引力项目 15 位联属教师、11 位现行及 3 位历史 Fellows，PCTS 15 位博士后与 Physics 的引力和数学物理专题。校方三年制博士后条款支持 PGI 的职级区分。复核四位分在分析或数论目录的几何学者，并确认 Toronto 现任与历史 Princeton 的归属。Physics 全教师及天体物理的个别入口直接访问受限，相关研究中心的跨院覆盖仍待查全。",
       "rosterLinks": [
         [
           "Mathematics · Associated Faculty",
           "https://www.math.princeton.edu/people/associated-faculty"
+        ],
+        [
+          "PGI Associated Faculty",
+          "https://gravity.princeton.edu/people/associated-faculty-0"
+        ],
+        [
+          "PGI Fellows",
+          "https://gravity.princeton.edu/people/fellows"
+        ],
+        [
+          "PGI Former Fellows",
+          "https://gravity.princeton.edu/people/fellows/former-fellows"
+        ],
+        [
+          "PCTS Postdocs",
+          "https://pcts.princeton.edu/people/postdocs"
         ],
         [
           "Computer Science · Faculty",
@@ -74,15 +90,31 @@
           "https://pcts.princeton.edu/people-0"
         ],
         [
+          "PGI · Postdoctoral appointment scope",
+          "https://gravity.princeton.edu/job-opportunities"
+        ],
+        [
+          "PGI · Mathematics research",
+          "https://gravity.princeton.edu/research/centered-mathematics"
+        ],
+        [
           "Department of Physics · Faculty",
           "https://phy.princeton.edu/people/faculty"
+        ],
+        [
+          "Physics · Cosmology & Gravity Theory",
+          "https://phy.princeton.edu/research/research-areas/cosmology-gravity-theory"
+        ],
+        [
+          "Physics · Mathematical Physics",
+          "https://phy.princeton.edu/research/research-areas/mathematical-physics"
         ],
         [
           "数学系 Faculty Research",
           "https://www.math.princeton.edu/graduate/faculty-research"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-26"
     },
     {
       "id": "paris-saclay",
@@ -44186,6 +44218,84 @@
       "recordStatus": "directory"
     },
     {
+      "id": "alexandru-ionescu",
+      "name": "Alexandru Ionescu",
+      "aliases": [
+        "Alexandru D. Ionescu",
+        "Alex Ionescu"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.math.princeton.edu/people/alexandru-ionescu",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://web.math.princeton.edu/~aionescu/",
+      "homepageStatus": null,
+      "cvUrl": "https://web.math.princeton.edu/~aionescu/CV.html",
+      "cvType": "公开 CV（本人 HTML 履历）",
+      "cvStatus": null,
+      "publicationsUrl": "https://web.math.princeton.edu/~aionescu/publications.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5087591011",
+          "url": "https://openalex.org/authors/A5087591011",
+          "orcid": "https://orcid.org/0000-0003-3268-8172",
+          "authorApiUrl": "https://api.openalex.org/authors/A5087591011",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5087591011,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 71,
+          "works": 126,
+          "citations": 5125,
+          "hIndex": 44,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5087591011",
+      "papers": [
+        {
+          "title": "Global well-posedness of the Benjamin–Ono equation in low-regularity spaces",
+          "year": 2006,
+          "url": "https://doi.org/10.1090/s0894-0347-06-00551-0"
+        },
+        {
+          "title": "Global Schrödinger maps in dimensions d>=2: Small data in the critical Sobolev spaces",
+          "year": 2011,
+          "url": "https://doi.org/10.4007/annals.2011.173.3.5"
+        },
+        {
+          "title": "On the global well-posedness of energy-critical Schrödinger equations in curved spaces",
+          "url": "https://doi.org/10.2140/apde.2012.5.705",
+          "year": 2012
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis of geometric dispersive PDE, Einstein–Klein–Gordon spacetime stability and Schrödinger maps into curved spaces",
+          "url": "https://web.math.princeton.edu/~aionescu/publications.html"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://web.math.princeton.edu/~aionescu/publications.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
       "id": "bhargav-bhatt",
       "name": "Bhargav Bhatt",
       "aliases": [],
@@ -44232,6 +44342,90 @@
         }
       ],
       "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "christopher-skinner",
+      "name": "Christopher Skinner",
+      "aliases": [
+        "Christopher McLean Skinner",
+        "Christopher M. Skinner"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "Professor and Chair",
+          "url": "https://www.math.princeton.edu/people/christopher-skinner",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Number Theory",
+        "Research Field Number Theory"
+      ],
+      "homepage": null,
+      "homepageStatus": "已查校级科研档案和 Princeton 系具名卡，未确认独立本人学术主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查 Princeton 数学系具名卡、校级科研档案和论文入口；未找到可公开读取的独立 CV。",
+      "publicationsUrl": "https://collaborate.princeton.edu/en/persons/christopher-mclean-skinner/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5020694398",
+          "url": "https://openalex.org/authors/A5020694398",
+          "orcid": "https://orcid.org/0009-0001-5278-5108",
+          "authorApiUrl": "https://api.openalex.org/authors/A5020694398",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5020694398,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 30,
+          "works": 46,
+          "citations": 1532,
+          "hIndex": 21,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5020694398",
+      "papers": [
+        {
+          "title": "The Birch and Swinnerton–Dyer formula for elliptic curves of analytic rank one",
+          "url": "https://doi.org/10.4310/cjm.2017.v5.n3.a2",
+          "year": 2017
+        },
+        {
+          "title": "A converse to a theorem of Gross, Zagier, and Kolyvagin",
+          "year": 2020,
+          "url": "https://doi.org/10.4007/annals.2020.191.2.1"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Number Theory",
+          "url": "https://www.math.princeton.edu/graduate/faculty-research"
+        },
+        {
+          "text": "Arithmetic algebraic geometry, p-adic geometry of Shimura varieties, arithmetic of elliptic curves and abelian varieties, Iwasawa theory",
+          "url": "https://collaborate.princeton.edu/en/persons/christopher-mclean-skinner/"
+        },
+        {
+          "text": "Number Theory / Research Field Number Theory",
+          "url": "https://www.math.princeton.edu/people/christopher-skinner"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://collaborate.princeton.edu/en/persons/christopher-mclean-skinner/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -44396,7 +44590,7 @@
           "title": "Professor of Mathematics",
           "url": "https://www.math.princeton.edu/people/igor-rodnianski",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -44408,10 +44602,10 @@
         "wave equations and stability of Einstein vacuum spacetimes"
       ],
       "homepage": null,
-      "homepageStatus": "已查数学系与 Princeton Gravity Initiative 具名页及校科研门户，未发现独立学术主页。",
+      "homepageStatus": "已查 Princeton 数学系、PGI、Princeton 成果库和 Clay。可确认校方具名档案，未发现独立可读取本人学术主页。",
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "Princeton Gravity Initiative 链接的 cvshort.pdf 返 HTTP 404；复查数学系和机构成果页未发现可访问替代。",
+      "cvStatus": "PGI 具名卡链接的旧短版 CV 直接访问返回 HTTP 404；网页索引保留旧版。已查 Princeton 个人档案、Clay 和机构成果库，未找到已单独验证可下载的替代 CV。",
       "publicationsUrl": "https://collaborate.princeton.edu/en/persons/igor-rodnianski/",
       "publicationCounts": [],
       "opportunities": [],
@@ -44456,7 +44650,7 @@
           "url": "https://collaborate.princeton.edu/en/persons/igor-rodnianski/"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -44527,6 +44721,67 @@
         }
       ],
       "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "manjul-bhargava",
+      "name": "Manjul Bhargava",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.math.princeton.edu/people/manjul-bhargava",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Number Theory",
+        "Research Field Number Theory"
+      ],
+      "homepage": null,
+      "homepageStatus": "已查数学系人员卡、美国科学院具名履历、Clay 生平和 CV。找到院系档案与存档 CV，未定位独立当前学术主页。",
+      "cvUrl": "https://www.claymath.org/library/research_award/Bhargava/CV.pdf",
+      "cvType": "公开学术 CV（Clay 存档，历史版本）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.claymath.org/library/research_award/Bhargava/CV.pdf",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "Princeton 与椭圆曲线两项 DOI 一致。A5150286139 和 A5150364041 另有反向姓名 MathSciNet 摘录，OpenAlex 无 DOI 或原题，无法判断是否重复。Clay 的公开 CV 是历史书目，校方及 NAS 具名档案未提供当前完整书目。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5034940872",
+      "papers": [
+        {
+          "title": "Binary quartic forms having bounded invariants, and the boundedness of the average rank of elliptic curves",
+          "url": "https://doi.org/10.4007/annals.2015.181.1.3",
+          "year": 2015
+        },
+        {
+          "title": "Ternary cubic forms having bounded invariants, and the existence of a positive proportion of elliptic curves having rank 0",
+          "url": "https://doi.org/10.4007/annals.2015.181.2.4",
+          "year": 2015
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Number Theory",
+          "url": "https://www.math.princeton.edu/graduate/faculty-research"
+        },
+        {
+          "text": "Arithmetic algebraic geometry of rational points and moduli of elliptic curves, algebraic number theory and arithmetic invariant theory",
+          "url": "https://www.nasonline.org/directory-entry/manjul-bhargava-sccnqo/"
+        },
+        {
+          "text": "Number Theory / Research Field Number Theory",
+          "url": "https://www.math.princeton.edu/people/manjul-bhargava"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -44957,6 +45212,69 @@
         }
       ],
       "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "shou-wu-zhang",
+      "name": "Shou-Wu Zhang",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.math.princeton.edu/people/shou-wu-zhang",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Number Theory",
+        "Research Field Number Theory"
+      ],
+      "homepage": "https://web.math.princeton.edu/~shouwu/",
+      "homepageStatus": null,
+      "cvUrl": "https://web.math.princeton.edu/%7Eshouwu/CV.pdf",
+      "cvType": "公开 CV（本人简版）",
+      "cvStatus": null,
+      "publicationsUrl": "https://web.math.princeton.edu/%7Eshouwu/publications.pdf",
+      "publicationCounts": [
+        {
+          "value": 27,
+          "scope": "本人公开发表表所列截至 2024 年有刊名和出版信息的期刊论文，按题名核对并排除会议篇、书章、专著和手稿",
+          "url": "https://web.math.princeton.edu/%7Eshouwu/publications.pdf",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "Princeton 主档同名但只收录部分旧代表作。合作预印本 Rank of normal functions and Betti strata 单独关联 A5123493966；另有材料方向同名。按本人完整可见 PDF 分核截至 2024 年期刊论文。引用汇总待拆档。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5111963847",
+      "papers": [
+        {
+          "title": "Height pairings for algebraic cycles on the product of a curve and a surface",
+          "url": "https://doi.org/10.2140/tunis.2024.6.481",
+          "year": 2024
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Number Theory",
+          "url": "https://www.math.princeton.edu/graduate/faculty-research"
+        },
+        {
+          "text": "Arithmetic algebraic geometry, Arakelov geometry, positive line bundles, heights of algebraic cycles, Shimura curves and algebraic dynamical systems",
+          "url": "https://www.amacad.org/person/shou-wu-zhang"
+        },
+        {
+          "text": "Number Theory / Research Field Number Theory",
+          "url": "https://www.math.princeton.edu/people/shou-wu-zhang"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {

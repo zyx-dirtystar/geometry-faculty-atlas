@@ -8492,6 +8492,46 @@
       "note": "复核数学系单列的跨聘人员入口，从主名单、研究方向和正式职务交叉检查。"
     },
     {
+      "id": "princeton-branch26-associates",
+      "school": "princeton",
+      "url": "https://gravity.princeton.edu/people/associated-faculty-0",
+      "label": "PGI Associated Faculty",
+      "status": "reference",
+      "count": 15,
+      "checked_at": "2026-11-26",
+      "note": "与数学、物理和天体物理院系职务交叉。"
+    },
+    {
+      "id": "princeton-branch26-fellows",
+      "school": "princeton",
+      "url": "https://gravity.princeton.edu/people/fellows",
+      "label": "PGI Fellows",
+      "status": "parsed",
+      "count": 11,
+      "checked_at": "2026-11-26",
+      "note": "核对 9 位 Associate Research Scholar 和 2 位 Visiting Research Scholar。PGI 招聘说明把同一职级用于其三年期博士后项目。"
+    },
+    {
+      "id": "princeton-branch26-former",
+      "school": "princeton",
+      "url": "https://gravity.princeton.edu/people/fellows/former-fellows",
+      "label": "PGI Former Fellows",
+      "status": "reference",
+      "count": 3,
+      "checked_at": "2026-11-26",
+      "note": "旧项目成员身份与当前任职分开。"
+    },
+    {
+      "id": "princeton-branch26-pcts-postdocs",
+      "school": "princeton",
+      "url": "https://pcts.princeton.edu/people/postdocs",
+      "label": "PCTS Postdocs",
+      "status": "parsed",
+      "count": 15,
+      "checked_at": "2026-11-26",
+      "note": "项目个人名单中的博士后分栏。"
+    },
+    {
       "id": "princeton-cs-b34",
       "school": "princeton",
       "url": "https://www.cs.princeton.edu/people/faculty",
@@ -8632,6 +8672,26 @@
       "note": "公开教师页核录 11 份对应职位，区分物理、工程、天体物理、化学、分子生物的主聘；相关几何与引力方向另据具名来源。"
     },
     {
+      "id": "princeton-pgi-employment26",
+      "school": "princeton",
+      "url": "https://gravity.princeton.edu/job-opportunities",
+      "label": "PGI · Postdoctoral appointment scope",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "明确三年制 Postdoctoral Fellowship 与 Associate Research Scholar 职级。"
+    },
+    {
+      "id": "princeton-pgi-math26",
+      "school": "princeton",
+      "url": "https://gravity.princeton.edu/research/centered-mathematics",
+      "label": "PGI · Mathematics research",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "研究页列现任与曾任数学引力学者，以最新院系任命和本人资料逐人复核。"
+    },
+    {
       "id": "princeton-phys-b34",
       "school": "princeton",
       "url": "https://phy.princeton.edu/people/faculty",
@@ -8640,6 +8700,26 @@
       "count": 0,
       "checked_at": null,
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "princeton-physics-cosmology26",
+      "school": "princeton",
+      "url": "https://phy.princeton.edu/research/research-areas/cosmology-gravity-theory",
+      "label": "Physics · Cosmology & Gravity Theory",
+      "status": "reference",
+      "count": 11,
+      "checked_at": "2026-11-26",
+      "note": "公开分栏 6 位教师、1 位联属、4 位研究人员；学生名单不作学术聘任依据。"
+    },
+    {
+      "id": "princeton-physics-math26",
+      "school": "princeton",
+      "url": "https://phy.princeton.edu/research/research-areas/mathematical-physics",
+      "label": "Physics · Mathematical Physics",
+      "status": "reference",
+      "count": 2,
+      "checked_at": "2026-11-26",
+      "note": "核对两位学术职务，研究组常列数学物理与统计力学。"
     },
     {
       "id": "princeton-research",
@@ -287186,6 +287266,422 @@
       }
     },
     {
+      "source": "princeton-branch26-fellows",
+      "person_key": "abhishekhegadekumbaleraveesha",
+      "school": "princeton",
+      "record": {
+        "name": "Abhishek Hegade Kumbale Raveesha",
+        "title": "Associate Research Scholar",
+        "research": "",
+        "profile": "https://gravity.princeton.edu/people/abhishek-hegade-kumbale-raveesha",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://gravity.princeton.edu/people/fellows",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-fellows",
+      "person_key": "alekbedroya",
+      "school": "princeton",
+      "record": {
+        "name": "Alek Bedroya",
+        "title": "Associate Research Scholar",
+        "research": "",
+        "profile": "https://gravity.princeton.edu/people/alek-bedroya",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://gravity.princeton.edu/people/fellows",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-fellows",
+      "person_key": "elbaalonsomonsalve",
+      "school": "princeton",
+      "record": {
+        "name": "Elba Alonso-Monsalve",
+        "title": "Associate Research Scholar",
+        "research": "",
+        "profile": "https://gravity.princeton.edu/people/elba-alonso-monsalve",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://gravity.princeton.edu/people/fellows",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-fellows",
+      "person_key": "georgenwong",
+      "school": "princeton",
+      "record": {
+        "name": "George N. Wong",
+        "title": "Associate Research Scholar",
+        "research": "",
+        "profile": "https://gravity.princeton.edu/people/george-n-wong",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://gravity.princeton.edu/people/fellows",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-fellows",
+      "person_key": "hamedmasaood",
+      "school": "princeton",
+      "record": {
+        "name": "Hamed Masaood",
+        "title": "Associate Research Scholar",
+        "research": "",
+        "profile": "https://gravity.princeton.edu/people/hamed-masaood",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://gravity.princeton.edu/people/fellows",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-fellows",
+      "person_key": "jaimeredondoyuste",
+      "school": "princeton",
+      "record": {
+        "name": "Jaime Redondo Yuste",
+        "title": "Associate Research Scholar",
+        "research": "",
+        "profile": "https://gravity.princeton.edu/people/jaime-redondo-yuste",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://gravity.princeton.edu/people/fellows",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-fellows",
+      "person_key": "jonathansorce",
+      "school": "princeton",
+      "record": {
+        "name": "Jonathan Sorce",
+        "title": "Associate Research Scholar",
+        "research": "",
+        "profile": "https://gravity.princeton.edu/people/jonathan-sorce",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://gravity.princeton.edu/people/fellows",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-fellows",
+      "person_key": "maximegadioux",
+      "school": "princeton",
+      "record": {
+        "name": "Maxime Gadioux",
+        "title": "Associate Research Scholar",
+        "research": "",
+        "profile": "https://gravity.princeton.edu/people/maxime-gadioux",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://gravity.princeton.edu/people/fellows",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-fellows",
+      "person_key": "noahmiller",
+      "school": "princeton",
+      "record": {
+        "name": "Noah Miller",
+        "title": "Visiting Research Scholar",
+        "research": "",
+        "profile": "https://gravity.princeton.edu/people/noah-miller",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://gravity.princeton.edu/people/fellows",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-fellows",
+      "person_key": "noazilberman",
+      "school": "princeton",
+      "record": {
+        "name": "Noa Zilberman",
+        "title": "Associate Research Scholar",
+        "research": "",
+        "profile": "https://gravity.princeton.edu/people/noa-zilberman",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://gravity.princeton.edu/people/fellows",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-fellows",
+      "person_key": "zimosun",
+      "school": "princeton",
+      "record": {
+        "name": "Zimo Sun",
+        "title": "Visiting Research Scholar",
+        "research": "",
+        "profile": "https://gravity.princeton.edu/people/zimo-sun",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://gravity.princeton.edu/people/fellows",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-pcts-postdocs",
+      "person_key": "ashleybransgrove",
+      "school": "princeton",
+      "record": {
+        "name": "Ashley Bransgrove",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://pcts.princeton.edu/people/postdocs",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-pcts-postdocs",
+      "person_key": "benjaminsorkin",
+      "school": "princeton",
+      "record": {
+        "name": "Benjamin Sorkin",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://pcts.princeton.edu/people/postdocs",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-pcts-postdocs",
+      "person_key": "colinscheibner",
+      "school": "princeton",
+      "record": {
+        "name": "Colin Scheibner",
+        "title": "Affiliated Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://pcts.princeton.edu/people/postdocs",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-pcts-postdocs",
+      "person_key": "janalbert",
+      "school": "princeton",
+      "record": {
+        "name": "Jan Albert",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://pcts.princeton.edu/people/postdocs",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-pcts-postdocs",
+      "person_key": "justinberman",
+      "school": "princeton",
+      "record": {
+        "name": "Justin Berman",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://pcts.princeton.edu/people/postdocs",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-pcts-postdocs",
+      "person_key": "matthewforslund",
+      "school": "princeton",
+      "record": {
+        "name": "Matthew Forslund",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://pcts.princeton.edu/people/postdocs",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-pcts-postdocs",
+      "person_key": "miguelgoncalves",
+      "school": "princeton",
+      "record": {
+        "name": "Miguel Gonçalves",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://pcts.princeton.edu/people/postdocs",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-pcts-postdocs",
+      "person_key": "minahimwich",
+      "school": "princeton",
+      "record": {
+        "name": "Mina Himwich",
+        "title": "PCTS Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://pcts.princeton.edu/people/postdocs",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-pcts-postdocs",
+      "person_key": "nicholaskaaz",
+      "school": "princeton",
+      "record": {
+        "name": "Nicholas Kaaz",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://pcts.princeton.edu/people/postdocs",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-pcts-postdocs",
+      "person_key": "nicholasodea",
+      "school": "princeton",
+      "record": {
+        "name": "Nicholas O'Dea",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://pcts.princeton.edu/people/postdocs",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-pcts-postdocs",
+      "person_key": "nikolasclaussen",
+      "school": "princeton",
+      "record": {
+        "name": "Nikolas Claussen",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://pcts.princeton.edu/people/postdocs",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-pcts-postdocs",
+      "person_key": "oliviersimon",
+      "school": "princeton",
+      "record": {
+        "name": "Olivier Simon",
+        "title": "PCTS Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://pcts.princeton.edu/people/postdocs",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-pcts-postdocs",
+      "person_key": "takamoripark",
+      "school": "princeton",
+      "record": {
+        "name": "Takamori Park",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://pcts.princeton.edu/people/postdocs",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-pcts-postdocs",
+      "person_key": "yoonsookim",
+      "school": "princeton",
+      "record": {
+        "name": "Yoonsoo Kim",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://pcts.princeton.edu/people/postdocs",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "princeton-branch26-pcts-postdocs",
+      "person_key": "zhenyuxiao",
+      "school": "princeton",
+      "record": {
+        "name": "Zhenyu Xiao",
+        "title": "Affiliated Postdoctoral Fellow",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://pcts.princeton.edu/people/postdocs",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
       "source": "princeton-math",
       "person_key": "aaronnaber",
       "school": "princeton",
@@ -430666,6 +431162,31 @@
       "checked_at": "2026-11-24"
     },
     {
+      "url": "https://collaborate.princeton.edu/en/persons/christopher-mclean-skinner/",
+      "cache_id": "profile-ad3f3158d46e0368",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://collaborate.princeton.edu/en/persons/christopher-mclean-skinner/publications/",
+        "publication_counts": [
+          {
+            "value": 43,
+            "scope": "机构 Pure 档案的 Research output 总数",
+            "url": "https://collaborate.princeton.edu/en/persons/christopher-mclean-skinner/publications/"
+          },
+          {
+            "value": 40,
+            "scope": "机构 Pure 档案的 Article 分类",
+            "url": "https://collaborate.princeton.edu/en/persons/christopher-mclean-skinner/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontojournal%2Farticle"
+          }
+        ],
+        "checked_at": "2026-11-26"
+      },
+      "checked_at": "2026-11-26"
+    },
+    {
       "url": "https://collaborate.princeton.edu/en/persons/igor-rodnianski/",
       "cache_id": "profile-ceeab070241ef905",
       "status": "parsed",
@@ -466430,6 +466951,32 @@
       "checked_at": "2026-11-24"
     },
     {
+      "url": "https://web.math.princeton.edu/~aionescu/",
+      "cache_id": "profile-57c3b20c948f5bf1",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "https://web.math.princeton.edu/~aionescu/CV.html",
+        "publications": "https://web.math.princeton.edu/~aionescu/publications.html",
+        "checked_at": "2026-11-26"
+      },
+      "checked_at": "2026-11-26"
+    },
+    {
+      "url": "https://web.math.princeton.edu/~aionescu/publications.html",
+      "cache_id": "profile-103efa6ffd45badc",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-26"
+      },
+      "checked_at": "2026-11-26"
+    },
+    {
       "url": "https://web.math.princeton.edu/~chenyang/",
       "cache_id": "profile-0d2ebb23fe91a2b0",
       "status": "parsed",
@@ -466519,6 +467066,32 @@
         "checked_at": "2026-11-25"
       },
       "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://web.math.princeton.edu/~shouwu/",
+      "cache_id": "profile-7baffa72eb92616d",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "https://web.math.princeton.edu/%7Eshouwu/CV.pdf",
+        "publications": "https://web.math.princeton.edu/%7Eshouwu/publications.pdf",
+        "checked_at": "2026-11-26"
+      },
+      "checked_at": "2026-11-26"
+    },
+    {
+      "url": "https://web.math.princeton.edu/~spalasek/index.html",
+      "cache_id": "profile-aa3f54bfc0e811d5",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-26"
+      },
+      "checked_at": "2026-11-26"
     },
     {
       "url": "https://web.math.princeton.edu/~syachang/",
@@ -486189,9 +486762,9 @@
         "homepage": "",
         "cv": "",
         "publications": "",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-26"
       },
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-26"
     },
     {
       "url": "https://www.math.princeton.edu/people/david-gabai",
@@ -486306,9 +486879,9 @@
         "homepage": "",
         "cv": "",
         "publications": "",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-26"
       },
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-26"
     },
     {
       "url": "https://www.math.princeton.edu/people/marc-gilles",
@@ -486514,9 +487087,9 @@
         "homepage": "https://web.math.princeton.edu/~shouwu/",
         "cv": "",
         "publications": "",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-26"
       },
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-26"
     },
     {
       "url": "https://www.math.princeton.edu/people/stan-palasek",
@@ -515714,6 +516287,38 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "alexandru-ionescu": {
+      "status": "review_ready",
+      "author_id": "A5087591011",
+      "papers": [
+        {
+          "title": "Global well-posedness of the Benjamin–Ono equation in low-regularity spaces",
+          "year": 2006,
+          "url": "https://doi.org/10.1090/s0894-0347-06-00551-0"
+        },
+        {
+          "title": "Global Schrödinger maps in dimensions d>=2: Small data in the critical Sobolev spaces",
+          "year": 2011,
+          "url": "https://doi.org/10.4007/annals.2011.173.3.5"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5087591011",
+        "url": "https://openalex.org/authors/A5087591011",
+        "orcid": "https://orcid.org/0000-0003-3268-8172",
+        "authorApiUrl": "https://api.openalex.org/authors/A5087591011",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5087591011,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-26",
+        "articles": 71,
+        "works": 126,
+        "citations": 5125,
+        "hIndex": 44,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "alexei-kovalev": {
       "status": "review_ready",
       "author_id": "A5076403961",
@@ -517734,6 +518339,38 @@
         "works": 54,
         "citations": 756,
         "hIndex": 13,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "christopher-skinner": {
+      "status": "review_ready",
+      "author_id": "A5020694398",
+      "papers": [
+        {
+          "title": "The Birch and Swinnerton–Dyer formula for elliptic curves of analytic rank one",
+          "year": 2017,
+          "url": "https://doi.org/10.4310/cjm.2017.v5.n3.a2"
+        },
+        {
+          "title": "A converse to a theorem of Gross, Zagier, and Kolyvagin",
+          "year": 2020,
+          "url": "https://doi.org/10.4007/annals.2020.191.2.1"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5020694398",
+        "url": "https://openalex.org/authors/A5020694398",
+        "orcid": "https://orcid.org/0009-0001-5278-5108",
+        "authorApiUrl": "https://api.openalex.org/authors/A5020694398",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5020694398,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-26",
+        "articles": 30,
+        "works": 46,
+        "citations": 1532,
+        "hIndex": 21,
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
       }
@@ -521822,6 +522459,13 @@
       "checkedAt": "2026-11-25",
       "candidate_url": "https://openalex.org/authors/A5011684933"
     },
+    "manjul-bhargava": {
+      "status": "identity_review",
+      "reason": "Princeton 与椭圆曲线两项 DOI 一致。A5150286139 和 A5150364041 另有反向姓名 MathSciNet 摘录，OpenAlex 无 DOI 或原题，无法判断是否重复。Clay 的公开 CV 是历史书目，校方及 NAS 具名档案未提供当前完整书目。",
+      "author_id": "A5034940872",
+      "checkedAt": "2026-11-26",
+      "candidate_url": "https://openalex.org/authors/A5034940872"
+    },
     "manuel-cesar-rosales-lombardo": {
       "status": "review_ready",
       "author_id": "A5008012446",
@@ -525257,6 +525901,13 @@
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5089776899"
+    },
+    "shou-wu-zhang": {
+      "status": "identity_review",
+      "reason": "Princeton 主档同名但只收录部分旧代表作。合作预印本 Rank of normal functions and Betti strata 单独关联 A5123493966；另有材料方向同名。按本人完整可见 PDF 分核截至 2024 年期刊论文。引用汇总待拆档。",
+      "author_id": "A5111963847",
+      "checkedAt": "2026-11-26",
+      "candidate_url": "https://openalex.org/authors/A5111963847"
     },
     "shouhei-honda": {
       "status": "identity_review",
