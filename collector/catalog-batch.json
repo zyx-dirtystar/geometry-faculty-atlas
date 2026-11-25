@@ -11,8 +11,12 @@
     {
       "id": "princeton",
       "coverage": "sample",
-      "coverageNote": "已解析 2/8 个登记来源，0 条任职或方向待核。 已收录 12 位学者，个人主页 11、CV 7、指标 4。  原数学系 22 条待核逐人匹配具名主页、成果与任职。IAS 为独立机构，显式双聘与研究学者单列。新增 PACM、CS、物理和 PCTS 入口，各跨院名册仍继续核对。",
+      "coverageNote": "已解析 2/17 个登记来源，0 条任职或方向待核。 已收录 15 位学者，个人主页 13、CV 10、指标 10。 逐项复核数学系原待核名册，并补查具名跨单位名单：PACM 新入口五页共 62 位、PCTS 教师 11 位、CS 原官方名录 99 位，以及数学系 Associated Faculty、独立 IAS 和 Princeton Gravity Initiative 具名研究。学者主名单新增 Dafermos（另证 Cambridge 任职）、Klainerman、Rodnianski。研究组 Fellows 及部分物理交叉任职仍需逐人确认。作者同名与拆分档案、访问失败或历史书目范围见字段表。",
       "rosterLinks": [
+        [
+          "Mathematics · Associated Faculty",
+          "https://www.math.princeton.edu/people/associated-faculty"
+        ],
         [
           "Computer Science · Faculty",
           "https://www.cs.princeton.edu/people/faculty"
@@ -22,8 +26,16 @@
           "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/mathematics"
         ],
         [
+          "Princeton Gravity Initiative · named mathematical candidates",
+          "https://gravity.princeton.edu/people"
+        ],
+        [
           "Institute for Advanced Study · School of Mathematics (separate institution)",
           "https://www.ias.edu/math"
+        ],
+        [
+          "IAS School of Mathematics · Faculty and Emeriti",
+          "https://www.ias.edu/math/people/faculty"
         ],
         [
           "数学系 People",
@@ -34,8 +46,32 @@
           "https://www.pacm.princeton.edu/people/faculty"
         ],
         [
+          "PACM · All Faculty (1)",
+          "https://www.pacm.princeton.edu/directory/all-faculty"
+        ],
+        [
+          "PACM · All Faculty (2)",
+          "https://www.pacm.princeton.edu/directory/all-faculty?page=1"
+        ],
+        [
+          "PACM · All Faculty (3)",
+          "https://www.pacm.princeton.edu/directory/all-faculty?page=2"
+        ],
+        [
+          "PACM · All Faculty (4)",
+          "https://www.pacm.princeton.edu/directory/all-faculty?page=3"
+        ],
+        [
+          "PACM · All Faculty (5)",
+          "https://www.pacm.princeton.edu/directory/all-faculty?page=4"
+        ],
+        [
           "Princeton Center for Theoretical Science · People",
           "https://pcts.princeton.edu/people"
+        ],
+        [
+          "PCTS · Faculty and Fellows",
+          "https://pcts.princeton.edu/people-0"
         ],
         [
           "Department of Physics · Faculty",
@@ -327,7 +363,7 @@
     {
       "id": "cambridge",
       "coverage": "sample",
-      "coverageNote": "已解析 10/21 个登记来源，145 条任职或方向待核。 已收录 15 位学者，个人主页 5、CV 5、指标 2。 核对 DPMMS 57 位学者、62 位研究人员及 25 位荣休／离任，以及 DAMTP 73 位学者、91 位研究人员及 34 位荣休。两系分别对照研究组及 2027 年具名申请导师专长。独立核实跨系岗位、联合研究单位、大学学院及固定期研究人员。 本批逐名核对 177 个校内具名页面，69 个主页标签中一处是 Scholar 引用页，另查 68 个个人主页，36 个返回可读。核实列作 Academic Research Staff 的博士生、固定期博士后、学院研究员和教师，未披露具体方向的继续调查。",
+      "coverageNote": "已解析 10/21 个登记来源，145 条任职或方向待核。 已收录 16 位学者，个人主页 6、CV 6、指标 3。 核对 DPMMS 57 位学者、62 位研究人员及 25 位荣休／离任，以及 DAMTP 73 位学者、91 位研究人员及 34 位荣休。两系分别对照研究组及 2027 年具名申请导师专长。独立核实跨系岗位、联合研究单位、大学学院及固定期研究人员。 本批逐名核对 177 个校内具名页面，69 个主页标签中一处是 Scholar 引用页，另查 68 个个人主页，36 个返回可读。核实列作 Academic Research Staff 的博士生、固定期博士后、学院研究员和教师，未披露具体方向的继续调查。",
       "rosterLinks": [
         [
           "DAMTP · Academic Staff",
@@ -7394,7 +7430,7 @@
       ],
       "homepage": "https://web.math.princeton.edu/~chenyang/",
       "cvUrl": null,
-      "cvStatus": "已查具名院系页面及所链接的学者主页，当前未找到可独立核实的公开 CV。",
+      "cvStatus": "已查普林斯顿具名教授档案、校属研究主页和公开搜索。可读个人主页公开发表及获奖信息，未见独立 CV。",
       "bioUrl": "https://www.math.princeton.edu/news/department-welcomes-chenyang-xu-professor-mathematics",
       "publicationsUrl": "https://web.math.princeton.edu/~chenyang/",
       "metrics": [
@@ -7448,6 +7484,51 @@
         }
       ],
       "relevance": "如果需要讨论 Fano 紧化的代数侧，可以从 K-稳定性、奇点和双有理方法切入。"
+    },
+    {
+      "checkedAt": "2026-11-25",
+      "id": "janos-kollar",
+      "name": "János Kollár",
+      "initials": "JK",
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "教授",
+          "url": "https://www.math.princeton.edu/people/janos-kollar",
+          "type": "primary",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "双有理几何",
+        "奇点",
+        "模空间",
+        "极小模型"
+      ],
+      "homepage": "https://web.math.princeton.edu/~kollar/",
+      "cvUrl": "https://web.math.princeton.edu/~kollar/FromMyHomePage/janosvita2022.pdf",
+      "publicationsUrl": "https://web.math.princeton.edu/~kollar/",
+      "metrics": [],
+      "identityNote": "候选主档含同名作者的金属表面能论文，另有拆分档案。累计指标暂留待核。",
+      "identityUrl": "https://openalex.org/authors/A5051485543",
+      "papers": [
+        {
+          "title": "Families of Varieties of General Type",
+          "year": 2023,
+          "url": "https://doi.org/10.1017/9781009346115"
+        },
+        {
+          "title": "Birational Geometry of Algebraic Varieties",
+          "year": 1998,
+          "url": "https://doi.org/10.1017/CBO9780511662560"
+        }
+      ],
+      "relevance": "双有理几何、奇点和配对的代数工具，适合核对补空间问题的代数前提。",
+      "cvType": "公开学术 CV（2022-03）"
     },
     {
       "checkedAt": "2026-11-25",
@@ -42763,7 +42844,7 @@
         {
           "schoolId": "princeton",
           "department": "数学系",
-          "title": "Fernholz Joint Professor · Princeton University and Institute for Advanced Study",
+          "title": "Fernholz Joint Professor of Mathematics · Princeton and IAS",
           "url": "https://www.math.princeton.edu/people/bhargav-bhatt",
           "type": "primary",
           "checkedAt": "2026-11-25"
@@ -42781,10 +42862,16 @@
       "publicationsUrl": "https://www.math.ias.edu/~bhatt/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "用两篇具名 DOI 核对分别指向不同的 OpenAlex 作者档案。现任 Princeton 与 IAS 双聘已核，Google Scholar 公开搜索未取得可唯一对应的汇总。总数待核。",
+      "identityNote": "IAS／Princeton 联聘及数学论文可核。OpenAlex 的 Prisms and prismatic cohomology 已核具名作者但作者 ID 空，姓名搜索首选 A5046096733 混入程序分析和软件工作，不能作为可信汇总。",
       "metrics": [],
-      "identityUrl": null,
-      "papers": [],
+      "identityUrl": "https://openalex.org/authors/A5046096733",
+      "papers": [
+        {
+          "title": "Prisms and prismatic cohomology",
+          "year": 2022,
+          "url": "https://doi.org/10.4007/annals.2022.196.3.5"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic geometry, arithmetic geometry, p-adic geometry and commutative algebra",
@@ -42894,18 +42981,130 @@
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "已查具名院系页面及所链接的学者主页，当前未找到可独立核实的公开 CV。",
+      "cvStatus": "逐查校方具名任职、本人学术页和 Sorbonne 博士目录，个人页列 Papers、Selected Talks 和博士档案，未见独立公开 CV。",
       "publicationsUrl": "https://web.math.princeton.edu/~gb5927/",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 4,
+          "url": "https://web.math.princeton.edu/~gb5927/",
+          "scope": "个人学术页面 Papers 完整公开分栏；4 个不同 arXiv ID，PDF 与预印本合并",
+          "checkedAt": "2026-11-25"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5058037467",
+          "url": "https://openalex.org/authors/A5058037467",
+          "orcid": null,
+          "authorApiUrl": "https://api.openalex.org/authors/A5058037467",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5058037467,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 0,
+          "works": 5,
+          "citations": 108,
+          "hIndex": 3,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5058037467",
+      "papers": [
+        {
+          "title": "On the $p$-adic pro-étale cohomology of Drinfeld symmetric spaces",
+          "year": 2021,
+          "url": "https://doi.org/10.48550/arxiv.2110.10683"
+        },
+        {
+          "title": "Rational $p$-adic Hodge theory for rigid-analytic varieties",
+          "year": 2023,
+          "url": "https://doi.org/10.48550/arxiv.2306.06100"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Arithmetic algebraic geometry and p-adic analytic geometry",
           "url": "https://web.math.princeton.edu/~gb5927/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://web.math.princeton.edu/~gb5927/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "igor-rodnianski",
+      "name": "Igor Rodnianski",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.math.princeton.edu/people/igor-rodnianski",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Lorentzian differential geometry",
+        "geometric analysis",
+        "wave equations and stability of Einstein vacuum spacetimes"
+      ],
+      "homepage": null,
+      "homepageStatus": "已查数学系与 Princeton Gravity Initiative 具名页及校科研门户，未发现独立学术主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "Princeton Gravity Initiative 链接的 cvshort.pdf 返 HTTP 404；复查数学系和机构成果页未发现可访问替代。",
+      "publicationsUrl": "https://collaborate.princeton.edu/en/persons/igor-rodnianski/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5018500576",
+          "url": "https://openalex.org/authors/A5018500576",
+          "orcid": null,
+          "authorApiUrl": "https://api.openalex.org/authors/A5018500576",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5018500576,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 77,
+          "works": 135,
+          "citations": 9034,
+          "hIndex": 52,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5018500576",
+      "papers": [
+        {
+          "title": "The global stability of Minkowski space-time in harmonic gauge",
+          "year": 2010,
+          "url": "https://doi.org/10.4007/annals.2010.171.1401"
+        },
+        {
+          "title": "Global Existence for the Einstein Vacuum Equations in Wave Coordinates",
+          "year": 2005,
+          "url": "https://doi.org/10.1007/s00220-004-1281-6"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Lorentzian differential geometry; geometric analysis; wave equations and stability of Einstein vacuum spacetimes",
+          "url": "https://gravity.princeton.edu/people/igor-rodnianski"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://collaborate.princeton.edu/en/persons/igor-rodnianski/"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -42982,6 +43181,87 @@
       "recordStatus": "directory"
     },
     {
+      "id": "mihalis-dafermos",
+      "name": "Mihalis Dafermos",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "Henry Burchard Fine Professor of Mathematics",
+          "url": "https://www.math.princeton.edu/people/mihalis-dafermos",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        },
+        {
+          "schoolId": "cambridge",
+          "department": "Department of Pure Mathematics and Mathematical Statistics",
+          "title": "Lowndean Professor of Astronomy and Geometry",
+          "url": "https://www.maths.cam.ac.uk/person/md384",
+          "checkedAt": "2026-11-25",
+          "type": "secondary"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Lorentzian differential geometry",
+        "geometric analysis"
+      ],
+      "homepage": "https://web.math.princeton.edu/~dafermos/",
+      "homepageStatus": null,
+      "cvUrl": "https://web.math.princeton.edu/~dafermos/cv.html",
+      "cvType": "公开网页学术 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://web.math.princeton.edu/~dafermos/publications.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5088258705",
+          "url": "https://openalex.org/authors/A5088258705",
+          "orcid": "https://orcid.org/0009-0002-8358-5317",
+          "authorApiUrl": "https://api.openalex.org/authors/A5088258705",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5088258705,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 36,
+          "works": 73,
+          "citations": 4745,
+          "hIndex": 32,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5088258705",
+      "papers": [
+        {
+          "title": "The red‐shift effect and radiation decay on black hole spacetimes",
+          "year": 2009,
+          "url": "https://doi.org/10.1002/cpa.20281"
+        },
+        {
+          "title": "The linear stability of the Schwarzschild solution to gravitational perturbations",
+          "year": 2019,
+          "url": "https://doi.org/10.4310/acta.2019.v222.n1.a1"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Lorentzian differential geometry; black hole spacetimes and stability of solutions of the Einstein equations; geometric analysis",
+          "url": "https://web.math.princeton.edu/~dafermos/research/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://web.math.princeton.edu/~dafermos/publications.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "mingjia-zhang",
       "name": "Mingjia Zhang",
       "aliases": [],
@@ -43003,17 +43283,55 @@
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "已查具名院系页面及所链接的学者主页，当前未找到可独立核实的公开 CV。",
-      "publicationsUrl": "https://collaborate.princeton.edu/en/persons/mingjia-zhang/publications/",
-      "publicationCounts": [],
+      "cvStatus": "已查数学系具名任职和校科研门户，可读的档案含出版与研究标签，未见独立公开 CV。",
+      "publicationsUrl": "https://collaborate.princeton.edu/en/persons/mingjia-zhang/",
+      "publicationCounts": [
+        {
+          "value": 3,
+          "scope": "机构 Pure 档案的 Article 分类",
+          "url": "https://collaborate.princeton.edu/en/persons/mingjia-zhang/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontojournal%2Farticle",
+          "checkedAt": "2026-11-25"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5111160925",
+          "url": "https://openalex.org/authors/A5111160925",
+          "orcid": "https://orcid.org/0009-0000-5339-7564",
+          "authorApiUrl": "https://api.openalex.org/authors/A5111160925",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5111160925,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 2,
+          "works": 4,
+          "citations": 68,
+          "hIndex": 4,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5111160925",
+      "papers": [
+        {
+          "title": "Igusa stacks and the cohomology of Shimura varieties",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s00222-026-01457-x"
+        },
+        {
+          "title": "On a conjecture of Pappas and Rapoport",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s00208-026-03450-4"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Arithmetic algebraic geometry, p-adic Shimura varieties and local-global compatibility",
+          "url": "https://collaborate.princeton.edu/en/persons/mingjia-zhang/"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://collaborate.princeton.edu/en/persons/mingjia-zhang/"
         }
       ],
@@ -43046,13 +43364,26 @@
       "cvUrl": "https://web.math.princeton.edu/~nmk/newcv.pdf",
       "cvType": null,
       "cvStatus": null,
-      "publicationsUrl": "https://web.math.princeton.edu/WebCV/KatzBIB.pdf",
-      "publicationCounts": [],
+      "publicationsUrl": "https://web.math.princeton.edu/~nmk/katzbiblioOct282011.pdf",
+      "publicationCounts": [
+        {
+          "value": 73,
+          "url": "https://web.math.princeton.edu/~nmk/katzbiblioOct282011.pdf",
+          "scope": "截至 2011-10-28 归档书目中明确标注 Journal Article 的独立 MathSciNet MR 条目；重复 MR 号合并，其他未分型条目不计",
+          "checkedAt": "2026-11-25"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "已用校方任职和椭圆曲线模空间论文匹配 A5083659499。同任职的 A5112357838 收入本人合著 Zeta 函数及分章，跨档有重叠。暂保留分类清楚的个人归档范围。",
       "metrics": [],
-      "identityUrl": null,
-      "papers": [],
+      "identityUrl": "https://openalex.org/authors/A5083659499",
+      "papers": [
+        {
+          "title": "Nilpotent connections and the monodromy theorem",
+          "year": 1970,
+          "url": "https://doi.org/10.1007/BF02684688"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic geometry and arithmetic geometry, étale sheaves, exponential sums and monodromy",
@@ -43065,15 +43396,18 @@
     {
       "id": "paul-c-yang",
       "name": "Paul C. Yang",
-      "aliases": [],
+      "aliases": [
+        "Paul Yang",
+        "Paul C.-P. Yang"
+      ],
       "affiliations": [
         {
           "schoolId": "princeton",
           "department": "数学系",
-          "title": "Professor",
+          "title": "Professor of Mathematics",
           "url": "https://www.math.princeton.edu/people/paul-c-yang",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -43083,18 +43417,45 @@
         "Partial Differential Equations",
         "Differential Geometry Partial Differential Equations"
       ],
-      "homepage": "http://web.math.princeton.edu/~yang/",
+      "homepage": "https://web.math.princeton.edu/~yang/",
       "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvUrl": "https://web.math.princeton.edu/~yang/CV.pdf",
+      "cvType": "公开旧版学术 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://web.math.princeton.edu/~yang/BIB18.pdf",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 请求或返回数据失败。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5018898817",
+          "url": "https://openalex.org/authors/A5018898817",
+          "orcid": "https://orcid.org/0000-0001-5600-0526",
+          "authorApiUrl": "https://api.openalex.org/authors/A5018898817",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5018898817,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 94,
+          "works": 136,
+          "citations": 5843,
+          "hIndex": 39,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5018898817",
+      "papers": [
+        {
+          "title": "Prescribing Gaussian curvature on S2",
+          "year": 1987,
+          "url": "https://doi.org/10.1007/bf02392560"
+        },
+        {
+          "title": "Conformal deformation of metrics on $S^2$",
+          "year": 1988,
+          "url": "https://doi.org/10.4310/jdg/1214441783"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Partial Differential Equations",
@@ -43103,9 +43464,13 @@
         {
           "text": "Differential Geometry Partial Differential Equations / Research Field Differential Geometry Partial Differential Equations",
           "url": "https://www.math.princeton.edu/people/paul-c-yang"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://web.math.princeton.edu/~yang/BIB18.pdf"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -43130,18 +43495,116 @@
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "已查具名院系页面及所链接的学者主页，当前未找到可独立核实的公开 CV。",
-      "publicationsUrl": null,
-      "publicationCounts": [],
+      "cvStatus": "已查院系具名页及本人 Home、Publications 分栏，未发现具名 CV。",
+      "publicationsUrl": "https://sites.google.com/view/ravi-shankar-math/publications",
+      "publicationCounts": [
+        {
+          "value": 27,
+          "url": "https://sites.google.com/view/ravi-shankar-math/publications",
+          "scope": "个人 Publications 全页 2013–2026 已刊期刊条目；按题名和 DOI 合并预印本与发表版，包含已在 Analysis & PDE 出刊一项",
+          "checkedAt": "2026-11-25"
+        },
+        {
+          "value": 2,
+          "url": "https://sites.google.com/view/ravi-shankar-math/publications",
+          "scope": "个人 Publications 全页中 2014 年已刊会议论文，按题名去重",
+          "checkedAt": "2026-11-25"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "以 Princeton 具名任职和两篇 Hessian DOI 核对。OpenAlex 两条论文的 Ravi Shankar 作者 ID 均空；名称结果混有供应链、医学和材料同名。已核作者清单的分类论文数，累计引用待核。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Hessian estimates for the sigma-2 equation in dimension four",
+          "year": 2025,
+          "url": "https://doi.org/10.4007/annals.2025.201.2.4"
+        },
+        {
+          "title": "Hessian estimates for special Lagrangian equation by doubling",
+          "year": 2026,
+          "url": "https://doi.org/10.2140/apde.2026.19.339"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Geometric analysis, differential geometry and nonlinear elliptic PDE for special Lagrangian graphs",
           "url": "https://sites.google.com/view/ravi-shankar-math/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "sergiu-klainerman",
+      "name": "Sergiu Klainerman",
+      "aliases": [
+        "Sergiù Klainerman"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "princeton",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.math.princeton.edu/people/sergiu-klainerman",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Lorentzian differential geometry and geometric analysis"
+      ],
+      "homepage": "https://web.math.princeton.edu/~seri/homepage/",
+      "homepageStatus": null,
+      "cvUrl": "https://web.math.princeton.edu/~seri/homepage/SergiuCV.pdf",
+      "cvType": "公开学术 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://web.math.princeton.edu/~seri/homepage/SergiuBIB.pdf",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5032659729",
+          "url": "https://openalex.org/authors/A5032659729",
+          "orcid": "https://orcid.org/0000-0002-8090-0505",
+          "authorApiUrl": "https://api.openalex.org/authors/A5032659729",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5032659729,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 96,
+          "works": 198,
+          "citations": 11441,
+          "hIndex": 51,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5032659729",
+      "papers": [
+        {
+          "title": "The Global Nonlinear Stability of the Minkowski Space (PMS-41)",
+          "year": 1994,
+          "url": "https://doi.org/10.1515/9781400863174"
+        },
+        {
+          "title": "Uniform decay estimates and the lorentz invariance of the classical wave equation",
+          "year": 1985,
+          "url": "https://doi.org/10.1002/cpa.3160380305"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Lorentzian differential geometry and geometric analysis; nonlinear waves and stability of solutions to Einstein equations",
+          "url": "https://gravity.princeton.edu/research/centered-mathematics"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://web.math.princeton.edu/~seri/homepage/SergiuBIB.pdf"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -43155,10 +43618,10 @@
         {
           "schoolId": "princeton",
           "department": "数学系",
-          "title": "Professor",
+          "title": "Professor of Mathematics",
           "url": "https://www.math.princeton.edu/people/sun-yung-alice-chang",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -43176,10 +43639,16 @@
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
+      "identityNote": "Princeton 具名主页与 A5112519455 匹配，A5112241770 也收同校同人的共形几何作品（10.2307/3062131），累计指标待区分。",
       "metrics": [],
-      "identityUrl": null,
-      "papers": [],
+      "identityUrl": "https://openalex.org/authors/A5112519455",
+      "papers": [
+        {
+          "title": "Fractional Laplacian in conformal geometry",
+          "year": 2011,
+          "url": "https://doi.org/10.1016/j.aim.2010.07.016"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Geometric Analysis",
@@ -43194,7 +43663,7 @@
           "url": "https://www.math.princeton.edu/people/sun-yung-alice-chang"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {

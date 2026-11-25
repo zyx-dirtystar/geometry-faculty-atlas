@@ -7972,6 +7972,16 @@
       "note": "机构网站限制了目录请求。"
     },
     {
+      "id": "princeton-associated26",
+      "school": "princeton",
+      "url": "https://www.math.princeton.edu/people/associated-faculty",
+      "label": "Mathematics · Associated Faculty",
+      "status": "reference",
+      "count": 7,
+      "checked_at": "2026-11-25",
+      "note": "复核数学系单列的跨聘人员入口，从主名单、研究方向和正式职务交叉检查。"
+    },
+    {
       "id": "princeton-cs-b34",
       "school": "princeton",
       "url": "https://www.cs.princeton.edu/people/faculty",
@@ -7992,6 +8002,16 @@
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
+      "id": "princeton-gravity26",
+      "school": "princeton",
+      "url": "https://gravity.princeton.edu/people",
+      "label": "Princeton Gravity Initiative · named mathematical candidates",
+      "status": "reference",
+      "count": 5,
+      "checked_at": "2026-11-25",
+      "note": "具名成员页与数学研究页交叉，五个候选按院系任职对照。Fellows 另有独立职位分栏，其余人员仍逐名核对。"
+    },
+    {
       "id": "princeton-ias-diff-b34",
       "school": "princeton",
       "url": "https://www.ias.edu/math",
@@ -8000,6 +8020,16 @@
       "count": 0,
       "checked_at": null,
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "princeton-ias-faculty26",
+      "school": "princeton",
+      "url": "https://www.ias.edu/math/people/faculty",
+      "label": "IAS School of Mathematics · Faculty and Emeriti",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-25",
+      "note": "机构自有教师与荣休为独立名单。联合教授 Bhargav Bhatt 有具名校职，访问人员以 Princeton 任职入口区分。"
     },
     {
       "id": "princeton-math",
@@ -8022,6 +8052,56 @@
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
+      "id": "princeton-pacm26-1",
+      "school": "princeton",
+      "url": "https://www.pacm.princeton.edu/directory/all-faculty",
+      "label": "PACM · All Faculty (1)",
+      "status": "reference",
+      "count": 15,
+      "checked_at": "2026-11-25",
+      "note": "读到最后分页；主聘、跨聘和荣休以个人具名页及在系名单为准。结合院系目录和研究兴趣 PDF 检查几何方向。"
+    },
+    {
+      "id": "princeton-pacm26-2",
+      "school": "princeton",
+      "url": "https://www.pacm.princeton.edu/directory/all-faculty?page=1",
+      "label": "PACM · All Faculty (2)",
+      "status": "reference",
+      "count": 15,
+      "checked_at": "2026-11-25",
+      "note": "读到最后分页；主聘、跨聘和荣休以个人具名页及在系名单为准。结合院系目录和研究兴趣 PDF 检查几何方向。"
+    },
+    {
+      "id": "princeton-pacm26-3",
+      "school": "princeton",
+      "url": "https://www.pacm.princeton.edu/directory/all-faculty?page=2",
+      "label": "PACM · All Faculty (3)",
+      "status": "reference",
+      "count": 15,
+      "checked_at": "2026-11-25",
+      "note": "读到最后分页；主聘、跨聘和荣休以个人具名页及在系名单为准。结合院系目录和研究兴趣 PDF 检查几何方向。"
+    },
+    {
+      "id": "princeton-pacm26-4",
+      "school": "princeton",
+      "url": "https://www.pacm.princeton.edu/directory/all-faculty?page=3",
+      "label": "PACM · All Faculty (4)",
+      "status": "reference",
+      "count": 15,
+      "checked_at": "2026-11-25",
+      "note": "读到最后分页；主聘、跨聘和荣休以个人具名页及在系名单为准。结合院系目录和研究兴趣 PDF 检查几何方向。"
+    },
+    {
+      "id": "princeton-pacm26-5",
+      "school": "princeton",
+      "url": "https://www.pacm.princeton.edu/directory/all-faculty?page=4",
+      "label": "PACM · All Faculty (5)",
+      "status": "reference",
+      "count": 2,
+      "checked_at": "2026-11-25",
+      "note": "读到最后分页；主聘、跨聘和荣休以个人具名页及在系名单为准。结合院系目录和研究兴趣 PDF 检查几何方向。"
+    },
+    {
       "id": "princeton-pcts-b34",
       "school": "princeton",
       "url": "https://pcts.princeton.edu/people",
@@ -8030,6 +8110,16 @@
       "count": 0,
       "checked_at": null,
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "princeton-pcts-faculty26",
+      "school": "princeton",
+      "url": "https://pcts.princeton.edu/people-0",
+      "label": "PCTS · Faculty and Fellows",
+      "status": "reference",
+      "count": 11,
+      "checked_at": "2026-11-25",
+      "note": "公开教师页核录 11 份对应职位，区分物理、工程、天体物理、化学、分子生物的主聘；相关几何与引力方向另据具名来源。"
     },
     {
       "id": "princeton-phys-b34",
@@ -424770,6 +424860,51 @@
       "checked_at": "2026-11-24"
     },
     {
+      "url": "https://collaborate.princeton.edu/en/persons/igor-rodnianski/",
+      "cache_id": "profile-ceeab070241ef905",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://collaborate.princeton.edu/en/persons/igor-rodnianski/publications/",
+        "publication_counts": [
+          {
+            "value": 74,
+            "scope": "机构 Pure 档案的 Research output 总数",
+            "url": "https://collaborate.princeton.edu/en/persons/igor-rodnianski/publications/"
+          },
+          {
+            "value": 67,
+            "scope": "机构 Pure 档案的 Article 分类",
+            "url": "https://collaborate.princeton.edu/en/persons/igor-rodnianski/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontojournal%2Farticle"
+          }
+        ],
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://collaborate.princeton.edu/en/persons/mingjia-zhang/",
+      "cache_id": "profile-8e22737fe908f060",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "publication_counts": [
+          {
+            "value": 3,
+            "scope": "机构 Pure 档案的 Article 分类",
+            "url": "https://collaborate.princeton.edu/en/persons/mingjia-zhang/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontojournal%2Farticle"
+          }
+        ],
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
       "url": "https://combgeo.org/en/klimenko-maxim/",
       "cache_id": "profile-0f45addec5eb34c5",
       "status": "parsed",
@@ -451766,6 +451901,19 @@
       "checked_at": "2026-11-24"
     },
     {
+      "url": "https://sites.google.com/view/ravi-shankar-math/publications",
+      "cache_id": "profile-f881d1bf26cec181",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://sites.google.com/view/ravi-shankar-math/publications",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
       "url": "https://sites.google.com/view/reyersjamaar/home",
       "cache_id": "profile-5b6777afae7cb1bb",
       "status": "parsed",
@@ -460201,11 +460349,121 @@
       "checked_at": "2026-11-24"
     },
     {
+      "url": "https://web.math.princeton.edu/~chenyang/",
+      "cache_id": "profile-0d2ebb23fe91a2b0",
+      "status": "parsed",
+      "record": {
+        "research": "Higher Dimensional Geometry",
+        "homepage": "",
+        "cv": "",
+        "publications": "http://math.princeton.edu/~chenyang/publicationcho.html",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://web.math.princeton.edu/~dafermos/",
+      "cache_id": "profile-5bdaee4dd43d445b",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "https://web.math.princeton.edu/~dafermos/cv.html",
+        "publications": "https://web.math.princeton.edu/~dafermos/publications.html",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://web.math.princeton.edu/~dafermos/publications.html",
+      "cache_id": "profile-ae6f67f116c9d9d8",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "https://web.math.princeton.edu/~dafermos/cv.html",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://web.math.princeton.edu/~gb5927/",
+      "cache_id": "profile-9abf4346b83977d0",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://web.math.princeton.edu/~kollar/",
+      "cache_id": "profile-96282be452c5da42",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "https://web.math.princeton.edu/~kollar/FromMyHomePage/janosvita2022.pdf",
+        "publications": "https://web.math.princeton.edu/~kollar/FromMyHomePage/janosbib2022.pdf",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://web.math.princeton.edu/~nmk/",
+      "cache_id": "profile-f0c4d9a6481818f3",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://web.math.princeton.edu/~seri/homepage/",
+      "cache_id": "profile-e22426d192546181",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "https://web.math.princeton.edu/~seri/homepage/SergiuCV.pdf",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
       "url": "https://web.math.princeton.edu/~syachang/",
       "cache_id": "profile-b8ddbad24742279f",
       "status": "parsed",
-      "record": null,
-      "checked_at": "2026-11-24"
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "https://web.math.princeton.edu/~syachang/cv.pdf",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://web.math.princeton.edu/~yang/",
+      "cache_id": "profile-d80b7ac8d19fb7fc",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "https://web.math.princeton.edu/~yang/CV.pdf",
+        "publications": "https://web.math.princeton.edu/~yang/BIB18.pdf",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
     },
     {
       "url": "https://web.mathi.uni-heidelberg.de/physmath/walcher",
@@ -479902,9 +480160,9 @@
         "homepage": "",
         "cv": "",
         "publications": "",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-25"
       },
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-25"
     },
     {
       "url": "https://www.math.princeton.edu/people/jacob-shapiro",
@@ -510530,8 +510788,10 @@
     },
     "bhargav-bhatt": {
       "status": "identity_review",
-      "reason": "同一人的论文指向不同作者档案。",
-      "checkedAt": "2026-11-25"
+      "reason": "IAS／Princeton 联聘及数学论文可核。OpenAlex 的 Prisms and prismatic cohomology 已核具名作者但作者 ID 空，姓名搜索首选 A5046096733 混入程序分析和软件工作，不能作为可信汇总。",
+      "author_id": "A5046096733",
+      "checkedAt": "2026-11-25",
+      "candidate_url": "https://openalex.org/authors/A5046096733"
     },
     "bjoern-bringmann": {
       "status": "review_ready",
@@ -512430,6 +512690,38 @@
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5087740280"
     },
+    "guido-bosco": {
+      "status": "review_ready",
+      "author_id": "A5058037467",
+      "papers": [
+        {
+          "title": "On the $p$-adic pro-étale cohomology of Drinfeld symmetric spaces",
+          "year": 2021,
+          "url": "https://doi.org/10.48550/arxiv.2110.10683"
+        },
+        {
+          "title": "Rational $p$-adic Hodge theory for rigid-analytic varieties",
+          "year": 2023,
+          "url": "https://doi.org/10.48550/arxiv.2306.06100"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5058037467",
+        "url": "https://openalex.org/authors/A5058037467",
+        "orcid": null,
+        "authorApiUrl": "https://api.openalex.org/authors/A5058037467",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5058037467,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 0,
+        "works": 5,
+        "citations": 108,
+        "hIndex": 3,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "guillermo-henry": {
       "status": "review_ready",
       "author_id": "A5020868858",
@@ -512853,6 +513145,38 @@
       "reason": "论文作者姓名没有唯一匹配。",
       "checkedAt": "2026-11-24"
     },
+    "igor-rodnianski": {
+      "status": "review_ready",
+      "author_id": "A5018500576",
+      "papers": [
+        {
+          "title": "The global stability of Minkowski space-time in harmonic gauge",
+          "year": 2010,
+          "url": "https://doi.org/10.4007/annals.2010.171.1401"
+        },
+        {
+          "title": "Global Existence for the Einstein Vacuum Equations in Wave Coordinates",
+          "year": 2005,
+          "url": "https://doi.org/10.1007/s00220-004-1281-6"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5018500576",
+        "url": "https://openalex.org/authors/A5018500576",
+        "orcid": null,
+        "authorApiUrl": "https://api.openalex.org/authors/A5018500576",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5018500576,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 77,
+        "works": 135,
+        "citations": 9034,
+        "hIndex": 52,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "igor-zelenko": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
@@ -513161,21 +513485,9 @@
     },
     "janos-kollar": {
       "status": "identity_review",
-      "reason": "已用公开身份信息交叉核对 OpenAlex。高引样本混入金属表面能研究，需区分材料学同名作者。累计数暂不收录。",
+      "reason": "A5051485543 的高引条目混入金属表面能，A5113561863 另收本人双有理作品。已读本人 2022 年归档书目，175 个编号含合列论文、专著与其他文献，尚未核出可比较期刊篇数。",
       "author_id": "A5051485543",
-      "papers": [
-        {
-          "title": "Families of Varieties of General Type",
-          "year": 2023,
-          "url": "https://doi.org/10.1017/9781009346115"
-        },
-        {
-          "title": "Birational Geometry of Algebraic Varieties",
-          "year": 1998,
-          "url": "https://doi.org/10.1017/CBO9780511662560"
-        }
-      ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "candidate_url": "https://openalex.org/authors/A5051485543"
     },
     "jarod-daniel-alper": {
@@ -515538,6 +515850,38 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "mihalis-dafermos": {
+      "status": "review_ready",
+      "author_id": "A5088258705",
+      "papers": [
+        {
+          "title": "The red‐shift effect and radiation decay on black hole spacetimes",
+          "year": 2009,
+          "url": "https://doi.org/10.1002/cpa.20281"
+        },
+        {
+          "title": "The linear stability of the Schwarzschild solution to gravitational perturbations",
+          "year": 2019,
+          "url": "https://doi.org/10.4310/acta.2019.v222.n1.a1"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5088258705",
+        "url": "https://openalex.org/authors/A5088258705",
+        "orcid": "https://orcid.org/0009-0002-8358-5317",
+        "authorApiUrl": "https://api.openalex.org/authors/A5088258705",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5088258705,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 36,
+        "works": 73,
+        "citations": 4745,
+        "hIndex": 32,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "mihnea-popa": {
       "status": "review_ready",
       "author_id": "A5101685824",
@@ -515686,6 +516030,38 @@
         "works": 32,
         "citations": 1356,
         "hIndex": 11,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "mingjia-zhang": {
+      "status": "review_ready",
+      "author_id": "A5111160925",
+      "papers": [
+        {
+          "title": "Igusa stacks and the cohomology of Shimura varieties",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s00222-026-01457-x"
+        },
+        {
+          "title": "On a conjecture of Pappas and Rapoport",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s00208-026-03450-4"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5111160925",
+        "url": "https://openalex.org/authors/A5111160925",
+        "orcid": "https://orcid.org/0009-0000-5339-7564",
+        "authorApiUrl": "https://api.openalex.org/authors/A5111160925",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5111160925,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 2,
+        "works": 4,
+        "citations": 68,
+        "hIndex": 4,
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
       }
@@ -515932,6 +516308,13 @@
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
+    },
+    "nicholas-katz": {
+      "status": "identity_review",
+      "reason": "已用校方任职和椭圆曲线模空间论文匹配 A5083659499。同任职的 A5112357838 收入本人合著 Zeta 函数及分章，跨档有重叠。暂保留分类清楚的个人归档范围。",
+      "author_id": "A5083659499",
+      "checkedAt": "2026-11-25",
+      "candidate_url": "https://openalex.org/authors/A5083659499"
     },
     "nicolo-sibilla": {
       "status": "identity_review",
@@ -516205,9 +516588,36 @@
       }
     },
     "paul-c-yang": {
-      "status": "source_error",
-      "reason": "OpenAlex 请求或返回数据失败。",
-      "checkedAt": "2026-11-23"
+      "status": "review_ready",
+      "author_id": "A5018898817",
+      "papers": [
+        {
+          "title": "Prescribing Gaussian curvature on S2",
+          "year": 1987,
+          "url": "https://doi.org/10.1007/bf02392560"
+        },
+        {
+          "title": "Conformal deformation of metrics on $S^2$",
+          "year": 1988,
+          "url": "https://doi.org/10.4310/jdg/1214441783"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5018898817",
+        "url": "https://openalex.org/authors/A5018898817",
+        "orcid": "https://orcid.org/0000-0001-5600-0526",
+        "authorApiUrl": "https://api.openalex.org/authors/A5018898817",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5018898817,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 94,
+        "works": 136,
+        "citations": 5843,
+        "hIndex": 39,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "paul-feehan": {
       "status": "identity_review",
@@ -517352,6 +517762,11 @@
       "reason": "论文作者姓名没有唯一匹配。",
       "checkedAt": "2026-11-24"
     },
+    "ravi-shankar": {
+      "status": "identity_review",
+      "reason": "以 Princeton 具名任职和两篇 Hessian DOI 核对。OpenAlex 两条论文的 Ravi Shankar 作者 ID 均空；名称结果混有供应链、医学和材料同名。已核作者清单的分类论文数，累计引用待核。",
+      "checkedAt": "2026-11-25"
+    },
     "ravi-vakil": {
       "status": "review_ready",
       "author_id": "A5013856193",
@@ -517880,6 +518295,38 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
     },
+    "sergiu-klainerman": {
+      "status": "review_ready",
+      "author_id": "A5032659729",
+      "papers": [
+        {
+          "title": "The Global Nonlinear Stability of the Minkowski Space (PMS-41)",
+          "year": 1994,
+          "url": "https://doi.org/10.1515/9781400863174"
+        },
+        {
+          "title": "Uniform decay estimates and the lorentz invariance of the classical wave equation",
+          "year": 1985,
+          "url": "https://doi.org/10.1002/cpa.3160380305"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5032659729",
+        "url": "https://openalex.org/authors/A5032659729",
+        "orcid": "https://orcid.org/0000-0002-8090-0505",
+        "authorApiUrl": "https://api.openalex.org/authors/A5032659729",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5032659729,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 96,
+        "works": 198,
+        "citations": 11441,
+        "hIndex": 51,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "shane-kelly": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
@@ -518265,8 +518712,10 @@
     },
     "sun-yung-alice-chang": {
       "status": "identity_review",
-      "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "checkedAt": "2026-11-23"
+      "reason": "Princeton 具名主页与 A5112519455 匹配，A5112241770 也收同校同人的共形几何作品（10.2307/3062131），累计指标待区分。",
+      "author_id": "A5112519455",
+      "checkedAt": "2026-11-25",
+      "candidate_url": "https://openalex.org/authors/A5112519455"
     },
     "sungyoon-cho": {
       "status": "identity_review",

@@ -279,7 +279,13 @@
     "david-mckinnon": "A5103278747",
     "alberto-s-cattaneo": "A5062981324",
     "andrew-kresch": "A5071870056",
-    "joseph-ayoub": "A5060128574"
+    "joseph-ayoub": "A5060128574",
+    "guido-bosco": "A5058037467",
+    "mingjia-zhang": "A5111160925",
+    "paul-c-yang": "A5018898817",
+    "mihalis-dafermos": "A5088258705",
+    "sergiu-klainerman": "A5032659729",
+    "igor-rodnianski": "A5018500576"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -317,7 +323,7 @@
     "evgeny-shinder": "同一人的论文指向不同作者档案。",
     "igor-nikolaev": "论文作者姓名没有唯一匹配。",
     "joseph-d-rabinoff": "论文作者姓名没有唯一匹配。",
-    "janos-kollar": "已用公开身份信息交叉核对 OpenAlex。高引样本混入金属表面能研究，需区分材料学同名作者。累计数暂不收录。",
+    "janos-kollar": "A5051485543 的高引条目混入金属表面能，A5113561863 另收本人双有理作品。已读本人 2022 年归档书目，175 个编号含合列论文、专著与其他文献，尚未核出可比较期刊篇数。",
     "mengwei-hu": "同一人的论文指向不同作者档案。",
     "nikita-karpenko": "论文作者姓名没有唯一匹配。",
     "paul-johnson": "同一人的论文指向不同作者档案。",
@@ -366,7 +372,7 @@
     "kevin-mcgerty": "OpenAlex 的档案虽命中牛津和公开 ORCID，但与神经科学的 Kevin McGerty 混入同一结果。在 Oxford 具名发表记录核对时发现纹状体和多巴胺作品不属于所核几何学者，论文总数与累计被引待核。",
     "richard-earl": "Oxford 具名档案与历史代数几何 DOI 已核，OpenAlex 查询未返回可采信作者档案。",
     "luc-nguyen": "尝试牛津具名记录和 DOI 交叉匹配 OpenAlex，返回 404。仍保留牛津官网可读发表列表。",
-    "bhargav-bhatt": "用两篇具名 DOI 核对分别指向不同的 OpenAlex 作者档案。现任 Princeton 与 IAS 双聘已核，Google Scholar 公开搜索未取得可唯一对应的汇总。总数待核。",
+    "bhargav-bhatt": "IAS／Princeton 联聘及数学论文可核。OpenAlex 的 Prisms and prismatic cohomology 已核具名作者但作者 ID 空，姓名搜索首选 A5046096733 混入程序分析和软件工作，不能作为可信汇总。",
     "dmitry-kubrak": "用 IAS 公开 ORCID 查询 OpenAlex 返回 404。已补录本人展示的论文与预印本共 12 项及范围，累计被引待核。",
     "konstantinos-kartas": "以官方数学期刊 DOI 查询，OpenAlex 未返回唯一作者。已补录本人展示的 Research papers 共 9 项及范围，累计被引待核。",
     "luigi-lombardi": "两篇本人研究方向匹配的 DOI 在 OpenAlex 指向两个作者档案。Google Scholar 公开搜索未核唯一身份，保留本人发表页及公开 CV。",
@@ -395,7 +401,16 @@
     "alberto-s-cattaneo": "校属完整发表页提供 ORCID，现任与 SwissMAP 具名档案及两篇 Poisson／量子规范论文一致。另一个同名档案收录教育研究。",
     "christoph-kehle": "UZH 本人 CV 与 MIT 休假职位共同确认当前和历史任职。两篇具名黑洞几何作品与作者档案匹配。",
     "andrew-kresch": "UZH 任职与具名 Artin stacks、Brauer groups 论文以及高引样本一致。",
-    "joseph-ayoub": "UZH 本人署名发表表、两个 realization／Grothendieck 运算 DOI 和机构匹配。近名作者含石油工程，与此作者区分。"
+    "joseph-ayoub": "UZH 本人署名发表表、两个 realization／Grothendieck 运算 DOI 和机构匹配。近名作者含石油工程，与此作者区分。",
+    "guido-bosco": "具名 Princeton 任职和本人主页的两篇 arXiv 记录一致。OpenAlex article 独立查询实际为 0，作者分栏的预印本数另存。",
+    "mingjia-zhang": "Princeton 与 Imperial 任职／经历、Igusa stacks 和 Pappas–Rapoport 的具名论文一致，排除同名材料和电工程。",
+    "paul-c-yang": "Princeton 任职、本人书目及 Chang 合作的曲率和共形变形代表作对应；排除同名医学和植物作者。",
+    "mihalis-dafermos": "Princeton 与 Cambridge 任职及黑洞衰减和 Schwarzschild 稳定性 DOI 匹配。",
+    "sergiu-klainerman": "官方任职、本人发表表与 Minkowski 稳定性和 Lorentz 波动估计高引样本匹配。",
+    "igor-rodnianski": "Princeton 具名聘任和 Einstein 真空方程／Minkowski 稳定性著作 DOI 匹配，相关分析样本一致.",
+    "nicholas-katz": "已用校方任职和椭圆曲线模空间论文匹配 A5083659499。同任职的 A5112357838 收入本人合著 Zeta 函数及分章，跨档有重叠。暂保留分类清楚的个人归档范围。",
+    "sun-yung-alice-chang": "Princeton 具名主页与 A5112519455 匹配，A5112241770 也收同校同人的共形几何作品（10.2307/3062131），累计指标待区分。",
+    "ravi-shankar": "以 Princeton 具名任职和两篇 Hessian DOI 核对。OpenAlex 两条论文的 Ravi Shankar 作者 ID 均空；名称结果混有供应链、医学和材料同名。已核作者清单的分类论文数，累计引用待核。"
   },
   "evidence": {
     "ravi-vakil": [
