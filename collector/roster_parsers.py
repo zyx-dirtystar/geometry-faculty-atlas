@@ -251,6 +251,13 @@ def split_role(title, region=None):
         return "other"
     if re.search(r"\b(?:J\.\s*J\.\s*Sylvester|Szeg[oöő]) Assistant Professor\b", title, re.I):
         return "other"
+    if region == "法国":
+        if re.fullmatch(r"(?:direct(?:eur|rice)|charg[ée]e?) de recherche(?:\s+CNRS)?", title, re.I):
+            return "faculty"
+        if re.fullmatch(r"visit(?:eur|euse)|membre associ[ée]e?|chercheu(?:r|se) b[ée]n[ée]vole", title, re.I):
+            return "associated"
+        if re.fullmatch(r"PRAG|PRCE|ATER", title, re.I):
+            return "other"
     if region == "波兰":
         if re.search(r"emeryt", title, re.I):
             return "emeritus"
@@ -270,7 +277,7 @@ def split_role(title, region=None):
         return "faculty" if region == "智利" or "titular" in title.casefold() else "associated"
     if region in {"英国", "澳大利亚", "新西兰", "马来西亚"} and re.match(r"^(?:senior )?lecturer\b", title, re.I):
         return "other" if re.search(r"teaching|education|placement", title, re.I) else "faculty"
-    if re.search(r"post.?doc|postdoktor|instructor|lecturer|student|\bph\.?d\.? candidate\b|professional services staff|^former faculty$|^lecteur|\b(?:dottorand[oa]|doctorand[oa]?|doctorante?|doktorand(?:in)?)\b|^講師$|博士后", title, re.I):
+    if re.search(r"post.?doc|postdoktor|instructor|lecturer|student|\bph\.?d\.? candidate\b|professional services staff|^former (?:faculty|scientific staff)$|^lecteur|\b(?:dottorand[oa]|doctorand[oa]?|doctorante?|doktorand(?:in)?)\b|^講師$|博士后", title, re.I):
         return "other"
     if re.search(r"\bprofessors?\b|\bprofesor de matemáticas\b|\bacademic faculty\b|\btenure-track researcher\b|\breader\b|universitetslektor|prof\. dr\.|univ\.-?prof\.|assoz\. prof\.|professeur|professor(?:e|essa) (?:ordinari[oa]|associat[oa])|\bprofesor[a]? ayudante doctor[a]?\b|catedr[aá]tic[ao]|titular de universidad|contratad[oa] doctor|ma[iî]tr(?:e|esse) de conf[ée]rences|研究员|教授|^助教$", title, re.I):
         return "faculty"
