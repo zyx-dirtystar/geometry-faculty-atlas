@@ -236,7 +236,9 @@
     "paul-stephen-aspinwall": "A5011566219",
     "robert-bryant": "A5020548047",
     "victor-abrashkin": "A5002032347",
-    "berchio-elvise": "A5000519978"
+    "berchio-elvise": "A5000519978",
+    "doug-park": "A5034600625",
+    "christopher-ferrie": "A5010118641"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -285,16 +287,16 @@
     "tom-bridgeland-frs": "论文作者姓名没有唯一匹配。",
     "william-haboush": "OpenAlex HTTP 404。",
     "william-yun-chen": "论文作者姓名没有唯一匹配。",
-    "xuemiao-chen": "官方数学主页与两篇几何代表作确认；OpenAlex 同页含植物代谢和合金材料论文。作者累计数待核。",
+    "xuemiao-chen": "官方数学主页与两篇几何代表作确认；OpenAlex 同页含植物代谢和合金材料论文。作者累计数待核。 本人公开发表分栏的独立计数与口径已登记。",
     "bernhard-koeck": "机构公开 ORCID 命中，但 OpenAlex 的高引样本混入不相关的水力材料模型论文，作者档案累计数字暂缺。",
     "person-f36827c8bf3c": "两篇具名复几何代表作在 OpenAlex 指向不同作者档案；累计论文数和引用量暂缺。",
     "mikhail-v-bondarko": "已核 ORCID、Math-Net 与两篇具名代表作。代表作在 OpenAlex 指向不同作者档案，累计总数暂缺。",
     "hubert-bray": "Duke 校级成果库确认两篇代表作，两篇 DOI 在 OpenAlex 对应不同作者档案，论文总数及累计引用暂缺。",
-    "qirui-li": "本人发表列表及 Cambridge 出版方核实两篇代表作。OpenAlex 分属不同作者档案，累计数字暂缺。",
+    "qirui-li": "本人发表列表及 Cambridge 出版方核实两篇代表作。OpenAlex 分属不同作者档案，累计数字暂缺。 本人公开发表分栏的独立计数与口径已登记。",
     "changho-han": "出版方与学者主页可确认两篇具名论文。OpenAlex 将这些作品分入两个作者档案，整合前无法引用累计总数。",
     "sungyoon-cho": "OpenAlex ORCID 命中且可识别一篇算术几何代表作，但同一档案的高引条目合并了半导体光刻和无线通信的同名论文。无法使用累计论文数和引用数。",
     "amaranta-membrillo-solis": "两篇几何代表作和作者全名已由研究中心及出版方证实。OpenAlex 的变体署名未通过唯一作者匹配，累计数待核。",
-    "shengwen-wang": "两篇代表作与任职均可核，但 OpenAlex 同一 ID 混入遗传育种、材料和化学论文，累计著作和引用数不可归给这位学者。",
+    "shengwen-wang": "两篇代表作与任职均可核，但 OpenAlex 同一 ID 混入遗传育种、材料和化学论文，累计著作和引用数不可归给这位学者。 本人公开发表分栏的独立计数与口径已登记。",
     "michael-ruzhansky": "QMUL 和 Ghent 的任职及 Ghent 官方 ORCID 已核。OpenAlex 回传的作者身份与 ORCID 未一致，累计论文及引用待核。",
     "jongil-park": "SNU Pure 与辛填充代表作确认身份。OpenAlex 档案混合几何拓扑、雷达与增强现实等同名作者的作品，累计值待核。",
     "jian-he": "Monash 数学任职和 Stein 几何论文可确认；OpenAlex 候选同时混入组合数学和不同署名结果，未能证实为一个人。",
@@ -303,7 +305,6 @@
     "jason-d-lotay": "已核对个人公开作品并排查两个 DOI。OpenAlex 作品署名未能稳定落到一个唯一作者档案。",
     "haesong-seo": "IMRN 论文与 SNU 任职确认身份。OpenAlex 尚未提供足够的当前和历史机构信息验证整个作者档案。",
     "takeshi-ikeda": "至少一个公开 DOI 在 OpenAlex 请求未返回作品。需按公开 ORCID、姓名与第二个唯一匹配代表作再消歧。",
-    "doug-park": "至少一个公开 DOI 在 OpenAlex 请求未返回作品。需按公开 ORCID、姓名与第二个唯一匹配代表作再消歧。",
     "hong-hansol": "匹配两所任职及几何代表作，但 OpenAlex 档案还包含关于分子对接、细胞毒性的高引研究，未证实该论文来自同一位数学学者。总数和引用量待核。",
     "andrei-teleman": "已核其几何代表作，但 OpenAlex 同一作者档案包括非本人主编的 Several Complex Variables 合辑，需核对合辑层级的条目归属和计量。",
     "jingyi-chen": "已核 UBC 研究任职和 Hopf 曲面论文。OpenAlex 同作者档还包含卫星海洋资料及地震反演等高引成果，无法确认同一作者，累计值待核。",
@@ -549,6 +550,8 @@
     "paul-stephen-aspinwall": "具名院校或本人页公开的 ORCID、完整姓名、机构与高引作品相符。抽核 K3、Calabi–Yau 模与弦对偶、镜像对称、拓扑场论的几何研究。",
     "robert-bryant": "具名院校或本人页公开的 ORCID、完整姓名、机构与高引作品相符。抽核 外微分系统、例外和乐群度量和 Willmore 曲面的对偶。",
     "victor-abrashkin": "具名院校或本人页公开的 ORCID、完整姓名、机构与高引作品相符。抽核 Witt 向量环上群概形、局部 Grothendieck 猜想和 Galois 分歧。",
-    "berchio-elvise": "具名院校或本人页公开的 ORCID、完整姓名、机构与高引作品相符。抽核 双调和椭圆问题、非线性板和四阶半线性椭圆方程。"
+    "berchio-elvise": "具名院校或本人页公开的 ORCID、完整姓名、机构与高引作品相符。抽核 双调和椭圆问题、非线性板和四阶半线性椭圆方程。",
+    "doug-park": "两篇核实 DOI 指向同一 Waterloo 作者档案。核对高引四维流形光滑结构、辛四维流形与流形 geography。",
+    "christopher-ferrie": "UTS 具名档案的 ORCID、任职及 2024–25 两项 DOI 一致。本人出版记录核对高引量子态层析、准概率及 Hamiltonian 学习结果。"
   }
 }
