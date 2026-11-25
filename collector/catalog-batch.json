@@ -103,7 +103,7 @@
     {
       "id": "mit",
       "coverage": "sample",
-      "coverageNote": "已解析 20/23 个登记来源，0 条任职或方向待核。 已收录 23 位学者，个人主页 17、CV 15、指标 8。 数学系详细现任 73 条，科研岗位 9、博士后 19、讲师与固定期 Instructor 42、访客 14、荣休 16。逐人研究说明交叉 Geometry、Algebra、Number Theory、Analysis、Representation、Theoretical Physics 与 Algebraic Topology 七组。学校另有联合职位和研究中心，未公开专长仍待补。 核对个人 CV 后，用苏黎世大学有日期任命和本人履历订正 Christoph Kehle 列在 MIT 的旧职。 核对 130 名博士生（只保留研究组交叠的具名状态）、应用物理数学 23 人和数论增补 17 人。数学系、CSAIL、CCSE 和 Simons 数论合作交叉核对。数论名单一人按访问期标注，一人按离任标注。另核 CSAIL 其他与几何有关的人员及项目。 初步核对几何数据处理组和理论物理中心人员入口，明确补入 Calabi–Yau 紧化学者；理论物理组其他成员与跨工程联合范围仍在对账。",
+      "coverageNote": "已解析 21/29 个登记来源，0 条任职或方向待核。 已收录 26 位学者，个人主页 18、CV 16、指标 10。 数学系详细现任 73 条，科研岗位 9、博士后 19、讲师与固定期 Instructor 42、访客 14、荣休 16。逐人研究说明交叉 Geometry、Algebra、Number Theory、Analysis、Representation、Theoretical Physics 与 Algebraic Topology 七组。学校另有联合职位和研究中心，未公开专长仍待补。 核对个人 CV 后，用苏黎世大学有日期任命和本人履历订正 Christoph Kehle 列在 MIT 的旧职。 核对 130 名博士生（只保留研究组交叠的具名状态）、应用物理数学 23 人和数论增补 17 人。数学系、CSAIL、CCSE 和 Simons 数论合作交叉核对。数论名单一人按访问期标注，一人按离任标注。另核 CSAIL 其他与几何有关的人员及项目。 初步核对几何数据处理组和理论物理中心人员入口，明确补入 Calabi–Yau 紧化学者；理论物理组其他成员与跨工程联合范围仍在对账。 CCSE 中心 60 张 PI 卡片去重为 58 人。核对 CSAIL 几何数据与算法设计团队，和 LNS CTP 的 24 条教师及 PI、33 条科研任职。理论物理旧表有岗位变动，继续对照现任名册。",
       "rosterLinks": [
         [
           "Research · Algebra & Algebraic Geometry",
@@ -114,8 +114,16 @@
           "https://math.mit.edu/research/pure/algebraic-topology.html"
         ],
         [
+          "CSAIL · Algorithmic Design Group · Team",
+          "https://adg.csail.mit.edu/?page_id=11"
+        ],
+        [
           "Research · Analysis and PDEs",
           "https://math.mit.edu/research/pure/analysis-pde.html"
+        ],
+        [
+          "Center for Computational Science and Engineering · People",
+          "https://cse.mit.edu/people/"
         ],
         [
           "CSAIL · Geometry and topology for scientific computing and shape analysis",
@@ -124,6 +132,18 @@
         [
           "CSAIL · Justin Solomon faculty profile",
           "https://www.csail.mit.edu/person/justin-solomon"
+        ],
+        [
+          "LNS · CTP staff table source",
+          "https://web.mit.edu/lns/research/faculty.js"
+        ],
+        [
+          "Laboratory for Nuclear Science · Theoretical Physics listed Faculty and Research Staff",
+          "https://web.mit.edu/lns/research/ctp.html"
+        ],
+        [
+          "Center for Theoretical Physics — Leinweber Institute · People",
+          "https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/people/"
         ],
         [
           "数学系 Faculty Detailed List",
@@ -136,6 +156,10 @@
         [
           "Department of Mathematics · All Department Faculty · detailed",
           "https://math.mit.edu/directory/faculty/?show=detail"
+        ],
+        [
+          "CSAIL Geometric Data Processing Group · Team",
+          "https://groups.csail.mit.edu/gdpgroup/team.html"
         ],
         [
           "Research · Geometry & Topology",
@@ -591,7 +615,7 @@
     {
       "id": "harvard",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，4 条任职或方向待核。 已收录 10 位学者，个人主页 7、CV 4、指标 1。 已核录数学系 2026–27 研究方向表的具名人员，对照资深导师表。中心联聘和新增任职另待核。",
+      "coverageNote": "已解析 1/3 个登记来源，4 条任职或方向待核。 已收录 11 位学者，个人主页 7、CV 4、指标 1。 已核录数学系 2026–27 研究方向表的具名人员，对照资深导师表。中心联聘和新增任职另待核。",
       "rosterLinks": [
         [
           "数学系 2026–27 Faculty Research Areas（PDF）",
@@ -5227,7 +5251,7 @@
     {
       "id": "jordan",
       "coverage": "sample",
-      "coverageNote": "已解析 1/9 个登记来源，25 条任职或方向待核。 已从更新时间为 2026-04-06 的数学系英文官方表核录 54 条学术记录。另查 94 个个人卡片及学术主页入口，以及 78 个个人研究和发表分栏。22 位在公开方向分栏明示专长。通过个人 CV 和出版方补证；无个人站或分栏未公开方向的条目逐人保留。",
+      "coverageNote": "已解析 1/12 个登记来源，9 条任职或方向待核。 已从更新时间为 2026-04-06 的数学系英文官方表核录 54 条学术记录。另查 94 个个人卡片及学术主页入口，以及 78 个个人研究和发表分栏。22 位在公开方向分栏明示专长。通过个人 CV 和出版方补证；无个人站或分栏未公开方向的条目逐人保留。 具名任职复核发现，英文系目录 54 条含已故历史教授与交叉名录，不可按页面更新日判断全为现任。补查现年鉴、阿拉伯语理学院和 Aqaba 校区。确认一复变几何函数论与 Cartan 域 Toeplitz 算子为相关方向，校级现任全名单仍需复核。",
       "rosterLinks": [
         [
           "University of Jordan · Academic Staff directory",
@@ -5258,12 +5282,24 @@
           "https://eacademic.ju.edu.jo/a.ababneh/Documents/CV.pdf"
         ],
         [
+          "University of Jordan · Aqaba Branch · Academics",
+          "https://aqaba.ju.edu.jo/Pages/Academics.aspx"
+        ],
+        [
+          "Aqaba Branch · School of Basic and Marine Sciences",
+          "https://marine.ju.edu.jo/"
+        ],
+        [
           "Department of Mathematics · Academic Department Staff",
           "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics"
         ],
         [
           "理学院公开个人 CV（仅单人线索）",
           "https://science.ju.edu.jo/Documents/CV/math/%D8%B4%D8%A7%D9%87%D8%B1%20%D9%85%D8%AD%D9%85%D9%80%D9%80%D9%80%D8%AF%20%D8%A7%D9%84%D9%85%D9%88%D9%85%D9%86%D9%8A.pdf"
+        ],
+        [
+          "University of Jordan · official yearbook 2025–2026",
+          "https://yearbook1.ju.edu.jo/2025-2026/"
         ]
       ],
       "checkedAt": "2026-11-24"
@@ -18285,6 +18321,66 @@
       "recordStatus": "directory"
     },
     {
+      "id": "michael-r-douglas",
+      "name": "Michael R. Douglas",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "harvard",
+          "department": "Center of Mathematical Sciences and Applications",
+          "title": "Senior Research Scientist",
+          "url": "https://cmsa.fas.harvard.edu/ss_people/michael-douglas/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        },
+        {
+          "schoolId": "mit",
+          "department": "Center for Theoretical Physics",
+          "title": "Research Affiliate",
+          "url": "https://web.mit.edu/lns/research/ctp.html",
+          "checkedAt": "2026-11-25",
+          "type": "secondary"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://inspirehep.net/authors/1011468",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "A constructive computer-assisted existence proof for a Calabi–Yau metric",
+          "year": 2026,
+          "url": "https://arxiv.org/abs/2611.16908"
+        },
+        {
+          "title": "Calabi–Yau metrics and string compactification",
+          "year": 2015,
+          "url": "https://doi.org/10.1016/j.nuclphysb.2015.04.009"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry, differential geometry and algebraic geometry of Calabi–Yau manifolds, computer-assisted Ricci-flat Kähler metrics",
+          "url": "https://arxiv.org/abs/2611.16908"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "mihnea-popa",
       "name": "Mihnea Popa",
       "aliases": [],
@@ -28256,6 +28352,79 @@
       "recordStatus": "directory"
     },
     {
+      "id": "mina-konakovic-lukovic",
+      "name": "Mina Konaković Luković",
+      "aliases": [
+        "Mina Konakovic Lukovic",
+        "Mina Konaković"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "CSAIL · Algorithmic Design Group",
+          "title": "Assistant Professor of Electrical Engineering and Computer Science",
+          "url": "https://www.csail.mit.edu/person/mina-konakovic-lukovic",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://people.csail.mit.edu/mina/",
+      "homepageStatus": null,
+      "cvUrl": "https://people.csail.mit.edu/mina/cv/cv.pdf",
+      "cvType": "公开 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://people.csail.mit.edu/mina/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5026996925",
+          "orcid": "https://orcid.org/0000-0002-2895-0206",
+          "url": "https://openalex.org/authors/A5026996925",
+          "authorApiUrl": "https://api.openalex.org/authors/A5026996925",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5026996925,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 10,
+          "works": 32,
+          "citations": 1356,
+          "hIndex": 11,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Beyond developable: computational design and fabrication with auxetic materials",
+          "year": 2016,
+          "url": "https://doi.org/10.1145/2897824.2925944"
+        },
+        {
+          "title": "Rapid deployment of curved surfaces via programmable auxetics",
+          "year": 2018,
+          "url": "https://doi.org/10.1145/3197517.3201373"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Discrete differential geometry, conformal mapping for surfaces, computational design and 3D geometry processing",
+          "url": "https://risingstars-eecs.mit.edu/speakers/mina-konakovic-lukovic/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://people.csail.mit.edu/mina/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "naomi-sweeting",
       "name": "Naomi Sweeting",
       "aliases": [],
@@ -28278,7 +28447,71 @@
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "MIT 具名任职，官方主页入口 https://sites.mit.edu/sweeting/ 返回 502；本人 Princeton 站和校方履历可读，未确认公开 CV。",
-      "publicationsUrl": null,
+      "publicationsUrl": "https://sweeting.scholar.princeton.edu/research",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "两个本人预印本均指向同一 OpenAlex ID，MIT 任职已核实。高引样本另含 2015 年同名网络编码论文，作者早期任职待独立核对；本人列出的是预印本，暂不作论文总计。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5087742044",
+      "papers": [
+        {
+          "title": "Tate classes and endoscopy for $\\operatorname{GSp}_4$ over totally real fields",
+          "year": 2022,
+          "url": "https://doi.org/10.48550/arXiv.2211.10838"
+        },
+        {
+          "title": "On the Bloch-Kato conjecture for some four-dimensional symplectic Galois representations",
+          "year": 2025,
+          "url": "https://doi.org/10.48550/arXiv.2503.19226"
+        },
+        {
+          "title": "Tate classes and endoscopy for GSp(4) over totally real fields",
+          "year": 2022,
+          "url": "https://arxiv.org/abs/2211.10838"
+        },
+        {
+          "title": "On the Bloch–Kato conjecture for some four-dimensional symplectic Galois representations",
+          "year": 2025,
+          "url": "https://arxiv.org/abs/2503.19226"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, arithmetic geometry, algebraic cycles on Shimura varieties and Galois representations",
+          "url": "https://math.mit.edu/directory/profile.html?pid=2795"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://math.mit.edu/directory/profile.html?pid=2795"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "netta-engelhardt",
+      "name": "Netta Engelhardt",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "Center for Theoretical Physics — Leinweber Institute",
+          "title": "Associate Professor of Physics",
+          "url": "https://physics.mit.edu/faculty/netta-engelhardt/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://inspirehep.net/authors/1069642",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
@@ -28286,14 +28519,15 @@
       "identityUrl": null,
       "papers": [
         {
-          "title": "Tate classes and endoscopy for GSp(4) over totally real fields",
-          "url": "https://arxiv.org/abs/2211.10838"
+          "title": "General Bounds on Holographic Complexity",
+          "url": "https://arxiv.org/abs/2109.06883",
+          "year": 2021
         }
       ],
       "directoryEvidence": [
         {
-          "text": "Algebraic geometry, arithmetic geometry, algebraic cycles on Shimura varieties and Galois representations",
-          "url": "https://math.mit.edu/directory/profile.html?pid=2795"
+          "text": "Lorentzian differential geometry of asymptotically AdS spacetimes, maximal-volume and extremal surfaces, black hole geometry and holography",
+          "url": "https://arxiv.org/abs/2109.06883"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -28849,23 +29083,48 @@
       "cvUrl": "https://sfi-edu.s3.amazonaws.com/sfi-edu/production/uploads/people/resumes/Washington_Taylor_CV_2026-08-14-06-00_cb7958.pdf",
       "cvType": "完整 CV",
       "cvStatus": null,
-      "publicationsUrl": null,
+      "publicationsUrl": "https://inspirehep.net/authors/986448",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5028633108",
+          "orcid": "https://orcid.org/0000-0001-8566-6706",
+          "url": "https://openalex.org/authors/A5028633108",
+          "authorApiUrl": "https://api.openalex.org/authors/A5028633108",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5028633108,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 131,
+          "works": 248,
+          "citations": 13955,
+          "hIndex": 64,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [
         {
           "title": "Comparing elliptic and toric hypersurface Calabi–Yau threefolds at large Hodge numbers",
           "year": 2019,
           "url": "https://doi.org/10.1007/JHEP02(2019)087"
+        },
+        {
+          "title": "Statistics of base polytopes in F-theory",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/JHEP03(2026)032"
         }
       ],
       "directoryEvidence": [
         {
           "text": "Algebraic geometry of elliptically fibered and toric Calabi–Yau varieties, compactification and F-theory",
           "url": "https://ctp.lns.mit.edu/wati/website/het-research.html"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://link.springer.com/article/10.1007/JHEP03%282026%29032"
         }
       ],
       "checkedAt": "2026-11-25",

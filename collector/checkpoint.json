@@ -3552,6 +3552,26 @@
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
+      "id": "jordan-aqaba-acad31",
+      "school": "jordan",
+      "url": "https://aqaba.ju.edu.jo/Pages/Academics.aspx",
+      "label": "University of Jordan · Aqaba Branch · Academics",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "jordan-aqaba-marine31",
+      "school": "jordan",
+      "url": "https://marine.ju.edu.jo/",
+      "label": "Aqaba Branch · School of Basic and Marine Sciences",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "jordan-math-dept-30",
       "school": "jordan",
       "url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
@@ -3570,6 +3590,16 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "机构网站限制了目录请求。"
+    },
+    {
+      "id": "jordan-yearbook31",
+      "school": "jordan",
+      "url": "https://yearbook1.ju.edu.jo/2025-2026/",
+      "label": "University of Jordan · official yearbook 2025–2026",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "jyvaskyla-math",
@@ -5012,6 +5042,16 @@
       "note": "使用个人研究说明；与职位分栏中的同一个人员编号交叉。"
     },
     {
+      "id": "mit-algorithmic-design31",
+      "school": "mit",
+      "url": "https://adg.csail.mit.edu/?page_id=11",
+      "label": "CSAIL · Algorithmic Design Group · Team",
+      "status": "parsed",
+      "count": 12,
+      "checked_at": "2026-11-25",
+      "note": "12 个公开分栏，现任 PI、博士后、博士生、行政岗位分开。"
+    },
+    {
       "id": "mit-analysis31",
       "school": "mit",
       "url": "https://math.mit.edu/research/pure/analysis-pde.html",
@@ -5020,6 +5060,16 @@
       "count": 31,
       "checked_at": "2026-11-25",
       "note": "使用个人研究说明；与职位分栏中的同一个人员编号交叉。"
+    },
+    {
+      "id": "mit-ccse-people31",
+      "school": "mit",
+      "url": "https://cse.mit.edu/people/",
+      "label": "Center for Computational Science and Engineering · People",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "mit-csail-geometry31",
@@ -5039,6 +5089,36 @@
       "status": "reference",
       "count": 0,
       "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "mit-ctp-json31",
+      "school": "mit",
+      "url": "https://web.mit.edu/lns/research/faculty.js",
+      "label": "LNS · CTP staff table source",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "mit-ctp-lns31",
+      "school": "mit",
+      "url": "https://web.mit.edu/lns/research/ctp.html",
+      "label": "Laboratory for Nuclear Science · Theoretical Physics listed Faculty and Research Staff",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "mit-ctp-people31",
+      "school": "mit",
+      "url": "https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/people/",
+      "label": "Center for Theoretical Physics — Leinweber Institute · People",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
@@ -5070,6 +5150,16 @@
       "count": 73,
       "checked_at": "2026-11-25",
       "note": "校方具名卡片读取精确任职与个人说明；未来起聘、科研、荣休和访问分开。"
+    },
+    {
+      "id": "mit-gdp-team31",
+      "school": "mit",
+      "url": "https://groups.csail.mit.edu/gdpgroup/team.html",
+      "label": "CSAIL Geometric Data Processing Group · Team",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "mit-geom-select31",
@@ -162650,6 +162740,198 @@
         "topics": [],
         "source_kind": "research",
         "source_url": "https://math.mit.edu/research/pure/algebraic-topology.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-algorithmic-design31",
+      "person_key": "akibzaman",
+      "school": "mit",
+      "record": {
+        "name": "Akib Zaman",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://adg.csail.mit.edu/?page_id=11",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-algorithmic-design31",
+      "person_key": "anhtruong",
+      "school": "mit",
+      "record": {
+        "name": "Anh Truong",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://adg.csail.mit.edu/?page_id=11",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-algorithmic-design31",
+      "person_key": "clementjambon",
+      "school": "mit",
+      "record": {
+        "name": "Clément Jambon",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://adg.csail.mit.edu/?page_id=11",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-algorithmic-design31",
+      "person_key": "fernkeniston",
+      "school": "mit",
+      "record": {
+        "name": "Fern Keniston",
+        "title": "Administrative Assistant",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://adg.csail.mit.edu/?page_id=11",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-algorithmic-design31",
+      "person_key": "jamisonmeindl",
+      "school": "mit",
+      "record": {
+        "name": "Jamison Meindl",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://adg.csail.mit.edu/?page_id=11",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-algorithmic-design31",
+      "person_key": "jialiangzhang",
+      "school": "mit",
+      "record": {
+        "name": "Jialiang Zhang",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://adg.csail.mit.edu/?page_id=11",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-algorithmic-design31",
+      "person_key": "jiayieriszhang",
+      "school": "mit",
+      "record": {
+        "name": "Jiayi (Eris) Zhang",
+        "title": "Postdoctoral Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://adg.csail.mit.edu/?page_id=11",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-algorithmic-design31",
+      "person_key": "minakonakoviclukovic",
+      "school": "mit",
+      "record": {
+        "name": "Mina Konaković Luković",
+        "title": "Assistant Professor of Electrical Engineering and Computer Science",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://adg.csail.mit.edu/?page_id=11",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-algorithmic-design31",
+      "person_key": "otmanbenchekroun",
+      "school": "mit",
+      "record": {
+        "name": "Otman Benchekroun",
+        "title": "Postdoctoral Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://adg.csail.mit.edu/?page_id=11",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-algorithmic-design31",
+      "person_key": "ryanmei",
+      "school": "mit",
+      "record": {
+        "name": "Ryan Mei",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://adg.csail.mit.edu/?page_id=11",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-algorithmic-design31",
+      "person_key": "toshikiaoki",
+      "school": "mit",
+      "record": {
+        "name": "Toshiki Aoki",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://adg.csail.mit.edu/?page_id=11",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-algorithmic-design31",
+      "person_key": "xiaoseanzhan",
+      "school": "mit",
+      "record": {
+        "name": "Xiao Sean Zhan",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://adg.csail.mit.edu/?page_id=11",
         "checked_at": "2026-11-25"
       }
     },
@@ -503051,6 +503333,38 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-24"
     },
+    "mina-konakovic-lukovic": {
+      "status": "review_ready",
+      "author_id": "A5026996925",
+      "papers": [
+        {
+          "title": "Beyond developable: computational design and fabrication with auxetic materials",
+          "year": 2016,
+          "url": "https://doi.org/10.1145/2897824.2925944"
+        },
+        {
+          "title": "Rapid deployment of curved surfaces via programmable auxetics",
+          "year": 2018,
+          "url": "https://doi.org/10.1145/3197517.3201373"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5026996925",
+        "orcid": "https://orcid.org/0000-0002-2895-0206",
+        "url": "https://openalex.org/authors/A5026996925",
+        "authorApiUrl": "https://api.openalex.org/authors/A5026996925",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5026996925,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 10,
+        "works": 32,
+        "citations": 1356,
+        "hIndex": 11,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "mircea-alexandru-voineagu": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
@@ -503133,6 +503447,24 @@
       "status": "source_error",
       "reason": "OpenAlex 请求或返回数据失败。",
       "checkedAt": "2026-11-23"
+    },
+    "naomi-sweeting": {
+      "status": "review_ready",
+      "author_id": "A5087742044",
+      "papers": [
+        {
+          "title": "Tate classes and endoscopy for $\\operatorname{GSp}_4$ over totally real fields",
+          "year": 2022,
+          "url": "https://doi.org/10.48550/arXiv.2211.10838"
+        },
+        {
+          "title": "On the Bloch-Kato conjecture for some four-dimensional symplectic Galois representations",
+          "year": 2025,
+          "url": "https://doi.org/10.48550/arXiv.2503.19226"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "candidate_url": "https://openalex.org/authors/A5087742044"
     },
     "nariya-kawazumi": {
       "status": "identity_review",
@@ -505891,6 +506223,38 @@
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
+    },
+    "washington-taylor": {
+      "status": "review_ready",
+      "author_id": "A5028633108",
+      "papers": [
+        {
+          "title": "Comparing elliptic and toric hypersurface Calabi-Yau threefolds at large Hodge numbers",
+          "year": 2019,
+          "url": "https://doi.org/10.1007/JHEP02(2019)087"
+        },
+        {
+          "title": "Statistics of base polytopes in F-theory",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/JHEP03(2026)032"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5028633108",
+        "orcid": "https://orcid.org/0000-0001-8566-6706",
+        "url": "https://openalex.org/authors/A5028633108",
+        "authorApiUrl": "https://api.openalex.org/authors/A5028633108",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5028633108,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 131,
+        "works": 248,
+        "citations": 13955,
+        "hIndex": 64,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "wei-ping-li": {
       "status": "identity_review",

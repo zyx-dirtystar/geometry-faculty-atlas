@@ -33,7 +33,18 @@ def inspect(anchor):
     papers = []
     dois = list(dict.fromkeys(anchor.get("doi", [])))
     for doi in dois:
-        work = api("/works/https://doi.org/" + quote(doi,safe="/."),select="display_name,doi,authorships,publication_year")
+        work_fields = "display_name,doi,authorships,publication_year"
+        try:
+            work = api("/works/https://doi.org/" + quote(doi,safe="/."),select=work_fields)
+        except HTTPError as error:
+            if error.code not in (404, 502, 504):
+                raise
+            doi_url = "https://doi.org/" + doi.lower()
+            fallback = api("/works",filter=f"doi:{doi_url}",select=work_fields,per_page=2)
+            doi_matches = [row for row in fallback.get("results", []) if (row.get("doi") or "").lower() == doi_url]
+            if len(doi_matches) != 1:
+                raise
+            work = doi_matches[0]
         matches = [entry for entry in work.get("authorships",[]) if name_key((entry.get("author") or {}).get("display_name") or "") in accepted_names]
         if len(matches) != 1:
             return {"status":"identity_review","reason":"论文作者姓名没有唯一匹配。"}
