@@ -3379,7 +3379,7 @@
     {
       "id": "rudn",
       "coverage": "sample",
-      "coverageNote": "已解析 1/6 个登记来源，1 条任职或方向待核。 已查俄文招生教师库、尼科尔斯基研究所结构、科研项目及个人档案。指标理论和非交换几何与本库方向分别记录；现行全员专长仍待对照。",
+      "coverageNote": "已解析 1/10 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 0。 已查俄文招生教师库、尼科尔斯基研究所结构、科研项目及个人档案。指标理论和非交换几何与本库方向分别记录；现行全员专长仍待对照。 官方科学院员工入口显示 490 全学部岗位；数学研究所所长已按具名成果确认 PDE。另从工程学院期刊的 2026 作者任职和机构成果库验证了曲面微分几何交叉。",
       "rosterLinks": [
         [
           "FizMat · Учёные",
@@ -3394,12 +3394,28 @@
           "https://sc-diff.rudn.ru/team.html"
         ],
         [
+          "FizMat · Сотрудники",
+          "https://fizmat.rudn.ru/ru/about/employees/"
+        ],
+        [
           "Faculty of Physics and Mathematics and Natural Sciences",
           "https://eng.rudn.ru/education/schools-and-departments/faculties/faculty-of-physics-and-mathematics-and-natural-sciences/"
         ],
         [
+          "Academy of Engineering · Вячеслав Иванов, 2026 author profile",
+          "https://journals.rudn.ru/structural-mechanics/article/view/51205"
+        ],
+        [
+          "FizMat · Андрей Муравник",
+          "https://fizmat.rudn.ru/ru/science/scientists/26635/"
+        ],
+        [
           "Математический институт имени академика С. М. Никольского",
           "https://www.rudn.ru/about/struktura-rudn/units/rektor-rudn/fakultet-fiziko-matematicheskih-i-estestvennyh-nauk/matematicheskiy-institut-imeni-akademika-sm-nikolskogo"
+        ],
+        [
+          "НИМ им. С.М. Никольского · Research",
+          "https://www.rudn.ru/science/research-institutes/matematicheskiy-institut-im-s-nikolskogo"
         ],
         [
           "尼科尔斯基数学研究所",
@@ -3807,8 +3823,32 @@
     {
       "id": "uts-sydney",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，8 条任职或方向待核。 已查理学院专家目录、数学方向论文以及 2025 荣誉项目说明。补查资料中的微分几何多为指定课题或学生论文，导师是否属于收录方向须结合研究档案。",
+      "coverageNote": "已解析 4/9 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 0。 已查理学院专家目录、数学方向论文以及 2025 荣誉项目说明。补查资料中的微分几何多为指定课题或学生论文，导师是否属于收录方向须结合研究档案。 现有 8 项方向待核已按个人档案对照；UTS MAPS 研究门户三页全部 62 人条目另行记录，覆盖现任、访问和学生；与 Faculty of Science 所列 Mathematical Sciences Discipline 另行交叉。 三项新增空白为院务管理、技术职及荣休，均已用具名学者档案补核。",
       "rosterLinks": [
+        [
+          "Analysis, Differential Equations and Computation",
+          "https://www.uts.edu.au/about/faculties/science/mathematical-and-physical-sciences/research/mathematical-sciences/analysis-differential-equations-and-computation"
+        ],
+        [
+          "School of Mathematical and Physical Sciences · experts31",
+          "https://profiles.uts.edu.au/groups/73/experts"
+        ],
+        [
+          "School of Mathematical and Physical Sciences · b",
+          "https://profiles.uts.edu.au/groups/73/experts?startFrom=25"
+        ],
+        [
+          "School of Mathematical and Physical Sciences · c",
+          "https://profiles.uts.edu.au/groups/73/experts?startFrom=50"
+        ],
+        [
+          "Mathematical Sciences research",
+          "https://www.uts.edu.au/about/faculties/science/mathematical-and-physical-sciences/research/mathematical-sciences"
+        ],
+        [
+          "Faculty of Science · Expert profiles",
+          "https://profiles.uts.edu.au/groups/34/experts"
+        ],
         [
           "Mathematical Sciences group",
           "https://www.uts.edu.au/about/faculties/science/mathematical-and-physical-sciences/research/mathematical-sciences"
@@ -3822,7 +3862,7 @@
           "https://profiles.uts.edu.au/groups/73"
         ]
       ],
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "nju",
@@ -5895,31 +5935,75 @@
     {
       "id": "utm",
       "coverage": "sample",
-      "coverageNote": "已解析 1/8 个登记来源，0 条任职或方向待核。 已查理学院、数学科学系、理学院学术人员名录及岗位学科清单。岗位方向中列有几何，仍缺能确认现任个人研究方向的证据。 数学系现任及荣休 62 张卡片按所属职级及同一行的个人专长重读；与理学院 60 条数学人员／方向、校级名录、CIAM 和研究生项目对照。旧几何课程与当前研究方向分别记录。",
+      "coverageNote": "已解析 1/20 个登记来源，0 条任职或方向待核。 已查理学院、数学科学系、理学院学术人员名录及岗位学科清单。岗位方向中列有几何，仍缺能确认现任个人研究方向的证据。 数学系现任及荣休 62 张卡片按所属职级及同一行的个人专长重读；与理学院 60 条数学人员／方向、校级名录、CIAM 和研究生项目对照。旧几何课程与当前研究方向分别记录。 再核当前院系表 61 人及三个有截止日的荣休条目、五个研究专题面板、六个研究组的成员及可见专题，及 CIAM。AAAG 当前成员研究为群论、代数图论、拓扑／模糊分析和复分析数值应用。",
       "rosterLinks": [
         [
           "Faculty of Science · Mathematical Sciences specialities",
           "https://science.utm.my/faculty-of-science-academic-staff/"
         ],
         [
+          "Applied Algebra and Analysis Group · Research",
+          "https://science.utm.my/aaag/research-area/"
+        ],
+        [
+          "Applied Algebra and Analysis Group · Members",
+          "https://science.utm.my/aaag/members/"
+        ],
+        [
           "UTM Scholar · Centre for Industrial & Applied Mathematics",
           "https://pure.utm.my/research-centre/J091002"
+        ],
+        [
+          "Mathematical Sciences · six research groups",
+          "https://science.utm.my/mathematics/research/"
+        ],
+        [
+          "Dynamical Systems Modelling Group · Members",
+          "https://science.utm.my/dynasm/group-members/"
+        ],
+        [
+          "Fluid Mechanics · Members",
+          "https://science.utm.my/fluidmech/members-of-rg/"
+        ],
+        [
+          "Fluid Mechanics · Research",
+          "https://science.utm.my/fluidmech/research-areas/"
         ],
         [
           "Staff Profile People",
           "https://science.utm.my/mathematics/people/"
         ],
         [
+          "Industrial and Scientific Computation · Members",
+          "https://science.utm.my/isc/isc-members/"
+        ],
+        [
+          "Industrial and Scientific Computation · Research",
+          "https://science.utm.my/isc/research-area/"
+        ],
+        [
           "Faculty of Science · Postgraduate Mathematics",
           "https://science.utm.my/pg/mphil-phd-mathematics/"
         ],
         [
-          "数学系或所属学院人员入口",
+          "Mathematical Sciences Department · Current directory and retirement scheme",
           "https://science.utm.my/mathematics/directory/"
+        ],
+        [
+          "Mathematical Optimization Group · Members",
+          "https://science.utm.my/mathopt/members/"
+        ],
+        [
+          "Mathematical Optimization Group · Research",
+          "https://science.utm.my/mathopt/research-area/"
         ],
         [
           "MJIIT staff · Zahriddin Muminov",
           "https://mjiit.utm.my/research-tribology/drmuminov/"
+        ],
+        [
+          "Panel Academics · five subjects",
+          "https://science.utm.my/mathematics/panel/"
         ],
         [
           "UTM Directory · Faculty of Science",
@@ -5928,6 +6012,10 @@
         [
           "UTM Scholar · Shaymaa Darwish",
           "https://pure.utm.my/Scholar/ScholarInfoDetails/9X7R"
+        ],
+        [
+          "Statistical Modeling and Climate Analytics · Members",
+          "https://science.utm.my/smoca/research-member/"
         ]
       ],
       "checkedAt": "2026-11-23"
@@ -37564,6 +37652,53 @@
       "recordStatus": "directory"
     },
     {
+      "id": "person-54e5368c1bc3",
+      "name": "Вячеслав Николаевич Иванов",
+      "aliases": [
+        "Vyacheslav N. Ivanov",
+        "Vyacheslav Nikolaevich Ivanov"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "rudn",
+          "department": "Academy of Engineering",
+          "title": "Professor, Department of Construction Technologies and Structural Materials",
+          "url": "https://journals.rudn.ru/structural-mechanics/article/view/51205/en_US",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "已查 RUDN 期刊的具名作者资料、机构成果库和公开 ORCID；未见独立个人主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "校刊 2026 作者页与大学成果库确认工作单位及公开作者标识，尚未找到独立公开 CV。",
+      "publicationsUrl": "https://journals.rudn.ru/structural-mechanics/search/authors/view?firstName=%D0%92%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2&lastName=%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2&middleName=%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "两篇曲面几何 DOI 通过同一 OpenAlex 作者 ID 和校刊 ORCID 核对。但其高引列表混入 RUDN 社会学期刊的《Media, institutions, and the Russians’ trust》，原署名 V. N. Ivanov 实为 Вилен Николаевич Иванов。混合档案的累计论文和引用待核。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5042588147",
+      "papers": [
+        {
+          "title": "Geometric Characteristics of Surfaces with Curved Trapezoidal Plan",
+          "url": "https://doi.org/10.22363/1815-5235-2024-20-2-134-145"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Applied differential geometry of surfaces, surface curvature, fundamental forms and normal ruled surfaces in structural mechanics",
+          "url": "https://repository.rudn.ru/en/records/article/record/107080/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "anders-buch",
       "name": "Anders Buch",
       "aliases": [],
@@ -55126,6 +55261,61 @@
         {
           "text": "Algebraic geometry, derived categories and noncommutative algebraic geometry",
           "url": "https://pbelmans.ncag.info/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "mahuya-bandyopadhyay",
+      "name": "Mahuya Bandyopadhyay",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uts-sydney",
+          "department": "Discipline of Mathematical Sciences",
+          "title": "Associate Lecturer",
+          "url": "https://profiles.uts.edu.au/Mahuya.Bandyopadhyay",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "已查 UTS 具名研究档案、机构成果和公开 ORCID，未找到独立站点。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查 UTS About、成果页、研究者标识与同名学者 CV，未见该几何学者独立公开 CV。",
+      "publicationsUrl": "https://profiles.uts.edu.au/Mahuya.Bandyopadhyay/publications",
+      "publicationCounts": [
+        {
+          "value": 8,
+          "scope": "UTS Profiles 公布 1–8 of 8，八项均标 Journal Article",
+          "url": "https://profiles.uts.edu.au/Mahuya.Bandyopadhyay/publications",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "校方 ORCID 确认 OpenAlex A5088949804，但仅覆盖 4 篇文章／5 条成果，漏收校方已列的多篇正式期刊文章。搜索发现另有同名化学及社会学作者；其引用数未采用。论文数保留 UTS 机构核实口径，累计引用待核。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5088949804",
+      "papers": [
+        {
+          "title": "Study of Ricci and Riemann soliton structures on concircularly ϕ-recurrent Sasakian manifolds",
+          "url": "https://doi.org/10.2298/FIL2507141B"
+        },
+        {
+          "title": "On generalized φ-recurrent Sasakian manifolds",
+          "url": "https://mathematica-pannonica.ttk.pte.hu/articles/mp22-1/mp22-1-019-023.pdf"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, Riemannian and semi-Riemannian manifolds, Ricci and Riemann solitons, Sasakian geometry, representation theory",
+          "url": "https://profiles.uts.edu.au/Mahuya.Bandyopadhyay"
         }
       ],
       "checkedAt": "2026-11-25",
