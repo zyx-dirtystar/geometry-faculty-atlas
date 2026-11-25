@@ -1,9 +1,9 @@
 # 几何学者库进度
 
 更新日期 2026-11-25。QS 2026 数学 200 所，软科 GRAS 2026 数学 100 所，两榜合并去重 222 所。已登记来源 222 所，至少有一个已解析来源 222 所。
-目录去重后共 18522 条学者与学校记录，来源外的任职或研究交叉需要继续复核。
-网页收录 1185 位，覆盖 219 所。有个人主页 694 位、公开 CV 323 位、发表列表 475 位、代表作 306 位、机构或作者计数 95 位、OpenAlex 指标 315 位、Google Scholar 指标 4 位。
-有 6804 个个人页面的可读访问记录。校级全名单对账完成 12 所。
+目录去重后共 18676 条学者与学校记录，来源外的任职或研究交叉需要继续复核。
+网页收录 1188 位，覆盖 219 所。有个人主页 698 位、公开 CV 325 位、发表列表 480 位、代表作 314 位、机构或作者计数 96 位、OpenAlex 指标 321 位、Google Scholar 指标 4 位。
+有 6821 个个人页面的可读访问记录。校级全名单对账完成 12 所。
 
 ## 公开 CV 链接复核
 
@@ -15,7 +15,7 @@
 
 ## 最近一轮作者档案复核
 
-2026-11-25 逐项核对 6 位学者的 ORCID、具名论文和机构资料。确认 4 个 OpenAlex 作者档案，搁置 2 个有身份或作品争议的 OpenAlex 档案，另确认 1 个 Google Scholar 作者档案。归属证据、替代计量和检索结果见学者字段复核表。
+2026-11-25 逐项核对 9 位学者的 ORCID、具名论文和机构资料。确认 7 个 OpenAlex 作者档案，搁置 2 个有身份或作品争议的 OpenAlex 档案，另确认 0 个 Google Scholar 作者档案。归属证据、替代计量和检索结果见学者字段复核表。
 
 ## 原待查批次
 
@@ -169,7 +169,7 @@
 | 柏林洪堡大学 | =99 | — | 工作名单 | [Algebraic Geometry group · older faculty archive](https://www.math.hu-berlin.de/~farkas/alggeomgroup/) | 1 | 1 / 1 / 0 | 0 |
 | 昆士兰大学 | =99 | — | 工作名单 | [Geometric nonlinear analysis - School of Mathematics and Physics - University of Queensland](https://smp.uq.edu.au/research/geometric-nonlinear-analysis) · [Mathematics - School of Mathematics and Physics - University of Queensland](https://smp.uq.edu.au/team/mathematics) · [数学与物理学院人员目录](https://smp.uq.edu.au/staff-directory) | 1 | 1 / 1 / 0 | 29 |
 | 墨西哥国立自治大学 | =99 | — | 工作名单 | [数学研究所研究员名录](https://www.matem.unam.mx/fsd/investigadores/) | 5 | 0 / 0 / 1 | 0 |
-| 阿尔伯塔大学 | 102 | — | 工作名单 | [Mathematical and Statistical Sciences academic staff](https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html) · [Research Areas](https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html) · [数学系或所属学院人员入口](https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html) | 9 | 6 / 1 / 2 | 0 |
+| 阿尔伯塔大学 | 102 | — | 工作名单 | [Mathematical and Statistical Sciences academic staff](https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html) · [Mathematical and Statistical Sciences · Adjunct Professors](https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors.html) · [Computing Science · Algorithmics](https://www.ualberta.ca/en/computing-science/research/research-areas/algorithmics.html) · [Augustana · Department of Science](https://www.ualberta.ca/en/augustana/about-us/department-of-science.html) · [Computing Science · Academic Staff](https://www.ualberta.ca/en/computing-science/faculty-and-staff/faculty-teaching-staff.html?1=Faculty) · [Research Areas](https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html) · [Computing Science · Computer Graphics](https://www.ualberta.ca/en/computing-science/research/research-areas/computer-graphics.html) · [数学系或所属学院人员入口](https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html) · [Department of Physics · Adjunct Faculty](https://www.ualberta.ca/en/physics/people/adjunct-faculty.html) · [Department of Physics · Emeritus Faculty](https://www.ualberta.ca/en/physics/people/emeritus-faculty.html) · [Department of Physics · Faculty](https://www.ualberta.ca/en/physics/people/faculty.html) · [PIMS · University of Alberta site, fellow records dated 2024–2026](https://pims.math.ca/sites/university-alberta) · [Mathematical and Statistical Sciences · Postdoctoral Scholars and Research Associates](https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html) · [Mathematical and Statistical Sciences · Retired Faculty](https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html) · [Campus Saint-Jean · Répertoire de personnel](https://www.ualberta.ca/fr/campus-saint-jean/personnel/index.html) · [Statistics Division · Academic, Adjunct, Sessional and Retired](https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/centres-and-institutes/statistics-division/people.html) · [Theoretical Physics Institute](https://www.ualberta.ca/en/physics/research/theoretical-physics-institute/index.html) | 12 | 10 / 3 / 8 | 0 |
 | 高丽大学 | 103 | — | 校级已对账 | [数学系或所属学院人员入口](https://math.korea.edu/math_en/people/faculty.do) · [数学系 · BK21 数理科学培养与研究团队](https://bk21math.korea.ac.kr/bk21math/index.do) · [수학교육과 · 교수진（数学教育系现任）](https://mathedu.korea.ac.kr/mathedu/about/professor.do) · [수학과 · 명예교수（数学系荣休）](https://math.korea.ac.kr/math/member/professors-emeritus.do) · [수학과 · 전임교수（数学系韩文现任教师）](https://math.korea.ac.kr/math/member/full-time-professors.do) · [수학과 · 방문연구자 및 연구교수（访问及研究教授）](https://math.korea.ac.kr/math/member/scholars-research-professors.do) · [수학과 · 연구분야（15 个专长条目）](https://math.korea.ac.kr/math/member/research.do) · [理学院 · 数学系教师的交叉名册](https://science.korea.ac.kr/science-new/intro/mathematics.do) · [世宗校区 · 应用数理科学部 · 现任教师](https://imath.korea.ac.kr/faculty/8574/subview.do) · [世宗理工学院官方院系入口](https://imath.korea.ac.kr/koreaSejong/7849/subview.do) · [世宗校区 · 应用数理科学部 · 荣休](https://imath.korea.ac.kr/faculty/8575/subview.do) · [世宗校区 · 应用数理科学部 · 访问](https://imath.korea.ac.kr/faculty/8576/subview.do) | 4 | 2 / 0 / 2 | 0 |
 | 都灵理工大学 | =104 | — | 工作名单 | [DISMA · 教授名单](https://www.disma.polito.it/en/personale/elenco/%28tipo%29/professori) | 2 | 0 / 0 / 2 | 67 |
 | 韦洛尔理工学院 | =104 | — | 工作名单 | [Chennai · 2025–26 Mandatory staff disclosure](https://chennai.vit.ac.in/files/Mandatory_Disclosures_2025-2026.pdf) · [Chennai SAS Mathematics · eligible guide details](https://chennai.vit.ac.in/files/re_supervisordetails_research_admission/sas-maths.pdf) · [Chennai SAS · Mathematics faculty](https://chennai.vit.ac.in/academics/schools/sas/mfaculty/) · [Chennai · Academic Research by Division](https://chennai.vit.ac.in/research/academic/) · [VIT Faculty directory](https://vit.ac.in/faculty) · [SAS Mathematics 2026 · Research Guide](https://vit.ac.in/sites/default/files/vitree/Research-Guide-July-2026/Research-Guide-July-2026-Mathematics-SAS.pdf) · [School of Advanced Sciences · Mathematics faculty](https://vit.ac.in/school/allfaculty/sas/mathematics) · [Vellore SAS Mathematics · July 2026 研究导师](https://vit.ac.in/sites/default/files/vitree/Research-Guide-July-2026/Research-Guide-July-2026-Mathematics-SAS.pdf) | 1 | 0 / 0 / 0 | 82 |
@@ -345,7 +345,7 @@
 - 印度理工学院坎普尔分校。复查五份具名职务及方向简介，校正旧个人快照误提取整份教师目录造成的研究方向交叉。五条中四条属其他方向，一条属组合与计算几何相邻方向。院系与跨单位范围仍待补。
 - 柏林洪堡大学。已读取代数几何组旧版名册作线索，并用现行个人主页复核一位现任教授。旧条目和院系其他几何分组仍待对账。
 - 昆士兰大学。已由 UQ Experts 和个人 CV 对照任职和几何研究方向。自报与校方目录的交叉身份仍待核。
-- 阿尔伯塔大学。已查看数学与统计科学系 Academic Staff 和六领域研究目录。用校级目录确认四位代数几何及一位微分几何学者。PIMS 等联合渠道的任职范围仍待核。 逐条核对校系公开六研究方向里的代数组、几何及数学物理组。检查 PIMS Alberta 站点及活动，并补入具名研究方向。直接 Academic Staff 和校级目录此次访问受限，现任及联属仍逐人补核。
+- 阿尔伯塔大学。已查看数学与统计科学系 Academic Staff 和六领域研究目录。用校级目录确认四位代数几何及一位微分几何学者。PIMS 等联合渠道的任职范围仍待核。 逐条核对校系公开六研究方向里的代数组、几何及数学物理组。检查 PIMS Alberta 站点及活动，并补入具名研究方向。直接 Academic Staff 和校级目录此次访问受限，现任及联属仍逐人补核。 续核现行数学 69 位、退休 53 位、联属 14 位、博士后与研究助理 22 位，另查统计分栏 24 人、PIMS 2024–26 具名名单和物理现任、联属及荣休。以具名论文与正式任职确认 Brendan Pass、Valeri Frolov 及 Augustana 的 Ha Tran；Campus Saint-Jean 自然与应用科学页仅确认具名部分。TPI 当期全员名册未公开，校方只给主任与历史年报；图形和算法交叉人员与分校仍待补全。
 - 高丽大学。核对首尔数学系韩语现任 17、荣休 17、访问 13 次（12 人）、数学教育系 6 人，并对照理学院和 BK21 数学组。核对世宗应用数理科学部现任 5、荣休 5、访问 12 人。世宗现任一条空白专长采用 SUNY Korea 具名报告补证。
 - 韦洛尔理工学院。公开教职名册逐人核对研究专长栏；Vellore 2026 研究导师手册 114 条，具名匹配教员 105 人。Chennai 校区当前教师入口直连不稳定，采用公开人员披露及研究导师 PDF 交叉，具名专长确认 Soumendu Roy。其他校区及未说明专长人员继续核对。
 - 北京理工大学。已核录数学与统计学院数学系官方中文名册的 35 人。另查代数李理论与分析实验室并用个人页核实几何学者，其余教师细分方向与研究中心的共同任职仍待核。

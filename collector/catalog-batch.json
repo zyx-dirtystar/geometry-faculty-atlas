@@ -4963,22 +4963,78 @@
     {
       "id": "alberta",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，0 条任职或方向待核。 已收录 9 位学者，个人主页 6、CV 1、指标 2。 已查看数学与统计科学系 Academic Staff 和六领域研究目录。用校级目录确认四位代数几何及一位微分几何学者。PIMS 等联合渠道的任职范围仍待核。 逐条核对校系公开六研究方向里的代数组、几何及数学物理组。检查 PIMS Alberta 站点及活动，并补入具名研究方向。直接 Academic Staff 和校级目录此次访问受限，现任及联属仍逐人补核。",
+      "coverageNote": "已解析 4/17 个登记来源，0 条任职或方向待核。 已逐条核对 Mathematical and Statistical Sciences · Adjunct Professors、Mathematical and Statistical Sciences · Postdoctoral Scholars and Research Associates、Mathematical and Statistical Sciences · Retired Faculty。 已收录 12 位学者，个人主页 10、CV 3、指标 8。 已查看数学与统计科学系 Academic Staff 和六领域研究目录。用校级目录确认四位代数几何及一位微分几何学者。PIMS 等联合渠道的任职范围仍待核。 逐条核对校系公开六研究方向里的代数组、几何及数学物理组。检查 PIMS Alberta 站点及活动，并补入具名研究方向。直接 Academic Staff 和校级目录此次访问受限，现任及联属仍逐人补核。 续核现行数学 69 位、退休 53 位、联属 14 位、博士后与研究助理 22 位，另查统计分栏 24 人、PIMS 2024–26 具名名单和物理现任、联属及荣休。以具名论文与正式任职确认 Brendan Pass、Valeri Frolov 及 Augustana 的 Ha Tran；Campus Saint-Jean 自然与应用科学页仅确认具名部分。TPI 当期全员名册未公开，校方只给主任与历史年报；图形和算法交叉人员与分校仍待补全。",
       "rosterLinks": [
         [
           "Mathematical and Statistical Sciences academic staff",
           "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html"
         ],
         [
+          "Mathematical and Statistical Sciences · Adjunct Professors",
+          "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors.html"
+        ],
+        [
+          "Computing Science · Algorithmics",
+          "https://www.ualberta.ca/en/computing-science/research/research-areas/algorithmics.html"
+        ],
+        [
+          "Augustana · Department of Science",
+          "https://www.ualberta.ca/en/augustana/about-us/department-of-science.html"
+        ],
+        [
+          "Computing Science · Academic Staff",
+          "https://www.ualberta.ca/en/computing-science/faculty-and-staff/faculty-teaching-staff.html?1=Faculty"
+        ],
+        [
           "Research Areas",
           "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html"
         ],
         [
+          "Computing Science · Computer Graphics",
+          "https://www.ualberta.ca/en/computing-science/research/research-areas/computer-graphics.html"
+        ],
+        [
           "数学系或所属学院人员入口",
           "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html"
+        ],
+        [
+          "Department of Physics · Adjunct Faculty",
+          "https://www.ualberta.ca/en/physics/people/adjunct-faculty.html"
+        ],
+        [
+          "Department of Physics · Emeritus Faculty",
+          "https://www.ualberta.ca/en/physics/people/emeritus-faculty.html"
+        ],
+        [
+          "Department of Physics · Faculty",
+          "https://www.ualberta.ca/en/physics/people/faculty.html"
+        ],
+        [
+          "PIMS · University of Alberta site, fellow records dated 2024–2026",
+          "https://pims.math.ca/sites/university-alberta"
+        ],
+        [
+          "Mathematical and Statistical Sciences · Postdoctoral Scholars and Research Associates",
+          "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html"
+        ],
+        [
+          "Mathematical and Statistical Sciences · Retired Faculty",
+          "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html"
+        ],
+        [
+          "Campus Saint-Jean · Répertoire de personnel",
+          "https://www.ualberta.ca/fr/campus-saint-jean/personnel/index.html"
+        ],
+        [
+          "Statistics Division · Academic, Adjunct, Sessional and Retired",
+          "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/centres-and-institutes/statistics-division/people.html"
+        ],
+        [
+          "Theoretical Physics Institute",
+          "https://www.ualberta.ca/en/physics/research/theoretical-physics-institute/index.html"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "korea-university",
@@ -8171,7 +8227,7 @@
           "title": "Associate Professor",
           "url": "https://apps.ualberta.ca/directory/person/topaz",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -8222,7 +8278,7 @@
       ],
       "directoryEvidence": [
         {
-          "text": "Arithmetic geometry, algebraic geometry and anabelian geometry",
+          "text": "arithmetic and algebraic geometry, Galois theory, and Anabelian geometry.",
           "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html"
         },
         {
@@ -8238,7 +8294,81 @@
           "url": "https://www.adamtopaz.com/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "brendan-pass",
+      "name": "Brendan Pass",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "alberta",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sites.ualberta.ca/~pass/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已读校方现任条目、个人主页和个人发表表，未看到独立公开 CV。",
+      "publicationsUrl": "https://sites.ualberta.ca/~pass/papers/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5023737340",
+          "url": "https://openalex.org/authors/A5023737340",
+          "orcid": "https://orcid.org/0000-0003-0753-0381",
+          "authorApiUrl": "https://api.openalex.org/authors/A5023737340",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5023737340,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 42,
+          "works": 66,
+          "citations": 1357,
+          "hIndex": 18,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5023737340",
+      "papers": [
+        {
+          "title": "On the local structure of optimal measures in the multi-marginal optimal transportation problem",
+          "year": 2011,
+          "url": "https://doi.org/10.1007/s00526-011-0421-z"
+        },
+        {
+          "title": "Wasserstein barycenters over Riemannian manifolds",
+          "year": 2016,
+          "url": "https://doi.org/10.1016/j.aim.2016.11.026"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Optimal transport and its connections to geometry, mathematical economics, and mathematical physics.",
+          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html"
+        },
+        {
+          "text": "Differential geometry of optimal transport: pseudo-Riemannian metrics, optimal maps and Wasserstein barycentres on Riemannian manifolds",
+          "url": "https://sites.ualberta.ca/~pass/papers/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://sites.ualberta.ca/~pass/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -8252,7 +8382,7 @@
           "title": "Professor",
           "url": "https://apps.ualberta.ca/directory/person/doran1",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -8275,7 +8405,7 @@
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Algebraic geometry and mathematical physics",
+          "text": "Algebraic geometry and mathematical physics.",
           "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html"
         },
         {
@@ -8283,7 +8413,7 @@
           "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -8297,38 +8427,134 @@
           "title": "Professor",
           "url": "https://apps.ualberta.ca/directory/person/ewoolgar",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [
+        "Mathematical physics and relativity theory",
         "Differential geometry and mathematical relativity"
       ],
-      "homepage": "https://www.math.ualberta.ca/~ewoolgar/",
+      "homepage": "https://sites.ualberta.ca/~ewoolgar/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvStatus": "本人页面列教育履历和研究方向，校级具名档案和 PIMS 任命公告未挂出独立公开 CV。",
+      "publicationsUrl": "https://sites.ualberta.ca/~ewoolgar/papers.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5001102641",
-      "papers": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5001102641",
+          "url": "https://openalex.org/authors/A5001102641",
+          "orcid": "https://orcid.org/0000-0002-9361-4823",
+          "authorApiUrl": "https://api.openalex.org/authors/A5001102641",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5001102641,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 43,
+          "works": 77,
+          "citations": 1393,
+          "hIndex": 20,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5001102641",
+      "papers": [
+        {
+          "title": "Topological censorship and higher genus black holes",
+          "year": 1999,
+          "url": "https://doi.org/10.1103/physrevd.60.104039"
+        },
+        {
+          "title": "A causal order for spacetimes with Lorentzian metrics: proof of compactness of the space of causal curves",
+          "year": 1996,
+          "url": "https://doi.org/10.1088/0264-9381/13/7/023"
+        }
+      ],
       "directoryEvidence": [
         {
-          "text": "Differential geometry and mathematical relativity",
+          "text": "Mathematical physics and relativity theory.",
           "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html"
         },
         {
           "text": "Differential geometry and mathematical relativity",
           "url": "https://www.math.ualberta.ca/~ewoolgar/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://sites.ualberta.ca/~ewoolgar/papers.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ha-tran",
+      "name": "Ha Tran",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "alberta",
+          "department": "Department of Science · Augustana Faculty",
+          "title": "Assistant Professor",
+          "url": "https://apps.ualberta.ca/directory/person/htran2",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/site/hatrannguyenthanh/home",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "学校档案和作者主页显示现任、历史履历和发表表。已查个人导航与学校具名档案，未发现公开全文 CV。",
+      "publicationsUrl": "https://sites.google.com/site/hatrannguyenthanh/reseach-interests-publications",
+      "publicationCounts": [
+        {
+          "value": 14,
+          "scope": "作者完整可见发表表截至 2024 年有正式刊名、年份与卷页的期刊论文。合并预印本与勘误，排除未确认出版日期条目",
+          "url": "https://sites.google.com/site/hatrannguyenthanh/reseach-interests-publications",
+          "checkedAt": "2026-11-25"
+        },
+        {
+          "value": 4,
+          "scope": "同一公开书目截至 2024 年已出版的会议论文集文章",
+          "url": "https://sites.google.com/site/hatrannguyenthanh/reseach-interests-publications",
+          "checkedAt": "2026-11-25"
+        },
+        {
+          "value": 1,
+          "scope": "同一公开书目截至 2024 年的其他文集章节",
+          "url": "https://sites.google.com/site/hatrannguyenthanh/reseach-interests-publications",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "OpenAlex 按 Ha Tran 的首页姓名结果涉及多个同名机构，未匹配本人 Augustana 任职及超奇异椭圆曲线研究。本人书目列 26 个混合条目，已分核截至 2024 年可确认正式出版的作品。另有当期预印本、在编、接收及刊年未明条目，累计引用待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Orienteering with One Endomorphism",
+          "year": 2023,
+          "url": "https://doi.org/10.1007/s44007-023-00053-2"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic and algebraic geometry of supersingular elliptic curves and isogenies, algebraic number theory",
+          "url": "https://www.ualberta.ca/en/augustana/news/2025/01/adding-it-up-ha-tran.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -8339,8 +8565,8 @@
         {
           "schoolId": "alberta",
           "department": "数学系",
-          "title": "Mathematics and Statistical Sciences · academic staff",
-          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html",
+          "title": "Associate Professor",
+          "url": "https://apps.ualberta.ca/directory/person/jkuttler",
           "type": "primary",
           "checkedAt": "2026-11-25"
         }
@@ -8348,23 +8574,61 @@
       "fields": [
         "algebraic"
       ],
-      "tags": [],
+      "tags": [
+        "Algebraic transformation groups",
+        "Algebraic geometry and algebraic transformation groups"
+      ],
       "homepage": null,
-      "homepageStatus": "现有链接由不同学者共用，未核实到独立个人主页。",
+      "homepageStatus": "已查院系目录及具名学校档案；院系旧路径返回 HTTP 410，现行具名目录有研究和授课，未发现独立个人主页。",
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "cvStatus": "已查当前学校个人档案、院系名册和研究组；未发现公开独立 CV。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5060284539",
+          "url": "https://openalex.org/authors/A5060284539",
+          "orcid": null,
+          "authorApiUrl": "https://api.openalex.org/authors/A5060284539",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5060284539,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 10,
+          "works": 14,
+          "citations": 207,
+          "hIndex": 6,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5060284539",
+      "papers": [
+        {
+          "title": "Smooth points of T-stable varieties in G/B and the Peterson map",
+          "year": 2003,
+          "url": "https://doi.org/10.1007/s00222-002-0256-5"
+        },
+        {
+          "title": "Singularities of Schubert varieties, tangent cones and Bruhat graphs",
+          "year": 2006,
+          "url": "https://doi.org/10.1353/ajm.2006.0004"
+        }
+      ],
       "directoryEvidence": [
         {
-          "text": "Algebraic geometry of transformation groups and group actions on algebraic varieties",
-          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html"
+          "text": "Algebraic transformation groups.",
+          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html"
+        },
+        {
+          "text": "Algebraic geometry and algebraic transformation groups",
+          "url": "https://apps.ualberta.ca/directory/person/jkuttler"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://apps.ualberta.ca/directory/person/jkuttler"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -8388,6 +8652,7 @@
         "algebraic"
       ],
       "tags": [
+        "Algebra and algebraic geometry",
         "Algebraic geometry and algebra"
       ],
       "homepage": "https://sites.ualberta.ca/~karpenko/",
@@ -8404,7 +8669,7 @@
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Algebraic geometry and algebra",
+          "text": "Algebra and algebraic geometry.",
           "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html"
         },
         {
@@ -8423,8 +8688,8 @@
         {
           "schoolId": "alberta",
           "department": "数学系",
-          "title": "Professor of Mathematics",
-          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html",
+          "title": "Professor",
+          "url": "https://apps.ualberta.ca/directory/person/gille",
           "type": "primary",
           "checkedAt": "2026-11-25"
         }
@@ -8432,23 +8697,148 @@
       "fields": [
         "algebraic"
       ],
-      "tags": [],
+      "tags": [
+        "Quadratic forms"
+      ],
       "homepage": "https://www.math.ualberta.ca/~gille/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
-      "publicationsUrl": "https://www.math.ualberta.ca/~gille/",
+      "cvStatus": "已查本人主页、公开发表页和校级具名档案，未找到独立 CV。",
+      "publicationsUrl": "https://www.math.ualberta.ca/~gille/publikationen1.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5032189840",
+          "url": "https://openalex.org/authors/A5032189840",
+          "orcid": null,
+          "authorApiUrl": "https://api.openalex.org/authors/A5032189840",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5032189840,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 34,
+          "works": 47,
+          "citations": 560,
+          "hIndex": 14,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5032189840",
+      "papers": [
+        {
+          "title": "Motivic decomposition of isotropic projective homogeneous varieties",
+          "year": 2005,
+          "url": "https://doi.org/10.1215/s0012-7094-04-12614-4"
+        },
+        {
+          "title": "A graded Gersten–Witt complex for schemes with a dualizing complex and the Chow group",
+          "year": 2006,
+          "url": "https://doi.org/10.1016/j.jpaa.2006.01.004"
+        }
+      ],
       "directoryEvidence": [
         {
+          "text": "Quadratic forms",
+          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html"
+        },
+        {
           "text": "Algebraic geometry and arithmetic geometry, Chow motives, quadratic forms and algebraic cycles",
-          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html"
+          "url": "https://www.math.ualberta.ca/~gille/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.ualberta.ca/~gille/publikationen1.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "valeri-frolov",
+      "name": "Valeri Frolov",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "alberta",
+          "department": "Department of Physics · Theoretical Physics Institute",
+          "title": "Professor",
+          "url": "https://apps.ualberta.ca/directory/person/vfrolov",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "1",
+        "Classical and quantum gravity 2",
+        "Black hole physics 3",
+        "Large extra dimensions 4",
+        "Hidden symmetries and higher dimensional black holes 5",
+        "Problem of black hole entropy 6",
+        "Models of a black hole's interior 7",
+        "Quantum field theory in a curved spacetime 8"
+      ],
+      "homepage": "https://sites.ualberta.ca/~vfrolov/",
+      "homepageStatus": null,
+      "cvUrl": "https://sites.ualberta.ca/~vfrolov/CV.html",
+      "cvType": "公开学术 CV（本人 HTML 履历）",
+      "cvStatus": null,
+      "publicationsUrl": "https://sites.ualberta.ca/~vfrolov/Publications.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5019556881",
+          "url": "https://openalex.org/authors/A5019556881",
+          "orcid": "https://orcid.org/0000-0002-8414-5965",
+          "authorApiUrl": "https://api.openalex.org/authors/A5019556881",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5019556881,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 248,
+          "works": 390,
+          "citations": 12059,
+          "hIndex": 57,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5019556881",
+      "papers": [
+        {
+          "title": "Notes on nonsingular models of black holes",
+          "year": 2016,
+          "url": "https://doi.org/10.1103/physrevd.94.104056"
+        },
+        {
+          "title": "Black holes, hidden symmetries, and complete integrability",
+          "year": 2017,
+          "url": "https://doi.org/10.1007/s41114-017-0009-9"
+        },
+        {
+          "title": "New metrics admitting the principal Killing–Yano tensor",
+          "year": 2018,
+          "url": "https://doi.org/10.1103/PhysRevD.97.104071"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of Lorentzian metrics, Killing–Yano tensors, black hole metrics and integrable geodesic flow",
+          "url": "https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.104071"
+        },
+        {
+          "text": "1. Classical and quantum gravity 2. Black hole physics 3. Large extra dimensions 4. Hidden symmetries and higher dimensional black holes 5. Problem of black hole entropy 6. Models of a black hole's interior 7. Quantum field theory in a curved spacetime 8. Quantum effects in accelerated frames 9. Cosmological defects 10. Interaction of strings and branes with a black hole 11. Wormholes and time machine problem. Role of quantum effect / Research Interests:",
+          "url": "https://sites.ualberta.ca/~vfrolov/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://apps.ualberta.ca/directory/person/vfrolov"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -8462,21 +8852,24 @@
         {
           "schoolId": "alberta",
           "department": "数学系",
-          "title": "Professor of Mathematics",
-          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html",
+          "title": "Professor and Interim Department Chair",
+          "url": "https://apps.ualberta.ca/directory/person/vbouchar",
           "type": "primary",
           "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
-        "algebraic"
+        "algebraic",
+        "differential"
       ],
-      "tags": [],
+      "tags": [
+        "String theory, geometry, and mathematical physics"
+      ],
       "homepage": "https://sites.ualberta.ca/~vbouchar/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "cvStatus": "已查当前系主页、校级个人资料、个人主页和加拿大数学会具名简介，未确认公开独立 CV。",
       "publicationsUrl": "https://arxiv.org/a/bouchard_v_1.html",
       "publicationCounts": [],
       "opportunities": [],
@@ -8485,20 +8878,20 @@
         {
           "source": "OpenAlex",
           "authorId": "A5035536527",
-          "orcid": "https://orcid.org/0000-0003-4777-9819",
           "url": "https://openalex.org/authors/A5035536527",
+          "orcid": "https://orcid.org/0000-0003-4777-9819",
           "authorApiUrl": "https://api.openalex.org/authors/A5035536527",
           "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5035536527,type:article&per_page=1&select=id",
           "checkedAt": "2026-11-25",
           "articles": 35,
           "works": 51,
-          "citations": 2414,
-          "hIndex": 24,
+          "citations": 2207,
+          "hIndex": 21,
           "articleScope": "OpenAlex type:article",
           "citationScope": "OpenAlex 作者档案累计引用"
         }
       ],
-      "identityUrl": null,
+      "identityUrl": "https://openalex.org/authors/A5035536527",
       "papers": [
         {
           "title": "Remodeling the B-Model",
@@ -8506,15 +8899,23 @@
           "url": "https://doi.org/10.1007/s00220-008-0620-4"
         },
         {
-          "title": "Supereigenvalue models and topological recursion",
-          "year": 2018,
-          "url": "https://doi.org/10.1007/JHEP04(2018)138"
+          "title": "Topological Strings and (Almost) Modular Forms",
+          "year": 2007,
+          "url": "https://doi.org/10.1007/s00220-007-0383-3"
         }
       ],
       "directoryEvidence": [
         {
+          "text": "String theory, geometry, and mathematical physics",
+          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html"
+        },
+        {
           "text": "Algebraic geometry and mathematical physics, topological recursion, moduli of curves and spectral curves",
           "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html"
+        },
+        {
+          "text": "My research interests focus mainly on the fascinating interface between mathematics and physics. More precisely, I am interested in the interconnections between string theory, geometry, topology, number theory, quantum field theory and gauge theory.",
+          "url": "https://sites.ualberta.ca/~vbouchar/"
         },
         {
           "text": "个人研究或论文来源",
@@ -8532,8 +8933,8 @@
         {
           "schoolId": "alberta",
           "department": "数学系",
-          "title": "Professor of Mathematics",
-          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html",
+          "title": "Professor",
+          "url": "https://apps.ualberta.ca/directory/person/vladimir",
           "type": "primary",
           "checkedAt": "2026-11-25"
         }
@@ -8541,23 +8942,60 @@
       "fields": [
         "algebraic"
       ],
-      "tags": [],
-      "homepage": null,
-      "homepageStatus": "现有链接由不同学者共用，未核实到独立个人主页。",
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
-      "publicationsUrl": null,
+      "tags": [
+        "Algebraic groups and Galois cohomology"
+      ],
+      "homepage": "https://www.math.ualberta.ca/~chernous/Vladimir%20Chernousov.html",
+      "homepageStatus": null,
+      "cvUrl": "https://www.math.ualberta.ca/~chernous/Vladimir%20Chernousov_files/CV.pdf",
+      "cvType": "公开学术 CV（历史版本）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.ualberta.ca/~chernous/Vladimir%20Chernousov.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5025503204",
+          "url": "https://openalex.org/authors/A5025503204",
+          "orcid": "https://orcid.org/0000-0003-4199-7671",
+          "authorApiUrl": "https://api.openalex.org/authors/A5025503204",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5025503204,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 53,
+          "works": 77,
+          "citations": 938,
+          "hIndex": 17,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5025503204",
+      "papers": [
+        {
+          "title": "Motivic decomposition of isotropic projective homogeneous varieties",
+          "year": 2005,
+          "url": "https://doi.org/10.1215/s0012-7094-04-12614-4"
+        },
+        {
+          "title": "Motivic decomposition of projective homogeneous varieties and the Krull-Schmidt theorem",
+          "year": 2006,
+          "url": "https://doi.org/10.1007/s00031-005-1114-5"
+        }
+      ],
       "directoryEvidence": [
+        {
+          "text": "Algebraic groups and Galois cohomology.",
+          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html"
+        },
         {
           "text": "Arithmetic algebraic geometry, algebraic groups and Galois cohomology",
           "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/research-areas.html"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.ualberta.ca/~chernous/Vladimir%20Chernousov.html"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -8574,7 +9012,7 @@
           "title": "Professor",
           "url": "https://apps.ualberta.ca/directory/person/xic",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -8584,28 +9022,34 @@
         "Algebraic geometry"
       ],
       "homepage": null,
-      "homepageStatus": null,
+      "homepageStatus": "已查学校具名目录、PIMS 具名报告和期刊文章。未从这些来源找到独立个人主页。",
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "已查学校具名目录、PIMS 报告介绍和期刊作者地址。未找到全文或简版独立 CV。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
+      "identityNote": "OpenAlex 姓名加 Alberta 查询无匹配，出版社 DOI 10.1017/fms.2022.24 的 Xi Chen 署名和学校均可核但 OpenAlex 作者 ID 为空。已查校级具名页及 PIMS 报告，未确认完整发表清单或 Scholar 指标。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Curves of maximal moduli on K3 surfaces",
+          "year": 2022,
+          "url": "https://doi.org/10.1017/fms.2022.24"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic geometry",
           "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html"
         },
         {
-          "text": "Algebraic geometry",
-          "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html"
+          "text": "Algebraic geometry of rational and cuspidal curves on K3 surfaces",
+          "url": "https://www.pims.math.ca/events/250201-upmascxc"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {

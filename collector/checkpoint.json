@@ -107,9 +107,49 @@
       "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
       "label": "Mathematical and Statistical Sciences academic staff",
       "status": "parsed",
-      "count": 5,
-      "checked_at": "2026-11-23",
-      "note": "浏览公开院系学术人员名册，转录五位方向与任职已有其他公开来源确认的学者。其余人员和联合机构范围仍待核。"
+      "count": 69,
+      "checked_at": "2026-11-25",
+      "note": "数学与统计科学系现任名单 69 条，校内人员目录与研究分组另行对照。"
+    },
+    {
+      "id": "alberta-adjunct26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors.html",
+      "label": "Mathematical and Statistical Sciences · Adjunct Professors",
+      "status": "parsed",
+      "count": 14,
+      "checked_at": "2026-11-25",
+      "note": "14 条数学系外聘或院内联属，所列主单位与该分栏不同。"
+    },
+    {
+      "id": "alberta-algorithms26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/en/computing-science/research/research-areas/algorithmics.html",
+      "label": "Computing Science · Algorithmics",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "校方专题给出研究领域与课程，没有单列几何学现任名册。"
+    },
+    {
+      "id": "alberta-august-dept26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/en/augustana/about-us/department-of-science.html",
+      "label": "Augustana · Department of Science",
+      "status": "reference",
+      "count": 2,
+      "checked_at": "2026-11-25",
+      "note": "对照校区 Department of Science、Computing Science and Mathematics 方向与具名档案，查到这两位数学教职。"
+    },
+    {
+      "id": "alberta-cs-faculty26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/en/computing-science/faculty-and-staff/faculty-teaching-staff.html?1=Faculty",
+      "label": "Computing Science · Academic Staff",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "校方现行人员目录与图形、算法和科研实验室交叉。"
     },
     {
       "id": "alberta-full-audit-source",
@@ -122,6 +162,16 @@
       "note": "机构网站限制了目录请求。"
     },
     {
+      "id": "alberta-graphics26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/en/computing-science/research/research-areas/computer-graphics.html",
+      "label": "Computing Science · Computer Graphics",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "校方专题给出研究与教学范围；具名方向仍须回查个人页面。"
+    },
+    {
       "id": "alberta-math-source",
       "school": "alberta",
       "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
@@ -130,6 +180,96 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "机构网站限制了目录请求。"
+    },
+    {
+      "id": "alberta-physics-adjunct26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/en/physics/people/adjunct-faculty.html",
+      "label": "Department of Physics · Adjunct Faculty",
+      "status": "reference",
+      "count": 6,
+      "checked_at": "2026-11-25",
+      "note": "读取公开名册，转录具名带链接的 6 张卡，重力、相对论和数理物理条目按具名研究证据另查。"
+    },
+    {
+      "id": "alberta-physics-emeriti26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/en/physics/people/emeritus-faculty.html",
+      "label": "Department of Physics · Emeritus Faculty",
+      "status": "reference",
+      "count": 20,
+      "checked_at": "2026-11-25",
+      "note": "20 位公开荣休名单，与现任物理名册分开。"
+    },
+    {
+      "id": "alberta-physics26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/en/physics/people/faculty.html",
+      "label": "Department of Physics · Faculty",
+      "status": "reference",
+      "count": 46,
+      "checked_at": "2026-11-25",
+      "note": "读取公开名册，转录具名带链接的 46 张卡，重力、相对论和数理物理条目按具名研究证据另查。"
+    },
+    {
+      "id": "alberta-pims26",
+      "school": "alberta",
+      "url": "https://pims.math.ca/sites/university-alberta",
+      "label": "PIMS · University of Alberta site, fellow records dated 2024–2026",
+      "status": "reference",
+      "count": 4,
+      "checked_at": "2026-11-25",
+      "note": "三个年份的具名博士后记录，与学校现任博士后分栏对照；历史年份不能单独证明现任。"
+    },
+    {
+      "id": "alberta-postdoc26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+      "label": "Mathematical and Statistical Sciences · Postdoctoral Scholars and Research Associates",
+      "status": "parsed",
+      "count": 22,
+      "checked_at": "2026-11-25",
+      "note": "22 条现行博士后和科研助理分栏，按校方名单原有缩写保留；与具名入口可确认时单列。"
+    },
+    {
+      "id": "alberta-retired26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+      "label": "Mathematical and Statistical Sciences · Retired Faculty",
+      "status": "parsed",
+      "count": 53,
+      "checked_at": "2026-11-25",
+      "note": "53 条退休分栏；未标荣休职称的条目保留为退休名录。"
+    },
+    {
+      "id": "alberta-sj-directory26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/fr/campus-saint-jean/personnel/index.html",
+      "label": "Campus Saint-Jean · Répertoire de personnel",
+      "status": "reference",
+      "count": 2,
+      "checked_at": "2026-11-25",
+      "note": "法语校区目录和自然／应用科学搜索入口。查到数学教育和应用数学的两位具名入口，动态研究者筛选范围仍需核。"
+    },
+    {
+      "id": "alberta-statistics26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/research/centres-and-institutes/statistics-division/people.html",
+      "label": "Statistics Division · Academic, Adjunct, Sessional and Retired",
+      "status": "reference",
+      "count": 24,
+      "checked_at": "2026-11-25",
+      "note": "核对四个分栏共 24 名，计算拓扑及定量方向记录按校级职务与专长查。"
+    },
+    {
+      "id": "alberta-tpi26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/en/physics/research/theoretical-physics-institute/index.html",
+      "label": "Theoretical Physics Institute",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "校方页面列现任负责人 Igor Boettcher、依托院系和研讨会，未列当期全体成员。可公开取得的年度文件为历史来源。"
     },
     {
       "id": "anu-alt-geometry31",
@@ -26229,18 +26369,226 @@
     },
     {
       "source": "alberta-academic-staff",
+      "person_key": "adamkashlak",
+      "school": "alberta",
+      "record": {
+        "name": "Adam Kashlak",
+        "title": "Associate Professor",
+        "research": "Non-asymptotic statistics, High dimensional and functional data, Concentration inequalities, Nonparametric statistics, Mathematical statistics.",
+        "profile": "https://sites.ualberta.ca/~kashlak/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
       "person_key": "adamtopaz",
       "school": "alberta",
       "record": {
         "name": "Adam Topaz",
         "title": "Associate Professor",
-        "research": "Arithmetic geometry, algebraic geometry and anabelian geometry",
-        "profile": "https://apps.ualberta.ca/directory/person/topaz",
-        "homepage": "https://www.adamtopaz.com/",
+        "research": "arithmetic and algebraic geometry, Galois theory, and Anabelian geometry.",
+        "profile": "https://www.adamtopaz.com/",
+        "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "alexanderlitvak",
+      "school": "alberta",
+      "record": {
+        "name": "Alexander Litvak",
+        "title": "Professor",
+        "research": "Asymptotic geometric analysis.",
+        "profile": "http://www.math.ualberta.ca/~alexandr/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "alexandermelnikov",
+      "school": "alberta",
+      "record": {
+        "name": "Alexander Melnikov",
+        "title": "Professor",
+        "research": "Mathematical finance",
+        "profile": "https://apps.ualberta.ca/directory/person/melnikov",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "alirezasimchi",
+      "school": "alberta",
+      "record": {
+        "name": "Alireza Simchi",
+        "title": "Faculty Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "andymccormack",
+      "school": "alberta",
+      "record": {
+        "name": "Andy McCormack",
+        "title": "Assistant Professor",
+        "research": "Analysis of non-Euclidean and tensor data, algebraic statistics, information geometry, statistical decision theory, machine learning.",
+        "profile": "https://sites.google.com/view/andrewmccormack/home",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "arnoberger",
+      "school": "alberta",
+      "record": {
+        "name": "Arno Berger",
+        "title": "Professor",
+        "research": "Dynamical systems and probability theory",
+        "profile": "http://www.math.ualberta.ca/~aberger/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "arturopianzola",
+      "school": "alberta",
+      "record": {
+        "name": "Arturo Pianzola",
+        "title": "Professor",
+        "research": "Applications of Galois cohomology to infinite dimensional lie theory.",
+        "profile": "https://apps.ualberta.ca/directory/person/arturo",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "beatricehelenvritsiou",
+      "school": "alberta",
+      "record": {
+        "name": "Beatrice-Helen Vritsiou",
+        "title": "Associate Professor",
+        "research": "Asymptotic geometry analysis.",
+        "profile": "https://apps.ualberta.ca/directory/person/vritsiou",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "beijiang",
+      "school": "alberta",
+      "record": {
+        "name": "Bei Jiang",
+        "title": "Professor & Statistics Representative",
+        "research": "Methods for joint modelling of longitudinal and health outcome data, Bayesian hierarchical modelling, Mixture modelling, Functional and imaging data analysis, Kernel machine regression/classification, Bayesian support vector machine.",
+        "profile": "https://sites.ualberta.ca/~bei1/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "bethpowell",
+      "school": "alberta",
+      "record": {
+        "name": "Beth Powell",
+        "title": "Faculty Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "binhan",
+      "school": "alberta",
+      "record": {
+        "name": "Bin Han",
+        "title": "Professor",
+        "research": "Wavelet and framelet analysis, approximation theory, computational harmonic analysis, wavelet-based algorithms, and image Processing.",
+        "profile": "https://sites.ualberta.ca/~bhan/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "bowengang",
+      "school": "alberta",
+      "record": {
+        "name": "Bowen Gang",
+        "title": "Assistant Professor",
+        "research": "Statistical Inference, Sequential Analysis, Multiple Testing, Statistical Machine Learning.",
+        "profile": "https://sites.google.com/view/bowengang/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "brendanpass",
+      "school": "alberta",
+      "record": {
+        "name": "Brendan Pass",
+        "title": "Professor",
+        "research": "Optimal transport and its connections to geometry, mathematical economics, and mathematical physics.",
+        "profile": "https://sites.ualberta.ca/~pass/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
       }
     },
     {
@@ -26250,13 +26598,77 @@
       "record": {
         "name": "Charles Doran",
         "title": "Professor",
-        "research": "Algebraic geometry and mathematical physics",
-        "profile": "https://apps.ualberta.ca/directory/person/doran1",
-        "homepage": "https://www.charlesdoran.net/",
+        "research": "Algebraic geometry and mathematical physics.",
+        "profile": "https://www.charlesdoran.net",
+        "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "christophfrei",
+      "school": "alberta",
+      "record": {
+        "name": "Christoph Frei",
+        "title": "Professor (on sabbatical from the Department Chair role)",
+        "research": "Mathematical finance, mathematical economics, and stochastic analysis.",
+        "profile": "http://www.math.ualberta.ca/~cfrei/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "davidmcneilly",
+      "school": "alberta",
+      "record": {
+        "name": "David McNeilly",
+        "title": "Faculty Service Officer",
+        "research": "Representation theory",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "emmanuelneye",
+      "school": "alberta",
+      "record": {
+        "name": "Emmanuel Neye",
+        "title": "Assistant Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "engeljohndelavega",
+      "school": "alberta",
+      "record": {
+        "name": "Engel John Dela Vega",
+        "title": "Assistant Professor",
+        "research": "Mathematical finance, insurance mathematics, and stochastic control.",
+        "profile": "https://apps.ualberta.ca/directory/person/engeljoh",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
       }
     },
     {
@@ -26266,13 +26678,301 @@
       "record": {
         "name": "Eric Woolgar",
         "title": "Professor",
-        "research": "Differential geometry and mathematical relativity",
-        "profile": "https://apps.ualberta.ca/directory/person/ewoolgar",
-        "homepage": "https://www.math.ualberta.ca/~ewoolgar/",
+        "research": "Mathematical physics and relativity theory.",
+        "profile": "https://sites.ualberta.ca/~ewoolgar/",
+        "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "farukuygul",
+      "school": "alberta",
+      "record": {
+        "name": "Faruk Uygul",
+        "title": "Assistant Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "fengdai",
+      "school": "alberta",
+      "record": {
+        "name": "Feng Dai",
+        "title": "Professor",
+        "research": "Analysis",
+        "profile": "https://apps.ualberta.ca/directory/person/fdai",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "gregorywagner",
+      "school": "alberta",
+      "record": {
+        "name": "Gregory Wagner",
+        "title": "Faculty Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "hailegessesse",
+      "school": "alberta",
+      "record": {
+        "name": "Haile Gessesse",
+        "title": "Associate Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "haowang",
+      "school": "alberta",
+      "record": {
+        "name": "Hao Wang",
+        "title": "Professor & Tier 1 Canada Research Chair & ILMEE Director",
+        "research": "Mathematical biology and differential equations.",
+        "profile": "http://www.math.ualberta.ca/~hwang/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "jaynewby",
+      "school": "alberta",
+      "record": {
+        "name": "Jay Newby",
+        "title": "Associate Professor",
+        "research": "Development of mechanistic stochastic models of molecular motion, biomechanics, and chemistry in micron-scale environments such as cells and extracellular polymer matrices.",
+        "profile": "https://newby-jay.github.io/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "jiesun",
+      "school": "alberta",
+      "record": {
+        "name": "Jie Sun",
+        "title": "Associate Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "jochenkuttler",
+      "school": "alberta",
+      "record": {
+        "name": "Jochen Kuttler",
+        "title": "Associate Professor",
+        "research": "Algebraic transformation groups.",
+        "profile": "https://apps.ualberta.ca/directory/person/jkuttler",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "linglongkong",
+      "school": "alberta",
+      "record": {
+        "name": "Linglong Kong",
+        "title": "Professor",
+        "research": "Functional and neuroimaging data analysis, robust statistics and quantile regression, and statistical machine learning.",
+        "profile": "https://sites.ualberta.ca/~lkong/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "manishpatnaik",
+      "school": "alberta",
+      "record": {
+        "name": "Manish Patnaik",
+        "title": "Professor & M.V. Subbarao Professor of Number Theory",
+        "research": "Automorphic forms and loop groups.",
+        "profile": "https://sites.ualberta.ca/~patnaik/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "meymanatfarzamirad",
+      "school": "alberta",
+      "record": {
+        "name": "Meymanat Farzamirad",
+        "title": "Faculty Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "michaelagronah",
+      "school": "alberta",
+      "record": {
+        "name": "Michael Agronah",
+        "title": "Assistant Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "michaelobrien",
+      "school": "alberta",
+      "record": {
+        "name": "Michael O'Brien",
+        "title": "Associate Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "michaelyili",
+      "school": "alberta",
+      "record": {
+        "name": "Michael Yi Li",
+        "title": "Professor",
+        "research": "Ordinary differential equations, dynamical systems, and mathematical modelling of infectious diseases.",
+        "profile": "https://sites.ualberta.ca/~myli/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "michellemichelle",
+      "school": "alberta",
+      "record": {
+        "name": "Michelle Michelle",
+        "title": "Assistant Professor",
+        "research": "Computational Mathematics, numerical PDEs, wavelets, scientific machine learning, and numerical linear algebra",
+        "profile": "https://sites.google.com/view/mmichell/home%20",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "mikekowalski",
+      "school": "alberta",
+      "record": {
+        "name": "Mike Kowalski",
+        "title": "Faculty Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "mohammadniksirat",
+      "school": "alberta",
+      "record": {
+        "name": "Mohammad Niksirat",
+        "title": "Associate Lecturer",
+        "research": "",
+        "profile": "https://sites.ualberta.ca/~niksirat/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "nicolasguay",
+      "school": "alberta",
+      "record": {
+        "name": "Nicolas Guay",
+        "title": "Professor, Associate Chair",
+        "research": "Algebra and representation theory.",
+        "profile": "https://sites.ualberta.ca/~nguay/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
       }
     },
     {
@@ -26282,13 +26982,397 @@
       "record": {
         "name": "Nikita Karpenko",
         "title": "Centennial Professor",
-        "research": "Algebraic geometry and algebra",
-        "profile": "https://apps.ualberta.ca/directory/person/karpenko",
-        "homepage": "https://sites.ualberta.ca/~karpenko/",
+        "research": "Algebra and algebraic geometry.",
+        "profile": "https://sites.ualberta.ca/~karpenko/",
+        "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "paulbuckingham",
+      "school": "alberta",
+      "record": {
+        "name": "Paul Buckingham",
+        "title": "Faculty Lecturer",
+        "research": "",
+        "profile": "https://www.math.ualberta.ca/~pbuckingham/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "paulcartledge",
+      "school": "alberta",
+      "record": {
+        "name": "Paul Cartledge",
+        "title": "Faculty Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "peggyjankovic",
+      "school": "alberta",
+      "record": {
+        "name": "Peggy Jankovic",
+        "title": "Assistant Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "priyaswamy",
+      "school": "alberta",
+      "record": {
+        "name": "Priya Swamy",
+        "title": "Academic Department Manager",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "rachelhardeman",
+      "school": "alberta",
+      "record": {
+        "name": "Rachel Hardeman",
+        "title": "Assistant Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "rogeriomanica",
+      "school": "alberta",
+      "record": {
+        "name": "Rogerio Manica",
+        "title": "Associate Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "rosanafok",
+      "school": "alberta",
+      "record": {
+        "name": "Rosana Fok",
+        "title": "Faculty Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "rouslankrechetnikov",
+      "school": "alberta",
+      "record": {
+        "name": "Rouslan Krechetnikov",
+        "title": "Professor",
+        "research": "Applied mathematics, theoretical experimental fluid dynamics, and partial differential equations.",
+        "profile": "http://www.math.ualberta.ca/~rkrechet/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "ryanmorrill",
+      "school": "alberta",
+      "record": {
+        "name": "Ryan Morrill",
+        "title": "Assistant Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "seangraves",
+      "school": "alberta",
+      "record": {
+        "name": "Sean Graves",
+        "title": "Faculty Lecturer & Coordinator, Decima Robinson Support Centre",
+        "research": "",
+        "profile": "https://seangravesprofile.weebly.com/#https://seangravesprofile.weebly.com/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "sharandeeppandher",
+      "school": "alberta",
+      "record": {
+        "name": "Sharandeep Pandher",
+        "title": "Assistant Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "shawndesaulniers",
+      "school": "alberta",
+      "record": {
+        "name": "Shawn Desaulniers",
+        "title": "Faculty Service Officer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "shirouwang",
+      "school": "alberta",
+      "record": {
+        "name": "Shirou Wang",
+        "title": "Assistant Professor",
+        "research": "Complex dynamics and data science applications.",
+        "profile": "https://sites.google.com/ualberta.ca/shirou-wang/home",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "stefangille",
+      "school": "alberta",
+      "record": {
+        "name": "Stefan Gille",
+        "title": "Professor",
+        "research": "Quadratic forms",
+        "profile": "http://www.math.ualberta.ca/~gille/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "tahirchoulli",
+      "school": "alberta",
+      "record": {
+        "name": "Tahir Choulli",
+        "title": "Professor",
+        "research": "Mathematical finance, and stochastic analysis.",
+        "profile": "https://apps.ualberta.ca/directory/person/tchoulli",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "terrygannon",
+      "school": "alberta",
+      "record": {
+        "name": "Terry Gannon",
+        "title": "Professor",
+        "research": "Mathematics associated with conformal theory.",
+        "profile": "https://apps.ualberta.ca/directory/person/tjgannon",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "thomashillen",
+      "school": "alberta",
+      "record": {
+        "name": "Thomas Hillen",
+        "title": "Professor & Academic Director of Research and PIMS Site Director",
+        "research": "Mathematical biology and partial differential equations.",
+        "profile": "http://www.math.ualberta.ca/~thillen/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "trevorpasanen",
+      "school": "alberta",
+      "record": {
+        "name": "Trevor Pasanen",
+        "title": "Faculty Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "valeriebudd",
+      "school": "alberta",
+      "record": {
+        "name": "Valerie Budd",
+        "title": "Faculty Lecturer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "vincentbouchard",
+      "school": "alberta",
+      "record": {
+        "name": "Vincent Bouchard",
+        "title": "Professor, Interim Department Chair",
+        "research": "String theory, geometry, and mathematical physics",
+        "profile": "https://sites.ualberta.ca/~vbouchar/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "vladimirchernousov",
+      "school": "alberta",
+      "record": {
+        "name": "Vladimir Chernousov",
+        "title": "Professor",
+        "research": "Algebraic groups and Galois cohomology.",
+        "profile": "https://www.math.ualberta.ca/~chernous/Vladimir%20Chernousov.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "vladimirtroitsky",
+      "school": "alberta",
+      "record": {
+        "name": "Vladimir Troitsky",
+        "title": "Professor",
+        "research": "Functional analysis and theory of operators.",
+        "profile": "http://www.math.ualberta.ca/~vtroitsky/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "vladyslavyaskin",
+      "school": "alberta",
+      "record": {
+        "name": "Vladyslav Yaskin",
+        "title": "Professor",
+        "research": "Convex geometry and geometric functional analysis.",
+        "profile": "http://www.math.ualberta.ca/~vladyaskin/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "volkerrunde",
+      "school": "alberta",
+      "record": {
+        "name": "Volker Runde",
+        "title": "Professor",
+        "research": "Functional analysis and abstract harmonic analysis.",
+        "profile": "https://sites.ualberta.ca/~vrunde/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
       }
     },
     {
@@ -26304,7 +27388,1511 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "xinweiyu",
+      "school": "alberta",
+      "record": {
+        "name": "Xinwei Yu",
+        "title": "Professor & Academic Director of Graduate Studies",
+        "research": "Partial differential equations and fluid mechanics.",
+        "profile": "https://www.math.ualberta.ca/~xinweiyu/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "yafeiwang",
+      "school": "alberta",
+      "record": {
+        "name": "Yafei Wang",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://sites.google.com/view/yafei-wang/home",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "yaozhonghu",
+      "school": "alberta",
+      "record": {
+        "name": "Yaozhong Hu",
+        "title": "Centennial Professor",
+        "research": "Probability and applications, statistics, stochastic control, mathematical finance.",
+        "profile": "https://sites.ualberta.ca/~yaozhong/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "yingfeiyi",
+      "school": "alberta",
+      "record": {
+        "name": "Yingfei Yi",
+        "title": "Professor & Killam Memorial Scholar",
+        "research": "Dynamical systems and differential equations.",
+        "profile": "https://sites.ualberta.ca/~yingfei/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-academic-staff",
+      "person_key": "zhongweishen",
+      "school": "alberta",
+      "record": {
+        "name": "Zhongwei Shen",
+        "title": "Associate Professor",
+        "research": "Differential equations and dynamical systems.",
+        "profile": "https://sites.ualberta.ca/~zhongwei/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/academic-staff.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-adjunct26",
+      "person_key": "aditcaciuc",
+      "school": "alberta",
+      "record": {
+        "name": "Adi Tcaciuc",
+        "title": "Adjunct Professor · MacEwan University",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-adjunct26",
+      "person_key": "christopherramsey",
+      "school": "alberta",
+      "record": {
+        "name": "Christopher Ramsey",
+        "title": "Adjunct Professor · MacEwan University",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-adjunct26",
+      "person_key": "cristianivanescu",
+      "school": "alberta",
+      "record": {
+        "name": "Cristian Ivanescu",
+        "title": "Adjunct Professor · MacEwan University",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-adjunct26",
+      "person_key": "cristinaanton",
+      "school": "alberta",
+      "record": {
+        "name": "Cristina Anton",
+        "title": "Adjunct Professor · MacEwan University",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-adjunct26",
+      "person_key": "ericfoxall",
+      "school": "alberta",
+      "record": {
+        "name": "Eric Foxall",
+        "title": "Adjunct Professor · UBC - Okanagan",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-adjunct26",
+      "person_key": "giseonheo",
+      "school": "alberta",
+      "record": {
+        "name": "Giseon Heo",
+        "title": "Adjunct Professor · University of Alberta, Mike Petryk School of Dentistry",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-adjunct26",
+      "person_key": "gustavoandrescarreroaraujo",
+      "school": "alberta",
+      "record": {
+        "name": "Gustavo Andres Carrero Araujo",
+        "title": "Adjunct Professor · Athabasca University",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-adjunct26",
+      "person_key": "hassansafouhi",
+      "school": "alberta",
+      "record": {
+        "name": "Hassan Safouhi",
+        "title": "Adjunct Professor · Campus Saint-Jean",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-adjunct26",
+      "person_key": "mariebetsyvarughese",
+      "school": "alberta",
+      "record": {
+        "name": "Marie (Betsy) Varughese",
+        "title": "Adjunct Professor · Institute of Health Economics",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-adjunct26",
+      "person_key": "morrisflynn",
+      "school": "alberta",
+      "record": {
+        "name": "Morris Flynn",
+        "title": "Adjunct Professor · University of Alberta, Department of Mechanical Engineering",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-adjunct26",
+      "person_key": "nicolaestrungaru",
+      "school": "alberta",
+      "record": {
+        "name": "Nicolae Strungaru",
+        "title": "Adjunct Professor · MacEwan University",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-adjunct26",
+      "person_key": "rhondarosychuk",
+      "school": "alberta",
+      "record": {
+        "name": "Rhonda Rosychuk",
+        "title": "Adjunct Professor · University of Alberta, Dept. of Pediatrics",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-adjunct26",
+      "person_key": "ruihu",
+      "school": "alberta",
+      "record": {
+        "name": "Rui Hu",
+        "title": "Adjunct Professor · MacEwan University",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-adjunct26",
+      "person_key": "stephenscully",
+      "school": "alberta",
+      "record": {
+        "name": "Stephen Scully",
+        "title": "Adjunct Professor · University of Victoria",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "alihamidoglu",
+      "school": "alberta",
+      "record": {
+        "name": "Ali Hamidoğlu",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "cxu",
+      "school": "alberta",
+      "record": {
+        "name": "C. Xu",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "czhang",
+      "school": "alberta",
+      "record": {
+        "name": "C. Zhang",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "dasgiersson",
+      "school": "alberta",
+      "record": {
+        "name": "D. Asgiersson",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "ffazeliasl",
+      "school": "alberta",
+      "record": {
+        "name": "F. Fazeliasl",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "gsanzeni",
+      "school": "alberta",
+      "record": {
+        "name": "G. Sanzeni",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "hany",
+      "school": "alberta",
+      "record": {
+        "name": "Han Y",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "houariammar",
+      "school": "alberta",
+      "record": {
+        "name": "Houari Ammar",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "hshi",
+      "school": "alberta",
+      "record": {
+        "name": "H. Shi",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "inegrini",
+      "school": "alberta",
+      "record": {
+        "name": "I. Negrini",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "jguu",
+      "school": "alberta",
+      "record": {
+        "name": "J. Guu",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "jwang",
+      "school": "alberta",
+      "record": {
+        "name": "J. Wang",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "jzhang",
+      "school": "alberta",
+      "record": {
+        "name": "J. Zhang",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "kwei",
+      "school": "alberta",
+      "record": {
+        "name": "K. Wei",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "kyunghanchoi",
+      "school": "alberta",
+      "record": {
+        "name": "Kyunghan Choi",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "lsysoeva",
+      "school": "alberta",
+      "record": {
+        "name": "L. Sysoeva",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "mgielen",
+      "school": "alberta",
+      "record": {
+        "name": "M. Gielen",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "pablovenegasgarcia",
+      "school": "alberta",
+      "record": {
+        "name": "Pablo Venegas Garcia",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "ssabharwal",
+      "school": "alberta",
+      "record": {
+        "name": "S. Sabharwal",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "xwang",
+      "school": "alberta",
+      "record": {
+        "name": "X. Wang",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "yxioa",
+      "school": "alberta",
+      "record": {
+        "name": "Y. Xioa",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-postdoc26",
+      "person_key": "yzhang",
+      "school": "alberta",
+      "record": {
+        "name": "Y. Zhang",
+        "title": "Postdoctoral Scholar or Research Associate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/postdoctoral-scholars.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "akbarrhemtulla",
+      "school": "alberta",
+      "record": {
+        "name": "Akbar Rhemtulla",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "anthonytominglau",
+      "school": "alberta",
+      "record": {
+        "name": "Anthony To-ming Lau",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "arweiss",
+      "school": "alberta",
+      "record": {
+        "name": "A.R. Weiss",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "bruceallison",
+      "school": "alberta",
+      "record": {
+        "name": "Bruce Allison",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "byronschmuland",
+      "school": "alberta",
+      "record": {
+        "name": "Byron Schmuland",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "cheonghoo",
+      "school": "alberta",
+      "record": {
+        "name": "Cheong Hoo",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "douglaswiens",
+      "school": "alberta",
+      "record": {
+        "name": "Douglas Wiens",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "dragoshrimiuc",
+      "school": "alberta",
+      "record": {
+        "name": "Dragos Hrimiuc",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "editgombay",
+      "school": "alberta",
+      "record": {
+        "name": "Edit Gombay",
+        "title": "Professor Emerita",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "garryludwig",
+      "school": "alberta",
+      "record": {
+        "name": "Garry Ludwig",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "georgepeschke",
+      "school": "alberta",
+      "record": {
+        "name": "George Peschke",
+        "title": "Retired faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "geraldcliff",
+      "school": "alberta",
+      "record": {
+        "name": "Gerald Cliff",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "gerdadevries",
+      "school": "alberta",
+      "record": {
+        "name": "Gerda de Vries",
+        "title": "Professor Emerita",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "gordonswaters",
+      "school": "alberta",
+      "record": {
+        "name": "Gordon Swaters",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "grahamchambers",
+      "school": "alberta",
+      "record": {
+        "name": "Graham Chambers",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "harveyabbott",
+      "school": "alberta",
+      "record": {
+        "name": "Harvey Abbott",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "henryjjvanroessel",
+      "school": "alberta",
+      "record": {
+        "name": "Henry J.J. Van Roessel",
+        "title": "Retired faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "henrykkolacz",
+      "school": "alberta",
+      "record": {
+        "name": "Henryk Kolacz",
+        "title": "Retired faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "ivanbaggs",
+      "school": "alberta",
+      "record": {
+        "name": "Ivan Baggs",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "ivanmizera",
+      "school": "alberta",
+      "record": {
+        "name": "Ivan Mizera",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "jackmacki",
+      "school": "alberta",
+      "record": {
+        "name": "Jack Macki",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "jamesdlewis",
+      "school": "alberta",
+      "record": {
+        "name": "James D. Lewis",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "jimtimourian",
+      "school": "alberta",
+      "record": {
+        "name": "Jim Timourian",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "johnbowman",
+      "school": "alberta",
+      "record": {
+        "name": "John Bowman",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "johnmoon",
+      "school": "alberta",
+      "record": {
+        "name": "John Moon",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "kenandersen",
+      "school": "alberta",
+      "record": {
+        "name": "Ken Andersen",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "keumheechough",
+      "school": "alberta",
+      "record": {
+        "name": "Keumhee Chough",
+        "title": "Professor Emerita",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "krishenmehra",
+      "school": "alberta",
+      "record": {
+        "name": "Krishen Mehra",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "marklewis",
+      "school": "alberta",
+      "record": {
+        "name": "Mark Lewis",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "mazishirvani",
+      "school": "alberta",
+      "record": {
+        "name": "Mazi Shirvani",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "michaelkouritzin",
+      "school": "alberta",
+      "record": {
+        "name": "Michael Kouritzin",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "mikhailkovalyov",
+      "school": "alberta",
+      "record": {
+        "name": "Mikhail Kovalyov",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "nadhlaalsalam",
+      "school": "alberta",
+      "record": {
+        "name": "Nadhla Al-Salam",
+        "title": "Retired faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "ngnprasad",
+      "school": "alberta",
+      "record": {
+        "name": "NGN Prasad",
+        "title": "Retired faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "peterhooper",
+      "school": "alberta",
+      "record": {
+        "name": "Peter Hooper",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "renepoliquin",
+      "school": "alberta",
+      "record": {
+        "name": "Rene Poliquin",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "robertelliott",
+      "school": "alberta",
+      "record": {
+        "name": "Robert Elliott",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "robertmoody",
+      "school": "alberta",
+      "record": {
+        "name": "Robert Moody",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "roberttait",
+      "school": "alberta",
+      "record": {
+        "name": "Robert Tait",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "rohanakarunamuni",
+      "school": "alberta",
+      "record": {
+        "name": "Rohana Karunamuni",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "rongqingjia",
+      "school": "alberta",
+      "record": {
+        "name": "Rong-Qing Jia",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "shermriemenschneider",
+      "school": "alberta",
+      "record": {
+        "name": "Sherm Riemenschneider",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "subhashlele",
+      "school": "alberta",
+      "record": {
+        "name": "Subhash Lele",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "sudarshansehgal",
+      "school": "alberta",
+      "record": {
+        "name": "Sudarshan Sehgal",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "sudhishghurye",
+      "school": "alberta",
+      "record": {
+        "name": "Sudhish Ghurye",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "vaclavzizler",
+      "school": "alberta",
+      "record": {
+        "name": "Vaclav Zizler",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "vakhtangpoutkaradze",
+      "school": "alberta",
+      "record": {
+        "name": "Vakhtang Poutkaradze",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "walterallegretto",
+      "school": "alberta",
+      "record": {
+        "name": "Walter Allegretto",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "wieslawkrawcewicz",
+      "school": "alberta",
+      "record": {
+        "name": "Wieslaw Krawcewicz",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "wosangyoung",
+      "school": "alberta",
+      "record": {
+        "name": "Wo-Sang Young",
+        "title": "Professor Emerita",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "yanpinglin",
+      "school": "alberta",
+      "record": {
+        "name": "Yanping Lin",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "yaushuwong",
+      "school": "alberta",
+      "record": {
+        "name": "Yau Shu Wong",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "alberta-retired26",
+      "person_key": "zeevditzian",
+      "school": "alberta",
+      "record": {
+        "name": "Zeev Ditzian",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ualberta.ca/en/mathematical-and-statistical-sciences/people/adjunct-professors1.html",
+        "checked_at": "2026-11-25"
       }
     },
     {
@@ -426494,6 +429082,19 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://apps.ualberta.ca/directory/person/dpage",
+      "cache_id": "profile-0b25d488264546ee",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
       "url": "https://apps.ualberta.ca/directory/person/ewoolgar",
       "cache_id": "profile-d78ecbc206dad451",
       "status": "parsed",
@@ -426505,6 +429106,33 @@
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://apps.ualberta.ca/directory/person/htran2",
+      "cache_id": "profile-149ec78ac6582d2a",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://apps.ualberta.ca/directory/person/htran2#Publications",
+        "orcid": "0000-0001-5180-586X",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://apps.ualberta.ca/directory/person/jkuttler",
+      "cache_id": "profile-9ac07c31798bc131",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
     },
     {
       "url": "https://apps.ualberta.ca/directory/person/karpenko",
@@ -426520,6 +429148,20 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://apps.ualberta.ca/directory/person/srastgoo",
+      "cache_id": "profile-5761c91a25c65a2e",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "https://www.srastgoo.com/",
+        "cv": "",
+        "publications": "https://apps.ualberta.ca/directory/person/srastgoo#Publications",
+        "orcid": "0000-0001-8993-9601",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
       "url": "https://apps.ualberta.ca/directory/person/topaz",
       "cache_id": "profile-d1abf1933b6cc7f6",
       "status": "parsed",
@@ -426533,6 +429175,19 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://apps.ualberta.ca/directory/person/vfrolov",
+      "cache_id": "profile-4667d626b407c192",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
       "url": "https://apps.ualberta.ca/directory/person/xic",
       "cache_id": "profile-4677cf88ee3645ed",
       "status": "parsed",
@@ -426541,9 +429196,9 @@
         "homepage": "",
         "cv": "",
         "publications": "",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-25"
       },
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-25"
     },
     {
       "url": "https://arith-geom.github.io/ag-comp-arith-geom/members/prof-dr-gebhard-bockle/",
@@ -454458,6 +457113,32 @@
       "checked_at": "2026-11-24"
     },
     {
+      "url": "https://sites.google.com/site/hatrannguyenthanh/home",
+      "cache_id": "profile-d10ae35d7ec633f2",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://sites.google.com/site/hatrannguyenthanh/reseach-interests-publications",
+      "cache_id": "profile-5c55822f6c8d4267",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
       "url": "https://sites.google.com/site/husneyparvezsarwar1/",
       "cache_id": "profile-0ad42a00c8c1f83d",
       "status": "parsed",
@@ -455410,6 +458091,32 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://sites.ualberta.ca/~ewoolgar/",
+      "cache_id": "profile-b0c332fdeb9a0d06",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://sites.ualberta.ca/~ewoolgar/papers.html",
+      "cache_id": "profile-cc2b8c3bf5fd761c",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "http://www.math.ualberta.ca/%7Eewoolgar",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
       "url": "https://sites.ualberta.ca/~karpenko/",
       "cache_id": "profile-fe1ab93bb8cf30a2",
       "status": "parsed",
@@ -455428,6 +458135,71 @@
       "status": "parsed",
       "record": null,
       "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://sites.ualberta.ca/~pass/",
+      "cache_id": "profile-37167561fdda7de6",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://sites.ualberta.ca/~pass/papers",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://sites.ualberta.ca/~pass/papers/",
+      "cache_id": "profile-f7d7be58929a4aeb",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://sites.ualberta.ca/~vbouchar/",
+      "cache_id": "profile-68aafac387355561",
+      "status": "parsed",
+      "record": {
+        "research": "My research interests focus mainly on the fascinating interface between mathematics and physics. More precisely, I am interested in the interconnections between string theory, geometry, topology, number theory, quantum field theory and gauge theory.",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://sites.ualberta.ca/~vfrolov/",
+      "cache_id": "profile-2efae0df4eaad1ff",
+      "status": "parsed",
+      "record": {
+        "research": "1. Classical and quantum gravity 2. Black hole physics 3. Large extra dimensions 4. Hidden symmetries and higher dimensional black holes 5. Problem of black hole entropy 6. Models of a black hole's interior 7. Quantum field theory in a curved spacetime 8. Quantum effects in accelerated frames 9. Cosmological defects 10. Interaction of strings and branes with a black hole 11. Wormholes and time machine problem. Role of quantum effect / Research Interests:",
+        "homepage": "",
+        "cv": "https://sites.ualberta.ca/~vfrolov/CV.html",
+        "publications": "https://sites.ualberta.ca/~vfrolov/Publications.html",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://sites.ualberta.ca/~vfrolov/Publications.html",
+      "cache_id": "profile-f26fd0d2a502b69b",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "https://sites.ualberta.ca/~vfrolov/CV.html",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
     },
     {
       "url": "https://smp.uq.edu.au/profile/11136/meagan-carney",
@@ -485659,11 +488431,43 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.math.ualberta.ca/~ewoolgar/",
-      "cache_id": "profile-fdcb35a79a4981f6",
-      "status": "source_error",
-      "record": null,
-      "checked_at": "2026-11-24"
+      "url": "https://www.math.ualberta.ca/~chernous/Vladimir%20Chernousov.html",
+      "cache_id": "profile-6fb34a1982b37c5a",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://www.math.ualberta.ca/~gille/",
+      "cache_id": "profile-2734105adc8f77e8",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.math.ualberta.ca/~gille/publikationen1.html",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://www.math.ualberta.ca/~gille/publikationen1.html",
+      "cache_id": "profile-fb2ed0970bed9b98",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
     },
     {
       "url": "https://www.math.ubc.ca/user/2415",
@@ -514109,6 +516913,38 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
     },
+    "brendan-pass": {
+      "status": "review_ready",
+      "author_id": "A5023737340",
+      "papers": [
+        {
+          "title": "On the local structure of optimal measures in the multi-marginal optimal transportation problem",
+          "year": 2011,
+          "url": "https://doi.org/10.1007/s00526-011-0421-z"
+        },
+        {
+          "title": "Wasserstein barycenters over Riemannian manifolds",
+          "year": 2016,
+          "url": "https://doi.org/10.1016/j.aim.2016.11.026"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5023737340",
+        "url": "https://openalex.org/authors/A5023737340",
+        "orcid": "https://orcid.org/0000-0003-0753-0381",
+        "authorApiUrl": "https://api.openalex.org/authors/A5023737340",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5023737340,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 42,
+        "works": 66,
+        "citations": 1357,
+        "hIndex": 18,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "brett-parker": {
       "status": "review_ready",
       "author_id": "A5020017045",
@@ -515675,10 +518511,36 @@
       "checkedAt": "2026-11-23"
     },
     "eric-woolgar": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/A5001102641"
+      "status": "review_ready",
+      "author_id": "A5001102641",
+      "papers": [
+        {
+          "title": "Topological censorship and higher genus black holes",
+          "year": 1999,
+          "url": "https://doi.org/10.1103/physrevd.60.104039"
+        },
+        {
+          "title": "A causal order for spacetimes with Lorentzian metrics: proof of compactness of the space of causal curves",
+          "year": 1996,
+          "url": "https://doi.org/10.1088/0264-9381/13/7/023"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5001102641",
+        "url": "https://openalex.org/authors/A5001102641",
+        "orcid": "https://orcid.org/0000-0002-9361-4823",
+        "authorApiUrl": "https://api.openalex.org/authors/A5001102641",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5001102641,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 43,
+        "works": 77,
+        "citations": 1393,
+        "hIndex": 20,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "eric-zaslow": {
       "status": "review_ready",
@@ -516303,6 +519165,11 @@
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5040280051"
+    },
+    "ha-tran": {
+      "status": "identity_review",
+      "reason": "OpenAlex 按 Ha Tran 的首页姓名结果涉及多个同名机构，未匹配本人 Augustana 任职及超奇异椭圆曲线研究。本人书目列 26 个混合条目，已分核截至 2024 年可确认正式出版的作品。另有当期预印本、在编、接收及刊年未明条目，累计引用待核。",
+      "checkedAt": "2026-11-25"
     },
     "haesong-seo": {
       "status": "identity_review",
@@ -517519,6 +520386,38 @@
         "works": 75,
         "citations": 1307,
         "hIndex": 21,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "jochen-kuttler": {
+      "status": "review_ready",
+      "author_id": "A5060284539",
+      "papers": [
+        {
+          "title": "Smooth points of T-stable varieties in G/B and the Peterson map",
+          "year": 2003,
+          "url": "https://doi.org/10.1007/s00222-002-0256-5"
+        },
+        {
+          "title": "Singularities of Schubert varieties, tangent cones and Bruhat graphs",
+          "year": 2006,
+          "url": "https://doi.org/10.1353/ajm.2006.0004"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5060284539",
+        "url": "https://openalex.org/authors/A5060284539",
+        "orcid": null,
+        "authorApiUrl": "https://api.openalex.org/authors/A5060284539",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5060284539,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 10,
+        "works": 14,
+        "citations": 207,
+        "hIndex": 6,
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
       }
@@ -522403,6 +525302,38 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "stefan-gille": {
+      "status": "review_ready",
+      "author_id": "A5032189840",
+      "papers": [
+        {
+          "title": "Motivic decomposition of isotropic projective homogeneous varieties",
+          "year": 2005,
+          "url": "https://doi.org/10.1215/s0012-7094-04-12614-4"
+        },
+        {
+          "title": "A graded Gersten–Witt complex for schemes with a dualizing complex and the Chow group",
+          "year": 2006,
+          "url": "https://doi.org/10.1016/j.jpaa.2006.01.004"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5032189840",
+        "url": "https://openalex.org/authors/A5032189840",
+        "orcid": null,
+        "authorApiUrl": "https://api.openalex.org/authors/A5032189840",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5032189840,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 34,
+        "works": 47,
+        "citations": 560,
+        "hIndex": 14,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "stefano-cremonesi": {
       "status": "review_ready",
       "author_id": "A5056156269",
@@ -523248,6 +526179,38 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "valeri-frolov": {
+      "status": "review_ready",
+      "author_id": "A5019556881",
+      "papers": [
+        {
+          "title": "Notes on nonsingular models of black holes",
+          "year": 2016,
+          "url": "https://doi.org/10.1103/physrevd.94.104056"
+        },
+        {
+          "title": "Black holes, hidden symmetries, and complete integrability",
+          "year": 2017,
+          "url": "https://doi.org/10.1007/s41114-017-0009-9"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5019556881",
+        "url": "https://openalex.org/authors/A5019556881",
+        "orcid": "https://orcid.org/0000-0002-8414-5965",
+        "authorApiUrl": "https://api.openalex.org/authors/A5019556881",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5019556881,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 248,
+        "works": 390,
+        "citations": 12059,
+        "hIndex": 57,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "vamsi-pritham-pingali": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
@@ -523374,24 +526337,24 @@
           "url": "https://doi.org/10.1007/s00220-008-0620-4"
         },
         {
-          "title": "Supereigenvalue models and topological recursion",
-          "year": 2018,
-          "url": "https://doi.org/10.1007/JHEP04(2018)138"
+          "title": "Topological Strings and (Almost) Modular Forms",
+          "year": 2007,
+          "url": "https://doi.org/10.1007/s00220-007-0383-3"
         }
       ],
       "checkedAt": "2026-11-25",
       "snapshot": {
         "source": "OpenAlex",
         "authorId": "A5035536527",
-        "orcid": "https://orcid.org/0000-0003-4777-9819",
         "url": "https://openalex.org/authors/A5035536527",
+        "orcid": "https://orcid.org/0000-0003-4777-9819",
         "authorApiUrl": "https://api.openalex.org/authors/A5035536527",
         "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5035536527,type:article&per_page=1&select=id",
         "checkedAt": "2026-11-25",
         "articles": 35,
         "works": 51,
-        "citations": 2414,
-        "hIndex": 24,
+        "citations": 2207,
+        "hIndex": 21,
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
       }
@@ -523400,6 +526363,38 @@
       "status": "source_error",
       "reason": "OpenAlex 请求或返回数据失败。",
       "checkedAt": "2026-11-24"
+    },
+    "vladimir-chernousov": {
+      "status": "review_ready",
+      "author_id": "A5025503204",
+      "papers": [
+        {
+          "title": "Motivic decomposition of isotropic projective homogeneous varieties",
+          "year": 2005,
+          "url": "https://doi.org/10.1215/s0012-7094-04-12614-4"
+        },
+        {
+          "title": "Motivic decomposition of projective homogeneous varieties and the Krull-Schmidt theorem",
+          "year": 2006,
+          "url": "https://doi.org/10.1007/s00031-005-1114-5"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5025503204",
+        "url": "https://openalex.org/authors/A5025503204",
+        "orcid": "https://orcid.org/0000-0003-4199-7671",
+        "authorApiUrl": "https://api.openalex.org/authors/A5025503204",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5025503204,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 53,
+        "works": 77,
+        "citations": 938,
+        "hIndex": 17,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "vladimir-dokchitser": {
       "status": "review_ready",
@@ -523596,8 +526591,8 @@
     },
     "xi-chen": {
       "status": "identity_review",
-      "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "checkedAt": "2026-11-23"
+      "reason": "OpenAlex 姓名加 Alberta 查询无匹配，出版社 DOI 10.1017/fms.2022.24 的 Xi Chen 署名和学校均可核但 OpenAlex 作者 ID 为空。已查校级具名页及 PIMS 报告，未确认完整发表清单或 Scholar 指标。",
+      "checkedAt": "2026-11-25"
     },
     "xiangwen-zhang": {
       "status": "source_error",
