@@ -420,7 +420,7 @@ function showProfile(id, schoolFilter) {
       external("发表列表",person.publicationsUrl,"button")),
     node("ul",{},person.affiliations.map(item => node("li",{},
       external([displaySchool(schools.get(item.schoolId)),item.department,item.title].filter(Boolean).join(" · "),item.url),
-      item.type && item.type !== "primary" ? `（${item.type}）` : "",
+      item.type === "secondary" ? "（同时任职）" : item.type && item.type !== "primary" ? `（${item.type}）` : "",
       item.checkedAt ? node("small",{},` · 核对 ${item.checkedAt}`) : null
     ))),
     !person.homepage ? node("p",{},node("small",{},person.homepageStatus || "个人主页待核。")) : null,

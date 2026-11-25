@@ -3379,7 +3379,7 @@
     {
       "id": "rudn",
       "coverage": "sample",
-      "coverageNote": "已解析 1/4 个登记来源，1 条任职或方向待核。 已查俄文招生教师库、尼科尔斯基研究所结构、科研项目及个人档案。指标理论和非交换几何与本库方向分别记录；现行全员专长仍待对照。",
+      "coverageNote": "已解析 1/6 个登记来源，1 条任职或方向待核。 已查俄文招生教师库、尼科尔斯基研究所结构、科研项目及个人档案。指标理论和非交换几何与本库方向分别记录；现行全员专长仍待对照。",
       "rosterLinks": [
         [
           "FizMat · Учёные",
@@ -3390,8 +3390,16 @@
           "https://www.rudn.ru/about/struktura-rudn/units/rektor-rudn/fakultet-fiziko-matematicheskih-i-estestvennyh-nauk/matematicheskiy-institut-imeni-akademika-sm-nikolskogo"
         ],
         [
+          "School of Differential and Functional Differential Equations · Team",
+          "https://sc-diff.rudn.ru/team.html"
+        ],
+        [
           "Faculty of Physics and Mathematics and Natural Sciences",
           "https://eng.rudn.ru/education/schools-and-departments/faculties/faculty-of-physics-and-mathematics-and-natural-sciences/"
+        ],
+        [
+          "Математический институт имени академика С. М. Никольского",
+          "https://www.rudn.ru/about/struktura-rudn/units/rektor-rudn/fakultet-fiziko-matematicheskih-i-estestvennyh-nauk/matematicheskiy-institut-imeni-akademika-sm-nikolskogo"
         ],
         [
           "尼科尔斯基数学研究所",
@@ -3583,7 +3591,7 @@
     {
       "id": "cityuhk",
       "coverage": "sample",
-      "coverageNote": "已解析 1/8 个登记来源，30 条任职或方向待核。 已查数学系、刘璧如数学科学中心、CityUHK Scholars 和 Personal Staff Profile。已确认旧微分几何档案为 Former；现任及联合名单仍需复核。",
+      "coverageNote": "已解析 1/8 个登记来源，29 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 0。 已查数学系、刘璧如数学科学中心、CityUHK Scholars 和 Personal Staff Profile。已确认旧微分几何档案为 Former；现任及联合名单仍需复核。",
       "rosterLinks": [
         [
           "CityUHK Scholars · Cristinel Mardare（历史任职）",
@@ -3735,7 +3743,7 @@
     {
       "id": "iit-delhi",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，2 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 1、指标 1。 已解析院系 Faculty 网页调用的公开名单及研究标签，并检查继续教育平台研究领域。公开页目前返回 34 张教师卡，联合单位与缺少方向简介的个人仍待核。",
+      "coverageNote": "已解析 1/6 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 1、指标 1。 已解析院系 Faculty 网页调用的公开名单及研究标签，并检查继续教育平台研究领域。公开页目前返回 34 张教师卡，联合单位与缺少方向简介的个人仍待核。 补核两位相邻方向的现任职级及计算几何／非交换几何的具名证据，并交叉对照 IIT Delhi 年报。阿布扎比分校公布教师简介 PDF，另核各岗位与主校具体关系。",
       "rosterLinks": [
         [
           "QIP IIT Delhi · Faculty Research Areas",
@@ -3748,6 +3756,18 @@
         [
           "数学系教师名录",
           "https://maths.iitd.ac.in/faculty"
+        ],
+        [
+          "IIT Delhi Abu Dhabi · official Faculty Profiles",
+          "https://abudhabi.iitd.ac.in/uploaded_files/FacultyProfiles.pdf"
+        ],
+        [
+          "IIT Delhi · Annual Report Academic Staff and Math Department",
+          "https://rti.iitd.ac.in/sites/default/files/inst_manuals/AR-2024-25-E.pdf"
+        ],
+        [
+          "IIT Delhi Mathematics · Recent Research",
+          "https://maths.iitd.ac.in/recentresearch"
         ]
       ],
       "checkedAt": "2026-11-24"
@@ -4143,14 +4163,26 @@
     {
       "id": "comsats",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，15 条任职或方向待核。 已查 Lahore、Wah 校区数学名册、研究组和校级个人页，查到组合交换代数和优化方向。其他校区几何方向与联聘待核。",
+      "coverageNote": "已解析 3/4 个登记来源，16 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 1。 已查 Lahore、Wah 校区数学名册、研究组和校级个人页，查到组合交换代数和优化方向。其他校区几何方向与联聘待核。 Lahore 官网 33 位现任与 1 位休假卡片，具名专长逐项核查；较早中央资料的职级与校区现任名册更新不同。",
       "rosterLinks": [
         [
           "数学系或所属学院人员入口",
           "https://ww2.comsats.edu.pk/faculty/DWFaculty.aspx?Cid=1&Dept=Mathematics+Department&Did=8&id=8"
+        ],
+        [
+          "Lahore Mathematics · Research Groups",
+          "https://lahore.comsats.edu.pk/math/researchgroups.aspx"
+        ],
+        [
+          "Lahore Mathematics · Faculty currently listed",
+          "https://lahore.comsats.edu.pk/math/faculty.aspx"
+        ],
+        [
+          "Lahore Mathematics · Faculty on leave",
+          "https://lahore.comsats.edu.pk/math/faculty.aspx"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "king-saud",
@@ -4323,8 +4355,20 @@
     {
       "id": "mipt",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，12 条任职或方向待核。 已查俄文系所结构、现代数学课程、2025–26 高等数学选修课及校方教务。课程授课与现任导师分开，继续保留任职来源缺项。",
+      "coverageNote": "已解析 2/5 个登记来源，12 条任职或方向待核。 已收录 3 位学者，个人主页 0、CV 0、指标 0。 已查俄文系所结构、现代数学课程、2025–26 高等数学选修课及校方教务。课程授课与现任导师分开，继续保留任职来源缺项。 新增纯数学中心双语现任表 21 项、中心结构与研究课程。逐个区分独立科研任职、其他大学荣休与跨机构联聘。",
       "rosterLinks": [
+        [
+          "Centre of Pure Mathematics · graduate courses and lecturers",
+          "https://puremaths.ru/courses.html"
+        ],
+        [
+          "Centre of Pure Mathematics · Staff (English and Russian matched)",
+          "https://puremaths.ru/staff_en.html"
+        ],
+        [
+          "Centre of Pure Mathematics · Сотрудники",
+          "https://puremaths.ru/staff.html"
+        ],
         [
           "Members – Laboratory of Combinatorial and Geometric Structures",
           "https://combgeo.org/en/members/"
@@ -4334,7 +4378,7 @@
           "https://www.mi.ras.ru/index.php/cs/i/index.php?c=chairmfti&l=1"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "uam",
@@ -5059,18 +5103,62 @@
     {
       "id": "durham",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，2 条任职或方向待核。 已收录 8 位学者，个人主页 0、CV 2、指标 0。 已查数学科学系 Geometry & Topology 学术人员，组内的退休和教学岗单列。其他纯数学研究组和联合任职待对账。",
+      "coverageNote": "已解析 12/13 个登记来源，43 条任职或方向待核。 已收录 17 位学者，个人主页 0、CV 2、指标 0。 数学系官方 People 的内嵌分栏对应 117 学术、32 研究岗位、10 行政和 103 研究生。八个专题全部到达，几何组对照代数与数论、分析、应用、数学物理以及其它方向；各专题具名资料和个人任职继续按人核实。",
       "rosterLinks": [
         [
           "Geometry and Topology - Durham University",
           "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/geometry-and-topology/"
         ],
         [
+          "Mathematical Sciences · Algebra & Number Theory",
+          "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/algebra-and-number-theory/"
+        ],
+        [
+          "Mathematical Sciences · Analysis",
+          "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/analysis/"
+        ],
+        [
+          "Mathematical Sciences · Applied Mathematics",
+          "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/applied-mathematics/"
+        ],
+        [
+          "Mathematical Sciences · Education & Pedagogy",
+          "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/education-and-pedagogy/"
+        ],
+        [
+          "Mathematical Sciences · Mathematical & Theoretical Physics",
+          "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/mathematical-and-theoretical-physics/"
+        ],
+        [
+          "Mathematical Sciences · Probability",
+          "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/probability/"
+        ],
+        [
+          "Mathematical Sciences · Statistics",
+          "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/statistics/"
+        ],
+        [
           "数学科学系（院系入口）",
           "https://www.durham.ac.uk/departments/academic/mathematical-sciences/"
+        ],
+        [
+          "Mathematical Sciences · Academic Staff",
+          "https://www.maths.dur.ac.uk/seminars/stlst/ts-academic.html"
+        ],
+        [
+          "Mathematical Sciences · Administrative Staff",
+          "https://www.maths.dur.ac.uk/seminars/stlst/ts-administrative.html"
+        ],
+        [
+          "Mathematical Sciences · Postgraduate Students",
+          "https://www.maths.dur.ac.uk/seminars/stlst/ts-postgrads.html"
+        ],
+        [
+          "Mathematical Sciences · Research Staff",
+          "https://www.maths.dur.ac.uk/seminars/stlst/ts-research.html"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "heriot-watt",
@@ -11056,6 +11144,63 @@
       "recordStatus": "directory"
     },
     {
+      "id": "fushuai-jiang",
+      "name": "Fushuai Jiang",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "cityuhk",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://scholars.cityu.edu.hk/en/persons/fusjiang/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://jfsmath.github.io/",
+      "homepageStatus": null,
+      "cvUrl": "https://jfsmath.github.io/files/CV.pdf",
+      "cvType": "公开学术 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://jfsmath.github.io/publications.html",
+      "publicationCounts": [
+        {
+          "value": 10,
+          "scope": "CityUHK Scholars 明示 RGC 21 同行评议期刊文章数量",
+          "url": "https://scholars.cityu.edu.hk/en/persons/fusjiang/",
+          "checkedAt": "2026-11-25"
+        },
+        {
+          "value": 12,
+          "scope": "CityUHK Scholars 明示 Research output，含 2 项会议成果",
+          "url": "https://scholars.cityu.edu.hk/en/persons/fusjiang/",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已核 CityUHK 官方作者档案和本人发表页。两篇刊版 DOI 不能指向同一有效 OpenAlex ID，校方链接的 Google Scholar 暂返回限流。论文采用机构披露口径，累计引用待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Semialgebraic Cᵐ solutions to a univariate system of linear inequalities with Nash forcing",
+          "url": "https://arxiv.org/abs/2610.22772"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Computational algebraic geometry of semialgebraic sets, Whitney extension theory, convex geometry and optimal transport",
+          "url": "https://scholars.cityu.edu.hk/en/persons/fusjiang/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "christopher-eur",
       "name": "Christopher Eur",
       "aliases": [
@@ -11452,6 +11597,91 @@
         }
       ],
       "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "imran-ahmed",
+      "name": "Imran Ahmed",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "comsats",
+          "department": "Department of Mathematics · CUI Lahore",
+          "title": "Tenured Professor",
+          "url": "https://lahore.comsats.edu.pk/Employees/51",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查 Lahore 数学系与具名个人页和中央 Faculty Portal；有教育和任职概况及成果分栏，未见独立公开 CV。",
+      "publicationsUrl": "https://lahore.comsats.edu.pk/Employees/51",
+      "publicationCounts": [
+        {
+          "value": 21,
+          "scope": "CUI Lahore 个人档案 Publications 下的期刊文章栏列表范围",
+          "url": "https://lahore.comsats.edu.pk/Employees/51",
+          "checkedAt": "2026-11-25"
+        },
+        {
+          "value": 2,
+          "scope": "CUI Lahore 个人档案 Publications 下的会议记录栏列表范围",
+          "url": "https://lahore.comsats.edu.pk/Employees/51",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5036146915",
+          "orcid": "https://orcid.org/0000-0001-8843-8020",
+          "url": "https://openalex.org/authors/A5036146915",
+          "authorApiUrl": "https://api.openalex.org/authors/A5036146915",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5036146915,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 21,
+          "works": 26,
+          "citations": 147,
+          "hIndex": 6,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Determinacy of determinantal varieties",
+          "url": "https://doi.org/10.1007/s00229-018-1041-0"
+        },
+        {
+          "title": "Homogeneous polynomials with isomorphic Milnor algebras",
+          "url": "https://doi.org/10.1007/s10587-010-0003-9"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Singularity Theory, Algebraic Geometry, Commutative Algebra, Dynamical Systems, Fuzzy Sets, Machine Learning",
+          "url": "https://lahore.comsats.edu.pk/math/faculty.aspx"
+        },
+        {
+          "text": "Algebraic geometry, singularity theory, commutative algebra, hypersurface and determinantal singularities, Milnor algebras",
+          "url": "https://lahore.comsats.edu.pk/Employees/51"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://lahore.comsats.edu.pk/Employees/51"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -12407,7 +12637,7 @@
           "title": "Academic Faculty",
           "url": "https://www.maths.dur.ac.uk/users/anna.felikson/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -12438,7 +12668,54 @@
           "url": "https://www.maths.dur.ac.uk/users/anna.felikson/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "fernando-galaz-garcia",
+      "name": "Fernando Galaz-Garcia",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "durham",
+          "department": "数学系",
+          "title": "Academic Faculty",
+          "url": "https://www.durham.ac.uk/staff/fernando-galaz-garcia/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Fernando studies Riemannian and Alexandrov geometry",
+        "transformation groups",
+        "interactions between curvature, symmetry, and topology"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Fernando studies Riemannian and Alexandrov geometry; transformation groups; interactions between curvature, symmetry, and topology; links to data analysis via geometric statistics, topological data analysis, and Wasserstein metrics.",
+          "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/geometry-and-topology/"
+        },
+        {
+          "text": "Differential geometry, Riemannian geometry and Alexandrov spaces, curvature, symmetry and transformation groups",
+          "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/geometry-and-topology/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -12452,7 +12729,7 @@
           "title": "Academic Faculty",
           "url": "https://sites.google.com/view/jeffreygiansiracusa/home",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -12483,7 +12760,7 @@
           "url": "https://sites.google.com/view/jeffreygiansiracusa/home"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -12497,7 +12774,7 @@
           "title": "Academic Faculty",
           "url": "https://maths.dur.ac.uk/users/j.r.parker/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -12524,7 +12801,133 @@
           "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/geometry-and-topology/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "kasper-peeters",
+      "name": "Kasper Peeters",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "durham",
+          "department": "数学系",
+          "title": "Academic Faculty",
+          "url": "https://www.durham.ac.uk/staff/kasper-peeters/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "String theory and the string"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "String theory and the string/gauge theory correspondence, Quantum gravity, Applications of mathematics to biology, Computer algebra",
+          "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/mathematical-and-theoretical-physics/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "maciej-matuszewski",
+      "name": "Maciej Matuszewski",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "durham",
+          "department": "数学系",
+          "title": "Academic Faculty",
+          "url": "https://www.durham.ac.uk/staff/m-t-matuszewski/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Automated e-assessment for undergraduate mathematics, String theory and the string/gauge theory correspondence, Pair production in quantum field theories.",
+          "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/mathematical-and-theoretical-physics/"
+        },
+        {
+          "text": "Automated e-assessment for undergraduate mathematics, student use of feedback",
+          "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/education-and-pedagogy/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "marija-zamaklar",
+      "name": "Marija Zamaklar",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "durham",
+          "department": "数学系",
+          "title": "Academic Faculty",
+          "url": "https://www.durham.ac.uk/staff/marija-zamaklar/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "String theory and the string",
+        "gauge theory correspondence"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "String theory and the string/gauge theory correspondence",
+          "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/mathematical-and-theoretical-physics/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -12538,7 +12941,7 @@
           "title": "Academic Faculty",
           "url": "https://www.durham.ac.uk/staff/martin-p-kerin/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -12563,7 +12966,52 @@
           "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/geometry-and-topology/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "norbert-peyerimhoff",
+      "name": "Norbert Peyerimhoff",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "durham",
+          "department": "数学系",
+          "title": "Academic Faculty",
+          "url": "https://www.durham.ac.uk/staff/norbert-peyerimhoff/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Norbert's research interests are centered around geometry"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Norbert's research interests are centered around geometry. Of particular interest are relations between geometry and Laplace- and Schrödinger operators and relations between geometry and dynamical systems.",
+          "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/geometry-and-topology/"
+        },
+        {
+          "text": "Spectral geometry, Riemannian geometry, Laplace and Schrödinger operators and dynamical systems",
+          "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/geometry-and-topology/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -12577,7 +13025,7 @@
           "title": "Academic Faculty",
           "url": "https://www.maths.dur.ac.uk/users/pavel.tumarkin/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -12602,7 +13050,7 @@
           "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/geometry-and-topology/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -12616,7 +13064,7 @@
           "title": "Academic Faculty",
           "url": "https://www.maths.dur.ac.uk/users/raphael.zentner/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -12643,7 +13091,7 @@
           "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/geometry-and-topology/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -12657,7 +13105,7 @@
           "title": "Academic Faculty",
           "url": "https://www.durham.ac.uk/staff/roan-s-talbut/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -12682,7 +13130,128 @@
           "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/geometry-and-topology/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "silvia-nagy",
+      "name": "Silvia Nagy",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "durham",
+          "department": "数学系",
+          "title": "Academic Faculty",
+          "url": "https://www.durham.ac.uk/staff/silvia-nagy/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "I work on gravity as a double copy of gauge theory, including its mathematical underpinnings and extensions to curved spaces. I also study asymptotic symmetries and their applications to scattering amplitudes, and flat-space holography.",
+          "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/mathematical-and-theoretical-physics/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "stefano-cremonesi",
+      "name": "Stefano Cremonesi",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "durham",
+          "department": "数学系",
+          "title": "Academic Faculty",
+          "url": "https://www.durham.ac.uk/staff/stefano-cremonesi/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Quantum Field Theory, String Theory, Algebraic Geometry"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Quantum Field Theory, String Theory, Algebraic Geometry",
+          "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/mathematical-and-theoretical-physics/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "victor-abrashkin",
+      "name": "Victor Abrashkin",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "durham",
+          "department": "数学系",
+          "title": "Academic Faculty",
+          "url": "https://www.durham.ac.uk/staff/victor-abrashkin/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Ramification theory of local fields, p-adic Hodge theory"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Ramification theory of local fields, p-adic Hodge theory",
+          "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/algebra-and-number-theory/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -12696,7 +13265,7 @@
           "title": "Academic Faculty",
           "url": "https://www.durham.ac.uk/staff/wilhelm-klingenberg/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -12721,7 +13290,46 @@
           "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/geometry-and-topology/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "yue-ren",
+      "name": "Yue Ren",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "durham",
+          "department": "数学系",
+          "title": "Academic Faculty",
+          "url": "https://www.durham.ac.uk/staff/yue-ren2/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Tropical geometry, Machine learning, computational algebraic geometry",
+          "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/algebra-and-number-theory/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -24630,6 +25238,93 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ilya-karzhemanov",
+      "name": "Ilya Karzhemanov",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mipt",
+          "department": "Centre of Pure Mathematics",
+          "title": "Research Fellow",
+          "url": "https://puremaths.ru/staff_en.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.mathnet.ru/eng/person18211",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已核 MIPT 现职与正式刊版 DOI。OpenAlex A5122923043 只列 3 个结果，本人至少另有与 Galkin、Shinder 合著的已发表作品，单一档案覆盖不足。累计引用待核。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5122923043",
+      "papers": [
+        {
+          "title": "Irregularity of some toroidal compactifications",
+          "url": "https://doi.org/10.5802/crmath.794"
+        },
+        {
+          "title": "On automorphic forms of small weight for fake projective planes",
+          "url": "https://arxiv.org/abs/1602.06107"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, birational and toroidal compactifications, algebraic dynamics and rational maps",
+          "url": "https://doi.org/10.5802/crmath.794"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "vyacheslav-shokurov",
+      "name": "Vyacheslav Shokurov",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mipt",
+          "department": "Centre of Pure Mathematics",
+          "title": "Leading Research Fellow",
+          "url": "https://puremaths.ru/staff_en.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://math.jhu.edu/~shokurov/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, birational geometry, Fano varieties and the minimal model program",
+          "url": "https://www.mi-ras.ru/index.php/news/14/index.php?c=show_dep&id=50&l=1"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -41809,6 +42504,14 @@
           "url": "https://db.ipmu.jp/member/personal/170en.html",
           "type": "primary",
           "checkedAt": "2026-11-25"
+        },
+        {
+          "schoolId": "mipt",
+          "department": "Centre of Pure Mathematics",
+          "title": "Director of the Centre of Pure Mathematics",
+          "url": "https://puremaths.ru/staff_en.html",
+          "checkedAt": "2026-11-25",
+          "type": "secondary"
         }
       ],
       "fields": [

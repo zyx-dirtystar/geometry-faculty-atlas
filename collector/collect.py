@@ -389,6 +389,7 @@ def population(db):
         group["decision"] = decision
         group["decision_note"] = review.get("reason", "")
         group["distinct_id"] = review.get("distinctId")
+        group["secondary_appointments"] = review.get("secondaryAppointments", [])
         group["opportunities"] = review.get("opportunities", [])
         group["papers"] = review.get("papers", [])
         group["aliases"] = review.get("aliases", [])
@@ -510,6 +511,7 @@ def metrics_evidence():
 
 
 def make_patch(seed, data, source_rows, scope_notes, school_reviews):
+    school_ids = {school["id"] for school in seed["schools"]}
     original = {(a["schoolId"], name_key(p["name"])):p for p in seed["people"] for a in p["affiliations"]}
     original_names = {name for _, name in original}
     cross_school = Counter(name_key(p["name"]) for p in data if p["decision"] == "candidate")
@@ -522,9 +524,20 @@ def make_patch(seed, data, source_rows, scope_notes, school_reviews):
             continue
         school = person["school"]
         key = name_key(person["name"])
+        secondary = []
+        for appointment in person.get("secondary_appointments", []):
+            target = appointment["schoolId"]
+            if target not in school_ids or target == school or any(row["schoolId"] == target for row in secondary):
+                raise ValueError(f"Invalid or repeated secondary appointment for {person['name']}: {target}")
+            secondary.append({**appointment, "type":"secondary"})
         seeded = original.get((school,key))
         if seeded is not None:
             updated = supplements.setdefault(seeded["id"], dict(seeded))
+            if secondary:
+                existing_schools = {row["schoolId"] for row in updated["affiliations"]}
+                updated["affiliations"] = updated["affiliations"] + [
+                    row for row in secondary if row["schoolId"] not in existing_schools
+                ]
             for target, value in (("homepage",person["homepage"]), ("cvUrl",person["cv"]),
                                   ("publicationsUrl",person["publications"])):
                 if value and not updated.get(target):
@@ -588,7 +601,7 @@ def make_patch(seed, data, source_rows, scope_notes, school_reviews):
             "id":slug, "name":person["name"], "aliases":person["aliases"], "affiliations":[{
                 "schoolId":school, "department":person["unit"] or UNITS.get(school,"数学系"),"title":person["title"],
                 "url":person["affiliation_url"],"type":"primary","checkedAt":person["checked_at"],
-            }],
+            }, *secondary],
             "fields":person["fields"],"tags":keep_tags(person["topic_sources"]),
             "homepage":anchor.get("homepage") or person["homepage"] or None,
             "homepageStatus":person.get("homepage_status"), "cvUrl":cv or None,
