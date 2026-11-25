@@ -791,7 +791,8 @@ def export(db, seed):
         rows = csv.writer(handle)
         rows.writerow(["学者 ID", "姓名", "学校 ID", "任职来源", "主页", "CV", "CV 类型", "发表列表",
                        "机构或作者统计", "OpenAlex 文章", "OpenAlex 引用", "OpenAlex 来源", "指标日期",
-                       "已查个人页面", "作者复核日期", "代表作链接", "待核原因", "CV 链接访问记录", "其他来源引用"])
+                       "已查个人页面", "作者复核日期", "代表作链接", "待核原因", "CV 链接访问记录", "其他来源引用",
+                       "作者归属复核依据"])
         for p in public_people:
             appointments = p["affiliations"]
             trusted = [m for m in p.get("metrics", []) if m.get("source") == "OpenAlex"]
@@ -837,7 +838,8 @@ def export(db, seed):
                            metric.get("checkedAt", ""), checked_pages, finding.get("checkedAt", ""),
                            " / ".join(paper["url"] for paper in p.get("papers", [])), "；".join(notes), checked_cv,
                            " / ".join(f"{m['citations']} · {m['source']} · {m['citationScope']} · {m['checkedAt']} · {m['url']}"
-                                      for m in p.get("metrics", []) if m["source"] != "OpenAlex" and m.get("citations") is not None)])
+                                      for m in p.get("metrics", []) if m["source"] != "OpenAlex" and m.get("citations") is not None),
+                           metric_review_notes.get(p["id"], "") if metric else ""])
     (ROOT / "field-review.csv.tmp").replace(ROOT / "field-review.csv")
     scope_size = len(seed["schools"])
     checked = len({row["school"] for row in sources if row["status"] == "parsed"})
@@ -907,6 +909,18 @@ def export(db, seed):
             f"{profile_run['checkedAt']} 对 {profile_run['schools']} 所学校登记的个人页入口执行 {profile_run['attempted']} 次公开访问，"
             f"其中 {profile_run['fetched']} 次返回内容、{profile_run['failed']} 次请求失败。"
             "后续以个人页内容和官方任职为准核对方向与个人字段。",
+            "",
+        ])
+    metric_run = cohorts.get("latestMetricRun")
+    if metric_run:
+        lines.extend([
+            "## 最近一轮作者档案复核",
+            "",
+            f"{metric_run['checkedAt']} 逐项核对 {metric_run['reviewed']} 位学者的 ORCID、具名论文和机构资料。"
+            f"确认 {metric_run['accepted']} 个 OpenAlex 作者档案，"
+            f"搁置 {metric_run['held']} 个有身份或作品争议的 OpenAlex 档案，"
+            f"另确认 {metric_run['scholar']} 个 Google Scholar 作者档案。"
+            "归属证据、替代计量和检索结果见学者字段复核表。",
             "",
         ])
     if cohorts:
