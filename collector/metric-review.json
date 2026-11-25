@@ -207,7 +207,12 @@
     "tristan-ozuch-meersseman": "A5003670780",
     "david-ruiz-aguilar": "A5017298297",
     "mina-konakovic-lukovic": "A5026996925",
-    "washington-taylor": "A5028633108"
+    "washington-taylor": "A5028633108",
+    "edward-segal": "A5028864056",
+    "niloy-mitra": "A5058170430",
+    "marika-taylor": "A5009459477",
+    "michael-r-douglas": "A5056770872",
+    "christian-boehmer": "A5111894164"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -242,7 +247,7 @@
     "suarez-pablo": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。",
     "vesselin-dimitrov": "OpenAlex HTTP 404。",
     "yann-bernard": "确认 Monash 官方公开 ORCID 及 Willmore 论文，OpenAlex 把作品与 ORCID 归到不同作者档案，未采用单一档案的统计。",
-    "aleksander-doan": "同一人的论文指向不同作者档案。",
+    "aleksander-doan": "校方与个人主页确认任职和完整成果入口；两篇出版社论文 DOI 在 OpenAlex 归入不同作者 ID。合计数值待核。",
     "alex-sherman": "论文作者姓名没有唯一匹配。",
     "barbara-fantechi": "同一人的论文指向不同作者档案。",
     "benjamin-tod-castle": "论文作者姓名没有唯一匹配。",
@@ -494,6 +499,11 @@
     "tristan-ozuch-meersseman": "MIT 具名任职和本人公开 CV 同时使用 Ozuch 与 Ozuch-Meersseman。两篇 Einstein 度量 DOI 同属此档案；抽核 Einstein 四流形、Ricci 流与自旋几何。",
     "david-ruiz-aguilar": "UGR 简历明确公开 ORCID，核对共形曲率 DOI 上的署名与机构。高引薛定谔方程和变分方法来自同一人的个人完整发表页。",
     "mina-konakovic-lukovic": "本人 MIT 现任和 CV 核实此前 EPFL 任职及姓名不同写法。两篇离散几何和增材制造 DOI 相符；抽核 RoboGrammar、X-Shells、曲面和材料设计作品。",
-    "washington-taylor": "出版社列同一个 MIT 任职和 ORCID。2019 年 Calabi–Yau 比较和 2026 年 toric 基底多胞体 DOI 均指向同一作者 ID。CV 核对高引弦论、紧化和矩阵模型作品。"
+    "washington-taylor": "出版社列同一个 MIT 任职和 ORCID。2019 年 Calabi–Yau 比较和 2026 年 toric 基底多胞体 DOI 均指向同一作者 ID。CV 核对高引弦论、紧化和矩阵模型作品。",
+    "edward-segal": "UCL 现行教职和个人页确认 Edward 为 Ed Segal；将现行与 Imperial 时期两项 DOI 对照。高引规范理论和导出范畴作品可在本人页核实。",
+    "niloy-mitra": "UCL 现任、公开 ORCID 与 Stanford 履历相符。核对高引配准和生成模型；两条同名显著性检测分别对应 2011 会议版与不同署名顺序和 DOI 的 2014–15 期刊版。",
+    "marika-taylor": "UCL 2026 任职与 OpenAlex 所列 Birmingham、Southampton、Amsterdam 历史单位相符。两项 JHEP DOI 和高引 AdS、全息理论作品对照 INSPIRE 具名档案。",
+    "michael-r-douglas": "Harvard CMSA 现任、Stony Brook 任职历史、ORCID 与 2015 和 2026 两项出版 DOI 相符。高引非交换场论、矩阵理论及紧化和早期弦论文由发表记录交叉。",
+    "christian-boehmer": "UCL 官方任职与从 Portsmouth 加入 UCL 的履历一致。公布 ORCID、两项几何和引力论文 DOI 联核；抽查其宇宙学、修正引力和 LISA 合作成果。"
   }
 }
