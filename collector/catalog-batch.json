@@ -103,7 +103,7 @@
     {
       "id": "mit",
       "coverage": "sample",
-      "coverageNote": "已解析 17/17 个登记来源，38 条任职或方向待核。 已收录 19 位学者，个人主页 8、CV 12、指标 5。 数学系详细现任 73 条，科研岗位 9、博士后 19、讲师与固定期 Instructor 42、访客 14、荣休 16。逐人研究说明交叉 Geometry、Algebra、Number Theory、Analysis、Representation、Theoretical Physics 与 Algebraic Topology 七组。学校另有联合职位和研究中心，未公开专长仍待补。 核对个人 CV 后，用苏黎世大学有日期任命和本人履历订正 Christoph Kehle 列在 MIT 的旧职。",
+      "coverageNote": "已解析 20/23 个登记来源，0 条任职或方向待核。 已收录 23 位学者，个人主页 17、CV 15、指标 8。 数学系详细现任 73 条，科研岗位 9、博士后 19、讲师与固定期 Instructor 42、访客 14、荣休 16。逐人研究说明交叉 Geometry、Algebra、Number Theory、Analysis、Representation、Theoretical Physics 与 Algebraic Topology 七组。学校另有联合职位和研究中心，未公开专长仍待补。 核对个人 CV 后，用苏黎世大学有日期任命和本人履历订正 Christoph Kehle 列在 MIT 的旧职。 核对 130 名博士生（只保留研究组交叠的具名状态）、应用物理数学 23 人和数论增补 17 人。数学系、CSAIL、CCSE 和 Simons 数论合作交叉核对。数论名单一人按访问期标注，一人按离任标注。另核 CSAIL 其他与几何有关的人员及项目。 初步核对几何数据处理组和理论物理中心人员入口，明确补入 Calabi–Yau 紧化学者；理论物理组其他成员与跨工程联合范围仍在对账。",
       "rosterLinks": [
         [
           "Research · Algebra & Algebraic Geometry",
@@ -116,6 +116,14 @@
         [
           "Research · Analysis and PDEs",
           "https://math.mit.edu/research/pure/analysis-pde.html"
+        ],
+        [
+          "CSAIL · Geometry and topology for scientific computing and shape analysis",
+          "https://www.csail.mit.edu/research/geometry-and-topology-scientific-computing-and-shape-analysis"
+        ],
+        [
+          "CSAIL · Justin Solomon faculty profile",
+          "https://www.csail.mit.edu/person/justin-solomon"
         ],
         [
           "数学系 Faculty Detailed List",
@@ -138,12 +146,24 @@
           "https://math.mit.edu/research/pure/geometry.html"
         ],
         [
+          "Department of Mathematics · 130 Graduate Students",
+          "https://math.mit.edu/directory/graduate.html?show=detail"
+        ],
+        [
           "Department of Mathematics · Instructors · Moore and applied mathematics",
           "https://math.mit.edu/directory/instructors.html?show=detail"
         ],
         [
           "数学系 Faculty Directory",
           "https://math.mit.edu/directory/faculty/"
+        ],
+        [
+          "Research · Physical Applied Mathematics",
+          "https://math.mit.edu/research/applied/physical.html"
+        ],
+        [
+          "MIT Number Theory · faculty, postdocs, and affiliates",
+          "https://math.mit.edu/nt/people.html"
         ],
         [
           "Research · Number Theory",
@@ -168,6 +188,10 @@
         [
           "Department of Mathematics · Research Scientists",
           "https://math.mit.edu/directory/researchers.html?show=detail"
+        ],
+        [
+          "Simons Collaboration on Arithmetic Geometry, Number Theory, and Computation",
+          "https://www.simonsfoundation.org/collaborations/arithmetic-geometry-number-theory-and-computation/"
         ],
         [
           "Department of Mathematics · Visitors · detailed",
@@ -707,7 +731,7 @@
     {
       "id": "toronto",
       "coverage": "sample",
-      "coverageNote": "已解析 1/5 个登记来源，32 条任职或方向待核。 已收录 3 位学者，个人主页 2、CV 1、指标 2。 Mississauga 校区数学教师目录已提取；主站跨校区全院目录出现访问验证，已补可验证的个别校区记录。",
+      "coverageNote": "已解析 1/5 个登记来源，32 条任职或方向待核。 已收录 4 位学者，个人主页 3、CV 2、指标 3。 Mississauga 校区数学教师目录已提取；主站跨校区全院目录出现访问验证，已补可验证的个别校区记录。",
       "rosterLinks": [
         [
           "数学系 About the Department（旧站）",
@@ -2695,7 +2719,7 @@
     {
       "id": "granada",
       "coverage": "sample",
-      "coverageNote": "已解析 3/16 个登记来源，0 条任职或方向待核。 已收录 21 位学者，个人主页 20、CV 19、指标 9。 本轮取得几何系 36 个具名岗位，科研门户 42 个当前研究档案与 69 个历年名录分列，并逐名读取院系和校级个人档案。交叉 FQM 324、FQM 325 及在研项目，具名确认极小曲面、复／全纯接触几何、洛伦兹与仿射微分几何。IMAG、代数系的现任人员和独立代数几何研究范围继续按来源复核。 另核代数系 25 名含行政、临时合同和联合校区教师，IMAG 具名研究项目、两份几何项目团队及几何系离任名录。数学分析系的 Pieralberto Sicbaldi 以官方现任另入库。 代数系 25 条人员均有具名职务与研究判定。包括以课题和学术出版确认的非交换几何、交换代数、同伦与动力系统等相邻方向；一位代课教师的任职可确认，公开研究专长未发现。",
+      "coverageNote": "已解析 4/22 个登记来源，30 条任职或方向待核。 已收录 23 位学者，个人主页 22、CV 21、指标 11。 本轮取得几何系 36 个具名岗位，科研门户 42 个当前研究档案与 69 个历年名录分列，并逐名读取院系和校级个人档案。交叉 FQM 324、FQM 325 及在研项目，具名确认极小曲面、复／全纯接触几何、洛伦兹与仿射微分几何。IMAG、代数系的现任人员和独立代数几何研究范围继续按来源复核。 另核代数系 25 名含行政、临时合同和联合校区教师，IMAG 具名研究项目、两份几何项目团队及几何系离任名录。数学分析系的 Pieralberto Sicbaldi 以官方现任另入库。 代数系 25 条人员均有具名职务与研究判定。包括以课题和学术出版确认的非交换几何、交换代数、同伦与动力系统等相邻方向；一位代课教师的任职可确认，公开研究专长未发现。 数学分析系 33 位、科研门户当前 34 位和四项目组入口对照。新增两位曲率与几何 PDE 人员。数学应用系和理论物理系具名表已定位，部分研究方向对账仍在进行。",
       "rosterLinks": [
         [
           "FACULTAD DE CIENCIAS",
@@ -2712,6 +2736,26 @@
         [
           "Departamento de Álgebra · 25 staff",
           "https://www.ugr.es/universidad/organizacion/entidades/departamento-algebra"
+        ],
+        [
+          "Departamento de Análisis Matemático · staff directory",
+          "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico"
+        ],
+        [
+          "Portal de Producción Científica · Análisis Matemático",
+          "https://produccioncientifica.ugr.es/unidades/8717/investigadores"
+        ],
+        [
+          "Departamento de Análisis Matemático · 4 research groups",
+          "https://analisismatematico.ugr.es/index.php/investigacion/grupos"
+        ],
+        [
+          "Departamento de Matemática Aplicada · staff directory",
+          "https://www.ugr.es/universidad/organizacion/entidades/departamento-matematica-aplicada"
+        ],
+        [
+          "Grado en Matemáticas · cross-department teaching roster",
+          "https://grados.ugr.es/matematicas/docencia/profesorado"
         ],
         [
           "OTRI · FQM 324 Geometría diferencial",
@@ -2760,6 +2804,10 @@
         [
           "New Challenges in Differential Geometry · Lorentz-Finsler project",
           "https://gigda.ugr.es/pm2025"
+        ],
+        [
+          "Departamento de Física Teórica y del Cosmos · staff directory",
+          "https://www.ugr.es/universidad/organizacion/entidades/departamento-fisica-teorica-cosmos"
         ]
       ],
       "checkedAt": "2026-11-25"
@@ -16787,6 +16835,79 @@
       "recordStatus": "directory"
     },
     {
+      "id": "david-ruiz-aguilar",
+      "name": "David Ruiz Aguilar",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Análisis Matemático",
+          "title": "Catedrático de Universidad",
+          "url": "https://www.ugr.es/personal/david-ruiz-aguilar",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ugr.es/~daruiz/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.ugr.es/~daruiz/investigacion/CVA%20David%20Ruiz%20enero%2020.pdf",
+      "cvType": "机构格式简版 CV（2020）",
+      "cvStatus": null,
+      "publicationsUrl": "https://produccioncientifica.ugr.es/investigadores/353394/publicaciones?lang=en",
+      "publicationCounts": [
+        {
+          "scope": "UGR Portal de Producción Científica 的 Publicaciones 列表划定的成果条目（含不同成果类型）",
+          "source": "UGR Portal de Producción Científica",
+          "url": "https://produccioncientifica.ugr.es/investigadores/353394/publicaciones?lang=en",
+          "checkedAt": "2026-11-25",
+          "value": 63
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5017298297",
+          "orcid": "https://orcid.org/0000-0001-9837-3101",
+          "url": "https://openalex.org/authors/A5017298297",
+          "authorApiUrl": "https://api.openalex.org/authors/A5017298297",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5017298297,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 57,
+          "works": 66,
+          "citations": 3822,
+          "hIndex": 28,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Blow-up analysis of conformal metrics of the disk with prescribed Gaussian and geodesic curvatures",
+          "year": 2022,
+          "url": "https://doi.org/10.2140/APDE.2022.15.1897"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, geometric analysis, conformal metrics with prescribed Gaussian and geodesic curvature, nonlinear elliptic PDE",
+          "url": "https://www.ugr.es/~daruiz/investigacion/investigacion.htm"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.ugr.es/~daruiz/investigacion/CVA%20David%20Ruiz%20enero%2020.pdf"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "francisco-jose-lopez-fernandez",
       "name": "Francisco José López Fernández",
       "aliases": [
@@ -17658,6 +17779,79 @@
         {
           "text": "Differential geometry, constant mean and prescribed curvature surfaces, spacelike surfaces and Lorentz–Minkowski geometry",
           "url": "https://www.ugr.es/~rcamino/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "rafael-lopez-soriano",
+      "name": "Rafael López Soriano",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Análisis Matemático",
+          "title": "Profesor Titular de Universidad",
+          "url": "https://www.ugr.es/personal/rafael-lopez-soriano",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ugr.es/~ralopezs/index_en.html",
+      "homepageStatus": null,
+      "cvUrl": "https://www.uniurb.it/it/cdocs/BRIC/4789-BRIC-17052019131646-cv_sel.pdf",
+      "cvType": "旧版完整 CV（2019）",
+      "cvStatus": null,
+      "publicationsUrl": "https://produccioncientifica.ugr.es/investigadores/455269/publicaciones?lang=eu",
+      "publicationCounts": [
+        {
+          "scope": "UGR Portal de Producción Científica 的 Publicaciones 列表划定的成果条目（含不同成果类型）",
+          "source": "UGR Portal de Producción Científica",
+          "url": "https://produccioncientifica.ugr.es/investigadores/455269/publicaciones?lang=eu",
+          "checkedAt": "2026-11-25",
+          "value": 17
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5078755959",
+          "orcid": "https://orcid.org/0000-0003-4345-4099",
+          "url": "https://openalex.org/authors/A5078755959",
+          "authorApiUrl": "https://api.openalex.org/authors/A5078755959",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5078755959,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 17,
+          "works": 21,
+          "citations": 177,
+          "hIndex": 8,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Blow-up analysis of conformal metrics of the disk with prescribed Gaussian and geodesic curvatures",
+          "year": 2022,
+          "url": "https://doi.org/10.2140/APDE.2022.15.1897"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, geometric analysis, conformal metrics with prescribed Gaussian and geodesic curvature, nonlinear elliptic PDE",
+          "url": "https://www.ugr.es/~ralopezs/index_en.html"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.ugr.es/~ralopezs/index_en.html"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -27753,7 +27947,7 @@
         "algebraic"
       ],
       "tags": [],
-      "homepage": null,
+      "homepage": "https://math.mit.edu/~roed/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
@@ -27810,7 +28004,7 @@
       "tags": [
         "Computational Number Theory, Arithmetic Geometry"
       ],
-      "homepage": null,
+      "homepage": "https://edgarcosta.org/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
@@ -27883,6 +28077,146 @@
       "recordStatus": "directory"
     },
     {
+      "id": "justin-solomon",
+      "name": "Justin Solomon",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "Geometric Data Processing Group · CSAIL and CCSE",
+          "title": "Associate Professor of EECS and Associate Dean of Engineering Education",
+          "url": "https://www.csail.mit.edu/person/justin-solomon",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://people.csail.mit.edu/jsolomon/",
+      "homepageStatus": null,
+      "cvUrl": "https://people.csail.mit.edu/jsolomon/assets/cv.pdf",
+      "cvType": "完整 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://people.csail.mit.edu/jsolomon/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5036542947",
+          "orcid": "https://orcid.org/0000-0002-7701-7586",
+          "url": "https://openalex.org/authors/A5036542947",
+          "authorApiUrl": "https://api.openalex.org/authors/A5036542947",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5036542947,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 90,
+          "works": 210,
+          "citations": 20284,
+          "hIndex": 49,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Convolutional Wasserstein distances: Efficient optimal transportation on geometric domains",
+          "year": 2015,
+          "url": "https://doi.org/10.1145/2766963"
+        },
+        {
+          "title": "Earth mover’s distances on discrete surfaces",
+          "year": 2014,
+          "url": "https://doi.org/10.1145/2601097.2601175"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Discrete differential geometry, geometric partial differential equations, Riemannian optimal transport and geometry processing",
+          "url": "https://cse.mit.edu/people/justin-solomon/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://people.csail.mit.edu/jsolomon/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "larry-guth",
+      "name": "Larry Guth",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "数学系",
+          "title": "Claude E. Shannon (1940) Professor Professor of Mathematics Margaret MacVicar Faculty Fellow",
+          "url": "https://math.mit.edu/directory/profile.html?pid=1461",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://math.mit.edu/~lguth/",
+      "homepageStatus": null,
+      "cvUrl": "https://math.mit.edu/documents/uploads/cv/2024_08_26_CV_larryg.pdf",
+      "cvType": "完整 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://math.mit.edu/~lguth/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5081877161",
+          "orcid": "https://orcid.org/0000-0002-1302-8657",
+          "url": "https://openalex.org/authors/A5081877161",
+          "authorApiUrl": "https://api.openalex.org/authors/A5081877161",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5081877161,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 62,
+          "works": 111,
+          "citations": 4806,
+          "hIndex": 36,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Systolic inequalities and minimal hypersurfaces",
+          "year": 2010,
+          "url": "https://doi.org/10.1007/s00039-010-0052-0"
+        },
+        {
+          "title": "The Width-Volume Inequality",
+          "year": 2007,
+          "url": "https://doi.org/10.1007/s00039-007-0628-5"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Riemannian geometry, metric geometry, systolic inequalities, minimal hypersurfaces and harmonic analysis",
+          "url": "https://math.mit.edu/~lguth/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://math.mit.edu/~lguth/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "matthew-hase-liu",
       "name": "Matthew Hase-Liu",
       "aliases": [],
@@ -27900,7 +28234,7 @@
         "algebraic"
       ],
       "tags": [],
-      "homepage": null,
+      "homepage": "https://www.math.columbia.edu/~mhaseliu/index.html",
       "homepageStatus": null,
       "cvUrl": "https://www.math.columbia.edu/~mhaseliu/Docs/CV_for_Matthew_Hase_Liu-62.pdf",
       "cvType": "完整 CV",
@@ -27916,6 +28250,50 @@
         {
           "text": "Algebraic and arithmetic geometry, moduli spaces of curves, arithmetic of hypersurfaces and circle method",
           "url": "https://www.math.columbia.edu/~mhaseliu/Docs/CV_for_Matthew_Hase_Liu-62.pdf"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "naomi-sweeting",
+      "name": "Naomi Sweeting",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "数学系",
+          "title": "Assistant Professor of Mathematics",
+          "url": "https://math.mit.edu/directory/profile.html?pid=2795",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://sweeting.scholar.princeton.edu/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "MIT 具名任职，官方主页入口 https://sites.mit.edu/sweeting/ 返回 502；本人 Princeton 站和校方履历可读，未确认公开 CV。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Tate classes and endoscopy for GSp(4) over totally real fields",
+          "url": "https://arxiv.org/abs/2211.10838"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, arithmetic geometry, algebraic cycles on Shimura varieties and Galois representations",
+          "url": "https://math.mit.edu/directory/profile.html?pid=2795"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -28379,16 +28757,42 @@
       ],
       "homepage": "https://tristanozuch.github.io/",
       "homepageStatus": null,
-      "cvUrl": "https://tristanozuch.github.io/cv/",
-      "cvType": "本人网页 CV",
+      "cvUrl": "https://tristanozuch.github.io/cv/CV_Tristan.pdf",
+      "cvType": "完整 CV",
       "cvStatus": null,
-      "publicationsUrl": null,
+      "publicationsUrl": "https://tristanozuch.github.io/publications/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5003670780",
+          "orcid": "https://orcid.org/0000-0001-6164-7404",
+          "url": "https://openalex.org/authors/A5003670780",
+          "authorApiUrl": "https://api.openalex.org/authors/A5003670780",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5003670780,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 13,
+          "works": 28,
+          "citations": 242,
+          "hIndex": 9,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Integrability of Einstein deformations and desingularizations",
+          "url": "https://doi.org/10.1002/cpa.22129"
+        },
+        {
+          "title": "Families of degenerating Poincaré–Einstein metrics on $$\\mathbb {R}^4$$",
+          "year": 2023,
+          "url": "https://doi.org/10.1007/s10455-023-09923-y"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Geometric analysis",
@@ -28413,6 +28817,55 @@
         {
           "text": "Differential geometry, geometric analysis, four-dimensional Einstein manifolds and Ricci flows",
           "url": "https://tristanozuch.github.io/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://tristanozuch.github.io/publications/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "washington-taylor",
+      "name": "Washington Taylor",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "MIT Center for Theoretical Physics — a Leinweber Institute",
+          "title": "Professor of Physics",
+          "url": "https://physics.mit.edu/faculty/washington-taylor/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://ctp.lns.mit.edu/wati/website/het-research.html",
+      "homepageStatus": null,
+      "cvUrl": "https://sfi-edu.s3.amazonaws.com/sfi-edu/production/uploads/people/resumes/Washington_Taylor_CV_2026-08-14-06-00_cb7958.pdf",
+      "cvType": "完整 CV",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Comparing elliptic and toric hypersurface Calabi–Yau threefolds at large Hodge numbers",
+          "year": 2019,
+          "url": "https://doi.org/10.1007/JHEP02(2019)087"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of elliptically fibered and toric Calabi–Yau varieties, compactification and F-theory",
+          "url": "https://ctp.lns.mit.edu/wati/website/het-research.html"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -28438,7 +28891,7 @@
       "tags": [
         "Number Theory, Automorphic forms, Arithmetic Geometry"
       ],
-      "homepage": null,
+      "homepage": "https://math.mit.edu/~wz2113/",
       "homepageStatus": null,
       "cvUrl": "https://math.mit.edu/documents/uploads/cv/2026_09_16_CV_wz2113.pdf",
       "cvType": "完整 CV",
@@ -28585,9 +29038,10 @@
         "algebraic"
       ],
       "tags": [
-        "Representation Theory, Number Theory, Algebraic Geometry"
+        "Representation Theory, Number Theory, Algebraic Geometry",
+        "Representation theory, algebraic geometry, and number theory"
       ],
-      "homepage": null,
+      "homepage": "https://math.mit.edu/~zyun/",
       "homepageStatus": null,
       "cvUrl": "https://math.mit.edu/documents/uploads/cv/2026_06_02_CV_zyun.pdf",
       "cvType": "完整 CV",
@@ -28619,6 +29073,10 @@
         {
           "text": "Representation Theory, Number Theory, Algebraic Geometry",
           "url": "https://math.mit.edu/research/pure/representation.html"
+        },
+        {
+          "text": "Representation theory, algebraic geometry, and number theory",
+          "url": "https://math.mit.edu/nt/people.html"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -47322,6 +47780,78 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "tristan-collins",
+      "name": "Tristan Collins",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "toronto",
+          "department": "Department of Mathematics",
+          "title": "Associate Professor of Mathematics",
+          "url": "https://www.mathematics.utoronto.ca/people/directories/all-faculty/tristan-collins",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://people.math.harvard.edu/~tcollins/homepage.html",
+      "homepageStatus": null,
+      "cvUrl": "https://people.math.harvard.edu/~tcollins/Collins_CV_091817.pdf",
+      "cvType": "旧版完整 CV（2017）",
+      "cvStatus": null,
+      "publicationsUrl": "https://people.math.harvard.edu/~tcollins/homepage.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5039509304",
+          "orcid": "https://orcid.org/0000-0002-1127-0458",
+          "url": "https://openalex.org/authors/A5039509304",
+          "authorApiUrl": "https://api.openalex.org/authors/A5039509304",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5039509304,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 40,
+          "works": 69,
+          "citations": 1753,
+          "hIndex": 23,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Restricted volumes on Kähler manifolds",
+          "year": 2022,
+          "url": "https://doi.org/10.5802/afst.1708"
+        },
+        {
+          "title": "Sasaki–Einstein metrics and K-stability",
+          "year": 2019,
+          "url": "https://doi.org/10.2140/gt.2019.23.1339"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry, differential geometry, algebraic geometry, Kähler geometry, geometric analysis, Sasaki–Einstein metrics and K-stability",
+          "url": "https://afst.centre-mersenne.org/articles/10.5802/afst.1708/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.mathematics.utoronto.ca/people/directories/all-faculty/tristan-collins"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {

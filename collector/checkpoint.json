@@ -5022,6 +5022,26 @@
       "note": "使用个人研究说明；与职位分栏中的同一个人员编号交叉。"
     },
     {
+      "id": "mit-csail-geometry31",
+      "school": "mit",
+      "url": "https://www.csail.mit.edu/research/geometry-and-topology-scientific-computing-and-shape-analysis",
+      "label": "CSAIL · Geometry and topology for scientific computing and shape analysis",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "mit-csail-joint31",
+      "school": "mit",
+      "url": "https://www.csail.mit.edu/person/justin-solomon",
+      "label": "CSAIL · Justin Solomon faculty profile",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "mit-detail",
       "school": "mit",
       "url": "https://math.mit.edu/directory/faculty/?show=detail",
@@ -5072,6 +5092,16 @@
       "note": ""
     },
     {
+      "id": "mit-grads-detail31",
+      "school": "mit",
+      "url": "https://math.mit.edu/directory/graduate.html?show=detail",
+      "label": "Department of Mathematics · 130 Graduate Students",
+      "status": "parsed",
+      "count": 43,
+      "checked_at": "2026-11-25",
+      "note": "读取全部 130 人，保留和已登记人员同名及人员 ID 一致的 43 条具名博士生记录。"
+    },
+    {
       "id": "mit-instruct31",
       "school": "mit",
       "url": "https://math.mit.edu/directory/instructors.html?show=detail",
@@ -5090,6 +5120,26 @@
       "count": 72,
       "checked_at": "2026-11-23",
       "note": ""
+    },
+    {
+      "id": "mit-math-physics31",
+      "school": "mit",
+      "url": "https://math.mit.edu/research/applied/physical.html",
+      "label": "Research · Physical Applied Mathematics",
+      "status": "parsed",
+      "count": 23,
+      "checked_at": "2026-11-25",
+      "note": "23 条个人研究说明。交叉核对研究主题与数学系任职。"
+    },
+    {
+      "id": "mit-nt-supplement31",
+      "school": "mit",
+      "url": "https://math.mit.edu/nt/people.html",
+      "label": "MIT Number Theory · faculty, postdocs, and affiliates",
+      "status": "parsed",
+      "count": 17,
+      "checked_at": "2026-11-25",
+      "note": "17 条专题成员。已有任职由校方人员目录对照，另核临时访问和已离任者。"
     },
     {
       "id": "mit-number31",
@@ -5150,6 +5200,16 @@
       "count": 9,
       "checked_at": "2026-11-25",
       "note": "校方具名卡片读取精确任职与个人说明；未来起聘、科研、荣休和访问分开。"
+    },
+    {
+      "id": "mit-simons-ag31",
+      "school": "mit",
+      "url": "https://www.simonsfoundation.org/collaborations/arithmetic-geometry-number-theory-and-computation/",
+      "label": "Simons Collaboration on Arithmetic Geometry, Number Theory, and Computation",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "mit-visitor31",
@@ -10282,6 +10342,56 @@
       "note": "具名任职 25，已读取各自个人卡片。继续以正规合作课题、教师身份与领域论文区分研究方向。"
     },
     {
+      "id": "ugr-analysis-campus31",
+      "school": "granada",
+      "url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+      "label": "Departamento de Análisis Matemático · staff directory",
+      "status": "parsed",
+      "count": 33,
+      "checked_at": "2026-11-25",
+      "note": "校级数学分析系名单 33 条。交叉核查四个研究组、几何 PDE 及其现任成员。"
+    },
+    {
+      "id": "ugr-analysis-cris31",
+      "school": "granada",
+      "url": "https://produccioncientifica.ugr.es/unidades/8717/investigadores",
+      "label": "Portal de Producción Científica · Análisis Matemático",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "ugr-analysis-groups31",
+      "school": "granada",
+      "url": "https://analisismatematico.ugr.es/index.php/investigacion/grupos",
+      "label": "Departamento de Análisis Matemático · 4 research groups",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "ugr-applied-campus31",
+      "school": "granada",
+      "url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-matematica-aplicada",
+      "label": "Departamento de Matemática Aplicada · staff directory",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "ugr-degree-math31",
+      "school": "granada",
+      "url": "https://grados.ugr.es/matematicas/docencia/profesorado",
+      "label": "Grado en Matemáticas · cross-department teaching roster",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "ugr-diff-app31",
       "school": "granada",
       "url": "https://ofertaimasd.ugr.es/fqm/grupos-de-investigacion/fqm-324-grupo-de-investigacion-geometria-diferencial-y-sus-aplicaciones/",
@@ -10400,6 +10510,16 @@
       "count": 0,
       "checked_at": "2026-11-25",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "ugr-physics-campus31",
+      "school": "granada",
+      "url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-fisica-teorica-cosmos",
+      "label": "Departamento de Física Teórica y del Cosmos · staff directory",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
       "id": "uic-full-audit-source",
@@ -166534,6 +166654,694 @@
       }
     },
     {
+      "source": "mit-grads-detail31",
+      "person_key": "alainkangabire",
+      "school": "mit",
+      "record": {
+        "name": "Alain Kangabire",
+        "title": "Graduate Student",
+        "research": "Microlocal analysis, Dynamical Systems",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2445",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "alexandermcweeney",
+      "school": "mit",
+      "record": {
+        "name": "Alexander McWeeney",
+        "title": "Graduate Student",
+        "research": "Geometric Analysis, Analysis & PDEs",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2435",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "andrewriesen",
+      "school": "mit",
+      "record": {
+        "name": "Andrew Riesen",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2597",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "annelarsen",
+      "school": "mit",
+      "record": {
+        "name": "Anne Larsen",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2447",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "aravkarighattam",
+      "school": "mit",
+      "record": {
+        "name": "Arav Karighattam",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2774",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "ayannath",
+      "school": "mit",
+      "record": {
+        "name": "Ayan Nath",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2678",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "ayodejilindblad",
+      "school": "mit",
+      "record": {
+        "name": "Ayodeji Lindblad",
+        "title": "Graduate Student",
+        "research": "Low-dimensional topology, gauge theory, discrete geometry",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2594",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "benjyfirester",
+      "school": "mit",
+      "record": {
+        "name": "Benjy Firester",
+        "title": "Graduate Student",
+        "research": "Geometric analysis, PDEs",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2587",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "charliecowenbreen",
+      "school": "mit",
+      "record": {
+        "name": "Charlie Cowen-Breen",
+        "title": "Graduate Student",
+        "research": "PDE, machine learning, computer-assisted proofs",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2719",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "cosminmanea",
+      "school": "mit",
+      "record": {
+        "name": "Cosmin Manea",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2596",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "dainkim",
+      "school": "mit",
+      "record": {
+        "name": "Dain Kim",
+        "title": "Graduate Student",
+        "research": "Geometric Analysis",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2592",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "daviddarrow",
+      "school": "mit",
+      "record": {
+        "name": "David Darrow",
+        "title": "Graduate Student",
+        "research": "Applied Math, Fluid Dynamics",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2585",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "dmitriizakharov",
+      "school": "mit",
+      "record": {
+        "name": "Dmitrii Zakharov",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2452",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "dylanshanhongtoh",
+      "school": "mit",
+      "record": {
+        "name": "Dylan Shan Hong Toh",
+        "title": "Graduate Student",
+        "research": "Moduli Spaces, Intersection Theory",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2781",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "frankwang",
+      "school": "mit",
+      "record": {
+        "name": "Frank Wang",
+        "title": "Graduate Student",
+        "research": "Geometric Representation Theory",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2686",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "guangxiyan",
+      "school": "mit",
+      "record": {
+        "name": "Guangxi Yan",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2692",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "hamiltonwan",
+      "school": "mit",
+      "record": {
+        "name": "Hamilton Wan",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2602",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "hannamularczyk",
+      "school": "mit",
+      "record": {
+        "name": "Hanna Mularczyk",
+        "title": "Graduate Student",
+        "research": "Algebraic Combinatorics",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2450",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "ilaniaxelrodfreed",
+      "school": "mit",
+      "record": {
+        "name": "Ilani Axelrod-Freed",
+        "title": "Graduate Student",
+        "research": "Algebraic Combinatorics",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2581",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "ivankarpov",
+      "school": "mit",
+      "record": {
+        "name": "Ivan Karpov",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2446",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "ivanmotorin",
+      "school": "mit",
+      "record": {
+        "name": "Ivan Motorin",
+        "title": "Graduate Student",
+        "research": "Cluster Algebras, Resolution of Singularities, Representation Theory, Integrable Systems",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2405",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "jeffreylu",
+      "school": "mit",
+      "record": {
+        "name": "Jeffrey Lu",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2675",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "jiajaneshi",
+      "school": "mit",
+      "record": {
+        "name": "Jia (Jane) Shi",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2598",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "jonathanbuchanan",
+      "school": "mit",
+      "record": {
+        "name": "Jonathan Buchanan",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2671",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "joshuamessing",
+      "school": "mit",
+      "record": {
+        "name": "Joshua Messing",
+        "title": "Graduate Student",
+        "research": "Partial Differential Equations, Differential Geometry, Functional Analysis",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2449",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "joyechen",
+      "school": "mit",
+      "record": {
+        "name": "Joye Chen",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2584",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "juliameng",
+      "school": "mit",
+      "record": {
+        "name": "Julia Meng",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2677",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "kaiyichen",
+      "school": "mit",
+      "record": {
+        "name": "Kaiyi Chen",
+        "title": "Graduate Student",
+        "research": "Representation theory and algebraic geometry",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2761",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "keitaallen",
+      "school": "mit",
+      "record": {
+        "name": "Keita Allen",
+        "title": "Graduate Student",
+        "research": "Homotopy theory",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2366",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "kennethblakey",
+      "school": "mit",
+      "record": {
+        "name": "Kenneth Blakey",
+        "title": "Graduate Student",
+        "research": "Symplectic geometry, homotopy theory",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2640",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "mahnavpetersen",
+      "school": "mit",
+      "record": {
+        "name": "Mahnav Petersen",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2780",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "marvinkoonce",
+      "school": "mit",
+      "record": {
+        "name": "Marvin Koonce",
+        "title": "Graduate Student",
+        "research": "Analysis of PDE, Nonlinear Wave Equations",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2775",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "michaellaw",
+      "school": "mit",
+      "record": {
+        "name": "Michael Law",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2448",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "nirelber",
+      "school": "mit",
+      "record": {
+        "name": "Nir Elber",
+        "title": "Graduate Student",
+        "research": "Number Theory",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2768",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "paigebright",
+      "school": "mit",
+      "record": {
+        "name": "Paige Bright",
+        "title": "Graduate Student",
+        "research": "Harmonic Analysis, Projection Theory, Fractal Geometry",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2529",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "ronnissim",
+      "school": "mit",
+      "record": {
+        "name": "Ron Nissim",
+        "title": "Graduate Student",
+        "research": "Mathematical Physics, Probability",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2422",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "shreyaryan",
+      "school": "mit",
+      "record": {
+        "name": "Shrey Aryan",
+        "title": "Graduate Student",
+        "research": "Geometric Analysis, PDEs and Optimal Transport",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2410",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "svetlanagavrilova",
+      "school": "mit",
+      "record": {
+        "name": "Svetlana Gavrilova",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2588",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "yiqihuang",
+      "school": "mit",
+      "record": {
+        "name": "Yiqi Huang",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2444",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "yonghwankim",
+      "school": "mit",
+      "record": {
+        "name": "Yonghwan Kim",
+        "title": "Graduate Student",
+        "research": "Symplectic Geometry",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2593",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "yunchudai",
+      "school": "mit",
+      "record": {
+        "name": "Yunchu Dai",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2764",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "yutongchen",
+      "school": "mit",
+      "record": {
+        "name": "Yutong Chen",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2762",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-grads-detail31",
+      "person_key": "zeyuwang",
+      "school": "mit",
+      "record": {
+        "name": "Zeyu Wang",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2603",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.mit.edu/directory/graduate.html?show=detail",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
       "source": "mit-instruct31",
       "person_key": "basilsaeed",
       "school": "mit",
@@ -168355,6 +169163,646 @@
         "source_kind": "department",
         "source_url": "https://math.mit.edu/directory/faculty/",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "andreybryutkin",
+      "school": "mit",
+      "record": {
+        "name": "Andrey Bryutkin",
+        "title": "",
+        "research": "Mathematics of Data, Statistics, Physical Applied Mathematics",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2582",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "anettehosoi",
+      "school": "mit",
+      "record": {
+        "name": "Anette Hosoi",
+        "title": "",
+        "research": "Fluid Dynamics, Numerical Analysis",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=1234",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "arnaudlazarus",
+      "school": "mit",
+      "record": {
+        "name": "Arnaud Lazarus",
+        "title": "",
+        "research": "Dynamical systems, stability, Floquet theory, hydrodynamic quantum analogs, model experiments",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2717",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "ashutoshtripathi",
+      "school": "mit",
+      "record": {
+        "name": "Ashutosh Tripathi",
+        "title": "",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2685",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "daviddarrow",
+      "school": "mit",
+      "record": {
+        "name": "David Darrow",
+        "title": "",
+        "research": "Applied Math, Fluid Dynamics",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2585",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "diegochavez",
+      "school": "mit",
+      "record": {
+        "name": "Diego Chavez",
+        "title": "",
+        "research": "Physical Applied Math, Waves",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2583",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "georgigaryrozenman",
+      "school": "mit",
+      "record": {
+        "name": "Georgi Gary Rozenman",
+        "title": "",
+        "research": "Hydrodynamic Quantum Analogs, Gravitational Analogs, Quantum Cryptography, Wave–Particle Systems",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2802",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "harrywalden",
+      "school": "mit",
+      "record": {
+        "name": "Harry Walden",
+        "title": "",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2601",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "ivanmotorin",
+      "school": "mit",
+      "record": {
+        "name": "Ivan Motorin",
+        "title": "",
+        "research": "Cluster Algebras, Resolution of Singularities, Representation Theory, Integrable Systems",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2405",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "jankoondras",
+      "school": "mit",
+      "record": {
+        "name": "Janko Ondras",
+        "title": "",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2616",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "joelbeen",
+      "school": "mit",
+      "record": {
+        "name": "Joel Been",
+        "title": "",
+        "research": "Nonlinear Waves, Inverse Scattering Transform, Fractional Calculus",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2437",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "johnbush",
+      "school": "mit",
+      "record": {
+        "name": "John Bush",
+        "title": "",
+        "research": "Fluid Dynamics",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=35",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "jorndunkel",
+      "school": "mit",
+      "record": {
+        "name": "Jörn Dunkel",
+        "title": "",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=1498",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "josephberleant",
+      "school": "mit",
+      "record": {
+        "name": "Joseph Berleant",
+        "title": "",
+        "research": "Representation theory, Geometric algebra",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2662",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "keatonburns",
+      "school": "mit",
+      "record": {
+        "name": "Keaton Burns",
+        "title": "",
+        "research": "Numerical Methods, Fluid Dynamics",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2138",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "ludovicotheogiorgini",
+      "school": "mit",
+      "record": {
+        "name": "Ludovico Theo Giorgini",
+        "title": "",
+        "research": "Stochastic Processes, Dynamical Systems, Machine Learning",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2704",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "martinbazant",
+      "school": "mit",
+      "record": {
+        "name": "Martin Bazant",
+        "title": "",
+        "research": "Applied Mathematics, Theoretical Physics, Electrokinetics, Electrochemistry, Chemical Engineering",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=16",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "rodolforosales",
+      "school": "mit",
+      "record": {
+        "name": "Rodolfo Rosales",
+        "title": "",
+        "research": "Nonlinear Waves, Fluid Mechanics, Material Sciences, Numerical pde",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=228",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "rodrigoarrietacandia",
+      "school": "mit",
+      "record": {
+        "name": "Rodrigo Arrieta Candia",
+        "title": "",
+        "research": "Numerical methods for PDEs, Numerical Analysis, Scientific Computing, Computational Electromagnetism",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2409",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "sarahsnider",
+      "school": "mit",
+      "record": {
+        "name": "Sarah Snider",
+        "title": "",
+        "research": "Physical Applied Mathematics, Computational Geophysical Fluid Dynamics, Turbulence Theory",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2683",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "shijiezhang",
+      "school": "mit",
+      "record": {
+        "name": "Shijie Zhang",
+        "title": "",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2694",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "stevenjohnson",
+      "school": "mit",
+      "record": {
+        "name": "Steven Johnson",
+        "title": "",
+        "research": "Waves, PDEs, Scientific Computing",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=113",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-math-physics31",
+      "person_key": "xanderuyttendaele",
+      "school": "mit",
+      "record": {
+        "name": "Xander Uyttendaele",
+        "title": "",
+        "research": "",
+        "profile": "https://math.mit.edu/directory/profile.html?pid=2783",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/research/applied/physical.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-nt-supplement31",
+      "person_key": "andrewsutherland",
+      "school": "mit",
+      "record": {
+        "name": "Andrew Sutherland",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://math.mit.edu/~drew/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/nt/people.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-nt-supplement31",
+      "person_key": "bjornpoonen",
+      "school": "mit",
+      "record": {
+        "name": "Bjorn Poonen",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://math.mit.edu/~poonen/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/nt/people.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-nt-supplement31",
+      "person_key": "davidroe",
+      "school": "mit",
+      "record": {
+        "name": "David Roe",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://math.mit.edu/~roed/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/nt/people.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-nt-supplement31",
+      "person_key": "edgarcosta",
+      "school": "mit",
+      "record": {
+        "name": "Edgar Costa",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://edgarcosta.org/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/nt/people.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-nt-supplement31",
+      "person_key": "floriansprung",
+      "school": "mit",
+      "record": {
+        "name": "Florian Sprung",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://sites.google.com/view/floriansprung/home",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/nt/people.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-nt-supplement31",
+      "person_key": "havarddammjohnsen",
+      "school": "mit",
+      "record": {
+        "name": "Håvard Damm-Johnsen",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://havarddj.github.io/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/nt/people.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-nt-supplement31",
+      "person_key": "jialiangzou",
+      "school": "mit",
+      "record": {
+        "name": "Jialiang Zou",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://sites.google.com/umich.edu/jialiang-zou/home",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/nt/people.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-nt-supplement31",
+      "person_key": "matthewhaseliu",
+      "school": "mit",
+      "record": {
+        "name": "Matthew Hase-Liu",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://www.math.columbia.edu/~mhaseliu/index.html",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/nt/people.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-nt-supplement31",
+      "person_key": "naomisweeting",
+      "school": "mit",
+      "record": {
+        "name": "Naomi Sweeting",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://sweeting.scholar.princeton.edu",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/nt/people.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-nt-supplement31",
+      "person_key": "siyandaniellihuerta",
+      "school": "mit",
+      "record": {
+        "name": "Siyan Daniel Li-Huerta",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://math.mit.edu/~sdlh/index.html",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/nt/people.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-nt-supplement31",
+      "person_key": "sjoerddevries",
+      "school": "mit",
+      "record": {
+        "name": "Sjoerd de Vries",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://staff.math.su.se/sjoerd.devries/Home.html",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/nt/people.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-nt-supplement31",
+      "person_key": "thomasrud",
+      "school": "mit",
+      "record": {
+        "name": "Thomas Rüd",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://math.mit.edu/~rud/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/nt/people.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-nt-supplement31",
+      "person_key": "tongzhou",
+      "school": "mit",
+      "record": {
+        "name": "Tong Zhou",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://tongchow.github.io/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/nt/people.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-nt-supplement31",
+      "person_key": "trajanhammonds",
+      "school": "mit",
+      "record": {
+        "name": "Trajan Hammonds",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://trajanh.github.io/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/nt/people.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-nt-supplement31",
+      "person_key": "weizhang",
+      "school": "mit",
+      "record": {
+        "name": "Wei Zhang",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://math.mit.edu/~wz2113/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/nt/people.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-nt-supplement31",
+      "person_key": "yuluo",
+      "school": "mit",
+      "record": {
+        "name": "Yu Luo",
+        "title": "",
+        "research": "",
+        "profile": "",
+        "homepage": "https://yuluo-math.github.io/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/nt/people.html",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "mit-nt-supplement31",
+      "person_key": "zhiweiyun",
+      "school": "mit",
+      "record": {
+        "name": "Zhiwei Yun",
+        "title": "",
+        "research": "Representation theory, algebraic geometry, and number theory",
+        "profile": "",
+        "homepage": "https://math.mit.edu/~zyun/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://math.mit.edu/nt/people.html",
+        "checked_at": "2026-11-25"
       }
     },
     {
@@ -365189,6 +366637,534 @@
       }
     },
     {
+      "source": "ugr-analysis-campus31",
+      "person_key": "abrahamruedazoca",
+      "school": "granada",
+      "record": {
+        "name": "Abraham Rueda Zoca",
+        "title": "Profesor Titular de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/abraham-rueda-zoca",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "alexismolinosalas",
+      "school": "granada",
+      "record": {
+        "name": "Alexis Molino Salas",
+        "title": "Profesor Permanente Laboral",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/alexis-molino-salas",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "antoniocanadavillar",
+      "school": "granada",
+      "record": {
+        "name": "Antonio Cañada Villar",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/antonio-canada-villar",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "antoniomiguelperaltapereira",
+      "school": "granada",
+      "record": {
+        "name": "Antonio Miguel Peralta Pereira",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/antonio-miguel-peralta-pereira",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "armandoreyesvillenamunoz",
+      "school": "granada",
+      "record": {
+        "name": "Armando Reyes Villena Muñoz",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/armando-reyes-villena-munoz",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "caterinasportelli",
+      "school": "granada",
+      "record": {
+        "name": "Caterina Sportelli",
+        "title": "Programa Investigacion Juan de la Cierva",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/caterina-sportelli-2",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "davidarcoyaalvarez",
+      "school": "granada",
+      "record": {
+        "name": "David Arcoya Álvarez",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/david-arcoya-alvarez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "davidruizaguilar",
+      "school": "granada",
+      "record": {
+        "name": "David Ruiz Aguilar",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/david-ruiz-aguilar",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "eduardoantonionietoarco",
+      "school": "granada",
+      "record": {
+        "name": "Eduardo Antonio Nieto Arco",
+        "title": "Profesor Titular de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/eduardo-antonio-nieto-arco",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "estebanmartinezvano",
+      "school": "granada",
+      "record": {
+        "name": "Esteban Martínez Vañó",
+        "title": "Contratos Predoctorales Formacion Doctores Ley 14/2011 Fpi",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/esteban-martinez-vano",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "franciscojaviermeridelamaza",
+      "school": "granada",
+      "record": {
+        "name": "Francisco Javier Meri de la Maza",
+        "title": "Profesor Titular de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/francisco-javier-meri-maza",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "franciscojosefernandezpolo",
+      "school": "granada",
+      "record": {
+        "name": "Francisco José Fernández Polo",
+        "title": "Profesor Titular de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/francisco-jose-fernandez-polo",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "gerardomartinescolano",
+      "school": "granada",
+      "record": {
+        "name": "Gerardo Martín Escolano",
+        "title": "Profesor Sustituto (Losu)",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/gerardo-martin-escolano",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "gineslopezperez",
+      "school": "granada",
+      "record": {
+        "name": "Ginés López Pérez",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/gines-lopez-perez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "helenadelriofernandez",
+      "school": "granada",
+      "record": {
+        "name": "Helena Del Río Fernández",
+        "title": "Contratos Predoctorales Formacion Doctores Ley 14/2011 Fpi",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/helena-rio-fernandez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "ivancaamanoaldemunde",
+      "school": "granada",
+      "record": {
+        "name": "Ivan Caamaño Aldemunde",
+        "title": "Programa Investigacion Juan de la Cierva",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/ivan-caamano-aldemunde",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "jeronimoalaminosprats",
+      "school": "granada",
+      "record": {
+        "name": "Jerónimo Alaminos Prats",
+        "title": "Profesor Titular de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/jeronimo-alaminos-prats",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "joseextremeralizana",
+      "school": "granada",
+      "record": {
+        "name": "José Extremera Lizana",
+        "title": "Profesor Titular de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/jose-extremera-lizana",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "joseluisgamezruiz",
+      "school": "granada",
+      "record": {
+        "name": "José Luis Gámez Ruiz",
+        "title": "Profesor Titular de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/jose-luis-gamez-ruiz",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "juanaureliomonterosanchez",
+      "school": "granada",
+      "record": {
+        "name": "Juan Aurelio Montero Sánchez",
+        "title": "Profesor Titular de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/juan-aurelio-montero-sanchez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "juancarloscabellopinar",
+      "school": "granada",
+      "record": {
+        "name": "Juan Carlos Cabello Piñar",
+        "title": "Profesor Titular de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/juan-carlos-cabello-pinar",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "juanfranciscomenajurado",
+      "school": "granada",
+      "record": {
+        "name": "Juan Francisco Mena Jurado",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/juan-francisco-mena-jurado",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "julioantoniobecerraguerrero",
+      "school": "granada",
+      "record": {
+        "name": "Julio Antonio Becerra Guerrero",
+        "title": "Profesor Titular de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/julio-antonio-becerra-guerrero",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "mariavictoriavelascocollado",
+      "school": "granada",
+      "record": {
+        "name": "María Victoria Velasco Collado",
+        "title": "Catedrática de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/maria-victoria-velasco-collado",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "miguelcabreragarcia",
+      "school": "granada",
+      "record": {
+        "name": "Miguel Cabrera García",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/miguel-cabrera-garcia",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "miguelmartinezteruel",
+      "school": "granada",
+      "record": {
+        "name": "Miguel Martínez Teruel",
+        "title": "Profesor Sustituto (Losu)",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/miguel-martinez-teruel",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "miguelmartinsuarez",
+      "school": "granada",
+      "record": {
+        "name": "Miguel Martín Suárez",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/miguel-martin-suarez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "paulalunavelasco",
+      "school": "granada",
+      "record": {
+        "name": "Paula Luna Velasco",
+        "title": "Contratos Predoctorales Formacion Doctores Ley 14/2011 Fpi",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/paula-luna-velasco",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "pedrosaavedraortiz",
+      "school": "granada",
+      "record": {
+        "name": "Pedro Saavedra Ortiz",
+        "title": "Contratos Predoctorales Ley 14/2011 Fpu",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/pedro-saavedra-ortiz",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "pieralbertosicbaldi",
+      "school": "granada",
+      "record": {
+        "name": "Pieralberto Sicbaldi",
+        "title": "Profesor Titular de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/pieralberto-sicbaldi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "rafaelcarlosmontoroflores",
+      "school": "granada",
+      "record": {
+        "name": "Rafael Carlos Montoro Flores",
+        "title": "Profesor Sustituto (Losu)",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/rafael-carlos-montoro-flores",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "rafaellopezsoriano",
+      "school": "granada",
+      "record": {
+        "name": "Rafael López Soriano",
+        "title": "Profesor Titular de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/rafael-lopez-soriano",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "ugr-analysis-campus31",
+      "person_key": "salvadorvillegasbarranco",
+      "school": "granada",
+      "record": {
+        "name": "Salvador Villegas Barranco",
+        "title": "Catedrático de Universidad",
+        "research": "",
+        "profile": "https://www.ugr.es/personal/salvador-villegas-barranco",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.ugr.es/universidad/organizacion/entidades/departamento-analisis-matematico",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
       "source": "ugr-geom-person31",
       "person_key": "aireseduardomenanibarbieri",
       "school": "granada",
@@ -497652,6 +499628,33 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
     },
+    "david-ruiz-aguilar": {
+      "status": "review_ready",
+      "author_id": "A5017298297",
+      "papers": [
+        {
+          "title": "Blow-up analysis of conformal metrics of the disk with prescribed Gaussian and geodesic curvatures",
+          "year": 2022,
+          "url": "https://doi.org/10.2140/APDE.2022.15.1897"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5017298297",
+        "orcid": "https://orcid.org/0000-0001-9837-3101",
+        "url": "https://openalex.org/authors/A5017298297",
+        "authorApiUrl": "https://api.openalex.org/authors/A5017298297",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5017298297,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 57,
+        "works": 66,
+        "citations": 3822,
+        "hIndex": 28,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "david-rydh": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
@@ -499553,6 +501556,38 @@
       "reason": "OpenAlex 请求或返回数据失败。",
       "checkedAt": "2026-11-23"
     },
+    "justin-solomon": {
+      "status": "review_ready",
+      "author_id": "A5036542947",
+      "papers": [
+        {
+          "title": "Convolutional wasserstein distances: efficient optimal transportation on geometric domains",
+          "year": 2015,
+          "url": "https://doi.org/10.1145/2766963"
+        },
+        {
+          "title": "Earth mover's distances on discrete surfaces",
+          "year": 2014,
+          "url": "https://doi.org/10.1145/2601097.2601175"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5036542947",
+        "orcid": "https://orcid.org/0000-0002-7701-7586",
+        "url": "https://openalex.org/authors/A5036542947",
+        "authorApiUrl": "https://api.openalex.org/authors/A5036542947",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5036542947,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 90,
+        "works": 210,
+        "citations": 20284,
+        "hIndex": 49,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "kai-behrend": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
@@ -499813,6 +501848,38 @@
         "works": 27,
         "citations": 217,
         "hIndex": 10,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "larry-guth": {
+      "status": "review_ready",
+      "author_id": "A5081877161",
+      "papers": [
+        {
+          "title": "Systolic Inequalities and Minimal Hypersurfaces",
+          "year": 2010,
+          "url": "https://doi.org/10.1007/s00039-010-0052-0"
+        },
+        {
+          "title": "The Width-Volume Inequality",
+          "year": 2007,
+          "url": "https://doi.org/10.1007/s00039-007-0628-5"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5081877161",
+        "orcid": "https://orcid.org/0000-0002-1302-8657",
+        "url": "https://openalex.org/authors/A5081877161",
+        "authorApiUrl": "https://api.openalex.org/authors/A5081877161",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5081877161,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 62,
+        "works": 111,
+        "citations": 4806,
+        "hIndex": 36,
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
       }
@@ -502363,6 +504430,27 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
     },
+    "rafael-lopez-soriano": {
+      "status": "review_ready",
+      "author_id": "A5078755959",
+      "papers": [],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5078755959",
+        "orcid": "https://orcid.org/0000-0003-4345-4099",
+        "url": "https://openalex.org/authors/A5078755959",
+        "authorApiUrl": "https://api.openalex.org/authors/A5078755959",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5078755959,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 17,
+        "works": 21,
+        "citations": 177,
+        "hIndex": 8,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "rafe-mazzeo": {
       "status": "review_ready",
       "author_id": "A5087642309",
@@ -503543,6 +505631,70 @@
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5083212945"
+    },
+    "tristan-collins": {
+      "status": "review_ready",
+      "author_id": "A5039509304",
+      "papers": [
+        {
+          "title": "Restricted volumes on Kähler manifolds",
+          "year": 2022,
+          "url": "https://doi.org/10.5802/afst.1708"
+        },
+        {
+          "title": "Sasaki–Einstein metrics and K–stability",
+          "year": 2019,
+          "url": "https://doi.org/10.2140/gt.2019.23.1339"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5039509304",
+        "orcid": "https://orcid.org/0000-0002-1127-0458",
+        "url": "https://openalex.org/authors/A5039509304",
+        "authorApiUrl": "https://api.openalex.org/authors/A5039509304",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5039509304,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 40,
+        "works": 69,
+        "citations": 1753,
+        "hIndex": 23,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "tristan-ozuch-meersseman": {
+      "status": "review_ready",
+      "author_id": "A5003670780",
+      "papers": [
+        {
+          "title": "Integrability of Einstein deformations and desingularizations",
+          "year": 2023,
+          "url": "https://doi.org/10.1002/cpa.22129"
+        },
+        {
+          "title": "Families of degenerating Poincaré–Einstein metrics on $$\\mathbb {R}^4$$",
+          "year": 2023,
+          "url": "https://doi.org/10.1007/s10455-023-09923-y"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5003670780",
+        "orcid": "https://orcid.org/0000-0001-6164-7404",
+        "url": "https://openalex.org/authors/A5003670780",
+        "authorApiUrl": "https://api.openalex.org/authors/A5003670780",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5003670780,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 13,
+        "works": 28,
+        "citations": 242,
+        "hIndex": 9,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "tristan-riviere": {
       "status": "identity_review",
