@@ -247,6 +247,8 @@ def parse_iit_delhi_faculty(records, base):
 
 def split_role(title, region=None):
     title = title.strip(" ,;–—")
+    if title.casefold().startswith("future appointment ("):
+        return "other"
     if re.search(r"\b(?:J\.\s*J\.\s*Sylvester|Szeg[oöő]) Assistant Professor\b", title, re.I):
         return "other"
     if region == "波兰":
@@ -415,16 +417,22 @@ def display_name(name):
 
 def parse_mit(document, base):
     records = []
-    title = "Professor" if "Directory: Professors" in text_at(document, "//main/h1") else ""
+    fallback_title = "Professor" if "Directory: Professors" in text_at(document, "//main/h1") else ""
     for link in document.xpath("//main//div[@class='name']//a[contains(@href,'pid=')]"):
         name = display_name(contents(link))
-        records.append(Entry(name, title, profile=profile_link(base, link.get("href"))))
+        card = link.xpath("ancestor::div[@class='person'][1]")
+        title = text_at(card[0], ".//div[@class='title']") if card else ""
+        research = text_at(card[0], ".//div[@class='research']/p/em") if card else ""
+        start = text_at(card[0], ".//div[@class='leave']") if card else ""
+        if start.casefold().startswith("starting "):
+            title = f"Future appointment ({start}): {title}"
+        records.append(Entry(name, title or fallback_title, research, profile=profile_link(base, link.get("href"))))
     return records
 
 
 def parse_mit_group(document, base):
     records = []
-    for row in document.xpath("//main/h3[normalize-space()='Faculty']/following-sibling::ul[1]/li[a]"):
+    for row in document.xpath("//main//li[a[contains(@href,'pid=')] and span[contains(@class,'light-ital')]]"):
         link = row.xpath("./a")[0]
         records.append(Entry(contents(link), research=text_at(row, "./span"), profile=profile_link(base, link.get("href"))))
     return records

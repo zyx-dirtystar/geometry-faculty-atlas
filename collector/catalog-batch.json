@@ -103,26 +103,78 @@
     {
       "id": "mit",
       "coverage": "sample",
-      "coverageNote": "已解析 4/4 个登记来源，68 条任职或方向待核。 已收录 3 位学者，个人主页 0、CV 3、指标 2。",
+      "coverageNote": "已解析 17/17 个登记来源，38 条任职或方向待核。 已收录 19 位学者，个人主页 8、CV 12、指标 5。 数学系详细现任 73 条，科研岗位 9、博士后 19、讲师与固定期 Instructor 42、访客 14、荣休 16。逐人研究说明交叉 Geometry、Algebra、Number Theory、Analysis、Representation、Theoretical Physics 与 Algebraic Topology 七组。学校另有联合职位和研究中心，未公开专长仍待补。 核对个人 CV 后，用苏黎世大学有日期任命和本人履历订正 Christoph Kehle 列在 MIT 的旧职。",
       "rosterLinks": [
+        [
+          "Research · Algebra & Algebraic Geometry",
+          "https://math.mit.edu/research/pure/algebra.html"
+        ],
+        [
+          "Research · Algebraic Topology",
+          "https://math.mit.edu/research/pure/algebraic-topology.html"
+        ],
+        [
+          "Research · Analysis and PDEs",
+          "https://math.mit.edu/research/pure/analysis-pde.html"
+        ],
         [
           "数学系 Faculty Detailed List",
           "https://math.mit.edu/directory/faculty/?show=detail"
+        ],
+        [
+          "Department of Mathematics · Emeriti Professors",
+          "https://math.mit.edu/directory/faculty/emeriti.html?show=detail"
+        ],
+        [
+          "Department of Mathematics · All Department Faculty · detailed",
+          "https://math.mit.edu/directory/faculty/?show=detail"
+        ],
+        [
+          "Research · Geometry & Topology",
+          "https://math.mit.edu/research/pure/geometry.php"
         ],
         [
           "数学系 Geometry",
           "https://math.mit.edu/research/pure/geometry.html"
         ],
         [
+          "Department of Mathematics · Instructors · Moore and applied mathematics",
+          "https://math.mit.edu/directory/instructors.html?show=detail"
+        ],
+        [
           "数学系 Faculty Directory",
           "https://math.mit.edu/directory/faculty/"
         ],
         [
+          "Research · Number Theory",
+          "https://math.mit.edu/research/pure/number-theory.php"
+        ],
+        [
+          "Research · Theoretical Physics",
+          "https://math.mit.edu/research/applied/physics-theory.html"
+        ],
+        [
+          "Department of Mathematics · Postdoctoral Associates and Fellows",
+          "https://math.mit.edu/directory/postdocs.html?show=detail"
+        ],
+        [
           "数学系 Professor Directory",
           "https://math.mit.edu/directory/faculty/professors.html?show=gallery"
+        ],
+        [
+          "Research · Representation Theory",
+          "https://math.mit.edu/research/pure/representation.html"
+        ],
+        [
+          "Department of Mathematics · Research Scientists",
+          "https://math.mit.edu/directory/researchers.html?show=detail"
+        ],
+        [
+          "Department of Mathematics · Visitors · detailed",
+          "https://math.mit.edu/directory/visitors.html?show=detail"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "cambridge",
@@ -2187,7 +2239,7 @@
     {
       "id": "zurich",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 0。",
+      "coverageNote": "已解析 1/2 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 2、指标 1。  以现任公告和个人研究页面补入 Christoph Kehle，另在 MIT 作为离任核对。",
       "rosterLinks": [
         [
           "Institute of Mathematics · Mathematical Physics Group",
@@ -2643,7 +2695,7 @@
     {
       "id": "granada",
       "coverage": "sample",
-      "coverageNote": "已解析 2/10 个登记来源，0 条任职或方向待核。 已收录 20 位学者，个人主页 19、CV 18、指标 5。 本轮取得几何系 36 个具名岗位，科研门户 42 个当前研究档案与 69 个历年名录分列，并逐名读取院系和校级个人档案。交叉 FQM 324、FQM 325 及在研项目，具名确认极小曲面、复／全纯接触几何、洛伦兹与仿射微分几何。IMAG、代数系的现任人员和独立代数几何研究范围继续按来源复核。",
+      "coverageNote": "已解析 3/16 个登记来源，0 条任职或方向待核。 已收录 21 位学者，个人主页 20、CV 19、指标 9。 本轮取得几何系 36 个具名岗位，科研门户 42 个当前研究档案与 69 个历年名录分列，并逐名读取院系和校级个人档案。交叉 FQM 324、FQM 325 及在研项目，具名确认极小曲面、复／全纯接触几何、洛伦兹与仿射微分几何。IMAG、代数系的现任人员和独立代数几何研究范围继续按来源复核。 另核代数系 25 名含行政、临时合同和联合校区教师，IMAG 具名研究项目、两份几何项目团队及几何系离任名录。数学分析系的 Pieralberto Sicbaldi 以官方现任另入库。 代数系 25 条人员均有具名职务与研究判定。包括以课题和学术出版确认的非交换几何、交换代数、同伦与动力系统等相邻方向；一位代课教师的任职可确认，公开研究专长未发现。",
       "rosterLinks": [
         [
           "FACULTAD DE CIENCIAS",
@@ -2658,12 +2710,24 @@
           "https://produccioncientifica.ugr.es/unidades/8715/investigadores"
         ],
         [
+          "Departamento de Álgebra · 25 staff",
+          "https://www.ugr.es/universidad/organizacion/entidades/departamento-algebra"
+        ],
+        [
           "OTRI · FQM 324 Geometría diferencial",
           "https://ofertaimasd.ugr.es/fqm/grupos-de-investigacion/fqm-324-grupo-de-investigacion-geometria-diferencial-y-sus-aplicaciones/"
         ],
         [
+          "Geometric Analysis Project · Team",
+          "https://www.ugr.es/~surfaces/team.html"
+        ],
+        [
           "UGR-CRIS: 42 current researcher entries and 69 timeline entries",
           "https://produccioncientifica.ugr.es/unidades/8753/investigadores"
+        ],
+        [
+          "Geometría y Topología · ex-members",
+          "https://geometry.ugr.es/informacion/presentacion/exmiembros"
         ],
         [
           "Geometría y Topología · FQM 324 and 325",
@@ -2678,12 +2742,24 @@
           "https://geometry.ugr.es/investigacion/proyectos"
         ],
         [
+          "IMAG · School of Excellence & named investigators",
+          "https://investiga.ugr.es/unidad-excelencia/instituto-de-matematicas-de-la-universidad-de-granada/"
+        ],
+        [
+          "IMAG · Predocs and Postdocs",
+          "https://wpd.ugr.es/~imag/predocs-and-postdocs/"
+        ],
+        [
           "IMAG · research projects and groups",
           "https://wpd.ugr.es/~imag/research-projects-and-groups/"
         ],
         [
           "IMAG · structure",
           "https://wpd.ugr.es/~imag/structure/"
+        ],
+        [
+          "New Challenges in Differential Geometry · Lorentz-Finsler project",
+          "https://gigda.ugr.es/pm2025"
         ]
       ],
       "checkedAt": "2026-11-25"
@@ -16592,14 +16668,34 @@
         }
       ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5012086857",
+          "orcid": "https://orcid.org/0000-0002-6104-6550",
+          "url": "https://openalex.org/authors/A5012086857",
+          "authorApiUrl": "https://api.openalex.org/authors/A5012086857",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5012086857,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 40,
+          "works": 50,
+          "citations": 745,
+          "hIndex": 14,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
         {
           "text": "Affine differential geometry, minimal surfaces, classical surface theory and geometric variational problems",
           "url": "https://www.ugr.es/~amartine/investigacion.html"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://orcid.org/0000-0002-6104-6550"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -16864,14 +16960,34 @@
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5041018616",
+          "orcid": "https://orcid.org/0000-0001-7799-7919",
+          "url": "https://openalex.org/authors/A5041018616",
+          "authorApiUrl": "https://api.openalex.org/authors/A5041018616",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5041018616,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 17,
+          "works": 29,
+          "citations": 325,
+          "hIndex": 9,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
         {
           "text": "Differential geometry and geometric analysis, constant mean curvature, minimal surfaces and homogeneous 3-manifolds",
           "url": "https://www.ugr.es/~ftorralbo/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://orcid.org/0000-0001-7799-7919"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -16991,7 +17107,7 @@
         }
       ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。",
       "metrics": [],
       "identityUrl": null,
       "papers": [],
@@ -16999,6 +17115,10 @@
         {
           "text": "Differential geometry, surfaces with prescribed Gaussian and mean curvature, Weingarten spheres, global surface theory",
           "url": "https://produccioncientifica.ugr.es/investigadores/354754/colaboracion/investigador/223891"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://orcid.org/0000-0002-6401-4394"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -17172,14 +17292,34 @@
       "publicationsUrl": "https://www.ugr.es/~crosales/research.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5008012446",
+          "orcid": "https://orcid.org/0000-0003-3681-1596",
+          "url": "https://openalex.org/authors/A5008012446",
+          "authorApiUrl": "https://api.openalex.org/authors/A5008012446",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5008012446,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 25,
+          "works": 34,
+          "citations": 829,
+          "hIndex": 12,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
         {
           "text": "Differential and sub-Riemannian geometry, isoperimetry, constant mean curvature and variational problems on weighted manifolds",
           "url": "https://www.ugr.es/~crosales/research.html"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://orcid.org/0000-0003-3681-1596"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -17300,7 +17440,7 @@
         }
       ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。",
       "metrics": [],
       "identityUrl": null,
       "papers": [],
@@ -17308,6 +17448,10 @@
         {
           "text": "Differential geometry and geometric analysis, minimal surfaces in product spaces and holomorphic data for minimal surfaces",
           "url": "https://produccioncientifica.ugr.es/investigadores/355682/colaboracion/investigador/2694562"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://orcid.org/0000-0003-3589-2371"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -17401,14 +17545,78 @@
         }
       ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5085351080",
+          "orcid": "https://orcid.org/0000-0003-0677-1482",
+          "url": "https://openalex.org/authors/A5085351080",
+          "authorApiUrl": "https://api.openalex.org/authors/A5085351080",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5085351080,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 79,
+          "works": 121,
+          "citations": 4339,
+          "hIndex": 33,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
         {
           "text": "Lorentzian differential geometry, Finsler and Lorentz–Finsler geometry and geometric analysis of spacetime",
           "url": "https://gigda.ugr.es/sanchezm/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://orcid.org/0000-0003-0677-1482"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "pieralberto-sicbaldi",
+      "name": "Pieralberto Sicbaldi",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "granada",
+          "department": "Departamento de Análisis Matemático",
+          "title": "Profesor Titular de Universidad",
+          "url": "https://www.ugr.es/personal/pieralberto-sicbaldi",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.ugr.es/~pieralberto/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.ugr.es/~pieralberto/cv.pdf",
+      "cvType": "完整 CV",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Extremal domains for the first eigenvalue in a general compact Riemannian manifold",
+          "url": "https://doi.org/10.3934/dcds.2015.35.5799"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, geometric analysis, shape optimization, extremal domains on Riemannian manifolds and overdetermined elliptic PDE",
+          "url": "https://www.ugr.es/~surfaces/team.html"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -27235,6 +27443,770 @@
       "recordStatus": "directory"
     },
     {
+      "id": "aleksandr-logunov",
+      "name": "Aleksandr Logunov",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://math.mit.edu/directory/profile.html?pid=2579",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Harmonic Analysis, Geometrical Analysis, Complex Analysis, PDE, Nodal Geometry",
+          "url": "https://math.mit.edu/research/pure/geometry.html"
+        },
+        {
+          "text": "Harmonic Analysis, Geometrical Analysis, Complex Analysis, PDE, Nodal Geometry",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Harmonic Analysis, Geometrical Analysis, Complex Analysis, PDE, Nodal Geometry",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Harmonic Analysis, Geometrical Analysis, Complex Analysis, PDE, Nodal Geometry",
+          "url": "https://math.mit.edu/research/pure/geometry.php"
+        },
+        {
+          "text": "Harmonic Analysis, Geometrical Analysis, Complex Analysis, PDE, Nodal Geometry",
+          "url": "https://math.mit.edu/research/pure/analysis-pde.html"
+        },
+        {
+          "text": "Geometric analysis, nodal geometry of Laplace eigenfunctions, harmonic analysis and PDE on Riemannian manifolds",
+          "url": "https://math.mit.edu/directory/profile.html?pid=2579"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "andrew-sutherland",
+      "name": "Andrew Sutherland",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "数学系",
+          "title": "Senior Research Scientist of Mathematics",
+          "url": "https://math.mit.edu/directory/profile.html?pid=272",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Computational Number Theory and Arithmetic Geometry"
+      ],
+      "homepage": "https://math.mit.edu/~drew/",
+      "homepageStatus": null,
+      "cvUrl": "https://math.mit.edu/documents/uploads/cv/2026_06_01_CV_avs.pdf",
+      "cvType": "完整 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://math.mit.edu/~drew/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Computational Number Theory and Arithmetic Geometry",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Computational Number Theory and Arithmetic Geometry",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Computational Number Theory and Arithmetic Geometry",
+          "url": "https://math.mit.edu/directory/researchers.html?show=detail"
+        },
+        {
+          "text": "Computational Number Theory and Arithmetic Geometry",
+          "url": "https://math.mit.edu/research/pure/algebra.html"
+        },
+        {
+          "text": "Computational Number Theory and Arithmetic Geometry",
+          "url": "https://math.mit.edu/research/pure/number-theory.php"
+        },
+        {
+          "text": "Arithmetic geometry, computational number theory, arithmetic of curves and abelian varieties",
+          "url": "https://math.mit.edu/directory/profile.html?pid=272"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "benjamin-v-church",
+      "name": "Benjamin V. Church",
+      "aliases": [
+        "Benjamin Church",
+        "Ben Church"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "数学系",
+          "title": "Research Scientist of Mathematics",
+          "url": "https://math.mit.edu/directory/profile.html?pid=2878",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://web.stanford.edu/~bvchurch/",
+      "homepageStatus": null,
+      "cvUrl": "https://cap.stanford.edu/profiles/viewResume?facultyId=269257&name=Ben_Church",
+      "cvType": "旧版完整 CV",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, birational geometry, arithmetic geometry, curves and varieties in positive characteristic",
+          "url": "https://web.stanford.edu/~bvchurch/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "bjorn-poonen",
+      "name": "Bjorn Poonen",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "数学系",
+          "title": "Distinguished Professor in Science Professor of Mathematics",
+          "url": "https://math.mit.edu/directory/profile.html?pid=213",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://math.mit.edu/~poonen/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://math.mit.edu/~poonen/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic Geometry, Algebraic Number Theory, Rational Points on Varieties, Undecidability",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Arithmetic Geometry, Algebraic Number Theory, Rational Points on Varieties, Undecidability",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Arithmetic Geometry, Algebraic Number Theory, Rational Points on Varieties, Undecidability",
+          "url": "https://math.mit.edu/research/pure/algebra.html"
+        },
+        {
+          "text": "Arithmetic Geometry, Algebraic Number Theory, Rational Points on Varieties, Undecidability",
+          "url": "https://math.mit.edu/research/pure/number-theory.php"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "davesh-maulik",
+      "name": "Davesh Maulik",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "数学系",
+          "title": "Levinson Professor Professor of Mathematics",
+          "url": "https://math.mit.edu/directory/profile.html?pid=177",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic Geometry"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5030551155",
+          "orcid": null,
+          "url": "https://openalex.org/authors/A5030551155",
+          "authorApiUrl": "https://api.openalex.org/authors/A5030551155",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5030551155,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 48,
+          "works": 76,
+          "citations": 4549,
+          "hIndex": 31,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Gromov–Witten theory and Donaldson–Thomas theory, I",
+          "year": 2006,
+          "url": "https://doi.org/10.1112/S0010437X06002302"
+        },
+        {
+          "title": "Logarithmic Donaldson–Thomas theory",
+          "year": 2024,
+          "url": "https://doi.org/10.1017/fmp.2024.1"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic Geometry",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Algebraic Geometry",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Algebraic Geometry",
+          "url": "https://math.mit.edu/research/pure/algebra.html"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://math.mit.edu/~maulik/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "david-roe",
+      "name": "David Roe",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "数学系",
+          "title": "Principal Research Scientist of Mathematics",
+          "url": "https://math.mit.edu/directory/profile.html?pid=2055",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Computational number theory, Arithmetic geometry, local Langlands correspondence",
+          "url": "https://math.mit.edu/directory/researchers.html?show=detail"
+        },
+        {
+          "text": "Computational number theory, Arithmetic geometry, local Langlands correspondence",
+          "url": "https://math.mit.edu/research/pure/algebra.html"
+        },
+        {
+          "text": "Computational number theory, Arithmetic geometry, local Langlands correspondence",
+          "url": "https://math.mit.edu/research/pure/number-theory.php"
+        },
+        {
+          "text": "Computational number theory, Arithmetic geometry, local Langlands correspondence",
+          "url": "https://math.mit.edu/research/pure/representation.html"
+        },
+        {
+          "text": "Arithmetic geometry, computational number theory and local Langlands correspondence",
+          "url": "https://math.mit.edu/directory/profile.html?pid=2055"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "edgar-costa",
+      "name": "Edgar Costa",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "数学系",
+          "title": "Research Scientist of Mathematics",
+          "url": "https://math.mit.edu/directory/profile.html?pid=2069",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Computational Number Theory, Arithmetic Geometry"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Computational Number Theory, Arithmetic Geometry",
+          "url": "https://math.mit.edu/directory/researchers.html?show=detail"
+        },
+        {
+          "text": "Computational Number Theory, Arithmetic Geometry",
+          "url": "https://math.mit.edu/research/pure/algebra.html"
+        },
+        {
+          "text": "Computational Number Theory, Arithmetic Geometry",
+          "url": "https://math.mit.edu/research/pure/number-theory.php"
+        },
+        {
+          "text": "Arithmetic geometry, computational arithmetic geometry, arithmetic of algebraic varieties",
+          "url": "https://math.mit.edu/directory/profile.html?pid=2069"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "havard-damm-johnsen",
+      "name": "Håvard Damm-Johnsen",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "数学系",
+          "title": "Research Scientist of Mathematics",
+          "url": "https://math.mit.edu/directory/profile.html?pid=2876",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://havarddj.github.io/",
+      "homepageStatus": null,
+      "cvUrl": "https://users.ox.ac.uk/~quee4127/cv-280224.pdf",
+      "cvType": "旧版完整 CV",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic and algebraic geometry of modular and Shimura curves, geodesic intersection numbers and modular forms",
+          "url": "https://havarddj.github.io/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "matthew-hase-liu",
+      "name": "Matthew Hase-Liu",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "数学系",
+          "title": "Research Scientist of Mathematics",
+          "url": "https://math.mit.edu/directory/profile.html?pid=2879",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": "https://www.math.columbia.edu/~mhaseliu/Docs/CV_for_Matthew_Hase_Liu-62.pdf",
+      "cvType": "完整 CV",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic and arithmetic geometry, moduli spaces of curves, arithmetic of hypersurfaces and circle method",
+          "url": "https://www.math.columbia.edu/~mhaseliu/Docs/CV_for_Matthew_Hase_Liu-62.pdf"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "pablo-parrilo",
+      "name": "Pablo Parrilo",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "Electrical Engineering and Computer Science and Applied Mathematics",
+          "title": "Joseph F. and Nancy P. Keithley Professor Professor of Electrical Engineering and Computer Science Professor of Applied Mathematics",
+          "url": "https://math.mit.edu/directory/profile.html?pid=2129",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.mit.edu/~parrilo/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.mit.edu/~parrilo/pubs/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Optimization, Control Theory, Computational Algebraic Geometry, Applied Mathematics",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Optimization, Control Theory, Computational Algebraic Geometry, Applied Mathematics",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Computational algebraic geometry, optimization, polynomial sums of squares and semidefinite programming",
+          "url": "https://math.mit.edu/directory/profile.html?pid=2129"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "paul-seidel",
+      "name": "Paul Seidel",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://math.mit.edu/directory/profile.html?pid=241",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Mirror Symmetry, symplectic topology"
+      ],
+      "homepage": "https://math.mit.edu/~seidel/",
+      "homepageStatus": null,
+      "cvUrl": "https://math.mit.edu/~seidel/texts/cv.pdf",
+      "cvType": "完整 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://math.mit.edu/~seidel/texts/cv.pdf",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5102832790",
+          "orcid": "https://orcid.org/0000-0003-1628-1591",
+          "url": "https://openalex.org/authors/A5102832790",
+          "authorApiUrl": "https://api.openalex.org/authors/A5102832790",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5102832790,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 41,
+          "works": 103,
+          "citations": 6957,
+          "hIndex": 36,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Homological mirror symmetry for the quartic surface",
+          "url": "https://doi.org/10.1090/memo/1116",
+          "year": 2015
+        },
+        {
+          "title": "Homological Mirror Symmetry for the genus two curve",
+          "year": 2010,
+          "url": "https://doi.org/10.1090/S1056-3911-10-00550-3"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Mirror Symmetry, symplectic topology",
+          "url": "https://math.mit.edu/research/pure/geometry.html"
+        },
+        {
+          "text": "Mirror Symmetry, symplectic topology",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Mirror Symmetry, symplectic topology",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Mirror Symmetry, symplectic topology",
+          "url": "https://math.mit.edu/research/pure/geometry.php"
+        },
+        {
+          "text": "Mirror Symmetry, symplectic topology",
+          "url": "https://math.mit.edu/research/pure/algebraic-topology.html"
+        },
+        {
+          "text": "Algebraic geometry of quartic K3 surfaces and Fano varieties, symplectic geometry, mirror symmetry and Fukaya categories",
+          "url": "https://math.mit.edu/~seidel/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://math.mit.edu/~seidel/texts/cv.pdf"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "roman-bezrukavnikov",
+      "name": "Roman Bezrukavnikov",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "数学系",
+          "title": "Norbert Wiener Professor Professor of Mathematics",
+          "url": "https://math.mit.edu/directory/profile.html?pid=22",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Representation Theory, Algebraic Geometry"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Representation Theory, Algebraic Geometry",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Representation Theory, Algebraic Geometry",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Representation Theory, Algebraic Geometry",
+          "url": "https://math.mit.edu/research/pure/algebra.html"
+        },
+        {
+          "text": "Representation Theory, Algebraic Geometry",
+          "url": "https://math.mit.edu/research/pure/representation.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "shaoyun-bai",
+      "name": "Shaoyun Bai",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "数学系",
+          "title": "D. Reid Weedon, Jr. (1941) Career Development Assistant Professor Assistant Professor of Mathematics",
+          "url": "https://math.mit.edu/directory/profile.html?pid=2666",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Symplectic Topology"
+      ],
+      "homepage": "https://math.mit.edu/~shaoyunb/",
+      "homepageStatus": null,
+      "cvUrl": "https://math.mit.edu/~shaoyunb/CV.pdf",
+      "cvType": "完整 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://math.mit.edu/~shaoyunb/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5013239377",
+          "orcid": null,
+          "url": "https://openalex.org/authors/A5013239377",
+          "authorApiUrl": "https://api.openalex.org/authors/A5013239377",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5013239377,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 4,
+          "works": 17,
+          "citations": 147,
+          "hIndex": 6,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On the Rouquier dimension of wrapped Fukaya categories and a conjecture of Orlov",
+          "year": 2023,
+          "url": "https://doi.org/10.1112/S0010437X22007886"
+        },
+        {
+          "title": "Bifurcations of embedded curves and towards an extension of Taubes’ Gromov invariant to Calabi–Yau 3-folds",
+          "year": 2024,
+          "url": "https://doi.org/10.1215/00127094-2023-0070"
+        },
+        {
+          "title": "Equivariant formality in complex-oriented theories",
+          "year": 2026,
+          "url": "https://doi.org/10.1017/fms.2026.10267"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Symplectic Topology",
+          "url": "https://math.mit.edu/research/pure/geometry.html"
+        },
+        {
+          "text": "Symplectic Topology",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Symplectic Topology",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Symplectic Topology",
+          "url": "https://math.mit.edu/research/pure/geometry.php"
+        },
+        {
+          "text": "Symplectic geometry and topology, algebraic geometry, Gromov–Witten theory and enumerative geometry",
+          "url": "https://math.mit.edu/directory/profile.html?pid=2666"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://math.mit.edu/~shaoyunb/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "tobias-holck-colding",
       "name": "Tobias Holck Colding",
       "aliases": [],
@@ -27245,7 +28217,7 @@
           "title": "Professor",
           "url": "https://math.mit.edu/directory/profile.html?pid=50",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -27257,9 +28229,9 @@
       "homepage": null,
       "homepageStatus": null,
       "cvUrl": "https://math.mit.edu/documents/uploads/cv/2026_01_20_CV_colding.pdf",
-      "cvType": null,
+      "cvType": "完整 CV",
       "cvStatus": null,
-      "publicationsUrl": "https://math.mit.edu/documents/uploads/publications/2026_01_20_Publications_colding.pdf",
+      "publicationsUrl": "https://math.mit.edu/documents/uploads/publications/2026_10_22_Publications_colding.pdf",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
@@ -27271,10 +28243,10 @@
           "url": "https://openalex.org/authors/A5014724625",
           "authorApiUrl": "https://api.openalex.org/authors/A5014724625",
           "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5014724625,type:article&per_page=1&select=id",
-          "checkedAt": "2026-11-23",
+          "checkedAt": "2026-11-25",
           "articles": 91,
           "works": 151,
-          "citations": 9347,
+          "citations": 9359,
           "hIndex": 44,
           "articleScope": "OpenAlex type:article",
           "citationScope": "OpenAlex 作者档案累计引用"
@@ -27283,15 +28255,36 @@
       "identityUrl": null,
       "papers": [
         {
-          "title": "Generic mean curvature flow I; generic singularities",
+          "title": "Sharp Hölder continuity of tangent cones for spaces with a lower Ricci curvature bound and applications",
           "year": 2012,
-          "url": "https://doi.org/10.4007/annals.2012.175.2.7"
+          "url": "https://doi.org/10.4007/annals.2012.176.2.10"
+        },
+        {
+          "title": "The space of embedded minimal surfaces of fixed genus in a 3-manifold III; Planar domains",
+          "year": 2004,
+          "url": "https://doi.org/10.4007/annals.2004.160.523"
         }
       ],
       "directoryEvidence": [
         {
           "text": "Differential Geometry, Partial Differential Equations",
           "url": "https://math.mit.edu/research/pure/geometry.html"
+        },
+        {
+          "text": "Differential Geometry, Partial Differential Equations",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Differential Geometry, Partial Differential Equations",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Differential Geometry, Partial Differential Equations",
+          "url": "https://math.mit.edu/research/pure/geometry.php"
+        },
+        {
+          "text": "Differential Geometry, Partial Differential Equations",
+          "url": "https://math.mit.edu/research/pure/analysis-pde.html"
         },
         {
           "text": "Differential geometry, geometric analysis and mean curvature flow",
@@ -27302,7 +28295,7 @@
           "url": "https://math.mit.edu/directory/profile.html?pid=50"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -27313,10 +28306,10 @@
         {
           "schoolId": "mit",
           "department": "数学系",
-          "title": "Professor",
+          "title": "Professor of Mathematics",
           "url": "https://math.mit.edu/directory/profile.html?pid=192",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -27328,7 +28321,7 @@
       "homepage": null,
       "homepageStatus": null,
       "cvUrl": "https://math.mit.edu/documents/uploads/cv/2024_09_13_CV_mrowka.pdf",
-      "cvType": null,
+      "cvType": "完整 CV",
       "cvStatus": null,
       "publicationsUrl": null,
       "publicationCounts": [],
@@ -27341,9 +28334,145 @@
         {
           "text": "Gauge Theory, Differential Geometry",
           "url": "https://math.mit.edu/research/pure/geometry.html"
+        },
+        {
+          "text": "Gauge Theory, Differential Geometry",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Gauge Theory, Differential Geometry",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Gauge Theory, Differential Geometry",
+          "url": "https://math.mit.edu/research/pure/geometry.php"
+        },
+        {
+          "text": "Gauge Theory, Differential Geometry",
+          "url": "https://math.mit.edu/research/pure/analysis-pde.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "tristan-ozuch-meersseman",
+      "name": "Tristan Ozuch-Meersseman",
+      "aliases": [
+        "Tristan Ozuch"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "数学系",
+          "title": "Rockwell International Career Development Assistant Professor Assistant Professor of Mathematics",
+          "url": "https://math.mit.edu/directory/profile.html?pid=2272",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometric analysis"
+      ],
+      "homepage": "https://tristanozuch.github.io/",
+      "homepageStatus": null,
+      "cvUrl": "https://tristanozuch.github.io/cv/",
+      "cvType": "本人网页 CV",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometric analysis",
+          "url": "https://math.mit.edu/research/pure/geometry.html"
+        },
+        {
+          "text": "Geometric analysis",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Geometric analysis",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Geometric analysis",
+          "url": "https://math.mit.edu/research/pure/geometry.php"
+        },
+        {
+          "text": "Geometric analysis",
+          "url": "https://math.mit.edu/research/pure/analysis-pde.html"
+        },
+        {
+          "text": "Differential geometry, geometric analysis, four-dimensional Einstein manifolds and Ricci flows",
+          "url": "https://tristanozuch.github.io/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "wei-zhang",
+      "name": "Wei Zhang",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://math.mit.edu/directory/profile.html?pid=1998",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Number Theory, Automorphic forms, Arithmetic Geometry"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": "https://math.mit.edu/documents/uploads/cv/2026_09_16_CV_wz2113.pdf",
+      "cvType": "完整 CV",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Number Theory, Automorphic forms, Arithmetic Geometry",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Number Theory, Automorphic forms, Arithmetic Geometry",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Number Theory, Automorphic forms, Arithmetic Geometry",
+          "url": "https://math.mit.edu/research/pure/algebra.html"
+        },
+        {
+          "text": "Number Theory, Automorphic forms, Arithmetic Geometry",
+          "url": "https://math.mit.edu/research/pure/number-theory.php"
+        },
+        {
+          "text": "Number Theory, Automorphic forms, Arithmetic Geometry",
+          "url": "https://math.mit.edu/research/pure/representation.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -27357,7 +28486,7 @@
           "title": "Professor",
           "url": "https://math.mit.edu/directory/profile.html?pid=1464",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -27368,10 +28497,10 @@
       ],
       "homepage": null,
       "homepageStatus": null,
-      "cvUrl": "https://math.mit.edu/documents/uploads/cv/2026_04_13_CV_minicozz.pdf",
-      "cvType": "公开 CV（简版）",
+      "cvUrl": "https://math.mit.edu/documents/uploads/cv/2026_06_30_CV_minicozz.pdf",
+      "cvType": "完整 CV",
       "cvStatus": null,
-      "publicationsUrl": null,
+      "publicationsUrl": "https://math.mit.edu/documents/uploads/publications/2019_03_25_Publications_minicozz.pdf",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
@@ -27383,10 +28512,10 @@
           "url": "https://openalex.org/authors/A5070168028",
           "authorApiUrl": "https://api.openalex.org/authors/A5070168028",
           "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5070168028,type:article&per_page=1&select=id",
-          "checkedAt": "2026-11-23",
+          "checkedAt": "2026-11-25",
           "articles": 71,
           "works": 124,
-          "citations": 5264,
+          "citations": 5272,
           "hIndex": 38,
           "articleScope": "OpenAlex type:article",
           "citationScope": "OpenAlex 作者档案累计引用"
@@ -27395,15 +28524,36 @@
       "identityUrl": null,
       "papers": [
         {
-          "title": "Generic mean curvature flow I; generic singularities",
-          "year": 2012,
-          "url": "https://doi.org/10.4007/annals.2012.175.2.7"
+          "title": "The space of embedded minimal surfaces of fixed genus in a 3-manifold III; Planar domains",
+          "year": 2004,
+          "url": "https://doi.org/10.4007/annals.2004.160.523"
+        },
+        {
+          "title": "The space of embedded minimal surfaces of fixed genus in a 3-manifold IV; Locally simply connected",
+          "year": 2004,
+          "url": "https://doi.org/10.4007/annals.2004.160.573"
         }
       ],
       "directoryEvidence": [
         {
           "text": "Geometric Analysis, PDEs",
           "url": "https://math.mit.edu/research/pure/geometry.html"
+        },
+        {
+          "text": "Geometric Analysis, PDEs",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Geometric Analysis, PDEs",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Geometric Analysis, PDEs",
+          "url": "https://math.mit.edu/research/pure/geometry.php"
+        },
+        {
+          "text": "Geometric Analysis, PDEs",
+          "url": "https://math.mit.edu/research/pure/analysis-pde.html"
         },
         {
           "text": "Geometric analysis, partial differential equations and mean curvature flow",
@@ -27414,7 +28564,64 @@
           "url": "https://math.mit.edu/directory/profile.html?pid=1464"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "zhiwei-yun",
+      "name": "Zhiwei Yun",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "mit",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://math.mit.edu/directory/profile.html?pid=1201",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Representation Theory, Number Theory, Algebraic Geometry"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": "https://math.mit.edu/documents/uploads/cv/2026_06_02_CV_zyun.pdf",
+      "cvType": "完整 CV",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Representation Theory, Number Theory, Algebraic Geometry",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Representation Theory, Number Theory, Algebraic Geometry",
+          "url": "https://math.mit.edu/directory/faculty/?show=detail"
+        },
+        {
+          "text": "Representation Theory, Number Theory, Algebraic Geometry",
+          "url": "https://math.mit.edu/research/pure/algebra.html"
+        },
+        {
+          "text": "Representation Theory, Number Theory, Algebraic Geometry",
+          "url": "https://math.mit.edu/research/pure/number-theory.php"
+        },
+        {
+          "text": "Representation Theory, Number Theory, Algebraic Geometry",
+          "url": "https://math.mit.edu/research/pure/representation.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -59778,6 +60985,76 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "christoph-kehle",
+      "name": "Christoph Kehle",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "zurich",
+          "department": "数学系",
+          "title": "Associate Professor for Analysis",
+          "url": "https://uzh.ch/en/explore/management/professorships/calls/calls-2024/calls-240826.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.uzh.ch/user/kehle/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.math.uzh.ch/user/kehle/cv.html",
+      "cvType": "本人网页简版 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.uzh.ch/user/kehle/research.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5013805681",
+          "orcid": "https://orcid.org/0000-0002-8581-6935",
+          "url": "https://openalex.org/authors/A5013805681",
+          "authorApiUrl": "https://api.openalex.org/authors/A5013805681",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5013805681,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 12,
+          "works": 17,
+          "citations": 371,
+          "hIndex": 11,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Nonlinear stability of extremal Reissner–Nordström black holes in spherical symmetry",
+          "year": 2026,
+          "url": "https://doi.org/10.1017/FMP.2025.10017"
+        },
+        {
+          "title": "Strong cosmic censorship in the presence of matter: the decisive effect of horizon oscillations on the black hole interior geometry",
+          "year": 2024,
+          "url": "https://doi.org/10.2140/APDE.2024.17.1501"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Lorentzian differential geometry, negative Gauss curvature, mathematical general relativity and Einstein equations",
+          "url": "https://www.math.uzh.ch/user/kehle/research.html"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.uzh.ch/user/kehle/research.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     }
   ]
