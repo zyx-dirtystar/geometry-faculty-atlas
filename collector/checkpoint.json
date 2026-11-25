@@ -10352,6 +10352,16 @@
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
+      "id": "ucl-cs-graphics-tag31",
+      "school": "ucl",
+      "url": "https://profiles.ucl.ac.uk/search?by=tag&t=Graphics%2C%20augmented%20reality%20and%20games&type=user&v=&d=Dept%20of%20Computer%20Science",
+      "label": "UCL Profiles · Computer Science · Graphics and immersive computing",
+      "status": "reference",
+      "count": 23,
+      "checked_at": "2026-11-25",
+      "note": "从校方筛选器渲染结果读取。一页共 23 条，逐条核录。 角色包括教职、荣誉、博士后及教学助理，与数学研究分开判定。"
+    },
+    {
       "id": "ucl-cs-heads31",
       "school": "ucl",
       "url": "https://www.ucl.ac.uk/engineering/computer-science/people/computer-science-key-contacts",
@@ -10380,6 +10390,16 @@
       "count": 0,
       "checked_at": "2026-11-25",
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "ucl-cs-vision-tag31",
+      "school": "ucl",
+      "url": "https://profiles.ucl.ac.uk/search?by=tag&t=Computer%20vision&type=user&v=&d=Dept%20of%20Computer%20Science",
+      "label": "UCL Profiles · Computer Science · Computer vision",
+      "status": "reference",
+      "count": 37,
+      "checked_at": "2026-11-25",
+      "note": "从校方筛选器渲染结果读取。两页共 37 条，逐页核录。 角色包括教职、荣誉、博士后及教学助理，与数学研究分开判定。"
     },
     {
       "id": "ucl-datasig31",
@@ -10565,11 +10585,11 @@
       "id": "ucl-phd31",
       "school": "ucl",
       "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/phd-students",
-      "label": "Mathematics · 76 public PhD student cards",
+      "label": "Mathematics · public doctoral student roster",
       "status": "reference",
-      "count": 0,
+      "count": 75,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "75 条具名博士学生记录，已去除表头。与研究组及角色交叉使用，此分栏不进入教师人群。"
     },
     {
       "id": "ucl-picciotto-role31",
