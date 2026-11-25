@@ -213,6 +213,8 @@ def ingest_rosters(db, seed):
     for source in configured_sources:
         meta, document = read_snapshot(source["id"])
         transcript = transcripts.get(source["id"])
+        if not transcript and meta is None and db.execute("SELECT 1 FROM sources WHERE id=? AND url=?", (source["id"], source["url"])).fetchone():
+            continue
         if source["kind"] == "campus":
             count, checked_at = 0, seen_date(meta)
             note = "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
@@ -226,8 +228,6 @@ def ingest_rosters(db, seed):
                 db.execute("INSERT OR REPLACE INTO sources VALUES (?,?,?,?,?,?,?,?)", (
                     source["id"], source["school"], source["url"], source["name"], "reference", count, checked_at, note,
                 ))
-            continue
-        if not transcript and meta is None and db.execute("SELECT 1 FROM sources WHERE id=? AND url=?", (source["id"], source["url"])).fetchone():
             continue
         rows = []
         if document is not None:
@@ -403,6 +403,7 @@ def population(db):
         group["opportunities"] = review.get("opportunities", [])
         group["papers"] = review.get("papers", [])
         group["aliases"] = review.get("aliases", [])
+        group["previous_ids"] = review.get("previousIds", [])
         dates = [row.get("checked_at") or "" for row in evidence]
         group["checked_at"] = max(dates + [review.get("checkedAt","")]) or None
     homepage_owners = defaultdict(set)
@@ -574,6 +575,8 @@ def make_patch(seed, data, source_rows, scope_notes, school_reviews):
                 updated["papers"] = list(papers.values())
             if person["aliases"]:
                 updated["aliases"] = list(dict.fromkeys(updated.get("aliases", []) + person["aliases"]))
+            if person["previous_ids"]:
+                updated["previousIds"] = list(dict.fromkeys(updated.get("previousIds", []) + person["previous_ids"]))
             finding = findings.get(seeded["id"], {})
             snapshots = updated.get("metrics", []) + person["reviewed_metrics"]
             if finding.get("author_id") and finding["author_id"] == reviewed.get(seeded["id"]) and finding.get("snapshot"):
@@ -608,7 +611,8 @@ def make_patch(seed, data, source_rows, scope_notes, school_reviews):
         if anchor.get("source"):
             sources.append({"text":"个人研究或论文来源","url":anchor["source"]})
         additions.append({
-            "id":slug, "name":person["name"], "aliases":person["aliases"], "affiliations":[{
+            "id":slug, "name":person["name"], "aliases":person["aliases"],
+            **({"previousIds":person["previous_ids"]} if person["previous_ids"] else {}), "affiliations":[{
                 "schoolId":school, "department":person["unit"] or UNITS.get(school,"数学系"),"title":person["title"],
                 "url":person["affiliation_url"],"type":"primary","checkedAt":person["checked_at"],
             }, *secondary],

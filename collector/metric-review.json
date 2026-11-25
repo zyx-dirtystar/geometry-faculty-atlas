@@ -267,7 +267,16 @@
     "agustin-moreno": "A5023862743",
     "alberto-merici": "A5052246476",
     "gebhard-bockle": "A5027071420",
-    "otmar-venjakob": "A5108734997"
+    "otmar-venjakob": "A5108734997",
+    "ben-webster": "A5022688253",
+    "benoit-charbonneau": "A5083774969",
+    "elana-kalashnikov": "A5040903377",
+    "kevin-purbhoo": "A5040494861",
+    "matthew-satriano": "A5012906621",
+    "rahim-moosa": "A5021771542",
+    "ruxandra-moraru": "A5028503983",
+    "spiro-karigiannis": "A5078279323",
+    "david-mckinnon": "A5103278747"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -316,7 +325,7 @@
     "tom-bridgeland-frs": "论文作者姓名没有唯一匹配。",
     "william-haboush": "OpenAlex HTTP 404。",
     "william-yun-chen": "论文作者姓名没有唯一匹配。",
-    "xuemiao-chen": "官方数学主页与两篇几何代表作确认；OpenAlex 同页含植物代谢和合金材料论文。作者累计数待核。 本人公开发表分栏的独立计数与口径已登记。",
+    "xuemiao-chen": "本人发表表和两份出版记录确认数学作者。OpenAlex A5060845131 混有甜瓜黄酮与合金力学高引论文。A5045332308 与 A5041694095 分列部分本人论文。沿用已去重作者期刊数，累计引用待核。",
     "bernhard-koeck": "机构公开 ORCID 命中，但 OpenAlex 的高引样本混入不相关的水力材料模型论文，作者档案累计数字暂缺。",
     "person-f36827c8bf3c": "两篇具名复几何代表作在 OpenAlex 指向不同作者档案；累计论文数和引用量暂缺。",
     "mikhail-v-bondarko": "已核 ORCID、Math-Net 与两篇具名代表作。代表作在 OpenAlex 指向不同作者档案，累计总数暂缺。",
@@ -368,7 +377,18 @@
     "alexander-schmidt": "已用同名姓名检索、海德堡作者地址及 DOI 10.1007/s00229-024-01608-5 锁定 A5101441904。另一篇本人列出的 DOI 10.1007/s00222-004-0415-y 在 OpenAlex 中有历史任职、作者姓名匹配但作者 ID 为空。两个值受漏收影响继续待核。",
     "johannes-walcher": "海德堡任职和两个镜像对称 DOI 匹配 A5059054682。另有同名 OpenAlex 档案 A5164012249 的 2025 会议文集，需判断是否同人及是否已在主档收录。暂不汇总。",
     "remco-duits": "TU/e 公开 ORCID 与 A5013378425 一致；A5062687114 另收录同单位的具名会议成果，OpenAlex 汇总待核。TU/e 具名档案链接的 Google Scholar 已核对校邮箱域与两篇高引作品，另用本人完整表的截至 2025 年统计。",
-    "luc-m-j-florack": "TU/e ORCID 与 A5077837139 一致。另一 OpenAlex 档案 A5164090663 的两项成果未出现在作品列表。公开 Scholar 姓名检索未确认具名档案；另保存 TU/e 的成果库范围和 Scopus 引用。"
+    "luc-m-j-florack": "TU/e ORCID 与 A5077837139 一致。另一 OpenAlex 档案 A5164090663 的两项成果未出现在作品列表。公开 Scholar 姓名检索未确认具名档案；另保存 TU/e 的成果库范围和 Scopus 引用。",
+    "ben-webster": "校方和本人公开任职，匹配锥辛消解、仿射 Grassmannian 切片和高引样本。",
+    "benoit-charbonneau": "校方任职与本人发表清单匹配；高引硬球和玻璃形成论文由本人列出，具名区分 Benoit 与合作者 Patrick Charbonneau。",
+    "elana-kalashnikov": "现任和 Fano quiver flag 与镜像两篇 DOI 匹配；同档 Golay 序列论文为早期具名合著，核对原刊。",
+    "kevin-purbhoo": "校方关联与本人发表表里的 amoebas 和旗流形两项成果匹配。",
+    "matthew-satriano": "校方 Matthew 与 Matt 目录、现任和本人发表表一致，stack 高度与超凯勒簇代表作匹配。",
+    "rahim-moosa": "校方任职和个人完整学术档案互证，半阿贝尔簇与微分代数几何样本匹配，排除近名临床科学者。",
+    "ruxandra-moraru": "匹配 Waterloo 任职与本人非凯勒曲面、全纯向量丛两篇，排除同名牙科、药物与相平衡作者。",
+    "spiro-karigiannis": "现任、本人研究列表中的 G₂ 流和 G₂ / Spin(7) 变形及高引样本对应。",
+    "david-mckinnon": "同名检索混有教育、海洋生物和化学领域。由 Waterloo 具名档案、Seshadri 常数 DOI 及与 Mike Roth 合作锁定 A5103278747；档案也收录同人量子门综合与图论作品，按作者全部成果口径。",
+    "jerry-xiaoheng-wang": "本人发表表中的 DOI 10.1112/S0010437X17007515 指向 A5008240020，但档案的最后任职含多个与 Waterloo 无关的单位。比对高引和其他同名记录前不采用汇总；本人主页是选列论文，无法作完整计数。",
+    "oliver-pechenik": "Waterloo 现任与具名 Schubert 计算及 Grassmannian K 理论作品匹配。高引样本混入 2003 年蛞蝓生理学论文（10.1016/S0022-0981(03)00159-X），计量暂不采用。本人 Research 页分栏仍需完整性核对。"
   },
   "evidence": {
     "ravi-vakil": [

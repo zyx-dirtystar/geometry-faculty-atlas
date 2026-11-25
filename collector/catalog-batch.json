@@ -2570,9 +2570,17 @@
     },
     {
       "id": "waterloo",
-      "coverage": "sample",
-      "coverageNote": "已解析 1/14 个登记来源，0 条任职或方向待核。 已收录 12 位学者，个人主页 4、CV 4、指标 1。 已逐条对照纯数学现任 27 位、纯数学荣休及跨聘 23 位、应用数学现任 31 位与跨聘 17 位。交叉核对几何拓扑组 11 位教师及博士后分栏、数学物理组、计算组、IQC 35 份档案。仍需核实联合研究组与全部相关院系范围、博士后名单的年度滞后。 另核对 Perimeter 初始目录、组合与优化系及计算机科学入口。校属博士后入口暂不可读，用几何组分栏、本人 CV 和网页补证。",
+      "coverage": "verified",
+      "coverageNote": "已解析 3/35 个登记来源，0 条任职或方向待核。 已收录 13 位学者，个人主页 12、CV 6、指标 10。 逐行核对纯数学 27 位现任、23 位荣休及跨聘、现任 7 位博士后及研究人员，和几何拓扑组的 11 位教师、22 位现任或历年博士后。复核代数与分析组、应用数学 31 位与跨聘 17 位、组合与优化名录 152 项及其几何专题、IQC 35 项和图形实验室。Perimeter 数学物理 7 页 61 项与物理兼职 6 页 51 项已核对到末页。以校系名录和具名 Senate 任命区分校方教职、兼职与独立机构岗位。Matthew / Matt Satriano 合并为既有正式姓名档案。纳入 Kevin Purbhoo 与 Oliver Pechenik，Eric Katz 已转任 Ohio State。校方已废弃的博士后入口由现任名录替代。个人链接与计量待核见逐人字段表。",
       "rosterLinks": [
+        [
+          "Pure Mathematics · Algebra group contacts",
+          "https://uwaterloo.ca/pure-mathematics-algebra/contacts"
+        ],
+        [
+          "Pure Mathematics · Analysis group contacts",
+          "https://uwaterloo.ca/pure-mathematics-analysis/contacts"
+        ],
         [
           "Applied Mathematics · Cross-appointed",
           "https://uwaterloo.ca/applied-mathematics/department-members/cross-appointed"
@@ -2582,8 +2590,20 @@
           "https://uwaterloo.ca/applied-mathematics/department-members/faculty-members"
         ],
         [
+          "Cheriton School · Computer Graphics Lab",
+          "https://cgl.uwaterloo.ca/people.html"
+        ],
+        [
           "Combinatorics and Optimization · Contacts",
           "https://uwaterloo.ca/combinatorics-and-optimization/about/people"
+        ],
+        [
+          "Combinatorics and Optimization · Postdoctoral scholars and visitors",
+          "https://uwaterloo.ca/combinatorics-and-optimization/our-people/postdoctorals-visitors"
+        ],
+        [
+          "Combinatorics and Optimization · named geometry and algebraic combinatorics candidates",
+          "https://uwaterloo.ca/combinatorics-and-optimization/research-combinatorics-and-optimization/research-areas/algebraic-combinatorics"
         ],
         [
           "Cheriton School of Computer Science · research areas",
@@ -2606,12 +2626,68 @@
           "https://uwaterloo.ca/institute-for-quantum-computing/profiles"
         ],
         [
+          "Faculty of Mathematics · Geometry and Topology",
+          "https://uwaterloo.ca/math/geometry-and-topology"
+        ],
+        [
           "Applied Mathematics · Mathematical Physics",
           "https://uwaterloo.ca/applied-mathematics/research-areas/mathematical-physics"
         ],
         [
           "Perimeter Institute · Research and Staff directory",
           "https://perimeterinstitute.ca/people"
+        ],
+        [
+          "Perimeter · Mathematical physics roster (1)",
+          "https://perimeterinstitute.ca/info/researchers/mathematical-physics"
+        ],
+        [
+          "Perimeter · Mathematical physics roster (2)",
+          "https://perimeterinstitute.ca/info/researchers/mathematical-physics?field_role_target_id&field_people_research_area_target_id=22&field_people_centres_initiatives_target_id=All&page=1"
+        ],
+        [
+          "Perimeter · Mathematical physics roster (3)",
+          "https://perimeterinstitute.ca/info/researchers/mathematical-physics?field_role_target_id&field_people_research_area_target_id=22&field_people_centres_initiatives_target_id=All&page=2"
+        ],
+        [
+          "Perimeter · Mathematical physics roster (4)",
+          "https://perimeterinstitute.ca/info/researchers/mathematical-physics?field_role_target_id&field_people_research_area_target_id=22&field_people_centres_initiatives_target_id=All&page=3"
+        ],
+        [
+          "Perimeter · Mathematical physics roster (5)",
+          "https://perimeterinstitute.ca/info/researchers/mathematical-physics?field_role_target_id&field_people_research_area_target_id=22&field_people_centres_initiatives_target_id=All&page=4"
+        ],
+        [
+          "Perimeter · Mathematical physics roster (6)",
+          "https://perimeterinstitute.ca/info/researchers/mathematical-physics?field_role_target_id&field_people_research_area_target_id=22&field_people_centres_initiatives_target_id=All&page=5"
+        ],
+        [
+          "Perimeter · Mathematical physics roster (7)",
+          "https://perimeterinstitute.ca/info/researchers/mathematical-physics?field_role_target_id&field_people_research_area_target_id=22&field_people_centres_initiatives_target_id=All&page=6"
+        ],
+        [
+          "Physics and Astronomy · Adjunct Faculty (1)",
+          "https://uwaterloo.ca/physics-astronomy/contact-group/adjunct-faculty"
+        ],
+        [
+          "Physics and Astronomy · Adjunct Faculty (2)",
+          "https://uwaterloo.ca/physics-astronomy/contact-group/adjunct-faculty?page=1"
+        ],
+        [
+          "Physics and Astronomy · Adjunct Faculty (3)",
+          "https://uwaterloo.ca/physics-astronomy/contact-group/adjunct-faculty?page=2"
+        ],
+        [
+          "Physics and Astronomy · Adjunct Faculty (4)",
+          "https://uwaterloo.ca/physics-astronomy/contact-group/adjunct-faculty?page=3"
+        ],
+        [
+          "Physics and Astronomy · Adjunct Faculty (5)",
+          "https://uwaterloo.ca/physics-astronomy/contact-group/adjunct-faculty?page=4"
+        ],
+        [
+          "Physics and Astronomy · Adjunct Faculty (6)",
+          "https://uwaterloo.ca/physics-astronomy/contact-group/adjunct-faculty?page=5"
         ],
         [
           "Pure Mathematics · separate departmental postdoctoral listing",
@@ -2622,15 +2698,23 @@
           "https://uwaterloo.ca/pure-mathematics/research/research-areas"
         ],
         [
+          "Pure Mathematics · Postdoctoral Scholars and Research Associate",
+          "https://uwaterloo.ca/pure-mathematics/department-members/postdoctoral-scholars"
+        ],
+        [
           "Pure Mathematics · Emeritus, Adjunct, Cross-appointed",
           "https://uwaterloo.ca/pure-mathematics/department-members/emeritusemeritaadjunct"
         ],
         [
           "Applied Mathematics · Scientific Computing",
           "https://uwaterloo.ca/applied-mathematics/research-areas/scientific-computing"
+        ],
+        [
+          "Senate · adjunct appointment in Pure Mathematics",
+          "https://uwaterloo.ca/secretariat/sites/default/files/uploads/documents/sept-2025-fac.pdf"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "zurich",
@@ -6427,7 +6511,7 @@
     {
       "id": "ohio-state",
       "coverage": "sample",
-      "coverageNote": "已解析 23/25 个登记来源，13 条任职或方向待核。 已收录 16 位学者，个人主页 14、CV 2、指标 0。 读取官网 9 个任职分栏，共 398 张卡片，包括 1 位 Chair、80 位 Faculty、31 科研／访问、7 联属、57 荣休、34 讲师、25 职员、145 研究生、18 学生助理。另读取涉及三个方向的 7 个学术分组筛选，组内研究专长及各校区继续逐项核。 同名逐项对读官网研究总表，确认 78 位具名专长和任职配对；特别补查 Mansfield 代数几何学者。 已逐条比对 5 个官方校区筛选 Columbus 357, Lima 3, Mansfield 5, Marion 12, Newark 8。校区标签有多选，未标校区的人员沿用总目录。",
+      "coverageNote": "已解析 23/25 个登记来源，13 条任职或方向待核。 已收录 16 位学者，个人主页 14、CV 3、指标 0。 读取官网 9 个任职分栏，共 398 张卡片，包括 1 位 Chair、80 位 Faculty、31 科研／访问、7 联属、57 荣休、34 讲师、25 职员、145 研究生、18 学生助理。另读取涉及三个方向的 7 个学术分组筛选，组内研究专长及各校区继续逐项核。 同名逐项对读官网研究总表，确认 78 位具名专长和任职配对；特别补查 Mansfield 代数几何学者。 已逐条比对 5 个官方校区筛选 Columbus 357, Lima 3, Mansfield 5, Marion 12, Newark 8。校区标签有多选，未标校区的人员沿用总目录。",
       "rosterLinks": [
         [
           "RTG Arithmetic, Combinatorics and Topology of Algebraic Varieties",
@@ -36936,7 +37020,7 @@
         {
           "schoolId": "ohio-state",
           "department": "数学系",
-          "title": "Professor",
+          "title": "Professor of Mathematics",
           "url": "https://math.osu.edu/people/katz.60",
           "type": "primary",
           "checkedAt": "2026-11-25"
@@ -36948,10 +37032,10 @@
       "tags": [],
       "homepage": "https://people.math.osu.edu/katz.60/",
       "homepageStatus": null,
-      "cvUrl": null,
+      "cvUrl": "https://people.math.osu.edu/katz.60/eekatzCV.pdf",
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://people.math.osu.edu/katz.60/#research",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
@@ -36962,6 +37046,10 @@
         {
           "text": "Tropical Geometry, Combinatorial Algebraic Geometry, Arithmetic & Enumerative Geometry",
           "url": "https://math.osu.edu/research"
+        },
+        {
+          "text": "Tropical geometry, algebraic geometry, arithmetic geometry, and matroids",
+          "url": "https://people.math.osu.edu/katz.60/"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -66325,83 +66413,146 @@
         {
           "schoolId": "waterloo",
           "department": "数学系",
-          "title": "​Professor & Associate Chair, Graduate Studies",
-          "url": "https://uwaterloo.ca/pure-mathematics/node/88",
+          "title": "Professor and Associate Chair, Graduate Studies",
+          "url": "https://uwaterloo.ca/pure-mathematics/contacts/ben-webster",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [
-        "Knot theory and representation theory via algebraic geometry"
+        "Algebraic geometry and geometric representation theory",
+        "Coulomb branches and symplectic resolutions"
       ],
-      "homepage": null,
+      "homepage": "https://bwebste.github.io/",
       "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvUrl": "https://bwebste.github.io/CV.pdf",
+      "cvType": "公开学术 CV（含 2026 晋升）",
+      "cvStatus": null,
+      "publicationsUrl": "https://bwebste.github.io/research/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 请求或返回数据失败。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
         {
-          "text": "Knot theory and representation theory via algebraic geometry",
-          "url": "https://uwaterloo.ca/pure-mathematics/department-members/faculty-members"
+          "source": "OpenAlex",
+          "authorId": "A5022688253",
+          "orcid": "https://orcid.org/0000-0003-1896-5540",
+          "url": "https://openalex.org/authors/A5022688253",
+          "authorApiUrl": "https://api.openalex.org/authors/A5022688253",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5022688253,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 56,
+          "works": 124,
+          "citations": 2637,
+          "hIndex": 30,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "identityUrl": "https://openalex.org/authors/A5022688253",
+      "papers": [
+        {
+          "title": "Quantizations of conical symplectic resolutions I: local and global structure",
+          "url": "https://doi.org/10.24033/ast.1010",
+          "year": 2018
+        },
+        {
+          "title": "Yangians and quantizations of slices in the affine Grassmannian",
+          "url": "https://doi.org/10.2140/ant.2014.8.857",
+          "year": 2014
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and geometric representation theory; Coulomb branches and symplectic resolutions",
+          "url": "https://bwebste.github.io/research/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://bwebste.github.io/research/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
       "id": "benoit-charbonneau",
       "name": "Benoit Charbonneau",
-      "aliases": [],
+      "aliases": [
+        "Benoît Charbonneau"
+      ],
       "affiliations": [
         {
           "schoolId": "waterloo",
           "department": "数学系",
-          "title": "Associate Professor",
-          "url": "https://uwaterloo.ca/pure-mathematics/node/53",
+          "title": "Associate Professor of Pure Mathematics",
+          "url": "https://uwaterloo.ca/pure-mathematics/contacts/benoit-charbonneau",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
+        "algebraic",
         "differential"
       ],
       "tags": [
-        "Differential geometry, gauge theory",
-        "Research interests : Differential geometry, gauge theory"
+        "Differential geometry",
+        "gauge theory",
+        "monopoles and moduli spaces in algebraic geometry"
       ],
-      "homepage": null,
+      "homepage": "https://www.math.uwaterloo.ca/~bcharbon/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvStatus": "已查系具名档案和本人主页的研究、论文和简历导航，未见独立公开 CV。",
+      "publicationsUrl": "https://www.math.uwaterloo.ca/~bcharbon/#papers",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5083774969",
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
         {
-          "text": "Differential geometry, gauge theory",
-          "url": "https://uwaterloo.ca/pure-mathematics/department-members/faculty-members"
-        },
-        {
-          "text": "Research interests : Differential geometry, gauge theory",
-          "url": "https://uwaterloo.ca/pure-mathematics/node/53"
+          "source": "OpenAlex",
+          "authorId": "A5083774969",
+          "orcid": "https://orcid.org/0000-0001-7978-4466",
+          "url": "https://openalex.org/authors/A5083774969",
+          "authorApiUrl": "https://api.openalex.org/authors/A5083774969",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5083774969,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 16,
+          "works": 26,
+          "citations": 531,
+          "hIndex": 11,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "identityUrl": "https://openalex.org/authors/A5083774969",
+      "papers": [
+        {
+          "title": "Singular Hermitian–Einstein Monopoles on the Product of a Circle and a Riemann Surface",
+          "url": "https://doi.org/10.1093/imrn/rnq059",
+          "year": 2010
+        },
+        {
+          "title": "Geometrical Frustration and Static Correlations in a Simple Glass Former",
+          "url": "https://doi.org/10.1103/physrevlett.108.035701",
+          "year": 2012
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry; gauge theory; monopoles and moduli spaces in algebraic geometry",
+          "url": "https://www.math.uwaterloo.ca/~bcharbon/#research"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.uwaterloo.ca/~bcharbon/#papers"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -66412,54 +66563,84 @@
         {
           "schoolId": "waterloo",
           "department": "数学系",
-          "title": "Professor",
-          "url": "https://uwaterloo.ca/pure-mathematics/node/60",
+          "title": "Professor of Pure Mathematics",
+          "url": "https://uwaterloo.ca/pure-mathematics/contacts/david-mckinnon",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [
-        "Arithmetic geometry, number theory, algebraic geometry"
+        "Arithmetic geometry",
+        "algebraic geometry",
+        "rational points and Diophantine approximation"
       ],
       "homepage": null,
-      "homepageStatus": null,
+      "homepageStatus": "院系连接的 scholar/dmckinno 跳转至校首页；math.uwaterloo.ca/~dmckinno/ 返回 HTTP 403。保留可读的机构具名档案及本人论文索引。",
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvStatus": "查校专家档案、院系链接回跳首页及本人论文索引；未见独立公开 CV。",
+      "publicationsUrl": "https://www.math.uwaterloo.ca/~dmckinno/Papers/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
         {
-          "text": "Arithmetic geometry, number theory, algebraic geometry",
-          "url": "https://uwaterloo.ca/pure-mathematics/department-members/faculty-members"
-        },
-        {
-          "text": "Research interests : Arithmetic geometry, number theory, algebraic geometry",
-          "url": "https://uwaterloo.ca/pure-mathematics/node/60"
+          "source": "OpenAlex",
+          "authorId": "A5103278747",
+          "orcid": "https://orcid.org/0000-0002-6085-5030",
+          "url": "https://openalex.org/authors/A5103278747",
+          "authorApiUrl": "https://api.openalex.org/authors/A5103278747",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5103278747,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 23,
+          "works": 30,
+          "citations": 298,
+          "hIndex": 9,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "identityUrl": "https://openalex.org/authors/A5103278747",
+      "papers": [
+        {
+          "title": "Seshadri constants, diophantine approximation, and Roth’s theorem for arbitrary varieties",
+          "url": "https://doi.org/10.1007/s00222-014-0540-1",
+          "year": 2014
+        },
+        {
+          "title": "A conjecture on rational approximations to rational points",
+          "url": "https://doi.org/10.1090/s1056-3911-06-00458-9",
+          "year": 2006
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic geometry; algebraic geometry; rational points and Diophantine approximation",
+          "url": "https://experts.uwaterloo.ca/david-mckinnon"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.uwaterloo.ca/~dmckinno/Papers/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
       "id": "doug-park",
       "name": "Doug Park",
       "aliases": [
-        "B. Doug Park"
+        "B. Doug Park",
+        "Byeonghoon Doug Park"
       ],
       "affiliations": [
         {
           "schoolId": "waterloo",
           "department": "数学系",
-          "title": "Professor",
+          "title": "Professor of Pure Mathematics",
           "url": "https://uwaterloo.ca/pure-mathematics/contacts/doug-park",
           "type": "primary",
           "checkedAt": "2026-11-25"
@@ -66469,13 +66650,14 @@
         "differential"
       ],
       "tags": [
-        "Geometric topology, symplectic geometry"
+        "Differential geometry",
+        "symplectic topology and gauge theory of smooth 4-manifolds"
       ],
       "homepage": "https://www.math.uwaterloo.ca/~bdpark/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "Waterloo 个人页列学位与研究简介，已查院系名册及公开个人页，未发现独立的 CV 文件。",
+      "cvStatus": "院系资料和本人主页未发现明确的独立公开 CV。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
@@ -66510,12 +66692,8 @@
       ],
       "directoryEvidence": [
         {
-          "text": "Geometric topology, symplectic geometry",
-          "url": "https://uwaterloo.ca/pure-mathematics/department-members/faculty-members"
-        },
-        {
-          "text": "Symplectic geometry, four-manifold topology, gauge theory and orbifolds",
-          "url": "https://uwaterloo.ca/pure-mathematics/contacts/doug-park"
+          "text": "Differential geometry; symplectic topology and gauge theory of smooth 4-manifolds",
+          "url": "https://www.math.uwaterloo.ca/~bdpark/"
         },
         {
           "text": "个人研究或论文来源",
@@ -66533,102 +66711,8 @@
         {
           "schoolId": "waterloo",
           "department": "数学系",
-          "title": "Associate Professor",
-          "url": "https://uwaterloo.ca/pure-mathematics/node/104",
-          "type": "primary",
-          "checkedAt": "2026-11-24"
-        }
-      ],
-      "fields": [
-        "algebraic"
-      ],
-      "tags": [
-        "Algebraic geometry",
-        "classification of Fano fourfolds",
-        "quiver flag varieties"
-      ],
-      "homepage": null,
-      "homepageStatus": null,
-      "cvUrl": "https://uwaterloo.ca/scholar/sites/ca.scholar/files/e2kalash/files/full_cv.pdf",
-      "cvType": null,
-      "cvStatus": null,
-      "publicationsUrl": null,
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5040903377",
-      "papers": [],
-      "directoryEvidence": [
-        {
-          "text": "Algebraic geometry",
-          "url": "https://uwaterloo.ca/pure-mathematics/department-members/faculty-members"
-        },
-        {
-          "text": "Algebraic geometry",
-          "url": "https://uwaterloo.ca/pure-mathematics/department-members/faculty-members"
-        },
-        {
-          "text": "Research interests : Mirror symmetry, particularly for Fano varieties and non-Abelian GIT quotients; classification of Fano fourfolds; quiver flag varieties",
-          "url": "https://uwaterloo.ca/pure-mathematics/node/104"
-        }
-      ],
-      "checkedAt": "2026-11-24",
-      "recordStatus": "directory"
-    },
-    {
-      "id": "jerry-xiaoheng-wang",
-      "name": "Jerry Xiaoheng Wang",
-      "aliases": [],
-      "affiliations": [
-        {
-          "schoolId": "waterloo",
-          "department": "数学系",
-          "title": "​Associate Professor",
-          "url": "https://uwaterloo.ca/pure-mathematics/node/89",
-          "type": "primary",
-          "checkedAt": "2026-11-23"
-        }
-      ],
-      "fields": [
-        "algebraic"
-      ],
-      "tags": [],
-      "homepage": null,
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
-        {
-          "text": "Algebraic number theory, arithmetic geometry, diophantine approximation",
-          "url": "https://uwaterloo.ca/pure-mathematics/department-members/faculty-members"
-        },
-        {
-          "text": "Research interests: Algebraic number theory, arithmetic geometry, diophantine approximation",
-          "url": "https://uwaterloo.ca/pure-mathematics/node/89"
-        }
-      ],
-      "checkedAt": "2026-11-23",
-      "recordStatus": "directory"
-    },
-    {
-      "id": "matt-satriano",
-      "name": "Matt Satriano",
-      "aliases": [],
-      "affiliations": [
-        {
-          "schoolId": "waterloo",
-          "department": "数学系",
-          "title": "Professor · Pure Mathematics",
-          "url": "https://uwaterloo.ca/pure-mathematics-geometry-topology/about/people/msatrian",
+          "title": "Associate Professor of Pure Mathematics",
+          "url": "https://uwaterloo.ca/pure-mathematics/contacts/elana-kalashnikov",
           "type": "primary",
           "checkedAt": "2026-11-25"
         }
@@ -66636,23 +66720,181 @@
       "fields": [
         "algebraic"
       ],
-      "tags": [],
-      "homepage": "https://www.math.uwaterloo.ca/~msatrian/",
+      "tags": [
+        "Algebraic geometry",
+        "quiver flag varieties, Fano varieties and mirror symmetry"
+      ],
+      "homepage": "https://uwaterloo.ca/pure-mathematics/profile/e2kalash",
       "homepageStatus": null,
-      "cvUrl": "https://www.math.uwaterloo.ca/~msatrian/CV-Waterloo.pdf",
+      "cvUrl": null,
       "cvType": null,
-      "cvStatus": null,
+      "cvStatus": "旧独立链接 https://uwaterloo.ca/scholar/sites/ca.scholar/files/e2kalash/files/full_cv.pdf 当前跳转校首页。已查院系新具名档案与几何组的旧个人链接，未核实可读 PDF。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5040903377",
+          "orcid": "https://orcid.org/0000-0001-9793-9484",
+          "url": "https://openalex.org/authors/A5040903377",
+          "authorApiUrl": "https://api.openalex.org/authors/A5040903377",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5040903377,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 13,
+          "works": 21,
+          "citations": 90,
+          "hIndex": 6,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5040903377",
+      "papers": [
+        {
+          "title": "Four-dimensional Fano quiver flag zero loci",
+          "url": "https://doi.org/10.1098/rspa.2018.0791",
+          "year": 2019
+        },
+        {
+          "title": "Laurent polynomial mirrors for quiver flag zero loci",
+          "url": "https://doi.org/10.1016/j.aim.2024.109656",
+          "year": 2024
+        }
+      ],
       "directoryEvidence": [
         {
-          "text": "Algebraic geometry, moduli of algebraic stacks and toric geometry",
-          "url": "https://www.math.uwaterloo.ca/~msatrian/CV-Waterloo.pdf"
+          "text": "Algebraic geometry; quiver flag varieties, Fano varieties and mirror symmetry",
+          "url": "https://uwaterloo.ca/pure-mathematics-geometry-topology/about/people/e2kalash"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://uwaterloo.ca/pure-mathematics-geometry-topology/about/people/e2kalash"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jerry-xiaoheng-wang",
+      "name": "Jerry Xiaoheng Wang",
+      "aliases": [
+        "Xiaoheng Wang"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "waterloo",
+          "department": "数学系",
+          "title": "Associate Professor of Pure Mathematics",
+          "url": "https://uwaterloo.ca/pure-mathematics/contacts/jerry-xiaoheng-wang",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmetic geometry",
+        "algebraic geometry of quadrics and hyperelliptic curves",
+        "Diophantine approximation"
+      ],
+      "homepage": "https://www.math.uwaterloo.ca/~x46wang/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "院系旧 CV https://uwaterloo.ca/scholar/sites/ca.scholar/files/x46wang/files/cvme2.pdf 跳转校首页；已查本人学术主页，未找到有效的独立 CV。",
+      "publicationsUrl": "https://www.math.uwaterloo.ca/~x46wang/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "本人发表表中的 DOI 10.1112/S0010437X17007515 指向 A5008240020，但档案的最后任职含多个与 Waterloo 无关的单位。比对高引和其他同名记录前不采用汇总；本人主页是选列论文，无法作完整计数。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5008240020",
+      "papers": [
+        {
+          "title": "Pencils of quadrics and hyperelliptic curves",
+          "year": 2018,
+          "url": "https://doi.org/10.1112/S0010437X17007515"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic geometry; algebraic geometry of quadrics and hyperelliptic curves; Diophantine approximation",
+          "url": "https://www.math.uwaterloo.ca/~x46wang/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "kevin-purbhoo",
+      "name": "Kevin Purbhoo",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "waterloo",
+          "department": "Combinatorics and Optimization",
+          "title": "Associate Professor of Combinatorics and Optimization",
+          "url": "https://uwaterloo.ca/combinatorics-and-optimization/contacts/kevin-purbhoo",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Enumerative algebraic geometry",
+        "Schubert calculus, real algebraic geometry and combinatorics"
+      ],
+      "homepage": "https://www.math.uwaterloo.ca/~kpurbhoo/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查校方具名联系页、Math Innovation 档案及本人主页和发表列表，未见可读的独立 CV。",
+      "publicationsUrl": "https://www.math.uwaterloo.ca/~kpurbhoo/papers/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5040494861",
+          "orcid": "https://orcid.org/0000-0003-1919-2615",
+          "url": "https://openalex.org/authors/A5040494861",
+          "authorApiUrl": "https://api.openalex.org/authors/A5040494861",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5040494861,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 22,
+          "works": 29,
+          "citations": 369,
+          "hIndex": 12,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5040494861",
+      "papers": [
+        {
+          "title": "A Nullstellensatz for amoebas",
+          "url": "https://doi.org/10.1215/00127094-2007-001",
+          "year": 2008
+        },
+        {
+          "title": "The puzzle conjecture for the cohomology of two-step flag manifolds",
+          "url": "https://doi.org/10.1007/s10801-016-0697-3",
+          "year": 2016
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Enumerative algebraic geometry; Schubert calculus, real algebraic geometry and combinatorics",
+          "url": "https://uwaterloo.ca/math/geometry-and-topology"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.uwaterloo.ca/~kpurbhoo/papers/"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -66661,46 +66903,120 @@
     {
       "id": "matthew-satriano",
       "name": "Matthew Satriano",
-      "aliases": [],
+      "aliases": [
+        "Matt Satriano"
+      ],
+      "previousIds": [
+        "matt-satriano"
+      ],
       "affiliations": [
         {
           "schoolId": "waterloo",
           "department": "数学系",
-          "title": "Associate Professor",
-          "url": "https://uwaterloo.ca/pure-mathematics/node/84",
+          "title": "Associate Professor of Pure Mathematics",
+          "url": "https://uwaterloo.ca/pure-mathematics/contacts/matthew-satriano",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [
-        "Algebraic geometry, arithmetic geometry"
+        "Algebraic geometry",
+        "algebraic stacks, arithmetic geometry and toric geometry"
       ],
-      "homepage": null,
+      "homepage": "https://www.math.uwaterloo.ca/~msatrian/",
       "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvUrl": "https://www.math.uwaterloo.ca/~msatrian/CV-Waterloo.pdf",
+      "cvType": "公开学术 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.uwaterloo.ca/~msatrian/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5012906621",
+          "orcid": "https://orcid.org/0000-0001-7954-1210",
+          "url": "https://openalex.org/authors/A5012906621",
+          "authorApiUrl": "https://api.openalex.org/authors/A5012906621",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5012906621,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 40,
+          "works": 74,
+          "citations": 651,
+          "hIndex": 13,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5012906621",
+      "papers": [
+        {
+          "title": "Heights on stacks and a generalized Batyrev–Manin–Malle conjecture",
+          "url": "https://doi.org/10.1017/fms.2023.5",
+          "year": 2023
+        },
+        {
+          "title": "Canonical Heights on Hyper-Kähler Varieties and the Kawaguchi–Silverman Conjecture",
+          "url": "https://doi.org/10.1093/imrn/rnz067",
+          "year": 2019
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry; algebraic stacks, arithmetic geometry and toric geometry",
+          "url": "https://www.math.uwaterloo.ca/~msatrian/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.uwaterloo.ca/~msatrian/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "oliver-pechenik",
+      "name": "Oliver Pechenik",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "waterloo",
+          "department": "Combinatorics and Optimization / Pure Mathematics",
+          "title": "Associate Professor of Combinatorics and Optimization",
+          "url": "https://www.math.uwaterloo.ca/~opecheni/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Enumerative algebraic geometry"
+      ],
+      "homepage": "https://www.math.uwaterloo.ca/~opecheni/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.math.uwaterloo.ca/~opecheni/CV.pdf",
+      "cvType": "公开旧版学术 CV（密歇根时期）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.uwaterloo.ca/~opecheni/research.htm",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "Waterloo 现任与具名 Schubert 计算及 Grassmannian K 理论作品匹配。高引样本混入 2003 年蛞蝓生理学论文（10.1016/S0022-0981(03)00159-X），计量暂不采用。本人 Research 页分栏仍需完整性核对。",
       "metrics": [],
-      "identityUrl": "https://openalex.org/A5012906621",
+      "identityUrl": "https://openalex.org/authors/A5058699487",
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Algebraic geometry, arithmetic geometry",
-          "url": "https://uwaterloo.ca/pure-mathematics/department-members/faculty-members"
-        },
-        {
-          "text": "Research interests : Algebraic geometry, arithemetic geometry, toric geometry",
-          "url": "https://uwaterloo.ca/pure-mathematics/node/84"
+          "text": "Enumerative algebraic geometry; Schubert calculus, K-theory of flag varieties and algebraic combinatorics",
+          "url": "https://www.math.uwaterloo.ca/~opecheni/research.htm"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -66711,42 +67027,69 @@
         {
           "schoolId": "waterloo",
           "department": "数学系",
-          "title": "Professor and Chair",
-          "url": "https://uwaterloo.ca/pure-mathematics/node/61",
+          "title": "Professor and Chair of Pure Mathematics",
+          "url": "https://uwaterloo.ca/pure-mathematics/contacts/rahim-moosa",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [
-        "Model theory, algebraic geometry",
-        "Research interests : Model theory, algebraic geometry"
+        "Algebraic geometry",
+        "model theory and differential-algebraic geometry"
       ],
-      "homepage": null,
+      "homepage": "https://www.math.uwaterloo.ca/~rmoosa/",
       "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvUrl": "https://www.math.uwaterloo.ca/~rmoosa/cv-2026.pdf",
+      "cvType": "公开学术 CV（2026）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.uwaterloo.ca/~rmoosa/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5021771542",
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
         {
-          "text": "Model theory, algebraic geometry",
-          "url": "https://uwaterloo.ca/pure-mathematics/department-members/faculty-members"
-        },
-        {
-          "text": "Research interests : Model theory, algebraic geometry",
-          "url": "https://uwaterloo.ca/pure-mathematics/node/61"
+          "source": "OpenAlex",
+          "authorId": "A5021771542",
+          "orcid": "https://orcid.org/0000-0002-4556-3339",
+          "url": "https://openalex.org/authors/A5021771542",
+          "authorApiUrl": "https://api.openalex.org/authors/A5021771542",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5021771542,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 43,
+          "works": 71,
+          "citations": 663,
+          "hIndex": 16,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "identityUrl": "https://openalex.org/authors/A5021771542",
+      "papers": [
+        {
+          "title": "F -structures and integral points on semiabelian varieties over finite fields",
+          "url": "https://doi.org/10.1353/ajm.2004.0017",
+          "year": 2004
+        },
+        {
+          "title": "Poisson algebras via model theory and differential-algebraic geometry",
+          "url": "https://doi.org/10.4171/jems/712",
+          "year": 2017
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry; model theory and differential-algebraic geometry",
+          "url": "https://www.math.uwaterloo.ca/~rmoosa/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.uwaterloo.ca/~rmoosa/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -66757,42 +67100,69 @@
         {
           "schoolId": "waterloo",
           "department": "数学系",
-          "title": "Associate Professor",
-          "url": "https://uwaterloo.ca/pure-mathematics/node/49",
+          "title": "Associate Professor of Pure Mathematics",
+          "url": "https://uwaterloo.ca/pure-mathematics/contacts/ruxandra-moraru",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "complex"
       ],
       "tags": [
-        "Complex geometry, applications to physics",
-        "Research interests : Complex geometry, applications to physics"
+        "Complex geometry",
+        "non-Kähler surfaces and moduli of holomorphic bundles"
       ],
-      "homepage": null,
+      "homepage": "https://www.math.uwaterloo.ca/~moraru/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "已读个人主页和数学学院具名页，未见独立公开 CV，也未将教学简介视为 CV。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5028503983",
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
         {
-          "text": "Complex geometry, applications to physics",
-          "url": "https://uwaterloo.ca/pure-mathematics/department-members/faculty-members"
-        },
-        {
-          "text": "Research interests : Complex geometry, applications to physics",
-          "url": "https://uwaterloo.ca/pure-mathematics/node/49"
+          "source": "OpenAlex",
+          "authorId": "A5028503983",
+          "orcid": "https://orcid.org/0000-0002-7210-8665",
+          "url": "https://openalex.org/authors/A5028503983",
+          "authorApiUrl": "https://api.openalex.org/authors/A5028503983",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5028503983,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 9,
+          "works": 16,
+          "citations": 157,
+          "hIndex": 9,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "identityUrl": "https://openalex.org/authors/A5028503983",
+      "papers": [
+        {
+          "title": "Stable Bundles on Non-Kähler Elliptic Surfaces",
+          "url": "https://doi.org/10.1007/s00220-004-1269-2",
+          "year": 2005
+        },
+        {
+          "title": "Holomorphic rank-2 vector bundles on non-Kähler elliptic surfaces",
+          "url": "https://doi.org/10.5802/aif.2135",
+          "year": 2005
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry; non-Kähler surfaces and moduli of holomorphic bundles",
+          "url": "https://www.math.uwaterloo.ca/~moraru/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.uwaterloo.ca/~moraru/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -66813,28 +67183,57 @@
         "differential"
       ],
       "tags": [
-        "Differential geometry, geometric analysis"
+        "Differential geometry",
+        "geometric analysis",
+        "G₂ and Spin(7) holonomy, G₂ flows"
       ],
       "homepage": "https://www.math.uwaterloo.ca/~karigian/index.html",
       "homepageStatus": null,
       "cvUrl": "https://www.math.uwaterloo.ca/~karigian/karigiannis-CV.pdf",
-      "cvType": null,
+      "cvType": "公开学术 CV（2026）",
       "cvStatus": null,
-      "publicationsUrl": null,
+      "publicationsUrl": "https://www.math.uwaterloo.ca/~karigian/research.htm",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5078279323",
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
         {
-          "text": "Differential geometry, geometric analysis",
-          "url": "https://uwaterloo.ca/pure-mathematics/department-members/faculty-members"
+          "source": "OpenAlex",
+          "authorId": "A5078279323",
+          "orcid": "https://orcid.org/0000-0001-8940-405X",
+          "url": "https://openalex.org/authors/A5078279323",
+          "authorApiUrl": "https://api.openalex.org/authors/A5078279323",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5078279323,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 24,
+          "works": 38,
+          "citations": 831,
+          "hIndex": 15,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5078279323",
+      "papers": [
+        {
+          "title": "FLOWS OF G2-STRUCTURES, I",
+          "url": "https://doi.org/10.1093/qmath/han020",
+          "year": 2008
         },
         {
-          "text": "Differential geometry of special holonomy, G2 and Spin(7)-structures and calibrated geometry",
-          "url": "https://www.math.uwaterloo.ca/~karigian/index.html"
+          "title": "Deformations ofG2and Spin(7) Structures",
+          "url": "https://doi.org/10.4153/cjm-2005-039-x",
+          "year": 2005
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry; geometric analysis; G₂ and Spin(7) holonomy, G₂ flows",
+          "url": "https://www.math.uwaterloo.ca/~karigian/research.htm"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.uwaterloo.ca/~karigian/research.htm"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -66848,7 +67247,7 @@
         {
           "schoolId": "waterloo",
           "department": "数学系",
-          "title": "Assistant Professor",
+          "title": "Assistant Professor of Pure Mathematics",
           "url": "https://uwaterloo.ca/pure-mathematics-geometry-topology/contacts/xuemiao-chen",
           "type": "primary",
           "checkedAt": "2026-11-25"
@@ -66859,13 +67258,11 @@
         "complex",
         "differential"
       ],
-      "tags": [
-        "Differential geometry, complex algebraic geometry, gauge theory"
-      ],
+      "tags": [],
       "homepage": "https://www.math.uwaterloo.ca/~x67chen/",
       "homepageStatus": null,
       "cvUrl": "https://www.math.uwaterloo.ca/~x67chen/cv.pdf",
-      "cvType": null,
+      "cvType": "公开学术 CV",
       "cvStatus": null,
       "publicationsUrl": "https://www.math.uwaterloo.ca/~x67chen/",
       "publicationCounts": [
@@ -66883,29 +67280,25 @@
         }
       ],
       "opportunities": [],
-      "identityNote": "官方数学主页与两篇几何代表作确认；OpenAlex 同页含植物代谢和合金材料论文。作者累计数待核。 本人公开发表分栏的独立计数与口径已登记。",
+      "identityNote": "本人发表表和两份出版记录确认数学作者。OpenAlex A5060845131 混有甜瓜黄酮与合金力学高引论文。A5045332308 与 A5041694095 分列部分本人论文。沿用已去重作者期刊数，累计引用待核。",
       "metrics": [],
       "identityUrl": "https://openalex.org/authors/A5060845131",
       "papers": [
         {
-          "title": "Reflexive sheaves, Hermitian–Yang–Mills connections, and tangent cones",
-          "year": 2021,
-          "url": "https://doi.org/10.1007/s00222-020-01027-9"
-        },
-        {
           "title": "Singularities of Hermitian–Yang–Mills connections and Harder–Narasimhan–Seshadri filtrations",
           "year": 2020,
           "url": "https://doi.org/10.1215/00127094-2020-0014"
+        },
+        {
+          "title": "Admissible Hermitian–Yang–Mills connections over normal varieties",
+          "year": 2025,
+          "url": "https://doi.org/10.1007/s00208-025-03094-w"
         }
       ],
       "directoryEvidence": [
         {
-          "text": "Differential geometry, complex algebraic geometry, gauge theory",
-          "url": "https://uwaterloo.ca/pure-mathematics/department-members/faculty-members"
-        },
-        {
           "text": "Differential geometry, complex algebraic geometry and gauge theory",
-          "url": "https://uwaterloo.ca/pure-mathematics/department-members/faculty-members"
+          "url": "https://www.math.uwaterloo.ca/~x67chen/"
         },
         {
           "text": "个人研究或论文来源",

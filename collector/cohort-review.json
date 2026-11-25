@@ -253,15 +253,15 @@
     "melbourne": "核对全校数学与统计学院 116 条学术列表、纯数学具名学术成员 29 位、代数几何组与几何分析组。具名补录复／微分／代数几何及联属研究。各组未标明的职级、统计和应用组及其他跨院联合任职继续复核。",
     "yonsei": " 官方韩语教师名册与学术主页核对 Hansol Hong，列辛几何与镜像对称相关人员。",
     "paris-saclay": " 核对 CNRS 法定研究职级和 Orsay 具名岗位，七位常设研究岗位按现任、四类访客和教学岗按官方分栏判定。IMJ-PRG、IHES、历史任职与 Orsay 任职分开。 四位 Orsay 原待核人员已查出实名顺序、研究和职级。本次交叉对照数学研究生院与 EDMH 的数学单位，Versailles、Évry、Centre Borelli、IHES 和合作院校继续逐单位复核。",
-    "waterloo": "已逐条对照纯数学现任 27 位、纯数学荣休及跨聘 23 位、应用数学现任 31 位与跨聘 17 位。交叉核对几何拓扑组 11 位教师及博士后分栏、数学物理组、计算组、IQC 35 份档案。仍需核实联合研究组与全部相关院系范围、博士后名单的年度滞后。 另核对 Perimeter 初始目录、组合与优化系及计算机科学入口。校属博士后入口暂不可读，用几何组分栏、本人 CV 和网页补证。",
+    "waterloo": "逐行核对纯数学 27 位现任、23 位荣休及跨聘、现任 7 位博士后及研究人员，和几何拓扑组的 11 位教师、22 位现任或历年博士后。复核代数与分析组、应用数学 31 位与跨聘 17 位、组合与优化名录 152 项及其几何专题、IQC 35 项和图形实验室。Perimeter 数学物理 7 页 61 项与物理兼职 6 页 51 项已核对到末页。以校系名录和具名 Senate 任命区分校方教职、兼职与独立机构岗位。Matthew / Matt Satriano 合并为既有正式姓名档案。纳入 Kevin Purbhoo 与 Oliver Pechenik，Eric Katz 已转任 Ohio State。校方已废弃的博士后入口由现任名录替代。个人链接与计量待核见逐人字段表。",
     "princeton": " 原数学系 22 条待核逐人匹配具名主页、成果与任职。IAS 为独立机构，显式双聘与研究学者单列。新增 PACM、CS、物理和 PCTS 入口，各跨院名册仍继续核对。",
     "iit-kanpur": "复查五份具名职务及方向简介，校正旧个人快照误提取整份教师目录造成的研究方向交叉。五条中四条属其他方向，一条属组合与计算几何相邻方向。院系与跨单位范围仍待补。"
   },
   "latestProfileRun": {
-    "checkedAt": "2026-11-24",
+    "checkedAt": "2026-11-25",
     "schools": 1,
-    "attempted": 107,
-    "fetched": 107,
+    "attempted": 13,
+    "fetched": 13,
     "failed": 0
   },
   "schoolReviews": {
@@ -413,6 +413,15 @@
         "durham-group31-education-and-pedagogy"
       ],
       "scope": "数学科学系学术、研究、行政和博士生分栏，全部八组，CPT、Biophysical Sciences Institute、Biostatistics 与计算机科学相关研究组。"
+    },
+    "waterloo": {
+      "complete": true,
+      "checkedAt": "2026-11-25",
+      "sources": [
+        "waterloo-faculty",
+        "waterloo-pure-postdoctoral26",
+        "waterloo-comb-geo26"
+      ]
     }
   },
   "cvLinkAudit": {

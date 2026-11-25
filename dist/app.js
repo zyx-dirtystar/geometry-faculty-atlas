@@ -9,6 +9,8 @@ const primaryRank = window.geometryRanking;
 const rankings = window.geometryRankings;
 const baseline = {schemaVersion:1, ranking:primaryRank, rankings, schools:window.geometrySchools, people:window.geometryFaculty};
 const officialSchools = new Map(baseline.schools.map(school => [school.id, school]));
+const retiredPersonIds = new Map((window.geometryCollection?.people ?? [])
+  .flatMap(person => (person.previousIds ?? []).map(id => [id,person.id])));
 const privateKey = "geometry-atlas-tracker-v1";
 const pageSizes = {faculty:15, schools:20};
 
@@ -58,7 +60,17 @@ function button(label, handler, className = "button", attributes = {}) {
 function readTracker() {
   try {
     const entries = JSON.parse(localStorage.getItem(privateKey) || "[]");
-    return new Map(Array.isArray(entries) ? entries : []);
+    const loaded = new Map(Array.isArray(entries) ? entries : []);
+    for (const [id, replacement] of retiredPersonIds) {
+      const old = loaded.get(id);
+      if (!old) continue;
+      const current = loaded.get(replacement) ?? {};
+      const note = [...new Set([current.note,old.note].filter(Boolean))].join("\n\n");
+      const status = current.status && current.status !== "unmarked" ? current.status : old.status ?? current.status;
+      loaded.set(replacement,{...old,...current, saved:old.saved || current.saved, note, status});
+      loaded.delete(id);
+    }
+    return loaded;
   } catch {
     return new Map();
   }
@@ -575,6 +587,7 @@ function mergeCatalog(existing, incoming) {
   for (const item of incoming.people) {
     assert(safeRecord(item) && typeof item.id === "string" && /^[a-z][a-z0-9-]{0,100}$/.test(item.id) && !personIds.has(item.id), "学者 ID 格式有误或在导入文件中重复。");
     personIds.add(item.id);
+    if (nextPeople.has(retiredPersonIds.get(item.id))) continue;
     const previous = nextPeople.get(item.id);
     const person = {...previous,...item};
     assert(typeof person.name === "string" && person.name.trim().length > 0, `${item.id} 缺少姓名。`);
