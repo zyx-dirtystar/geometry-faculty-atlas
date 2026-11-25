@@ -4579,8 +4579,16 @@
     {
       "id": "khalifa",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，25 条任职或方向待核。 已查官方数学单位、教师科研门户和微分几何课程页，已区分课程覆盖与数学教师的个人研究方向。其他专长和联合任职待核。",
+      "coverageNote": "已解析 1/3 个登记来源，24 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 1。 已查官方数学单位、教师科研门户和微分几何课程页，已区分课程覆盖与数学教师的个人研究方向。其他专长和联合任职待核。 新核 Khazna 机构部门、Davide Batic 具名方向和成果；院系官网程序请求受限时由官方公开索引、机构 ORCID 和出版社交叉。",
       "rosterLinks": [
+        [
+          "Khazna · Davide Batic",
+          "https://khazna.ku.ac.ae/en/persons/davide-batic-6/"
+        ],
+        [
+          "Khazna · Mathematics Faculty",
+          "https://khazna.ku.ac.ae/en/organisations/mathematics/persons/"
+        ],
         [
           "数学系或所属学院人员入口",
           "https://www.ku.ac.ae/academics/college-of-computing-and-mathematical-sciences/department/department-of-mathematics"
@@ -5379,10 +5387,10 @@
     {
       "id": "nust",
       "coverage": "sample",
-      "coverageNote": "已解析 2/4 个登记来源，17 条任职或方向待核。 已查自然科学学院数学研究组和 2025–26 课程表，几何教学证据已经与研究任职区分。现任几何相关研究方向与联聘仍待核。",
+      "coverageNote": "已解析 3/8 个登记来源，0 条任职或方向待核。 已收录 3 位学者，个人主页 0、CV 0、指标 3。 已查自然科学学院数学研究组和 2025–26 课程表，几何教学证据已经与研究任职区分。现任几何相关研究方向与联聘仍待核。 SNS 当期 17 人清单与六个数学研究专题 24 名具名成员交叉。SEECS 数学与通识单位另查。以 Noether 对称、曲率内在不变量、时空的等平均曲率叶状结构等代表作确认几何方向；课程表独立为教学资料。",
       "rosterLinks": [
         [
-          "Mathematics Research Groups",
+          "Mathematics · six research groups",
           "https://sns.nust.edu.pk/research/mathematics-research-groups/"
         ],
         [
@@ -5394,11 +5402,27 @@
           "https://sns.nust.edu.pk/faculty?depart=SNS-MATH"
         ],
         [
-          "数学系或所属学院人员入口",
+          "School of Natural Sciences · Department of Mathematics",
           "https://sns.nust.edu.pk/departments/department-of-mathematics/"
+        ],
+        [
+          "SEECS · Azad Akhter Siddiqui",
+          "https://seecs.nust.edu.pk/faculty/azad-akhter-siddiqui/"
+        ],
+        [
+          "SEECS · Department of Humanities & Sciences",
+          "https://seecs.nust.edu.pk/departments/department-of-humanities-sciences-2/"
+        ],
+        [
+          "SEECS · Ibrar Hussain",
+          "https://seecs.nust.edu.pk/faculty/ibrar-hussain/"
+        ],
+        [
+          "Mathematics · Tooba Siddiqui",
+          "https://sns.nust.edu.pk/faculty/tooba-siddiqui/"
         ]
       ],
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "ntnu",
@@ -5871,19 +5895,39 @@
     {
       "id": "utm",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，58 条任职或方向待核。 已查理学院、数学科学系、理学院学术人员名录及岗位学科清单。岗位方向中列有几何，仍缺能确认现任个人研究方向的证据。",
+      "coverageNote": "已解析 1/8 个登记来源，0 条任职或方向待核。 已查理学院、数学科学系、理学院学术人员名录及岗位学科清单。岗位方向中列有几何，仍缺能确认现任个人研究方向的证据。 数学系现任及荣休 62 张卡片按所属职级及同一行的个人专长重读；与理学院 60 条数学人员／方向、校级名录、CIAM 和研究生项目对照。旧几何课程与当前研究方向分别记录。",
       "rosterLinks": [
         [
-          "Faculty of Science Academic Staff",
+          "Faculty of Science · Mathematical Sciences specialities",
           "https://science.utm.my/faculty-of-science-academic-staff/"
+        ],
+        [
+          "UTM Scholar · Centre for Industrial & Applied Mathematics",
+          "https://pure.utm.my/research-centre/J091002"
         ],
         [
           "Staff Profile People",
           "https://science.utm.my/mathematics/people/"
         ],
         [
+          "Faculty of Science · Postgraduate Mathematics",
+          "https://science.utm.my/pg/mphil-phd-mathematics/"
+        ],
+        [
           "数学系或所属学院人员入口",
           "https://science.utm.my/mathematics/directory/"
+        ],
+        [
+          "MJIIT staff · Zahriddin Muminov",
+          "https://mjiit.utm.my/research-tribology/drmuminov/"
+        ],
+        [
+          "UTM Directory · Faculty of Science",
+          "https://www.utm.my/directory/faculty/fakulti-sains/fakulti-sains"
+        ],
+        [
+          "UTM Scholar · Shaymaa Darwish",
+          "https://pure.utm.my/Scholar/ScholarInfoDetails/9X7R"
         ]
       ],
       "checkedAt": "2026-11-23"
@@ -21998,6 +22042,92 @@
       "recordStatus": "directory"
     },
     {
+      "id": "davide-batic",
+      "name": "davide batic",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "khalifa",
+          "department": "数学系",
+          "title": "Associate Professor of Mathematics",
+          "url": "https://www.ku.ac.ae/college-people/davide-batic",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "公开可核入口为院系页和机构成果页，未见独立个人网站。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查 Khalifa 个人页、Khazna、公开 ORCID 和主流计量入口；未见独立公开 CV。",
+      "publicationsUrl": "https://khazna.ku.ac.ae/en/persons/davide-batic-6/publications/",
+      "publicationCounts": [
+        {
+          "value": 37,
+          "scope": "Khalifa Khazna 明示 Article 成果类型",
+          "url": "https://khazna.ku.ac.ae/en/persons/davide-batic-6/",
+          "checkedAt": "2026-11-25"
+        },
+        {
+          "value": 38,
+          "scope": "Khalifa Khazna 明示 Research output，含 1 篇 systematic review",
+          "url": "https://khazna.ku.ac.ae/en/persons/davide-batic-6/",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5057896634",
+          "orcid": "https://orcid.org/0000-0002-7619-4900",
+          "url": "https://openalex.org/authors/A5057896634",
+          "authorApiUrl": "https://api.openalex.org/authors/A5057896634",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5057896634,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 73,
+          "works": 82,
+          "citations": 985,
+          "hIndex": 19,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "An exact Kerr-like rotating Morris–Thorne wormhole: Throat, ergoregion and equatorial shadow slice",
+          "year": 2026,
+          "url": "https://doi.org/10.1016/j.aop.2026.170718"
+        },
+        {
+          "title": "Quasinormal modes in noncommutative Schwarzschild black holes: a spectral analysis",
+          "url": "https://doi.org/10.1140/epjc/s10052-024-12981-6"
+        },
+        {
+          "title": "Possible connection between dark matter and supermassive black holes",
+          "url": "https://doi.org/10.1140/epjc/s10052-022-10731-0"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of Lorentzian spacetimes, mathematical relativity, black hole metric geometry, complex differential equations and spectral theory",
+          "url": "https://www.ku.ac.ae/college-people/davide-batic"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://khazna.ku.ac.ae/en/persons/davide-batic-6/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "amani-hussain-saloom",
       "name": "Amani Hussain Saloom",
       "aliases": [
@@ -29277,6 +29407,239 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "azad-akhter-siddiqui",
+      "name": "Azad Akhter Siddiqui",
+      "aliases": [
+        "Azad Akhtar Siddiqui",
+        "Azad A. Siddiqui"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "nust",
+          "department": "Department of Humanities and Sciences, SEECS",
+          "title": "Professor",
+          "url": "https://seecs.nust.edu.pk/faculty/azad-akhter-siddiqui/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Relativity, Cosmology"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "官方 SEECS 个人学术档案有履历与成果栏，未见独立公开 CV。",
+      "publicationsUrl": "https://seecs.nust.edu.pk/faculty/azad-akhter-siddiqui/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5054230164",
+          "orcid": "https://orcid.org/0000-0001-8693-5787",
+          "url": "https://openalex.org/authors/A5054230164",
+          "authorApiUrl": "https://api.openalex.org/authors/A5054230164",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5054230164,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 38,
+          "works": 49,
+          "citations": 514,
+          "hIndex": 11,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Constant Mean Curvature Slices for the Schwarzschild-anti-de Sitter Spacetime",
+          "url": "https://doi.org/10.1007/S10773-024-05819-0"
+        },
+        {
+          "title": "K slicing the Schwarzschild and the Reissner–Nordstrom spacetimes",
+          "url": "https://doi.org/10.1063/1.533060"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Relativity, Cosmology",
+          "url": "https://sns.nust.edu.pk/research/mathematics-research-groups/"
+        },
+        {
+          "text": "Differential geometry of Lorentzian spacetimes, constant mean curvature hypersurfaces, foliations, mathematical relativity",
+          "url": "https://seecs.nust.edu.pk/faculty/azad-akhter-siddiqui/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://seecs.nust.edu.pk/faculty/azad-akhter-siddiqui/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ibrar-hussain",
+      "name": "Ibrar Hussain",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "nust",
+          "department": "Department of Humanities and Sciences, SEECS",
+          "title": "Tenured Professor",
+          "url": "https://seecs.nust.edu.pk/faculty/ibrar-hussain/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "General Relativity Symmetry Analysis"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "公开院系个人页列教育、职务与报告资料，未找到独立 CV。",
+      "publicationsUrl": "https://seecs.nust.edu.pk/faculty/ibrar-hussain/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5067213908",
+          "orcid": "https://orcid.org/0000-0003-0733-900X",
+          "url": "https://openalex.org/authors/A5067213908",
+          "authorApiUrl": "https://api.openalex.org/authors/A5067213908",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5067213908,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 81,
+          "works": 91,
+          "citations": 1817,
+          "hIndex": 25,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Curvature and Weyl collineations of Bianchi type V spacetimes",
+          "url": "https://doi.org/10.1016/j.geomphys.2009.07.008"
+        },
+        {
+          "title": "Noether symmetries and conserved quantities for spaces with a section of zero curvature",
+          "url": "https://doi.org/10.1016/j.geomphys.2010.11.015"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "General Relativity Symmetry Analysis",
+          "url": "https://sns.nust.edu.pk/research/mathematics-research-groups/"
+        },
+        {
+          "text": "Differential geometry of Lorentzian manifolds, curvature and Weyl collineations, symmetries of geodesic equations",
+          "url": "https://seecs.nust.edu.pk/faculty/ibrar-hussain/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://seecs.nust.edu.pk/faculty/ibrar-hussain/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "tooba-siddiqui",
+      "name": "Tooba Siddiqui",
+      "aliases": [
+        "Tooba Feroze"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "nust",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://sns.nust.edu.pk/faculty/tooba-siddiqui/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "General Relativity (Spacetime Symmetries)",
+        "Symmetry Analysis of Differential Equations"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "院系提供个人学术档案，已查 SNS、其 Scholar 搜索入口与发表列表，未见单独 CV 文件。",
+      "publicationsUrl": "https://sns.nust.edu.pk/faculty/tooba-siddiqui/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5054183610",
+          "orcid": "https://orcid.org/0000-0002-2456-6418",
+          "url": "https://openalex.org/authors/A5054183610",
+          "authorApiUrl": "https://api.openalex.org/authors/A5054183610",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5054183610,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 50,
+          "works": 57,
+          "citations": 736,
+          "hIndex": 13,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Complete Classification of Cylindrically Symmetric Static Spacetimes and the Corresponding Conservation Laws",
+          "url": "https://doi.org/10.3390/math4030050"
+        },
+        {
+          "title": "Complete classification of spherically symmetric static space-times via Noether symmetries",
+          "url": "https://doi.org/10.1007/S11232-015-0310-2"
+        },
+        {
+          "title": "Noether symmetries and conserved quantities for spaces with a section of zero curvature",
+          "year": 2010,
+          "url": "https://doi.org/10.1016/j.geomphys.2010.11.015"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "General Relativity (Spacetime Symmetries); Symmetry Analysis of Differential Equations",
+          "url": "https://sns.nust.edu.pk/research/mathematics-research-groups/"
+        },
+        {
+          "text": "Differential geometry of Lorentzian manifolds, spacetime curvature, isometries and Noether symmetries",
+          "url": "https://sns.nust.edu.pk/research/mathematics-research-groups/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://sns.nust.edu.pk/faculty/tooba-siddiqui/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {

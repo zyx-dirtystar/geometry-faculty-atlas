@@ -185,6 +185,8 @@ def parse_lse_staff(document, base):
 
 def parse_utm_staff(document, base):
     rows = []
+    ranks = {"PROFESSORS": "Professor", "ASSOCIATE PROFESSORS": "Associate Professor",
+             "SENIOR LECTURERS": "Senior Lecturer", "LECTURERS": "Lecturer"}
     for card in document.xpath("//div[contains(@class,'et_pb_team_member_description')][h4]"):
         heading = text_at(card, "./h4")
         rank = re.match(r"^((?:(?:Associate|Adjunct|Emeritus)\s+)?Professor|Assoc\.\s*Prof\.?)(\s*\(Retired\))?\s+", heading, re.I)
@@ -194,8 +196,21 @@ def parse_utm_staff(document, base):
         title = rank[0].strip() if rank else ""
         if not title and re.search(r"\b(?:lecturer|professor|fellow)\b", position, re.I):
             title = position
+        if not title:
+            title = ranks.get(text_at(card, "preceding::h2[1]").upper(), "")
+        detail = card.xpath("ancestor::div[contains(concat(' ',normalize-space(@class),' '),' et_pb_row ')][1]"
+                            "//div[contains(concat(' ',normalize-space(@class),' '),' et_pb_text_inner ')]")
+        research = ""
+        homepage = ""
+        for section in detail:
+            match = re.search(r"\bResearch Area:\s*(.+?)(?=\s+(?:Email|Office|Tel|Website|Admin|Other Info)\s*[:/]|$)",
+                              contents(section), re.I)
+            if match:
+                research = match[1].strip(" –—-")
+            homepage = homepage or next((url for label, url in urls(section, base)
+                                         if label.casefold() in ("website", "homepage") and urlparse(url).scheme in ("http", "https")), "")
         if name:
-            rows.append(Entry(name, title))
+            rows.append(Entry(name, title, research, homepage=homepage))
     return rows
 
 

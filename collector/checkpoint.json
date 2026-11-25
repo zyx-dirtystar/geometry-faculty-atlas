@@ -3972,6 +3972,26 @@
       "note": ""
     },
     {
+      "id": "khalifa-batic-pure31",
+      "school": "khalifa",
+      "url": "https://khazna.ku.ac.ae/en/persons/davide-batic-6/",
+      "label": "Khazna · Davide Batic",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "khalifa-khazna-math31",
+      "school": "khalifa",
+      "url": "https://khazna.ku.ac.ae/en/organisations/mathematics/persons/",
+      "label": "Khazna · Mathematics Faculty",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "khalifa-math-source",
       "school": "khalifa",
       "url": "https://www.ku.ac.ae/academics/college-of-computing-and-mathematical-sciences/department/department-of-mathematics",
@@ -5705,11 +5725,11 @@
       "id": "nust-27-groups",
       "school": "nust",
       "url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
-      "label": "Mathematics Research Groups",
-      "status": "needs_adapter",
-      "count": 0,
-      "checked_at": "2026-11-24",
-      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+      "label": "Mathematics · six research groups",
+      "status": "parsed",
+      "count": 24,
+      "checked_at": "2026-11-25",
+      "note": "从六张官方专题表逐条交叉卡片的详细研究主题，24 名成员；涵盖 SNS、SEECS、SINES、NICE、S3H。院系名册确定现任职位，研究组表确证专长。"
     },
     {
       "id": "nust-27-list",
@@ -5735,10 +5755,50 @@
       "id": "nust-math-source",
       "school": "nust",
       "url": "https://sns.nust.edu.pk/departments/department-of-mathematics/",
-      "label": "数学系或所属学院人员入口",
+      "label": "School of Natural Sciences · Department of Mathematics",
       "status": "needs_adapter",
       "count": 0,
       "checked_at": "2026-11-23",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "nust-see-azad31",
+      "school": "nust",
+      "url": "https://seecs.nust.edu.pk/faculty/azad-akhter-siddiqui/",
+      "label": "SEECS · Azad Akhter Siddiqui",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "nust-see-hs31",
+      "school": "nust",
+      "url": "https://seecs.nust.edu.pk/departments/department-of-humanities-sciences-2/",
+      "label": "SEECS · Department of Humanities & Sciences",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "nust-see-ibrar31",
+      "school": "nust",
+      "url": "https://seecs.nust.edu.pk/faculty/ibrar-hussain/",
+      "label": "SEECS · Ibrar Hussain",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "nust-tooba31",
+      "school": "nust",
+      "url": "https://sns.nust.edu.pk/faculty/tooba-siddiqui/",
+      "label": "Mathematics · Tooba Siddiqui",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-25",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
@@ -10465,10 +10525,20 @@
       "id": "utm-27-science-faculty",
       "school": "utm",
       "url": "https://science.utm.my/faculty-of-science-academic-staff/",
-      "label": "Faculty of Science Academic Staff",
-      "status": "needs_adapter",
+      "label": "Faculty of Science · Mathematical Sciences specialities",
+      "status": "reference",
       "count": 0,
       "checked_at": "2026-11-24",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "utm-ciam31",
+      "school": "utm",
+      "url": "https://pure.utm.my/research-centre/J091002",
+      "label": "UTM Scholar · Centre for Industrial & Applied Mathematics",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-25",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
@@ -10482,6 +10552,16 @@
       "note": ""
     },
     {
+      "id": "utm-math-pg31",
+      "school": "utm",
+      "url": "https://science.utm.my/pg/mphil-phd-mathematics/",
+      "label": "Faculty of Science · Postgraduate Mathematics",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
       "id": "utm-math-source",
       "school": "utm",
       "url": "https://science.utm.my/mathematics/directory/",
@@ -10489,6 +10569,36 @@
       "status": "needs_adapter",
       "count": 0,
       "checked_at": "2026-11-23",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "utm-muminov31",
+      "school": "utm",
+      "url": "https://mjiit.utm.my/research-tribology/drmuminov/",
+      "label": "MJIIT staff · Zahriddin Muminov",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "utm-science-core31",
+      "school": "utm",
+      "url": "https://www.utm.my/directory/faculty/fakulti-sains/fakulti-sains",
+      "label": "UTM Directory · Faculty of Science",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "utm-shaymaa31",
+      "school": "utm",
+      "url": "https://pure.utm.my/Scholar/ScholarInfoDetails/9X7R",
+      "label": "UTM Scholar · Shaymaa Darwish",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-25",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
@@ -192093,6 +192203,390 @@
         "source_kind": "department",
         "source_url": "https://www.math.nus.edu.sg/people/regular-faculty/",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "ahmadjavid",
+      "school": "nust",
+      "record": {
+        "name": "Ahmad Javid",
+        "title": "Research group member",
+        "research": "Soliton Theory Exact Solutions of Nonlinear Differential Equations Gradient-based Descent Methods",
+        "profile": "https://sns.nust.edu.pk/faculty/ahmad-javid/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "ammarmushtaq",
+      "school": "nust",
+      "record": {
+        "name": "Ammar Mushtaq",
+        "title": "Research group member",
+        "research": "Non-Newtonian Fluid Flows Computational Fluid Dynamics Nanofluid Flows",
+        "profile": "https://sines.nust.edu.pk/faculty/ammar-mushtaq/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "ayeshanazuk",
+      "school": "nust",
+      "record": {
+        "name": "Ayesha Nazuk",
+        "title": "Research group member",
+        "research": "Survey Econometrics",
+        "profile": "https://s3h.nust.edu.pk/faculty/ayesha-nazuk/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "azadakhtersiddiqui",
+      "school": "nust",
+      "record": {
+        "name": "Azad Akhter Siddiqui",
+        "title": "Professor",
+        "research": "Relativity, Cosmology",
+        "profile": "https://seecs.nust.edu.pk/faculty/azad-akhter-siddiqui/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "firdoskhan",
+      "school": "nust",
+      "record": {
+        "name": "Firdos Khan",
+        "title": "Research group member",
+        "research": "Bayesian Statistics Environmental Statistics",
+        "profile": "https://sns.nust.edu.pk/faculty/firdos-khan/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "hafizmuhammadfahad",
+      "school": "nust",
+      "record": {
+        "name": "Hafiz Muhammad Fahad",
+        "title": "Research group member",
+        "research": "Partial Differential Equations Special Functions Operational and Fractional Calculus Regularity Results",
+        "profile": "https://sns.nust.edu.pk/faculty/hafiz-muhammad-fahad/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "ibrarhussain",
+      "school": "nust",
+      "record": {
+        "name": "Ibrar Hussain",
+        "title": "Professor",
+        "research": "General Relativity Symmetry Analysis",
+        "profile": "https://seecs.nust.edu.pk/faculty/ibrar-hussain/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "khursheedmuhammad",
+      "school": "nust",
+      "record": {
+        "name": "Khursheed Muhammad",
+        "title": "Research group member",
+        "research": "Fluid Mechanics Heat Transfer Nanofluid flows Numerical and Analytical solutions of non-linear boundary value problems",
+        "profile": "https://seecs.nust.edu.pk/faculty/khursheed-muhammad/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "matloobanwar",
+      "school": "nust",
+      "record": {
+        "name": "Matloob Anwar",
+        "title": "Professor",
+        "research": "Cauchy Mean Time Scale Inequalities",
+        "profile": "https://sns.nust.edu.pk/faculty/matloob-anwar/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "merajmustafahashmi",
+      "school": "nust",
+      "record": {
+        "name": "Meraj Mustafa Hashmi",
+        "title": "Professor",
+        "research": "Computational Fluid Dynamics Numerical Analysis Analytic Solutions of Non-linear Differential Equations",
+        "profile": "https://sns.nust.edu.pk/faculty/meraj-mustafa-hashmi/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "mubasherjamil",
+      "school": "nust",
+      "record": {
+        "name": "Mubasher Jamil",
+        "title": "Professor",
+        "research": "Cosmology Quantum Gravity Black Hole Dynamics",
+        "profile": "https://sns.nust.edu.pk/faculty/mubasher-jamil/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "muhammadasiffarooq",
+      "school": "nust",
+      "record": {
+        "name": "Muhammad Asif Farooq",
+        "title": "Research group member",
+        "research": "Compressible Flows Spectral Method Numerical Solutions of PDEs/ODEs Non-Newtonian Fluids",
+        "profile": "https://sns.nust.edu.pk/faculty/muhammad-asif-farooq/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "muhammadishaq",
+      "school": "nust",
+      "record": {
+        "name": "Muhammad Ishaq",
+        "title": "Research group member",
+        "research": "Commutative Algebra",
+        "profile": "https://sns.nust.edu.pk/faculty/muhammad-ishaq-5/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "mujeeburrehman",
+      "school": "nust",
+      "record": {
+        "name": "Mujeeb Ur Rehman",
+        "title": "Professor",
+        "research": "Differential Equations Fractional Calculus Transform Methods Theory of Fractional Differential Equations Numerical Methods for Fractional Differential Equations",
+        "profile": "https://sns.nust.edu.pk/faculty/mujeeb-ur-rehman-1/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "quanitakiran",
+      "school": "nust",
+      "record": {
+        "name": "Quanita Kiran",
+        "title": "Professor",
+        "research": "Fixed Point Theory Functional Analysis",
+        "profile": "https://seecs.nust.edu.pk/faculty/quanita-kiran/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "raisajjadsaif",
+      "school": "nust",
+      "record": {
+        "name": "Rai Sajjad Saif",
+        "title": "Research group member",
+        "research": "Analytical Solutions Boundary-Layer Flows Nano Flows",
+        "profile": "https://seecs.nust.edu.pk/faculty/rai-sajjad-saif/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "rashidfarooq",
+      "school": "nust",
+      "record": {
+        "name": "Rashid Farooq",
+        "title": "Professor",
+        "research": "Game Theory Spectral Graph Theory Metric Graph Theory",
+        "profile": "https://sns.nust.edu.pk/faculty/rashid-farooq/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "rizwanulhaq",
+      "school": "nust",
+      "record": {
+        "name": "Rizwan Ul Haq",
+        "title": "Research group member",
+        "research": "CFD, Analytical and Numerical Methods Mathematical Modeling of Fluid Flow in Cavity and Boundary Layer Bomains Channel Flow Model Heat Transfer Nanofluid",
+        "profile": "https://sns.nust.edu.pk/faculty/rizwan-ul-haq/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "shakeelahmed",
+      "school": "nust",
+      "record": {
+        "name": "Shakeel Ahmed",
+        "title": "On Leave",
+        "research": "Health Statistics Model-based Inference Survey Sampling",
+        "profile": "https://sns.nust.edu.pk/faculty/shakeel-ahmed-8/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "shamsularifeen",
+      "school": "nust",
+      "record": {
+        "name": "Shams Ul Arifeen",
+        "title": "Research group member",
+        "research": "Integer and Fractional Order Differential Equation Finite Element method Polynomial Approximation Machine Learning",
+        "profile": "https://sns.nust.edu.pk/faculty/shams-ul-arifeen/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "tahirmehmood",
+      "school": "nust",
+      "record": {
+        "name": "Tahir Mehmood",
+        "title": "Professor",
+        "research": "Multivariate Statistics Statistical Learning, Data Science",
+        "profile": "https://sns.nust.edu.pk/faculty/tahir-mehmood-1/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "toobasiddiqui",
+      "school": "nust",
+      "record": {
+        "name": "Tooba Siddiqui",
+        "title": "Professor",
+        "research": "General Relativity (Spacetime Symmetries); Symmetry Analysis of Differential Equations",
+        "profile": "https://sns.nust.edu.pk/faculty/tooba-siddiqui/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "umersaeed",
+      "school": "nust",
+      "record": {
+        "name": "Umer Saeed",
+        "title": "Research group member",
+        "research": "Numerical Method for Differential Equations Fractional Differential Equations",
+        "profile": "https://scee.nust.edu.pk/faculty/umer-saeed/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "nust-27-groups",
+      "person_key": "zamirhussain",
+      "school": "nust",
+      "record": {
+        "name": "Zamir Hussain",
+        "title": "Research group member",
+        "research": "Applied statistics Estimation of Extreme Events",
+        "profile": "https://sines.nust.edu.pk/faculty/zamir-hussain/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://sns.nust.edu.pk/research/mathematics-research-groups/",
+        "checked_at": "2026-11-25"
       }
     },
     {
@@ -380610,10 +381104,10 @@
       "school": "utm",
       "record": {
         "name": "Ahmad Fadillah Embong",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Dynamical System, Operator Theory, Algebra, Nonlinear Analysis.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/ahmadfadillah/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380626,10 +381120,10 @@
       "school": "utm",
       "record": {
         "name": "Ahmad Qushairi Mohamad",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Mathematical Modelling, Fluid Mechanics, Heat and Mass Transfer.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/ahmadqushairi/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380643,7 +381137,7 @@
       "record": {
         "name": "Ali Hassan Mohamed Murid",
         "title": "Professor (Retired)",
-        "research": "",
+        "research": "Complex Analysis, Boundary Value Problems.",
         "profile": "",
         "homepage": "",
         "topics": [],
@@ -380658,10 +381152,10 @@
       "school": "utm",
       "record": {
         "name": "Amidora Idris",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Pure Mathematics (Analysis, Algebra, Topology, Fuzzy).",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/amidora/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380674,10 +381168,10 @@
       "school": "utm",
       "record": {
         "name": "Anati Ali",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Fluid Mechanics.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/anati1/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380690,10 +381184,10 @@
       "school": "utm",
       "record": {
         "name": "Ang Tau Keong",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Population Dynamics, Prey-Predator Modelling, Bifurcation Analysis and Biomathematics.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/taukeong/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380707,9 +381201,9 @@
       "record": {
         "name": "Ani Shabri",
         "title": "Associate Professor",
-        "research": "",
+        "research": "Statistics, Time Series, Flood Frequency Analysis, Decision Making.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/ani/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380723,9 +381217,9 @@
       "record": {
         "name": "Arifah Bahar",
         "title": "Associate Professor",
-        "research": "",
+        "research": "Probability Theory and Stochastic Processes. Uncertainty Quantification & Data Analysis.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/arifahbahar/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380738,10 +381232,10 @@
       "school": "utm",
       "record": {
         "name": "Dzuliana Fatin Jamil",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Mathematical Modeling, Fractional Derivatives, and Applied Mathematics.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/dzulianafatin/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380755,9 +381249,9 @@
       "record": {
         "name": "Fadhilah Yusof",
         "title": "Professor (Retired)",
-        "research": "",
+        "research": "Applied Statistics (Hydrology).",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/fadhilahyusof/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380770,10 +381264,10 @@
       "school": "utm",
       "record": {
         "name": "Farhana Johar",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Optimization, Vehicle Routing Problem, Numerical Methods.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/farhanajohar/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380786,10 +381280,10 @@
       "school": "utm",
       "record": {
         "name": "Fatin Nadiah Mohamed Yusoff",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Mathematical Modelling, Prey-predator Model, Delay Differential Equations, Mathematical Biology.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/fatinnadiah/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380803,9 +381297,9 @@
       "record": {
         "name": "Fong Wan Heng",
         "title": "Associate Professor",
-        "research": "",
+        "research": "Mathematical Modelling in DNA Splicing, Group Theory.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/fwh/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380818,10 +381312,10 @@
       "school": "utm",
       "record": {
         "name": "Fuaada Mohd Siam",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Mathematical Modelling, Cell Population Dynamics, Dynamical System.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/fuaada/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380834,10 +381328,10 @@
       "school": "utm",
       "record": {
         "name": "Haliza Abd Rahman",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Stochastic Modeling, Regression Analysis.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/halizarahman/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380850,10 +381344,10 @@
       "school": "utm",
       "record": {
         "name": "Hang See Pheng",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Medical image analysis, Mathematical modeling.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/hangseepheng/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380866,10 +381360,10 @@
       "school": "utm",
       "record": {
         "name": "Hazzirah Izzati Mat Hassim",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Group theory, Homological Algebra, Algebraic Graph Theory, Applications of Algebraic Graph.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/hazzirah/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380882,10 +381376,10 @@
       "school": "utm",
       "record": {
         "name": "Lim Yeou Jiann",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Fluid mechanics, Computational Mathematics.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/limyeoujiann/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380898,10 +381392,10 @@
       "school": "utm",
       "record": {
         "name": "Md. Faisal Md. Basir",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Fluid mechanics, Computational Mathematics.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/mfaisalmbasir/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380914,10 +381408,10 @@
       "school": "utm",
       "record": {
         "name": "Mohamad Shahiir Saidin",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Multicriteria Decision Making, Fuzzy Set Theory, Staff Performance Appraisal .",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/shahiir/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380930,10 +381424,10 @@
       "school": "utm",
       "record": {
         "name": "Mohammad Izat Emir b. Zulkifly",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Fuzzy Set Theory, Fuzzy Logic Theory, Fuzzy Geometric Modeling & Applications, Computer Aided Geometric Design (CAGD) .",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/izatemir/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380946,10 +381440,10 @@
       "school": "utm",
       "record": {
         "name": "Mohammad Ridhwan Reyaz Ahmad",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Fluid Mechanics, Heat & Mass Transfer, Boundary Layer Problem, Fractional Derivatives .",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/mohammad.ridhwan/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380962,10 +381456,10 @@
       "school": "utm",
       "record": {
         "name": "Mohd Ali Khameini Ahmad",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "p-Adic Analysis, Dynamical Systems, Statistical Mechanics (Lattice model), Number Theory.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/ma-khameini/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380978,10 +381472,10 @@
       "school": "utm",
       "record": {
         "name": "Mohd Ariff Admon",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Mathematical Modeling, Mathematical Medicine, Free Boundary Problems, Fluid Mechanics & Heat Transfer.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/ariffadmon/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -380994,10 +381488,10 @@
       "school": "utm",
       "record": {
         "name": "Mohd Rashid Admon",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Computational mathematics, Artificial neural networks, Fractional differential equations.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/ariffadmon/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381010,10 +381504,10 @@
       "school": "utm",
       "record": {
         "name": "Muhamad Najib Zakaria",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Fluid Dynamics, Fluid Mechanics & Heat Transfer, Linear & Nonlinear Waves .",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/mnajibz/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381026,10 +381520,10 @@
       "school": "utm",
       "record": {
         "name": "Muhammad Fauzee Hamdan",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Functional Data Analysis.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/fauzeehamdan/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381043,9 +381537,9 @@
       "record": {
         "name": "Muhammad Hisyam Lee",
         "title": "Professor (Retired)",
-        "research": "",
+        "research": "Statistical Modeling, Wireless Communication and Technologies, Mobile Computing, Terrestrial Gamma Radiation Analysis.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/mhl/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381058,10 +381552,10 @@
       "school": "utm",
       "record": {
         "name": "Nik Amir Syafiq Nik Mazlan",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Computational Mathematics, Parallel Computing, Fractional Differential Equations and Numerical Analysis",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/nikamirsyafiq/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381074,10 +381568,10 @@
       "school": "utm",
       "record": {
         "name": "Noorehan Yaacob",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Applied and Computational Mathematics; Mathematical Biology; Level Set Methods; and Numerical Methods.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/noorehan/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381090,10 +381584,10 @@
       "school": "utm",
       "record": {
         "name": "Noraihan Afiqah Rawi",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Fluid Mechanics, Boundary Layer Problem, Heat and Mass Transfer.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/noraihanafiqah/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381106,10 +381600,10 @@
       "school": "utm",
       "record": {
         "name": "Noraslinda Mohamed Ismail",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Survival Analysis, Statistics Multivariate.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/noraslinda/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381122,10 +381616,10 @@
       "school": "utm",
       "record": {
         "name": "Norazlina Ismail",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Rainfall Modelling.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/norazlina/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381139,9 +381633,9 @@
       "record": {
         "name": "Norhaiza Ahmad",
         "title": "Associate Professor",
-        "research": "",
+        "research": "Multivariate Statistics, Hydroinformatics, Bioinformatics.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/norhaiza/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381155,9 +381649,9 @@
       "record": {
         "name": "Nor Haniza Sarmin",
         "title": "Professor",
-        "research": "",
+        "research": "Group Theory and its Applications, Formal Language Theory and its Application in DNA Computing, Splicing Systems on DNA Molecules.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/nizasarmin/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381171,9 +381665,9 @@
       "record": {
         "name": "Norma Alias",
         "title": "Associate Professor",
-        "research": "",
+        "research": "Industrial Computer, Numerical Computation, Scientific Computing & High Performance Computing on Distributed Parallel Computer Systems.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/norma/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381187,9 +381681,9 @@
       "record": {
         "name": "Normah Maan",
         "title": "Professor",
-        "research": "",
+        "research": "Mathematical Modeling, Delay Differential Equation, Fuzzy set Theory.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/normahmaan/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381203,9 +381697,9 @@
       "record": {
         "name": "Nor Muhainiah Mohd Ali",
         "title": "Associate Professor",
-        "research": "",
+        "research": "Capability and Homological Functors of Groups, Probability Group Theory with Their Graphs, Formal Language Theory & DNA.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/normuhainiah/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381218,10 +381712,10 @@
       "school": "utm",
       "record": {
         "name": "Norsyahida Zulkifli",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Fuzzy Set Theory, Decision Science, Applied Mathematics.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/norsyahida.zulkifli/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381234,10 +381728,10 @@
       "school": "utm",
       "record": {
         "name": "Nur Arina Bazilah Aziz",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Inventory Routing Problems, Queuing Systems.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/nurarina/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381250,10 +381744,10 @@
       "school": "utm",
       "record": {
         "name": "Nur Arina Bazilah Kamisan",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Time Series Analysis, Missing Values and Directional Statistics .",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/nurarinabazilah/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381266,10 +381760,10 @@
       "school": "utm",
       "record": {
         "name": "Nur Syarafina Mohamed",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Optimization.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/nursyarafina/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381282,10 +381776,10 @@
       "school": "utm",
       "record": {
         "name": "Nur Syazwin Mansor",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Multivariate Statistics, Time Series Clustering, Demographic analysis, Big Data Analytics",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/nursyazwin/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381298,10 +381792,10 @@
       "school": "utm",
       "record": {
         "name": "Nurul Aini Jaafar",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Mathematical Modeling, Applied Fluid Mechanics, Applied Fluid Dynamics, Biomechanics, Blood Flow, Newtonian Fluid & Non-Newtonian Fluid of Blood Flow.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/nurulainijaafar/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381314,10 +381808,10 @@
       "school": "utm",
       "record": {
         "name": "Rahimah Mahat",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Fluid Mechanics, Boundary Layer Problems, Numerical Analysis, Computational Fluid Dynamics",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/rahimahmahat/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381330,10 +381824,10 @@
       "school": "utm",
       "record": {
         "name": "Rahmah Mohd Lokoman",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Statistical Modelling, Multivariate Statistics, Applied Statistics (Hydrology)",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/rahmahlokoman/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381347,9 +381841,9 @@
       "record": {
         "name": "Sharidan Shafie",
         "title": "Professor",
-        "research": "",
+        "research": "Mathematical Modelling of Boundary Layer Flows, Heat and Mass Transfer.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/sharidan/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381363,9 +381857,9 @@
       "record": {
         "name": "Shariffah Suhaila Syed Jamaludin",
         "title": "Associate Professor",
-        "research": "",
+        "research": "Hydrological Statistics; Functional Data Analysis; Statistical Modeling (Climate and Disease Data).",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/shariffah/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381378,10 +381872,10 @@
       "school": "utm",
       "record": {
         "name": "Shaymaa M.H. Darwish",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Groundwater modelling, Environmental modelling, Fluid Flow.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/shaymaa/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381394,10 +381888,10 @@
       "school": "utm",
       "record": {
         "name": "Shazirawati Mohd Puzi",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Wireless Sensor Networks (Neighborhood Discovery), Numerical PDEs.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/shaymaa/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381410,10 +381904,10 @@
       "school": "utm",
       "record": {
         "name": "Siti Mariam Norrulashikin",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Time Series Analysis, Statistical Analysis.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/sitimariam/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381426,10 +381920,10 @@
       "school": "utm",
       "record": {
         "name": "Siti Rohani Mohd Nor",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Applied Statistics (Mortality) .",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/sitirohani/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381442,10 +381936,10 @@
       "school": "utm",
       "record": {
         "name": "Suzarina Ahmad Sukri",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Numerical Computational and Analysis .",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/suzarina/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381458,10 +381952,10 @@
       "school": "utm",
       "record": {
         "name": "Taufiq Khairi Ahmad Khairuddin",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Applied Mathematics, Industrial Mathematics. .",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/taufiq/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381474,10 +381968,10 @@
       "school": "utm",
       "record": {
         "name": "Wan Rohaizad Wan Ibrahim",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Network and Path Problem, Numerical and Simulation. .",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/wanrohaizad/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381490,10 +381984,10 @@
       "school": "utm",
       "record": {
         "name": "Wan Rukaida Wan Abdullah",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Mathematical Modelling of Boundary Layer Flow, Heat & Mass Transfer, Nanofluids. .",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/wanrukaida/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381507,9 +382001,9 @@
       "record": {
         "name": "Yeak Su Hoe",
         "title": "Associate Professor",
-        "research": "",
+        "research": "Molecular modeling, computational quantum mechanic simulation.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/yeaksuhoe/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381523,9 +382017,9 @@
       "record": {
         "name": "Zainal Abdul Aziz",
         "title": "Professor (Retired)",
-        "research": "",
+        "research": "Functional Integrals in Mathematical Physics, Non Linear Waves, Engineering & Industrial Mathematics, Mechanics & Environmental-Based Modelling Techniques & Problems.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/zainal/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381538,10 +382032,10 @@
       "school": "utm",
       "record": {
         "name": "Zaiton Mat Isa",
-        "title": "",
-        "research": "",
+        "title": "Senior Lecturer",
+        "research": "Applied Mathematics, Gas flow in porous medium, Transport by diffusion and advection .",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/zaitonmatisa/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381555,9 +382049,9 @@
       "record": {
         "name": "Zaitul Marlizawati Zainuddin",
         "title": "Associate Professor",
-        "research": "",
+        "research": "Optimization, Heuristic Methods.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/zaitul/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381571,9 +382065,9 @@
       "record": {
         "name": "Zarina Mohd Khalid",
         "title": "Associate Professor",
-        "research": "",
+        "research": "Survival Modelling, Longitudinal Data Analysis, Missing Data, Bayesian Analysis, Robust Regression.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/zarinamkhalid/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -381587,9 +382081,9 @@
       "record": {
         "name": "Zuhaila Ismail",
         "title": "Associate Professor",
-        "research": "",
+        "research": "Numerical Methods and Computational, Fluid & Solid Mechanics.",
         "profile": "",
-        "homepage": "",
+        "homepage": "https://people.utm.my/zuhaila/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://science.utm.my/mathematics/people/",
@@ -436279,19 +436773,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://sns.nust.edu.pk/faculty/tooba-siddiqui",
-      "cache_id": "profile-6d7f2e76b1bfc960",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "https://sns.nust.edu.pk/faculty/tooba-siddiqui/#pills-research",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://staff.fnwi.uva.nl/l.d.j.taelman/",
       "cache_id": "profile-f8213ec40f017530",
       "status": "parsed",
@@ -488335,6 +488816,38 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
     },
+    "azad-akhter-siddiqui": {
+      "status": "review_ready",
+      "author_id": "A5054230164",
+      "papers": [
+        {
+          "title": "Constant Mean Curvature Slices for the Schwarzschild-anti-de Sitter Spacetime",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/S10773-024-05819-0"
+        },
+        {
+          "title": "K slicing the Schwarzschild and the Reissner–Nordstrom spacetimes",
+          "year": 1999,
+          "url": "https://doi.org/10.1063/1.533060"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5054230164",
+        "orcid": "https://orcid.org/0000-0001-8693-5787",
+        "url": "https://openalex.org/authors/A5054230164",
+        "authorApiUrl": "https://api.openalex.org/authors/A5054230164",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5054230164,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 38,
+        "works": 49,
+        "citations": 514,
+        "hIndex": 11,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "azeb-zain-alghanemi": {
       "status": "review_ready",
       "author_id": "A5053613182",
@@ -489397,6 +489910,38 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
     },
+    "davide-batic": {
+      "status": "review_ready",
+      "author_id": "A5057896634",
+      "papers": [
+        {
+          "title": "An exact Kerr-like rotating Morris–Thorne wormhole: Throat, ergoregion and equatorial shadow slice",
+          "year": 2026,
+          "url": "https://doi.org/10.1016/j.aop.2026.170718"
+        },
+        {
+          "title": "Quasinormal modes in noncommutative Schwarzschild black holes: a spectral analysis",
+          "year": 2024,
+          "url": "https://doi.org/10.1140/epjc/s10052-024-12981-6"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5057896634",
+        "orcid": "https://orcid.org/0000-0002-7619-4900",
+        "url": "https://openalex.org/authors/A5057896634",
+        "authorApiUrl": "https://api.openalex.org/authors/A5057896634",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5057896634,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 73,
+        "works": 82,
+        "citations": 985,
+        "hIndex": 19,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "deepam-patel": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
@@ -490310,6 +490855,38 @@
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5029789024"
+    },
+    "ibrar-hussain": {
+      "status": "review_ready",
+      "author_id": "A5067213908",
+      "papers": [
+        {
+          "title": "Curvature and Weyl collineations of Bianchi type V spacetimes",
+          "year": 2009,
+          "url": "https://doi.org/10.1016/j.geomphys.2009.07.008"
+        },
+        {
+          "title": "Noether symmetries and conserved quantities for spaces with a section of zero curvature",
+          "year": 2010,
+          "url": "https://doi.org/10.1016/j.geomphys.2010.11.015"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5067213908",
+        "orcid": "https://orcid.org/0000-0003-0733-900X",
+        "url": "https://openalex.org/authors/A5067213908",
+        "authorApiUrl": "https://api.openalex.org/authors/A5067213908",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5067213908,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 81,
+        "works": 91,
+        "citations": 1817,
+        "hIndex": 25,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "ignasi-mundet-i-riera": {
       "status": "identity_review",
@@ -494945,6 +495522,43 @@
         "works": 33,
         "citations": 548,
         "hIndex": 14,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "tooba-siddiqui": {
+      "status": "review_ready",
+      "author_id": "A5054183610",
+      "papers": [
+        {
+          "title": "Complete Classification of Cylindrically Symmetric Static Spacetimes and the Corresponding Conservation Laws",
+          "year": 2016,
+          "url": "https://doi.org/10.3390/math4030050"
+        },
+        {
+          "title": "Complete classification of spherically symmetric static space-times via Noether symmetries",
+          "year": 2015,
+          "url": "https://doi.org/10.1007/S11232-015-0310-2"
+        },
+        {
+          "title": "Noether symmetries and conserved quantities for spaces with a section of zero curvature",
+          "year": 2010,
+          "url": "https://doi.org/10.1016/j.geomphys.2010.11.015"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5054183610",
+        "orcid": "https://orcid.org/0000-0002-2456-6418",
+        "url": "https://openalex.org/authors/A5054183610",
+        "authorApiUrl": "https://api.openalex.org/authors/A5054183610",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5054183610,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 50,
+        "works": 57,
+        "citations": 736,
+        "hIndex": 13,
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
       }
