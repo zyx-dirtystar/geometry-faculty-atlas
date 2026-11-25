@@ -73034,7 +73034,7 @@
       }
     ],
     "checkedAt": "2026-11-25",
-    "scope": "德语官网可读版本的当前教授 14、访问教授 3、荣休及 titular 分栏 9 位。该版本含 Christoph Kehle。交叉校级研究学校和工作组，通用研究人员入口仍须核对。"
+    "scope": "德语官网可读版本的当前教授 14、访问教授 3、荣休及 titular 分栏 9 位。该版本含 Christoph Kehle。交叉校级研究学校和工作组，通用研究人员入口仍须核对。 后续重读返回访问验证页，保留上一份可读名单；现任、分类冲突与新补证均见具名档案。"
   },
   "anu-applied-b33": {
     "url": "https://maths.anu.edu.au/research/research-areas/applied-computational-mathematics",
@@ -80569,6 +80569,134 @@
       {
         "name": "Mayuko Yamashita",
         "title": "Adjunct Assistant Professor of Pure Mathematics"
+      }
+    ]
+  },
+  "uzh-staff-current31": {
+    "url": "https://www.math.uzh.ch/en/members/",
+    "checkedAt": "2026-11-25",
+    "scope": "2026-11-25 返回访问验证页，未取得具名名册。HTML 状态 200，内容为验证页。",
+    "entries": []
+  },
+  "uzh-guests-current31": {
+    "url": "https://www.math.uzh.ch/en/guests/",
+    "checkedAt": "2026-11-25",
+    "scope": "2026-11-25 返回访问验证页，未取得具名名册。HTML 状态 200，内容为验证页。",
+    "entries": []
+  },
+  "uzh-members-type0-b33": {
+    "url": "https://www.math.uzh.ch/mitglieder?type=0",
+    "checkedAt": "2026-11-25",
+    "scope": "2026-11-25 返回访问验证页，未取得具名名册。HTML 状态 200，内容为验证页。",
+    "entries": []
+  },
+  "zurich-cattaneo-group": {
+    "url": "https://www.math.uzh.ch/cattaneogroup/members",
+    "checkedAt": "2026-11-25",
+    "scope": "核对具名教授和五位任职需区分的成员。已对照教学项目、外校现任和博士档案区分历史职位。仍有小组任职待核。",
+    "entries": [
+      {
+        "name": "Alberto S. Cattaneo",
+        "title": "Full Professor of Mathematics",
+        "profile": "https://www.math.uzh.ch/cattaneogroup/members",
+        "research": "Differential geometry; symplectic and Poisson geometry; mathematical physics and deformation quantization"
+      },
+      {
+        "name": "Giovanni Canepa",
+        "title": "Former Doctoral Researcher at UZH",
+        "profile": "https://www.math.uzh.ch/cattaneogroup/members",
+        "research": "Differential geometry of mathematical general relativity and geometric field theory"
+      },
+      {
+        "name": "Artem Kalmykov",
+        "title": "Former Doctoral Researcher at UZH",
+        "profile": "https://www.math.uzh.ch/cattaneogroup/members",
+        "research": "Algebraic representation theory; quantization, categorical and geometric methods"
+      },
+      {
+        "name": "Konstantin Wernli",
+        "title": "Former Doctoral Researcher at UZH",
+        "profile": "https://www.math.uzh.ch/cattaneogroup/members",
+        "research": "Symplectic geometry and mathematical physics; quantum gauge theories"
+      },
+      {
+        "name": "Jonathan Lorand",
+        "title": "Former Doctoral Researcher at UZH",
+        "profile": "https://www.math.uzh.ch/cattaneogroup/members",
+        "research": "Symplectic geometry and representation theory"
+      },
+      {
+        "name": "Nima Moshayedi",
+        "title": "Privatdozent / Teaching and project lead",
+        "profile": "https://ulf.uzh.ch/de/vergangene-Projekte/oi2026_1.html",
+        "research": "Differential geometry; Poisson geometry and deformation quantization in mathematical physics"
+      }
+    ]
+  },
+  "uzh-applied-math-b33": {
+    "url": "https://www.math.uzh.ch/aa/members",
+    "checkedAt": "2026-11-25",
+    "scope": "校属可读页为应用代数组。核对组长、3 位高级组员和 6 位博士生，另有行政和 Alumni 分栏。",
+    "entries": [
+      {
+        "name": "Joachim Rosenthal",
+        "title": "Professor and Group Head"
+      },
+      {
+        "name": "Daniella Bar-Lev",
+        "title": "Senior Member"
+      },
+      {
+        "name": "Anina Gruica",
+        "title": "Senior Member"
+      },
+      {
+        "name": "Flavio Salizzoni",
+        "title": "Senior Member"
+      },
+      {
+        "name": "Giacomo Borin",
+        "title": "PhD Student"
+      },
+      {
+        "name": "Abhinaba Mazumder",
+        "title": "PhD Student"
+      },
+      {
+        "name": "Michael Schaller",
+        "title": "PhD Student"
+      },
+      {
+        "name": "Silvia Sconza",
+        "title": "PhD Student"
+      },
+      {
+        "name": "Abigail Sutton",
+        "title": "PhD Student"
+      },
+      {
+        "name": "Beatrice Toesca di Castellazzo",
+        "title": "PhD Student"
+      }
+    ]
+  },
+  "uzh-swissmap-cattaneo26": {
+    "url": "https://www.nccr-swissmap.ch/members/profile/view/27",
+    "checkedAt": "2026-11-25",
+    "scope": "交叉核对 NCCR SwissMAP 任职、单位及几何方向。全网络包含不同机构，归属看具名校职。",
+    "entries": [
+      {
+        "name": "Alberto S. Cattaneo"
+      }
+    ]
+  },
+  "uzh-burrin-current26": {
+    "url": "https://user.math.uzh.ch/burrin/",
+    "checkedAt": "2026-11-25",
+    "scope": "校属个人主页与组页可读。本人列 UZH 现任 Assistant Professor，研究为数论与动力的几何交叉。",
+    "entries": [
+      {
+        "name": "Claire Burrin"
       }
     ]
   }

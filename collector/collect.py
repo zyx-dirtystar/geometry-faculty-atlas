@@ -190,6 +190,8 @@ def read_snapshot(source_id):
     except etree.ParserError:
         return meta, None
     title = " ".join(document.xpath("string(/html/head/title)").split()).casefold()
+    if title == "making sure you're not a bot!" and document.xpath("//*[@id='anubis_challenge']"):
+        return {**meta, "error":"Access denied: public directory returned an Anubis verification page."}, None
     if title in {"request rejected", "access denied", "just a moment...", "attention required! | cloudflare"}:
         return {**meta, "error":"Access denied by the source website."}, None
     return meta, document

@@ -2719,11 +2719,15 @@
     {
       "id": "zurich",
       "coverage": "sample",
-      "coverageNote": "已解析 2/6 个登记来源，0 条任职或方向待核。 已收录 4 位学者，个人主页 4、CV 2、指标 1。 德语官网还原分栏：14 位现任教授、3 位访问教授、9 位荣休和 titular。匹配 Alberto S. Cattaneo 组及 ETH/UZH 联合数学研究生院，区分成员主聘。官方通用人员及长访名录在访问时返回空表壳，继续核对其他学校和研究所入口。",
+      "coverageNote": "已解析 2/8 个登记来源，1 条任职或方向待核。 已收录 4 位学者，个人主页 4、CV 3、指标 4。 上轮从校方可读快照登记 14 位现任、3 位访问及 9 位荣休或 titular。2026-11-25 重查教授总表、英德人员入口、访客入口均返回 Anubis 验证页，保留前次可读证据。替代来源涵盖本人的学校主页、Cattaneo 组、应用代数组、SwissMAP 具名档案、ZGSM 和任命公告。Christoph Kehle 的 UZH 主职及 MIT 在编休假已核，原误作 MIT 离任已更正。Nima Moshayedi 的校方教学项目与 PD 身份已查，仍缺现任科研聘用类型。研究站其余人员及访客覆盖仍待官方替代入口补核。",
       "rosterLinks": [
         [
-          "Applied Analysis · members",
+          "Applied Algebra Group · members",
           "https://www.math.uzh.ch/aa/members"
+        ],
+        [
+          "Number Theory and Dynamics · Claire Burrin group",
+          "https://user.math.uzh.ch/burrin/"
         ],
         [
           "Institute of Mathematics · guest listing",
@@ -2736,6 +2740,10 @@
         [
           "Institute of Mathematics · Members (academic personnel)",
           "https://www.math.uzh.ch/en/members/"
+        ],
+        [
+          "SwissMAP · UZH Cattaneo profile",
+          "https://www.nccr-swissmap.ch/members/profile/view/27"
         ],
         [
           "Institute of Mathematics · Mathematical Physics Group",
@@ -68257,8 +68265,8 @@
         {
           "schoolId": "zurich",
           "department": "数学系",
-          "title": "Professor",
-          "url": "https://www.math.uzh.ch/professuren?type=0",
+          "title": "Full Professor of Mathematics",
+          "url": "https://www.math.uzh.ch/cattaneogroup/members",
           "type": "primary",
           "checkedAt": "2026-11-25"
         }
@@ -68267,33 +68275,57 @@
         "differential"
       ],
       "tags": [
-        "Mathematical physics",
-        "On the arXiv"
+        "Differential geometry",
+        "symplectic and Poisson geometry",
+        "mathematical physics and deformation quantization"
       ],
-      "homepage": "https://www.math.uzh.ch/member/cattaneo",
+      "homepage": "https://user.math.uzh.ch/cattaneo/",
       "homepageStatus": null,
       "cvUrl": "https://user.math.uzh.ch/cattaneo/curr.pdf",
-      "cvType": null,
+      "cvType": "公开学术 CV（含研究与发表）",
       "cvStatus": null,
-      "publicationsUrl": null,
+      "publicationsUrl": "https://user.math.uzh.ch/cattaneo/allpub.pdf",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5062981324",
-      "papers": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5062981324",
+          "url": "https://openalex.org/authors/A5062981324",
+          "orcid": "https://orcid.org/0000-0001-5775-758X",
+          "authorApiUrl": "https://api.openalex.org/authors/A5062981324",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5062981324,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 74,
+          "works": 150,
+          "citations": 2483,
+          "hIndex": 25,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5062981324",
+      "papers": [
+        {
+          "title": "Relative formality theorem and quantisation of coisotropic submanifolds",
+          "year": 2006,
+          "url": "https://doi.org/10.1016/j.aim.2006.03.010"
+        },
+        {
+          "title": "Perturbative Quantum Gauge Theories on Manifolds with Boundary",
+          "year": 2017,
+          "url": "https://doi.org/10.1007/s00220-017-3031-6"
+        }
+      ],
       "directoryEvidence": [
         {
-          "text": "Mathematical physics",
-          "url": "https://www.math.uzh.ch/professuren?type=0"
+          "text": "Differential geometry; symplectic and Poisson geometry; mathematical physics and deformation quantization",
+          "url": "https://www.nccr-swissmap.ch/members/profile/view/27"
         },
         {
-          "text": "My fields of interest are in mathematical physics, differential geometry and algebraic topology. In particular, my research activity includes deformation quantization, symplectic and Poisson geometry, topological quantum field theories, and the mathematical aspects of perturbative quantization of gauge theories. On the arXiv.",
-          "url": "https://www.math.uzh.ch/cattaneogroup/members"
-        },
-        {
-          "text": "Differential geometry, mathematical physics and algebraic topology",
-          "url": "https://www.math.uzh.ch/cattaneogroup/members"
+          "text": "个人研究或论文来源",
+          "url": "https://user.math.uzh.ch/cattaneo/allpub.pdf"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -68307,7 +68339,7 @@
         {
           "schoolId": "zurich",
           "department": "数学系",
-          "title": "Professor of Mathematics",
+          "title": "Full Professor of Mathematics",
           "url": "https://www.math.uzh.ch/professuren?type=0",
           "type": "primary",
           "checkedAt": "2026-11-25"
@@ -68316,30 +68348,54 @@
       "fields": [
         "algebraic"
       ],
-      "tags": [
-        "Algebraic geometry",
-        "Algebraic geometry, algebraic stacks and intersection theory"
-      ],
-      "homepage": "https://www.math.uzh.ch/member/kresch/publications",
+      "tags": [],
+      "homepage": "https://user.math.uzh.ch/kresch/",
       "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "https://www.math.uzh.ch/member/kresch/publications",
+      "cvUrl": "https://www.ae-info.org/ae/Member/Kresch_Andrew/CV",
+      "cvType": "公开网页简版 CV（Academia Europaea）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.ae-info.org/ae/Member/Kresch_Andrew/Publications",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
         {
-          "text": "Algebraic geometry",
-          "url": "https://www.math.uzh.ch/professuren?type=0"
+          "source": "OpenAlex",
+          "authorId": "A5071870056",
+          "url": "https://openalex.org/authors/A5071870056",
+          "orcid": null,
+          "authorApiUrl": "https://api.openalex.org/authors/A5071870056",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5071870056,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 64,
+          "works": 94,
+          "citations": 2146,
+          "hIndex": 24,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5071870056",
+      "papers": [
+        {
+          "title": "Cycle groups for Artin stacks",
+          "year": 1999,
+          "url": "https://doi.org/10.1007/s002220050351"
         },
         {
-          "text": "Algebraic geometry, algebraic stacks and intersection theory",
-          "url": "https://www.math.uzh.ch/member/kresch/publications"
+          "title": "Brauer groups and quotient stacks",
+          "year": 2001,
+          "url": "https://doi.org/10.1353/ajm.2001.0024"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, algebraic stacks, intersection theory and enumerative geometry",
+          "url": "https://www.ae-info.org/ae/Member/Kresch_Andrew"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.ae-info.org/ae/Member/Kresch_Andrew/Publications"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -68354,7 +68410,7 @@
           "schoolId": "zurich",
           "department": "数学系",
           "title": "Associate Professor for Analysis",
-          "url": "https://uzh.ch/en/explore/management/professorships/calls/calls-2024/calls-240826.html",
+          "url": "https://uzh.ch/de/explore/management/professorships/calls/calls-2024/calls-240826.html",
           "type": "primary",
           "checkedAt": "2026-11-25"
         }
@@ -68362,9 +68418,7 @@
       "fields": [
         "differential"
       ],
-      "tags": [
-        "Analysis, PDE and general relativity"
-      ],
+      "tags": [],
       "homepage": "https://www.math.uzh.ch/user/kehle/",
       "homepageStatus": null,
       "cvUrl": "https://www.math.uzh.ch/user/kehle/cv.html",
@@ -68378,8 +68432,8 @@
         {
           "source": "OpenAlex",
           "authorId": "A5013805681",
-          "orcid": "https://orcid.org/0000-0002-8581-6935",
           "url": "https://openalex.org/authors/A5013805681",
+          "orcid": "https://orcid.org/0000-0002-8581-6935",
           "authorApiUrl": "https://api.openalex.org/authors/A5013805681",
           "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5013805681,type:article&per_page=1&select=id",
           "checkedAt": "2026-11-25",
@@ -68391,8 +68445,18 @@
           "citationScope": "OpenAlex 作者档案累计引用"
         }
       ],
-      "identityUrl": null,
+      "identityUrl": "https://openalex.org/authors/A5013805681",
       "papers": [
+        {
+          "title": "Gravitational collapse to extremal black holes and the third law of black hole thermodynamics",
+          "year": 2025,
+          "url": "https://doi.org/10.4171/jems/1591"
+        },
+        {
+          "title": "Strong cosmic censorship in the presence of matter: the decisive effect of horizon oscillations on the black hole interior geometry",
+          "year": 2024,
+          "url": "https://doi.org/10.2140/apde.2024.17.1501"
+        },
         {
           "title": "Nonlinear stability of extremal Reissner–Nordström black holes in spherical symmetry",
           "year": 2026,
@@ -68406,11 +68470,7 @@
       ],
       "directoryEvidence": [
         {
-          "text": "Analysis, PDE and general relativity",
-          "url": "https://www.math.uzh.ch/professuren?type=0"
-        },
-        {
-          "text": "Lorentzian differential geometry, negative Gauss curvature, mathematical general relativity and Einstein equations",
+          "text": "Lorentzian differential geometry, curvature and Einstein equations in mathematical general relativity",
           "url": "https://www.math.uzh.ch/user/kehle/research.html"
         },
         {
@@ -68439,29 +68499,55 @@
         "algebraic"
       ],
       "tags": [
-        "Algebraic geometry",
-        "Algebraic geometry, motives and motivic homotopy theory"
+        "Algebraic geometry"
       ],
-      "homepage": "https://www.math.uzh.ch/member/ayoub/publications",
+      "homepage": "https://www.math.uzh.ch/user/ayoub/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "https://www.math.uzh.ch/member/ayoub/publications",
+      "cvStatus": "院系人物页返回访问验证，已读本人主页的预印本与出版列表及 LMU CAS 具名履历，未找到单独公开 CV。",
+      "publicationsUrl": "https://www.math.uzh.ch/user/ayoub/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
         {
-          "text": "Algebraic geometry",
-          "url": "https://www.math.uzh.ch/professuren?type=0"
+          "source": "OpenAlex",
+          "authorId": "A5060128574",
+          "url": "https://openalex.org/authors/A5060128574",
+          "orcid": "https://orcid.org/0009-0009-3973-6828",
+          "authorApiUrl": "https://api.openalex.org/authors/A5060128574",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5060128574,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 26,
+          "works": 40,
+          "citations": 1151,
+          "hIndex": 18,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5060128574",
+      "papers": [
+        {
+          "title": "La réalisation étale et les opérations de Grothendieck",
+          "year": 2014,
+          "url": "https://doi.org/10.24033/asens.2210"
         },
         {
-          "text": "Algebraic geometry, motives and motivic homotopy theory",
-          "url": "https://www.math.uzh.ch/member/ayoub/publications"
+          "title": "Note sur les opérations de Grothendieck et la réalisation de Betti",
+          "year": 2009,
+          "url": "https://doi.org/10.1017/s1474748009000127"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry; motivic homotopy theory, motivic Galois groups and rigid analytic motives",
+          "url": "https://www.math.uzh.ch/user/ayoub/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.uzh.ch/user/ayoub/"
         }
       ],
       "checkedAt": "2026-11-25",

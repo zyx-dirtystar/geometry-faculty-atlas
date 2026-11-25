@@ -12975,11 +12975,21 @@
       "id": "uzh-applied-math-b33",
       "school": "zurich",
       "url": "https://www.math.uzh.ch/aa/members",
-      "label": "Applied Analysis · members",
+      "label": "Applied Algebra Group · members",
       "status": "reference",
-      "count": 0,
-      "checked_at": null,
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "count": 10,
+      "checked_at": "2026-11-25",
+      "note": "校属可读页为应用代数组。核对组长、3 位高级组员和 6 位博士生，另有行政和 Alumni 分栏。"
+    },
+    {
+      "id": "uzh-burrin-current26",
+      "school": "zurich",
+      "url": "https://user.math.uzh.ch/burrin/",
+      "label": "Number Theory and Dynamics · Claire Burrin group",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-25",
+      "note": "校属个人主页与组页可读。本人列 UZH 现任 Assistant Professor，研究为数论与动力的几何交叉。"
     },
     {
       "id": "uzh-guests-current31",
@@ -12988,8 +12998,8 @@
       "label": "Institute of Mathematics · guest listing",
       "status": "reference",
       "count": 0,
-      "checked_at": null,
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "checked_at": "2026-11-25",
+      "note": "2026-11-25 返回访问验证页，未取得具名名册。HTML 状态 200，内容为验证页。"
     },
     {
       "id": "uzh-members-type0-b33",
@@ -12998,8 +13008,8 @@
       "label": "Institute of Mathematics · German member listing",
       "status": "reference",
       "count": 0,
-      "checked_at": null,
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "checked_at": "2026-11-25",
+      "note": "2026-11-25 返回访问验证页，未取得具名名册。HTML 状态 200，内容为验证页。"
     },
     {
       "id": "uzh-staff-current31",
@@ -13008,8 +13018,18 @@
       "label": "Institute of Mathematics · Members (academic personnel)",
       "status": "reference",
       "count": 0,
-      "checked_at": null,
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "checked_at": "2026-11-25",
+      "note": "2026-11-25 返回访问验证页，未取得具名名册。HTML 状态 200，内容为验证页。"
+    },
+    {
+      "id": "uzh-swissmap-cattaneo26",
+      "school": "zurich",
+      "url": "https://www.nccr-swissmap.ch/members/profile/view/27",
+      "label": "SwissMAP · UZH Cattaneo profile",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-25",
+      "note": "交叉核对 NCCR SwissMAP 任职、单位及几何方向。全网络包含不同机构，归属看具名校职。"
     },
     {
       "id": "vienna-algebra",
@@ -13917,9 +13937,9 @@
       "url": "https://www.math.uzh.ch/cattaneogroup/members",
       "label": "Institute of Mathematics · Mathematical Physics Group",
       "status": "parsed",
-      "count": 1,
-      "checked_at": "2026-11-23",
-      "note": ""
+      "count": 6,
+      "checked_at": "2026-11-25",
+      "note": "核对具名教授和五位任职需区分的成员。已对照教学项目、外校现任和博士档案区分历史职位。仍有小组任职待核。"
     },
     {
       "id": "zurich-faculty",
@@ -13929,7 +13949,7 @@
       "status": "parsed",
       "count": 26,
       "checked_at": "2026-11-25",
-      "note": "德语官网可读版本的当前教授 14、访问教授 3、荣休及 titular 分栏 9 位。该版本含 Christoph Kehle。交叉校级研究学校和工作组，通用研究人员入口仍须核对。"
+      "note": "德语官网可读版本的当前教授 14、访问教授 3、荣休及 titular 分栏 9 位。该版本含 Christoph Kehle。交叉校级研究学校和工作组，通用研究人员入口仍须核对。 后续重读返回访问验证页，保留上一份可读名单；现任、分类冲突与新补证均见具名档案。"
     }
   ],
   "sightings": [
@@ -422696,14 +422716,94 @@
       "school": "zurich",
       "record": {
         "name": "Alberto S. Cattaneo",
-        "title": "Professor",
-        "research": "My fields of interest are in mathematical physics, differential geometry and algebraic topology. In particular, my research activity includes deformation quantization, symplectic and Poisson geometry, topological quantum field theories, and the mathematical aspects of perturbative quantization of gauge theories. On the arXiv.",
-        "profile": "",
+        "title": "Full Professor of Mathematics",
+        "research": "Differential geometry; symplectic and Poisson geometry; mathematical physics and deformation quantization",
+        "profile": "https://www.math.uzh.ch/cattaneogroup/members",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.math.uzh.ch/cattaneogroup/members",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "zurich-cattaneo-group",
+      "person_key": "artemkalmykov",
+      "school": "zurich",
+      "record": {
+        "name": "Artem Kalmykov",
+        "title": "Former Doctoral Researcher at UZH",
+        "research": "Algebraic representation theory; quantization, categorical and geometric methods",
+        "profile": "https://www.math.uzh.ch/cattaneogroup/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.uzh.ch/cattaneogroup/members",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "zurich-cattaneo-group",
+      "person_key": "giovannicanepa",
+      "school": "zurich",
+      "record": {
+        "name": "Giovanni Canepa",
+        "title": "Former Doctoral Researcher at UZH",
+        "research": "Differential geometry of mathematical general relativity and geometric field theory",
+        "profile": "https://www.math.uzh.ch/cattaneogroup/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.uzh.ch/cattaneogroup/members",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "zurich-cattaneo-group",
+      "person_key": "jonathanlorand",
+      "school": "zurich",
+      "record": {
+        "name": "Jonathan Lorand",
+        "title": "Former Doctoral Researcher at UZH",
+        "research": "Symplectic geometry and representation theory",
+        "profile": "https://www.math.uzh.ch/cattaneogroup/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.uzh.ch/cattaneogroup/members",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "zurich-cattaneo-group",
+      "person_key": "konstantinwernli",
+      "school": "zurich",
+      "record": {
+        "name": "Konstantin Wernli",
+        "title": "Former Doctoral Researcher at UZH",
+        "research": "Symplectic geometry and mathematical physics; quantum gauge theories",
+        "profile": "https://www.math.uzh.ch/cattaneogroup/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.uzh.ch/cattaneogroup/members",
+        "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "zurich-cattaneo-group",
+      "person_key": "nimamoshayedi",
+      "school": "zurich",
+      "record": {
+        "name": "Nima Moshayedi",
+        "title": "Privatdozent / Teaching and project lead",
+        "research": "Differential geometry; Poisson geometry and deformation quantization in mathematical physics",
+        "profile": "https://ulf.uzh.ch/de/vergangene-Projekte/oi2026_1.html",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.math.uzh.ch/cattaneogroup/members",
+        "checked_at": "2026-11-25"
       }
     },
     {
@@ -454407,6 +454507,32 @@
       "checked_at": "2026-11-24"
     },
     {
+      "url": "https://user.math.uzh.ch/cattaneo/",
+      "cache_id": "profile-847b85446b07d856",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "http://www.math.uzh.ch/index.php?vita&no_cache=1&no_cache=1&key1=116&no_cache=1",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://user.math.uzh.ch/kresch/",
+      "cache_id": "profile-486a81c39acfff15",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
       "url": "https://users.cms.caltech.edu/~ps/",
       "cache_id": "profile-59e35f17665b8a5e",
       "status": "parsed",
@@ -460763,6 +460889,19 @@
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
+    },
+    {
+      "url": "https://www.ae-info.org/ae/Member/Kresch_Andrew/Publications",
+      "cache_id": "profile-f09cc5c7c03b68cd",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.ae-info.org/ae/Acad_Main/Activities/Environment_Sustainability/Publications",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
     },
     {
       "url": "https://www.agustin-moreno.com/",
@@ -487420,17 +487559,56 @@
       "checked_at": "2026-11-25"
     },
     {
-      "url": "https://www.math.uzh.ch/member/cattaneo",
-      "cache_id": "profile-085f054561f564cf",
+      "url": "https://www.math.uzh.ch/cattaneogroup/members",
+      "cache_id": "profile-dc79bd0aaa37af2b",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "https://www.math.uzh.ch/cattaneogroup/publications",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://www.math.uzh.ch/user/ayoub/",
+      "cache_id": "profile-3bc54902812caebd",
       "status": "parsed",
       "record": {
         "research": "",
         "homepage": "",
         "cv": "",
         "publications": "",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-25"
       },
-      "checked_at": "2026-11-23"
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://www.math.uzh.ch/user/kehle/",
+      "cache_id": "profile-dadf863369bdbda6",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
+    },
+    {
+      "url": "https://www.math.uzh.ch/user/kehle/research.html",
+      "cache_id": "profile-0c6ad834bb121bba",
+      "status": "parsed",
+      "record": {
+        "research": "Analysis, Partial Differential Equations, General Relativity",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-25"
+      },
+      "checked_at": "2026-11-25"
     },
     {
       "url": "https://www.math.wisc.edu/staff/abdalla-teixeira-pedro/",
@@ -508847,10 +509025,36 @@
       }
     },
     "alberto-s-cattaneo": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "checkedAt": "2026-11-23",
-      "candidate_url": "https://openalex.org/A5062981324"
+      "status": "review_ready",
+      "author_id": "A5062981324",
+      "papers": [
+        {
+          "title": "Relative formality theorem and quantisation of coisotropic submanifolds",
+          "year": 2006,
+          "url": "https://doi.org/10.1016/j.aim.2006.03.010"
+        },
+        {
+          "title": "Perturbative Quantum Gauge Theories on Manifolds with Boundary",
+          "year": 2017,
+          "url": "https://doi.org/10.1007/s00220-017-3031-6"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5062981324",
+        "url": "https://openalex.org/authors/A5062981324",
+        "orcid": "https://orcid.org/0000-0001-5775-758X",
+        "authorApiUrl": "https://api.openalex.org/authors/A5062981324",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5062981324,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 74,
+        "works": 150,
+        "citations": 2483,
+        "hIndex": 25,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "alejandra-ramirez-luna": {
       "status": "identity_review",
@@ -509392,6 +509596,38 @@
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5048159794"
+    },
+    "andrew-kresch": {
+      "status": "review_ready",
+      "author_id": "A5071870056",
+      "papers": [
+        {
+          "title": "Cycle groups for Artin stacks",
+          "year": 1999,
+          "url": "https://doi.org/10.1007/s002220050351"
+        },
+        {
+          "title": "Brauer groups and quotient stacks",
+          "year": 2001,
+          "url": "https://doi.org/10.1353/ajm.2001.0024"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5071870056",
+        "url": "https://openalex.org/authors/A5071870056",
+        "orcid": null,
+        "authorApiUrl": "https://api.openalex.org/authors/A5071870056",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5071870056,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 64,
+        "works": 94,
+        "citations": 2146,
+        "hIndex": 24,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "andrew-snowden": {
       "status": "identity_review",
@@ -510831,22 +511067,22 @@
       "author_id": "A5013805681",
       "papers": [
         {
-          "title": "Nonlinear stability of extremal Reissner–Nordström black holes in spherical symmetry",
-          "year": 2026,
-          "url": "https://doi.org/10.1017/FMP.2025.10017"
+          "title": "Gravitational collapse to extremal black holes and the third law of black hole thermodynamics",
+          "year": 2025,
+          "url": "https://doi.org/10.4171/jems/1591"
         },
         {
           "title": "Strong cosmic censorship in the presence of matter: the decisive effect of horizon oscillations on the black hole interior geometry",
           "year": 2024,
-          "url": "https://doi.org/10.2140/APDE.2024.17.1501"
+          "url": "https://doi.org/10.2140/apde.2024.17.1501"
         }
       ],
       "checkedAt": "2026-11-25",
       "snapshot": {
         "source": "OpenAlex",
         "authorId": "A5013805681",
-        "orcid": "https://orcid.org/0000-0002-8581-6935",
         "url": "https://openalex.org/authors/A5013805681",
+        "orcid": "https://orcid.org/0000-0002-8581-6935",
         "authorApiUrl": "https://api.openalex.org/authors/A5013805681",
         "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5013805681,type:article&per_page=1&select=id",
         "checkedAt": "2026-11-25",
@@ -513491,6 +513727,38 @@
         "works": 210,
         "citations": 2812,
         "hIndex": 28,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "joseph-ayoub": {
+      "status": "review_ready",
+      "author_id": "A5060128574",
+      "papers": [
+        {
+          "title": "La réalisation étale et les opérations de Grothendieck",
+          "year": 2014,
+          "url": "https://doi.org/10.24033/asens.2210"
+        },
+        {
+          "title": "Note sur les opérations de Grothendieck et la réalisation de Betti",
+          "year": 2009,
+          "url": "https://doi.org/10.1017/s1474748009000127"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5060128574",
+        "url": "https://openalex.org/authors/A5060128574",
+        "orcid": "https://orcid.org/0009-0009-3973-6828",
+        "authorApiUrl": "https://api.openalex.org/authors/A5060128574",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5060128574,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 26,
+        "works": 40,
+        "citations": 1151,
+        "hIndex": 18,
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
       }
