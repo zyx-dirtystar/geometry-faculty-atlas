@@ -324,7 +324,10 @@ def population(db):
         official_name = directory_profile.get("official_name", "")
         profile_matches = official_name and name_key(official_name) == name_key(group["name"])
         official_title = directory_profile.get("official_title", "") if profile_matches or group["school"] == "uab" else ""
-        group["title"] = review.get("title") or (active["title"] if active else official_title)
+        listed_title = active["title"] if active else ""
+        if official_title and group["school"] == "durham" and listed_title in {"Academic Faculty", "Academic Research Staff"}:
+            listed_title = official_title
+        group["title"] = review.get("title") or listed_title or official_title
         group["unit"] = review.get("unit") or (active.get("unit") if active else None)
         group["role"] = review.get("role") or split_role(group["title"], regions.get(group["school"]))
         group["affiliation_url"] = review.get("affiliation") or (active["profile"] or active["source_url"] if active else group["profile"] if official_title else "")

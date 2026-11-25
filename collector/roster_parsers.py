@@ -1654,6 +1654,12 @@ def profile_fields(document, base):
     official_title = ""
     official_name = ""
     target = urlparse(base)
+    if target.hostname in {"dur.ac.uk", "www.durham.ac.uk"} and re.fullmatch(r"/staff/[^/]+/?", target.path):
+        heading = main.xpath(".//h2[@class='h h2'][following-sibling::p[1]["
+                             + class_token("u-font-bold") + " and " + class_token("u-text-large") + "]]")
+        if len(heading) == 1:
+            official_name = untitled(contents(heading[0]))
+            official_title = text_at(heading[0], "following-sibling::p[1]")
     qmul_profile = (target.hostname == "www.qmul.ac.uk"
                     and re.fullmatch(r"/maths/profiles/[^/]+\.html", target.path))
     centre_profile = (target.hostname == "www.seresearch.qmul.ac.uk"
