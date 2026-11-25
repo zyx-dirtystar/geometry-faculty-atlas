@@ -5171,8 +5171,24 @@
     {
       "id": "durham",
       "coverage": "sample",
-      "coverageNote": "已解析 12/13 个登记来源，30 条任职或方向待核。 已收录 16 位学者，个人主页 3、CV 3、指标 0。 数学系官方 People 的内嵌分栏对应 117 学术、32 研究岗位、10 行政和 103 研究生。八个专题全部到达，几何组对照代数与数论、分析、应用、数学物理以及其它方向；各专题具名资料和个人任职继续按人核实。 部门名录所列主域名有访问错误，已用官网另一域名 dur.ac.uk 重查 55 个具名当前教职和待核个人入口，其中 55 个取得公开页面。",
+      "coverageNote": "已解析 12/19 个登记来源，0 条任职或方向待核。 已收录 19 位学者，个人主页 5、CV 4、指标 3。 数学系官方 People 的内嵌分栏对应 117 学术、32 研究岗位、10 行政和 103 研究生。八个专题全部到达，几何组对照代数与数论、分析、应用、数学物理以及其它方向；各专题具名资料和个人任职继续按人核实。 部门名录所列主域名有访问错误，已用官网另一域名 dur.ac.uk 重查 55 个具名当前教职和待核个人入口，其中 55 个取得公开页面。 本轮逐一对比 30 项待核的具名研究主题、机构库、任职、本人履历和研究组。另检查粒子理论中心 41 学术、18 研究、43 博士生条目及物理系、Biophysical Sciences Institute、Biostatistics Unit、Probability 往届人员入口；粒子理论跨系名单继续用个人研究证据交叉。",
       "rosterLinks": [
+        [
+          "Durham Biostatistics Unit · Members",
+          "https://dur.ac.uk/research/institutes-and-centres/research-methods/research/the-durham-biostatistics-unit/"
+        ],
+        [
+          "Biophysical Sciences Institute · Members",
+          "https://dur.ac.uk/research/institutes-and-centres/biophysical-sciences-institute/about-us/people/"
+        ],
+        [
+          "Centre for Particle Theory · Research",
+          "https://dur.ac.uk/departments/academic/physics/particle-theory/research/"
+        ],
+        [
+          "Centre for Particle Theory · 3 personnel lists",
+          "https://dur.ac.uk/departments/academic/physics/particle-theory/people/"
+        ],
         [
           "Geometry and Topology - Durham University",
           "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/geometry-and-topology/"
@@ -5208,6 +5224,14 @@
         [
           "数学科学系（院系入口）",
           "https://www.durham.ac.uk/departments/academic/mathematical-sciences/"
+        ],
+        [
+          "Department of Physics · Staff",
+          "https://www.physics.dur.ac.uk/stafflist/phone.php"
+        ],
+        [
+          "Probability at Durham · Former Members",
+          "https://www.maths.dur.ac.uk/PiNE/PaD/former.html"
         ],
         [
           "Mathematical Sciences · Academic Staff",
@@ -12735,6 +12759,93 @@
       "recordStatus": "directory"
     },
     {
+      "id": "andreas-braun",
+      "name": "Andreas Braun",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "durham",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://dur.ac.uk/staff/andreas-braun/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex",
+        "differential"
+      ],
+      "tags": [
+        "String theory and M-theory Manifolds of exceptional holonomy"
+      ],
+      "homepage": "https://www.maths.dur.ac.uk/users/andreas.braun/webpage/webpage.html",
+      "homepageStatus": null,
+      "cvUrl": "https://www.maths.dur.ac.uk/users/andreas.braun/webpage/homepage_files/CV.pdf",
+      "cvType": "旧版完整 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://durham-repository.worktribe.com/person/310863/andreas-braun/outputs",
+      "publicationCounts": [
+        {
+          "value": 28,
+          "scope": "Durham Worktribe 作者成果页明示 Journal Article 栏",
+          "url": "https://durham-repository.worktribe.com/person/310863/andreas-braun/outputs",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5043766531",
+          "orcid": "https://orcid.org/0000-0003-3163-0673",
+          "url": "https://openalex.org/authors/A5043766531",
+          "authorApiUrl": "https://api.openalex.org/authors/A5043766531",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5043766531,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 28,
+          "works": 38,
+          "citations": 1047,
+          "hIndex": 20,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "More on G-flux and general hodge cycles on the Fermat sextic",
+          "url": "https://doi.org/10.1007/JHEP06(2024)046"
+        },
+        {
+          "title": "G₂ mirrors from Calabi-Yau mirrors",
+          "url": "https://doi.org/10.1007/JHEP10(2024)081"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "My research explores geometric aspects of string and field theories, focusing on dualities among manifolds of special holonomy and the engineering of field theories from singular geometries, with recent emphasis on G₂ manifolds.",
+          "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/mathematical-and-theoretical-physics/"
+        },
+        {
+          "text": "Complex geometry of Calabi–Yau manifolds, algebraic geometry and Hodge cycles, differential geometry of exceptional holonomy, G₂ and Spin(7)",
+          "url": "https://www.maths.dur.ac.uk/users/andreas.braun/webpage/webpage.html"
+        },
+        {
+          "text": "String theory and M-theory Manifolds of exceptional holonomy",
+          "url": "https://dur.ac.uk/staff/andreas-braun/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://durham-repository.worktribe.com/person/310863/andreas-braun/outputs"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "anna-felikson",
       "name": "Anna Felikson",
       "aliases": [],
@@ -12964,6 +13075,84 @@
       "recordStatus": "directory"
     },
     {
+      "id": "katie-gittins",
+      "name": "Katie Gittins",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "durham",
+          "department": "数学系",
+          "title": "Associate Professor in Analysis",
+          "url": "https://dur.ac.uk/staff/katie-gittins/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Partial Differential Equations Spectral Geometry"
+      ],
+      "homepage": "https://sites.google.com/site/katiegittinsmaths/home",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查杜伦现任页、本人站点、院系分析组和 ORCID，未找到独立公开 CV。",
+      "publicationsUrl": "https://sites.google.com/site/katiegittinsmaths/papers-and-preprints",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5024323418",
+          "orcid": "https://orcid.org/0000-0001-8136-8437",
+          "url": "https://openalex.org/authors/A5024323418",
+          "authorApiUrl": "https://api.openalex.org/authors/A5024323418",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5024323418,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 21,
+          "works": 23,
+          "citations": 247,
+          "hIndex": 10,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Upper bounds for Steklov eigenvalues of submanifolds in Euclidean space via the intersection index",
+          "url": "https://doi.org/10.1016/j.difgeo.2021.101777"
+        },
+        {
+          "title": "Steklov eigenvalues of submanifolds with prescribed boundary in Euclidean space",
+          "url": "https://doi.org/10.1007/s12220-018-0063-x"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Katie investigates the interplay between the analysis of partial differential equations and the geometry of the underlying set. She studies problems in the field of Spectral Geometry and asymptotic formulae related to solutions of the heat equation.",
+          "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/analysis/"
+        },
+        {
+          "text": "Differential geometry, geometric analysis, spectral geometry of Riemannian manifolds, Steklov eigenvalues and the heat equation",
+          "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/analysis/"
+        },
+        {
+          "text": "Partial Differential Equations Spectral Geometry",
+          "url": "https://dur.ac.uk/staff/katie-gittins/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://sites.google.com/site/katiegittinsmaths/papers-and-preprints"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "marija-zamaklar",
       "name": "Marija Zamaklar",
       "aliases": [],
@@ -13172,6 +13361,74 @@
         {
           "text": "Raphael is interested in low-dimensional geometry and topology. One of his main topics is the use of instanton gauge theory to study 3-dimensional manifolds and the representation varieties of their fundamental groups.",
           "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/geometry-and-topology/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "rhiannon-dougall",
+      "name": "Rhiannon Dougall",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "durham",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://dur.ac.uk/staff/rhiannon-dougall/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "已查院系个人档案、分析组和机构成果库，暂未找到可核的独立个人主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "杜伦个人档案、分析组及机构成果库未给出独立公开 CV。",
+      "publicationsUrl": "https://durham-repository.worktribe.com/person/687963/rhiannon-dougall/outputs",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5040785899",
+          "orcid": null,
+          "url": "https://openalex.org/authors/A5040785899",
+          "authorApiUrl": "https://api.openalex.org/authors/A5040785899",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5040785899,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 6,
+          "works": 10,
+          "citations": 81,
+          "hIndex": 5,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Twisted Patterson-Sullivan measures and applications to amenability and coverings",
+          "url": "https://doi.org/10.1090/memo/1539"
+        },
+        {
+          "title": "A non-symmetric Kesten criterion and ratio limit theorem for random walks on amenable groups",
+          "url": "https://doi.org/10.1093/imrn/rnae014"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and dynamics of negatively curved manifolds, geodesic flows, critical exponents, Patterson–Sullivan measures and covers",
+          "url": "https://durham-repository.worktribe.com/person/687963/rhiannon-dougall/outputs"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://durham-repository.worktribe.com/person/687963/rhiannon-dougall/outputs"
         }
       ],
       "checkedAt": "2026-11-25",

@@ -1502,6 +1502,46 @@
       "note": ""
     },
     {
+      "id": "durham-bio31",
+      "school": "durham",
+      "url": "https://dur.ac.uk/research/institutes-and-centres/research-methods/research/the-durham-biostatistics-unit/",
+      "label": "Durham Biostatistics Unit · Members",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "durham-bsi31",
+      "school": "durham",
+      "url": "https://dur.ac.uk/research/institutes-and-centres/biophysical-sciences-institute/about-us/people/",
+      "label": "Biophysical Sciences Institute · Members",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "durham-cpt-research31",
+      "school": "durham",
+      "url": "https://dur.ac.uk/departments/academic/physics/particle-theory/research/",
+      "label": "Centre for Particle Theory · Research",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "durham-cpt31",
+      "school": "durham",
+      "url": "https://dur.ac.uk/departments/academic/physics/particle-theory/people/",
+      "label": "Centre for Particle Theory · 3 personnel lists",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "durham-full-audit-source",
       "school": "durham",
       "url": "https://dur.ac.uk/departments/academic/mathematical-sciences/research/areas/geometry-and-topology/",
@@ -1590,6 +1630,26 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "机构网站限制了目录请求。"
+    },
+    {
+      "id": "durham-phystaff31",
+      "school": "durham",
+      "url": "https://www.physics.dur.ac.uk/stafflist/phone.php",
+      "label": "Department of Physics · Staff",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "durham-prob-former31",
+      "school": "durham",
+      "url": "https://www.maths.dur.ac.uk/PiNE/PaD/former.html",
+      "label": "Probability at Durham · Former Members",
+      "status": "needs_adapter",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
       "id": "durham-ts31-academic",
@@ -410871,21 +410931,6 @@
       "checked_at": "2026-11-25"
     },
     {
-      "url": "https://dur.ac.uk/staff/ewan-currie/",
-      "cache_id": "profile-afd656580527f977",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "official_title": "1S",
-        "official_name": "Ewan Currie",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://dur.ac.uk/staff/execdean-science/",
       "cache_id": "profile-a23d7821ab10abef",
       "status": "parsed",
@@ -410910,20 +410955,6 @@
         "official_title": "Associate Professor",
         "official_name": "Fernando Galaz-García",
         "orcid": "0000-0003-3428-5190",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://dur.ac.uk/staff/georgios-chouliaras/",
-      "cache_id": "profile-9ad178c47a5d82ff",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "orcid": "0000-0002-2190-4303",
         "checked_at": "2026-11-25"
       },
       "checked_at": "2026-11-25"
@@ -410974,50 +411005,6 @@
       "checked_at": "2026-11-25"
     },
     {
-      "url": "https://dur.ac.uk/staff/lucy-a-bennet-stevens/",
-      "cache_id": "profile-f831b5b4f2e62939",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "official_title": "Research Postgraduate - Fluid Mechanics",
-        "official_name": "Lucy Bennet-Stevens",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://dur.ac.uk/staff/m-t-matuszewski/",
-      "cache_id": "profile-709442b00cff1a38",
-      "status": "parsed",
-      "record": {
-        "research": "Automated e-assessment for undergraduate mathematics Student use of assessment feedback String theory and the string/gauge theory correspondence Pair production in quantum field theories",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "official_title": "Technical Manager",
-        "official_name": "Maciej Matuszewski",
-        "orcid": "0000-0003-2444-0855",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://dur.ac.uk/staff/marcob-barbieri@dur-ac-uk/",
-      "cache_id": "profile-0e9de25334dc54e4",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://dur.ac.uk/staff/marianna-pepona/",
       "cache_id": "profile-9a22110a16c8dbee",
       "status": "parsed",
@@ -411045,19 +411032,6 @@
         "official_title": "Associate Professor",
         "official_name": "Marija Zamaklar",
         "orcid": "0000-0002-3968-592X",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://dur.ac.uk/staff/mateusz-piorkowski/",
-      "cache_id": "profile-2886cd733ccb84be",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
         "checked_at": "2026-11-25"
       },
       "checked_at": "2026-11-25"
@@ -411092,38 +411066,12 @@
       "checked_at": "2026-11-25"
     },
     {
-      "url": "https://dur.ac.uk/staff/oliver-e-rice/",
-      "cache_id": "profile-a72e10a6fbbc9b8f",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://dur.ac.uk/staff/oliver-kelsey-tough/",
       "cache_id": "profile-590644e221573487",
       "status": "parsed",
       "record": {
         "research": "",
         "homepage": "https://sites.google.com/view/olivertough/",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://dur.ac.uk/staff/p-r-w-mansfield/",
-      "cache_id": "profile-1edef312569c2a47",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
         "cv": "",
         "publications": "",
         "checked_at": "2026-11-25"
@@ -411207,22 +411155,6 @@
       "checked_at": "2026-11-25"
     },
     {
-      "url": "https://dur.ac.uk/staff/s-k-darwin/",
-      "cache_id": "profile-d2f5535db1d37e0f",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "official_title": "Assistant Professor",
-        "official_name": "Sophy Darwin",
-        "orcid": "0000-0001-9133-1363",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
       "url": "https://dur.ac.uk/staff/sabine-boegli/",
       "cache_id": "profile-e6b2587595ed6110",
       "status": "parsed",
@@ -411250,19 +411182,6 @@
         "official_title": "Associate Professor",
         "official_name": "Sam Jackson",
         "orcid": "0000-0003-3695-5362",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://dur.ac.uk/staff/sehar-saleem/",
-      "cache_id": "profile-977e0c581dc06c02",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
         "checked_at": "2026-11-25"
       },
       "checked_at": "2026-11-25"
@@ -411366,19 +411285,6 @@
         "cv": "",
         "publications": "",
         "orcid": "0000-0002-9404-317X",
-        "checked_at": "2026-11-25"
-      },
-      "checked_at": "2026-11-25"
-    },
-    {
-      "url": "https://dur.ac.uk/staff/victoria-m-schleis/",
-      "cache_id": "profile-ea8aa67c8c34306c",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "https://victoriaschleis.github.io/",
-        "cv": "",
-        "publications": "",
         "checked_at": "2026-11-25"
       },
       "checked_at": "2026-11-25"
@@ -488055,6 +487961,38 @@
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
     },
+    "andreas-braun": {
+      "status": "review_ready",
+      "author_id": "A5043766531",
+      "papers": [
+        {
+          "title": "More on G-flux and general hodge cycles on the Fermat sextic",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/JHEP06(2024)046"
+        },
+        {
+          "title": "G2 mirrors from Calabi-Yau mirrors",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/JHEP10(2024)081"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5043766531",
+        "orcid": "https://orcid.org/0000-0003-3163-0673",
+        "url": "https://openalex.org/authors/A5043766531",
+        "authorApiUrl": "https://api.openalex.org/authors/A5043766531",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5043766531,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 28,
+        "works": 38,
+        "citations": 1047,
+        "hIndex": 20,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "andreas-cap": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
@@ -491314,6 +491252,38 @@
       "reason": "OpenAlex 请求或返回数据失败。",
       "checkedAt": "2026-11-23"
     },
+    "katie-gittins": {
+      "status": "review_ready",
+      "author_id": "A5024323418",
+      "papers": [
+        {
+          "title": "Upper bounds for Steklov eigenvalues of submanifolds in Euclidean space via the intersection index",
+          "year": 2021,
+          "url": "https://doi.org/10.1016/j.difgeo.2021.101777"
+        },
+        {
+          "title": "Steklov Eigenvalues of Submanifolds with Prescribed Boundary in Euclidean Space",
+          "year": 2018,
+          "url": "https://doi.org/10.1007/s12220-018-0063-x"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5024323418",
+        "orcid": "https://orcid.org/0000-0001-8136-8437",
+        "url": "https://openalex.org/authors/A5024323418",
+        "authorApiUrl": "https://api.openalex.org/authors/A5024323418",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5024323418,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 21,
+        "works": 23,
+        "citations": 247,
+        "hIndex": 10,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "kazushi-ueda": {
       "status": "source_error",
       "reason": "OpenAlex 请求或返回数据失败。",
@@ -493979,6 +493949,38 @@
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
+    },
+    "rhiannon-dougall": {
+      "status": "review_ready",
+      "author_id": "A5040785899",
+      "papers": [
+        {
+          "title": "Twisted Patterson-Sullivan Measures and Applications to Amenability and Coverings",
+          "year": 2025,
+          "url": "https://doi.org/10.1090/memo/1539"
+        },
+        {
+          "title": "A Non-Symmetric Kesten Criterion and Ratio Limit Theorem for Random Walks on Amenable Groups",
+          "year": 2024,
+          "url": "https://doi.org/10.1093/imrn/rnae014"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5040785899",
+        "orcid": null,
+        "url": "https://openalex.org/authors/A5040785899",
+        "authorApiUrl": "https://api.openalex.org/authors/A5040785899",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5040785899,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 6,
+        "works": 10,
+        "citations": 81,
+        "hIndex": 5,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "richard-bamler": {
       "status": "source_error",
