@@ -212,7 +212,14 @@
     "niloy-mitra": "A5058170430",
     "marika-taylor": "A5009459477",
     "michael-r-douglas": "A5056770872",
-    "christian-boehmer": "A5111894164"
+    "christian-boehmer": "A5111894164",
+    "fernando-galaz-garcia": "A5080338136",
+    "kasper-peeters": "A5019353889",
+    "norbert-peyerimhoff": "A5067986221",
+    "silvia-nagy": "A5059307870",
+    "stefano-cremonesi": "A5056156269",
+    "jim-bryan": "A5102127607",
+    "sven-bachmann": "A5012745001"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -235,7 +242,6 @@
     "ben-andrews": "当前与历史机构缺少可核对的匹配。",
     "daniel-chan": "当前与历史机构缺少可核对的匹配。",
     "giovanni-mongardi": "当前与历史机构缺少可核对的匹配。",
-    "jim-bryan": "OpenAlex HTTP 404。",
     "john-parker": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。",
     "jeffrey-giansiracusa": "已用公开身份信息交叉核对 OpenAlex。高引样本含放射性药物铜摄取研究，另有同名合著冲突线索。累计数暂不收录。",
     "luca-migliorini": "当前与历史机构缺少可核对的匹配。",
@@ -295,7 +301,9 @@
     "ilya-karzhemanov": "已核 MIPT 现职与正式刊版 DOI。OpenAlex A5122923043 只列 3 个结果，本人至少另有与 Galkin、Shinder 合著的已发表作品，单一档案覆盖不足。累计引用待核。",
     "mahuya-bandyopadhyay": "校方 ORCID 确认 OpenAlex A5088949804，但仅覆盖 4 篇文章／5 条成果，漏收校方已列的多篇正式期刊文章。搜索发现另有同名化学及社会学作者；其引用数未采用。论文数保留 UTS 机构核实口径，累计引用待核。",
     "person-54e5368c1bc3": "两篇曲面几何 DOI 通过同一 OpenAlex 作者 ID 和校刊 ORCID 核对。但其高引列表混入 RUDN 社会学期刊的《Media, institutions, and the Russians’ trust》，原署名 V. N. Ivanov 实为 Вилен Николаевич Иванов。混合档案的累计论文和引用待核。",
-    "naomi-sweeting": "两个本人预印本均指向同一 OpenAlex ID，MIT 任职已核实。高引样本另含 2015 年同名网络编码论文，作者早期任职待独立核对；本人列出的是预印本，暂不作论文总计。"
+    "naomi-sweeting": "两个本人预印本均指向同一 OpenAlex ID，MIT 任职已核实。高引样本另含 2015 年同名网络编码论文，作者早期任职待独立核对；本人列出的是预印本，暂不作论文总计。",
+    "marija-zamaklar": "杜伦官方 ORCID 在 OpenAlex 查询返回 404；以具名任职和本人两篇出版 DOI 回查，作者字段无法唯一对应。机构成果库按该人提供期刊论文过滤链接，未找到明确完整总数。",
+    "yue-ren": "杜伦公开 ORCID 与 OpenAlex 返回应对作者的姓名或 ORCID 不符；改用本人两篇热带几何论文 DOI，返回作者字段仍无唯一对应。保留本人论文入口。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -504,6 +512,13 @@
     "niloy-mitra": "UCL 现任、公开 ORCID 与 Stanford 履历相符。核对高引配准和生成模型；两条同名显著性检测分别对应 2011 会议版与不同署名顺序和 DOI 的 2014–15 期刊版。",
     "marika-taylor": "UCL 2026 任职与 OpenAlex 所列 Birmingham、Southampton、Amsterdam 历史单位相符。两项 JHEP DOI 和高引 AdS、全息理论作品对照 INSPIRE 具名档案。",
     "michael-r-douglas": "Harvard CMSA 现任、Stony Brook 任职历史、ORCID 与 2015 和 2026 两项出版 DOI 相符。高引非交换场论、矩阵理论及紧化和早期弦论文由发表记录交叉。",
-    "christian-boehmer": "UCL 官方任职与从 Portsmouth 加入 UCL 的履历一致。公布 ORCID、两项几何和引力论文 DOI 联核；抽查其宇宙学、修正引力和 LISA 合作成果。"
+    "christian-boehmer": "UCL 官方任职与从 Portsmouth 加入 UCL 的履历一致。公布 ORCID、两项几何和引力论文 DOI 联核；抽查其宇宙学、修正引力和 LISA 合作成果。",
+    "fernando-galaz-garcia": "任职、官方 ORCID、学术库的黎曼曲率与 Alexandrov 空间作品共同核验。",
+    "kasper-peeters": "杜伦任职、官方 ORCID 及本人学术站的 Cadabra、规范理论与量子引力作品吻合。两条同名量子引力综述含预印本及出版记录，保留数据源的计量口径。",
+    "norbert-peyerimhoff": "杜伦机构、官方 ORCID、本人发表名单和图上曲率工作吻合。高引化学工作由出版社署名和杜伦的联合项目学位论文核对。",
+    "silvia-nagy": "官方 ORCID、当前及历史机构与高引引力规范理论、twistor double copy 作品一致。",
+    "stefano-cremonesi": "官方 ORCID、当前及历史机构与高引 Coulomb 分支、Calabi–Yau 奇点和规范理论作品一致。",
+    "jim-bryan": "OpenAlex 的 ORCID 查询未定位到档案，改用本人发表页和出版方两篇作品的 DOI，指向同一 UBC 档案。高引 K3、Donaldson–Thomas 和 Gromov–Witten 作品逐条交叉。",
+    "sven-bachmann": "UBC 官方 ORCID 和任职与本人公开名录吻合。抽查量子格点绝热定理、拓扑相和输运定理等高引结果。区分 OpenAlex 的无 DOI 收录与发表口径。"
   }
 }
