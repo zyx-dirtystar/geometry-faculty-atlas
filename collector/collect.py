@@ -214,11 +214,17 @@ def ingest_rosters(db, seed):
         meta, document = read_snapshot(source["id"])
         transcript = transcripts.get(source["id"])
         if source["kind"] == "campus":
+            count, checked_at = 0, seen_date(meta)
+            note = "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+            if transcript and transcript["url"] == source["url"]:
+                count, checked_at = len(transcript["entries"]), transcript["checkedAt"]
+                note = transcript["scope"]
+            elif meta and document is None:
+                note = "补证来源已尝试访问，当前未取得可读取内容。"
             with db:
                 db.execute("DELETE FROM sightings WHERE source=?", (source["id"],))
                 db.execute("INSERT OR REPLACE INTO sources VALUES (?,?,?,?,?,?,?,?)", (
-                    source["id"], source["school"], source["url"], source["name"], "reference", 0, seen_date(meta),
-                    "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。",
+                    source["id"], source["school"], source["url"], source["name"], "reference", count, checked_at, note,
                 ))
             continue
         if not transcript and meta is None and db.execute("SELECT 1 FROM sources WHERE id=? AND url=?", (source["id"], source["url"])).fetchone():
@@ -768,7 +774,7 @@ def export(db, seed):
                            " | ".join(f"{x['text']} [{x['url']}]" for x in p["topic_sources"]), decision_note,
                            appointment_source, p["checked_at"] or "", checked_pages])
     (ROOT / "review-queue.csv.tmp").replace(ROOT / "review-queue.csv")
-    _, findings, _, _ = metrics_evidence()
+    _, findings, _, metric_review_notes = metrics_evidence()
     cv_audit = cohorts.get("cvLinkAudit", {})
     cv_checks = cv_audit.get("records", {})
     with (ROOT / "field-review.csv.tmp").open("w", encoding="utf-8-sig", newline="") as handle:
@@ -809,7 +815,7 @@ def export(db, seed):
             if not counts:
                 notes.append("未登记作者或机构明确披露的计数及口径")
             if metric.get("articles") is None or metric.get("citations") is None:
-                notes.append(finding.get("reason") or p.get("identityNote") or "OpenAlex 作者匹配或指标待复核")
+                notes.append(metric_review_notes.get(p["id"]) or finding.get("reason") or p.get("identityNote") or "OpenAlex 作者匹配或指标待复核")
             if not p.get("papers"):
                 notes.append("代表作待逐篇核验")
             rows.writerow([p["id"], p["name"], " / ".join(a["schoolId"] for a in appointments),

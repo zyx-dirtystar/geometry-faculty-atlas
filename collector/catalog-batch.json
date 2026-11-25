@@ -103,7 +103,7 @@
     {
       "id": "mit",
       "coverage": "sample",
-      "coverageNote": "已解析 21/29 个登记来源，0 条任职或方向待核。 已收录 26 位学者，个人主页 18、CV 16、指标 11。 数学系详细现任 73 条，科研岗位 9、博士后 19、讲师与固定期 Instructor 42、访客 14、荣休 16。逐人研究说明交叉 Geometry、Algebra、Number Theory、Analysis、Representation、Theoretical Physics 与 Algebraic Topology 七组。学校另有联合职位和研究中心，未公开专长仍待补。 核对个人 CV 后，用苏黎世大学有日期任命和本人履历订正 Christoph Kehle 列在 MIT 的旧职。 核对 130 名博士生（只保留研究组交叠的具名状态）、应用物理数学 23 人和数论增补 17 人。数学系、CSAIL、CCSE 和 Simons 数论合作交叉核对。数论名单一人按访问期标注，一人按离任标注。另核 CSAIL 其他与几何有关的人员及项目。 初步核对几何数据处理组和理论物理中心人员入口，明确补入 Calabi–Yau 紧化学者；理论物理组其他成员与跨工程联合范围仍在对账。 CCSE 中心 60 张 PI 卡片去重为 58 人。核对 CSAIL 几何数据与算法设计团队，和 LNS CTP 的 24 条教师及 PI、33 条科研任职。理论物理旧表有岗位变动，继续对照现任名册。",
+      "coverageNote": "已解析 21/36 个登记来源，0 条任职或方向待核。 已收录 26 位学者，个人主页 18、CV 16、指标 11。 数学系详细现任 73 条，科研岗位 9、博士后 19、讲师与固定期 Instructor 42、访客 14、荣休 16。逐人研究说明交叉 Geometry、Algebra、Number Theory、Analysis、Representation、Theoretical Physics 与 Algebraic Topology 七组。学校另有联合职位和研究中心，未公开专长仍待补。 核对个人 CV 后，用苏黎世大学有日期任命和本人履历订正 Christoph Kehle 列在 MIT 的旧职。 核对 130 名博士生（只保留研究组交叠的具名状态）、应用物理数学 23 人和数论增补 17 人。数学系、CSAIL、CCSE 和 Simons 数论合作交叉核对。数论名单一人按访问期标注，一人按离任标注。另核 CSAIL 其他与几何有关的人员及项目。 初步核对几何数据处理组和理论物理中心人员入口，明确补入 Calabi–Yau 紧化学者；理论物理组其他成员与跨工程联合范围仍在对账。 CCSE 中心 60 张 PI 卡片去重为 58 人。核对 CSAIL 几何数据与算法设计团队，和 LNS CTP 的 24 条教师及 PI、33 条科研任职。理论物理旧表有岗位变动，继续对照现任名册。 核对 IAIFI 七类 222 张角色卡和 Physics 本科及研究生课程目录中 127 条教师、科研及荣休记录。以明确主聘和研究证据分列几何机器学习与紧 Calabi–Yau 博士后。",
       "rosterLinks": [
         [
           "Research · Algebra & Algebraic Geometry",
@@ -136,6 +136,10 @@
         [
           "LNS · CTP staff table source",
           "https://web.mit.edu/lns/research/faculty.js"
+        ],
+        [
+          "Center for Theoretical Physics · current directory",
+          "https://ctp.mit.edu/people/"
         ],
         [
           "Laboratory for Nuclear Science · Theoretical Physics listed Faculty and Research Staff",
@@ -174,8 +178,24 @@
           "https://math.mit.edu/directory/graduate.html?show=detail"
         ],
         [
+          "NSF IAIFI · dated fellowship call",
+          "https://iaifi.org/fellows.html"
+        ],
+        [
+          "NSF IAIFI · current fellows",
+          "https://iaifi.org/current-fellows"
+        ],
+        [
+          "NSF IAIFI · cross-institution role and research roster",
+          "https://iaifi.org/people"
+        ],
+        [
           "Department of Mathematics · Instructors · Moore and applied mathematics",
           "https://math.mit.edu/directory/instructors.html?show=detail"
+        ],
+        [
+          "MIT Physics · theoretical nuclear and particle physics filter",
+          "https://physics.mit.edu/?faculty_divisions=theoretical-nuclear-particle-physics"
         ],
         [
           "数学系 Faculty Directory",
@@ -192,6 +212,14 @@
         [
           "Research · Number Theory",
           "https://math.mit.edu/research/pure/number-theory.php"
+        ],
+        [
+          "MIT Physics · academic catalogue staff and emeriti",
+          "https://catalog.mit.edu/schools/science/physics/"
+        ],
+        [
+          "MIT Physics · live faculty directory",
+          "https://physics.mit.edu/faculty/"
         ],
         [
           "Research · Theoretical Physics",
@@ -1967,7 +1995,7 @@
     {
       "id": "ucl",
       "coverage": "sample",
-      "coverageNote": "已解析 20/45 个登记来源，0 条任职或方向待核。 已收录 13 位学者，个人主页 11、CV 6、指标 9。 修复学术教师名单中链接姓名被跳过的问题，核录 84 位，交叉查院系几何／拓扑、数论及 LSGNT。荣誉／荣休名册 46 张；补核几何组博士后、教学岗位和转任记录。荣誉或荣休精确职级和其他联聘仍需分人补证。 官方 Research Associates and Fellows 共 28 条已录，对照几何组专长；其中 3 张现行卡片的方向仍标 TBC。 补查数学物理组 18 条及 DataSig、David Potter Institute 和校区入口。科研人员 3 位 TBC 已通过本人或研究组来源确定专长。多位荣誉联属的主聘由 Lancaster、Oxford、Warwick、KCL 与 Rice 交叉确认。 逐页核对院系研究索引下 13 个分组、LSGNT 69 条中 UCL 21 条、David Potter 19 人和 DataSig 31 条。科研人员与主聘、荣誉及已迁校身份分开。 本轮补查数学系四类人员入口与 76 条博士生、学院 17 个中心、HEP 学术人员 21、人工智能中心 56 及 Smart Geometry Processing 的具名职务。交叉核对 VECG、旧数学物理入口、计算科学与 Cosmoparticle。计算几何和曲率有数名新增确认；联合中心人员仍在复核。 Cosmoparticle 核心及历任 18、博士后及历任 34、VECG 6、CCS 分组及历任名单对照；旧 ACCA 入口及 Imperial 公开组交叉，新增 UCL Statistical Science 几何推断项目待核其完整人员范围。",
+      "coverageNote": "已解析 20/51 个登记来源，0 条任职或方向待核。 已收录 15 位学者，个人主页 13、CV 7、指标 10。 修复学术教师名单中链接姓名被跳过的问题，核录 84 位，交叉查院系几何／拓扑、数论及 LSGNT。荣誉／荣休名册 46 张；补核几何组博士后、教学岗位和转任记录。荣誉或荣休精确职级和其他联聘仍需分人补证。 官方 Research Associates and Fellows 共 28 条已录，对照几何组专长；其中 3 张现行卡片的方向仍标 TBC。 补查数学物理组 18 条及 DataSig、David Potter Institute 和校区入口。科研人员 3 位 TBC 已通过本人或研究组来源确定专长。多位荣誉联属的主聘由 Lancaster、Oxford、Warwick、KCL 与 Rice 交叉确认。 逐页核对院系研究索引下 13 个分组、LSGNT 69 条中 UCL 21 条、David Potter 19 人和 DataSig 31 条。科研人员与主聘、荣誉及已迁校身份分开。 本轮补查数学系四类人员入口与 76 条博士生、学院 17 个中心、HEP 学术人员 21、人工智能中心 56 及 Smart Geometry Processing 的具名职务。交叉核对 VECG、旧数学物理入口、计算科学与 Cosmoparticle。计算几何和曲率有数名新增确认；联合中心人员仍在复核。 Cosmoparticle 核心及历任 18、博士后及历任 34、VECG 6、CCS 分组及历任名单对照；旧 ACCA 入口及 Imperial 公开组交叉，新增 UCL Statistical Science 几何推断项目待核其完整人员范围。 统计科学的教师 50、Research Associates 11、荣誉与荣休 15、博士生 59，及 Inverse Problems 的 16 位具名成员已登记并与项目及个人研究核对。",
       "rosterLinks": [
         [
           "ACCA · Imperial group and scope",
@@ -2046,6 +2074,10 @@
           "https://www.ucl.ac.uk/mathematical-physical-sciences/computational-science/publications"
         ],
         [
+          "Computer Science · Intelligent Systems",
+          "https://www.ucl.ac.uk/engineering/intelligent-systems"
+        ],
+        [
           "MAPS · official list of centres and institutes",
           "https://www.ucl.ac.uk/mathematical-physical-sciences/departments/centres-institutes"
         ],
@@ -2076,6 +2108,10 @@
         [
           "数学系 Academic and Lecturing Staff",
           "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/people/academic-and-lecturing-staff"
+        ],
+        [
+          "Foundational AI CDT · Students and Alumni",
+          "https://www.ucl.ac.uk/engineering/foundational-ai-cdt/students-and-alumni"
         ],
         [
           "UCL Geometry and Topology",
@@ -2138,12 +2174,28 @@
           "https://www.ucl.ac.uk/mathematical-physical-sciences/maths/research"
         ],
         [
+          "Statistical Science · Academic and Lecturing Staff",
+          "https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/people/academic-and-lecturing-staff"
+        ],
+        [
+          "Statistical Science · Honorary and Emeritus Staff",
+          "https://www.ucl.ac.uk/mathematical-physical-sciences/departments/statistical-science/people/honorary-and-emeritus-staff"
+        ],
+        [
           "Statistical Science · People index",
           "https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/people"
         ],
         [
+          "Statistical Science · PhD Students",
+          "https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/people/phd-students"
+        ],
+        [
           "Statistical Science · active research projects",
           "https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/research/project-vacancies"
+        ],
+        [
+          "Statistical Science · Research Associates",
+          "https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/people/research-associates"
         ],
         [
           "Computer Science · Virtual Environments and Computer Graphics",
@@ -3131,7 +3183,7 @@
     {
       "id": "melbourne",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，1 条任职或方向待核。 已收录 7 位学者，个人主页 7、CV 1、指标 0。",
+      "coverageNote": "已解析 1/3 个登记来源，0 条任职或方向待核。 已收录 8 位学者，个人主页 8、CV 1、指标 0。  校方 2026 研究手册和代数几何组核对 Jack Hall 的现任和代数叠研究。",
       "rosterLinks": [
         [
           "Members – Algebraic Geometry",
@@ -3367,7 +3419,7 @@
     {
       "id": "anu",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，1 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 0。",
+      "coverageNote": "已解析 1/2 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 1、CV 0、指标 1。  已用校定现任资料和本人论文对账 James Borger，属于算术代数几何。",
       "rosterLinks": [
         [
           "Algebraic & Differential Geometry",
@@ -3499,7 +3551,7 @@
     {
       "id": "yonsei",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，1 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 2、指标 0。",
+      "coverageNote": "已解析 1/1 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 2、指标 0。  官方韩语教师名册与学术主页核对 Hansol Hong，列辛几何与镜像对称相关人员。",
       "rosterLinks": [
         [
           "数学系韩文教师名录",
@@ -4987,7 +5039,7 @@
     {
       "id": "eindhoven",
       "coverage": "sample",
-      "coverageNote": "已解析 1/4 个登记来源，1 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 1。 已查数学与计算机科学系科研门户、离散代数与几何英荷双语研究组及个人页。已核录部分组员并按个人页区分兼职。组的完整名单、其他系组和校外联合任职待核。",
+      "coverageNote": "已解析 1/4 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 1。 已查数学与计算机科学系科研门户、离散代数与几何英荷双语研究组及个人页。已核录部分组员并按个人页区分兼职。组的完整名单、其他系组和校外联合任职待核。 核对含荷语名称的校级门户，有限几何学者 Hans Cuypers 单列。",
       "rosterLinks": [
         [
           "Discrete Algebra and Geometry · Profiles",
@@ -5491,7 +5543,7 @@
     {
       "id": "durham",
       "coverage": "sample",
-      "coverageNote": "已解析 12/19 个登记来源，0 条任职或方向待核。 已收录 19 位学者，个人主页 6、CV 4、指标 8。 数学系官方 People 的内嵌分栏对应 117 学术、32 研究岗位、10 行政和 103 研究生。八个专题全部到达，几何组对照代数与数论、分析、应用、数学物理以及其它方向；各专题具名资料和个人任职继续按人核实。 部门名录所列主域名有访问错误，已用官网另一域名 dur.ac.uk 重查 55 个具名当前教职和待核个人入口，其中 55 个取得公开页面。 本轮逐一对比 30 项待核的具名研究主题、机构库、任职、本人履历和研究组。另检查粒子理论中心 41 学术、18 研究、43 博士生条目及物理系、Biophysical Sciences Institute、Biostatistics Unit、Probability 往届人员入口；粒子理论跨系名单继续用个人研究证据交叉。",
+      "coverageNote": "已解析 12/19 个登记来源，0 条任职或方向待核。 已收录 19 位学者，个人主页 6、CV 5、指标 8。 数学系官方 People 的内嵌分栏对应 117 学术、32 研究岗位、10 行政和 103 研究生。八个专题全部到达，几何组对照代数与数论、分析、应用、数学物理以及其它方向；各专题具名资料和个人任职继续按人核实。 部门名录所列主域名有访问错误，已用官网另一域名 dur.ac.uk 重查 55 个具名当前教职和待核个人入口，其中 55 个取得公开页面。 本轮逐一对比 30 项待核的具名研究主题、机构库、任职、本人履历和研究组。另检查粒子理论中心 41 学术、18 研究、43 博士生条目及物理系、Biophysical Sciences Institute、Biostatistics Unit、Probability 往届人员入口；粒子理论跨系名单继续用个人研究证据交叉。",
       "rosterLinks": [
         [
           "Durham Biostatistics Unit · Members",
@@ -7520,6 +7572,81 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "james-borger",
+      "name": "James Borger",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "anu",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://maths.anu.edu.au/people/james-borger",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://maths-people.anu.edu.au/~borger/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查 ANU 具名导师档案、本人旧站及论文目录和公开学术演讲介绍，未见独立公开简历。",
+      "publicationsUrl": "https://maths-people.anu.edu.au/~borger/papers.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5085867060",
+          "orcid": "https://orcid.org/0000-0002-4238-5020",
+          "url": "https://openalex.org/authors/A5085867060",
+          "authorApiUrl": "https://api.openalex.org/authors/A5085867060",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5085867060,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 14,
+          "works": 25,
+          "citations": 501,
+          "hIndex": 11,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The basic geometry of Witt vectors, I: The affine case",
+          "year": 2011,
+          "url": "https://doi.org/10.2140/ant.2011.5.231"
+        },
+        {
+          "title": "The basic geometry of Witt vectors. II: Spaces",
+          "year": 2010,
+          "url": "https://doi.org/10.48550/arXiv.1006.0092"
+        },
+        {
+          "title": "Lambda-rings and the field with one element",
+          "year": 2009,
+          "url": "https://arxiv.org/abs/0906.3146"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry, lambda-rings, arithmetic jet spaces, and de Rham cohomology",
+          "url": "https://maths-people.anu.edu.au/~borger/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://maths-people.anu.edu.au/~borger/papers.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -13648,7 +13775,7 @@
       "publicationsUrl": "https://durham-repository.worktribe.com/orgunit/155364/department-of-mathematical-sciences/outputs?Author=Marija+Zamaklar&Type=Journal+Article&page=1",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "杜伦官方 ORCID 在 OpenAlex 查询返回 404；以具名任职和本人两篇出版 DOI 回查，作者字段无法唯一对应。机构成果库按该人提供期刊论文过滤链接，未找到明确完整总数。",
+      "identityNote": "杜伦官方 ORCID 在 OpenAlex 查询返回 404；以具名任职和本人两篇出版 DOI 回查，作者字段无法唯一对应。机构成果库按该人提供期刊论文过滤链接，未找到明确完整总数。 Google Scholar 的姓名和机构组合检索未返回能确认身份的公开档案。",
       "metrics": [],
       "identityUrl": null,
       "papers": [
@@ -14205,7 +14332,7 @@
         {
           "schoolId": "durham",
           "department": "数学系",
-          "title": "Associate Professor",
+          "title": "Associate Professor and UKRI Future Leaders Fellow",
           "url": "https://dur.ac.uk/staff/yue-ren2/",
           "type": "primary",
           "checkedAt": "2026-11-25"
@@ -14217,13 +14344,13 @@
       "tags": [],
       "homepage": "https://www.yueren.de/",
       "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvUrl": "https://www.yueren.de/bio-and-contact",
+      "cvType": "公开 CV（简版）",
+      "cvStatus": null,
       "publicationsUrl": "https://www.yueren.de/papers",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "杜伦公开 ORCID 与 OpenAlex 返回应对作者的姓名或 ORCID 不符；改用本人两篇热带几何论文 DOI，返回作者字段仍无唯一对应。保留本人论文入口。",
+      "identityNote": "杜伦公开 ORCID 与 OpenAlex 返回应对作者的姓名或 ORCID 不符；改用本人两篇热带几何论文 DOI，返回作者字段仍无唯一对应。保留本人论文入口。 Google Scholar 的姓名和机构组合检索未返回能确认身份的公开档案。",
       "metrics": [],
       "identityUrl": null,
       "papers": [
@@ -26928,6 +27055,64 @@
         }
       ],
       "checkedAt": "2026-11-23",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jack-hall",
+      "name": "Jack Hall",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "melbourne",
+          "department": "数学系",
+          "title": "Associate Professor and ARC Future Fellow",
+          "url": "https://algebraicgeometry.science.unimelb.edu.au/home-page/members/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://blogs.unimelb.edu.au/jack-hall/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "墨尔本个人站页面导航列有 CV；直接打开候选简历入口未取得内容。已保留具名学院研究手册、学者档案和发表页。",
+      "publicationsUrl": "https://blogs.unimelb.edu.au/jack-hall/home/writing/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "OpenAlex 将本人发表页所列 Perfect complexes on algebraic stacks 与 The Hilbert stack 两篇出版 DOI 分配给不同档案。Google Scholar 姓名加现任学校检索未找到可确认的公开档案。已保留墨尔本学术站论文目录，尚缺可核实的同口径合计。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Perfect complexes on algebraic stacks",
+          "year": 2017,
+          "url": "https://doi.org/10.1112/S0010437X17007394"
+        },
+        {
+          "title": "The Hilbert stack",
+          "year": 2014,
+          "url": "https://doi.org/10.1016/j.aim.2013.12.002"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic stacks, moduli spaces, formal and analytic geometry, deformation theory",
+          "url": "https://algebraicgeometry.science.unimelb.edu.au/home-page/members/"
+        },
+        {
+          "text": "Algebraic geometry of algebraic stacks and moduli spaces, formal and analytic geometry, and deformation theory",
+          "url": "https://algebraicgeometry.science.unimelb.edu.au/home-page/members/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://blogs.unimelb.edu.au/jack-hall/home/writing/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -52111,6 +52296,51 @@
       "recordStatus": "directory"
     },
     {
+      "id": "alessandro-barp",
+      "name": "Alessandro Barp",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ucl",
+          "department": "数学系",
+          "title": "Lecturer (Assistant Professor) in Statistical Science",
+          "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/people/academic-and-lecturing-staff/dr-alessandro-barp",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://alebarp.github.io/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查 UCL 具名档案、个人站的发表与科研指南，以及 Imperial 研究库博士档案，未发现可确认的公开 CV。",
+      "publicationsUrl": "https://alebarp.github.io/publications/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Geometric Methods for Sampling, Optimisation, Inference and Adaptive Agents",
+          "year": 2022,
+          "url": "https://arxiv.org/abs/2203.10592"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Symplectic and differential geometry of statistical computing, Hamiltonian dynamics and sampling on manifolds",
+          "url": "https://arxiv.org/abs/2203.10592"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "andrei-yafaev",
       "name": "Andrei Yafaev",
       "aliases": [],
@@ -52181,6 +52411,89 @@
         {
           "text": "个人研究或论文来源",
           "url": "https://profiles.ucl.ac.uk/2867-andrei-yafaev/grants"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "anna-calissano",
+      "name": "Anna Calissano",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "ucl",
+          "department": "数学系",
+          "title": "Lecturer (Assistant Professor) in Statistical Science",
+          "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/people/academic-and-lecturing-staff/dr-anna-calissano",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://annacalissano.com/",
+      "homepageStatus": null,
+      "cvUrl": "https://drive.google.com/file/d/1YZ-dJ7-u1e_GFaIP26Wat5xM-heA6ItV/view?usp=sharing",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://annacalissano.com/publications/",
+      "publicationCounts": [],
+      "opportunities": [
+        {
+          "label": "Statistical Science 项目博士后，按院系页面滚动截止",
+          "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/research/project-vacancies",
+          "type": "博士后",
+          "status": "招聘公告在招",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5059019644",
+          "orcid": "https://orcid.org/0000-0002-7403-0531",
+          "url": "https://openalex.org/authors/A5059019644",
+          "authorApiUrl": "https://api.openalex.org/authors/A5059019644",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5059019644,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 11,
+          "works": 25,
+          "citations": 164,
+          "hIndex": 4,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Populations of unlabelled networks: graph space geometry and generalized geodesic principal components",
+          "year": 2023,
+          "url": "https://doi.org/10.1093/biomet/asad024"
+        },
+        {
+          "title": "Graph alignment exploiting the spatial organization improves the similarity of brain networks",
+          "year": 2024,
+          "url": "https://doi.org/10.1002/hbm.26554"
+        },
+        {
+          "title": "Populations of unlabelled networks: graph space geometry and generalized geodesic principal components",
+          "year": 2024,
+          "url": "https://academic.oup.com/biomet/article-abstract/111/1/147/7103300"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and non-Euclidean geometric statistics, shape spaces, quotient spaces and manifold learning",
+          "url": "https://annacalissano.com/projects/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://annacalissano.com/publications/"
         }
       ],
       "checkedAt": "2026-11-25",

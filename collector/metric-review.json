@@ -219,7 +219,9 @@
     "silvia-nagy": "A5059307870",
     "stefano-cremonesi": "A5056156269",
     "jim-bryan": "A5102127607",
-    "sven-bachmann": "A5012745001"
+    "sven-bachmann": "A5012745001",
+    "james-borger": "A5085867060",
+    "anna-calissano": "A5059019644"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -302,8 +304,9 @@
     "mahuya-bandyopadhyay": "校方 ORCID 确认 OpenAlex A5088949804，但仅覆盖 4 篇文章／5 条成果，漏收校方已列的多篇正式期刊文章。搜索发现另有同名化学及社会学作者；其引用数未采用。论文数保留 UTS 机构核实口径，累计引用待核。",
     "person-54e5368c1bc3": "两篇曲面几何 DOI 通过同一 OpenAlex 作者 ID 和校刊 ORCID 核对。但其高引列表混入 RUDN 社会学期刊的《Media, institutions, and the Russians’ trust》，原署名 V. N. Ivanov 实为 Вилен Николаевич Иванов。混合档案的累计论文和引用待核。",
     "naomi-sweeting": "两个本人预印本均指向同一 OpenAlex ID，MIT 任职已核实。高引样本另含 2015 年同名网络编码论文，作者早期任职待独立核对；本人列出的是预印本，暂不作论文总计。",
-    "marija-zamaklar": "杜伦官方 ORCID 在 OpenAlex 查询返回 404；以具名任职和本人两篇出版 DOI 回查，作者字段无法唯一对应。机构成果库按该人提供期刊论文过滤链接，未找到明确完整总数。",
-    "yue-ren": "杜伦公开 ORCID 与 OpenAlex 返回应对作者的姓名或 ORCID 不符；改用本人两篇热带几何论文 DOI，返回作者字段仍无唯一对应。保留本人论文入口。"
+    "marija-zamaklar": "杜伦官方 ORCID 在 OpenAlex 查询返回 404；以具名任职和本人两篇出版 DOI 回查，作者字段无法唯一对应。机构成果库按该人提供期刊论文过滤链接，未找到明确完整总数。 Google Scholar 的姓名和机构组合检索未返回能确认身份的公开档案。",
+    "yue-ren": "杜伦公开 ORCID 与 OpenAlex 返回应对作者的姓名或 ORCID 不符；改用本人两篇热带几何论文 DOI，返回作者字段仍无唯一对应。保留本人论文入口。 Google Scholar 的姓名和机构组合检索未返回能确认身份的公开档案。",
+    "jack-hall": "OpenAlex 将本人发表页所列 Perfect complexes on algebraic stacks 与 The Hilbert stack 两篇出版 DOI 分配给不同档案。Google Scholar 姓名加现任学校检索未找到可确认的公开档案。已保留墨尔本学术站论文目录，尚缺可核实的同口径合计。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -519,6 +522,8 @@
     "silvia-nagy": "官方 ORCID、当前及历史机构与高引引力规范理论、twistor double copy 作品一致。",
     "stefano-cremonesi": "官方 ORCID、当前及历史机构与高引 Coulomb 分支、Calabi–Yau 奇点和规范理论作品一致。",
     "jim-bryan": "OpenAlex 的 ORCID 查询未定位到档案，改用本人发表页和出版方两篇作品的 DOI，指向同一 UBC 档案。高引 K3、Donaldson–Thomas 和 Gromov–Witten 作品逐条交叉。",
-    "sven-bachmann": "UBC 官方 ORCID 和任职与本人公开名录吻合。抽查量子格点绝热定理、拓扑相和输运定理等高引结果。区分 OpenAlex 的无 DOI 收录与发表口径。"
+    "sven-bachmann": "UBC 官方 ORCID 和任职与本人公开名录吻合。抽查量子格点绝热定理、拓扑相和输运定理等高引结果。区分 OpenAlex 的无 DOI 收录与发表口径。",
+    "james-borger": "ANU 官方任职及本人论著，两条 DOI 定位同一身份；核对 Witt 向量、λ 环与类域论的高引论文。",
+    "anna-calissano": "UCL 及 Imperial 任职履历与两篇论文 DOI 一致，核对本人完整发表页中的图空间几何及脑网络作品，早期高引的 La Scala 社交网络文章同样在本人论文页。"
   }
 }

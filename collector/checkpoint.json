@@ -1537,9 +1537,9 @@
       "url": "https://dur.ac.uk/departments/academic/physics/particle-theory/people/",
       "label": "Centre for Particle Theory · 3 personnel lists",
       "status": "reference",
-      "count": 0,
+      "count": 102,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "跨数学和物理两系。原名录为学术 41、科研 18、博士生 43，个别拼写或学生重名保持原样。现任职务和专长继续与个人档案交叉。"
     },
     {
       "id": "durham-full-audit-source",
@@ -3359,7 +3359,7 @@
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-24",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "jhu-ams-faculty-31",
@@ -3409,7 +3409,7 @@
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "jhu-minds-faculty-30",
@@ -3489,7 +3489,7 @@
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-24",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "jordan-27-ghanem-cv",
@@ -3509,7 +3509,7 @@
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-24",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "jordan-27-sp-directory",
@@ -5067,9 +5067,9 @@
       "url": "https://cse.mit.edu/people/",
       "label": "Center for Computational Science and Engineering · People",
       "status": "reference",
-      "count": 0,
+      "count": 60,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "60 张主任、核心和关联 PI 卡片，去重 58 人。主要核对项目所列几何和 PDE 专长，PI 档按本系主职交叉。"
     },
     {
       "id": "mit-csail-geometry31",
@@ -5102,14 +5102,24 @@
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
+      "id": "mit-ctp-live31",
+      "school": "mit",
+      "url": "https://ctp.mit.edu/people/",
+      "label": "Center for Theoretical Physics · current directory",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
+    },
+    {
       "id": "mit-ctp-lns31",
       "school": "mit",
       "url": "https://web.mit.edu/lns/research/ctp.html",
       "label": "Laboratory for Nuclear Science · Theoretical Physics listed Faculty and Research Staff",
       "status": "reference",
-      "count": 0,
+      "count": 57,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "官方页面读取 faculty.js 中 CTP 分组 57 人（PI 与教师 24，科研与学术岗位 33）。原表混有已变动任职，逐人从现行 Physics 页面交叉确认。"
     },
     {
       "id": "mit-ctp-people31",
@@ -5119,7 +5129,7 @@
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "mit-detail",
@@ -5192,6 +5202,36 @@
       "note": "读取全部 130 人，保留和已登记人员同名及人员 ID 一致的 43 条具名博士生记录。"
     },
     {
+      "id": "mit-iaifi-call31",
+      "school": "mit",
+      "url": "https://iaifi.org/fellows.html",
+      "label": "NSF IAIFI · dated fellowship call",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "mit-iaifi-current31",
+      "school": "mit",
+      "url": "https://iaifi.org/current-fellows",
+      "label": "NSF IAIFI · current fellows",
+      "status": "reference",
+      "count": 0,
+      "checked_at": null,
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "mit-iaifi31",
+      "school": "mit",
+      "url": "https://iaifi.org/people",
+      "label": "NSF IAIFI · cross-institution role and research roster",
+      "status": "reference",
+      "count": 222,
+      "checked_at": "2026-11-25",
+      "note": "七个分栏 222 张角色卡，保留来源所列主聘机构。联合组成员不能单独证明 MIT 教职；博士后、访客、学生与教职分列。"
+    },
+    {
       "id": "mit-instruct31",
       "school": "mit",
       "url": "https://math.mit.edu/directory/instructors.html?show=detail",
@@ -5200,6 +5240,16 @@
       "count": 42,
       "checked_at": "2026-11-25",
       "note": "校方具名卡片读取精确任职与个人说明；未来起聘、科研、荣休和访问分开。"
+    },
+    {
+      "id": "mit-live-ctp31",
+      "school": "mit",
+      "url": "https://physics.mit.edu/?faculty_divisions=theoretical-nuclear-particle-physics",
+      "label": "MIT Physics · theoretical nuclear and particle physics filter",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "mit-math",
@@ -5240,6 +5290,26 @@
       "count": 17,
       "checked_at": "2026-11-25",
       "note": "使用个人研究说明；与职位分栏中的同一个人员编号交叉。"
+    },
+    {
+      "id": "mit-physics-catalog31",
+      "school": "mit",
+      "url": "https://catalog.mit.edu/schools/science/physics/",
+      "label": "MIT Physics · academic catalogue staff and emeriti",
+      "status": "reference",
+      "count": 127,
+      "checked_at": "2026-11-25",
+      "note": "院系课程目录 127 条具名教师和科研卡片，交叉正式教职、访问、荣休和名誉记录。理论物理岗位及方向另以 CTP 现行个人资料验证。"
+    },
+    {
+      "id": "mit-physics-live31",
+      "school": "mit",
+      "url": "https://physics.mit.edu/faculty/",
+      "label": "MIT Physics · live faculty directory",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "mit-physics-theory31",
@@ -5349,7 +5419,7 @@
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "monash-centres31",
@@ -5409,7 +5479,7 @@
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "monash-malaysia-it31",
@@ -5429,7 +5499,7 @@
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "monash-matrix31",
@@ -5459,7 +5529,7 @@
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "monash-pure-catalog31",
@@ -5589,7 +5659,7 @@
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "monash-topology-group31",
@@ -7199,7 +7269,7 @@
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-24",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "psau-handbook-30-a",
@@ -8299,7 +8369,7 @@
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "snu-ribs-staff31",
@@ -8309,7 +8379,7 @@
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "snu-rim-cross31",
@@ -8329,7 +8399,7 @@
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "snu-roster-koreanemeriti",
@@ -10029,7 +10099,7 @@
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "ucl-ai-staff31",
@@ -10037,9 +10107,9 @@
       "url": "https://www.ucl.ac.uk/engineering/research/centres-institutes-and-labs/ucl-centre-artificial-intelligence/people",
       "label": "Engineering · UCL Centre for Artificial Intelligence · People",
       "status": "reference",
-      "count": 0,
+      "count": 56,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "三张具名表包括负责人、研究与教学岗位及项目支持。交叉核对公开几何课题及 VECG。"
     },
     {
       "id": "ucl-area31-analysis",
@@ -10187,15 +10257,25 @@
       "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/members-3",
       "label": "Centre for Computational Science · member and past member roles",
       "status": "reference",
-      "count": 0,
+      "count": 38,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "逐条核对中心主任、科研人员、博士生、管理团队和历任人员。具名研究集中于分子模拟、量子化学、计算流体和工程；历史组独立。"
     },
     {
       "id": "ucl-ccs-works31",
       "school": "ucl",
       "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/computational-science/publications",
       "label": "Centre for Computational Science · Publications",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "ucl-cdcsml31",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/engineering/intelligent-systems",
+      "label": "Computer Science · Intelligent Systems",
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-25",
@@ -10217,9 +10297,9 @@
       "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/cosmoparticle/people/cosmoparticle-core",
       "label": "Cosmoparticle Initiative · Core and alumni",
       "status": "reference",
-      "count": 0,
+      "count": 18,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "按栏目读取 18 位具名人员，现行栏目与 Alumni 分列；个别旧栏目任职须以单位现任个人页为准。学科单位不是个人研究结论。"
     },
     {
       "id": "ucl-cosmo-people31",
@@ -10237,9 +10317,9 @@
       "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/cosmoparticle/people/postdoctoral-researchers",
       "label": "Cosmoparticle Initiative · Postdoctoral Researchers and alumni",
       "status": "reference",
-      "count": 0,
+      "count": 34,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "按栏目读取 34 位具名人员，现行栏目与 Alumni 分列；个别旧栏目任职须以单位现任个人页为准。学科单位不是个人研究结论。"
     },
     {
       "id": "ucl-datasig31",
@@ -10282,6 +10362,16 @@
       "note": ""
     },
     {
+      "id": "ucl-founder-ai31",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/engineering/foundational-ai-cdt/students-and-alumni",
+      "label": "Foundational AI CDT · Students and Alumni",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-25",
+      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
       "id": "ucl-geometry",
       "school": "ucl",
       "url": "https://www.homepages.ucl.ac.uk/~ucahoan/geometry.html",
@@ -10297,9 +10387,9 @@
       "url": "https://geometry.cs.ucl.ac.uk/people.php",
       "label": "Computer Science · Smart Geometry Processing · current role sections",
       "status": "reference",
-      "count": 0,
+      "count": 9,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "读当前研究、博士、硕士分栏。核对 Alumni 和 Visitors 标题，学生与已离任人员独立。"
     },
     {
       "id": "ucl-group-geo31",
@@ -10327,9 +10417,9 @@
       "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/physics-astronomy/research/research-groups/high-energy-physics/hep-people/academic-staff",
       "label": "Physics and Astronomy · High Energy Physics Academic Staff",
       "status": "reference",
-      "count": 0,
+      "count": 21,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "核对官方 21 名教师与具名子领域。影响本目录的议题以 DPI 及数学系个人研究证据为准。"
     },
     {
       "id": "ucl-honorary31",
@@ -10347,9 +10437,9 @@
       "url": "https://www.ucl.ac.uk/engineering/computer-science/research/research-groups-and-centres/ucl-centre-inverse-problems",
       "label": "Engineering · Centre for Inverse Problems",
       "status": "reference",
-      "count": 0,
+      "count": 16,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "具名正式/合作成员 14 条、博士后 2 条，研究材料围绕计算反问题及成像，几何研究另以官方具名个人成果交叉。"
     },
     {
       "id": "ucl-lsgnt31",
@@ -10432,6 +10522,26 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "ucl-stat-academic31",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/people/academic-and-lecturing-staff",
+      "label": "Statistical Science · Academic and Lecturing Staff",
+      "status": "reference",
+      "count": 50,
+      "checked_at": "2026-11-25",
+      "note": "官方分栏 50 条。保留校方现任、博士生、荣誉或荣休的栏目原称；几何方向由个人研究和具名论文复核。"
+    },
+    {
+      "id": "ucl-stat-emer31",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/departments/statistical-science/people/honorary-and-emeritus-staff",
+      "label": "Statistical Science · Honorary and Emeritus Staff",
+      "status": "reference",
+      "count": 15,
+      "checked_at": "2026-11-25",
+      "note": "官方分栏 15 条。保留校方现任、博士生、荣誉或荣休的栏目原称；几何方向由个人研究和具名论文复核。"
+    },
+    {
       "id": "ucl-stat-people31",
       "school": "ucl",
       "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/people",
@@ -10440,6 +10550,16 @@
       "count": 0,
       "checked_at": "2026-11-25",
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "ucl-stat-phd31",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/people/phd-students",
+      "label": "Statistical Science · PhD Students",
+      "status": "reference",
+      "count": 59,
+      "checked_at": "2026-11-25",
+      "note": "官方分栏 59 条。保留校方现任、博士生、荣誉或荣休的栏目原称；几何方向由个人研究和具名论文复核。"
     },
     {
       "id": "ucl-stat-projects31",
@@ -10452,14 +10572,24 @@
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
+      "id": "ucl-stat-ra31",
+      "school": "ucl",
+      "url": "https://www.ucl.ac.uk/mathematical-physical-sciences/statistics/people/research-associates",
+      "label": "Statistical Science · Research Associates",
+      "status": "reference",
+      "count": 11,
+      "checked_at": "2026-11-25",
+      "note": "官方分栏 11 条。保留校方现任、博士生、荣誉或荣休的栏目原称；几何方向由个人研究和具名论文复核。"
+    },
+    {
       "id": "ucl-vecg-people31",
       "school": "ucl",
       "url": "https://www.ucl.ac.uk/engineering/computer-science/research/research-groups-and-centres/virtual-environments-and-computer-graphics-group",
       "label": "Computer Science · Virtual Environments and Computer Graphics",
       "status": "reference",
-      "count": 0,
+      "count": 6,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "学术人员 6 位，分主题为几何处理、虚拟环境、三维显示、图形渲染、数字现实和音频。具名几何研究交叉本人及 SGP 名册。"
     },
     {
       "id": "ucla-geometry",
@@ -10707,9 +10837,9 @@
       "url": "https://produccioncientifica.ugr.es/unidades/8753/investigadores",
       "label": "UGR-CRIS: 42 current researcher entries and 69 timeline entries",
       "status": "reference",
-      "count": 0,
+      "count": 111,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "科研活动门户当前筛选与历年成员分列；历年具有联合或原任，多处同名并回院系。"
     },
     {
       "id": "ugr-geom-ex31",
@@ -11247,9 +11377,9 @@
       "url": "https://science.utm.my/faculty-of-science-academic-staff/",
       "label": "Faculty of Science · Mathematical Sciences specialities",
       "status": "reference",
-      "count": 0,
-      "checked_at": "2026-11-24",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "count": 60,
+      "checked_at": "2026-11-25",
+      "note": "院级总表 180 行中 60 行属 Mathematical Sciences；旧头衔、荣休、在任与当前数学系页面区分。"
     },
     {
       "id": "utm-aaag-pure31",
@@ -11287,9 +11417,9 @@
       "url": "https://pure.utm.my/research-centre/J091002",
       "label": "UTM Scholar · CIAM academic staff and research groups",
       "status": "reference",
-      "count": 0,
+      "count": 13,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "官方页面显示 2 名教授、4 名副教授、7 名高级讲师；逐项对照 13 位具名成员关联的研究组及院系。索引版本提供完整名录，直连有时返回软 404。"
     },
     {
       "id": "utm-department-research31",
@@ -11377,9 +11507,9 @@
       "url": "https://science.utm.my/mathematics/directory/",
       "label": "Mathematical Sciences Department · Current directory and retirement scheme",
       "status": "reference",
-      "count": 0,
-      "checked_at": "2026-11-23",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "count": 64,
+      "checked_at": "2026-11-25",
+      "note": "当前院系表 61 个非空具名条目，另列 3 个退休协助安排的期限。用含职级的人员页交叉。"
     },
     {
       "id": "utm-mathopt-people31",
@@ -11769,7 +11899,7 @@
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "vit-chennai-research31",
@@ -11779,7 +11909,7 @@
       "status": "reference",
       "count": 0,
       "checked_at": "2026-11-25",
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "note": "补证来源已尝试访问，当前未取得可读取内容。"
     },
     {
       "id": "vit-vellore-27-faculty",
@@ -419198,6 +419328,19 @@
       "checked_at": "2026-11-23"
     },
     {
+      "url": "https://algebraicgeometry.science.unimelb.edu.au/home-page/members/",
+      "cache_id": "profile-4359270a98960b65",
+      "status": "parsed",
+      "record": {
+        "research": "",
+        "homepage": "",
+        "cv": "",
+        "publications": "",
+        "checked_at": "2026-11-24"
+      },
+      "checked_at": "2026-11-24"
+    },
+    {
       "url": "https://ammann.app.uni-regensburg.de/",
       "cache_id": "profile-4f7c0238d058eccd",
       "status": "parsed",
@@ -498620,6 +498763,38 @@
       "checkedAt": "2026-11-24",
       "candidate_url": "https://openalex.org/A5055718307"
     },
+    "anna-calissano": {
+      "status": "review_ready",
+      "author_id": "A5059019644",
+      "papers": [
+        {
+          "title": "Populations of unlabelled networks: graph space geometry and generalized geodesic principal components",
+          "year": 2023,
+          "url": "https://doi.org/10.1093/biomet/asad024"
+        },
+        {
+          "title": "Graph alignment exploiting the spatial organization improves the similarity of brain networks",
+          "year": 2024,
+          "url": "https://doi.org/10.1002/hbm.26554"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5059019644",
+        "orcid": "https://orcid.org/0000-0002-7403-0531",
+        "url": "https://openalex.org/authors/A5059019644",
+        "authorApiUrl": "https://api.openalex.org/authors/A5059019644",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5059019644,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 11,
+        "works": 25,
+        "citations": 164,
+        "hIndex": 4,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "anna-felikson": {
       "status": "source_error",
       "reason": "OpenAlex 请求或返回数据失败。",
@@ -501352,6 +501527,11 @@
       "checkedAt": "2026-11-23",
       "candidate_url": "https://openalex.org/A5005847878"
     },
+    "jack-hall": {
+      "status": "identity_review",
+      "reason": "同一人的论文指向不同作者档案。",
+      "checkedAt": "2026-11-25"
+    },
     "jack-huizenga": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
@@ -501387,6 +501567,38 @@
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
+    },
+    "james-borger": {
+      "status": "review_ready",
+      "author_id": "A5085867060",
+      "papers": [
+        {
+          "title": "The basic geometry of Witt vectors, I: The affine case",
+          "year": 2011,
+          "url": "https://doi.org/10.2140/ant.2011.5.231"
+        },
+        {
+          "title": "The basic geometry of Witt vectors. II: Spaces",
+          "year": 2010,
+          "url": "https://doi.org/10.48550/arXiv.1006.0092"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5085867060",
+        "orcid": "https://orcid.org/0000-0002-4238-5020",
+        "url": "https://openalex.org/authors/A5085867060",
+        "authorApiUrl": "https://api.openalex.org/authors/A5085867060",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5085867060,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-25",
+        "articles": 14,
+        "works": 25,
+        "citations": 501,
+        "hIndex": 11,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "james-freitag": {
       "status": "identity_review",
