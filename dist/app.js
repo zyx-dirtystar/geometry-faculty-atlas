@@ -445,7 +445,8 @@ function showProfile(id, schoolFilter) {
     node("dl",{class:"detail-metrics"},metric("文章",record.articles),metric("收录成果",record.works),metric("引用",record.citations),metric("h 指数",record.hIndex)),
     node("div",{class:"quicklinks"},
       external("作者档案",record.url), external("文章计数原始查询",record.articleApiUrl), external("作者计量原始查询",record.authorApiUrl), external("ORCID",record.orcid)),
-    record.articleScope ? node("p",{},node("small",{},`文章口径 ${record.articleScope}。引用口径 ${record.citationScope || "待补充"}。`)) : null
+    record.articleScope || record.citationScope ? node("p",{},node("small",{},
+      [record.articleScope && `文章口径 ${record.articleScope}。`, record.citationScope && `引用口径 ${record.citationScope}。`].filter(Boolean).join(" "))) : null
   ));
   const counts = (person.publicationCounts ?? []).map(record => node("li",{},
     `${countFormat(record.value)}${record.lowerBound ? "+" : ""} · ${record.scope} · 核对 ${record.checkedAt} `,
@@ -493,13 +494,15 @@ function csvCell(value) {
 }
 
 function exportCsv() {
-  const header = ["姓名","中文名","学校","部门","任职","公示任职链接","方向","关键词","个人主页","CV","代表论文","文章数","成果数","累计引用","h 指数","指标来源","作者 ID","数据日期","指标口径","身份核对说明"];
+  const header = ["姓名","中文名","学校","部门","任职","公示任职链接","方向","关键词","个人主页","CV","代表论文","文章数","成果数","累计引用","h 指数","指标来源","作者 ID","数据日期","指标口径","身份核对说明","其他来源引用"];
   const rows = currentFaculty.map(person => {
     const affiliation = rankedSchool(person,byId("school-filter").value);
     const m = comparableMetrics(person);
     return [person.name,person.nameZh,displaySchool(schools.get(affiliation.schoolId)),affiliation.department,affiliation.title,affiliation.url,
       person.fields.map(field => fieldNames[field]).join(" / "),person.tags?.join(" / "),person.homepage,person.cvUrl,
-      person.papers?.map(work => work.url).join(" | "),m?.articles,m?.works,m?.citations,m?.hIndex,m?.source,m?.authorId,m?.checkedAt,m?.articleScope,person.identityNote];
+      person.papers?.map(work => work.url).join(" | "),m?.articles,m?.works,m?.citations,m?.hIndex,m?.source,m?.authorId,m?.checkedAt,m?.articleScope,person.identityNote,
+      (person.metrics ?? []).filter(record => record.source !== "OpenAlex" && Number.isInteger(record.citations))
+        .map(record => [record.citations,record.source,record.citationScope,record.checkedAt,record.url].filter(Boolean).join(" · ")).join(" | ")];
   });
   const csv = "\uFEFF" + [header,...rows].map(row => row.map(csvCell).join(",")).join("\r\n");
   download("geometry-faculty.csv",csv,"text/csv;charset=utf-8");

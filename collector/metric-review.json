@@ -261,7 +261,13 @@
     "jesse-gell-redman": "A5058613383",
     "gwyn-bellamy": "A5015968105",
     "ian-strachan": "A5052036938",
-    "anna-puskas": "A5080343230"
+    "anna-puskas": "A5080343230",
+    "peter-albers": "A5090909591",
+    "tim-laux": "A5052785023",
+    "agustin-moreno": "A5023862743",
+    "alberto-merici": "A5052246476",
+    "gebhard-bockle": "A5027071420",
+    "otmar-venjakob": "A5108734997"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -351,7 +357,18 @@
     "bhargav-bhatt": "用两篇具名 DOI 核对分别指向不同的 OpenAlex 作者档案。现任 Princeton 与 IAS 双聘已核，Google Scholar 公开搜索未取得可唯一对应的汇总。总数待核。",
     "dmitry-kubrak": "用 IAS 公开 ORCID 查询 OpenAlex 返回 404。已补录本人展示的论文与预印本共 12 项及范围，累计被引待核。",
     "konstantinos-kartas": "以官方数学期刊 DOI 查询，OpenAlex 未返回唯一作者。已补录本人展示的 Research papers 共 9 项及范围，累计被引待核。",
-    "luigi-lombardi": "两篇本人研究方向匹配的 DOI 在 OpenAlex 指向两个作者档案。Google Scholar 公开搜索未核唯一身份，保留本人发表页及公开 CV。"
+    "luigi-lombardi": "两篇本人研究方向匹配的 DOI 在 OpenAlex 指向两个作者档案。Google Scholar 公开搜索未核唯一身份，保留本人发表页及公开 CV。",
+    "peter-albers": "海德堡职务、本人发表列表与 Floer 同调、辛台球 DOI 交叉对应；已排除同名的泌尿科、材料和环境研究者。",
+    "tim-laux": "现任与院系发表表的平均曲率流成果匹配，两条 DOI 与高引样本一致。",
+    "agustin-moreno": "海德堡现任、本人研究页的接触结构与三体问题论文匹配；其他检索结果为同名或近名。",
+    "alberto-merici": "海德堡任职及本人研究页的对数动机与 p-adic 上同调成果匹配，抽样一致。",
+    "gebhard-bockle": "海德堡现任与 Cartier modules、射影曲线上的 G-local systems 具名成果一致。",
+    "otmar-venjakob": "海德堡任职及 Iwasawa 理论方向同具名论文与高引样本一致。",
+    "rob-h-eggermont": "TU/e 具名档案公开的 ORCID、任职与 Plücker 簇、无穷维代数几何作品一致。",
+    "alexander-schmidt": "已用同名姓名检索、海德堡作者地址及 DOI 10.1007/s00229-024-01608-5 锁定 A5101441904。另一篇本人列出的 DOI 10.1007/s00222-004-0415-y 在 OpenAlex 中有历史任职、作者姓名匹配但作者 ID 为空。两个值受漏收影响继续待核。",
+    "johannes-walcher": "海德堡任职和两个镜像对称 DOI 匹配 A5059054682。另有同名 OpenAlex 档案 A5164012249 的 2025 会议文集，需判断是否同人及是否已在主档收录。暂不汇总。",
+    "remco-duits": "TU/e 公开 ORCID 与 A5013378425 一致；A5062687114 另收录同单位的具名会议成果，OpenAlex 汇总待核。TU/e 具名档案链接的 Google Scholar 已核对校邮箱域与两篇高引作品，另用本人完整表的截至 2025 年统计。",
+    "luc-m-j-florack": "TU/e ORCID 与 A5077837139 一致。另一 OpenAlex 档案 A5164090663 的两项成果未出现在作品列表。公开 Scholar 姓名检索未确认具名档案；另保存 TU/e 的成果库范围和 Scopus 引用。"
   },
   "evidence": {
     "ravi-vakil": [

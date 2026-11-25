@@ -4667,7 +4667,7 @@
     {
       "id": "iit-kanpur",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，5 条任职或方向待核。 已收录 8 位学者，个人主页 3、CV 1、指标 0。",
+      "coverageNote": "已解析 1/1 个登记来源，5 条任职或方向待核。 已收录 3 位学者，个人主页 3、CV 0、指标 0。 复查五份具名职务及方向简介，校正旧个人快照误提取整份教师目录造成的研究方向交叉。五条中四条属其他方向，一条属组合与计算几何相邻方向。院系与跨单位范围仍待补。",
       "rosterLinks": [
         [
           "数学与统计系教师名录",
@@ -5319,11 +5319,19 @@
     {
       "id": "heidelberg",
       "coverage": "sample",
-      "coverageNote": "已解析 1/4 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 0、指标 0。 已查数学研究所 Algebra und Arithmetische Geometrie 研究方向与教授分组。微分几何、跨中心及兼职任职仍待对账。",
+      "coverageNote": "已解析 7/13 个登记来源，2 条任职或方向待核。 已收录 8 位学者，个人主页 8、CV 2、指标 6。 已查数学研究所 Algebra und Arithmetische Geometrie 研究方向与教授分组。微分几何、跨中心及兼职任职仍待对账。 已核数学所 A–Z 教授、副列职称和荣休分栏，按校方六个分组比对几何、代数、分析和数学物理方向。复核几何与动力学研究站、几何群论组及旧名录冲突，Anja Randecker 转任 Caen，Georg Oberdieck 现任 KTH。研究站完整人员页出现证书错误，HEGL 的公开 About 入口未给可读取名单，继续追查跨中心和现任编制。",
       "rosterLinks": [
+        [
+          "Institute for Mathematics · Analysis and Mathematical Modelling",
+          "https://www.math.uni-heidelberg.de/en/sections/analysis-and-mathematical-modelling"
+        ],
         [
           "Algebra und Arithmetische Geometrie",
           "https://www.math.uni-heidelberg.de/de/abteilungen/aag"
+        ],
+        [
+          "Institute for Mathematics · Algebra and Arithmetic Geometry (English)",
+          "https://www.math.uni-heidelberg.de/en/abteilungen/aag"
         ],
         [
           "Differential Geometry Research Group",
@@ -5334,11 +5342,39 @@
           "https://web.mathi.uni-heidelberg.de/ggt"
         ],
         [
+          "Institute for Mathematics · Geometry and Topology",
+          "https://www.math.uni-heidelberg.de/en/sections/geometry-and-topology"
+        ],
+        [
+          "Geometry and Group Theory · Former members",
+          "https://web.mathi.uni-heidelberg.de/ggt/ggtprevious"
+        ],
+        [
+          "Institute for Mathematics · Invariants and Duality",
+          "https://www.math.uni-heidelberg.de/en/sections/id"
+        ],
+        [
           "数学系或所属学院人员入口",
           "https://www.mathinf.uni-heidelberg.de/en/node/218/administration/faculty-directory?overlay=contact"
+        ],
+        [
+          "Institute for Mathematics · Numerical Analysis and Optimization",
+          "https://www.math.uni-heidelberg.de/en/sections/numerical-analysis-optimization-and-scientific-machine-learning"
+        ],
+        [
+          "Institute for Mathematics · six research sections",
+          "https://www.math.uni-heidelberg.de/en/sections"
+        ],
+        [
+          "Institute for Mathematics · A–Z staff directory",
+          "https://www.math.uni-heidelberg.de/en/about-us/staff-members"
+        ],
+        [
+          "Institute for Mathematics · Statistics and Probability",
+          "https://www.math.uni-heidelberg.de/en/sections/mathematical-statistics-and-probability-theory"
         ]
       ],
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "khalifa",
@@ -5451,7 +5487,7 @@
     {
       "id": "eindhoven",
       "coverage": "sample",
-      "coverageNote": "已解析 1/4 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 1。 已查数学与计算机科学系科研门户、离散代数与几何英荷双语研究组及个人页。已核录部分组员并按个人页区分兼职。组的完整名单、其他系组和校外联合任职待核。 核对含荷语名称的校级门户，有限几何学者 Hans Cuypers 单列。",
+      "coverageNote": "已解析 3/7 个登记来源，0 条任职或方向待核。 已收录 3 位学者，个人主页 2、CV 1、指标 3。 已查数学与计算机科学系科研门户、离散代数与几何英荷双语研究组及个人页。已核录部分组员并按个人页区分兼职。组的完整名单、其他系组和校外联合任职待核。 核对含荷语名称的校级门户，有限几何学者 Hans Cuypers 单列。 新增 CASA 具名几何学习与微分几何组长、TU/e Applied Differential Geometry 正教授，并比对机构 ORCID 和 OpenAlex 作者分拆。旧研究门户荷语人员页返回 403；已用 CASA 组页及个人公开档案补查，旧 ADG 与现 GLDG 的完整任职范围仍需确认。",
       "rosterLinks": [
         [
           "Discrete Algebra and Geometry · Profiles",
@@ -5462,6 +5498,18 @@
           "https://research.tue.nl/nl/organisations/discrete-algebra-and-geometry/"
         ],
         [
+          "TU/e · Luc Florack official appointment and research",
+          "https://research.tue.nl/p/en/persons/luc-mj-florack"
+        ],
+        [
+          "Applied Differential Geometry · Onderzoekers",
+          "https://research.tue.nl/nl/organisations/applied-differential-geometry-1/persons/"
+        ],
+        [
+          "CASA · Geometric Learning and Differential Geometry",
+          "https://casa.win.tue.nl/home/geometric-learning-and-differential-geometry/"
+        ],
+        [
           "Discrete Algebra and Geometry — Eindhoven University of Technology Research Portal",
           "https://research.tue.nl/p/en/organisations/discrete-algebra-and-geometry"
         ],
@@ -5470,7 +5518,7 @@
           "https://research.tue.nl/p/en/organisations/mathematics-and-computer-science"
         ]
       ],
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "uchile",
@@ -5795,7 +5843,7 @@
     {
       "id": "jordan",
       "coverage": "sample",
-      "coverageNote": "已解析 1/12 个登记来源，9 条任职或方向待核。 已从更新时间为 2026-04-06 的数学系英文官方表核录 54 条学术记录。另查 94 个个人卡片及学术主页入口，以及 78 个个人研究和发表分栏。22 位在公开方向分栏明示专长。通过个人 CV 和出版方补证；无个人站或分栏未公开方向的条目逐人保留。 具名任职复核发现，英文系目录 54 条含已故历史教授与交叉名录，不可按页面更新日判断全为现任。补查现年鉴、阿拉伯语理学院和 Aqaba 校区。确认一复变几何函数论与 Cartan 域 Toeplitz 算子为相关方向，校级现任全名单仍需复核。 9 份剩余具名 SharePoint 卡已重新访问，仍未返回可读个人档案。切换英文和阿拉伯语题名、校方年鉴、学术网站、研究组及论文查找后，仍未核实独立的现任和方向。",
+      "coverageNote": "已解析 1/12 个登记来源，9 条任职或方向待核。 已从更新时间为 2026-04-06 的数学系英文官方表核录 54 条学术记录。另查 94 个个人卡片及学术主页入口，以及 78 个个人研究和发表分栏。22 位在公开方向分栏明示专长。通过个人 CV 和出版方补证；无个人站或分栏未公开方向的条目逐人保留。 具名任职复核发现，英文系目录 54 条含已故历史教授与交叉名录，不可按页面更新日判断全为现任。补查现年鉴、阿拉伯语理学院和 Aqaba 校区。确认一复变几何函数论与 Cartan 域 Toeplitz 算子为相关方向，校级现任全名单仍需复核。 9 份剩余具名 SharePoint 卡已重新访问，仍未返回可读个人档案。切换英文和阿拉伯语题名、校方年鉴、学术网站、研究组及论文查找后，仍未核实独立的现任和方向。 补查 Aqaba 校区 Academics 页面成功，未见独立数学研究师资名单；校方 2025–2026 年鉴返回过期证书，重查 Shaker Nazzal 和 Mahmoud Kutkut 的英文具名卡均返回 HTTP 404。已查历史师生／论文证据，仍有具名现任待核。",
       "rosterLinks": [
         [
           "University of Jordan · Academic Staff directory",
@@ -16222,6 +16270,153 @@
       "recordStatus": "directory"
     },
     {
+      "id": "luc-m-j-florack",
+      "name": "Luc M. J. Florack",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "eindhoven",
+          "department": "数学系",
+          "title": "Full Professor in Applied Differential Geometry",
+          "url": "https://research.tue.nl/p/en/persons/luc-mj-florack",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry of image data",
+        "differential invariants",
+        "multiscale geometric representations"
+      ],
+      "homepage": null,
+      "homepageStatus": "已查 TU/e 具名科研档案和研究组，未确认单独维护的个人学术网站。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查 TU/e 具名英文与荷文档案及学术网页检索，未找到独立具名 CV。",
+      "publicationsUrl": "https://research.tue.nl/p/en/persons/luc-mj-florack",
+      "publicationCounts": [
+        {
+          "value": 59,
+          "scope": "TU/e 成果库公开 Article 分类（页面覆盖 1989–2025）",
+          "checkedAt": "2026-11-25",
+          "url": "https://research.tue.nl/en/persons/luc-mj-florack/"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "TU/e ORCID 与 A5077837139 一致。另一 OpenAlex 档案 A5164090663 的两项成果未出现在作品列表。公开 Scholar 姓名检索未确认具名档案；另保存 TU/e 的成果库范围和 Scopus 引用。",
+      "metrics": [
+        {
+          "source": "TU/e Research Portal (Scopus)",
+          "authorId": "luc-mj-florack",
+          "url": "https://research.tue.nl/p/en/persons/luc-mj-florack",
+          "checkedAt": "2026-11-25",
+          "citations": 2543,
+          "citationScope": "TU/e 成果库收录范围内的 Scopus 引用（All time）"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5077837139",
+      "papers": [
+        {
+          "title": "Scale and the differential structure of images",
+          "year": 1992,
+          "url": "https://doi.org/10.1016/0262-8856(92)90024-w"
+        },
+        {
+          "title": "General intensity transformations and differential invariants",
+          "year": 1994,
+          "url": "https://doi.org/10.1007/bf01249895"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of image data; differential invariants; multiscale geometric representations",
+          "url": "https://research.tue.nl/p/en/persons/luc-mj-florack"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "remco-duits",
+      "name": "Remco Duits",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "eindhoven",
+          "department": "数学系",
+          "title": "Full Professor of Mathematics",
+          "url": "https://research.tue.nl/p/en/persons/remco-duits",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry on homogeneous spaces",
+        "geometric analysis",
+        "sub-Riemannian geometry and geometric learning"
+      ],
+      "homepage": "https://rduits.win.tue.nl/",
+      "homepageStatus": null,
+      "cvUrl": "https://rduits.win.tue.nl/CV.pdf",
+      "cvType": "公开 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://rduits.win.tue.nl/complete.pdf",
+      "publicationCounts": [
+        {
+          "value": 50,
+          "scope": "作者完整清单截至 2025 年，表头披露的同行评审期刊论文",
+          "checkedAt": "2026-11-25",
+          "url": "https://rduits.win.tue.nl/complete.pdf"
+        },
+        {
+          "value": 64,
+          "scope": "作者完整清单截至 2025 年，表头披露的同行评审会议论文",
+          "checkedAt": "2026-11-25",
+          "url": "https://rduits.win.tue.nl/complete.pdf"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "TU/e 公开 ORCID 与 A5013378425 一致；A5062687114 另收录同单位的具名会议成果，OpenAlex 汇总待核。TU/e 具名档案链接的 Google Scholar 已核对校邮箱域与两篇高引作品，另用本人完整表的截至 2025 年统计。",
+      "metrics": [
+        {
+          "source": "Google Scholar",
+          "authorId": "icUsafMAAAAJ",
+          "url": "https://scholar.google.com/citations?user=icUsafMAAAAJ&hl=en",
+          "checkedAt": "2026-11-25",
+          "citations": 4581,
+          "hIndex": 34,
+          "citationScope": "Google Scholar 作者档案 All 栏"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5013378425",
+      "papers": [
+        {
+          "title": "Robust Retinal Vessel Segmentation via Locally Adaptive Derivative Frames in Orientation Scores",
+          "year": 2016,
+          "url": "https://doi.org/10.1109/tmi.2016.2587062"
+        },
+        {
+          "title": "A cortical-inspired multi-orientation geometry model for retinal image analysis",
+          "year": 2014,
+          "url": "https://doi.org/10.3389/conf.fninf.2014.18.00089"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry on homogeneous spaces; geometric analysis; sub-Riemannian geometry and geometric learning",
+          "url": "https://casa.win.tue.nl/home/geometric-learning-and-differential-geometry/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "rob-h-eggermont",
       "name": "Rob H. Eggermont",
       "aliases": [],
@@ -16269,17 +16464,37 @@
           "url": "https://openalex.org/authors/A5067578667",
           "authorApiUrl": "https://api.openalex.org/authors/A5067578667",
           "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5067578667,type:article&per_page=1&select=id",
-          "checkedAt": "2026-11-24",
+          "checkedAt": "2026-11-25",
           "articles": 16,
           "works": 24,
-          "citations": 237,
+          "citations": 229,
           "hIndex": 9,
           "articleScope": "OpenAlex type:article",
           "citationScope": "OpenAlex 作者档案累计引用"
+        },
+        {
+          "source": "Google Scholar",
+          "authorId": "uojNzO0AAAAJ",
+          "url": "https://scholar.google.com/citations?user=uojNzO0AAAAJ&hl=en",
+          "checkedAt": "2026-11-25",
+          "citations": 345,
+          "hIndex": 11,
+          "citationScope": "Google Scholar 作者档案 All 栏"
         }
       ],
-      "identityUrl": null,
-      "papers": [],
+      "identityUrl": "https://openalex.org/authors/A5067578667",
+      "papers": [
+        {
+          "title": "The Geometry of Polynomial Representations",
+          "url": "https://doi.org/10.1093/imrn/rnac220",
+          "year": 2022
+        },
+        {
+          "title": "Plücker varieties and higher secants of Sato’s Grassmannian",
+          "url": "https://doi.org/10.1515/crelle-2015-0035",
+          "year": 2015
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic geometry and finiteness of varieties in large or infinite dimension",
@@ -16287,7 +16502,7 @@
         },
         {
           "text": "个人研究或论文来源",
-          "url": "https://research.tue.nl/en/persons/rob-h-eggermont/"
+          "url": "https://research.tue.nl/p/en/persons/rob-h-eggermont"
         }
       ],
       "checkedAt": "2026-11-24",
@@ -20770,6 +20985,211 @@
       "recordStatus": "directory"
     },
     {
+      "id": "agustin-moreno",
+      "name": "Agustin Moreno",
+      "aliases": [
+        "Agustín Moreno"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "heidelberg",
+          "department": "数学系",
+          "title": "Junior Professor of Mathematics",
+          "url": "https://www.math.uni-heidelberg.de/en/sections/geometry-and-topology",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry",
+        "symplectic and contact topology",
+        "Floer theory",
+        "celestial mechanics"
+      ],
+      "homepage": "https://www.agustin-moreno.com/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "本人主页链接的 CV https://drive.google.com/file/d/1l0lSCyiMIJgTBxKYKa8FhTkhm7Nt-Msw/view 返回 HTTP 404。研究主页提供履历经历和成果。",
+      "publicationsUrl": "https://www.agustin-moreno.com/research",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5023862743",
+          "orcid": "https://orcid.org/0000-0001-8865-3994",
+          "url": "https://openalex.org/authors/A5023862743",
+          "authorApiUrl": "https://api.openalex.org/authors/A5023862743",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5023862743,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 17,
+          "works": 31,
+          "citations": 234,
+          "hIndex": 9,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5023862743",
+      "papers": [
+        {
+          "title": "Bourgeois contact structures: Tightness, fillability and applications",
+          "url": "https://doi.org/10.1007/s00222-022-01131-y",
+          "year": 2022
+        },
+        {
+          "title": "Global hypersurfaces of section in the spatial restricted three-body problem",
+          "url": "https://doi.org/10.1088/1361-6544/ac692b",
+          "year": 2022
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry; symplectic and contact topology; Floer theory; celestial mechanics",
+          "url": "https://www.agustin-moreno.com/research"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.agustin-moreno.com/research"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alberto-merici",
+      "name": "Alberto Merici",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "heidelberg",
+          "department": "数学系",
+          "title": "Junior Professor of Mathematics",
+          "url": "https://www.math.uni-heidelberg.de/en/abteilungen/aag",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry",
+        "logarithmic motives",
+        "prismatic cohomology"
+      ],
+      "homepage": "https://merici.eu/",
+      "homepageStatus": null,
+      "cvUrl": "https://merici.eu/files/cv.pdf",
+      "cvType": "公开 CV（2025-05）",
+      "cvStatus": null,
+      "publicationsUrl": "https://merici.eu/research.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5052246476",
+          "orcid": "https://orcid.org/0000-0002-4210-4823",
+          "url": "https://openalex.org/authors/A5052246476",
+          "authorApiUrl": "https://api.openalex.org/authors/A5052246476",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5052246476,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 8,
+          "works": 14,
+          "citations": 55,
+          "hIndex": 4,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5052246476",
+      "papers": [
+        {
+          "title": "A motivic integral p-adic cohomology",
+          "url": "https://doi.org/10.2140/akt.2025.10.473",
+          "year": 2025
+        },
+        {
+          "title": "CONNECTIVITY AND PURITY FOR LOGARITHMIC MOTIVES",
+          "url": "https://doi.org/10.1017/s1474748021000256",
+          "year": 2021
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry; logarithmic motives; prismatic cohomology",
+          "url": "https://merici.eu/research.html"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://merici.eu/research.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alexander-schmidt",
+      "name": "Alexander Schmidt",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "heidelberg",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.math.uni-heidelberg.de/en/abteilungen/aag",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmetic homotopy",
+        "arithmetic geometry",
+        "Galois cohomology and class field theory"
+      ],
+      "homepage": "https://www.mathi.uni-heidelberg.de/~schmidt/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "具名个人主页、发表页和 DFG GEPRIS 提供任职及研究经历，未见公开 CV。",
+      "publicationsUrl": "https://www.mathi.uni-heidelberg.de/~schmidt/publ_de.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用同名姓名检索、海德堡作者地址及 DOI 10.1007/s00229-024-01608-5 锁定 A5101441904。另一篇本人列出的 DOI 10.1007/s00222-004-0415-y 在 OpenAlex 中有历史任职、作者姓名匹配但作者 ID 为空。两个值受漏收影响继续待核。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5101441904",
+      "papers": [
+        {
+          "title": "Homotopy invariance of tame homotopy groups of regular schemes",
+          "year": 2025,
+          "url": "https://doi.org/10.1007/s00229-024-01608-5"
+        },
+        {
+          "title": "Tame class field theory for arithmetic schemes",
+          "year": 2005,
+          "url": "https://doi.org/10.1007/s00222-004-0415-y"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic homotopy; arithmetic geometry; Galois cohomology and class field theory",
+          "url": "https://www.mathi.uni-heidelberg.de/~schmidt/publ_de.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "gebhard-bockle",
       "name": "Gebhard Böckle",
       "aliases": [],
@@ -20777,38 +21197,124 @@
         {
           "schoolId": "heidelberg",
           "department": "数学系",
-          "title": "Prof. Dr.",
-          "url": "https://www.math.uni-heidelberg.de/de/abteilungen/aag",
+          "title": "Professor of Mathematics",
+          "url": "https://www.math.uni-heidelberg.de/en/abteilungen/aag",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [
-        "Computational Arithmetic Geometry",
-        "Arithmetic geometry"
+        "Arithmetic geometry",
+        "Drinfeld modular varieties",
+        "Galois representations"
       ],
-      "homepage": "https://typo.iwr.uni-heidelberg.de/groups/arith-geom/home",
+      "homepage": "https://arith-geom.github.io/ag-comp-arith-geom/members/prof-dr-gebhard-bockle/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvStatus": "查院系研究组和具名履历页，当前入口为网页简介，未见独立公开 CV。",
+      "publicationsUrl": "https://arith-geom.github.io/ag-comp-arith-geom/publications/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
         {
-          "text": "Computational Arithmetic Geometry / Arithmetic geometry",
-          "url": "https://www.math.uni-heidelberg.de/de/abteilungen/aag"
+          "source": "OpenAlex",
+          "authorId": "A5027071420",
+          "orcid": "https://orcid.org/0000-0003-1758-1537",
+          "url": "https://openalex.org/authors/A5027071420",
+          "authorApiUrl": "https://api.openalex.org/authors/A5027071420",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5027071420,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 40,
+          "works": 60,
+          "citations": 831,
+          "hIndex": 15,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "identityUrl": "https://openalex.org/authors/A5027071420",
+      "papers": [
+        {
+          "title": "Cartier modules: Finiteness results",
+          "url": "https://doi.org/10.1515/crelle.2011.087",
+          "year": 2011
+        },
+        {
+          "title": "$\\hat{G}$-local systems on smooth projective curves are potentially automorphic",
+          "url": "https://doi.org/10.4310/acta.2019.v223.n1.a1",
+          "year": 2019
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic geometry; Drinfeld modular varieties; Galois representations",
+          "url": "https://arith-geom.github.io/ag-comp-arith-geom/members/prof-dr-gebhard-bockle/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://arith-geom.github.io/ag-comp-arith-geom/members/prof-dr-gebhard-bockle/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "johannes-walcher",
+      "name": "Johannes Walcher",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "heidelberg",
+          "department": "数学系",
+          "title": "Professor of Mathematical Physics",
+          "url": "https://web.mathi.uni-heidelberg.de/physmath/walcher",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry",
+        "mirror symmetry",
+        "curve and disk enumeration on Calabi–Yau varieties"
+      ],
+      "homepage": "https://web.mathi.uni-heidelberg.de/physmath/walcher",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "现任机构具名页含简历经历和成果栏目，未见独立公开 CV。",
+      "publicationsUrl": "https://web.mathi.uni-heidelberg.de/physmath/walcher#publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "海德堡任职和两个镜像对称 DOI 匹配 A5059054682。另有同名 OpenAlex 档案 A5164012249 的 2025 会议文集，需判断是否同人及是否已在主档收录。暂不汇总。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5059054682",
+      "papers": [
+        {
+          "title": "Disk enumeration on the quintic 3-fold",
+          "year": 2008,
+          "url": "https://doi.org/10.1090/s0894-0347-08-00597-3"
+        },
+        {
+          "title": "Opening Mirror Symmetry on the Quintic",
+          "year": 2007,
+          "url": "https://doi.org/10.1007/s00220-007-0354-8"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry; mirror symmetry; curve and disk enumeration on Calabi–Yau varieties",
+          "url": "https://doi.org/10.1090/S0894-0347-08-00597-3"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -20819,38 +21325,218 @@
         {
           "schoolId": "heidelberg",
           "department": "数学系",
-          "title": "Prof. Dr.",
-          "url": "https://www.math.uni-heidelberg.de/de/abteilungen/aag",
+          "title": "Professor of Mathematics",
+          "url": "https://www.math.uni-heidelberg.de/en/abteilungen/aag",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [
-        "p-adische Arithmetische Geometrie",
-        "Arithmetic geometry"
+        "Arithmetic geometry",
+        "Iwasawa theory",
+        "p-adic Hodge theory"
       ],
-      "homepage": "https://www.mathi.uni-heidelberg.de/~otmar/",
+      "homepage": "https://www.mathi.uni-heidelberg.de/~venjakob/venjakob.html",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvStatus": "院系组主页与本人研究页均提供研究和著作入口，未见具名独立 CV。",
+      "publicationsUrl": "https://www.mathi.uni-heidelberg.de/~venjakob/venjakob.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
         {
-          "text": "p-adische Arithmetische Geometrie / Arithmetic geometry",
-          "url": "https://www.math.uni-heidelberg.de/de/abteilungen/aag"
+          "source": "OpenAlex",
+          "authorId": "A5108734997",
+          "orcid": "https://orcid.org/0009-0004-2701-6085",
+          "url": "https://openalex.org/authors/A5108734997",
+          "authorApiUrl": "https://api.openalex.org/authors/A5108734997",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5108734997,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 29,
+          "works": 61,
+          "citations": 1043,
+          "hIndex": 15,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "identityUrl": "https://openalex.org/authors/A5108734997",
+      "papers": [
+        {
+          "title": "The G L 2 main conjecture for elliptic curves without complex multiplication",
+          "url": "https://doi.org/10.1007/s10240-004-0029-3",
+          "year": 2005
+        },
+        {
+          "title": "On the structure theory of the Iwasawa algebra of a p-adic Lie group",
+          "url": "https://doi.org/10.1007/s100970100038",
+          "year": 2002
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic geometry; Iwasawa theory; p-adic Hodge theory",
+          "url": "https://www.mathi.uni-heidelberg.de/~venjakob/venjakob.html"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.mathi.uni-heidelberg.de/~venjakob/venjakob.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "peter-albers",
+      "name": "Peter Albers",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "heidelberg",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.math.uni-heidelberg.de/en/about-us/staff-members",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry",
+        "symplectic and contact topology",
+        "Rabinowitz Floer homology"
+      ],
+      "homepage": "https://www.mathi.uni-heidelberg.de/~palbers/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "本人主页列 Short CV（https://www.mathi.uni-heidelberg.de/~palbers/cv/），直接查阅报告证书校验失败，公开索引亦未返回内容。IAS 档案为任职记录。",
+      "publicationsUrl": "https://www.mathi.uni-heidelberg.de/~palbers/styled/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5090909591",
+          "orcid": "https://orcid.org/0000-0002-7324-0609",
+          "url": "https://openalex.org/authors/A5090909591",
+          "authorApiUrl": "https://api.openalex.org/authors/A5090909591",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5090909591,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 39,
+          "works": 65,
+          "citations": 653,
+          "hIndex": 16,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5090909591",
+      "papers": [
+        {
+          "title": "A Lagrangian Piunikhin-Salamon-Schwarz Morphism and Two Comparison Homomorphisms in Floer Homology",
+          "url": "https://doi.org/10.1093/imrn/rnm134",
+          "year": 2010
+        },
+        {
+          "title": "Introducing symplectic billiards",
+          "url": "https://doi.org/10.1016/j.aim.2018.05.037",
+          "year": 2018
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry; symplectic and contact topology; Rabinowitz Floer homology",
+          "url": "https://www.mathi.uni-heidelberg.de/~palbers/ag-sympgeo/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.mathi.uni-heidelberg.de/~palbers/styled/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "tim-laux",
+      "name": "Tim Laux",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "heidelberg",
+          "department": "数学系",
+          "title": "Professor of Applied Geometric Analysis",
+          "url": "https://www.math.uni-heidelberg.de/en/sections/analysis-and-mathematical-modelling/applied-geometric-analysis",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometric analysis",
+        "mean curvature flow",
+        "variational and PDE methods"
+      ],
+      "homepage": "https://www.math.uni-heidelberg.de/en/sections/analysis-and-mathematical-modelling/applied-geometric-analysis",
+      "homepageStatus": null,
+      "cvUrl": "https://www.iam.uni-bonn.de/users/laux/cv",
+      "cvType": "公开网页 CV（旧任机构存档，现职见 Heidelberg）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.uni-heidelberg.de/de/abteilungen/analysis-und-mathematische-modellierung/publications-tim-laux",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5052785023",
+          "orcid": "https://orcid.org/0000-0002-8084-4718",
+          "url": "https://openalex.org/authors/A5052785023",
+          "authorApiUrl": "https://api.openalex.org/authors/A5052785023",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5052785023,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 31,
+          "works": 50,
+          "citations": 751,
+          "hIndex": 16,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5052785023",
+      "papers": [
+        {
+          "title": "Convergence of the thresholding scheme for multi-phase mean-curvature flow",
+          "url": "https://doi.org/10.1007/s00526-016-1053-0",
+          "year": 2016
+        },
+        {
+          "title": "The local structure of the energy landscape in multiphase mean curvature flow: Weak-strong uniqueness and stability of evolutions",
+          "url": "https://doi.org/10.4171/jems/1577",
+          "year": 2025
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Geometric analysis; mean curvature flow; variational and PDE methods",
+          "url": "https://www.math.uni-heidelberg.de/en/sections/analysis-and-mathematical-modelling/applied-geometric-analysis"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.math.uni-heidelberg.de/de/abteilungen/analysis-und-mathematische-modellierung/publications-tim-laux"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -23780,271 +24466,6 @@
       "directoryEvidence": [
         {
           "text": "Research Interests: Number Theory, Arithmetic Geometry",
-          "url": "https://www.iitk.ac.in/math/faculty"
-        }
-      ],
-      "checkedAt": "2026-11-23",
-      "recordStatus": "directory"
-    },
-    {
-      "id": "maloo-alok-kumar",
-      "name": "MALOO, ALOK KUMAR",
-      "aliases": [],
-      "affiliations": [
-        {
-          "schoolId": "iit-kanpur",
-          "department": "数学系",
-          "title": "Academic Faculty",
-          "url": "https://www.iitk.ac.in/alok-kumar-maloo",
-          "type": "primary",
-          "checkedAt": "2026-11-23"
-        }
-      ],
-      "fields": [
-        "algebraic",
-        "differential"
-      ],
-      "tags": [
-        "Research Interests: Commutative Algebra",
-        "C*-algebras and von Neumann algebras",
-        "In particular, Subfactor theory and Planar algebras",
-        "Elliptic and Parabolic Partial Differential Equations",
-        "Mathematical Ecology and Eco-epidemiology, Nonlinear Dynamics",
-        "Rough Set Theory and its Applications, Modal Logics",
-        "Holomorphic dynamics, Several Complex Variables",
-        "PDE, Stochastic PDE, Control Theory and Numerics"
-      ],
-      "homepage": null,
-      "homepageStatus": "现有链接由不同学者共用，未核实到独立个人主页。",
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "https://www.iitk.ac.in/math/index.php/publication",
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
-        {
-          "text": "Research Interests: Commutative Algebra",
-          "url": "https://www.iitk.ac.in/math/faculty"
-        },
-        {
-          "text": "Computational methods for the solution of partial differential and integral equations, with emphasis on high-order efficient simulators. / Regularity theory for elliptic and parabolic PDEs, Unique continuation problems, Free boundary problems, Curvature driven flows. / Differential Equations, Non-linear Analysis, Theory of Semigroups / C*-algebras and von Neumann algebras. In particular, Subfactor theory and Planar algebras. / Elliptic and Parabolic Partial Differential Equations. / Mathematical Ecology and Eco-epidemiology, Nonlinear Dynamics / Rough Set Theory and its Applications, Modal Logics / Holomorphic dynamics, Several Complex Variables / Numerical methods for differential equations, time integration, hyperbolization. / PDE, Stochastic PDE, Control Theory and Numerics. / Algebraic Groups, Algebraic geometry and Representation Theory / Several Complex Variables / Operator Theory / Theory and Numerical Analysis of PDEs, Nonlocal/ Fractional order Problems, Fully Nonlinear Equations / Diophantine approximation, Dynamical systems and Random walks. / Computational Fluid Dynamics, Mathematical Biology, Adaptive Unstructured grid / Noncommutative Geometry, Operator Algebra / Number Theory, Arithmetic Geometry / Representation theory of quivers, order theory, K-theory of model-theoretic structures / Mathematical Logic, Set Theory and its applications to Analysis, Measure Theory and Topology. / Commutative Algebra / Algebraic Topology; Deformation of Algebraic Structures, / Harmonic Analysis / Complex Analysis and Operator Theory / Homogenization and Variational Methods for PDE's, Elliptic PDE's, Optimal controls / Representation theory / Combinatorial Topology, Computational Geometry / Geometric Group Theory, Relatively Hyperbolic Groups, Mapping Class Groups / Algebraic Groups and Invariant Theory, Lie Algebras and Representation Theory / Parallel Computing, Numerical Methods For PDEs, Computational Fluid Dynamics, Finite Element Analysis, Computational Biomechanics, Porous Media, Image Processing / Harmonic analysis / Partial Differential Equations / Structure theory and representations of algebraic groups. / Topology and Geometry / Homotopy theory, Group actions / Representation theory of Kac-Moody algebra, extended affine Lie algebra / Functional Analysis / Algebraic Number Theory and Arithmetic Geometry / L-Function, Sub-convexity problems, Sieve Method, Riemann Zeta Function / Representations theory of finite and p-adic groups, Applications of representation theory / Algebraic Topology, Complex Manifolds / Differential Geometry, Algebraic Topology, Knot Theory / Research Interests: Computational methods for the solution of partial differential and integral equations, with emphasis on high-order efficient simulators. / Research Interests: Regularity theory for elliptic and parabolic PDEs, Unique continuation problems, Free boundary problems, Curvature driven flows. / Research Interests: Differential Equations, Non-linear Analysis, Theory of Semigroups / Research Interests: C*-algebras and von Neumann algebras. In particular, Subfactor theory and Planar algebras. / Research Interests: Elliptic and Parabolic Partial Differential Equations. / Research Interests: Mathematical Ecology and Eco-epidemiology, Nonlinear Dynamics / Research Interests: Rough Set Theory and its Applications, Modal Logics / Research Interests: Holomorphic dynamics, Several Complex Variables / Research Interests: Numerical methods for differential equations, time integration, hyperbolization. / Research Interests: PDE, Stochastic PDE, Control Theory and Numerics. / Research Interests: Algebraic Groups, Algebraic geometry and Representation Theory / Research Interests: Several Complex Variables / Research Interests: Operator Theory / Research Interests: Theory and Numerical Analysis of PDEs, Nonlocal/ Fractional order Problems, Fully Nonlinear Equations / Research Interests: Diophantine approximation, Dynamical systems and Random walks. / Research Interests: Computational Fluid Dynamics, Mathematical Biology, Adaptive Unstructured grid / Research Interests: Noncommutative Geometry, Operator Algebra / Research Interests: Number Theory, Arithmetic Geometry / Research Interests: Representation theory of quivers, order theory, K-theory of model-theoretic structures / Research Interests: Mathematical Logic, Set Theory and its applications to Analysis, Measure Theory and Topology. / Research Interests: Commutative Algebra / Research Interests: Algebraic Topology; Deformation of Algebraic Structures, Higher Structures and RelatedFields / Research Interests: Harmonic Analysis / Research Interests: Complex Analysis and Operator Theory / Research Interests: Homogenization and Variational Methods for PDE's, Elliptic PDE's, Optimal controls / Research Interests: Representation theory / Research Interests: Combinatorial Topology, Computational Geometry / Research Interests: Geometric Group Theory, Relatively Hyperbolic Groups, Mapping Class Groups / Research Interests: Algebraic Groups and Invariant Theory, Lie Algebras and Representation Theory / Research Interests: Parallel Computing, Numerical Methods For PDEs, Computational Fluid Dynamics, Finite Element Analysis, Computational Biomechanics, Porous Media, Image Processing / Research Interests: Harmonic analysis / Research Interests: Partial Differential Equations / Research Interests: Structure theory and representations of algebraic groups. / Research Interests: Topology and Geometry / Research Interests: Homotopy theory, Group actions / Research Interests: Representation theory of Kac-Moody algebra, extended affine Lie algebra / Research Interests: Functional Analysis / Research Interests: Algebraic Number Theory and Arithmetic Geometry / Research Interests: L-Function, Sub-convexity problems, Sieve Method, Riemann Zeta Function / Research Interests: Representations theory of finite and p-adic groups, Applications of representation theory / Research Interests: Algebraic Topology, Complex Manifolds / Research Interests: Differential Geometry, Algebraic Topology, Knot Theory",
-          "url": "https://www.iitk.ac.in/math/faculty"
-        }
-      ],
-      "checkedAt": "2026-11-23",
-      "recordStatus": "directory"
-    },
-    {
-      "id": "mohanty-parasar",
-      "name": "MOHANTY, PARASAR",
-      "aliases": [],
-      "affiliations": [
-        {
-          "schoolId": "iit-kanpur",
-          "department": "数学系",
-          "title": "Academic Faculty",
-          "url": "https://www.iitk.ac.in/parasar-mohanty",
-          "type": "primary",
-          "checkedAt": "2026-11-23"
-        }
-      ],
-      "fields": [
-        "algebraic",
-        "differential"
-      ],
-      "tags": [
-        "Research Interests: Harmonic Analysis",
-        "C*-algebras and von Neumann algebras",
-        "In particular, Subfactor theory and Planar algebras",
-        "Elliptic and Parabolic Partial Differential Equations",
-        "Mathematical Ecology and Eco-epidemiology, Nonlinear Dynamics",
-        "Rough Set Theory and its Applications, Modal Logics",
-        "Holomorphic dynamics, Several Complex Variables",
-        "PDE, Stochastic PDE, Control Theory and Numerics"
-      ],
-      "homepage": null,
-      "homepageStatus": "现有链接由不同学者共用，未核实到独立个人主页。",
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "https://www.iitk.ac.in/math/index.php/publication",
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
-        {
-          "text": "Research Interests: Harmonic Analysis",
-          "url": "https://www.iitk.ac.in/math/faculty"
-        },
-        {
-          "text": "Computational methods for the solution of partial differential and integral equations, with emphasis on high-order efficient simulators. / Regularity theory for elliptic and parabolic PDEs, Unique continuation problems, Free boundary problems, Curvature driven flows. / Differential Equations, Non-linear Analysis, Theory of Semigroups / C*-algebras and von Neumann algebras. In particular, Subfactor theory and Planar algebras. / Elliptic and Parabolic Partial Differential Equations. / Mathematical Ecology and Eco-epidemiology, Nonlinear Dynamics / Rough Set Theory and its Applications, Modal Logics / Holomorphic dynamics, Several Complex Variables / Numerical methods for differential equations, time integration, hyperbolization. / PDE, Stochastic PDE, Control Theory and Numerics. / Algebraic Groups, Algebraic geometry and Representation Theory / Several Complex Variables / Operator Theory / Theory and Numerical Analysis of PDEs, Nonlocal/ Fractional order Problems, Fully Nonlinear Equations / Diophantine approximation, Dynamical systems and Random walks. / Computational Fluid Dynamics, Mathematical Biology, Adaptive Unstructured grid / Noncommutative Geometry, Operator Algebra / Number Theory, Arithmetic Geometry / Representation theory of quivers, order theory, K-theory of model-theoretic structures / Mathematical Logic, Set Theory and its applications to Analysis, Measure Theory and Topology. / Commutative Algebra / Algebraic Topology; Deformation of Algebraic Structures, / Harmonic Analysis / Complex Analysis and Operator Theory / Homogenization and Variational Methods for PDE's, Elliptic PDE's, Optimal controls / Representation theory / Combinatorial Topology, Computational Geometry / Geometric Group Theory, Relatively Hyperbolic Groups, Mapping Class Groups / Algebraic Groups and Invariant Theory, Lie Algebras and Representation Theory / Parallel Computing, Numerical Methods For PDEs, Computational Fluid Dynamics, Finite Element Analysis, Computational Biomechanics, Porous Media, Image Processing / Harmonic analysis / Partial Differential Equations / Structure theory and representations of algebraic groups. / Topology and Geometry / Homotopy theory, Group actions / Representation theory of Kac-Moody algebra, extended affine Lie algebra / Functional Analysis / Algebraic Number Theory and Arithmetic Geometry / L-Function, Sub-convexity problems, Sieve Method, Riemann Zeta Function / Representations theory of finite and p-adic groups, Applications of representation theory / Algebraic Topology, Complex Manifolds / Differential Geometry, Algebraic Topology, Knot Theory / Research Interests: Computational methods for the solution of partial differential and integral equations, with emphasis on high-order efficient simulators. / Research Interests: Regularity theory for elliptic and parabolic PDEs, Unique continuation problems, Free boundary problems, Curvature driven flows. / Research Interests: Differential Equations, Non-linear Analysis, Theory of Semigroups / Research Interests: C*-algebras and von Neumann algebras. In particular, Subfactor theory and Planar algebras. / Research Interests: Elliptic and Parabolic Partial Differential Equations. / Research Interests: Mathematical Ecology and Eco-epidemiology, Nonlinear Dynamics / Research Interests: Rough Set Theory and its Applications, Modal Logics / Research Interests: Holomorphic dynamics, Several Complex Variables / Research Interests: Numerical methods for differential equations, time integration, hyperbolization. / Research Interests: PDE, Stochastic PDE, Control Theory and Numerics. / Research Interests: Algebraic Groups, Algebraic geometry and Representation Theory / Research Interests: Several Complex Variables / Research Interests: Operator Theory / Research Interests: Theory and Numerical Analysis of PDEs, Nonlocal/ Fractional order Problems, Fully Nonlinear Equations / Research Interests: Diophantine approximation, Dynamical systems and Random walks. / Research Interests: Computational Fluid Dynamics, Mathematical Biology, Adaptive Unstructured grid / Research Interests: Noncommutative Geometry, Operator Algebra / Research Interests: Number Theory, Arithmetic Geometry / Research Interests: Representation theory of quivers, order theory, K-theory of model-theoretic structures / Research Interests: Mathematical Logic, Set Theory and its applications to Analysis, Measure Theory and Topology. / Research Interests: Commutative Algebra / Research Interests: Algebraic Topology; Deformation of Algebraic Structures, Higher Structures and RelatedFields / Research Interests: Harmonic Analysis / Research Interests: Complex Analysis and Operator Theory / Research Interests: Homogenization and Variational Methods for PDE's, Elliptic PDE's, Optimal controls / Research Interests: Representation theory / Research Interests: Combinatorial Topology, Computational Geometry / Research Interests: Geometric Group Theory, Relatively Hyperbolic Groups, Mapping Class Groups / Research Interests: Algebraic Groups and Invariant Theory, Lie Algebras and Representation Theory / Research Interests: Parallel Computing, Numerical Methods For PDEs, Computational Fluid Dynamics, Finite Element Analysis, Computational Biomechanics, Porous Media, Image Processing / Research Interests: Harmonic analysis / Research Interests: Partial Differential Equations / Research Interests: Structure theory and representations of algebraic groups. / Research Interests: Topology and Geometry / Research Interests: Homotopy theory, Group actions / Research Interests: Representation theory of Kac-Moody algebra, extended affine Lie algebra / Research Interests: Functional Analysis / Research Interests: Algebraic Number Theory and Arithmetic Geometry / Research Interests: L-Function, Sub-convexity problems, Sieve Method, Riemann Zeta Function / Research Interests: Representations theory of finite and p-adic groups, Applications of representation theory / Research Interests: Algebraic Topology, Complex Manifolds / Research Interests: Differential Geometry, Algebraic Topology, Knot Theory",
-          "url": "https://www.iitk.ac.in/math/faculty"
-        }
-      ],
-      "checkedAt": "2026-11-23",
-      "recordStatus": "directory"
-    },
-    {
-      "id": "nilakantan-nandini",
-      "name": "NILAKANTAN, NANDINI",
-      "aliases": [],
-      "affiliations": [
-        {
-          "schoolId": "iit-kanpur",
-          "department": "数学系",
-          "title": "Academic Faculty",
-          "url": "https://www.iitk.ac.in/nandini-nilakantan",
-          "type": "primary",
-          "checkedAt": "2026-11-23"
-        }
-      ],
-      "fields": [
-        "algebraic",
-        "differential"
-      ],
-      "tags": [
-        "C*-algebras and von Neumann algebras",
-        "In particular, Subfactor theory and Planar algebras",
-        "Elliptic and Parabolic Partial Differential Equations",
-        "Mathematical Ecology and Eco-epidemiology, Nonlinear Dynamics",
-        "Rough Set Theory and its Applications, Modal Logics",
-        "Holomorphic dynamics, Several Complex Variables",
-        "PDE, Stochastic PDE, Control Theory and Numerics",
-        "Algebraic Groups, Algebraic geometry and Representation Theory"
-      ],
-      "homepage": null,
-      "homepageStatus": "现有链接由不同学者共用，未核实到独立个人主页。",
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "https://www.iitk.ac.in/math/index.php/publication",
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
-        {
-          "text": "Research Interests: Combinatorial Topology, Computational Geometry",
-          "url": "https://www.iitk.ac.in/math/faculty"
-        },
-        {
-          "text": "Computational methods for the solution of partial differential and integral equations, with emphasis on high-order efficient simulators. / Regularity theory for elliptic and parabolic PDEs, Unique continuation problems, Free boundary problems, Curvature driven flows. / Differential Equations, Non-linear Analysis, Theory of Semigroups / C*-algebras and von Neumann algebras. In particular, Subfactor theory and Planar algebras. / Elliptic and Parabolic Partial Differential Equations. / Mathematical Ecology and Eco-epidemiology, Nonlinear Dynamics / Rough Set Theory and its Applications, Modal Logics / Holomorphic dynamics, Several Complex Variables / Numerical methods for differential equations, time integration, hyperbolization. / PDE, Stochastic PDE, Control Theory and Numerics. / Algebraic Groups, Algebraic geometry and Representation Theory / Several Complex Variables / Operator Theory / Theory and Numerical Analysis of PDEs, Nonlocal/ Fractional order Problems, Fully Nonlinear Equations / Diophantine approximation, Dynamical systems and Random walks. / Computational Fluid Dynamics, Mathematical Biology, Adaptive Unstructured grid / Noncommutative Geometry, Operator Algebra / Number Theory, Arithmetic Geometry / Representation theory of quivers, order theory, K-theory of model-theoretic structures / Mathematical Logic, Set Theory and its applications to Analysis, Measure Theory and Topology. / Commutative Algebra / Algebraic Topology; Deformation of Algebraic Structures, / Harmonic Analysis / Complex Analysis and Operator Theory / Homogenization and Variational Methods for PDE's, Elliptic PDE's, Optimal controls / Representation theory / Combinatorial Topology, Computational Geometry / Geometric Group Theory, Relatively Hyperbolic Groups, Mapping Class Groups / Algebraic Groups and Invariant Theory, Lie Algebras and Representation Theory / Parallel Computing, Numerical Methods For PDEs, Computational Fluid Dynamics, Finite Element Analysis, Computational Biomechanics, Porous Media, Image Processing / Harmonic analysis / Partial Differential Equations / Structure theory and representations of algebraic groups. / Topology and Geometry / Homotopy theory, Group actions / Representation theory of Kac-Moody algebra, extended affine Lie algebra / Functional Analysis / Algebraic Number Theory and Arithmetic Geometry / L-Function, Sub-convexity problems, Sieve Method, Riemann Zeta Function / Representations theory of finite and p-adic groups, Applications of representation theory / Algebraic Topology, Complex Manifolds / Differential Geometry, Algebraic Topology, Knot Theory / Research Interests: Computational methods for the solution of partial differential and integral equations, with emphasis on high-order efficient simulators. / Research Interests: Regularity theory for elliptic and parabolic PDEs, Unique continuation problems, Free boundary problems, Curvature driven flows. / Research Interests: Differential Equations, Non-linear Analysis, Theory of Semigroups / Research Interests: C*-algebras and von Neumann algebras. In particular, Subfactor theory and Planar algebras. / Research Interests: Elliptic and Parabolic Partial Differential Equations. / Research Interests: Mathematical Ecology and Eco-epidemiology, Nonlinear Dynamics / Research Interests: Rough Set Theory and its Applications, Modal Logics / Research Interests: Holomorphic dynamics, Several Complex Variables / Research Interests: Numerical methods for differential equations, time integration, hyperbolization. / Research Interests: PDE, Stochastic PDE, Control Theory and Numerics. / Research Interests: Algebraic Groups, Algebraic geometry and Representation Theory / Research Interests: Several Complex Variables / Research Interests: Operator Theory / Research Interests: Theory and Numerical Analysis of PDEs, Nonlocal/ Fractional order Problems, Fully Nonlinear Equations / Research Interests: Diophantine approximation, Dynamical systems and Random walks. / Research Interests: Computational Fluid Dynamics, Mathematical Biology, Adaptive Unstructured grid / Research Interests: Noncommutative Geometry, Operator Algebra / Research Interests: Number Theory, Arithmetic Geometry / Research Interests: Representation theory of quivers, order theory, K-theory of model-theoretic structures / Research Interests: Mathematical Logic, Set Theory and its applications to Analysis, Measure Theory and Topology. / Research Interests: Commutative Algebra / Research Interests: Algebraic Topology; Deformation of Algebraic Structures, Higher Structures and RelatedFields / Research Interests: Harmonic Analysis / Research Interests: Complex Analysis and Operator Theory / Research Interests: Homogenization and Variational Methods for PDE's, Elliptic PDE's, Optimal controls / Research Interests: Representation theory / Research Interests: Combinatorial Topology, Computational Geometry / Research Interests: Geometric Group Theory, Relatively Hyperbolic Groups, Mapping Class Groups / Research Interests: Algebraic Groups and Invariant Theory, Lie Algebras and Representation Theory / Research Interests: Parallel Computing, Numerical Methods For PDEs, Computational Fluid Dynamics, Finite Element Analysis, Computational Biomechanics, Porous Media, Image Processing / Research Interests: Harmonic analysis / Research Interests: Partial Differential Equations / Research Interests: Structure theory and representations of algebraic groups. / Research Interests: Topology and Geometry / Research Interests: Homotopy theory, Group actions / Research Interests: Representation theory of Kac-Moody algebra, extended affine Lie algebra / Research Interests: Functional Analysis / Research Interests: Algebraic Number Theory and Arithmetic Geometry / Research Interests: L-Function, Sub-convexity problems, Sieve Method, Riemann Zeta Function / Research Interests: Representations theory of finite and p-adic groups, Applications of representation theory / Research Interests: Algebraic Topology, Complex Manifolds / Research Interests: Differential Geometry, Algebraic Topology, Knot Theory",
-          "url": "https://www.iitk.ac.in/math/faculty"
-        }
-      ],
-      "checkedAt": "2026-11-23",
-      "recordStatus": "directory"
-    },
-    {
-      "id": "rathish-kumar-b-v",
-      "name": "RATHISH KUMAR, B.V.",
-      "aliases": [],
-      "affiliations": [
-        {
-          "schoolId": "iit-kanpur",
-          "department": "数学系",
-          "title": "Academic Faculty",
-          "url": "https://www.iitk.ac.in/rathish-kumar-b-v",
-          "type": "primary",
-          "checkedAt": "2026-11-23"
-        }
-      ],
-      "fields": [
-        "algebraic",
-        "differential"
-      ],
-      "tags": [
-        "C*-algebras and von Neumann algebras",
-        "In particular, Subfactor theory and Planar algebras",
-        "Elliptic and Parabolic Partial Differential Equations",
-        "Mathematical Ecology and Eco-epidemiology, Nonlinear Dynamics",
-        "Rough Set Theory and its Applications, Modal Logics",
-        "Holomorphic dynamics, Several Complex Variables",
-        "PDE, Stochastic PDE, Control Theory and Numerics",
-        "Algebraic Groups, Algebraic geometry and Representation Theory"
-      ],
-      "homepage": null,
-      "homepageStatus": "现有链接由不同学者共用，未核实到独立个人主页。",
-      "cvUrl": "https://www.iitk.ac.in/data/cv/B-V-Rathish-Kumar-cv-29-04-25.pdf",
-      "cvType": null,
-      "cvStatus": null,
-      "publicationsUrl": "https://www.iitk.ac.in/math/index.php/publication",
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "论文作者姓名没有唯一匹配。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
-        {
-          "text": "Research Interests: Parallel Computing, Numerical Methods For PDEs, Computational Fluid Dynamics, Finite Element Analysis, Computational Biomechanics, Porous Media, Image Processing",
-          "url": "https://www.iitk.ac.in/math/faculty"
-        },
-        {
-          "text": "Computational methods for the solution of partial differential and integral equations, with emphasis on high-order efficient simulators. / Regularity theory for elliptic and parabolic PDEs, Unique continuation problems, Free boundary problems, Curvature driven flows. / Differential Equations, Non-linear Analysis, Theory of Semigroups / C*-algebras and von Neumann algebras. In particular, Subfactor theory and Planar algebras. / Elliptic and Parabolic Partial Differential Equations. / Mathematical Ecology and Eco-epidemiology, Nonlinear Dynamics / Rough Set Theory and its Applications, Modal Logics / Holomorphic dynamics, Several Complex Variables / Numerical methods for differential equations, time integration, hyperbolization. / PDE, Stochastic PDE, Control Theory and Numerics. / Algebraic Groups, Algebraic geometry and Representation Theory / Several Complex Variables / Operator Theory / Theory and Numerical Analysis of PDEs, Nonlocal/ Fractional order Problems, Fully Nonlinear Equations / Diophantine approximation, Dynamical systems and Random walks. / Computational Fluid Dynamics, Mathematical Biology, Adaptive Unstructured grid / Noncommutative Geometry, Operator Algebra / Number Theory, Arithmetic Geometry / Representation theory of quivers, order theory, K-theory of model-theoretic structures / Mathematical Logic, Set Theory and its applications to Analysis, Measure Theory and Topology. / Commutative Algebra / Algebraic Topology; Deformation of Algebraic Structures, / Harmonic Analysis / Complex Analysis and Operator Theory / Homogenization and Variational Methods for PDE's, Elliptic PDE's, Optimal controls / Representation theory / Combinatorial Topology, Computational Geometry / Geometric Group Theory, Relatively Hyperbolic Groups, Mapping Class Groups / Algebraic Groups and Invariant Theory, Lie Algebras and Representation Theory / Parallel Computing, Numerical Methods For PDEs, Computational Fluid Dynamics, Finite Element Analysis, Computational Biomechanics, Porous Media, Image Processing / Harmonic analysis / Partial Differential Equations / Structure theory and representations of algebraic groups. / Topology and Geometry / Homotopy theory, Group actions / Representation theory of Kac-Moody algebra, extended affine Lie algebra / Functional Analysis / Algebraic Number Theory and Arithmetic Geometry / L-Function, Sub-convexity problems, Sieve Method, Riemann Zeta Function / Representations theory of finite and p-adic groups, Applications of representation theory / Algebraic Topology, Complex Manifolds / Differential Geometry, Algebraic Topology, Knot Theory / Research Interests: Computational methods for the solution of partial differential and integral equations, with emphasis on high-order efficient simulators. / Research Interests: Regularity theory for elliptic and parabolic PDEs, Unique continuation problems, Free boundary problems, Curvature driven flows. / Research Interests: Differential Equations, Non-linear Analysis, Theory of Semigroups / Research Interests: C*-algebras and von Neumann algebras. In particular, Subfactor theory and Planar algebras. / Research Interests: Elliptic and Parabolic Partial Differential Equations. / Research Interests: Mathematical Ecology and Eco-epidemiology, Nonlinear Dynamics / Research Interests: Rough Set Theory and its Applications, Modal Logics / Research Interests: Holomorphic dynamics, Several Complex Variables / Research Interests: Numerical methods for differential equations, time integration, hyperbolization. / Research Interests: PDE, Stochastic PDE, Control Theory and Numerics. / Research Interests: Algebraic Groups, Algebraic geometry and Representation Theory / Research Interests: Several Complex Variables / Research Interests: Operator Theory / Research Interests: Theory and Numerical Analysis of PDEs, Nonlocal/ Fractional order Problems, Fully Nonlinear Equations / Research Interests: Diophantine approximation, Dynamical systems and Random walks. / Research Interests: Computational Fluid Dynamics, Mathematical Biology, Adaptive Unstructured grid / Research Interests: Noncommutative Geometry, Operator Algebra / Research Interests: Number Theory, Arithmetic Geometry / Research Interests: Representation theory of quivers, order theory, K-theory of model-theoretic structures / Research Interests: Mathematical Logic, Set Theory and its applications to Analysis, Measure Theory and Topology. / Research Interests: Commutative Algebra / Research Interests: Algebraic Topology; Deformation of Algebraic Structures, Higher Structures and RelatedFields / Research Interests: Harmonic Analysis / Research Interests: Complex Analysis and Operator Theory / Research Interests: Homogenization and Variational Methods for PDE's, Elliptic PDE's, Optimal controls / Research Interests: Representation theory / Research Interests: Combinatorial Topology, Computational Geometry / Research Interests: Geometric Group Theory, Relatively Hyperbolic Groups, Mapping Class Groups / Research Interests: Algebraic Groups and Invariant Theory, Lie Algebras and Representation Theory / Research Interests: Parallel Computing, Numerical Methods For PDEs, Computational Fluid Dynamics, Finite Element Analysis, Computational Biomechanics, Porous Media, Image Processing / Research Interests: Harmonic analysis / Research Interests: Partial Differential Equations / Research Interests: Structure theory and representations of algebraic groups. / Research Interests: Topology and Geometry / Research Interests: Homotopy theory, Group actions / Research Interests: Representation theory of Kac-Moody algebra, extended affine Lie algebra / Research Interests: Functional Analysis / Research Interests: Algebraic Number Theory and Arithmetic Geometry / Research Interests: L-Function, Sub-convexity problems, Sieve Method, Riemann Zeta Function / Research Interests: Representations theory of finite and p-adic groups, Applications of representation theory / Research Interests: Algebraic Topology, Complex Manifolds / Research Interests: Differential Geometry, Algebraic Topology, Knot Theory",
-          "url": "https://www.iitk.ac.in/math/faculty"
-        }
-      ],
-      "checkedAt": "2026-11-23",
-      "recordStatus": "directory"
-    },
-    {
-      "id": "sharma-sachin",
-      "name": "SHARMA, SACHIN",
-      "aliases": [],
-      "affiliations": [
-        {
-          "schoolId": "iit-kanpur",
-          "department": "数学系",
-          "title": "Academic Faculty",
-          "url": "https://www.iitk.ac.in/sachin-sharma",
-          "type": "primary",
-          "checkedAt": "2026-11-23"
-        }
-      ],
-      "fields": [
-        "algebraic",
-        "differential"
-      ],
-      "tags": [
-        "C*-algebras and von Neumann algebras",
-        "In particular, Subfactor theory and Planar algebras",
-        "Elliptic and Parabolic Partial Differential Equations",
-        "Mathematical Ecology and Eco-epidemiology, Nonlinear Dynamics",
-        "Rough Set Theory and its Applications, Modal Logics",
-        "Holomorphic dynamics, Several Complex Variables",
-        "PDE, Stochastic PDE, Control Theory and Numerics",
-        "Algebraic Groups, Algebraic geometry and Representation Theory"
-      ],
-      "homepage": null,
-      "homepageStatus": "现有链接由不同学者共用，未核实到独立个人主页。",
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "https://www.iitk.ac.in/math/index.php/publication",
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
-        {
-          "text": "Research Interests: Representation theory of Kac-Moody algebra, extended affine Lie algebra",
-          "url": "https://www.iitk.ac.in/math/faculty"
-        },
-        {
-          "text": "Computational methods for the solution of partial differential and integral equations, with emphasis on high-order efficient simulators. / Regularity theory for elliptic and parabolic PDEs, Unique continuation problems, Free boundary problems, Curvature driven flows. / Differential Equations, Non-linear Analysis, Theory of Semigroups / C*-algebras and von Neumann algebras. In particular, Subfactor theory and Planar algebras. / Elliptic and Parabolic Partial Differential Equations. / Mathematical Ecology and Eco-epidemiology, Nonlinear Dynamics / Rough Set Theory and its Applications, Modal Logics / Holomorphic dynamics, Several Complex Variables / Numerical methods for differential equations, time integration, hyperbolization. / PDE, Stochastic PDE, Control Theory and Numerics. / Algebraic Groups, Algebraic geometry and Representation Theory / Several Complex Variables / Operator Theory / Theory and Numerical Analysis of PDEs, Nonlocal/ Fractional order Problems, Fully Nonlinear Equations / Diophantine approximation, Dynamical systems and Random walks. / Computational Fluid Dynamics, Mathematical Biology, Adaptive Unstructured grid / Noncommutative Geometry, Operator Algebra / Number Theory, Arithmetic Geometry / Representation theory of quivers, order theory, K-theory of model-theoretic structures / Mathematical Logic, Set Theory and its applications to Analysis, Measure Theory and Topology. / Commutative Algebra / Algebraic Topology; Deformation of Algebraic Structures, / Harmonic Analysis / Complex Analysis and Operator Theory / Homogenization and Variational Methods for PDE's, Elliptic PDE's, Optimal controls / Representation theory / Combinatorial Topology, Computational Geometry / Geometric Group Theory, Relatively Hyperbolic Groups, Mapping Class Groups / Algebraic Groups and Invariant Theory, Lie Algebras and Representation Theory / Parallel Computing, Numerical Methods For PDEs, Computational Fluid Dynamics, Finite Element Analysis, Computational Biomechanics, Porous Media, Image Processing / Harmonic analysis / Partial Differential Equations / Structure theory and representations of algebraic groups. / Topology and Geometry / Homotopy theory, Group actions / Representation theory of Kac-Moody algebra, extended affine Lie algebra / Functional Analysis / Algebraic Number Theory and Arithmetic Geometry / L-Function, Sub-convexity problems, Sieve Method, Riemann Zeta Function / Representations theory of finite and p-adic groups, Applications of representation theory / Algebraic Topology, Complex Manifolds / Differential Geometry, Algebraic Topology, Knot Theory / Research Interests: Computational methods for the solution of partial differential and integral equations, with emphasis on high-order efficient simulators. / Research Interests: Regularity theory for elliptic and parabolic PDEs, Unique continuation problems, Free boundary problems, Curvature driven flows. / Research Interests: Differential Equations, Non-linear Analysis, Theory of Semigroups / Research Interests: C*-algebras and von Neumann algebras. In particular, Subfactor theory and Planar algebras. / Research Interests: Elliptic and Parabolic Partial Differential Equations. / Research Interests: Mathematical Ecology and Eco-epidemiology, Nonlinear Dynamics / Research Interests: Rough Set Theory and its Applications, Modal Logics / Research Interests: Holomorphic dynamics, Several Complex Variables / Research Interests: Numerical methods for differential equations, time integration, hyperbolization. / Research Interests: PDE, Stochastic PDE, Control Theory and Numerics. / Research Interests: Algebraic Groups, Algebraic geometry and Representation Theory / Research Interests: Several Complex Variables / Research Interests: Operator Theory / Research Interests: Theory and Numerical Analysis of PDEs, Nonlocal/ Fractional order Problems, Fully Nonlinear Equations / Research Interests: Diophantine approximation, Dynamical systems and Random walks. / Research Interests: Computational Fluid Dynamics, Mathematical Biology, Adaptive Unstructured grid / Research Interests: Noncommutative Geometry, Operator Algebra / Research Interests: Number Theory, Arithmetic Geometry / Research Interests: Representation theory of quivers, order theory, K-theory of model-theoretic structures / Research Interests: Mathematical Logic, Set Theory and its applications to Analysis, Measure Theory and Topology. / Research Interests: Commutative Algebra / Research Interests: Algebraic Topology; Deformation of Algebraic Structures, Higher Structures and RelatedFields / Research Interests: Harmonic Analysis / Research Interests: Complex Analysis and Operator Theory / Research Interests: Homogenization and Variational Methods for PDE's, Elliptic PDE's, Optimal controls / Research Interests: Representation theory / Research Interests: Combinatorial Topology, Computational Geometry / Research Interests: Geometric Group Theory, Relatively Hyperbolic Groups, Mapping Class Groups / Research Interests: Algebraic Groups and Invariant Theory, Lie Algebras and Representation Theory / Research Interests: Parallel Computing, Numerical Methods For PDEs, Computational Fluid Dynamics, Finite Element Analysis, Computational Biomechanics, Porous Media, Image Processing / Research Interests: Harmonic analysis / Research Interests: Partial Differential Equations / Research Interests: Structure theory and representations of algebraic groups. / Research Interests: Topology and Geometry / Research Interests: Homotopy theory, Group actions / Research Interests: Representation theory of Kac-Moody algebra, extended affine Lie algebra / Research Interests: Functional Analysis / Research Interests: Algebraic Number Theory and Arithmetic Geometry / Research Interests: L-Function, Sub-convexity problems, Sieve Method, Riemann Zeta Function / Research Interests: Representations theory of finite and p-adic groups, Applications of representation theory / Research Interests: Algebraic Topology, Complex Manifolds / Research Interests: Differential Geometry, Algebraic Topology, Knot Theory",
           "url": "https://www.iitk.ac.in/math/faculty"
         }
       ],

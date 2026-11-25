@@ -379,6 +379,7 @@ def population(db):
         group["cv_status"] = review.get("cvStatus")
         group["publications"] = publications
         group["publication_counts"] = counts
+        group["reviewed_metrics"] = review.get("reviewedMetrics", [])
         group["topic_sources"] = sources
         text = " / ".join(item["text"] for item in sources)
         fields = matched_fields(text)
@@ -574,14 +575,14 @@ def make_patch(seed, data, source_rows, scope_notes, school_reviews):
             if person["aliases"]:
                 updated["aliases"] = list(dict.fromkeys(updated.get("aliases", []) + person["aliases"]))
             finding = findings.get(seeded["id"], {})
+            snapshots = updated.get("metrics", []) + person["reviewed_metrics"]
             if finding.get("author_id") and finding["author_id"] == reviewed.get(seeded["id"]) and finding.get("snapshot"):
-                snapshot = finding["snapshot"]
-                metrics = {(m["source"],m["authorId"],m["checkedAt"]):m for m in updated.get("metrics", [])}
-                metrics[(snapshot["source"],snapshot["authorId"],snapshot["checkedAt"])] = snapshot
-                updated["metrics"] = list(metrics.values())
+                snapshots.append(finding["snapshot"])
                 papers = {p["url"]:p for p in finding.get("papers", [])}
                 papers.update({p["url"]:p for p in updated.get("papers", [])})
                 updated["papers"] = list(papers.values())
+            if snapshots:
+                updated["metrics"] = list({(m["source"],m["authorId"],m["checkedAt"]):m for m in snapshots}.values())
             if updated != seeded:
                 updated["checkedAt"] = max(updated.get("checkedAt") or "", person["checked_at"] or "")
             continue
@@ -619,7 +620,7 @@ def make_patch(seed, data, source_rows, scope_notes, school_reviews):
             "publicationsUrl":publications or None,
             "publicationCounts":person["publication_counts"],
             "opportunities":person["opportunities"],
-            "identityNote":reason, "metrics":[finding["snapshot"]] if known else [],
+            "identityNote":reason, "metrics":([finding["snapshot"]] if known else []) + person["reviewed_metrics"],
             "identityUrl":(finding.get("candidate_url") or finding.get("snapshot",{}).get("url"))
                 if slug in review_notes or finding.get("status") == "identity_review" else None,
             "papers":list({p["url"]: p for p in finding.get("papers", []) + person["papers"]}.values()),
@@ -717,12 +718,15 @@ def export(db, seed):
     patch = make_patch(seed,candidates,sources,scope_notes,cohorts.get("schoolReviews", {}))
     public_by_id = {p["id"]:p for p in seed["people"] + patch["people"]}
     public_people = list(public_by_id.values())
+    # A personal page can establish that a roster entry is a postdoc or a
+    # former member. Keep that evidence available after a fresh checkout.
     profile_urls = {
-        url for person in candidates if person["role"] in ("faculty", "unverified")
+        url for person in candidates
         for url in (person["profile"], person["homepage"]) if url
     }
-    # UAB directory entries depend on the personal page for their appointment category.
-    profile_urls.update(person["profile"] for person in candidates if person["school"] == "uab" and person["profile"])
+    profile_urls.update(url for person in public_people for url in (
+        person.get("homepage"), person.get("publicationsUrl"), *(a["url"] for a in person["affiliations"])
+    ) if url)
     export_checkpoint(db, profile_urls)
     atomic_write(OUTPUT / "collection.js", "window.geometryCollection = " + json_text(patch).replace("</", "<\\/") + ";\n")
     atomic_write(ROOT / "catalog-batch.json", json.dumps(patch,ensure_ascii=False,indent=2) + "\n")
@@ -781,7 +785,7 @@ def export(db, seed):
         rows = csv.writer(handle)
         rows.writerow(["学者 ID", "姓名", "学校 ID", "任职来源", "主页", "CV", "CV 类型", "发表列表",
                        "机构或作者统计", "OpenAlex 文章", "OpenAlex 引用", "OpenAlex 来源", "指标日期",
-                       "已查个人页面", "作者复核日期", "代表作链接", "待核原因", "CV 链接访问记录"])
+                       "已查个人页面", "作者复核日期", "代表作链接", "待核原因", "CV 链接访问记录", "其他来源引用"])
         for p in public_people:
             appointments = p["affiliations"]
             trusted = [m for m in p.get("metrics", []) if m.get("source") == "OpenAlex"]
@@ -812,7 +816,7 @@ def export(db, seed):
                         reason = None
                     notes.append(f"{label}待核，{reason.rstrip('。') if reason else link_reason}")
             counts = p.get("publicationCounts") or []
-            if not counts:
+            if not counts and metric.get("articles") is None:
                 notes.append("未登记作者或机构明确披露的计数及口径")
             if metric.get("articles") is None or metric.get("citations") is None:
                 notes.append(metric_review_notes.get(p["id"]) or finding.get("reason") or p.get("identityNote") or "OpenAlex 作者匹配或指标待复核")
@@ -825,12 +829,15 @@ def export(db, seed):
                            metric.get("articles", "待核"), metric.get("citations", "待核"),
                            metric.get("url") or finding.get("candidate_url", ""),
                            metric.get("checkedAt", ""), checked_pages, finding.get("checkedAt", ""),
-                           " / ".join(paper["url"] for paper in p.get("papers", [])), "；".join(notes), checked_cv])
+                           " / ".join(paper["url"] for paper in p.get("papers", [])), "；".join(notes), checked_cv,
+                           " / ".join(f"{m['citations']} · {m['source']} · {m['citationScope']} · {m['checkedAt']} · {m['url']}"
+                                      for m in p.get("metrics", []) if m["source"] != "OpenAlex" and m.get("citations") is not None)])
     (ROOT / "field-review.csv.tmp").replace(ROOT / "field-review.csv")
     scope_size = len(seed["schools"])
     checked = len({row["school"] for row in sources if row["status"] == "parsed"})
     profile_count = sum(row["url"] in profile_urls for row in db.execute("SELECT url FROM profiles WHERE status='parsed'"))
     metrics = sum(any(m.get("source") == "OpenAlex" for m in p.get("metrics", [])) for p in public_people)
+    scholar_metrics = sum(any(m.get("source") == "Google Scholar" for m in p.get("metrics", [])) for p in public_people)
     cv_count = sum(bool(p.get("cvUrl")) for p in public_people)
     homepage_count = sum(bool(p.get("homepage")) for p in public_people)
     publications = sum(bool(p.get("publicationsUrl")) for p in public_people)
@@ -873,8 +880,8 @@ def export(db, seed):
         "",
         f"更新日期 {now_date()}。QS 2026 数学 {qs_count} 所，软科 GRAS 2026 数学 {gras_count} 所，两榜合并去重 {scope_size} 所。已登记来源 {len({row['school'] for row in sources})} 所，至少有一个已解析来源 {checked} 所。",
         f"目录去重后共 {len(candidates)} 条学者与学校记录，来源外的任职或研究交叉需要继续复核。",
-        f"网页收录 {len(public_people)} 位，覆盖 {represented} 所。有个人主页 {homepage_count} 位、公开 CV {cv_count} 位、发表列表 {publications} 位、代表作 {representative_papers} 位、机构或作者计数 {official_counts} 位、OpenAlex 指标 {metrics} 位。",
-        f"已解析 {profile_count} 个个人页面。校级全名单对账完成 {completed_schools} 所。",
+        f"网页收录 {len(public_people)} 位，覆盖 {represented} 所。有个人主页 {homepage_count} 位、公开 CV {cv_count} 位、发表列表 {publications} 位、代表作 {representative_papers} 位、机构或作者计数 {official_counts} 位、OpenAlex 指标 {metrics} 位、Google Scholar 指标 {scholar_metrics} 位。",
+        f"有 {profile_count} 个个人页面的可读访问记录。校级全名单对账完成 {completed_schools} 所。",
         "",
     ]
     if cv_audit:
