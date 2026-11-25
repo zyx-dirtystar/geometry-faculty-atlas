@@ -2475,11 +2475,63 @@
     {
       "id": "waterloo",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，0 条任职或方向待核。 已收录 11 位学者，个人主页 2、CV 2、指标 1。",
+      "coverageNote": "已解析 1/14 个登记来源，0 条任职或方向待核。 已收录 12 位学者，个人主页 4、CV 4、指标 1。 已逐条对照纯数学现任 27 位、纯数学荣休及跨聘 23 位、应用数学现任 31 位与跨聘 17 位。交叉核对几何拓扑组 11 位教师及博士后分栏、数学物理组、计算组、IQC 35 份档案。仍需核实联合研究组与全部相关院系范围、博士后名单的年度滞后。 另核对 Perimeter 初始目录、组合与优化系及计算机科学入口。校属博士后入口暂不可读，用几何组分栏、本人 CV 和网页补证。",
       "rosterLinks": [
+        [
+          "Applied Mathematics · Cross-appointed",
+          "https://uwaterloo.ca/applied-mathematics/department-members/cross-appointed"
+        ],
+        [
+          "Applied Mathematics · Faculty Members",
+          "https://uwaterloo.ca/applied-mathematics/department-members/faculty-members"
+        ],
+        [
+          "Combinatorics and Optimization · Contacts",
+          "https://uwaterloo.ca/combinatorics-and-optimization/about/people"
+        ],
+        [
+          "Cheriton School of Computer Science · research areas",
+          "https://cs.uwaterloo.ca/research/research-areas"
+        ],
         [
           "Pure Mathematics Faculty Members",
           "https://uwaterloo.ca/pure-mathematics/department-members/faculty-members"
+        ],
+        [
+          "Pure Mathematics · Geometry & Topology Faculty",
+          "https://uwaterloo.ca/pure-mathematics-geometry-topology/our-people/faculty"
+        ],
+        [
+          "Geometry & Topology · current/archived postdoctoral fellows",
+          "https://uwaterloo.ca/pure-mathematics-geometry-topology/about/people/postdoctoral-fellows"
+        ],
+        [
+          "Institute for Quantum Computing · Profiles",
+          "https://uwaterloo.ca/institute-for-quantum-computing/profiles"
+        ],
+        [
+          "Applied Mathematics · Mathematical Physics",
+          "https://uwaterloo.ca/applied-mathematics/research-areas/mathematical-physics"
+        ],
+        [
+          "Perimeter Institute · Research and Staff directory",
+          "https://perimeterinstitute.ca/people"
+        ],
+        [
+          "Pure Mathematics · separate departmental postdoctoral listing",
+          "https://uwaterloo.ca/pure-mathematics/department-members/postdoctoral-fellows"
+        ],
+        [
+          "Pure Mathematics · Research Areas",
+          "https://uwaterloo.ca/pure-mathematics/research/research-areas"
+        ],
+        [
+          "Pure Mathematics · Emeritus, Adjunct, Cross-appointed",
+          "https://uwaterloo.ca/pure-mathematics/department-members/emeritusemeritaadjunct"
+        ],
+        [
+          "Applied Mathematics · Scientific Computing",
+          "https://uwaterloo.ca/applied-mathematics/research-areas/scientific-computing"
         ]
       ],
       "checkedAt": "2026-11-23"
@@ -2487,8 +2539,24 @@
     {
       "id": "zurich",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 2、指标 1。  以现任公告和个人研究页面补入 Christoph Kehle，另在 MIT 作为离任核对。",
+      "coverageNote": "已解析 2/6 个登记来源，0 条任职或方向待核。 已收录 4 位学者，个人主页 4、CV 2、指标 1。 德语官网还原分栏：14 位现任教授、3 位访问教授、9 位荣休和 titular。匹配 Alberto S. Cattaneo 组及 ETH/UZH 联合数学研究生院，区分成员主聘。官方通用人员及长访名录在访问时返回空表壳，继续核对其他学校和研究所入口。",
       "rosterLinks": [
+        [
+          "Applied Analysis · members",
+          "https://www.math.uzh.ch/aa/members"
+        ],
+        [
+          "Institute of Mathematics · guest listing",
+          "https://www.math.uzh.ch/en/guests/"
+        ],
+        [
+          "Institute of Mathematics · German member listing",
+          "https://www.math.uzh.ch/mitglieder?type=0"
+        ],
+        [
+          "Institute of Mathematics · Members (academic personnel)",
+          "https://www.math.uzh.ch/en/members/"
+        ],
         [
           "Institute of Mathematics · Mathematical Physics Group",
           "https://www.math.uzh.ch/cattaneogroup/members"
@@ -2498,7 +2566,7 @@
           "https://www.math.uzh.ch/professuren?type=0"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "zjnu",
@@ -3487,18 +3555,82 @@
     {
       "id": "anu",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 1、CV 0、指标 2。  已用校定现任资料和本人论文对账 James Borger，属于算术代数几何。",
+      "coverageNote": "已解析 6/18 个登记来源，1 条任职或方向待核。 已收录 9 位学者，个人主页 9、CV 3、指标 5。 数学科学研究所现任列表三页 45 人、荣休和名誉 20 人、长访 17 人。另交叉四个具名研究组、分析与几何组 17 人及学校研究访问入口。个人档案已逐张读取，常设职、博士后、研究 fellowship、访问和荣休分开。继续复核名单空白方向与跨学科任职。 检查应用计算数学组 33 条、数据科学组 5 条、理论物理和计算学院入口。理论物理的应用拓扑与几何组、长访计划年度名册仍须逐人核完。",
       "rosterLinks": [
+        [
+          "MSI · Algebraic & Differential Geometry",
+          "https://maths.anu.edu.au/research/research-areas/algebraic-differential-geometry"
+        ],
         [
           "Algebraic & Differential Geometry",
           "https://maths.anu.edu.au/research/research-areas/algebraic-differential-geometry"
         ],
         [
+          "MSI · Analysis & Geometry",
+          "https://maths.anu.edu.au/research/research-areas/analysis-geometry"
+        ],
+        [
+          "MSI · Applied & Computational Mathematics",
+          "https://maths.anu.edu.au/research/research-areas/applied-computational-mathematics"
+        ],
+        [
+          "School of Computing · People",
+          "https://comp.anu.edu.au/people/"
+        ],
+        [
+          "Mathematical Data Science Centre · Members",
+          "https://maths.anu.edu.au/research/anu-mathematical-data-science/members"
+        ],
+        [
+          "MSI · Emeritus and Honorary",
+          "https://maths.anu.edu.au/people/emeritus-honorary"
+        ],
+        [
+          "MSI · Mathematical Physics",
+          "https://maths.anu.edu.au/research/research-areas/mathematical-physics"
+        ],
+        [
+          "MSI · Algebra & Number Theory",
+          "https://maths.anu.edu.au/research/research-areas/algebra-number-theory"
+        ],
+        [
+          "MSI · People category index",
+          "https://maths.anu.edu.au/people"
+        ],
+        [
           "数学科学研究所学术人员",
           "https://maths.anu.edu.au/people/academics"
+        ],
+        [
+          "MSI · Research Visitors Program by year",
+          "https://maths.anu.edu.au/outreach/visitors-program/mathematical-sciences-research-visitor-program-msrvp"
+        ],
+        [
+          "MSI · Academics page 1",
+          "https://maths.anu.edu.au/people/academics"
+        ],
+        [
+          "MSI · Academics page 2",
+          "https://maths.anu.edu.au/people/academics?page=1"
+        ],
+        [
+          "MSI · Academics page 3",
+          "https://maths.anu.edu.au/people/academics?page=2"
+        ],
+        [
+          "ANU Fundamental & Theoretical Physics · research group index",
+          "https://physics.anu.edu.au/research/ftp/"
+        ],
+        [
+          "MSI · Pure & Applied Topology",
+          "https://maths.anu.edu.au/research/research-areas/pure-applied-topology"
+        ],
+        [
+          "MSI · Long-term Visitors",
+          "https://maths.anu.edu.au/people/long-term-visitors"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "tu-berlin",
@@ -7722,6 +7854,124 @@
       "recordStatus": "directory"
     },
     {
+      "id": "anand-deopurkar",
+      "name": "Anand Deopurkar",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "anu",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://maths.anu.edu.au/people/anand-deopurkar",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://ananddeopurkar.org/",
+      "homepageStatus": null,
+      "cvUrl": "https://ananddeopurkar.org/cv.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://researchportalplus.anu.edu.au/en/persons/anand-deopurkar/publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5014263010",
+          "orcid": "https://orcid.org/0000-0002-3250-2342",
+          "url": "https://openalex.org/authors/A5014263010",
+          "authorApiUrl": "https://api.openalex.org/authors/A5014263010",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5014263010,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 15,
+          "works": 28,
+          "citations": 203,
+          "hIndex": 9,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, birational and enumerative geometry of moduli spaces, and stable log surfaces",
+          "url": "https://maths.anu.edu.au/people/anand-deopurkar"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://maths.anu.edu.au/people/anand-deopurkar"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "asilata-bapat",
+      "name": "Asilata Bapat",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "anu",
+          "department": "数学系",
+          "title": "Senior Lecturer ARC DECRA Fellow",
+          "url": "https://maths.anu.edu.au/people/asilata-bapat",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://asilatabapat.org/",
+      "homepageStatus": null,
+      "cvUrl": "https://asilatabapat.org/cv.html",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://researchportalplus.anu.edu.au/en/persons/asilata-bapat/publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5003286058",
+          "orcid": "https://orcid.org/0000-0002-7218-5281",
+          "url": "https://openalex.org/authors/A5003286058",
+          "authorApiUrl": "https://api.openalex.org/authors/A5003286058",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5003286058,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 9,
+          "works": 17,
+          "citations": 149,
+          "hIndex": 6,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic varieties in representation theory, Bridgeland stability, and geometric and categorical representation theory",
+          "url": "https://maths.anu.edu.au/people/asilata-bapat"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://maths.anu.edu.au/people/asilata-bapat"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "ben-andrews",
       "name": "Ben Andrews",
       "aliases": [],
@@ -7729,24 +7979,22 @@
         {
           "schoolId": "anu",
           "department": "数学系",
-          "title": "Professor",
+          "title": "Professor Associate Director (Research)",
           "url": "https://maths.anu.edu.au/people/ben-andrews",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "differential"
       ],
-      "tags": [
-        "Differential geometry, geometric analysis and geometric flows"
-      ],
-      "homepage": null,
+      "tags": [],
+      "homepage": "https://maths-people.anu.edu.au/~andrews",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "https://maths.anu.edu.au/people/ben-andrews",
+      "cvStatus": "本批复核学者的 ANU 具名档案及可达研究入口。独立公开 CV 待进一步核实。",
+      "publicationsUrl": "https://researchportalplus.anu.edu.au/en/persons/ben-andrews/publications",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
@@ -7771,15 +8019,167 @@
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Differential geometry, geometric analysis and geometric flows",
-          "url": "https://maths.anu.edu.au/people/ben-andrews"
+          "text": "Geometric analysis, mean and Gauss curvature flow, Ricci flow and geometric variational problems",
+          "url": "https://maths.anu.edu.au/research/research-areas/analysis-geometry"
         },
         {
           "text": "个人研究或论文来源",
           "url": "https://maths.anu.edu.au/people/ben-andrews"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "brett-parker",
+      "name": "Brett Parker",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "anu",
+          "department": "数学系",
+          "title": "Associate Professor · MSI Colloquium Organiser",
+          "url": "https://maths.anu.edu.au/people/brett-parker",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/view/brettparker/home",
+      "homepageStatus": null,
+      "cvUrl": "https://maths-people.anu.edu.au/~parkerb/data/professional/cv.pdf",
+      "cvType": "公开学术 CV（较早版本）",
+      "cvStatus": null,
+      "publicationsUrl": "https://maths-people.anu.edu.au/~parkerb/publications.html",
+      "publicationCounts": [
+        {
+          "value": 6,
+          "scope": "ANU Researcher Portal 展示的 research outputs 总计",
+          "checkedAt": "2026-11-25",
+          "url": "https://researchportalplus.anu.edu.au/en/persons/brett-parker/"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5020017045",
+          "orcid": "https://orcid.org/0000-0002-1066-2513",
+          "url": "https://openalex.org/authors/A5020017045",
+          "authorApiUrl": "https://api.openalex.org/authors/A5020017045",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5020017045,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 4,
+          "works": 19,
+          "citations": 263,
+          "hIndex": 10,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and symplectic geometry, J-holomorphic curves, exploded manifolds and Gromov–Witten invariants",
+          "url": "https://maths.anu.edu.au/research/research-areas/algebraic-differential-geometry"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://maths.anu.edu.au/people/brett-parker"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "bryan-wang",
+      "name": "Bryan Wang",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "anu",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://maths.anu.edu.au/people/bryan-wang",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://maths.anu.edu.au/people/bryan-wang",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "本批复核学者的 ANU 具名档案及可达研究入口。独立公开 CV 待进一步核实。",
+      "publicationsUrl": "https://researchportalplus.anu.edu.au/en/persons/bryan-wang/publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。 已以 ANU 具名档案或校研究门户的 ORCID 核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Symplectic geometry and topology, gauge theory on manifolds, geometric properties of moduli spaces and Gromov–Witten invariants",
+          "url": "https://maths.anu.edu.au/people/bryan-wang"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://maths.anu.edu.au/people/bryan-wang"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ian-le",
+      "name": "Ian Le",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "anu",
+          "department": "数学系",
+          "title": "Associate Professor PhB Convenor",
+          "url": "https://maths.anu.edu.au/people/ian-le",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://maths.anu.edu.au/people/ian-le",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "本批复核学者的 ANU 具名档案及可达研究入口。独立公开 CV 待进一步核实。",
+      "publicationsUrl": "https://researchportalplus.anu.edu.au/en/persons/ian-le/publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "OpenAlex HTTP 404 已以 ANU 具名档案或校研究门户的 ORCID 核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of cluster varieties and moduli, higher Teichmüller theory, and geometric representation theory",
+          "url": "https://researchportalplus.anu.edu.au/en/persons/ian-le/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://maths.anu.edu.au/people/ian-le"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -7852,6 +8252,88 @@
         {
           "text": "个人研究或论文来源",
           "url": "https://maths-people.anu.edu.au/~borger/papers.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "joan-licata",
+      "name": "Joan Licata",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "anu",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://maths.anu.edu.au/people/joan-licata",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://maths.anu.edu.au/people/joan-licata",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "本批复核学者的 ANU 具名档案及可达研究入口。独立公开 CV 待进一步核实。",
+      "publicationsUrl": "https://researchportalplus.anu.edu.au/en/persons/joan-licata/publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。 已以 ANU 具名档案或校研究门户的 ORCID 核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of contact 3-manifolds, Legendrian and topological knot theory and Floer invariants",
+          "url": "https://maths.anu.edu.au/people/joan-licata"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://maths.anu.edu.au/people/joan-licata"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "mat-langford",
+      "name": "Mat Langford",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "anu",
+          "department": "数学系",
+          "title": "MSI Fellow ARC Future Fellow",
+          "url": "https://maths.anu.edu.au/people/mat-langford",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://suppiluliuma.neocities.org/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "本批复核学者的 ANU 具名档案及可达研究入口。独立公开 CV 待进一步核实。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis, Ricci flow, mean curvature flow and hypersurface curvature flows",
+          "url": "https://maths.anu.edu.au/research/research-areas/algebraic-differential-geometry"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -62796,6 +63278,45 @@
       "recordStatus": "directory"
     },
     {
+      "id": "matt-satriano",
+      "name": "Matt Satriano",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "waterloo",
+          "department": "数学系",
+          "title": "Professor · Pure Mathematics",
+          "url": "https://uwaterloo.ca/pure-mathematics-geometry-topology/about/people/msatrian",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.uwaterloo.ca/~msatrian/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.math.uwaterloo.ca/~msatrian/CV-Waterloo.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, moduli of algebraic stacks and toric geometry",
+          "url": "https://www.math.uwaterloo.ca/~msatrian/CV-Waterloo.pdf"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "matthew-satriano",
       "name": "Matthew Satriano",
       "aliases": [],
@@ -62940,24 +63461,23 @@
         {
           "schoolId": "waterloo",
           "department": "数学系",
-          "title": "Professor",
-          "url": "https://uwaterloo.ca/pure-mathematics/node/50",
+          "title": "Professor of Pure Mathematics",
+          "url": "https://uwaterloo.ca/pure-mathematics-geometry-topology/about/people/karigian",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [
-        "Differential geometry, geometric analysis",
-        "Research interests : Differential geometry, geometric analysis"
+        "Differential geometry, geometric analysis"
       ],
-      "homepage": null,
+      "homepage": "https://www.math.uwaterloo.ca/~karigian/index.html",
       "homepageStatus": null,
-      "cvUrl": null,
+      "cvUrl": "https://www.math.uwaterloo.ca/~karigian/karigiannis-CV.pdf",
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": null,
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
@@ -62971,11 +63491,11 @@
           "url": "https://uwaterloo.ca/pure-mathematics/department-members/faculty-members"
         },
         {
-          "text": "Research interests : Differential geometry, geometric analysis",
-          "url": "https://uwaterloo.ca/pure-mathematics/node/50"
+          "text": "Differential geometry of special holonomy, G2 and Spin(7)-structures and calibrated geometry",
+          "url": "https://www.math.uwaterloo.ca/~karigian/index.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -62987,7 +63507,7 @@
           "schoolId": "waterloo",
           "department": "数学系",
           "title": "Assistant Professor",
-          "url": "https://uwaterloo.ca/pure-mathematics/contacts/xuemiao-chen",
+          "url": "https://uwaterloo.ca/pure-mathematics-geometry-topology/contacts/xuemiao-chen",
           "type": "primary",
           "checkedAt": "2026-11-25"
         }
@@ -63044,10 +63564,6 @@
         {
           "text": "Differential geometry, complex algebraic geometry and gauge theory",
           "url": "https://uwaterloo.ca/pure-mathematics/department-members/faculty-members"
-        },
-        {
-          "text": "Research interests: differential geometry, complex algebraic geometry, gauge theory",
-          "url": "https://uwaterloo.ca/pure-mathematics/contacts/xuemiao-chen"
         },
         {
           "text": "个人研究或论文来源",
@@ -64007,15 +64523,16 @@
           "schoolId": "zurich",
           "department": "数学系",
           "title": "Professor",
-          "url": "https://www.math.uzh.ch/member/cattaneo/vita",
+          "url": "https://www.math.uzh.ch/professuren?type=0",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [
+        "Mathematical physics",
         "On the arXiv"
       ],
       "homepage": "https://www.math.uzh.ch/member/cattaneo",
@@ -64032,6 +64549,10 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Mathematical physics",
+          "url": "https://www.math.uzh.ch/professuren?type=0"
+        },
+        {
           "text": "My fields of interest are in mathematical physics, differential geometry and algebraic topology. In particular, my research activity includes deformation quantization, symplectic and Poisson geometry, topological quantum field theories, and the mathematical aspects of perturbative quantization of gauge theories. On the arXiv.",
           "url": "https://www.math.uzh.ch/cattaneogroup/members"
         },
@@ -64040,7 +64561,53 @@
           "url": "https://www.math.uzh.ch/cattaneogroup/members"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "andrew-kresch",
+      "name": "Andrew Kresch",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "zurich",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.math.uzh.ch/professuren?type=0",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry",
+        "Algebraic geometry, algebraic stacks and intersection theory"
+      ],
+      "homepage": "https://www.math.uzh.ch/member/kresch/publications",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.math.uzh.ch/member/kresch/publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry",
+          "url": "https://www.math.uzh.ch/professuren?type=0"
+        },
+        {
+          "text": "Algebraic geometry, algebraic stacks and intersection theory",
+          "url": "https://www.math.uzh.ch/member/kresch/publications"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -64060,7 +64627,9 @@
       "fields": [
         "differential"
       ],
-      "tags": [],
+      "tags": [
+        "Analysis, PDE and general relativity"
+      ],
       "homepage": "https://www.math.uzh.ch/user/kehle/",
       "homepageStatus": null,
       "cvUrl": "https://www.math.uzh.ch/user/kehle/cv.html",
@@ -64102,12 +64671,62 @@
       ],
       "directoryEvidence": [
         {
+          "text": "Analysis, PDE and general relativity",
+          "url": "https://www.math.uzh.ch/professuren?type=0"
+        },
+        {
           "text": "Lorentzian differential geometry, negative Gauss curvature, mathematical general relativity and Einstein equations",
           "url": "https://www.math.uzh.ch/user/kehle/research.html"
         },
         {
           "text": "个人研究或论文来源",
           "url": "https://www.math.uzh.ch/user/kehle/research.html"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "joseph-ayoub",
+      "name": "Joseph Ayoub",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "zurich",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.math.uzh.ch/professuren?type=0",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic geometry",
+        "Algebraic geometry, motives and motivic homotopy theory"
+      ],
+      "homepage": "https://www.math.uzh.ch/member/ayoub/publications",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.math.uzh.ch/member/ayoub/publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry",
+          "url": "https://www.math.uzh.ch/professuren?type=0"
+        },
+        {
+          "text": "Algebraic geometry, motives and motivic homotopy theory",
+          "url": "https://www.math.uzh.ch/member/ayoub/publications"
         }
       ],
       "checkedAt": "2026-11-25",

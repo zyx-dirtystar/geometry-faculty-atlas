@@ -242,7 +242,11 @@
     "omid-amini": "A5009621249",
     "barton-zwiebach": "A5057263116",
     "christopher-prior": "A5053788266",
-    "thomas-rudelius": "A5016813938"
+    "thomas-rudelius": "A5016813938",
+    "asilata-bapat": "A5003286058",
+    "anand-deopurkar": "A5014263010",
+    "svetlana-makarova": "A5112149697",
+    "brett-parker": "A5020017045"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -321,7 +325,11 @@
     "naomi-sweeting": "两个本人预印本均指向同一 OpenAlex ID，MIT 任职已核实。高引样本另含 2015 年同名网络编码论文，作者早期任职待独立核对；本人列出的是预印本，暂不作论文总计。",
     "marija-zamaklar": "杜伦官方 ORCID 在 OpenAlex 查询返回 404；以具名任职和本人两篇出版 DOI 回查，作者字段无法唯一对应。机构成果库按该人提供期刊论文过滤链接，未找到明确完整总数。 Google Scholar 的姓名和机构组合检索未返回能确认身份的公开档案。",
     "yue-ren": "杜伦公开 ORCID 与 OpenAlex 返回应对作者的姓名或 ORCID 不符；改用本人两篇热带几何论文 DOI，返回作者字段仍无唯一对应。保留本人论文入口。 Google Scholar 的姓名和机构组合检索未返回能确认身份的公开档案。",
-    "jack-hall": "OpenAlex 将本人发表页所列 Perfect complexes on algebraic stacks 与 The Hilbert stack 两篇出版 DOI 分配给不同档案。Google Scholar 姓名加现任学校检索未找到可确认的公开档案。已保留墨尔本学术站论文目录，尚缺可核实的同口径合计。"
+    "jack-hall": "OpenAlex 将本人发表页所列 Perfect complexes on algebraic stacks 与 The Hilbert stack 两篇出版 DOI 分配给不同档案。Google Scholar 姓名加现任学校检索未找到可确认的公开档案。已保留墨尔本学术站论文目录，尚缺可核实的同口径合计。",
+    "joan-licata": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。 已以 ANU 具名档案或校研究门户的 ORCID 核对。",
+    "bryan-wang": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。 已以 ANU 具名档案或校研究门户的 ORCID 核对。",
+    "ian-le": "OpenAlex HTTP 404 已以 ANU 具名档案或校研究门户的 ORCID 核对。",
+    "qiuye-jia": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。 已以 ANU 具名档案或校研究门户的 ORCID 核对。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -540,7 +548,7 @@
     "sven-bachmann": "UBC 官方 ORCID 和任职与本人公开名录吻合。抽查量子格点绝热定理、拓扑相和输运定理等高引结果。区分 OpenAlex 的无 DOI 收录与发表口径。",
     "james-borger": "ANU 官方任职及本人论著，两条 DOI 定位同一身份；核对 Witt 向量、λ 环与类域论的高引论文。",
     "anna-calissano": "UCL 及 Imperial 任职履历与两篇论文 DOI 一致，核对本人完整发表页中的图空间几何及脑网络作品，早期高引的 La Scala 社交网络文章同样在本人论文页。",
-    "ben-andrews": "具名院校或本人页公开的 ORCID、完整姓名、机构与高引作品相符。抽核 Gauss curvature flow 与凸超曲面；高引数值优化论文由 ANU 成果库和共同作者讲稿核对。",
+    "ben-andrews": "官网 ORCID 和 ANU 单位一致。高引抽样核对 Gauss 流、凸超曲面收缩及各向同性曲线流。",
     "alastair-craw": "具名院校或本人页公开的 ORCID、完整姓名、机构与高引作品相符。抽核 几何不变量理论、G-Hilbert 翻转、环面簇与 McKay 箭图模空间。",
     "roger-moser": "具名院校或本人页公开的 ORCID、完整姓名、机构与高引作品相符。抽核 调和映射、逆平均曲率流、双调和映射与涡旋方程。",
     "veronique-fischer": "具名院校或本人页公开的 ORCID、完整姓名、机构与高引作品相符。抽核 幂零 Lie 群、分次群 Sobolev 空间和内在的伪微分演算。",
@@ -560,6 +568,10 @@
     "omid-amini": "现任及既往 CNRS 单位、两篇精确 DOI 与高引的 Berkovich 骨架、热带曲线与图上 Riemann–Roch 作品相符。",
     "barton-zwiebach": "MIT 当前任职、几何期刊与弦场论两项正式 DOI 一致。高引抽样涵盖其曲率项、教材、双场论与闭弦场论。",
     "christopher-prior": "Durham 数学科学和研究库同名身份，与两篇空间曲线 DOI 一致。核对曲线 writhe、磁拓扑和弯曲带应用，和 Oxford 另一位 Christopher Prior 分开。",
-    "thomas-rudelius": "Durham 官方档案的两项 JHEP DOI 匹配同一身份，IAS 任职历史及弦场论、弱引力、模空间高引条目一致。"
+    "thomas-rudelius": "Durham 官方档案的两项 JHEP DOI 匹配同一身份，IAS 任职历史及弦场论、弱引力、模空间高引条目一致。",
+    "asilata-bapat": "官网 ORCID、ANU 单位及稳定条件、球面对象和 q-变形高引结果一致。",
+    "anand-deopurkar": "官网 ORCID、ANU 单位及 Hurwitz 空间、向量丛、稳定 log 曲面高引结果一致。",
+    "svetlana-makarova": "官网 ORCID、ANU 单位及模空间、determinantal line bundles 与 Fano 成果一致。",
+    "brett-parker": "官网 ORCID、ANU 单位及爆裂流形、全纯曲线及 Gromov–Witten 高引结果一致。"
   }
 }
