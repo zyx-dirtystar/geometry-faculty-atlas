@@ -6527,7 +6527,7 @@
     {
       "id": "nust",
       "coverage": "sample",
-      "coverageNote": "已解析 3/8 个登记来源，0 条任职或方向待核。 已收录 3 位学者，个人主页 0、CV 0、指标 3。 已查自然科学学院数学研究组和 2025–26 课程表，几何教学证据已经与研究任职区分。现任几何相关研究方向与联聘仍待核。 SNS 当期 17 人清单与六个数学研究专题 24 名具名成员交叉。SEECS 数学与通识单位另查。以 Noether 对称、曲率内在不变量、时空的等平均曲率叶状结构等代表作确认几何方向；课程表独立为教学资料。",
+      "coverageNote": "已解析 3/17 个登记来源，0 条任职或方向待核。 已收录 3 位学者，个人主页 0、CV 3、指标 3。 已查自然科学学院数学研究组和 2025–26 课程表，几何教学证据已经与研究任职区分。现任几何相关研究方向与联聘仍待核。 SNS 当期 17 人清单与六个数学研究专题 24 名具名成员交叉。SEECS 数学与通识单位另查。以 Noether 对称、曲率内在不变量、时空的等平均曲率叶状结构等代表作确认几何方向；课程表独立为教学资料。 续查 CEME 微分方程组两表去重 9 位、计算数学组去重 7 位，按具名信息区分联属与主聘。补核 SMME、SEECS 交叉与 Asghar Qadir 历史荣休。三位已入库学者的 Qalam CV 均能公开下载且姓名、学校和任职与现行资料一致。另登记校方专业与校区总表及 MCS 名录入口，PNEC、MCS、Balochistan 和其他工学院的跨院成员仍待逐一核完。",
       "rosterLinks": [
         [
           "Mathematics · six research groups",
@@ -6538,12 +6538,48 @@
           "https://sns.nust.edu.pk/faculty/"
         ],
         [
+          "CEME · Department of Basic Sciences and Humanities",
+          "https://ceme.nust.edu.pk/departments/department-of-basic-sciences-and-humanities/"
+        ],
+        [
+          "CEME · Computational Mathematics Group",
+          "https://ceme.nust.edu.pk/research/computational-mathematics-group/"
+        ],
+        [
+          "CEME · Differential Equations research group",
+          "https://ceme.nust.edu.pk/research/differential-equations/"
+        ],
+        [
           "自然科学学院数学教职员",
           "https://sns.nust.edu.pk/faculty?depart=SNS-MATH"
         ],
         [
+          "NUST · List of UG programmes and institutions",
+          "https://nust.edu.pk/admissions/undergraduates/list-of-ug-programmes-and-institutions"
+        ],
+        [
           "School of Natural Sciences · Department of Mathematics",
           "https://sns.nust.edu.pk/departments/department-of-mathematics/"
+        ],
+        [
+          "Military College of Signals · Faculty",
+          "https://mcs.nust.edu.pk/faculty/"
+        ],
+        [
+          "NUST Qalam · Azad Akhter Siddiqui",
+          "https://qalam.nust.edu.pk/faculty-profile/MjYyNg"
+        ],
+        [
+          "NUST Qalam · Hina Munir Dutt",
+          "https://qalam.nust.edu.pk/faculty-profile/MTYyMw"
+        ],
+        [
+          "NUST Qalam · Ibrar Hussain",
+          "https://qalam.nust.edu.pk/faculty-profile/MjQyOA"
+        ],
+        [
+          "NUST Qalam · Tooba Siddiqui",
+          "https://qalam.nust.edu.pk/faculty-profile/Mzk3"
         ],
         [
           "SEECS · Azad Akhter Siddiqui",
@@ -36855,7 +36891,7 @@
           "title": "Professor",
           "url": "https://seecs.nust.edu.pk/faculty/azad-akhter-siddiqui/",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -36865,33 +36901,59 @@
         "Relativity, Cosmology"
       ],
       "homepage": null,
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "官方 SEECS 个人学术档案有履历与成果栏，未见独立公开 CV。",
-      "publicationsUrl": "https://seecs.nust.edu.pk/faculty/azad-akhter-siddiqui/",
-      "publicationCounts": [],
+      "homepageStatus": "已查院系具名页、Qalam 个人档案及其下载 CV；未在这些入口发现校方个人档案以外的独立学术主页。",
+      "cvUrl": "https://qalam.nust.edu.pk/faculty-profile/2626/download-cv",
+      "cvType": "公开 CV（NUST Qalam 生成）",
+      "cvStatus": null,
+      "publicationsUrl": "https://qalam.nust.edu.pk/faculty-profile/MjYyNg",
+      "publicationCounts": [
+        {
+          "value": 48,
+          "scope": "NUST Qalam 具名 CV 开头的 research articles & conference papers 合计",
+          "url": "https://qalam.nust.edu.pk/faculty-profile/2626/download-cv",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
       "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
       "metrics": [
         {
           "source": "OpenAlex",
           "authorId": "A5054230164",
-          "orcid": "https://orcid.org/0000-0001-8693-5787",
           "url": "https://openalex.org/authors/A5054230164",
+          "orcid": "https://orcid.org/0000-0001-8693-5787",
           "authorApiUrl": "https://api.openalex.org/authors/A5054230164",
           "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5054230164,type:article&per_page=1&select=id",
-          "checkedAt": "2026-11-25",
+          "checkedAt": "2026-11-26",
           "articles": 38,
           "works": 49,
-          "citations": 514,
+          "citations": 506,
           "hIndex": 11,
           "articleScope": "OpenAlex type:article",
           "citationScope": "OpenAlex 作者档案累计引用"
+        },
+        {
+          "source": "Google Scholar",
+          "authorId": "j7dzE9UAAAAJ",
+          "url": "https://scholar.google.com/citations?user=j7dzE9UAAAAJ&hl=en",
+          "checkedAt": "2026-11-26",
+          "citations": 633,
+          "hIndex": 12,
+          "citationScope": "Google Scholar 作者档案 All 栏"
         }
       ],
-      "identityUrl": null,
+      "identityUrl": "https://openalex.org/authors/A5054230164",
       "papers": [
+        {
+          "title": "FOLIATION OF THE SCHWARZSCHILD AND REISSNER–NORDSTRÖM SPACE–TIMES BY FLAT SPACE-LIKE HYPERSURFACES",
+          "url": "https://doi.org/10.1142/s0218271806009157",
+          "year": 2006
+        },
+        {
+          "title": "Uniqueness of flat spherically symmetric spacelike hypersurfaces admitted by spherically symmetric static spacetimes",
+          "url": "https://doi.org/10.1088/0264-9381/24/22/008",
+          "year": 2007
+        },
         {
           "title": "Constant Mean Curvature Slices for the Schwarzschild-anti-de Sitter Spacetime",
           "url": "https://doi.org/10.1007/S10773-024-05819-0"
@@ -36912,10 +36974,10 @@
         },
         {
           "text": "个人研究或论文来源",
-          "url": "https://seecs.nust.edu.pk/faculty/azad-akhter-siddiqui/"
+          "url": "https://qalam.nust.edu.pk/faculty-profile/MjYyNg"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -36929,7 +36991,7 @@
           "title": "Tenured Professor",
           "url": "https://seecs.nust.edu.pk/faculty/ibrar-hussain/",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -36939,33 +37001,59 @@
         "General Relativity Symmetry Analysis"
       ],
       "homepage": null,
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "公开院系个人页列教育、职务与报告资料，未找到独立 CV。",
-      "publicationsUrl": "https://seecs.nust.edu.pk/faculty/ibrar-hussain/",
-      "publicationCounts": [],
+      "homepageStatus": "已查院系具名页、Qalam 个人档案及其下载 CV；未在这些入口发现校方个人档案以外的独立学术主页。",
+      "cvUrl": "https://qalam.nust.edu.pk/faculty-profile/2428/download-cv",
+      "cvType": "公开 CV（NUST Qalam 生成）",
+      "cvStatus": null,
+      "publicationsUrl": "https://qalam.nust.edu.pk/faculty-profile/MjQyOA",
+      "publicationCounts": [
+        {
+          "value": 92,
+          "scope": "NUST Qalam 具名 CV 开头的 research articles & conference papers 合计",
+          "url": "https://qalam.nust.edu.pk/faculty-profile/2428/download-cv",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
       "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
       "metrics": [
         {
           "source": "OpenAlex",
           "authorId": "A5067213908",
-          "orcid": "https://orcid.org/0000-0003-0733-900X",
           "url": "https://openalex.org/authors/A5067213908",
+          "orcid": "https://orcid.org/0000-0003-0733-900X",
           "authorApiUrl": "https://api.openalex.org/authors/A5067213908",
           "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5067213908,type:article&per_page=1&select=id",
-          "checkedAt": "2026-11-25",
+          "checkedAt": "2026-11-26",
           "articles": 81,
           "works": 91,
-          "citations": 1817,
+          "citations": 1798,
           "hIndex": 25,
           "articleScope": "OpenAlex type:article",
           "citationScope": "OpenAlex 作者档案累计引用"
+        },
+        {
+          "source": "Google Scholar",
+          "authorId": "xmAROBEAAAAJ",
+          "url": "https://scholar.google.com/citations?user=xmAROBEAAAAJ&hl=en",
+          "checkedAt": "2026-11-26",
+          "citations": 2520,
+          "hIndex": 32,
+          "citationScope": "Google Scholar 作者档案 All 栏"
         }
       ],
-      "identityUrl": null,
+      "identityUrl": "https://openalex.org/authors/A5067213908",
       "papers": [
+        {
+          "title": "Dynamics of a charged particle around a slowly rotating Kerr black hole immersed in magnetic field",
+          "url": "https://doi.org/10.1140/epjc/s10052-014-3210-y",
+          "year": 2014
+        },
+        {
+          "title": "Noether symmetries of LRS Bianchi type-I spacetime in f(ℛ,φ,χ) gravity",
+          "url": "https://doi.org/10.1142/s0219887820501637",
+          "year": 2020
+        },
         {
           "title": "Curvature and Weyl collineations of Bianchi type V spacetimes",
           "url": "https://doi.org/10.1016/j.geomphys.2009.07.008"
@@ -36986,10 +37074,10 @@
         },
         {
           "text": "个人研究或论文来源",
-          "url": "https://seecs.nust.edu.pk/faculty/ibrar-hussain/"
+          "url": "https://qalam.nust.edu.pk/faculty-profile/MjQyOA"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -37005,7 +37093,7 @@
           "title": "Professor",
           "url": "https://sns.nust.edu.pk/faculty/tooba-siddiqui/",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -37016,33 +37104,45 @@
         "Symmetry Analysis of Differential Equations"
       ],
       "homepage": null,
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "院系提供个人学术档案，已查 SNS、其 Scholar 搜索入口与发表列表，未见单独 CV 文件。",
-      "publicationsUrl": "https://sns.nust.edu.pk/faculty/tooba-siddiqui/",
-      "publicationCounts": [],
+      "homepageStatus": "已查院系具名页、Qalam 个人档案及其下载 CV；未在这些入口发现校方个人档案以外的独立学术主页。",
+      "cvUrl": "https://qalam.nust.edu.pk/faculty-profile/397/download-cv",
+      "cvType": "公开 CV（NUST Qalam 生成）",
+      "cvStatus": null,
+      "publicationsUrl": "https://qalam.nust.edu.pk/faculty-profile/Mzk3",
+      "publicationCounts": [
+        {
+          "value": 53,
+          "scope": "NUST Qalam 具名 CV 开头的 research articles & conference papers 合计",
+          "url": "https://qalam.nust.edu.pk/faculty-profile/397/download-cv",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
       "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
       "metrics": [
         {
           "source": "OpenAlex",
           "authorId": "A5054183610",
-          "orcid": "https://orcid.org/0000-0002-2456-6418",
           "url": "https://openalex.org/authors/A5054183610",
+          "orcid": "https://orcid.org/0000-0002-2456-6418",
           "authorApiUrl": "https://api.openalex.org/authors/A5054183610",
           "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5054183610,type:article&per_page=1&select=id",
-          "checkedAt": "2026-11-25",
+          "checkedAt": "2026-11-26",
           "articles": 50,
-          "works": 57,
-          "citations": 736,
+          "works": 58,
+          "citations": 724,
           "hIndex": 13,
           "articleScope": "OpenAlex type:article",
           "citationScope": "OpenAlex 作者档案累计引用"
         }
       ],
-      "identityUrl": null,
+      "identityUrl": "https://openalex.org/authors/A5054183610",
       "papers": [
+        {
+          "title": "The Connection Between Isometries and Symmetries of Geodesic Equations of the Underlying Spaces",
+          "url": "https://doi.org/10.1007/s11071-006-0729-y",
+          "year": 2006
+        },
         {
           "title": "Complete Classification of Cylindrically Symmetric Static Spacetimes and the Corresponding Conservation Laws",
           "url": "https://doi.org/10.3390/math4030050"
@@ -37050,11 +37150,6 @@
         {
           "title": "Complete classification of spherically symmetric static space-times via Noether symmetries",
           "url": "https://doi.org/10.1007/S11232-015-0310-2"
-        },
-        {
-          "title": "Noether symmetries and conserved quantities for spaces with a section of zero curvature",
-          "year": 2010,
-          "url": "https://doi.org/10.1016/j.geomphys.2010.11.015"
         }
       ],
       "directoryEvidence": [
@@ -37068,10 +37163,10 @@
         },
         {
           "text": "个人研究或论文来源",
-          "url": "https://sns.nust.edu.pk/faculty/tooba-siddiqui/"
+          "url": "https://qalam.nust.edu.pk/faculty-profile/Mzk3"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {

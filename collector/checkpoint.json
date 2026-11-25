@@ -7132,6 +7132,36 @@
       "note": ""
     },
     {
+      "id": "nust-ceme-bas26",
+      "school": "nust",
+      "url": "https://ceme.nust.edu.pk/departments/department-of-basic-sciences-and-humanities/",
+      "label": "CEME · Department of Basic Sciences and Humanities",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "读取院系说明，研究组入口和学术任职分别留档。"
+    },
+    {
+      "id": "nust-ceme-comp26",
+      "school": "nust",
+      "url": "https://ceme.nust.edu.pk/research/computational-mathematics-group/",
+      "label": "CEME · Computational Mathematics Group",
+      "status": "reference",
+      "count": 7,
+      "checked_at": "2026-11-26",
+      "note": "两张表去重七人，主要是跨院计算数学与随机分析，逐项记录指南。"
+    },
+    {
+      "id": "nust-ceme-diffeq26",
+      "school": "nust",
+      "url": "https://ceme.nust.edu.pk/research/differential-equations/",
+      "label": "CEME · Differential Equations research group",
+      "status": "reference",
+      "count": 9,
+      "checked_at": "2026-11-26",
+      "note": "两张表去重九人，区分本组与 SEECS、MCS、SMME 及 SCEE 联属。公开应用描述用于交叉确认三类几何方向。"
+    },
+    {
       "id": "nust-full-audit-source",
       "school": "nust",
       "url": "https://sns.nust.edu.pk/faculty?depart=SNS-MATH",
@@ -7142,6 +7172,16 @@
       "note": ""
     },
     {
+      "id": "nust-institutes26",
+      "school": "nust",
+      "url": "https://nust.edu.pk/admissions/undergraduates/list-of-ug-programmes-and-institutions",
+      "label": "NUST · List of UG programmes and institutions",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "研究范围核对涉及各城市和校区。主校数学与工学院的具名分组见各记录。"
+    },
+    {
       "id": "nust-math-source",
       "school": "nust",
       "url": "https://sns.nust.edu.pk/departments/department-of-mathematics/",
@@ -7150,6 +7190,56 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "nust-mcs26",
+      "school": "nust",
+      "url": "https://mcs.nust.edu.pk/faculty/",
+      "label": "Military College of Signals · Faculty",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "网页索引披露 Basic Sciences 等分类。直接访问超时，现行完整名册尚待逐项复核。"
+    },
+    {
+      "id": "nust-qalam-azad26",
+      "school": "nust",
+      "url": "https://qalam.nust.edu.pk/faculty-profile/MjYyNg",
+      "label": "NUST Qalam · Azad Akhter Siddiqui",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-26",
+      "note": "校方具名科研档案提供任职、成果及公开 CV。"
+    },
+    {
+      "id": "nust-qalam-hina26",
+      "school": "nust",
+      "url": "https://qalam.nust.edu.pk/faculty-profile/MTYyMw",
+      "label": "NUST Qalam · Hina Munir Dutt",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-26",
+      "note": "校方具名科研档案提供任职、成果及公开 CV。"
+    },
+    {
+      "id": "nust-qalam-ibrar26",
+      "school": "nust",
+      "url": "https://qalam.nust.edu.pk/faculty-profile/MjQyOA",
+      "label": "NUST Qalam · Ibrar Hussain",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-26",
+      "note": "校方具名科研档案提供任职、成果及公开 CV。"
+    },
+    {
+      "id": "nust-qalam-tooba26",
+      "school": "nust",
+      "url": "https://qalam.nust.edu.pk/faculty-profile/Mzk3",
+      "label": "NUST Qalam · Tooba Siddiqui",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-26",
+      "note": "校方具名科研档案提供任职、成果及公开 CV。"
     },
     {
       "id": "nust-see-azad31",
@@ -454845,6 +454935,46 @@
       "checked_at": "2026-11-24"
     },
     {
+      "url": "https://qalam.nust.edu.pk/faculty-profile/MTYyMw",
+      "cache_id": "profile-d659b11dd59adce5",
+      "status": "parsed",
+      "record": {
+        "official_name": "Hina Munir Dutt",
+        "checked_at": "2026-11-26"
+      },
+      "checked_at": "2026-11-26"
+    },
+    {
+      "url": "https://qalam.nust.edu.pk/faculty-profile/MjQyOA",
+      "cache_id": "profile-93a9b008e475ad5a",
+      "status": "parsed",
+      "record": {
+        "official_name": "Ibrar Hussain",
+        "checked_at": "2026-11-26"
+      },
+      "checked_at": "2026-11-26"
+    },
+    {
+      "url": "https://qalam.nust.edu.pk/faculty-profile/MjYyNg",
+      "cache_id": "profile-681c731d4792b32b",
+      "status": "parsed",
+      "record": {
+        "official_name": "Azad Akhter Siddiqui",
+        "checked_at": "2026-11-26"
+      },
+      "checked_at": "2026-11-26"
+    },
+    {
+      "url": "https://qalam.nust.edu.pk/faculty-profile/Mzk3",
+      "cache_id": "profile-9e6f9aa1e1e7855e",
+      "status": "parsed",
+      "record": {
+        "official_name": "Tooba Siddiqui",
+        "checked_at": "2026-11-26"
+      },
+      "checked_at": "2026-11-26"
+    },
+    {
       "url": "https://qiding22.github.io",
       "cache_id": "profile-0452579805cb08f2",
       "status": "parsed",
@@ -516424,28 +516554,28 @@
       "author_id": "A5054230164",
       "papers": [
         {
-          "title": "Constant Mean Curvature Slices for the Schwarzschild-anti-de Sitter Spacetime",
-          "year": 2024,
-          "url": "https://doi.org/10.1007/S10773-024-05819-0"
+          "title": "FOLIATION OF THE SCHWARZSCHILD AND REISSNER–NORDSTRÖM SPACE–TIMES BY FLAT SPACE-LIKE HYPERSURFACES",
+          "url": "https://doi.org/10.1142/s0218271806009157",
+          "year": 2006
         },
         {
-          "title": "K slicing the Schwarzschild and the Reissner–Nordstrom spacetimes",
-          "year": 1999,
-          "url": "https://doi.org/10.1063/1.533060"
+          "title": "Uniqueness of flat spherically symmetric spacelike hypersurfaces admitted by spherically symmetric static spacetimes",
+          "url": "https://doi.org/10.1088/0264-9381/24/22/008",
+          "year": 2007
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "snapshot": {
         "source": "OpenAlex",
         "authorId": "A5054230164",
-        "orcid": "https://orcid.org/0000-0001-8693-5787",
         "url": "https://openalex.org/authors/A5054230164",
+        "orcid": "https://orcid.org/0000-0001-8693-5787",
         "authorApiUrl": "https://api.openalex.org/authors/A5054230164",
         "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5054230164,type:article&per_page=1&select=id",
-        "checkedAt": "2026-11-25",
+        "checkedAt": "2026-11-26",
         "articles": 38,
         "works": 49,
-        "citations": 514,
+        "citations": 506,
         "hIndex": 11,
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
@@ -519472,28 +519602,28 @@
       "author_id": "A5067213908",
       "papers": [
         {
-          "title": "Curvature and Weyl collineations of Bianchi type V spacetimes",
-          "year": 2009,
-          "url": "https://doi.org/10.1016/j.geomphys.2009.07.008"
+          "title": "Dynamics of a charged particle around a slowly rotating Kerr black hole immersed in magnetic field",
+          "url": "https://doi.org/10.1140/epjc/s10052-014-3210-y",
+          "year": 2014
         },
         {
-          "title": "Noether symmetries and conserved quantities for spaces with a section of zero curvature",
-          "year": 2010,
-          "url": "https://doi.org/10.1016/j.geomphys.2010.11.015"
+          "title": "Noether symmetries of LRS Bianchi type-I spacetime in f(ℛ,φ,χ) gravity",
+          "url": "https://doi.org/10.1142/s0219887820501637",
+          "year": 2020
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "snapshot": {
         "source": "OpenAlex",
         "authorId": "A5067213908",
-        "orcid": "https://orcid.org/0000-0003-0733-900X",
         "url": "https://openalex.org/authors/A5067213908",
+        "orcid": "https://orcid.org/0000-0003-0733-900X",
         "authorApiUrl": "https://api.openalex.org/authors/A5067213908",
         "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5067213908,type:article&per_page=1&select=id",
-        "checkedAt": "2026-11-25",
+        "checkedAt": "2026-11-26",
         "articles": 81,
         "works": 91,
-        "citations": 1817,
+        "citations": 1798,
         "hIndex": 25,
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
@@ -525943,33 +526073,28 @@
       "author_id": "A5054183610",
       "papers": [
         {
+          "title": "The Connection Between Isometries and Symmetries of Geodesic Equations of the Underlying Spaces",
+          "url": "https://doi.org/10.1007/s11071-006-0729-y",
+          "year": 2006
+        },
+        {
           "title": "Complete Classification of Cylindrically Symmetric Static Spacetimes and the Corresponding Conservation Laws",
-          "year": 2016,
-          "url": "https://doi.org/10.3390/math4030050"
-        },
-        {
-          "title": "Complete classification of spherically symmetric static space-times via Noether symmetries",
-          "year": 2015,
-          "url": "https://doi.org/10.1007/S11232-015-0310-2"
-        },
-        {
-          "title": "Noether symmetries and conserved quantities for spaces with a section of zero curvature",
-          "year": 2010,
-          "url": "https://doi.org/10.1016/j.geomphys.2010.11.015"
+          "url": "https://doi.org/10.3390/math4030050",
+          "year": 2016
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "snapshot": {
         "source": "OpenAlex",
         "authorId": "A5054183610",
-        "orcid": "https://orcid.org/0000-0002-2456-6418",
         "url": "https://openalex.org/authors/A5054183610",
+        "orcid": "https://orcid.org/0000-0002-2456-6418",
         "authorApiUrl": "https://api.openalex.org/authors/A5054183610",
         "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5054183610,type:article&per_page=1&select=id",
-        "checkedAt": "2026-11-25",
+        "checkedAt": "2026-11-26",
         "articles": 50,
-        "works": 57,
-        "citations": 736,
+        "works": 58,
+        "citations": 724,
         "hIndex": 13,
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"

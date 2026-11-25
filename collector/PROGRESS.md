@@ -1,9 +1,9 @@
 # 几何学者库进度
 
-更新日期 2026-11-25。QS 2026 数学 200 所，软科 GRAS 2026 数学 100 所，两榜合并去重 222 所。已登记来源 222 所，至少有一个已解析来源 222 所。
-目录去重后共 18676 条学者与学校记录，来源外的任职或研究交叉需要继续复核。
-网页收录 1188 位，覆盖 219 所。有个人主页 698 位、公开 CV 325 位、发表列表 480 位、代表作 314 位、机构或作者计数 96 位、OpenAlex 指标 321 位、Google Scholar 指标 4 位。
-有 6821 个个人页面的可读访问记录。校级全名单对账完成 12 所。
+更新日期 2026-11-26。QS 2026 数学 200 所，软科 GRAS 2026 数学 100 所，两榜合并去重 222 所。已登记来源 222 所，至少有一个已解析来源 222 所。
+目录去重后共 18681 条学者与学校记录，来源外的任职或研究交叉需要继续复核。
+网页收录 1188 位，覆盖 219 所。有个人主页 698 位、公开 CV 328 位、发表列表 480 位、代表作 314 位、机构或作者计数 99 位、OpenAlex 指标 321 位、Google Scholar 指标 6 位。
+有 6825 个个人页面的可读访问记录。校级全名单对账完成 12 所。
 
 ## 公开 CV 链接复核
 
@@ -15,7 +15,7 @@
 
 ## 最近一轮作者档案复核
 
-2026-11-25 逐项核对 9 位学者的 ORCID、具名论文和机构资料。确认 7 个 OpenAlex 作者档案，搁置 2 个有身份或作品争议的 OpenAlex 档案，另确认 0 个 Google Scholar 作者档案。归属证据、替代计量和检索结果见学者字段复核表。
+2026-11-26 逐项核对 3 位学者的 ORCID、具名论文和机构资料。确认 3 个 OpenAlex 作者档案，搁置 0 个有身份或作品争议的 OpenAlex 档案，另确认 2 个 Google Scholar 作者档案。归属证据、替代计量和检索结果见学者字段复核表。
 
 ## 原待查批次
 
@@ -220,7 +220,7 @@
 | 卡尔斯鲁厄理工学院 | 151-200 | — | 工作名单 | [KIT - Institute of Algebra and Geometry - Research Groups](https://iag.math.kit.edu/english/26.php) · [Differentialgeometrie am IAG](https://iag.math.kit.edu/iag5/iag5.php) · [数学系或所属学院人员入口](https://www.math.kit.edu/english/personen.php) | 1 | 0 / 0 / 0 | 4 |
 | 莱顿大学 | 151-200 | — | 工作名单 | [莱顿大学几何组（历史名录须核任职）](https://websites.math.leidenuniv.nl/geom/geometry_pages/) · [数学研究所个人主页（仅单人线索）](https://pub.math.leidenuniv.nl/~vonkjb/) · [Mathematical Institute · Staff](https://www.universiteitleiden.nl/en/science/mathematics/staff) · [Mathematical Institute · Arithmetic Geometry archived group](https://websites.math.leidenuniv.nl/geom/geometry_pages/) | 2 | 2 / 2 / 1 | 6 |
 | 拉夫堡大学 | 151-200 | — | 工作名单 | [Geometry and Mathematical Physics](https://www.lboro.ac.uk/departments/maths/research/research-groups-and-centres/geometry-mathematical-physics/) · [数学系或所属学院人员入口](https://www.lboro.ac.uk/departments/maths/staff/) | 3 | 2 / 1 / 0 | 32 |
-| 巴基斯坦国立科技大学 | 151-200 | — | 工作名单 | [Mathematics · six research groups](https://sns.nust.edu.pk/research/mathematics-research-groups/) · [School of Natural Sciences · Faculty](https://sns.nust.edu.pk/faculty/) · [自然科学学院数学教职员](https://sns.nust.edu.pk/faculty?depart=SNS-MATH) · [School of Natural Sciences · Department of Mathematics](https://sns.nust.edu.pk/departments/department-of-mathematics/) · [SEECS · Azad Akhter Siddiqui](https://seecs.nust.edu.pk/faculty/azad-akhter-siddiqui/) · [SEECS · Department of Humanities & Sciences](https://seecs.nust.edu.pk/departments/department-of-humanities-sciences-2/) · [SEECS · Ibrar Hussain](https://seecs.nust.edu.pk/faculty/ibrar-hussain/) · [Mathematics · Tooba Siddiqui](https://sns.nust.edu.pk/faculty/tooba-siddiqui/) | 3 | 0 / 0 / 3 | 0 |
+| 巴基斯坦国立科技大学 | 151-200 | — | 工作名单 | [Mathematics · six research groups](https://sns.nust.edu.pk/research/mathematics-research-groups/) · [School of Natural Sciences · Faculty](https://sns.nust.edu.pk/faculty/) · [CEME · Department of Basic Sciences and Humanities](https://ceme.nust.edu.pk/departments/department-of-basic-sciences-and-humanities/) · [CEME · Computational Mathematics Group](https://ceme.nust.edu.pk/research/computational-mathematics-group/) · [CEME · Differential Equations research group](https://ceme.nust.edu.pk/research/differential-equations/) · [自然科学学院数学教职员](https://sns.nust.edu.pk/faculty?depart=SNS-MATH) · [NUST · List of UG programmes and institutions](https://nust.edu.pk/admissions/undergraduates/list-of-ug-programmes-and-institutions) · [School of Natural Sciences · Department of Mathematics](https://sns.nust.edu.pk/departments/department-of-mathematics/) · [Military College of Signals · Faculty](https://mcs.nust.edu.pk/faculty/) · [NUST Qalam · Azad Akhter Siddiqui](https://qalam.nust.edu.pk/faculty-profile/MjYyNg) · [NUST Qalam · Hina Munir Dutt](https://qalam.nust.edu.pk/faculty-profile/MTYyMw) · [NUST Qalam · Ibrar Hussain](https://qalam.nust.edu.pk/faculty-profile/MjQyOA) · [NUST Qalam · Tooba Siddiqui](https://qalam.nust.edu.pk/faculty-profile/Mzk3) · [SEECS · Azad Akhter Siddiqui](https://seecs.nust.edu.pk/faculty/azad-akhter-siddiqui/) · [SEECS · Department of Humanities & Sciences](https://seecs.nust.edu.pk/departments/department-of-humanities-sciences-2/) · [SEECS · Ibrar Hussain](https://seecs.nust.edu.pk/faculty/ibrar-hussain/) · [Mathematics · Tooba Siddiqui](https://sns.nust.edu.pk/faculty/tooba-siddiqui/) | 3 | 0 / 3 / 3 | 0 |
 | 挪威科技大学 | 151-200 | — | 工作名单 | [IMF · Algebra Group](https://www.ntnu.edu/imf/research/algebra) · [数学科学系人员名录](https://www.ntnu.edu/imf/employees) | 2 | 2 / 0 / 0 | 97 |
 | 新西伯利亚国立大学 | 151-200 | — | 工作名单 | [Geometric Analysis Laboratory](https://english.nsu.ru/research/divisions/mathematical-sciences/2063834/) · [ММФ НГУ · Исследовательская группа фундаментальной математики](https://education.nsu.ru/research_group) · [Department of Mechanics and Mathematics](https://education.nsu.ru/department_mechanics_mathematics_english/) · [基础数学研究组（仅部分范围）](https://mca.nsu.ru/isslgruppa/) · [Кафедра геометрии и топологии · 旧站](https://old.math.nsc.ru/LBRT/d6/chair/) | 1 | 1 / 0 / 0 | 2 |
 | 智利天主教大学 | 151-200 | — | 工作名单 | [Facultad de Matemáticas · Geometría](https://www.mat.uc.cl/geometria.html) · [数学系或所属学院人员入口](https://www.mat.uc.cl/personas/profes/matematica) | 4 | 2 / 2 / 0 | 28 |
@@ -385,7 +385,7 @@
 - 印度统计研究所。已提取 Kolkata 单元名册和跨校区统计与数学分部中央名册，分别保留来源。Delhi、Bangalore 的具体任职及跨校区同人仍待核。
 - 卡尔斯鲁厄理工学院。已查代数与几何研究所微分几何组成员。其他代数与几何分组、相邻研究中心仍待核。
 - 莱顿大学。已读代数／算术几何旧研究组页，并与现行校方个人页核对部分任职。旧组页的职级和完整性不可用于现任认定，其他研究组和全院人员表待核。
-- 巴基斯坦国立科技大学。已查自然科学学院数学研究组和 2025–26 课程表，几何教学证据已经与研究任职区分。现任几何相关研究方向与联聘仍待核。 SNS 当期 17 人清单与六个数学研究专题 24 名具名成员交叉。SEECS 数学与通识单位另查。以 Noether 对称、曲率内在不变量、时空的等平均曲率叶状结构等代表作确认几何方向；课程表独立为教学资料。
+- 巴基斯坦国立科技大学。已查自然科学学院数学研究组和 2025–26 课程表，几何教学证据已经与研究任职区分。现任几何相关研究方向与联聘仍待核。 SNS 当期 17 人清单与六个数学研究专题 24 名具名成员交叉。SEECS 数学与通识单位另查。以 Noether 对称、曲率内在不变量、时空的等平均曲率叶状结构等代表作确认几何方向；课程表独立为教学资料。 续查 CEME 微分方程组两表去重 9 位、计算数学组去重 7 位，按具名信息区分联属与主聘。补核 SMME、SEECS 交叉与 Asghar Qadir 历史荣休。三位已入库学者的 Qalam CV 均能公开下载且姓名、学校和任职与现行资料一致。另登记校方专业与校区总表及 MCS 名录入口，PNEC、MCS、Balochistan 和其他工学院的跨院成员仍待逐一核完。
 - 挪威科技大学。已查数学科学系人员名单、代数与拓扑组和不同岗位的校级个人页。确认无限维微分几何与流形优化学者。方向交叉与技术岗位仍待核。
 - 新西伯利亚国立大学。已查力学数学系、基础数学团队、NSU 隶属单位俄文个人履历及索博列夫数学研究所公开页。校内几何与拓扑完整名单缺现行快照，联合任职另待核。
 - 智利天主教大学。已查数学学院 Geometría 研究组、教师个人页和晋升公告，复核代数几何和几何分析教师。组员及其他研究单位仍待对账。
