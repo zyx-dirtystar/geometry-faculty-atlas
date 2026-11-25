@@ -232,7 +232,7 @@ def parse_iit_delhi_faculty(records, base):
 
 def split_role(title, region=None):
     title = title.strip(" ,;–—")
-    if re.search(r"\bJ\.\s*J\.\s*Sylvester Assistant Professor\b", title, re.I):
+    if re.search(r"\b(?:J\.\s*J\.\s*Sylvester|Szeg[oöő]) Assistant Professor\b", title, re.I):
         return "other"
     if region == "波兰":
         if re.search(r"emeryt", title, re.I):
@@ -420,8 +420,8 @@ def parse_nyu(document, base):
     for heading in document.xpath("//h2[following-sibling::*[1][@class='people-grid']]"):
         grid = heading.xpath("./following-sibling::*[1]")[0]
         active = contents(heading).casefold() == "tenure / tenure-track"
-        for card in grid.xpath("./a[div[@class='people-description']]"):
-            info = card.xpath("./div[@class='people-description']")[0]
+        for card in grid.xpath("./a[div[@class='people-description'] or figure/div[@class='people-description']]"):
+            info = card.xpath("./div[@class='people-description'] | ./figure/div[@class='people-description']")[0]
             name = text_at(info, "./h2")
             title = text_at(info, "./h2/following-sibling::div[1]")
             status = title if active else f"{contents(heading)} · {title}"

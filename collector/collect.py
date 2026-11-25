@@ -388,6 +388,7 @@ def population(db):
             decision = "candidate"
         group["decision"] = decision
         group["decision_note"] = review.get("reason", "")
+        group["distinct_id"] = review.get("distinctId")
         group["opportunities"] = review.get("opportunities", [])
         group["papers"] = review.get("papers", [])
         group["aliases"] = review.get("aliases", [])
@@ -562,11 +563,14 @@ def make_patch(seed, data, source_rows, scope_notes, school_reviews):
             if updated != seeded:
                 updated["checkedAt"] = max(updated.get("checkedAt") or "", person["checked_at"] or "")
             continue
-        if key in original_names or cross_school[key] > 1:
+        distinct_id = person.get("distinct_id")
+        if (key in original_names or cross_school[key] > 1) and not distinct_id:
             person["decision"] = "affiliation_review"
             continue
-        slug = name_slug(person["name"])
-        if slug in used_ids:
+        slug = distinct_id or name_slug(person["name"])
+        if distinct_id and (not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", slug) or slug in used_ids):
+            raise ValueError(f"Invalid or duplicate verified identity ID: {slug}")
+        if not distinct_id and slug in used_ids:
             slug = f"{slug}-{school}"
         used_ids.add(slug)
         anchor = anchors.get(slug,{})

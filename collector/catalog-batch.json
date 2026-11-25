@@ -59,11 +59,19 @@
     {
       "id": "oxford",
       "coverage": "sample",
-      "coverageNote": "已解析 2/4 个登记来源，17 条任职或方向待核。 已收录 9 位学者，个人主页 1、CV 3、指标 4。",
+      "coverageNote": "已解析 7/9 个登记来源，17 条任职或方向待核。 已收录 10 位学者，个人主页 2、CV 4、指标 5。 数学研究所当前 A–Z 按十种真实目录标签登记 647 项（含 Academic Faculty 118、Emeritus 42、Postdoctoral Research Associate 65 和跨列重复）。交叉核对 Geometry、Algebra、Number Theory 和 Centre for Nonlinear PDE 等具名名册，继续核其他数学组、学院和联合中心。",
       "rosterLinks": [
         [
           "Mathematical Institute Algebra Group",
           "https://www.maths.ox.ac.uk/groups/algebra"
+        ],
+        [
+          "Mathematical Institute · Algebra",
+          "https://www.maths.ox.ac.uk/groups/algebra/algebra-members"
+        ],
+        [
+          "Mathematical Institute · Geometry",
+          "https://www.maths.ox.ac.uk/groups/geometry/members"
         ],
         [
           "Mathematical Institute Geometry Group",
@@ -74,11 +82,23 @@
           "https://www.maths.ox.ac.uk/groups/geometry/members"
         ],
         [
+          "Mathematical Institute · Oxford Centre for Nonlinear PDE",
+          "https://www.maths.ox.ac.uk/groups/oxpde/oxpde-people"
+        ],
+        [
+          "Mathematical Institute · Number Theory",
+          "https://www.maths.ox.ac.uk/groups/number-theory/members"
+        ],
+        [
           "Mathematical Institute People List",
+          "https://www.maths.ox.ac.uk/people/find/list"
+        ],
+        [
+          "Mathematical Institute · A–Z people list (all ten appointment categories)",
           "https://www.maths.ox.ac.uk/people/find/list"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "mit",
@@ -131,10 +151,50 @@
     {
       "id": "sorbonne",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，5 条任职或方向待核。 已收录 5 位学者，个人主页 5、CV 3、指标 1。 已按 IMJ-PRG 的 TGA 成员页区分索邦大学和巴黎西岱大学的正式雇主。另用个人研究页复核部分代数几何、算术几何及 Berkovich 几何成员。其余 IMJ-PRG 分组和独立岗位待核。",
+      "coverageNote": "已解析 8/12 个登记来源，79 条任职或方向待核。 已收录 6 位学者，个人主页 6、CV 4、指标 1。 已按 IMJ-PRG 的 TGA 成员页区分索邦大学和巴黎西岱大学的正式雇主。另用个人研究页复核部分代数几何、算术几何及 Berkovich 几何成员。其余 IMJ-PRG 分组和独立岗位待核。 补核 IMJ–PRG 官方全名册 10 类、487 行原始任职／学籍信息；按雇主与驻所校区匹配 244 项。CNRS／INRIA 所在校区仅作为联合研究所归属线索。",
       "rosterLinks": [
         [
+          "IMJ–PRG · Analyse Algébrique",
+          "https://www.imj-prg.fr/aa/membres/"
+        ],
+        [
+          "IMJ–PRG · Analyse Complexe et Géométrie",
+          "https://www.imj-prg.fr/acg/membres/"
+        ],
+        [
+          "IMJ–PRG · Tous les membres · Administration",
+          "https://www.imj-prg.fr/tous-les-membres/"
+        ],
+        [
+          "IMJ–PRG · Tous les membres · Bénévoles",
+          "https://www.imj-prg.fr/tous-les-membres/"
+        ],
+        [
+          "IMJ–PRG · Tous les membres · Détachements",
+          "https://www.imj-prg.fr/tous-les-membres/"
+        ],
+        [
+          "IMJ–PRG · Tous les membres · Doctorants",
+          "https://www.imj-prg.fr/tous-les-membres/"
+        ],
+        [
+          "IMJ–PRG · Tous les membres · Emérites",
+          "https://www.imj-prg.fr/tous-les-membres/"
+        ],
+        [
+          "IMJ–PRG · Tous les membres · Permanents",
+          "https://www.imj-prg.fr/tous-les-membres/"
+        ],
+        [
+          "IMJ–PRG · Tous les membres · Post-doctorants",
+          "https://www.imj-prg.fr/tous-les-membres/"
+        ],
+        [
           "IMJ-PRG TGA（联合机构，任职逐人核对）",
+          "https://www.imj-prg.fr/tga/membres/"
+        ],
+        [
+          "IMJ–PRG · Topologie et Géométrie Algébriques",
           "https://www.imj-prg.fr/tga/membres/"
         ],
         [
@@ -142,13 +202,25 @@
           "https://sciences.sorbonne-universite.fr/en/research-areas/mathematics"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "stanford",
       "coverage": "sample",
-      "coverageNote": "已解析 2/2 个登记来源，15 条任职或方向待核。 已收录 4 位学者，个人主页 4、CV 1、指标 3。",
+      "coverageNote": "已解析 8/9 个登记来源，6 条任职或方向待核。 已收录 4 位学者，个人主页 4、CV 1、指标 3。 对读任职主名册的 66 人与单列 8 位博士后／访客，以及 Geometry、Analysis & PDE、Symplectic Geometry & Topology、Number Theory 研究页。正式区分 Szegő 固定期博士后岗位和主聘教授，并继续核查数学研究中心与全校 Courtesy 学者。",
       "rosterLinks": [
+        [
+          "Mathematics · Analysis and PDE",
+          "https://mathematics.stanford.edu/research/analysis-pde"
+        ],
+        [
+          "Mathematics · Faculty and Lecturers",
+          "https://mathematics.stanford.edu/people/faculty-lecturers"
+        ],
+        [
+          "Mathematics · Geometry",
+          "https://mathematics.stanford.edu/research/geometry"
+        ],
         [
           "数学系几何组",
           "https://mathematics.stanford.edu/research/geometry"
@@ -156,9 +228,25 @@
         [
           "数学系 Faculty & Lecturers",
           "https://mathematics.stanford.edu/people/faculty-lecturers"
+        ],
+        [
+          "Mathematics · Number Theory",
+          "https://mathematics.stanford.edu/research/number-theory"
+        ],
+        [
+          "Mathematics · Symplectic Geometry and Topology",
+          "https://mathematics.stanford.edu/research/symplectic-geometry-topology"
+        ],
+        [
+          "Stanford Mathematics · fixed-term Szegő appointment description",
+          "https://www.mathjobs.org/jobs/list/29067"
+        ],
+        [
+          "Mathematics · Postdoctoral Fellows, Research Associates and Visitors",
+          "https://mathematics.stanford.edu/people/postdoctoral-fellows-research-associates-visitors"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "eth",
@@ -203,8 +291,32 @@
     {
       "id": "nyu",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，2 条任职或方向待核。 已收录 12 位学者，个人主页 1、CV 1、指标 1。",
+      "coverageNote": "已解析 6/9 个登记来源，35 条任职或方向待核。 已收录 14 位学者，个人主页 3、CV 3、指标 2。 纽约 Courant 数学系 105 张按职位列的具名卡片，加对照本学年博士后、八个研究分类及 Courant 全院。纽约大学阿布扎比分校数学项目正式名册 23 张，上海纽约大学与华东师大联合数学研究中心 123 张具名资料。保留任职校区、共同研究中心关系和教师身份，继续逐人核专长。",
       "rosterLinks": [
+        [
+          "NYU Abu Dhabi · Mathematics program faculty",
+          "https://nyuad.nyu.edu/en/academics/divisions/science/faculty.html?program=mathematics-major"
+        ],
+        [
+          "NYU Abu Dhabi · Mathematics Instructors",
+          "https://nyuad.nyu.edu/en/academics/divisions/science/academic-programs/math/instructors.html"
+        ],
+        [
+          "Courant Mathematics · Research Centers and Labs",
+          "https://math.nyu.edu/dynamic/research/research-centers-labs/"
+        ],
+        [
+          "Courant Institute · interdisciplinary faculty",
+          "https://cims.nyu.edu/dynamic/people/faculty/"
+        ],
+        [
+          "Courant Mathematics · Postdocs for AY 2026–27",
+          "https://math.nyu.edu/dynamic/people/postdocs/"
+        ],
+        [
+          "Courant Mathematics · Faculty by appointment category",
+          "https://math.nyu.edu/dynamic/people/faculty/"
+        ],
         [
           "Courant Faculty",
           "https://math.nyu.edu/dynamic/people/faculty/"
@@ -212,9 +324,13 @@
         [
           "Courant Research Areas",
           "https://math.nyu.edu/dynamic/research/research-areas/"
+        ],
+        [
+          "NYU Shanghai · NYU–ECNU Institute of Mathematical Sciences People",
+          "https://research.shanghai.nyu.edu/centers-and-institutes/math/people"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "uchicago",
@@ -347,10 +463,58 @@
     {
       "id": "paris-cite",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，5 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 0、指标 0。 已逐条查看 TGA 雇主标签及方向证据。Olivier Debarre 在本人 IMJ-PRG 页标注荣休。学院其余分组及联合任职仍待核。",
+      "coverageNote": "已解析 10/14 个登记来源，71 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 0、指标 0。 已逐条查看 TGA 雇主标签及方向证据。Olivier Debarre 在本人 IMJ-PRG 页标注荣休。学院其余分组及联合任职仍待核。 补核 IMJ–PRG 官方全名册 10 类、487 行原始任职／学籍信息；按雇主与驻所校区匹配 198 项。CNRS／INRIA 所在校区仅作为联合研究所归属线索。",
       "rosterLinks": [
         [
+          "IMJ–PRG · Analyse Algébrique",
+          "https://www.imj-prg.fr/aa/membres/"
+        ],
+        [
+          "IMJ–PRG · Analyse Complexe et Géométrie",
+          "https://www.imj-prg.fr/acg/membres/"
+        ],
+        [
+          "IMJ–PRG · Tous les membres · Administration",
+          "https://www.imj-prg.fr/tous-les-membres/"
+        ],
+        [
+          "IMJ–PRG · Tous les membres · Autres",
+          "https://www.imj-prg.fr/tous-les-membres/"
+        ],
+        [
+          "IMJ–PRG · Tous les membres · Bénévoles",
+          "https://www.imj-prg.fr/tous-les-membres/"
+        ],
+        [
+          "IMJ–PRG · Tous les membres · Détachements",
+          "https://www.imj-prg.fr/tous-les-membres/"
+        ],
+        [
+          "IMJ–PRG · Tous les membres · Doctorants",
+          "https://www.imj-prg.fr/tous-les-membres/"
+        ],
+        [
+          "IMJ–PRG · Tous les membres · Emérites",
+          "https://www.imj-prg.fr/tous-les-membres/"
+        ],
+        [
+          "IMJ–PRG · Tous les membres · Jeunes-docteurs",
+          "https://www.imj-prg.fr/tous-les-membres/"
+        ],
+        [
+          "IMJ–PRG · Tous les membres · Permanents",
+          "https://www.imj-prg.fr/tous-les-membres/"
+        ],
+        [
+          "IMJ–PRG · Tous les membres · Post-doctorants",
+          "https://www.imj-prg.fr/tous-les-membres/"
+        ],
+        [
           "IMJ-PRG TGA（联合机构，任职逐人核对）",
+          "https://www.imj-prg.fr/tga/membres/"
+        ],
+        [
+          "IMJ–PRG · Topologie et Géométrie Algébriques",
           "https://www.imj-prg.fr/tga/membres/"
         ],
         [
@@ -358,7 +522,7 @@
           "https://www.math.u-pariscite.fr/salles/index.php"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "toronto",
@@ -4407,7 +4571,7 @@
     {
       "id": "bologna",
       "coverage": "sample",
-      "coverageNote": "已解析 19/21 个登记来源，78 条任职或方向待核。 已收录 10 位学者，个人主页 3、CV 9、指标 0。 已读取数学系 Docenti e ricercatori 第 1–6 页与 Geometria delle varietà 的成员页。已交叉核对具有明确 Fano、Hodge 与超 Kähler 方向的人员。其余教授的个人方向、跨系任职和未覆盖的研究组仍待核。 英文 Geometry 24 个具名研究方向与合同级别已核。另读复分析、几何测度论、Carnot 群、代数与代数几何等官方研究组。",
+      "coverageNote": "已解析 20/22 个登记来源，78 条任职或方向待核。 已收录 10 位学者，个人主页 3、CV 9、指标 0。 已读取数学系 Docenti e ricercatori 第 1–6 页与 Geometria delle varietà 的成员页。已交叉核对具有明确 Fano、Hodge 与超 Kähler 方向的人员。其余教授的个人方向、跨系任职和未覆盖的研究组仍待核。 英文 Geometry 24 个具名研究方向与合同级别已核。另读复分析、几何测度论、Carnot 群、代数与代数几何等官方研究组。 院系官网的现行荣休名单列 6 张具名卡片，另核历史荣休档案的任期与状态。",
       "rosterLinks": [
         [
           "Mathematics · Geometry area of research",
@@ -4456,6 +4620,10 @@
         [
           "Mathematics · Nonlocal equations and fractional minimal surfaces",
           "https://matematica.unibo.it/en/research/research-groups/nonlocal-equations-and-fractional-minimal-surfaces"
+        ],
+        [
+          "Dipartimento di Matematica · Professori emeriti currently displayed",
+          "https://matematica.unibo.it/it/dipartimento/organizzazione-e-persone/professori-emeriti"
         ],
         [
           "Commutative Algebra and classical algebraic Geometry — Mathematics",
@@ -4731,7 +4899,7 @@
     {
       "id": "charles",
       "coverage": "sample",
-      "coverageNote": "已解析 2/6 个登记来源，94 条任职或方向待核。 已收录 6 位学者，个人主页 6、CV 0、指标 5。 捷克语数学分部 188 张具名现任卡片，核对 6 个院系代码及角色。已比对分析与几何分部、数学研究所英文资料、代数与几何 UNCE 机构项目。需继续逐人核方向，并甄别人员的院内／外联合关系。",
+      "coverageNote": "已解析 3/6 个登记来源，94 条任职或方向待核。 已收录 6 位学者，个人主页 6、CV 0、指标 5。 捷克语数学分部 188 张具名现任卡片，核对 6 个院系代码及角色。已比对分析与几何分部、数学研究所英文资料、代数与几何 UNCE 机构项目。需继续逐人核方向，并甄别人员的院内／外联合关系。 已逐项对照数学所 45 张英文卡片的实际职务和公开专长。",
       "rosterLinks": [
         [
           "数学系或所属学院人员入口",
@@ -5811,7 +5979,7 @@
   ],
   "people": [
     {
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "id": "ravi-vakil",
       "name": "Ravi Vakil",
       "initials": "RV",
@@ -5872,7 +6040,7 @@
       "relevance": "曲线模空间与形变理论可提供平面三次曲线后续问题的代数背景。"
     },
     {
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "id": "rafe-mazzeo",
       "name": "Rafe Mazzeo",
       "initials": "RM",
@@ -10038,6 +10206,10 @@
           "url": "https://www.mff.cuni.cz/en/math/departments/people"
         },
         {
+          "text": "Differential and algebraic geometry, Lie groups and algebras (classical, affine, super) and their representation theory, Homogeneous spaces (flag manifolds, (locally) symmetric spaces, reductive spaces), Homogeneous vector bundles and their equivariant homomorphisms, Finite reflection groups and their geometry, Homotopy and (co)homology theories (equivariant spectra), Quantum groups and non-commutative geometry (quantum homogeneous spaces.)",
+          "url": "https://www.mff.cuni.cz/en/math/muuk/people"
+        },
+        {
           "text": "个人研究或论文来源",
           "url": "https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=1236"
         }
@@ -10110,6 +10282,10 @@
           "url": "https://www.mff.cuni.cz/en/math/departments/people"
         },
         {
+          "text": "Symplectic and contact topology, low-dimensional topology, dynamical systems.",
+          "url": "https://www.mff.cuni.cz/en/math/muuk/people"
+        },
+        {
           "text": "Differential geometry of symplectic and contact manifolds, symplectic and contact topology",
           "url": "https://www.mff.cuni.cz/en/math/muuk/people"
         },
@@ -10159,6 +10335,10 @@
         {
           "text": "My research focuses on the noncommutative geometry of quantum groups and their quantum homogeneous spaces, and in particular quantum flag manifolds. The approach used involves a mixture of Hopf algebras, monoidal categories, Lie theory, complex and Kähler geometry, C*-algebras, and unbounded operator theory.",
           "url": "https://www.mff.cuni.cz/en/math/departments/people"
+        },
+        {
+          "text": "My research focuses on the noncommutative geometry of quantum groups and their quantum homogeneous spaces, and in particular quantum flag manifolds. The approach used involves a mixture of Hopf algebras, monoidal categories, Lie theory, complex and Kähler geometry, C*-algebras, and unbounded operator theory.",
+          "url": "https://www.mff.cuni.cz/en/math/muuk/people"
         }
       ],
       "checkedAt": "2026-11-25",
@@ -10224,6 +10404,10 @@
           "url": "https://www.mff.cuni.cz/en/math/departments/people"
         },
         {
+          "text": "Theory of sympletic Dirac operators. Hodge theory for elliptic complexes on Hilbert fibre bundles over compact manifolds. Application of Lie groups representation theory in differential geometry.",
+          "url": "https://www.mff.cuni.cz/en/math/muuk/people"
+        },
+        {
           "text": "个人研究或论文来源",
           "url": "https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=1511"
         }
@@ -10285,6 +10469,10 @@
         {
           "text": "I teach various geometrical classes ranging from abstract geometry to applied geometrical modeling. My research interests include CAGD and other applied geometric fields, theoretical differential geometry and history of geometry.",
           "url": "https://www.mff.cuni.cz/en/math/departments/people"
+        },
+        {
+          "text": "I teach various geometrical classes ranging from abstract geometry to applied geometrical modeling. My research interests include CAGD and other applied geometric fields, theoretical differential geometry and history of geometry.",
+          "url": "https://www.mff.cuni.cz/en/math/muuk/people"
         },
         {
           "text": "个人研究或论文来源",
@@ -10376,34 +10564,39 @@
           "schoolId": "columbia",
           "department": "数学系",
           "title": "Professor",
-          "url": "https://www.math.columbia.edu/people/faculty-by-rank/name/chao-li/",
+          "url": "https://www.math.columbia.edu/people/faculty-by-rank/#top",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
-        "differential"
+        "algebraic"
       ],
       "tags": [],
       "homepage": "https://www.math.columbia.edu/~chaoli/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvStatus": "已查哥伦比亚数学系职级名录、本人网页和校长办公室的终身教职资料，未找到具名公开 CV。",
+      "publicationsUrl": "https://www.math.columbia.edu/~chaoli/",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "同一人的论文指向不同作者档案。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Kudla–Rapoport cycles and derivatives of local densities",
+          "url": "https://doi.org/10.1090/jams/988"
+        }
+      ],
       "directoryEvidence": [
         {
-          "text": "Differential geometry, geometric analysis, scalar curvature and mathematical general relativity",
+          "text": "Arithmetic geometry, arithmetic intersection theory, number theory, automorphic forms and special cycles",
           "url": "https://www.math.columbia.edu/~chaoli/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -26965,41 +27158,79 @@
           "schoolId": "nyu",
           "department": "数学系",
           "title": "Professor of Mathematics",
-          "url": "https://math.nyu.edu/people/profiles/PIRUTKA_Alena.html",
+          "url": "https://cims.nyu.edu/people/profiles/PIRUTKA_Alena.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [
+        "Arithmetic and algebraic geometry, number theory",
         "Arithmetic Geometry",
         "Number Theory"
       ],
-      "homepage": null,
+      "homepage": "https://cims.nyu.edu/~pirutka/",
       "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvUrl": "https://cims.nyu.edu/~pirutka/cv.pdf",
+      "cvType": "公开学术 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://cims.nyu.edu/~pirutka/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5060472537",
+          "orcid": "https://orcid.org/0009-0005-9353-1410",
+          "url": "https://openalex.org/authors/A5060472537",
+          "authorApiUrl": "https://api.openalex.org/authors/A5060472537",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5060472537,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 25,
+          "works": 43,
+          "citations": 522,
+          "hIndex": 11,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "On the rationality of some real threefolds",
+          "url": "https://doi.org/10.1017/S1474748026101613"
+        },
+        {
+          "title": "Cubic Surface Bundles and the Brauer Group",
+          "url": "https://doi.org/10.1093/imrn/rnaf063"
+        }
+      ],
       "directoryEvidence": [
+        {
+          "text": "Arithmetic and algebraic geometry, number theory",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
+          "text": "Arithmetic and algebraic geometry, number theory",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
         {
           "text": "Arithmetic Geometry / Number Theory",
           "url": "https://math.nyu.edu/dynamic/research/research-areas/"
         },
         {
-          "text": "Arithmetic and algebraic geometry, in particular, connections between arithmetic, cohomological, and birational properties of algebraic varieties, such as questions concerning rationality of algebraic varieties and invariants arising in the theory of algebraic cycles.",
-          "url": "https://math.nyu.edu/people/profiles/PIRUTKA_Alena.html"
+          "text": "Arithmetic and algebraic geometry, rationality, and birational invariants of algebraic varieties",
+          "url": "https://cims.nyu.edu/people/profiles/PIRUTKA_Alena.html"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://cims.nyu.edu/~pirutka/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -27013,7 +27244,7 @@
           "title": "Silver Professor of Mathematics",
           "url": "https://math.nyu.edu/people/profiles/KLEINER_Bruce.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -27039,6 +27270,14 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Geometric analysis, geometric group theory and geometric evolution equations",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
+          "text": "Geometric analysis, geometric group theory and geometric evolution equations",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
           "text": "Geometric Analysis / Geometric Group Theory / Metric Geometry",
           "url": "https://math.nyu.edu/dynamic/research/research-areas/"
         },
@@ -27047,7 +27286,51 @@
           "url": "https://math.nyu.edu/people/profiles/KLEINER_Bruce.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "chao-li-nyu",
+      "name": "Chao Li",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "nyu",
+          "department": "数学系",
+          "title": "Associate Professor of Mathematics",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://math.nyu.edu/~cl2765/",
+      "homepageStatus": null,
+      "cvUrl": "https://web.math.princeton.edu/~chaoli/Chao_Li_CV.pdf",
+      "cvType": "公开学术 CV（Princeton 任职时的存档）",
+      "cvStatus": null,
+      "publicationsUrl": "https://math.nyu.edu/~cl2765/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Constrained deformations of positive scalar curvature metrics, II",
+          "url": "https://doi.org/10.1002/cpa.22153"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, geometric analysis, scalar curvature and geometric measure theory",
+          "url": "https://math.nyu.edu/~cl2765/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -27061,7 +27344,7 @@
           "title": "Professor of Mathematics",
           "url": "https://math.nyu.edu/people/profiles/YANG_Deane.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -27084,6 +27367,14 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Convex geometric analysis, Riemannian geometry, Partial differential equations",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
+          "text": "Convex geometric analysis, Riemannian geometry, Partial differential equations",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
           "text": "Convex Geometric Analysis",
           "url": "https://math.nyu.edu/dynamic/research/research-areas/"
         },
@@ -27092,7 +27383,7 @@
           "url": "https://math.nyu.edu/people/profiles/YANG_Deane.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -27106,13 +27397,14 @@
           "title": "Silver Professor of Mathematics",
           "url": "https://math.nyu.edu/people/profiles/LIN_Fang-Hua.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [
+        "Partial differential equations, geometric measure theory",
         "Geometric Analysis"
       ],
       "homepage": null,
@@ -27129,6 +27421,14 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Partial differential equations, geometric measure theory",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
+          "text": "Partial differential equations, geometric measure theory",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
           "text": "Geometric Analysis",
           "url": "https://math.nyu.edu/dynamic/research/research-areas/"
         },
@@ -27137,7 +27437,7 @@
           "url": "https://math.nyu.edu/people/profiles/LIN_Fang-Hua.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -27151,7 +27451,7 @@
           "title": "Silver Professor of Mathematics",
           "url": "https://math.nyu.edu/people/profiles/BOGOMOLOV_Fedor.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -27178,6 +27478,14 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Algebraic geometry and related problems in algebra, topology, number theory",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
+          "text": "Algebraic geometry and related problems in algebra, topology, number theory",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
           "text": "Algebraic Groups and Representation Theory / Arithmetic Geometry / Complex Algebraic Geometry / Holomorphic Symplectic Geometry",
           "url": "https://math.nyu.edu/dynamic/research/research-areas/"
         },
@@ -27186,7 +27494,7 @@
           "url": "https://math.nyu.edu/people/profiles/BOGOMOLOV_Fedor.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -27200,14 +27508,14 @@
           "title": "Associate Professor of Mathematics",
           "url": "https://math.nyu.edu/people/profiles/HANG_Fengbo.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [
-        "Geometric Analysis"
+        "Geometric analysis"
       ],
       "homepage": null,
       "homepageStatus": null,
@@ -27223,6 +27531,14 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Geometric analysis",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
+          "text": "Geometric analysis",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
           "text": "Geometric Analysis",
           "url": "https://math.nyu.edu/dynamic/research/research-areas/"
         },
@@ -27231,7 +27547,7 @@
           "url": "https://math.nyu.edu/people/profiles/HANG_Fengbo.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -27245,15 +27561,15 @@
           "title": "Professor of Mathematics",
           "url": "https://math.nyu.edu/people/profiles/ZHANG_Gaoyong.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [
-        "Convex Geometric Analysis",
-        "Convex Geometry, Geometric Analysis"
+        "Convex geometry, Geometric analysis",
+        "Convex Geometric Analysis"
       ],
       "homepage": null,
       "homepageStatus": null,
@@ -27269,6 +27585,14 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Convex geometry, Geometric analysis",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
+          "text": "Convex geometry, Geometric analysis",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
           "text": "Convex Geometric Analysis",
           "url": "https://math.nyu.edu/dynamic/research/research-areas/"
         },
@@ -27277,7 +27601,7 @@
           "url": "https://math.nyu.edu/people/profiles/ZHANG_Gaoyong.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -27291,7 +27615,7 @@
           "title": "Silver Professor of Mathematics",
           "url": "https://math.nyu.edu/people/profiles/CHEEGER_Jeff.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -27316,6 +27640,14 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Differential geometry and its connections to analysis and topology",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
+          "text": "Differential geometry and its connections to analysis and topology",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
           "text": "Geometric Analysis / Metric Geometry",
           "url": "https://math.nyu.edu/dynamic/research/research-areas/"
         },
@@ -27324,7 +27656,7 @@
           "url": "https://math.nyu.edu/people/profiles/CHEEGER_Jeff.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -27338,7 +27670,7 @@
           "title": "Jay Gould Professor of Mathematics",
           "url": "https://math.nyu.edu/people/profiles/GROMOV_Mikhael.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -27364,6 +27696,14 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Riemannian manifolds, symplectic manifolds, infinite groups, math models of biomolecular systems",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
+          "text": "Riemannian manifolds, symplectic manifolds, infinite groups, math models of biomolecular systems",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
           "text": "Symplectic Geometry / Geometric Analysis / Geometric Group Theory / Metric Geometry",
           "url": "https://math.nyu.edu/dynamic/research/research-areas/"
         },
@@ -27372,7 +27712,7 @@
           "url": "https://math.nyu.edu/people/profiles/GROMOV_Mikhael.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -27386,7 +27726,7 @@
           "title": "Professor of Mathematics",
           "url": "https://math.nyu.edu/people/profiles/YOUNG_Robert.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -27411,6 +27751,14 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Geometric group theory, metric geometry, and quantitative geometry",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
+          "text": "Geometric group theory, metric geometry, and quantitative geometry",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
           "text": "Geometric Analysis / Geometric Group Theory / Metric Geometry",
           "url": "https://math.nyu.edu/dynamic/research/research-areas/"
         },
@@ -27419,7 +27767,50 @@
           "url": "https://math.nyu.edu/people/profiles/YOUNG_Robert.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "sylvain-e-cappell",
+      "name": "Sylvain E. Cappell",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "nyu",
+          "department": "数学系",
+          "title": "Silver Professor of Mathematics",
+          "url": "https://math.nyu.edu/people/profiles/CAPPELL_Sylvain.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic and geometric topology, symplectic and algebraic geometry",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
+          "text": "Algebraic and geometric topology, symplectic and algebraic geometry",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -27433,7 +27824,7 @@
           "title": "Professor of Mathematics",
           "url": "https://math.nyu.edu/dynamic/people/faculty/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -27451,12 +27842,12 @@
         "Fluid dynamics, computational physics, computational finance",
         "Harmonic analysis, information theory, signal processing"
       ],
-      "homepage": "https://cims.nyu.edu/~tosatti/",
+      "homepage": "https://cims.nyu.edu/~vt2234/",
       "homepageStatus": null,
-      "cvUrl": "https://cims.nyu.edu/~tosatti/cv.pdf",
-      "cvType": null,
+      "cvUrl": "https://cims.nyu.edu/~vt2234/cv.pdf",
+      "cvType": "公开学术 CV（含论文）",
       "cvStatus": null,
-      "publicationsUrl": null,
+      "publicationsUrl": "https://cims.nyu.edu/~vt2234/",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
@@ -27483,16 +27874,28 @@
           "title": "Families of Calabi–Yau Manifolds and Canonical Singularities",
           "year": 2015,
           "url": "https://doi.org/10.1093/imrn/rnv001"
+        },
+        {
+          "title": "Collapsing immortal Kähler–Ricci flows",
+          "url": "https://doi.org/10.1017/fmp.2025.10"
         }
       ],
       "directoryEvidence": [
+        {
+          "text": "Complex and differential geometry, geometric analysis and PDEs, and their connections to algebraic geometry and dynamical systems",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
+          "text": "Complex and differential geometry, geometric analysis and PDEs, and their connections to algebraic geometry and dynamical systems",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
         {
           "text": "Complex Algebraic Geometry / Geometric Analysis",
           "url": "https://math.nyu.edu/dynamic/research/research-areas/"
         },
         {
           "text": "Complex geometry, Kähler–Ricci flow and geometric analysis",
-          "url": "https://cims.nyu.edu/~tosatti/"
+          "url": "https://cims.nyu.edu/~vt2234/"
         },
         {
           "text": "Partial differential equations, probability theory, and stochastic homogenization / Random dynamics, probabilistic models of mathematical physics / Probability theory, stochastic processes, partial differential equations / Algebraic geometry and related problems in algebra, topology, number theory / Probability, random matrices, statistical physics and stochastic processes / Geophysical fluid dynamics, interactions between waves and vortices, acoustics, statistical mechanics / Applied math, PDEs, fluid dynamics, plasma physics, materials science, Monte Carlo methods, computational finance / Algebraic and geometric topology, symplectic and algebraic geometry / Differential geometry and its connections to analysis and topology / Numerical scattering theory, ill-posed problems, scientific computing / Spectral theory and inverse spectral theory, integrable systems, Riemann-Hilbert problems / Optimal transport, mathematical finance, economic equilibrium / Atmospheric dynamics, climate variability, stochastic modeling / Fluid dynamics, computational physics, computational finance / Applied and computational math, partial differential equations, computational chemistry, mathematical biology / Riemannian manifolds, symplectic manifolds, infinite groups, math models of biomolecular systems / Harmonic analysis, information theory, signal processing / Geometric analysis / Ocean-ice studies, climate theory and modeling / Geometric analysis, geometric group theory and geometric evolution equations / Partial differential equations, geometric measure theory / Probability theory, statistical physics and stochastic processes / Nonlinear parallel differential equations / Applied mathematics, nonlinear wave equations, visual neural science / Computational Biology, Cell Biophysics and Mathematical Biology / Statistics, probability, mathematics of data science / Electromagnetics, acoustics, fluid dynamics, fast algorithms, integral equations and computational statistics / Climate and the general circulation of the atmosphere, moist convection, tropical meteorology, numerical modeling / Applications of mathematics and computing to problems in medicine and biology, cardiac fluid dynamics, molecular machinery within biological cells, mathematical/computational neuroscience / Arithmetic and algebraic geometry, number theory / Computational biology, numerical analysis / Fluid dynamics, non-linear dynamics, experimental physics, biophysics, and geophysics / Nonlinear Partial Differential Equations, Ginzburg-Landau equations, and variational problems from material science / Partial differential equations, analysis / Applied math and modeling, visual neuroscience, fluid dynamics, computational physics and neuroscience / Geophysical fluid dynamics, physical oceanography and climate / Parallel scientific computing, inverse problems, PDE-constrained optimization, variational inequalities, computational earth sciences / Theoretical condensed matter physics, statistical mechanics, and mathematical physics / Dynamics of the atmosphere and ocean, energy transfer in systems with many degrees of freedom / Complex and differential geometry, geometric analysis and PDEs, and their connections to algebraic geometry and dynamical systems / Algebraic geometry, number theory, automorphic forms / Stochastic partial differential equations, statistical mechanics, turbulence theory / Partial differential equations, fluid dynamics / Applied probability, numerical analysis / Convex geometric analysis, Riemannian geometry, Partial differential equations / Nonlinear Partial Differential Equations, Mathematical Physics, Applied Mathematics / Dynamical systems and ergodic theory / Geometric group theory, metric geometry, and quantitative geometry / Convex geometry, Geometric analysis / Fluid dynamics, biophysics, complex systems / Atmosphere/Ocean Science",
@@ -27503,7 +27906,7 @@
           "url": "https://cims.nyu.edu/~tosatti/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -27517,7 +27920,7 @@
           "title": "Professor of Mathematics",
           "url": "https://math.nyu.edu/people/profiles/TSCHINKEL_Yuri.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -27525,6 +27928,7 @@
         "complex"
       ],
       "tags": [
+        "Algebraic geometry, number theory, automorphic forms",
         "Algebraic Groups and Representation Theory",
         "Arithmetic Geometry",
         "Complex Algebraic Geometry",
@@ -27545,6 +27949,14 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Algebraic geometry, number theory, automorphic forms",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
+          "text": "Algebraic geometry, number theory, automorphic forms",
+          "url": "https://math.nyu.edu/dynamic/people/faculty/"
+        },
+        {
           "text": "Algebraic Groups and Representation Theory / Arithmetic Geometry / Complex Algebraic Geometry / Holomorphic Symplectic Geometry / Number Theory",
           "url": "https://math.nyu.edu/dynamic/research/research-areas/"
         },
@@ -27553,7 +27965,7 @@
           "url": "https://math.nyu.edu/people/profiles/TSCHINKEL_Yuri.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -29064,7 +29476,7 @@
           "title": "Academic Faculty",
           "url": "https://www.maths.ox.ac.uk/people/andrew.dancer",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -29102,7 +29514,7 @@
           "url": "https://www.maths.ox.ac.uk/people/andrew.dancer"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -29116,7 +29528,7 @@
           "title": "Academic Faculty",
           "url": "https://www.maths.ox.ac.uk/people/damian.rossler",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -29154,7 +29566,7 @@
           "url": "https://www.maths.ox.ac.uk/people/damian.rossler"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -29168,7 +29580,7 @@
           "title": "Academic Faculty",
           "url": "https://www.maths.ox.ac.uk/people/francis.brown",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -29222,7 +29634,7 @@
           "url": "https://www.maths.ox.ac.uk/people/francis.brown"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -29233,10 +29645,10 @@
         {
           "schoolId": "oxford",
           "department": "数学系",
-          "title": "Academic Faculty",
+          "title": "Associate Professor of Pure Mathematics",
           "url": "https://www.maths.ox.ac.uk/people/hulya.arguz",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -29246,12 +29658,12 @@
         "Geometry",
         "Research groups Geometry"
       ],
-      "homepage": null,
+      "homepage": "https://sites.google.com/view/hulya-arguz",
       "homepageStatus": null,
-      "cvUrl": "https://www.maths.ox.ac.uk/system/files/users/cv/CV_Hulya_Arguz.pdf",
-      "cvType": null,
+      "cvUrl": "https://www.maths.ox.ac.uk/system/files/users/cv/CV_Hulya_10_12_2025.pdf",
+      "cvType": "公开学术 CV（2025-12）",
       "cvStatus": null,
-      "publicationsUrl": null,
+      "publicationsUrl": "https://www.maths.ox.ac.uk/people/hulya.arguz",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
@@ -29281,19 +29693,26 @@
         },
         {
           "title": "The KSBA moduli space of stable log Calabi–Yau surfaces",
-          "year": 2025,
           "url": "https://doi.org/10.1017/fmp.2025.10014"
         },
         {
           "title": "Quivers and curves in higher dimension",
           "year": 2024,
           "url": "https://doi.org/10.1090/tran/9232"
+        },
+        {
+          "title": "Equations of mirrors to log Calabi–Yau pairs via the heart of canonical wall structures",
+          "url": "https://doi.org/10.1017/s030500412300021x"
         }
       ],
       "directoryEvidence": [
         {
           "text": "Geometry",
           "url": "https://www.maths.ox.ac.uk/groups/geometry/members"
+        },
+        {
+          "text": "Algebraic geometry, logarithmic geometry, tropical geometry, mirror symmetry and Gromov–Witten theory",
+          "url": "https://www.maths.ox.ac.uk/people/hulya.arguz"
         },
         {
           "text": "I work broadly in algebraic geometry, with a particular focus on enumerative geometry and its connections to mirror symmetry. My research interests include Gromov–Witten theory, logarithmic geometry, moduli spaces, tropical geometry, real enumerative algebraic geometry, cluster varieties, and the Donaldson–Thomas theory of quiver representations. / Research groups Geometry / Research interests I work broadly in algebraic geometry, with a particular focus on enumerative geometry and its connections to mirror symmetry. My research interests include Gromov–Witten theory, logarithmic geometry, moduli spaces, tropical geometry, real enumerative algebraic geometry, cluster varieties, and the Donaldson–Thomas theory of quiver representations.",
@@ -29304,7 +29723,7 @@
           "url": "https://www.maths.ox.ac.uk/people/hulya.arguz"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -29372,7 +29791,7 @@
           "title": "Academic Faculty",
           "url": "https://www.maths.ox.ac.uk/people/kaibo.hu",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -29430,7 +29849,7 @@
           "url": "https://www.maths.ox.ac.uk/people/kaibo.hu"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -29444,7 +29863,7 @@
           "title": "Academic Faculty",
           "url": "https://www.maths.ox.ac.uk/people/konstantin.ardakov",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -29496,7 +29915,86 @@
           "url": "https://www.maths.ox.ac.uk/people/konstantin.ardakov"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "pierrick-bousseau",
+      "name": "Pierrick Bousseau",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "oxford",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.maths.ox.ac.uk/people/pierrick.bousseau",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Geometry",
+        "Research groups Geometry"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": "https://www.maths.ox.ac.uk/system/files/users/cv/CV_35.pdf",
+      "cvType": "公开学术 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.maths.ox.ac.uk/people/pierrick.bousseau",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5044012020",
+          "orcid": "https://orcid.org/0000-0002-1303-7019",
+          "url": "https://openalex.org/authors/A5044012020",
+          "authorApiUrl": "https://api.openalex.org/authors/A5044012020",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5044012020,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 23,
+          "works": 35,
+          "citations": 637,
+          "hIndex": 15,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The KSBA moduli space of stable log Calabi–Yau surfaces",
+          "url": "https://doi.org/10.1017/fmp.2025.10014"
+        },
+        {
+          "title": "Non-toric brane webs, Calabi–Yau 3-folds, and 5d SCFTs",
+          "url": "https://doi.org/10.1007/s00220-025-05461-9"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Geometry",
+          "url": "https://www.maths.ox.ac.uk/groups/geometry/members"
+        },
+        {
+          "text": "Algebraic geometry, tropical and enumerative geometry, Calabi–Yau varieties, Gromov–Witten invariants and mirror symmetry",
+          "url": "https://www.maths.ox.ac.uk/people/pierrick.bousseau"
+        },
+        {
+          "text": "Research groups Geometry",
+          "url": "https://www.maths.ox.ac.uk/people/pierrick.bousseau"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://www.maths.ox.ac.uk/people/pierrick.bousseau"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -29510,7 +30008,7 @@
           "title": "Academic Faculty",
           "url": "https://www.maths.ox.ac.uk/people/victor.flynn",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -29543,7 +30041,7 @@
           "url": "https://www.maths.ox.ac.uk/people/victor.flynn"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -29557,7 +30055,7 @@
           "title": "Academic Faculty",
           "url": "https://www.maths.ox.ac.uk/people/xenia.delaossa",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -29589,7 +30087,7 @@
           "url": "https://www.maths.ox.ac.uk/people/xenia.delaossa"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -29774,7 +30272,7 @@
           "title": "Professeur des universités",
           "url": "https://www.imj-prg.fr/tga/membres/",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -29806,7 +30304,7 @@
           "url": "https://master-math-fonda.imj-prg.fr/2025-26/fiches/Chambert-Loir-spe.html"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -29820,7 +30318,7 @@
           "title": "Maître de conférences",
           "url": "https://www.imj-prg.fr/tga/membres/",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -29852,7 +30350,7 @@
           "url": "https://webusers.imj-prg.fr/~frederic.han/"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -37454,7 +37952,7 @@
           "title": "Professeur des universités",
           "url": "https://www.imj-prg.fr/tga/membres/",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -37486,7 +37984,7 @@
           "url": "https://webusers.imj-prg.fr/~alessandro.chiodo/"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -37500,7 +37998,7 @@
           "title": "Professeur des universités",
           "url": "https://www.imj-prg.fr/tga/membres/",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -37531,7 +38029,7 @@
           "url": "https://webusers.imj-prg.fr/~antoine.ducros/pub.html"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -37545,7 +38043,7 @@
           "title": "Maître de conférences",
           "url": "https://www.imj-prg.fr/tga/membres/",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -37577,7 +38075,7 @@
           "url": "https://webusers.imj-prg.fr/~emmanuel.lepage/index.html"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -37591,7 +38089,7 @@
           "title": "Maître de conférences",
           "url": "https://www.imj-prg.fr/tga/membres/",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -37655,7 +38153,7 @@
           "url": "https://www.imj-prg.fr/tga/membres/"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -37669,7 +38167,7 @@
           "title": "Maîtresse de conférences",
           "url": "https://www.imj-prg.fr/tga/membres/",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -37705,7 +38203,59 @@
           "url": "https://webusers.imj-prg.fr/~vlere.mehmeti/"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ya-deng",
+      "name": "Ya Deng",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "sorbonne",
+          "department": "CNRS · IMJ–PRG · Sorbonne Université (Jussieu)",
+          "title": "Chargé de recherche CNRS",
+          "url": "https://webusers.imj-prg.fr/~ya.deng/brief-cv.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://webusers.imj-prg.fr/~ya.deng/",
+      "homepageStatus": null,
+      "cvUrl": "https://webusers.imj-prg.fr/~ya.deng/brief-cv.html",
+      "cvType": "本人网页简版 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://webusers.imj-prg.fr/~ya.deng/publications.html",
+      "publicationCounts": [
+        {
+          "value": 17,
+          "scope": "作者个人站 Publications 页列出的发表及已接收成果，含会议集；站点将未接收在投稿件单列。仅统计本公开列表披露口径。",
+          "url": "https://webusers.imj-prg.fr/~ya.deng/publications.html",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "核对 IMJ–PRG 现任与个人公开 ORCID。两篇已核论文指向不同 OpenAlex 作者档案，作者主页链接的 Google Scholar 当前返回 403，累计引用待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Hyperbolicity and fundamental groups of complex quasi-projective varieties (III): Applications",
+          "url": "https://doi.org/10.1112/plms.70239"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex algebraic geometry, complex analytic geometry, hyperbolicity, harmonic maps and the Shafarevich conjecture",
+          "url": "https://webusers.imj-prg.fr/~ya.deng/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -37890,44 +38440,57 @@
       "recordStatus": "directory"
     },
     {
-      "id": "wanchun-shen",
-      "name": "Wanchun Shen",
+      "id": "otis-chodosh",
+      "name": "Otis Chodosh",
       "aliases": [],
       "affiliations": [
         {
           "schoolId": "stanford",
           "department": "数学系",
-          "title": "Szegő Assistant Professor",
-          "url": "https://mathematics.stanford.edu/people/wanchun-shen",
+          "title": "Associate Professor",
+          "url": "https://mathematics.stanford.edu/people/otis-chodosh",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
-        "algebraic"
+        "differential"
       ],
       "tags": [
-        "Algebraic geometry and K-theory"
+        "Analysis & PDE",
+        "Geometry"
       ],
-      "homepage": "https://rosie-0525.github.io/",
+      "homepage": "https://www.web.stanford.edu/~ochodosh/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "publicationsUrl": "https://www.web.stanford.edu/~ochodosh/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
       "metrics": [],
       "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Algebraic geometry and K-theory",
-          "url": "https://mathematics.stanford.edu/people/wanchun-shen"
+          "text": "Analysis & PDE / Geometry",
+          "url": "https://mathematics.stanford.edu/people/faculty-lecturers"
+        },
+        {
+          "text": "Analysis & PDE / Geometry",
+          "url": "https://mathematics.stanford.edu/people/faculty-lecturers"
+        },
+        {
+          "text": "Analysis & PDE / Geometry",
+          "url": "https://mathematics.stanford.edu/research/geometry"
+        },
+        {
+          "text": "Geometric analysis, minimal surfaces, scalar curvature and partial differential equations",
+          "url": "https://www.web.stanford.edu/~ochodosh/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -37941,7 +38504,7 @@
           "title": "Professor",
           "url": "https://mathematics.stanford.edu/people/ziquan-zhuang",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -37954,7 +38517,7 @@
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "publicationsUrl": "https://sites.google.com/view/ziquan-zhuang/research",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
@@ -37998,7 +38561,7 @@
           "url": "https://www.cambridge.org/core/journals/compositio-mathematica/article/abs/kstability-of-birationally-superrigid-fano-varieties/A84A862D80237F7BD960D76AFCA8A3A2"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
