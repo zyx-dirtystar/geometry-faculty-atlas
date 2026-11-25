@@ -174,7 +174,8 @@
     "james-montaldi": "A5065898862",
     "anton-izosimov": "A5054674786",
     "pierrick-bousseau": "A5044012020",
-    "alena-pirutka": "A5060472537"
+    "alena-pirutka": "A5060472537",
+    "chao-li-nyu": "A5100323305"
   },
   "notes": {
     "man-chun-lee": "机构公开 ORCID 可以定位作者，但 OpenAlex 高引抽样混入船舶自动识别工程论文，累计指标待核。",
@@ -213,7 +214,7 @@
     "alex-sherman": "论文作者姓名没有唯一匹配。",
     "barbara-fantechi": "同一人的论文指向不同作者档案。",
     "benjamin-tod-castle": "论文作者姓名没有唯一匹配。",
-    "chao-li": "同一人的论文指向不同作者档案。",
+    "chao-li": "Columbia 算术几何和 NYU 微分几何的 Chao Li 已据校方任职及博士背景区分。哥大两篇已核论文指向不同 OpenAlex 作者档案，累计引用待核。",
     "emily-dumas": "论文作者姓名没有唯一匹配。",
     "evgeny-shinder": "同一人的论文指向不同作者档案。",
     "igor-nikolaev": "论文作者姓名没有唯一匹配。",
@@ -251,7 +252,8 @@
     "hong-hansol": "匹配两所任职及几何代表作，但 OpenAlex 档案还包含关于分子对接、细胞毒性的高引研究，未证实该论文来自同一位数学学者。总数和引用量待核。",
     "andrei-teleman": "已核其几何代表作，但 OpenAlex 同一作者档案包括非本人主编的 Several Complex Variables 合辑，需核对合辑层级的条目归属和计量。",
     "jingyi-chen": "已核 UBC 研究任职和 Hopf 曲面论文。OpenAlex 同作者档还包含卫星海洋资料及地震反演等高引成果，无法确认同一作者，累计值待核。",
-    "ya-deng": "核对 IMJ–PRG 现任与个人公开 ORCID。两篇已核论文指向不同 OpenAlex 作者档案，作者主页链接的 Google Scholar 当前返回 403，累计引用待核。"
+    "ya-deng": "核对 IMJ–PRG 现任与个人公开 ORCID。两篇已核论文指向不同 OpenAlex 作者档案，作者主页链接的 Google Scholar 当前返回 403，累计引用待核。",
+    "dimitri-wyss": "已核 EPFL 任职、公开 ORCID 及两篇正式 DOI。OpenAlex A5031979781 对应刊载于 JAMS 的论文，Hitchin fibration 正式条目上作者未挂 ID，现有档案的累计引用待核。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -420,6 +422,7 @@
     "james-montaldi": "比对官方当前任职和已确认代表作，检查 OpenAlex 的高引成果；有公开 ORCID 者也核对原档。",
     "anton-izosimov": "比对官方当前任职和已确认代表作，检查 OpenAlex 的高引成果；有公开 ORCID 者也核对原档。",
     "pierrick-bousseau": "比对官方任职、两篇正式代表作 DOI 以及 OpenAlex 高引成果后采纳。",
-    "alena-pirutka": "比对官方任职、两篇正式代表作 DOI 以及 OpenAlex 高引成果后采纳。"
+    "alena-pirutka": "比对官方任职、两篇正式代表作 DOI 以及 OpenAlex 高引成果后采纳。",
+    "chao-li-nyu": "用 NYU 教职、本人与两篇几何分析代表作区分 Columbia 同名者，并核对 OpenAlex 高引用代表成果。"
   }
 }

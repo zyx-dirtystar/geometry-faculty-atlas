@@ -127,10 +127,62 @@
     {
       "id": "cambridge",
       "coverage": "sample",
-      "coverageNote": "已解析 1/4 个登记来源，22 条任职或方向待核。 已收录 5 位学者，个人主页 2、CV 2、指标 2。 已从 DPMMS 官方名册的公开索引核录学术人员，另以学院及系主页核实样本。DAMTP 和部分学术人员职级、方向待核。",
+      "coverageNote": "已解析 10/17 个登记来源，185 条任职或方向待核。 已收录 14 位学者，个人主页 4、CV 2、指标 2。 核对 DPMMS 57 位学者、62 位研究人员及 25 位荣休／离任，以及 DAMTP 73 位学者、91 位研究人员及 34 位荣休。两系分别对照研究组及 2027 年具名申请导师专长。独立核实跨系岗位、联合研究单位、大学学院及固定期研究人员。",
       "rosterLinks": [
         [
+          "DAMTP · Academic Staff",
+          "https://www.damtp.cam.ac.uk/people/academic"
+        ],
+        [
+          "DAMTP · Emeritus Staff",
+          "https://www.damtp.cam.ac.uk/people/emeritus"
+        ],
+        [
+          "DAMTP research areas",
+          "https://www.damtp.cam.ac.uk/research"
+        ],
+        [
+          "DAMTP General Relativity",
+          "https://www.damtp.cam.ac.uk/research/gr/"
+        ],
+        [
+          "DAMTP · Research Staff",
+          "https://www.damtp.cam.ac.uk/people/research"
+        ],
+        [
+          "DAMTP · 2027 graduate supervisors with named interests",
+          "https://www.maths.cam.ac.uk/postgrad/finding-damtp-supervisor"
+        ],
+        [
+          "DPMMS · Emeritus and Former Faculty",
+          "https://www.dpmms.cam.ac.uk/people/emeritus"
+        ],
+        [
+          "DPMMS research",
+          "https://www.dpmms.cam.ac.uk/research"
+        ],
+        [
+          "DPMMS · Research Staff",
+          "https://www.dpmms.cam.ac.uk/people/research"
+        ],
+        [
+          "DPMMS · Postgraduate Student",
+          "https://www.dpmms.cam.ac.uk/people/students"
+        ],
+        [
+          "Isaac Newton Institute official programme archive and visitor evidence",
+          "https://www.newton.ac.uk/event/"
+        ],
+        [
+          "DPMMS · 2027 graduate supervisors with named interests",
+          "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
+        ],
+        [
           "DPMMS Academic Staff",
+          "https://www.dpmms.cam.ac.uk/people/academic"
+        ],
+        [
+          "DPMMS · Academic Staff",
           "https://www.dpmms.cam.ac.uk/people/academic"
         ],
         [
@@ -146,12 +198,12 @@
           "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "sorbonne",
       "coverage": "sample",
-      "coverageNote": "已解析 8/12 个登记来源，79 条任职或方向待核。 已收录 6 位学者，个人主页 6、CV 4、指标 1。 已按 IMJ-PRG 的 TGA 成员页区分索邦大学和巴黎西岱大学的正式雇主。另用个人研究页复核部分代数几何、算术几何及 Berkovich 几何成员。其余 IMJ-PRG 分组和独立岗位待核。 补核 IMJ–PRG 官方全名册 10 类、487 行原始任职／学籍信息；按雇主与驻所校区匹配 244 项。CNRS／INRIA 所在校区仅作为联合研究所归属线索。",
+      "coverageNote": "已解析 9/13 个登记来源，82 条任职或方向待核。 已收录 6 位学者，个人主页 6、CV 4、指标 1。 已按 IMJ-PRG 的 TGA 成员页区分索邦大学和巴黎西岱大学的正式雇主。另用个人研究页复核部分代数几何、算术几何及 Berkovich 几何成员。其余 IMJ-PRG 分组和独立岗位待核。 补核 IMJ–PRG 官方全名册 10 类、487 行原始任职／学籍信息；按雇主与驻所校区匹配 244 项。CNRS／INRIA 所在校区仅作为联合研究所归属线索。 核对应用数学联合实验室 LJLL 的 95 张同校实际雇主记录。",
       "rosterLinks": [
         [
           "IMJ–PRG · Analyse Algébrique",
@@ -196,6 +248,10 @@
         [
           "IMJ–PRG · Topologie et Géométrie Algébriques",
           "https://www.imj-prg.fr/tga/membres/"
+        ],
+        [
+          "Laboratoire Jacques-Louis Lions · official host appointments",
+          "https://www.ljll.fr/liste-membres/"
         ],
         [
           "Mathematics",
@@ -251,11 +307,27 @@
     {
       "id": "eth",
       "coverage": "sample",
-      "coverageNote": "已解析 3/3 个登记来源，31 条任职或方向待核。 已收录 4 位学者，个人主页 0、CV 0、指标 0。",
+      "coverageNote": "已解析 7/7 个登记来源，28 条任职或方向待核。 已收录 6 位学者，个人主页 2、CV 2、指标 0。 D-MATH 4 类主聘教授及总 Faculty and Lecturers 87 项，交叉核 FIM Weyl 博士后 10 项与当前访问 21 项。另对照几何分析、辛与代数几何专题页。全体讲师、荣休与机构联合任职方向仍逐一核。",
       "rosterLinks": [
+        [
+          "D-MATH · faculty and lecturers",
+          "https://math.ethz.ch/the-department/people/faculty-and-lecturers.html"
+        ],
+        [
+          "FIM · Current visitors",
+          "https://math.ethz.ch/fim/visitors/current-visitors.html"
+        ],
+        [
+          "FIM · current Hermann–Weyl Instructors",
+          "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html"
+        ],
         [
           "D-MATH Geometric Analysis and PDE",
           "https://math.ethz.ch/research/geometric-analysis-pde.html"
+        ],
+        [
+          "D-MATH · professors in 4 institutional units",
+          "https://math.ethz.ch/the-department/people/faculty-and-lecturers/professors.html"
         ],
         [
           "D-MATH Professors",
@@ -266,13 +338,25 @@
           "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology.html"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "epfl",
       "coverage": "sample",
-      "coverageNote": "已解析 2/3 个登记来源，8 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 1。",
+      "coverageNote": "已解析 11/16 个登记来源，16 条任职或方向待核。 已收录 4 位学者，个人主页 3、CV 2、指标 1。 核对数学博士培养 36 位导师，与数学研究所 8 个正式专题及数学、物理、化学所在基础科学学院的任职页面交叉。全校教职实名职位补证 421 张。各几何讲席与研究组具体成员、荣休和校内联合研究仍核对。",
       "rosterLinks": [
+        [
+          "Mathematical Institute · Data Science and Learning",
+          "https://www.epfl.ch/schools/sb/research/math/data-science-and-learning/"
+        ],
+        [
+          "Mathematics Doctoral School · EDMA Thesis Directors",
+          "https://www.epfl.ch/education/phd/edma-mathematics/edma-thesis-directors/"
+        ],
+        [
+          "EPFL Faculty Members (421 institutional cards)",
+          "https://www.epfl.ch/research/faculty-members/"
+        ],
         [
           "EPFL 全校 Faculty Members",
           "https://www.epfl.ch/research/faculty-members/"
@@ -282,16 +366,56 @@
           "https://www.epfl.ch/schools/sb/research/math/research/geometry/"
         ],
         [
+          "ANMATH Chairs",
+          "https://www.epfl.ch/labs/anmath/chairs/"
+        ],
+        [
+          "Mathematical Institute · Algebra and Number Theory",
+          "https://www.epfl.ch/schools/sb/research/math/research/algebra/"
+        ],
+        [
+          "Mathematical Institute · Analysis",
+          "https://www.epfl.ch/schools/sb/research/math/research/analysis/"
+        ],
+        [
+          "Mathematical Institute · Mathematics in Computational Sciences",
+          "https://www.epfl.ch/schools/sb/research/math/research/computationalsciences/"
+        ],
+        [
+          "Mathematical Institute · Discrete Mathematics",
+          "https://www.epfl.ch/schools/sb/research/math/research/discretemathematics/"
+        ],
+        [
+          "Mathematical Institute · Probability and Stochastics",
+          "https://www.epfl.ch/schools/sb/research/math/research/probability/"
+        ],
+        [
+          "Mathematical Institute · Statistics",
+          "https://www.epfl.ch/schools/sb/research/math/research/statistics/"
+        ],
+        [
+          "School of Basic Sciences Faculty",
+          "https://www.epfl.ch/schools/sb/about/faculty/"
+        ],
+        [
+          "Mathematical Institute · Geometry and Topology",
+          "https://www.epfl.ch/schools/sb/research/math/research/geometry/"
+        ],
+        [
+          "MATHICSE Chairs",
+          "https://www.epfl.ch/labs/mathicse/chairs/"
+        ],
+        [
           "数学研究所 People",
           "https://www.epfl.ch/schools/sb/research/math/statistics-people/"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-25"
     },
     {
       "id": "nyu",
       "coverage": "sample",
-      "coverageNote": "已解析 6/9 个登记来源，35 条任职或方向待核。 已收录 14 位学者，个人主页 3、CV 3、指标 2。 纽约 Courant 数学系 105 张按职位列的具名卡片，加对照本学年博士后、八个研究分类及 Courant 全院。纽约大学阿布扎比分校数学项目正式名册 23 张，上海纽约大学与华东师大联合数学研究中心 123 张具名资料。保留任职校区、共同研究中心关系和教师身份，继续逐人核专长。",
+      "coverageNote": "已解析 6/9 个登记来源，35 条任职或方向待核。 已收录 14 位学者，个人主页 3、CV 3、指标 3。 纽约 Courant 数学系 105 张按职位列的具名卡片，加对照本学年博士后、八个研究分类及 Courant 全院。纽约大学阿布扎比分校数学项目正式名册 23 张，上海纽约大学与华东师大联合数学研究中心 123 张具名资料。保留任职校区、共同研究中心关系和教师身份，继续逐人核专长。",
       "rosterLinks": [
         [
           "NYU Abu Dhabi · Mathematics program faculty",
@@ -463,7 +587,7 @@
     {
       "id": "paris-cite",
       "coverage": "sample",
-      "coverageNote": "已解析 10/14 个登记来源，71 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 0、指标 0。 已逐条查看 TGA 雇主标签及方向证据。Olivier Debarre 在本人 IMJ-PRG 页标注荣休。学院其余分组及联合任职仍待核。 补核 IMJ–PRG 官方全名册 10 类、487 行原始任职／学籍信息；按雇主与驻所校区匹配 198 项。CNRS／INRIA 所在校区仅作为联合研究所归属线索。",
+      "coverageNote": "已解析 11/15 个登记来源，73 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 0、指标 0。 已逐条查看 TGA 雇主标签及方向证据。Olivier Debarre 在本人 IMJ-PRG 页标注荣休。学院其余分组及联合任职仍待核。 补核 IMJ–PRG 官方全名册 10 类、487 行原始任职／学籍信息；按雇主与驻所校区匹配 198 项。CNRS／INRIA 所在校区仅作为联合研究所归属线索。 核对应用数学联合实验室 LJLL 的 15 张同校实际雇主记录。",
       "rosterLinks": [
         [
           "IMJ–PRG · Analyse Algébrique",
@@ -516,6 +640,10 @@
         [
           "IMJ–PRG · Topologie et Géométrie Algébriques",
           "https://www.imj-prg.fr/tga/membres/"
+        ],
+        [
+          "Laboratoire Jacques-Louis Lions · official host appointments",
+          "https://www.ljll.fr/liste-membres/"
         ],
         [
           "Bienvenue sur le site l'UFR de mathématiques d'Université Paris Cité [UFR de Mathématiques]",
@@ -795,7 +923,7 @@
     {
       "id": "pku",
       "coverage": "sample",
-      "coverageNote": "已解析 8/9 个登记来源，21 条任职或方向待核。 已收录 13 位学者，个人主页 8、CV 1、指标 2。",
+      "coverageNote": "已解析 8/9 个登记来源，20 条任职或方向待核。 已收录 13 位学者，个人主页 8、CV 1、指标 2。",
       "rosterLinks": [
         [
           "北京国际数学研究中心教师目录",
@@ -9761,6 +9889,111 @@
       "recordStatus": "directory"
     },
     {
+      "id": "adam-morgan",
+      "name": "Adam Morgan",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "cambridge",
+          "department": "数学系",
+          "title": "Academic Faculty",
+          "url": "https://www.dpmms.cam.ac.uk/person/ajm269",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Arithmetic geometry, rational points, arithmetic statistics"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic geometry, rational points, arithmetic statistics",
+          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ailsa-keating",
+      "name": "Ailsa Keating",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "cambridge",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.dpmms.cam.ac.uk/person/amk50",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometry and topology group",
+        "Symplectic topology, singularity theory and mirror symmetry",
+        "Research Interests: Symplectic Geometry"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "http://www.cam.ac.uk/about-the-university/publications",
+      "publicationCounts": [],
+      "opportunities": [
+        {
+          "label": "Ailsa Keating 项目博士后，几何与拓扑",
+          "url": "https://www.mathjobs.org/jobs/list/29485",
+          "type": "博士后",
+          "status": "招聘公告在招",
+          "deadline": "2026-12-20",
+          "checkedAt": "2026-11-23"
+        }
+      ],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometry and topology group",
+          "url": "https://www.dpmms.cam.ac.uk/people/academic"
+        },
+        {
+          "text": "Symplectic topology, singularity theory and mirror symmetry",
+          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
+        },
+        {
+          "text": "Differential geometry of symplectic manifolds, mirror symmetry and singularity theory",
+          "url": "https://www.dpmms.cam.ac.uk/person/amk50"
+        },
+        {
+          "text": "Research Interests: Symplectic Geometry",
+          "url": "https://www.dpmms.cam.ac.uk/person/amk50"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "alexei-kovalev",
       "name": "Alexei Kovalev",
       "aliases": [],
@@ -9771,7 +10004,7 @@
           "title": "Associate Professor",
           "url": "https://www.maths.cam.ac.uk/node/470",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -9832,6 +10065,10 @@
           "url": "https://www.dpmms.cam.ac.uk/people/academic"
         },
         {
+          "text": "Differential geometry and global analysis, especially reduced holonomy, calibrated submanifolds and special geometric structures",
+          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
+        },
+        {
           "text": "Differential geometry, special holonomy and G2 manifolds",
           "url": "https://www.dpmms.cam.ac.uk/~agk22/phdinfo.html"
         },
@@ -9844,7 +10081,7 @@
           "url": "https://www.maths.cam.ac.uk/node/470"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -9858,13 +10095,15 @@
           "title": "Professor of Algebraic Geometry",
           "url": "https://www.joh.cam.ac.uk/research/academics/fellows/professor-dhruv-ranganathan",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic"
       ],
-      "tags": [],
+      "tags": [
+        "Algebraic Geometry, combinatorics"
+      ],
       "homepage": "https://www.dhruvrnathan.net/",
       "homepageStatus": null,
       "cvUrl": "https://www.google.com/url?q=https%3A%2F%2Fwww.dpmms.cam.ac.uk%2F~dr508%2Fcv.pdf&sa=D&sntz=1&usg=AOvVaw3HvGpg6DBrthBgt841uc1D",
@@ -9879,11 +10118,15 @@
       "papers": [],
       "directoryEvidence": [
         {
+          "text": "Algebraic Geometry, combinatorics",
+          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
+        },
+        {
           "text": "Tropical algebraic geometry, enumerative geometry and moduli theory",
           "url": "https://www.joh.cam.ac.uk/research/academics/fellows/professor-dhruv-ranganathan"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -9895,16 +10138,17 @@
           "schoolId": "cambridge",
           "department": "数学系",
           "title": "Professor",
-          "url": "https://www.dpmms.cam.ac.uk/people/academic",
+          "url": "https://www.dpmms.cam.ac.uk/person/hk439",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [
-        "Algebraic Geometry"
+        "Algebraic Geometry",
+        "Arithmetic, algebraic, and complex dynamics"
       ],
       "homepage": null,
       "homepageStatus": null,
@@ -9922,9 +10166,13 @@
         {
           "text": "Algebraic Geometry",
           "url": "https://www.dpmms.cam.ac.uk/people/academic"
+        },
+        {
+          "text": "Arithmetic, algebraic, and complex dynamics",
+          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -9936,16 +10184,17 @@
           "schoolId": "cambridge",
           "department": "数学系",
           "title": "Professor",
-          "url": "https://www.dpmms.cam.ac.uk/people/academic",
+          "url": "https://www.dpmms.cam.ac.uk/person/ig211",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [
-        "Algebraic Geometry"
+        "Algebraic Geometry",
+        "Representation theory, reductive groups, algebraic geometry"
       ],
       "homepage": null,
       "homepageStatus": null,
@@ -9963,9 +10212,108 @@
         {
           "text": "Algebraic Geometry",
           "url": "https://www.dpmms.cam.ac.uk/people/academic"
+        },
+        {
+          "text": "Representation theory, reductive groups, algebraic geometry",
+          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ivan-smith",
+      "name": "Ivan Smith",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "cambridge",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.dpmms.cam.ac.uk/person/is200",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "differential"
+      ],
+      "tags": [
+        "Geometry and topology group"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.dpmms.cam.ac.uk/person/is200",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometry and topology group",
+          "url": "https://www.dpmms.cam.ac.uk/people/academic"
+        },
+        {
+          "text": "I am interested in symplectic topology and its connections to algebraic geometry, algebraic topology, low-dimensional topology and dynamics. Much of my work uses Floer theory (counts of holomorphic discs and associated algebraic structures) to study the topology of Lagrangian submanifolds and the structure of symplectomorphism groups.",
+          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
+        },
+        {
+          "text": "Differential geometry of symplectic manifolds, symplectic topology, Fukaya categories and mirror symmetry",
+          "url": "https://www.dpmms.cam.ac.uk/person/is200"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jack-thorne",
+      "name": "Jack Thorne",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "cambridge",
+          "department": "数学系",
+          "title": "Professor of Number Theory",
+          "url": "https://www.dpmms.cam.ac.uk/person/jat58",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Number theory and arithmetic geometry"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Automorphic forms, Galois representations, and arithmetic statistics",
+          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
+        },
+        {
+          "text": "Number theory and arithmetic geometry",
+          "url": "https://www.dpmms.cam.ac.uk/person/jat58"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -9979,7 +10327,7 @@
           "title": "Professor",
           "url": "https://www.dpmms.cam.ac.uk/person/mg475",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -10031,6 +10379,10 @@
           "url": "https://www.dpmms.cam.ac.uk/people/academic"
         },
         {
+          "text": "Algebraic Geometry",
+          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
+        },
+        {
           "text": "Algebraic geometry and mirror symmetry",
           "url": "https://annals.math.princeton.edu/2011/174-3/p01"
         },
@@ -10043,7 +10395,228 @@
           "url": "https://annals.math.princeton.edu/2011/174-3/p01"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "neshan-wickramasekera",
+      "name": "Neshan Wickramasekera",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "cambridge",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.dpmms.cam.ac.uk/person/ngw24",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometry and topology group"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometry and topology group",
+          "url": "https://www.dpmms.cam.ac.uk/people/academic"
+        },
+        {
+          "text": "Geometric measure theory, partial differential equations, differential geometry",
+          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
+        },
+        {
+          "text": "Differential geometry, geometric measure theory, geometric analysis and partial differential equations",
+          "url": "https://www.dpmms.cam.ac.uk/person/ngw24"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "rong-zhou",
+      "name": "Rong Zhou",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "cambridge",
+          "department": "数学系",
+          "title": "Professor of Mathematics",
+          "url": "https://www.dpmms.cam.ac.uk/person/rz240",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.dpmms.cam.ac.uk/~rz240/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.dpmms.cam.ac.uk/~rz240/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic geometry, representation theory, geometry of Shimura varieties",
+          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
+        },
+        {
+          "text": "Arithmetic geometry of Shimura varieties and representation theory",
+          "url": "https://www.dpmms.cam.ac.uk/person/rz240"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "samir-canning",
+      "name": "Samir Canning",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "cambridge",
+          "department": "数学系",
+          "title": "University Assistant Professor in Pure Mathematics",
+          "url": "https://www.pem.cam.ac.uk/college/master-and-fellows/list-fellows/dr-samir-canning",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Algebraic Geometry"
+      ],
+      "homepage": "https://www.dpmms.cam.ac.uk/~src88/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.dpmms.cam.ac.uk/~src88/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic Geometry",
+          "url": "https://www.dpmms.cam.ac.uk/people/academic"
+        },
+        {
+          "text": "Geometry and topology of moduli spaces, especially moduli spaces of curves, K3 surfaces, and abelian varieties",
+          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
+        },
+        {
+          "text": "Algebraic geometry of moduli spaces of curves, abelian varieties and K3 surfaces",
+          "url": "https://www.dpmms.cam.ac.uk/~src88/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "tom-fisher",
+      "name": "Tom Fisher",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "cambridge",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://www.dpmms.cam.ac.uk/person/taf1000",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Computational number theory, elliptic curves, arithmetical algebraic geometry",
+          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "tony-scholl",
+      "name": "Tony Scholl",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "cambridge",
+          "department": "数学系",
+          "title": "Professor of Number Theory and Algebra",
+          "url": "https://www.dpmms.cam.ac.uk/person/ajs1005",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Number theory, arithmetic algebraic geometry and modular forms"
+      ],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Number theory, arithmetic algebraic geometry and modular forms",
+          "url": "https://www.dpmms.cam.ac.uk/person/ajs1005"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -10581,7 +11154,7 @@
       "publicationsUrl": "https://www.math.columbia.edu/~chaoli/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "同一人的论文指向不同作者档案。",
+      "identityNote": "Columbia 算术几何和 NYU 微分几何的 Chao Li 已据校方任职及博士背景区分。哥大两篇已核论文指向不同 OpenAlex 作者档案，累计引用待核。",
       "metrics": [],
       "identityUrl": null,
       "papers": [
@@ -12555,6 +13128,163 @@
       "recordStatus": "directory"
     },
     {
+      "id": "andrei-negut",
+      "name": "Andrei Negut",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "epfl",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://people.epfl.ch/andrei.negut?lang=en",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://people.epfl.ch/andrei.negut?lang=en",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Chair of Representation Theory (CRT) We explore the symmetries underlying a great variety of mathematical objects, of geometric, algebraic, combinatorial or topological origin, as inspired by mathematical physics.",
+          "url": "https://www.epfl.ch/schools/sb/research/math/research/geometry/"
+        },
+        {
+          "text": "We explore the symmetries underlying a great variety of mathematical objects, of geometric, algebraic, combinatorial or topological origin, as inspired by mathematical physics.",
+          "url": "https://www.epfl.ch/schools/sb/research/math/research/geometry/"
+        },
+        {
+          "text": "We explore the symmetries underlying a great variety of mathematical objects, of geometric, algebraic, combinatorial or topological origin, as inspired by mathematical physics.",
+          "url": "https://www.epfl.ch/schools/sb/research/math/research/algebra/"
+        },
+        {
+          "text": "Algebraic geometry and geometric representation theory of moduli spaces",
+          "url": "https://www.epfl.ch/labs/crt/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "daniel-kressner",
+      "name": "Daniel Kressner",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "epfl",
+          "department": "数学系",
+          "title": "Full Professor",
+          "url": "https://people.epfl.ch/daniel.kressner?lang=en",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Numerical linear algebra and high-performance computing, low-rank matrix and tensor techniques, computational differential geometry, eigenvalue problems, high-performance computing, and model reduction.",
+          "url": "https://www.epfl.ch/schools/sb/research/math/research/computationalsciences/"
+        },
+        {
+          "text": "Numerical linear algebra and high-performance computing, low-rank matrix and tensor techniques, computational differential geometry, eigenvalue problems, high-performance computing, and model reduction.",
+          "url": "https://www.epfl.ch/schools/sb/research/math/data-science-and-learning/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "dimitri-wyss",
+      "name": "Dimitri Wyss",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "epfl",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://people.epfl.ch/dimitri.wyss?lang=en",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [
+        "motivic integration"
+      ],
+      "homepage": "https://www.epfl.ch/labs/arg/prof-dimitri-wyss/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.epfl.ch/labs/arg/wp-content/uploads/2022/09/CV-Dimitri-Wyss-2022.pdf",
+      "cvType": "公开学术 CV（2022 版）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.epfl.ch/labs/arg/arg-chair-of-arithmetic-geometry/publications/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已核 EPFL 任职、公开 ORCID 及两篇正式 DOI。OpenAlex A5031979781 对应刊载于 JAMS 的论文，Hitchin fibration 正式条目上作者未挂 ID，现有档案的累计引用待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Motivic integration on the Hitchin fibration",
+          "url": "https://doi.org/10.14231/AG-2021-004"
+        },
+        {
+          "title": "Geometric stabilisation via p-adic integration",
+          "url": "https://doi.org/10.1090/jams/948"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Chair of Arithmetic Geometry (ARG) We study the topology of algebraic varieties through arithmetic methods such as counting points and p-adic/motivic integration. Of particular interest are connections to other fields such as complex geometry, representation theory and theoretical physics.",
+          "url": "https://www.epfl.ch/schools/sb/research/math/research/geometry/"
+        },
+        {
+          "text": "We study the topology of algebraic varieties through arithmetic methods such as counting points and p-adic/motivic integration. Of particular interest are connections to other fields such as complex geometry, representation theory and theoretical physics.",
+          "url": "https://www.epfl.ch/schools/sb/research/math/research/geometry/"
+        },
+        {
+          "text": "We study the topology of algebraic varieties through arithmetic methods such as counting points and p-adic/motivic integration. Of particular interest are connections to other fields such as complex geometry, representation theory and theoretical physics.",
+          "url": "https://www.epfl.ch/schools/sb/research/math/research/algebra/"
+        },
+        {
+          "text": "Arithmetic geometry, moduli spaces, algebraic geometry and p-adic and motivic integration",
+          "url": "https://www.epfl.ch/labs/arg/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
       "id": "zsolt-patakfalvi",
       "name": "Zsolt Patakfalvi",
       "aliases": [],
@@ -12562,10 +13292,10 @@
         {
           "schoolId": "epfl",
           "department": "数学系",
-          "title": "Associate Professor, Chair of Algebraic Geometry",
-          "url": "https://people.epfl.ch/zsolt.patakfalvi",
+          "title": "Associate Professor",
+          "url": "https://people.epfl.ch/zsolt.patakfalvi?lang=en",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -12576,7 +13306,7 @@
       "homepage": "https://www.epfl.ch/labs/cag/patakfalvi/",
       "homepageStatus": null,
       "cvUrl": "https://www.epfl.ch/labs/cag/wp-content/uploads/2021/10/CV.pdf",
-      "cvType": null,
+      "cvType": "公开学术 CV（2021 院系存档）",
       "cvStatus": null,
       "publicationsUrl": null,
       "publicationCounts": [],
@@ -12613,15 +13343,113 @@
           "url": "https://www.epfl.ch/schools/sb/research/math/research/geometry/"
         },
         {
-          "text": "Algebraic geometry, higher-dimensional algebraic varieties and birational geometry",
-          "url": "https://www.epfl.ch/labs/cag/patakfalvi/"
+          "text": "The main focus of the Chair of Algebraic Geometry is the classification theory of higher dimensional algebraic varieties, including exploring its connections to adjacent fields such as commutative algebra, arithmetic geometry and complex geometry.",
+          "url": "https://www.epfl.ch/schools/sb/research/math/research/geometry/"
+        },
+        {
+          "text": "The main focus of the Chair of Algebraic Geometry is the classification theory of higher-dimensional algebraic varieties, including exploring its connections to adjacent fields such as commutative algebra, arithmetic geometry and complex geometry.",
+          "url": "https://www.epfl.ch/schools/sb/research/math/research/algebra/"
+        },
+        {
+          "text": "Algebraic geometry, singularities, birational geometry and moduli theory",
+          "url": "https://www.epfl.ch/labs/cag/"
         },
         {
           "text": "个人研究或论文来源",
           "url": "https://people.epfl.ch/zsolt.patakfalvi"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alessio-figalli",
+      "name": "Alessio Figalli",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "eth",
+          "department": "数学系",
+          "title": "Professor",
+          "url": "https://math.ethz.ch/the-department/people.html?u=afigalli",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometry"
+      ],
+      "homepage": "https://people.math.ethz.ch/~afigalli/",
+      "homepageStatus": null,
+      "cvUrl": "https://people.math.ethz.ch/~afigalli/cv-pdf/cv-pdf.pdf",
+      "cvType": "公开学术 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://people.math.ethz.ch/~afigalli/papers",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometry",
+          "url": "https://math.ethz.ch/research/geometric-analysis-pde.html"
+        },
+        {
+          "text": "Geometric analysis, geometric measure theory, free boundary problems, optimal transport and Monge–Ampère equations",
+          "url": "https://people.math.ethz.ch/~afigalli/research"
+        }
+      ],
+      "checkedAt": "2026-11-25",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ana-cannas-da-silva",
+      "name": "Ana Cannas da Silva",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "eth",
+          "department": "数学系",
+          "title": "Senior Scientist",
+          "url": "https://math.ethz.ch/the-department/organisation/independent-professorships.html",
+          "type": "primary",
+          "checkedAt": "2026-11-25"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Geometry"
+      ],
+      "homepage": "https://people.math.ethz.ch/~acannas/",
+      "homepageStatus": null,
+      "cvUrl": "https://people.math.ethz.ch/~acannas/cv_cannas.pdf",
+      "cvType": "公开学术 CV",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometry",
+          "url": "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology.html"
+        },
+        {
+          "text": "Differential geometry of symplectic manifolds, symplectic topology, toric geometry and geometry of group actions",
+          "url": "https://people.math.ethz.ch/~acannas/"
+        }
+      ],
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -12635,7 +13463,7 @@
           "title": "Professor",
           "url": "https://math.ethz.ch/research/geometric-analysis-pde/francesca-da-lio.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -12667,7 +13495,7 @@
           "url": "https://math.ethz.ch/research/geometric-analysis-pde.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -12681,7 +13509,7 @@
           "title": "Professor",
           "url": "https://math.ethz.ch/research/geometric-analysis-pde/joaquim-serra.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -12713,7 +13541,7 @@
           "url": "https://math.ethz.ch/research/geometric-analysis-pde.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -12727,7 +13555,7 @@
           "title": "Professor",
           "url": "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology/rahul-pandharipande.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -12759,7 +13587,7 @@
           "url": "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -12773,7 +13601,7 @@
           "title": "Professor",
           "url": "https://math.ethz.ch/research/geometric-analysis-pde/tristan-riviere.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-25"
         }
       ],
       "fields": [
@@ -12805,7 +13633,7 @@
           "url": "https://math.ethz.ch/research/geometric-analysis-pde.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-25",
       "recordStatus": "directory"
     },
     {
@@ -27315,18 +28143,43 @@
       "publicationsUrl": "https://math.nyu.edu/~cl2765/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5100323305",
+          "orcid": "https://orcid.org/0000-0003-2735-9139",
+          "url": "https://openalex.org/authors/A5100323305",
+          "authorApiUrl": "https://api.openalex.org/authors/A5100323305",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5100323305,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-25",
+          "articles": 23,
+          "works": 38,
+          "citations": 1014,
+          "hIndex": 17,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [
         {
           "title": "Constrained deformations of positive scalar curvature metrics, II",
           "url": "https://doi.org/10.1002/cpa.22153"
+        },
+        {
+          "title": "Positive scalar curvature with skeleton singularities",
+          "year": 2018,
+          "url": "https://doi.org/10.48550/arXiv.1708.08211"
         }
       ],
       "directoryEvidence": [
         {
           "text": "Differential geometry, geometric analysis, scalar curvature and geometric measure theory",
+          "url": "https://math.nyu.edu/~cl2765/"
+        },
+        {
+          "text": "个人研究或论文来源",
           "url": "https://math.nyu.edu/~cl2765/"
         }
       ],
