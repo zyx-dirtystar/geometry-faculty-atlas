@@ -5927,7 +5927,7 @@
     {
       "id": "rudn",
       "coverage": "sample",
-      "coverageNote": "已解析 1/10 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 0。 已查俄文招生教师库、尼科尔斯基研究所结构、科研项目及个人档案。指标理论和非交换几何与本库方向分别记录；现行全员专长仍待对照。 数理与自然科学学院官方员工入口显示 490 全学部岗位；数学研究所所长已按具名成果确认 PDE。另从工程学院期刊的 2026 作者任职和机构成果库验证了曲面微分几何交叉。",
+      "coverageNote": "已解析 9/43 个登记来源，132 条任职或方向待核。 已收录 7 位学者，个人主页 3、CV 2、指标 5。 核对 RUDN 俄语数理学院、尼科尔斯基研究所及其子单位人员、微分方程组在任与历史名单、引力中心和工程学院曲面部门。法定教育 11 个项目目录共有 147 位去重的具名师资，补证 Krasnov、Bolokhov 和 Rynkovskaya 等人的职级。俄文 FizMat 员工筛选与部分部门总数仍有缺项，研究岗与名册未列人员的当前职级或研究方向需逐项补证。学校人员卡明确校内 Stepanov 为光谱，和比萨／HSE 度量几何学者同名。引力中心旧卡中 Kassandrov 已由校刊纪念确认去世；Bronnikov 与 Ivashchuk 仍有研究联属，外部同时任职及校方历史聘期分别记录。Ivanov 与 Krasnov 的 OpenAlex 档案有跨人合并和重复版本，分别用同刊全索引及 Math-Net.Ru 完整科研论文栏回退。",
       "rosterLinks": [
         [
           "FizMat · Учёные",
@@ -5936,6 +5936,14 @@
         [
           "Математический институт имени академика С. М. Никольского",
           "https://www.rudn.ru/about/struktura-rudn/units/rektor-rudn/fakultet-fiziko-matematicheskih-i-estestvennyh-nauk/matematicheskiy-institut-imeni-akademika-sm-nikolskogo"
+        ],
+        [
+          "Engineering Academy · Construction Technologies and Structural Materials",
+          "https://academy.rudn.ru/academy/departments/ktskm"
+        ],
+        [
+          "Differential and Functional Differential Equations School · current team",
+          "https://sc-diff.rudn.ru/team.html"
         ],
         [
           "School of Differential and Functional Differential Equations · Team",
@@ -5950,8 +5958,32 @@
           "https://eng.rudn.ru/education/schools-and-departments/faculties/faculty-of-physics-and-mathematics-and-natural-sciences/"
         ],
         [
+          "RUDN · statutory educational-program staffing index",
+          "https://www.rudn.ru/sveden/employees/"
+        ],
+        [
+          "Institute of Gravitation and Cosmology · research structure",
+          "https://www.rudn.ru/science/research-institutes/uchebno-nauchnyy-institut-gravitacii-i-kosmologii-unigk"
+        ],
+        [
+          "Gravitation and Cosmology · theoretical project participants",
+          "https://www.rudn.ru/science/research-projects/teoreticheskie-problemy-gravitacii-kosmologii-astrofiziki-i-nebesnoy-mehaniki/participants"
+        ],
+        [
+          "Gravitation, Cosmology, Astrophysics and Space Systems Center · staff",
+          "https://www.rudn.ru/science/laboratories-and-centers/centr-gravitacii-kosmologii-astrofiziki-i-kosmicheskih-sistem/staff"
+        ],
+        [
           "Academy of Engineering · Вячеслав Иванов, 2026 author profile",
           "https://journals.rudn.ru/structural-mechanics/article/view/51205"
+        ],
+        [
+          "RUDN Metaphysics · Vladimir Kassandrov memorial",
+          "https://journals.rudn.ru/metaphysics/article/view/42076"
+        ],
+        [
+          "RUDN Admissions · Vladimir Krasnov",
+          "https://admission.rudn.ru/undergraduate/directions/programs/iskusstvennyy_intellekt_razrabotka_i_obuchenie_intellektualnykh_sistem_ochnaya6220004_6220005/8412501/staff/krasnov-vladimir-aleksandrovich/"
         ],
         [
           "FizMat · Андрей Муравник",
@@ -5966,11 +5998,111 @@
           "https://www.rudn.ru/science/research-institutes/matematicheskiy-institut-im-s-nikolskogo"
         ],
         [
+          "Nikolsky Mathematical Institute · nonlinear and nonlocal equations",
+          "https://www.rudn.ru/about/struktura-rudn/units/rektor-rudn/fakultet-fiziko-matematicheskih-i-estestvennyh-nauk/matematicheskiy-institut-imeni-akademika-sm-nikolskogo/nauchno-issledovatelskaya-laboratoriya-nelineynye-i-nelokalnye-zadachi-dlya-uravneniy-v-chastnyh-proizvodnyh-i-ih-prilojeniya"
+        ],
+        [
+          "Statutory teaching staff · Applied Mathematics and Programming",
+          "https://www.rudn.ru/sveden/employees/pps/prikladnaya-matematika-i-programmirovanie_8704dd4a-d308-4e67-be96-3b6f8fa7e05b.html"
+        ],
+        [
+          "Statutory teaching staff · Computational Mathematics",
+          "https://www.rudn.ru/sveden/employees/pps/vychislitelynaya-matematika_op0065.html"
+        ],
+        [
+          "Statutory teaching staff · Civil Engineering",
+          "https://www.rudn.ru/sveden/employees/pps/stroitelystvo_op0202.html"
+        ],
+        [
+          "Statutory teaching staff · Civil Engineering and Built Environment",
+          "https://www.rudn.ru/sveden/employees/pps/stroitelynaya-ingheneriya-i-postroennaya-sreda---civil-engineering-and-built-environment_op0480.html"
+        ],
+        [
+          "Statutory teaching staff · Gravitation and Cosmology",
+          "https://www.rudn.ru/sveden/employees/pps/gravitaciya-kosmologiya-i-relyativistskaya-astrofizika---gravitation-cosmology-ansd-relativis_op0543.html"
+        ],
+        [
+          "Statutory teaching staff · Gravitation and Cosmology (joint program)",
+          "https://www.rudn.ru/sveden/employees/pps/gravitaciya-kosmologiya-i-relyativistskaya-astrofizika---gravitation-cosmology-ansd-relativis_op0544.html"
+        ],
+        [
+          "Statutory teaching staff · Mathematics",
+          "https://www.rudn.ru/sveden/employees/pps/matematika_op0007.html"
+        ],
+        [
+          "Statutory teaching staff · Mathematics and Computer Science",
+          "https://www.rudn.ru/sveden/employees/pps/matematika-i-kompyyuternye-nauki_op0195.html"
+        ],
+        [
+          "Statutory teaching staff · Nonlinear and Nonlocal PDE",
+          "https://www.rudn.ru/sveden/employees/pps/nelineynye-i-nelokalynye-zadachi-dlya-uravneniy-v-chastnyh-proizvodnyh-matematicheskoe-modeli_a5f5056a-e2c9-4bb5-afb5-f4b85d49bc39.html"
+        ],
+        [
+          "Statutory teaching staff · Fundamental and Applied Physics",
+          "https://www.rudn.ru/sveden/employees/pps/fundamentalynaya-i-prikladnaya-fizika_op0281.html"
+        ],
+        [
+          "Statutory teaching staff · Physics",
+          "https://www.rudn.ru/sveden/employees/pps/fizika_op0197.html"
+        ],
+        [
           "尼科尔斯基数学研究所",
           "https://www.rudn.ru/science/research-institutes/matematicheskiy-institut-im-s-nikolskogo"
+        ],
+        [
+          "RUDN Admissions · Marina Rynkovskaya",
+          "https://admission.rudn.ru/staff/dde11bc1-5280-11f0-b576-00155dec4f22/"
+        ],
+        [
+          "Program Systems Institute RAS · Yuri Sachkov",
+          "https://control.botik.ru/en/staff/sachkov/"
+        ],
+        [
+          "FizMat · 94 named research cards",
+          "https://fizmat.rudn.ru/ru/science/scientists/"
+        ],
+        [
+          "RUDN 2025 research ranking · Milena Skvortsova appointment",
+          "https://eng.rudn.ru/media/news/science/most-effective-rudn-university-announces-2025-academic-ranking/"
+        ],
+        [
+          "FizMat · Institute of Computer Science and Telecommunications",
+          "https://fizmat.rudn.ru/ru/about/employees/?employeesFilter_pf%5BDEPARTMENT%5D=6FMYFJJS8NWQ0D6LLFJST0US&set_filter=Y"
+        ],
+        [
+          "FizMat · Mathematical Modeling in Interdisciplinary Research",
+          "https://fizmat.rudn.ru/ru/about/employees/?employeesFilter_pf%5BDEPARTMENT%5D=14LNQ15HQ06Q0AVZID8RPLEF&set_filter=Y"
+        ],
+        [
+          "FizMat · Young Research Center",
+          "https://fizmat.rudn.ru/ru/about/employees/?employeesFilter_pf%5BDEPARTMENT%5D=cnauchr&set_filter=Y"
+        ],
+        [
+          "FizMat · Nonlinear Mathematical Physics Research Center",
+          "https://fizmat.rudn.ru/ru/about/employees/?employeesFilter_pf%5BDEPARTMENT%5D=RSFDF0AYUAVQH8F6RBZE6K19&set_filter=Y"
+        ],
+        [
+          "FizMat · Mathematical Modeling Laboratory",
+          "https://fizmat.rudn.ru/ru/about/employees/?employeesFilter_pf%5BDEPARTMENT%5D=E6QV82M4D7DTSQ12TUZINZ3Q&set_filter=Y"
+        ],
+        [
+          "FizMat · Nikolsky Mathematical Institute",
+          "https://fizmat.rudn.ru/ru/about/employees/?employeesFilter_pf%5BDEPARTMENT%5D=0ZPF32SB8E2HEM2X2ZXB5FYZ&set_filter=Y"
+        ],
+        [
+          "FizMat · Nonlinear and Nonlocal PDE Research Laboratory",
+          "https://fizmat.rudn.ru/ru/about/employees/?employeesFilter_pf%5BDEPARTMENT%5D=MQ22BZXMN3IK9IWGXI2D085Q&set_filter=Y"
+        ],
+        [
+          "FizMat · Institute of Physical Research and Technology",
+          "https://fizmat.rudn.ru/ru/about/employees/?employeesFilter_pf%5BDEPARTMENT%5D=MCC922T5FN24GISLT15RB2NT&set_filter=Y"
+        ],
+        [
+          "RUDN internal units · public staff directory",
+          "https://phonebook.rudn.ru/src/search-fast.php"
         ]
       ],
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-26"
     },
     {
       "id": "qmul",
@@ -54167,6 +54299,70 @@
       "recordStatus": "directory"
     },
     {
+      "id": "person-8d678025f502",
+      "name": "Болохов Сергей Валерьевич",
+      "aliases": [
+        "Sergey V. Bolokhov",
+        "Sergei Bolokhov",
+        "Sergey Bolokhov"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "rudn",
+          "department": "Institute of Gravitation and Cosmology",
+          "title": "Associate Professor and Director of the Center for Gravitation, Cosmology, Astrophysics and Space Systems",
+          "url": "https://www.rudn.ru/science/laboratories-and-centers/centr-gravitacii-kosmologii-astrofiziki-i-kosmicheskih-sistem",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "查引力中心具名负责人及人员页、ORCID 与出版方作者档，有校方岗位说明，未见完整个人主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查引力中心、法定师资表、ORCID 和出版方履历，学校公开岗位和教育摘要可读，未核到 CV。",
+      "publicationsUrl": "https://orcid.org/0000-0002-9533-530X",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "现任中心负责人和 2026 硕士教师、具名 ORCID、与 Bronnikov 合作的 Brans–Dicke 曲面刊本互证。 OpenAlex 全语料作品 57，core article 48，累计引用 1032。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5072724324",
+          "url": "https://openalex.org/authors/A5072724324",
+          "authorApiUrl": "https://api.openalex.org/authors/A5072724324",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5072724324,type:article&corpus=core&per_page=1&select=id",
+          "articles": 48,
+          "works": 57,
+          "citations": 1032,
+          "checkedAt": "2026-11-26",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On the stability of exceptional Brans–Dicke wormholes",
+          "year": 2025,
+          "url": "https://doi.org/10.1140/epjc/s10052-025-14794-7",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and Lorentzian geometry of exact gravitational metrics, wormhole geometry, multidimensional gravitation and spacetime stability",
+          "url": "https://doi.org/10.1140/epjc/s10052-025-14794-7"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
       "id": "person-54e5368c1bc3",
       "name": "Вячеслав Николаевич Иванов",
       "aliases": [
@@ -54180,7 +54376,7 @@
           "title": "Professor, Department of Construction Technologies and Structural Materials",
           "url": "https://journals.rudn.ru/structural-mechanics/article/view/51205/en_US",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -54188,29 +54384,355 @@
       ],
       "tags": [],
       "homepage": null,
-      "homepageStatus": "已查 RUDN 期刊的具名作者资料、机构成果库和公开 ORCID；未见独立个人主页。",
+      "homepageStatus": "查工程分系目录、校刊作者索引与 ORCID 0000-0003-4023-156X，未见独立个人主页。校刊作者栏目可核本人身份。",
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "校刊 2026 作者页与大学成果库确认工作单位及公开作者标识，尚未找到独立公开 CV。",
+      "cvStatus": "查工程分系、ORCID 和 URSS 出版商具名作者介绍。出版商有短传，未发现公开 CV 原文。",
       "publicationsUrl": "https://journals.rudn.ru/structural-mechanics/search/authors/view?firstName=%D0%92%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2&lastName=%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2&middleName=%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 23,
+          "url": "https://journals.rudn.ru/structural-mechanics/search/authors/view?firstName=%D0%92%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2&lastName=%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2&middleName=%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87",
+          "scope": "RUDN Structural Mechanics of Engineering Constructions and Buildings 该作者的俄文姓名完整检索 24 条，英文姓名同刊 10 条均为重复 article ID；剔除 #10843 硕士项目介绍。同刊发表科研论文 23 篇，范围截至 2026 年；ORCID 仅列 4 项会议／章节。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "两篇曲面几何 DOI 通过同一 OpenAlex 作者 ID 和校刊 ORCID 核对。但其高引列表混入 RUDN 社会学期刊的《Media, institutions, and the Russians’ trust》，原署名 V. N. Ivanov 实为 Вилен Николаевич Иванов。混合档案的累计论文和引用待核。",
+      "identityNote": "同 ORCID 档把工程曲面作者与社会学家 V. N. Ivanov 合并。2019 RUDN Sociology DOI 10.22363/2313-2272-2019-19-2-277-288 作者为社会政治研究人员；2022 疫情舆论及 2025 哲学也属无关条目。搜索 Scholar 进入 Google 登录；俄文同刊完整作者栏回退。 OpenAlex 全语料作品 74，core article 41，累计引用 397。",
       "metrics": [],
       "identityUrl": "https://openalex.org/authors/A5042588147",
       "papers": [
         {
           "title": "Geometric Characteristics of Surfaces with Curved Trapezoidal Plan",
-          "url": "https://doi.org/10.22363/1815-5235-2024-20-2-134-145"
+          "year": 2024,
+          "url": "https://doi.org/10.22363/1815-5235-2024-20-2-134-145",
+          "type": "期刊论文"
         }
       ],
       "directoryEvidence": [
         {
-          "text": "Applied differential geometry of surfaces, surface curvature, fundamental forms and normal ruled surfaces in structural mechanics",
+          "text": "Applied differential geometry of surfaces, curvature, fundamental forms and normal ruled surfaces",
           "url": "https://repository.rudn.ru/en/records/article/record/107080/"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-71f9f0d8aa92",
+      "name": "Краснов Владимир Александрович",
+      "aliases": [
+        "Vladimir Aleksandrovich Krasnov",
+        "Vladimir A. Krasnov"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "rudn",
+          "department": "Nikolsky Mathematical Institute",
+          "title": "Associate Professor, Nikolsky Mathematical Institute",
+          "url": "https://admission.rudn.ru/undergraduate/directions/programs/iskusstvennyy_intellekt_razrabotka_i_obuchenie_intellektualnykh_sistem_ochnaya6220004_6220005/8412501/staff/krasnov-vladimir-aleksandrovich/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://admission.rudn.ru/undergraduate/directions/programs/iskusstvennyy_intellekt_razrabotka_i_obuchenie_intellektualnykh_sistem_ochnaya6220004_6220005/8412501/staff/krasnov-vladimir-aleksandrovich/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查 RUDN 招生教师页、数学研究所、Math-Net.Ru 人员档和具名论文，未见公开 CV。可读教学档和学位专题。",
+      "publicationsUrl": "https://www.mathnet.ru/rus/person61261",
+      "publicationCounts": [
+        {
+          "value": 9,
+          "url": "https://www.mathnet.ru/rus/person61261",
+          "scope": "Math-Net.Ru 人员档具名的完整 2013–2021 年论文栏，9 条科研正刊。条内俄英刊本按作品计一次，11 条讲座不计。此数不含其他刊物。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "两个 RUDN 几何 DOI 反查确认作者所在档。但档内混入 DOI 10.1070/IM8535，论文作者为 Yaroslavl 的 V. A. Krasnov；多面体论文还与译版并列。Math-Net.Ru 精确人员档回退，未核到可用作者级 Scholar 累计引文。 OpenAlex 全语料作品 20，core article 20，累计引用 37。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Volumes of Polyhedra in Non-Euclidean Spaces of Constant Curvature",
+          "year": 2020,
+          "url": "https://doi.org/10.22363/2413-3639-2020-66-4-558-679",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, hyperbolic and spherical geometry, volume formulae for polyhedra and simplices of constant sectional curvature",
+          "url": "https://www.mathnet.ru/rus/person61261"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-d9d579924896",
+      "name": "Рынковская Марина Игоревна",
+      "aliases": [
+        "Marina Rynkovskaya",
+        "Marina I. Rynkovskaya"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "rudn",
+          "department": "Academy of Engineering",
+          "title": "Associate Professor of Construction Technologies and Structural Materials",
+          "url": "https://www.rudn.ru/sveden/employees/pps/stroitelynaya-ingheneriya-i-postroennaya-sreda---civil-engineering-and-built-environment_op0480.html",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "structural mechanics and optimization"
+      ],
+      "homepage": "https://admission.rudn.ru/staff/dde11bc1-5280-11f0-b576-00155dec4f22/",
+      "homepageStatus": null,
+      "cvUrl": "https://admission.rudn.ru/staff/dde11bc1-5280-11f0-b576-00155dec4f22/",
+      "cvType": "公开 CV（校方履历）",
+      "cvStatus": null,
+      "publicationsUrl": "https://orcid.org/0000-0003-2206-2563",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "RUDN 教师页的 ORCID、工程项目法定师资和 2026 明确署名对应。科研刊本包含螺旋面、Monge 曲面及跨学科结构材料；数据库含会议与材料，仅核心 article 用于论文栏。 OpenAlex 全语料作品 119，core article 53，累计引用 480。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5076266878",
+          "url": "https://openalex.org/authors/A5076266878",
+          "authorApiUrl": "https://api.openalex.org/authors/A5076266878",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5076266878,type:article&corpus=core&per_page=1&select=id",
+          "articles": 53,
+          "works": 119,
+          "citations": 480,
+          "checkedAt": "2026-11-26",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On the Investigations of Ruled Helical Shells in 2000–2017",
+          "year": 2017,
+          "url": "https://journals.rudn.ru/structural-mechanics/article/view/16302",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Applied differential geometry of ruled helicoids, complex shell shape and analytic surfaces; structural mechanics and optimization",
+          "url": "https://admission.rudn.ru/staff/dde11bc1-5280-11f0-b576-00155dec4f22/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-2db2a75b234a",
+      "name": "Сачков Юрий Леонидович",
+      "aliases": [
+        "Yuri Sachkov",
+        "Yuri L. Sachkov",
+        "Yurii Leonidovich Sachkov"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "rudn",
+          "department": "Nikolsky Mathematical Institute",
+          "title": "Leading Research Fellow, Nikolsky Mathematical Institute",
+          "url": "https://www.rudn.ru/about/struktura-rudn/units/rektor-rudn/fakultet-fiziko-matematicheskih-i-estestvennyh-nauk/matematicheskiy-institut-imeni-akademika-sm-nikolskogo/nauchno-issledovatelskaya-laboratoriya-nelineynye-i-nelokalnye-zadachi-dlya-uravneniy-v-chastnyh-proizvodnyh-i-ih-prilojeniya",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://control.botik.ru/en/staff/sachkov/",
+      "homepageStatus": null,
+      "cvUrl": "https://control.botik.ru/wp-content/files_mf/1678351544cv.pdf",
+      "cvType": "公开 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://control.botik.ru/en/%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/?author=sachkov",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "科学院 CV、RUDN 具名实验室、作者 ORCID 和 Heisenberg／Engel 刊本对齐。高引控制论著作由本人和 Agrachev 合著。 OpenAlex 全语料作品 98，core article 47，累计引用 2386。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5112713165",
+          "url": "https://openalex.org/authors/A5112713165",
+          "authorApiUrl": "https://api.openalex.org/authors/A5112713165",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5112713165,type:article&corpus=core&per_page=1&select=id",
+          "articles": 47,
+          "works": 98,
+          "citations": 2386,
+          "checkedAt": "2026-11-26",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Sub-Lorentzian distance and spheres on the Heisenberg group",
+          "year": 2023,
+          "url": "https://doi.org/10.1007/s10883-023-09652-2",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, sub-Riemannian and sub-Finsler geometry, sub-Lorentzian geodesics, and geometric control on Lie groups",
+          "url": "https://control.botik.ru/en/staff/sachkov/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-496890de9216",
+      "name": "Скворцова Милена Васильевна",
+      "aliases": [
+        "Milena V. Skvortsova",
+        "Milena Skvortsova"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "rudn",
+          "department": "Institute of Gravitation and Cosmology",
+          "title": "Associate Professor of Physics, Institute of Gravitation and Cosmology",
+          "url": "https://eng.rudn.ru/media/news/science/most-effective-rudn-university-announces-2025-academic-ranking/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "查学校科研排名、引力中心、Pleiades 编辑档和 ORCID，未核到独立主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查学校科研排名、编辑档、机构学位库与 ORCID，可读任职及学位，未发现公开 CV。",
+      "publicationsUrl": "https://orcid.org/0000-0003-0812-3171",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "RUDN 具名副教授、Pleiades 编辑页 ORCID、学位库和 2024 独著匹配。2010–22 高引旧文的同合作者 Bronnikov 以及机构署名连续。 OpenAlex 全语料作品 50，core article 32，累计引用 1344。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5086796559",
+          "url": "https://openalex.org/authors/A5086796559",
+          "authorApiUrl": "https://api.openalex.org/authors/A5086796559",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5086796559,type:article&corpus=core&per_page=1&select=id",
+          "articles": 32,
+          "works": 50,
+          "citations": 1344,
+          "checkedAt": "2026-11-26",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Notes on wormhole existence in scalar-tensor and F(R) gravity",
+          "year": 2010,
+          "url": "https://doi.org/10.1134/S0202289310030047",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Ringing of Extreme Regular Black Holes",
+          "year": 2024,
+          "url": "https://doi.org/10.1134/S020228932470018X",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Lorentzian differential geometry of scalar-tensor and modified gravitation, mathematical criteria for wormhole metrics, and stability of black hole spacetimes",
+          "url": "https://doi.org/10.1134/S0202289310030047"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "person-b0e48c3ba969",
+      "name": "Тупикова Евгения Михайловна",
+      "aliases": [
+        "Evgenia Tupikova",
+        "Evgeniya M. Tupikova"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "rudn",
+          "department": "Academy of Engineering",
+          "title": "Associate Professor of Construction Technologies and Structural Materials",
+          "url": "https://journals.rudn.ru/structural-mechanics/article/view/51205/en_US",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "查工程学院分系列表、RUDN 校刊具名作者栏、机构学位库和 ORCID，未找到独立主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查工程学院、机构学位库和 ORCID。可读论文履历与学位，但未见公开 CV 文件或独立履历页。",
+      "publicationsUrl": "https://orcid.org/0000-0001-8742-3521",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "RUDN 2026 署名 ORCID 与本人成果 2023 直纹面独著、斜螺旋面研究互证。 OpenAlex 全语料作品 21，core article 12，累计引用 28。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5075355918",
+          "url": "https://openalex.org/authors/A5075355918",
+          "authorApiUrl": "https://api.openalex.org/authors/A5075355918",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5075355918,type:article&corpus=core&per_page=1&select=id",
+          "articles": 12,
+          "works": 21,
+          "citations": 28,
+          "checkedAt": "2026-11-26",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Shells in the form of algebraic ruled surfaces on a rhombic base",
+          "year": 2023,
+          "url": "https://doi.org/10.22363/1815-5235-2023-19-5-510-519",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Applied differential geometry of ruled surfaces, surface families defined by superellipses and curvature in thin elastic shells",
+          "url": "https://journals.rudn.ru/structural-mechanics/article/view/37223"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {

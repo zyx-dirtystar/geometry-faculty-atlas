@@ -392,7 +392,7 @@
     "fushuai-jiang": "已核 CityUHK 官方作者档案和本人发表页。两篇刊版 DOI 不能指向同一有效 OpenAlex ID，校方链接的 Google Scholar 暂返回限流。论文采用机构披露口径，累计引用待核。",
     "ilya-karzhemanov": "已核 MIPT 现职与正式刊版 DOI。OpenAlex A5122923043 只列 3 个结果，本人至少另有与 Galkin、Shinder 合著的已发表作品，单一档案覆盖不足。累计引用待核。",
     "mahuya-bandyopadhyay": "校方 ORCID 确认 OpenAlex A5088949804，但仅覆盖 4 篇文章／5 条成果，漏收校方已列的多篇正式期刊文章。搜索发现另有同名化学及社会学作者；其引用数未采用。论文数保留 UTS 机构核实口径，累计引用待核。",
-    "person-54e5368c1bc3": "两篇曲面几何 DOI 通过同一 OpenAlex 作者 ID 和校刊 ORCID 核对。但其高引列表混入 RUDN 社会学期刊的《Media, institutions, and the Russians’ trust》，原署名 V. N. Ivanov 实为 Вилен Николаевич Иванов。混合档案的累计论文和引用待核。",
+    "person-54e5368c1bc3": "同 ORCID 档把工程曲面作者与社会学家 V. N. Ivanov 合并。2019 RUDN Sociology DOI 10.22363/2313-2272-2019-19-2-277-288 作者为社会政治研究人员；2022 疫情舆论及 2025 哲学也属无关条目。搜索 Scholar 进入 Google 登录；俄文同刊完整作者栏回退。 OpenAlex 全语料作品 74，core article 41，累计引用 397。",
     "naomi-sweeting": "两个本人预印本均指向同一 OpenAlex ID，MIT 任职已核实。高引样本另含 2015 年同名网络编码论文，作者早期任职待独立核对；本人列出的是预印本，暂不作论文总计。",
     "marija-zamaklar": "ORCID 入口未返回作者，Durham 具名成果库的 JHEP 2018 和 2016 两项 DOI 及任职一致，确认 A5090712903。OA 总档案与作品检索覆盖数不同，采用其 type:article 查询计数。",
     "yue-ren": "已核对公开 ORCID、当前或历史任职与两篇具名论文。杜伦科研论文与热带几何履历匹配。",
@@ -850,7 +850,16 @@
     "andreas-kretschmer": "本人代数几何页、RTG 2965 与博士论文及 Chow 刊本互证，排除交通与生物同名人。 OpenAlex 全语料含附材和撤回项的作品端 10。核心语料 article 4。",
     "thomas-kramer": "Hamburg 现任、HU 历史任职与 Chemnitz 过渡，核对 theta divisor 和 Gauss map 刊本，排除 University of Zurich 司法毒理学同名人。 OpenAlex 全语料含附材和撤回项的作品端 21。核心语料 article 13。",
     "jurg-kramer": "高引列表出现无关神经影像研究和几个不同分组。本人 Arakelov 几何刊本和 BMS 履历已核，无法直接用 A5110430737 汇总引文。 OpenAlex 全语料含附材和撤回项的作品端 98。核心语料 article 41。",
-    "helga-baum": "HU 荣休、旧数学研究报告与杀戮旋量著作及多篇黎曼旋量论文互证。 OpenAlex 全语料含附材和撤回项的作品端 58。核心语料 article 18。"
+    "helga-baum": "HU 荣休、旧数学研究报告与杀戮旋量著作及多篇黎曼旋量论文互证。 OpenAlex 全语料含附材和撤回项的作品端 58。核心语料 article 18。",
+    "person-71f9f0d8aa92": "两个 RUDN 几何 DOI 反查确认作者所在档。但档内混入 DOI 10.1070/IM8535，论文作者为 Yaroslavl 的 V. A. Krasnov；多面体论文还与译版并列。Math-Net.Ru 精确人员档回退，未核到可用作者级 Scholar 累计引文。 OpenAlex 全语料作品 20，core article 20，累计引用 37。",
+    "person-2db2a75b234a": "科学院 CV、RUDN 具名实验室、作者 ORCID 和 Heisenberg／Engel 刊本对齐。高引控制论著作由本人和 Agrachev 合著。 OpenAlex 全语料作品 98，core article 47，累计引用 2386。",
+    "person-d9d579924896": "RUDN 教师页的 ORCID、工程项目法定师资和 2026 明确署名对应。科研刊本包含螺旋面、Monge 曲面及跨学科结构材料；数据库含会议与材料，仅核心 article 用于论文栏。 OpenAlex 全语料作品 119，core article 53，累计引用 480。",
+    "person-b0e48c3ba969": "RUDN 2026 署名 ORCID 与本人成果 2023 直纹面独著、斜螺旋面研究互证。 OpenAlex 全语料作品 21，core article 12，累计引用 28。",
+    "person-bc6c33c25148": "2025 校刊咨询岗位和 ORCID，独著曲面分类与 Springer 曲面百科高引著作互证。 OpenAlex 全语料作品 113，core article 72，累计引用 792。",
+    "person-8d678025f502": "现任中心负责人和 2026 硕士教师、具名 ORCID、与 Bronnikov 合作的 Brans–Dicke 曲面刊本互证。 OpenAlex 全语料作品 57，core article 48，累计引用 1032。",
+    "person-86b61be54311": "RUDN 中心及 2026 刊本和 ORCID 一致。高引正规黑洞、标量场喉部条目与 INSPIRE 对照。排除 ITMO 光学同名 0000-0001-5107-0111。 OpenAlex 全语料作品 295，core article 214，累计引用 9392。",
+    "person-496890de9216": "RUDN 具名副教授、Pleiades 编辑页 ORCID、学位库和 2024 独著匹配。2010–22 高引旧文的同合作者 Bronnikov 以及机构署名连续。 OpenAlex 全语料作品 50，core article 32，累计引用 1344。",
+    "person-e5ac43a674f5": "RUDN 项目和论文署名、Rostest 双联属、ORCID 与圆测地线等刊本一致。外部声学同名另一档。 OpenAlex 全语料作品 244，core article 138，累计引用 2860。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -8427,6 +8436,386 @@
         {
           "title": "Parallel Spinors and Holonomy Groups on Pseudo-Riemannian Spin Manifolds",
           "url": "https://doi.org/10.1023/a:1006556630988"
+        }
+      ]
+    },
+    "person-54e5368c1bc3": {
+      "name": "Вячеслав Николаевич Иванов",
+      "checkedAt": "2026-11-26",
+      "status": "held",
+      "note": "同 ORCID 档把工程曲面作者与社会学家 V. N. Ivanov 合并。2019 RUDN Sociology DOI 10.22363/2313-2272-2019-19-2-277-288 作者为社会政治研究人员；2022 疫情舆论及 2025 哲学也属无关条目。搜索 Scholar 进入 Google 登录；俄文同刊完整作者栏回退。 OpenAlex 全语料作品 74，core article 41，累计引用 397。",
+      "authorId": "A5042588147",
+      "candidate_url": "https://openalex.org/authors/A5042588147",
+      "authorApiUrl": "https://api.openalex.org/authors/A5042588147",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5042588147&corpus=all&include_parts=true&include_pulled=true&per_page=200&select=id,doi,display_name,publication_year,type,cited_by_count,primary_location,is_xpac",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5042588147,type:article&corpus=core&per_page=1&select=id",
+      "worksCount": 74,
+      "indexedWorksCount": 74,
+      "articles": 41,
+      "citations": 397,
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "sample": [
+        {
+          "title": "Encyclopedia of Analytical Surfaces",
+          "url": "https://doi.org/10.1007/978-3-319-11773-7"
+        },
+        {
+          "title": "Automatic Modeling of Surfaces with Identical Slopes",
+          "url": "https://doi.org/10.1007/978-3-319-79005-3_10"
+        },
+        {
+          "title": "The Principles for Development and Visualization of Analytical Surfaces’ Objects and Perspectives for Their Using at Architecture and Building Constructions",
+          "url": "https://doi.org/10.12737/article_5a17f590be3f51.37534061"
+        },
+        {
+          "title": "Media, institutions, and the Russians’ trust",
+          "url": "https://doi.org/10.22363/2313-2272-2019-19-2-277-288"
+        },
+        {
+          "title": "Stress state analysis of an equal slope shell under uniformly distributed tangential load by different methods",
+          "url": "https://doi.org/10.22363/1815-5235-2021-17-1-51-62"
+        }
+      ]
+    },
+    "person-71f9f0d8aa92": {
+      "name": "Краснов Владимир Александрович",
+      "checkedAt": "2026-11-26",
+      "status": "held",
+      "note": "两个 RUDN 几何 DOI 反查确认作者所在档。但档内混入 DOI 10.1070/IM8535，论文作者为 Yaroslavl 的 V. A. Krasnov；多面体论文还与译版并列。Math-Net.Ru 精确人员档回退，未核到可用作者级 Scholar 累计引文。 OpenAlex 全语料作品 20，core article 20，累计引用 37。",
+      "authorId": "A5026454939",
+      "candidate_url": "https://openalex.org/authors/A5026454939",
+      "authorApiUrl": "https://api.openalex.org/authors/A5026454939",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5026454939&corpus=all&include_parts=true&include_pulled=true&per_page=200&select=id,doi,display_name,publication_year,type,cited_by_count,primary_location,is_xpac",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5026454939,type:article&corpus=core&per_page=1&select=id",
+      "worksCount": 20,
+      "indexedWorksCount": 20,
+      "articles": 20,
+      "citations": 37,
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "sample": [
+        {
+          "title": "On intersections of two real quadrics",
+          "url": "https://doi.org/10.1070/im8535"
+        },
+        {
+          "title": "GRAPH-VALUED INVARIANTS OF VIRTUAL AND CLASSICAL LINKS AND MINIMALITY PROBLEM",
+          "url": "https://doi.org/10.1142/s021821651341006x"
+        },
+        {
+          "title": "On the Volume of Hyperbolic Octahedra with Nontrivial Symmetry",
+          "url": "https://doi.org/10.1007/s10958-016-2805-2"
+        },
+        {
+          "title": "On Integral Expressions for Volumes of Hyperbolic Tetrahedra",
+          "url": "https://doi.org/10.1007/s10958-015-2616-x"
+        },
+        {
+          "title": "Application of Contemporary Proof of the Sforza Formula to Computation of Volumes of Hyperbolic Tetrahedra of Special Kind",
+          "url": "https://doi.org/10.22363/2413-3639-2019-65-4-623-634"
+        }
+      ]
+    },
+    "person-2db2a75b234a": {
+      "name": "Сачков Юрий Леонидович",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "科学院 CV、RUDN 具名实验室、作者 ORCID 和 Heisenberg／Engel 刊本对齐。高引控制论著作由本人和 Agrachev 合著。 OpenAlex 全语料作品 98，core article 47，累计引用 2386。",
+      "authorId": "A5112713165",
+      "candidate_url": "https://openalex.org/authors/A5112713165",
+      "authorApiUrl": "https://api.openalex.org/authors/A5112713165",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5112713165&corpus=all&include_parts=true&include_pulled=true&per_page=200&select=id,doi,display_name,publication_year,type,cited_by_count,primary_location,is_xpac",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5112713165,type:article&corpus=core&per_page=1&select=id",
+      "worksCount": 98,
+      "indexedWorksCount": 98,
+      "articles": 47,
+      "citations": 2386,
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "sample": [
+        {
+          "title": "Control Theory from the Geometric Viewpoint",
+          "url": "https://doi.org/10.1007/978-3-662-06404-7"
+        },
+        {
+          "title": "Maxwell strata in sub-Riemannian problem on the group of motions of a plane",
+          "url": "https://doi.org/10.1051/cocv/2009004"
+        },
+        {
+          "title": "Cut locus and optimal synthesis in the sub-Riemannian problem on the group of motions of a plane",
+          "url": "https://doi.org/10.1051/cocv/2010005"
+        },
+        {
+          "title": "Conjugate and cut time in the sub-Riemannian problem on the group of motions of a plane",
+          "url": "https://doi.org/10.1051/cocv/2009031"
+        },
+        {
+          "title": "Extremal trajectories in a nilpotent sub-Riemannian problem on the Engel group",
+          "url": "https://doi.org/10.1070/sm2011v202n11abeh004200"
+        }
+      ]
+    },
+    "person-d9d579924896": {
+      "name": "Рынковская Марина Игоревна",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "RUDN 教师页的 ORCID、工程项目法定师资和 2026 明确署名对应。科研刊本包含螺旋面、Monge 曲面及跨学科结构材料；数据库含会议与材料，仅核心 article 用于论文栏。 OpenAlex 全语料作品 119，core article 53，累计引用 480。",
+      "authorId": "A5076266878",
+      "candidate_url": "https://openalex.org/authors/A5076266878",
+      "authorApiUrl": "https://api.openalex.org/authors/A5076266878",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5076266878&corpus=all&include_parts=true&include_pulled=true&per_page=200&select=id,doi,display_name,publication_year,type,cited_by_count,primary_location,is_xpac",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5076266878,type:article&corpus=core&per_page=1&select=id",
+      "worksCount": 119,
+      "indexedWorksCount": 119,
+      "articles": 53,
+      "citations": 480,
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "sample": [
+        {
+          "title": "Machine learning-based demand response in PV-based smart home considering energy management in digital twin",
+          "url": "https://doi.org/10.1016/j.solener.2023.01.044"
+        },
+        {
+          "title": "Five Types of Ruled Helical Surfaces for Helical Conveyers, Support Anchors and Screws",
+          "url": "https://doi.org/10.1051/matecconf/20179506002"
+        },
+        {
+          "title": "Analysis of displacements in beam structures and shells with middle developable surfaces",
+          "url": "https://doi.org/10.1051/matecconf/201710816001"
+        },
+        {
+          "title": "Building energy management and forecasting using artificial intelligence: Advance technique",
+          "url": "https://doi.org/10.1016/j.compeleceng.2022.107790"
+        },
+        {
+          "title": "Automatic Modeling of Surfaces with Identical Slopes",
+          "url": "https://doi.org/10.1007/978-3-319-79005-3_10"
+        }
+      ]
+    },
+    "person-b0e48c3ba969": {
+      "name": "Тупикова Евгения Михайловна",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "RUDN 2026 署名 ORCID 与本人成果 2023 直纹面独著、斜螺旋面研究互证。 OpenAlex 全语料作品 21，core article 12，累计引用 28。",
+      "authorId": "A5075355918",
+      "candidate_url": "https://openalex.org/authors/A5075355918",
+      "authorApiUrl": "https://api.openalex.org/authors/A5075355918",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5075355918&corpus=all&include_parts=true&include_pulled=true&per_page=200&select=id,doi,display_name,publication_year,type,cited_by_count,primary_location,is_xpac",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5075355918,type:article&corpus=core&per_page=1&select=id",
+      "worksCount": 21,
+      "indexedWorksCount": 21,
+      "articles": 12,
+      "citations": 28,
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "sample": [
+        {
+          "title": "Optimization study of shape of translational shell of square plan",
+          "url": "https://doi.org/10.22363/1815-5235-2019-15-5-367-373"
+        },
+        {
+          "title": "The comparison of velaroidal shell structures of square plane load bearing properties",
+          "url": "https://doi.org/10.1088/1757-899x/883/1/012218"
+        },
+        {
+          "title": "The design guide for space frames with or without warping restraint at nodes",
+          "url": "https://doi.org/10.1063/5.0099013"
+        },
+        {
+          "title": "Analytical approach to stress-strain analysis of right and oblique helicoid structures",
+          "url": "https://doi.org/10.34910/mce.106.9"
+        },
+        {
+          "title": "Shells in the form of algebraic ruled surfaces on a rhombic base",
+          "url": "https://doi.org/10.22363/1815-5235-2023-19-5-510-519"
+        }
+      ]
+    },
+    "person-bc6c33c25148": {
+      "name": "Кривошапко Сергей Николаевич",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "2025 校刊咨询岗位和 ORCID，独著曲面分类与 Springer 曲面百科高引著作互证。 OpenAlex 全语料作品 113，core article 72，累计引用 792。",
+      "authorId": "A5008543816",
+      "candidate_url": "https://openalex.org/authors/A5008543816",
+      "authorApiUrl": "https://api.openalex.org/authors/A5008543816",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5008543816&corpus=all&include_parts=true&include_pulled=true&per_page=200&select=id,doi,display_name,publication_year,type,cited_by_count,primary_location,is_xpac",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5008543816,type:article&corpus=core&per_page=1&select=id",
+      "worksCount": 113,
+      "indexedWorksCount": 113,
+      "articles": 72,
+      "citations": 792,
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "sample": [
+        {
+          "title": "Encyclopedia of Analytical Surfaces",
+          "url": "https://doi.org/10.1007/978-3-319-11773-7"
+        },
+        {
+          "title": "Research on General and Axisymmetric Ellipsoidal Shells Used as Domes, Pressure Vessels, and Tanks",
+          "url": "https://doi.org/10.1115/1.2806278"
+        },
+        {
+          "title": "Five Types of Ruled Helical Surfaces for Helical Conveyers, Support Anchors and Screws",
+          "url": "https://doi.org/10.1051/matecconf/20179506002"
+        },
+        {
+          "title": "Geometry and Strength of General Helicoidal Shells",
+          "url": "https://doi.org/10.1115/1.3098932"
+        },
+        {
+          "title": "Perspectives and advantages of tangential developable surfaces in modeling machine-building and building designs",
+          "url": "https://doi.org/10.23968/1999-5571-2019-16-1-20-30"
+        }
+      ]
+    },
+    "person-8d678025f502": {
+      "name": "Болохов Сергей Валерьевич",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "现任中心负责人和 2026 硕士教师、具名 ORCID、与 Bronnikov 合作的 Brans–Dicke 曲面刊本互证。 OpenAlex 全语料作品 57，core article 48，累计引用 1032。",
+      "authorId": "A5072724324",
+      "candidate_url": "https://openalex.org/authors/A5072724324",
+      "authorApiUrl": "https://api.openalex.org/authors/A5072724324",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5072724324&corpus=all&include_parts=true&include_pulled=true&per_page=200&select=id,doi,display_name,publication_year,type,cited_by_count,primary_location,is_xpac",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5072724324,type:article&corpus=core&per_page=1&select=id",
+      "worksCount": 57,
+      "indexedWorksCount": 57,
+      "articles": 48,
+      "citations": 1032,
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "sample": [
+        {
+          "title": "Black holes in Starobinsky-Bel-Robinson Gravity and the breakdown of quasinormal modes/null geodesics correspondence",
+          "url": "https://doi.org/10.1016/j.physletb.2024.138879"
+        },
+        {
+          "title": "Magnetic black universes and wormholes with a phantom scalar",
+          "url": "https://doi.org/10.1088/0264-9381/29/24/245006"
+        },
+        {
+          "title": "Long-lived quasinormal modes and overtones’ behavior of holonomy-corrected black holes",
+          "url": "https://doi.org/10.1103/physrevd.110.024010"
+        },
+        {
+          "title": "Correspondence between quasinormal modes and grey-body factors of spherically symmetric traversable wormholes",
+          "url": "https://doi.org/10.1088/1475-7516/2025/04/025"
+        },
+        {
+          "title": "Late time decay of scalar and Dirac fields around an asymptotically de Sitter black hole in the Euler–Heisenberg electrodynamics",
+          "url": "https://doi.org/10.1140/epjc/s10052-024-12990-5"
+        }
+      ]
+    },
+    "person-86b61be54311": {
+      "name": "Бронников Кирилл Александрович",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "RUDN 中心及 2026 刊本和 ORCID 一致。高引正规黑洞、标量场喉部条目与 INSPIRE 对照。排除 ITMO 光学同名 0000-0001-5107-0111。 OpenAlex 全语料作品 295，core article 214，累计引用 9392。",
+      "authorId": "A5084788036",
+      "candidate_url": "https://openalex.org/authors/A5084788036",
+      "authorApiUrl": "https://api.openalex.org/authors/A5084788036",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5084788036&corpus=all&include_parts=true&include_pulled=true&per_page=200&select=id,doi,display_name,publication_year,type,cited_by_count,primary_location,is_xpac",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5084788036,type:article&corpus=core&per_page=1&select=id",
+      "worksCount": 295,
+      "indexedWorksCount": 295,
+      "articles": 214,
+      "citations": 9392,
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "sample": [
+        {
+          "title": "Regular magnetic black holes and monopoles from nonlinear electrodynamics",
+          "url": "https://doi.org/10.1103/physrevd.63.044005"
+        },
+        {
+          "title": "Scalar-tensor theory and scalar charge",
+          "url": "https://openalex.org/W2088095976"
+        },
+        {
+          "title": "Regular Phantom Black Holes",
+          "url": "https://doi.org/10.1103/physrevlett.96.251101"
+        },
+        {
+          "title": "Possible wormholes in a brane world",
+          "url": "https://doi.org/10.1103/physrevd.67.064027"
+        },
+        {
+          "title": "Instabilities of wormholes and regular black holes supported by a phantom scalar field",
+          "url": "https://doi.org/10.1103/physrevd.86.024028"
+        }
+      ]
+    },
+    "person-496890de9216": {
+      "name": "Скворцова Милена Васильевна",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "RUDN 具名副教授、Pleiades 编辑页 ORCID、学位库和 2024 独著匹配。2010–22 高引旧文的同合作者 Bronnikov 以及机构署名连续。 OpenAlex 全语料作品 50，core article 32，累计引用 1344。",
+      "authorId": "A5086796559",
+      "candidate_url": "https://openalex.org/authors/A5086796559",
+      "authorApiUrl": "https://api.openalex.org/authors/A5086796559",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5086796559&corpus=all&include_parts=true&include_pulled=true&per_page=200&select=id,doi,display_name,publication_year,type,cited_by_count,primary_location,is_xpac",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5086796559,type:article&corpus=core&per_page=1&select=id",
+      "worksCount": 50,
+      "indexedWorksCount": 50,
+      "articles": 32,
+      "citations": 1344,
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "sample": [
+        {
+          "title": "Notes on wormhole existence in scalar-tensor and F(R) gravity",
+          "url": "https://doi.org/10.1134/s0202289310030047"
+        },
+        {
+          "title": "Magnetic black universes and wormholes with a phantom scalar",
+          "url": "https://doi.org/10.1088/0264-9381/29/24/245006"
+        },
+        {
+          "title": "Ringing of Extreme Regular Black Holes",
+          "url": "https://doi.org/10.1134/s020228932470018x"
+        },
+        {
+          "title": "Quantum corrected black holes: testing the correspondence between grey-body factors and quasinormal modes",
+          "url": "https://doi.org/10.1140/epjc/s10052-025-14589-w"
+        },
+        {
+          "title": "Correspondence between quasinormal modes and grey-body factors of spherically symmetric traversable wormholes",
+          "url": "https://doi.org/10.1088/1475-7516/2025/04/025"
+        }
+      ]
+    },
+    "person-e5ac43a674f5": {
+      "name": "Иващук Владимир Дмитриевич",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "RUDN 项目和论文署名、Rostest 双联属、ORCID 与圆测地线等刊本一致。外部声学同名另一档。 OpenAlex 全语料作品 244，core article 138，累计引用 2860。",
+      "authorId": "A5065275320",
+      "candidate_url": "https://openalex.org/authors/A5065275320",
+      "authorApiUrl": "https://api.openalex.org/authors/A5065275320",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5065275320&corpus=all&include_parts=true&include_pulled=true&per_page=200&select=id,doi,display_name,publication_year,type,cited_by_count,primary_location,is_xpac",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5065275320,type:article&corpus=core&per_page=1&select=id",
+      "worksCount": 244,
+      "indexedWorksCount": 244,
+      "articles": 138,
+      "citations": 2860,
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "sample": [
+        {
+          "title": "Exact solutions in multidimensional gravity with antisymmetric forms",
+          "url": "https://doi.org/10.1088/0264-9381/18/20/201"
+        },
+        {
+          "title": "Multidimensional classical and quantum cosmology with intersecting p-branes",
+          "url": "https://doi.org/10.1063/1.532427"
+        },
+        {
+          "title": "On Wheeler-De Witt equation in multidimensional cosmology",
+          "url": "https://doi.org/10.1007/bf02726165"
+        },
+        {
+          "title": "Sigma-model for generalized composite p -branes",
+          "url": "https://doi.org/10.1088/0264-9381/14/11/005"
+        },
+        {
+          "title": "Integrable pseudo-Euclidean Toda-like systems in multidimensional cosmology with multicomponent perfect fluid",
+          "url": "https://doi.org/10.1063/1.531290"
         }
       ]
     }
