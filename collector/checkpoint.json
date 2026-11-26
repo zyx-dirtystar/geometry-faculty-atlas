@@ -2156,10 +2156,20 @@
       "school": "eindhoven",
       "url": "https://research.tue.nl/nl/organisations/applied-differential-geometry-1/persons/",
       "label": "Applied Differential Geometry · Onderzoekers",
-      "status": "source_error",
+      "status": "parsed",
+      "count": 5,
+      "checked_at": "2026-11-26",
+      "note": "荷文网站可索引的 5 人。直连人员旧页返回 403，逐人用现行科研门户和校方研究者页面核实名字及职级。"
+    },
+    {
+      "id": "eindhoven-applied-data26",
+      "school": "eindhoven",
+      "url": "https://data-driven.pages.tue.nl/",
+      "label": "CASA · Data-Driven Computational Science",
+      "status": "reference",
       "count": 0,
-      "checked_at": "2026-11-25",
-      "note": "机构网站限制了目录请求。"
+      "checked_at": "2026-11-26",
+      "note": "已核 10 人旧团队名单。Olga Mula 的现任与离职年月须以维也纳大学档案及本人 CV 为准。"
     },
     {
       "id": "eindhoven-casa-gldg26",
@@ -2172,6 +2182,46 @@
       "note": "研究组主页公开具名组长卡片；成员分页另查。"
     },
     {
+      "id": "eindhoven-dag-course26",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/p/en/courses/linear-algebra-1-7",
+      "label": "Linear Algebra 1 · instructional appointments for 2026",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "核对 DAG 组在教学记录中的人员交叉出现。课程名单只作补充线索。"
+    },
+    {
+      "id": "eindhoven-dag-members26",
+      "school": "eindhoven",
+      "url": "https://sites.google.com/view/appliedgeometryalgebra/home",
+      "label": "Discrete Algebra and Geometry · group roster",
+      "status": "parsed",
+      "count": 9,
+      "checked_at": "2026-11-26",
+      "note": "对照研究组公开九张人员卡。兼职 Jan Draisma 与访问研究者 Chris Peters 另由校档核查。"
+    },
+    {
+      "id": "eindhoven-dag-peters26",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/p/en/persons/chris-am-peters",
+      "label": "TU/e · Chris A.M. Peters research affiliation",
+      "status": "parsed",
+      "count": 1,
+      "checked_at": "2026-11-26",
+      "note": "校方科研卡与其公开履历确认 TU/e 访问研究身份及 Grenoble 履历。"
+    },
+    {
+      "id": "eindhoven-finsler26",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/p/en/organisations/scze5rqmr9f2-fe38dd30-74bd-4a97-802c-e62e3f2ea854",
+      "label": "Finsler Geometry and Gravity · organisation and personal cards",
+      "status": "parsed",
+      "count": 2,
+      "checked_at": "2026-11-26",
+      "note": "由科研门户具名档案进入的现行组织单元。组织页本身只列层级，两条人员关联由其现任具名卡直接提供。"
+    },
+    {
       "id": "eindhoven-full-audit-source",
       "school": "eindhoven",
       "url": "https://research.tue.nl/p/en/organisations/discrete-algebra-and-geometry",
@@ -2182,6 +2232,26 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "eindhoven-gldg-profiles26",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/en/organisations/geometric-learning-differential-geometry/persons/",
+      "label": "Geometric Learning & Differential Geometry · Profiles",
+      "status": "parsed",
+      "count": 8,
+      "checked_at": "2026-11-26",
+      "note": "复核英文索引可读的 Profiles 完整 8 人。门户旧组中仍列 Gautam Pai，以新任 University of Twente 资料为准。其余职级参考现行具名档案。"
+    },
+    {
+      "id": "eindhoven-math-hierarchy26",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/p/en/organisations/mathematics",
+      "label": "Mathematics · current organisation hierarchy",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "现行组织层级目录可读，概况不披露数学系完整人员。旧数学系人员路径直接请求返回 HTTP 403。"
+    },
+    {
       "id": "eindhoven-math-source",
       "school": "eindhoven",
       "url": "https://research.tue.nl/p/en/organisations/mathematics-and-computer-science",
@@ -2190,6 +2260,16 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "eindhoven-mia-profiles26",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/en/organisations/mathematical-image-analysis/persons/",
+      "label": "Mathematical Image Analysis · Profiles",
+      "status": "parsed",
+      "count": 3,
+      "checked_at": "2026-11-26",
+      "note": "可读索引中的 3 人，职级以现行具名卡为准。"
     },
     {
       "id": "ens-lyon-27-annuaire",
@@ -74266,6 +74346,86 @@
       }
     },
     {
+      "source": "eindhoven-adg-researchers26",
+      "person_key": "andreafuster",
+      "school": "eindhoven",
+      "record": {
+        "name": "Andrea Fuster",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/andrea-fuster",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://research.tue.nl/nl/organisations/applied-differential-geometry-1/persons/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-adg-researchers26",
+      "person_key": "geertjanrutten",
+      "school": "eindhoven",
+      "record": {
+        "name": "Geert-Jan Rutten",
+        "title": "Full Professor of Computational Neurosurgery",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/geert-jan-rutten",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://research.tue.nl/nl/organisations/applied-differential-geometry-1/persons/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-adg-researchers26",
+      "person_key": "lucmjflorack",
+      "school": "eindhoven",
+      "record": {
+        "name": "Luc M. J. Florack",
+        "title": "Full Professor",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/luc-mj-florack",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://research.tue.nl/nl/organisations/applied-differential-geometry-1/persons/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-adg-researchers26",
+      "person_key": "remcoduits",
+      "school": "eindhoven",
+      "record": {
+        "name": "Remco Duits",
+        "title": "Full Professor",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/remco-duits",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://research.tue.nl/nl/organisations/applied-differential-geometry-1/persons/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-adg-researchers26",
+      "person_key": "ricksengers",
+      "school": "eindhoven",
+      "record": {
+        "name": "Rick Sengers",
+        "title": "Postdoc",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/hjce-rick-sengers",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://research.tue.nl/nl/organisations/applied-differential-geometry-1/persons/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
       "source": "eindhoven-casa-gldg26",
       "person_key": "remcoduits",
       "school": "eindhoven",
@@ -74279,6 +74439,374 @@
         "source_kind": "department",
         "source_url": "https://casa.win.tue.nl/home/geometric-learning-and-differential-geometry/",
         "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "eindhoven-dag-members26",
+      "person_key": "hanscuypers",
+      "school": "eindhoven",
+      "record": {
+        "name": "Hans Cuypers",
+        "title": "Full Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://sites.google.com/view/appliedgeometryalgebra/home",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-dag-members26",
+      "person_key": "hansjmsterk",
+      "school": "eindhoven",
+      "record": {
+        "name": "Hans J.M. Sterk",
+        "title": "University Lecturer",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/hans-jm-sterk",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://sites.google.com/view/appliedgeometryalgebra/home",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-dag-members26",
+      "person_key": "janwillemknopper",
+      "school": "eindhoven",
+      "record": {
+        "name": "Jan Willem Knopper",
+        "title": "IT Developer",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://sites.google.com/view/appliedgeometryalgebra/home",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-dag-members26",
+      "person_key": "kanishkakatipearachchi",
+      "school": "eindhoven",
+      "record": {
+        "name": "Kanishka Katipearachchi",
+        "title": "Doctoral Candidate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://sites.google.com/view/appliedgeometryalgebra/home",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-dag-members26",
+      "person_key": "marcomorosin",
+      "school": "eindhoven",
+      "record": {
+        "name": "Marco Morosin",
+        "title": "Doctoral Candidate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://sites.google.com/view/appliedgeometryalgebra/home",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-dag-members26",
+      "person_key": "mireilleboutin",
+      "school": "eindhoven",
+      "record": {
+        "name": "Mireille Boutin",
+        "title": "Full Professor",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/mireille-mimi-boutin",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://sites.google.com/view/appliedgeometryalgebra/home",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-dag-members26",
+      "person_key": "robheggermont",
+      "school": "eindhoven",
+      "record": {
+        "name": "Rob H. Eggermont",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/rob-h-eggermont",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://sites.google.com/view/appliedgeometryalgebra/home",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-dag-members26",
+      "person_key": "samanthafairchild",
+      "school": "eindhoven",
+      "record": {
+        "name": "Samantha Fairchild",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/samantha-fairchild",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://sites.google.com/view/appliedgeometryalgebra/home",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-dag-members26",
+      "person_key": "sinankapcak",
+      "school": "eindhoven",
+      "record": {
+        "name": "Sinan Kapçak",
+        "title": "University Lecturer",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/sinan-kap%C3%A7ak",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://sites.google.com/view/appliedgeometryalgebra/home",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-dag-peters26",
+      "person_key": "chrisampeters",
+      "school": "eindhoven",
+      "record": {
+        "name": "Chris A.M. Peters",
+        "title": "Guest Researcher",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/chris-am-peters",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tue.nl/p/en/persons/chris-am-peters",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-finsler26",
+      "person_key": "andreafuster",
+      "school": "eindhoven",
+      "record": {
+        "name": "Andrea Fuster",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/andrea-fuster",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tue.nl/p/en/organisations/scze5rqmr9f2-fe38dd30-74bd-4a97-802c-e62e3f2ea854",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-finsler26",
+      "person_key": "sjorsheefer",
+      "school": "eindhoven",
+      "record": {
+        "name": "Sjors Heefer",
+        "title": "University Lecturer",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/sjors-heefer",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tue.nl/p/en/organisations/scze5rqmr9f2-fe38dd30-74bd-4a97-802c-e62e3f2ea854",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-gldg-profiles26",
+      "person_key": "bartmnsmets",
+      "school": "eindhoven",
+      "record": {
+        "name": "Bart M.N. Smets",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/bart-mn-smets",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tue.nl/en/organisations/geometric-learning-differential-geometry/persons/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-gldg-profiles26",
+      "person_key": "finnmsherry",
+      "school": "eindhoven",
+      "record": {
+        "name": "Finn M. Sherry",
+        "title": "Doctoral Candidate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tue.nl/en/organisations/geometric-learning-differential-geometry/persons/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-gldg-profiles26",
+      "person_key": "gautampai",
+      "school": "eindhoven",
+      "record": {
+        "name": "Gautam Pai",
+        "title": "Former Postdoc",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tue.nl/en/organisations/geometric-learning-differential-geometry/persons/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-gldg-profiles26",
+      "person_key": "gijsbellaard",
+      "school": "eindhoven",
+      "record": {
+        "name": "Gijs Bellaard",
+        "title": "Postdoc",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/gijs-bellaard",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tue.nl/en/organisations/geometric-learning-differential-geometry/persons/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-gldg-profiles26",
+      "person_key": "leannevis",
+      "school": "eindhoven",
+      "record": {
+        "name": "Leanne Vis",
+        "title": "Doctoral Candidate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tue.nl/en/organisations/geometric-learning-differential-geometry/persons/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-gldg-profiles26",
+      "person_key": "nickyjvandenberg",
+      "school": "eindhoven",
+      "record": {
+        "name": "Nicky J. van den Berg",
+        "title": "Postdoc",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/nicky-j-van-den-berg",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tue.nl/en/organisations/geometric-learning-differential-geometry/persons/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-gldg-profiles26",
+      "person_key": "remcoduits",
+      "school": "eindhoven",
+      "record": {
+        "name": "Remco Duits",
+        "title": "Full Professor",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/remco-duits",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tue.nl/en/organisations/geometric-learning-differential-geometry/persons/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-gldg-profiles26",
+      "person_key": "remcospelthan",
+      "school": "eindhoven",
+      "record": {
+        "name": "Remco Spelthan",
+        "title": "Doctoral Candidate",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tue.nl/en/organisations/geometric-learning-differential-geometry/persons/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-mia-profiles26",
+      "person_key": "andreafuster",
+      "school": "eindhoven",
+      "record": {
+        "name": "Andrea Fuster",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/andrea-fuster",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tue.nl/en/organisations/mathematical-image-analysis/persons/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-mia-profiles26",
+      "person_key": "lucmjflorack",
+      "school": "eindhoven",
+      "record": {
+        "name": "Luc M. J. Florack",
+        "title": "Full Professor",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/luc-mj-florack",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tue.nl/en/organisations/mathematical-image-analysis/persons/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-mia-profiles26",
+      "person_key": "remcoduits",
+      "school": "eindhoven",
+      "record": {
+        "name": "Remco Duits",
+        "title": "Full Professor",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/remco-duits",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tue.nl/en/organisations/mathematical-image-analysis/persons/",
+        "checked_at": "2026-11-26"
       }
     },
     {
@@ -516466,6 +516994,13 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "andrea-fuster": {
+      "status": "identity_review",
+      "reason": "机构与 DOI 匹配的 OpenAlex 主档缺本人博士论文，另档 A5160553899 收录。已核本人 Google Scholar 的校邮域及 Finsler 和影像代表作，引用采用该公开 All 栏。学校成果分类旧页直连返回 403，主站只列 Key Publications，待完整论文数。",
+      "author_id": "A5074521294",
+      "checkedAt": "2026-11-26",
+      "candidate_url": "https://openalex.org/authors/A5074521294"
+    },
     "andrea-mondino": {
       "status": "review_ready",
       "author_id": "A5015153981",
@@ -517312,6 +517847,13 @@
       "reason": "OpenAlex 请求或返回数据失败。",
       "checkedAt": "2026-11-23"
     },
+    "bart-m-n-smets": {
+      "status": "identity_review",
+      "reason": "OpenAlex 此 ID 虽与 ORCID 相同，高引项却混有 2006–2013 年酵母、药理文章以及 Johnson & Johnson 机构。CV 时间线及学校论文与这批生医成果不符。Google Scholar 校邮域、本人页链接与两篇数学 DOI 相符，保存 All 引用。以机构明确分类补计文章，个人书目只作作品佐证。",
+      "author_id": "A5103105299",
+      "checkedAt": "2026-11-26",
+      "candidate_url": "https://openalex.org/authors/A5103105299"
+    },
     "barton-zwiebach": {
       "status": "review_ready",
       "author_id": "A5057263116",
@@ -518033,6 +518575,26 @@
       "status": "source_error",
       "reason": "OpenAlex 请求或返回数据失败。",
       "checkedAt": "2026-11-24"
+    },
+    "chris-a-m-peters": {
+      "status": "review_ready",
+      "author_id": "A5055077837",
+      "checkedAt": "2026-11-26",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5055077837",
+        "url": "https://openalex.org/A5055077837",
+        "orcid": "https://orcid.org/0000-0001-5323-065X",
+        "authorApiUrl": "https://api.openalex.org/authors/A5055077837",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5055077837,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-26",
+        "articles": 51,
+        "works": 170,
+        "citations": 5077,
+        "hIndex": 22,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "chris-lazda": {
       "status": "review_ready",
@@ -519793,6 +520355,26 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "gijs-bellaard": {
+      "status": "review_ready",
+      "author_id": "A5074897113",
+      "checkedAt": "2026-11-26",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5074897113",
+        "url": "https://openalex.org/A5074897113",
+        "orcid": null,
+        "authorApiUrl": "https://api.openalex.org/authors/A5074897113",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5074897113,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-26",
+        "articles": 3,
+        "works": 14,
+        "citations": 55,
+        "hIndex": 5,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "giovanni-inchiostro": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
@@ -519986,6 +520568,13 @@
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "checkedAt": "2026-11-23"
+    },
+    "hans-j-m-sterk": {
+      "status": "identity_review",
+      "reason": "同校多档。A5000615750 收录与 Cuypers、Perrenet 的成果，A5159057234 收录与 Peters 的 2026 预印本。逐查本人 Selected Publications、Pure 和 Scholar，教育成果与几何成果分属不同档案。保留 TU/e 明确分类的期刊条目数，累计引文待消歧。",
+      "author_id": "A5037864392",
+      "checkedAt": "2026-11-26",
+      "candidate_url": "https://openalex.org/authors/A5037864392"
     },
     "hans-joachim-hein": {
       "status": "review_ready",
@@ -520646,6 +521235,13 @@
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
       }
+    },
+    "jan-draisma": {
+      "status": "identity_review",
+      "reason": "伯尔尼机构及 ORCID 匹配。A5159960204 分列本人和 Blatter、Rupniewski 的 preprint，累计引用采用已按作品和校邮核对的 Scholar All 栏。",
+      "author_id": "A5084270459",
+      "checkedAt": "2026-11-26",
+      "candidate_url": "https://openalex.org/authors/A5084270459"
     },
     "jan-stovicek": {
       "status": "review_ready",
@@ -523716,6 +524312,13 @@
       "checkedAt": "2026-11-25",
       "candidate_url": "https://openalex.org/authors/A5083659499"
     },
+    "nicky-j-van-den-berg": {
+      "status": "identity_review",
+      "reason": "作者 ORCID 及 TU/e 合作者吻合，另档 A5084431998 的公路裂缝作品也出现在本人 Scholar。引用采用经本人学术主页核实的 Scholar All 栏。",
+      "author_id": "A5034867762",
+      "checkedAt": "2026-11-26",
+      "candidate_url": "https://openalex.org/authors/A5034867762"
+    },
     "nicolo-sibilla": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
@@ -525333,6 +525936,26 @@
         "citationScope": "OpenAlex 作者档案累计引用"
       }
     },
+    "rick-sengers": {
+      "status": "review_ready",
+      "author_id": "A5091216654",
+      "checkedAt": "2026-11-26",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5091216654",
+        "url": "https://openalex.org/A5091216654",
+        "orcid": "https://orcid.org/0000-0001-5960-8107",
+        "authorApiUrl": "https://api.openalex.org/authors/A5091216654",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5091216654,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-26",
+        "articles": 2,
+        "works": 9,
+        "citations": 28,
+        "hIndex": 3,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "riou-joel": {
       "status": "identity_review",
       "reason": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
@@ -525673,6 +526296,26 @@
       "reason": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "checkedAt": "2026-11-24",
       "candidate_url": "https://openalex.org/A5037225141"
+    },
+    "samantha-fairchild": {
+      "status": "review_ready",
+      "author_id": "A5001923568",
+      "checkedAt": "2026-11-26",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5001923568",
+        "url": "https://openalex.org/A5001923568",
+        "orcid": "https://orcid.org/0000-0001-7265-6904",
+        "authorApiUrl": "https://api.openalex.org/authors/A5001923568",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5001923568,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-26",
+        "articles": 8,
+        "works": 12,
+        "citations": 60,
+        "hIndex": 4,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     },
     "samuel-grushevsky": {
       "status": "identity_review",
@@ -526040,6 +526683,13 @@
         "articleScope": "OpenAlex type:article",
         "citationScope": "OpenAlex 作者档案累计引用"
       }
+    },
+    "sjors-heefer": {
+      "status": "identity_review",
+      "reason": "OpenAlex ORCID 与 Finsler DOI 匹配。只有 14 个可检索条目，观察到本人 Scholar 公开索引列出的白皮书条目未在该档案列出，引用先用由本人主页链接的 Scholar All 栏。",
+      "author_id": "A5074280651",
+      "checkedAt": "2026-11-26",
+      "candidate_url": "https://openalex.org/authors/A5074280651"
     },
     "sonja-mapes": {
       "status": "identity_review",

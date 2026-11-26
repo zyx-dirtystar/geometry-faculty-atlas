@@ -5815,7 +5815,7 @@
     {
       "id": "eindhoven",
       "coverage": "sample",
-      "coverageNote": "已解析 3/7 个登记来源，0 条任职或方向待核。 已收录 3 位学者，个人主页 2、CV 1、指标 3。 已查数学与计算机科学系科研门户、离散代数与几何英荷双语研究组及个人页。已核录部分组员并按个人页区分兼职。组的完整名单、其他系组和校外联合任职待核。 核对含荷语名称的校级门户，有限几何学者 Hans Cuypers 单列。 新增 CASA 具名几何学习与微分几何组长、TU/e Applied Differential Geometry 正教授，并比对机构 ORCID 和 OpenAlex 作者分拆。旧研究门户荷语人员页返回 403；已用 CASA 组页及个人公开档案补查，旧 ADG 与现 GLDG 的完整任职范围仍需确认。",
+      "coverageNote": "已解析 9/15 个登记来源，0 条任职或方向待核。 已收录 8 位学者，个人主页 7、CV 4、指标 7。 已复核数学系现行组织层级及离散代数与几何组公开 9 人、应用微分几何荷语名录 5 人、数学图像分析 3 人、几何学习与微分几何英文名录 8 人。Finsler Geometry and Gravity 现行组织页无人员分栏，由具名现任档案核到两位，并核对兼职与访问人员。核对现行人员卡、旧页面、本人 CV 和转出机构，记录 Gautam Pai 转任 Twente、Olga Mula 转任 Vienna。数学系完整人员路径和离散组荷语人员旧路径直接请求返回 403，新科研门户组织概况没有全员页。仍须检查数学系其余 CASA 分组、其他院系交叉和联合中心的范围。",
       "rosterLinks": [
         [
           "Discrete Algebra and Geometry · Profiles",
@@ -5834,19 +5834,51 @@
           "https://research.tue.nl/nl/organisations/applied-differential-geometry-1/persons/"
         ],
         [
+          "CASA · Data-Driven Computational Science",
+          "https://data-driven.pages.tue.nl/"
+        ],
+        [
           "CASA · Geometric Learning and Differential Geometry",
           "https://casa.win.tue.nl/home/geometric-learning-and-differential-geometry/"
+        ],
+        [
+          "Linear Algebra 1 · instructional appointments for 2026",
+          "https://research.tue.nl/p/en/courses/linear-algebra-1-7"
+        ],
+        [
+          "Discrete Algebra and Geometry · group roster",
+          "https://sites.google.com/view/appliedgeometryalgebra/home"
+        ],
+        [
+          "TU/e · Chris A.M. Peters research affiliation",
+          "https://research.tue.nl/p/en/persons/chris-am-peters"
+        ],
+        [
+          "Finsler Geometry and Gravity · organisation and personal cards",
+          "https://research.tue.nl/p/en/organisations/scze5rqmr9f2-fe38dd30-74bd-4a97-802c-e62e3f2ea854"
         ],
         [
           "Discrete Algebra and Geometry — Eindhoven University of Technology Research Portal",
           "https://research.tue.nl/p/en/organisations/discrete-algebra-and-geometry"
         ],
         [
+          "Geometric Learning & Differential Geometry · Profiles",
+          "https://research.tue.nl/en/organisations/geometric-learning-differential-geometry/persons/"
+        ],
+        [
+          "Mathematics · current organisation hierarchy",
+          "https://research.tue.nl/p/en/organisations/mathematics"
+        ],
+        [
           "数学与计算机科学（校级科研门户）",
           "https://research.tue.nl/p/en/organisations/mathematics-and-computer-science"
+        ],
+        [
+          "Mathematical Image Analysis · Profiles",
+          "https://research.tue.nl/en/organisations/mathematical-image-analysis/persons/"
         ]
       ],
-      "checkedAt": "2026-11-25"
+      "checkedAt": "2026-11-26"
     },
     {
       "id": "uchile",
@@ -17304,6 +17336,190 @@
       "recordStatus": "directory"
     },
     {
+      "id": "andrea-fuster",
+      "name": "Andrea Fuster",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "eindhoven",
+          "department": "数学系",
+          "title": "Associate Professor",
+          "url": "https://www.tue.nl/en/research/researchers/andrea-fuster",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "已查 TU/e 校级研究者页、Pure 英荷个人页与精确学术检索。校级卡连到 Pure，未找到单独维护的学术主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "检查 TU/e 主站和 Pure 英荷具名卡、Google Scholar 和公开学术搜索。校方提供教育和履历概况，无独立公开 CV。",
+      "publicationsUrl": "https://www.tue.nl/en/research/researchers/andrea-fuster",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "机构与 DOI 匹配的 OpenAlex 主档缺本人博士论文，另档 A5160553899 收录。已核本人 Google Scholar 的校邮域及 Finsler 和影像代表作，引用采用该公开 All 栏。学校成果分类旧页直连返回 403，主站只列 Key Publications，待完整论文数。",
+      "metrics": [
+        {
+          "source": "Google Scholar",
+          "authorId": "fG_rL6UAAAAJ",
+          "url": "https://scholar.google.com/citations?user=fG_rL6UAAAAJ&hl=en",
+          "checkedAt": "2026-11-26",
+          "citations": 1692,
+          "hIndex": 18,
+          "citationScope": "Google Scholar 作者档案 All 栏"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5074521294",
+      "papers": [
+        {
+          "title": "Identifying Berwald Finsler geometries",
+          "year": 2021,
+          "url": "https://doi.org/10.1016/j.difgeo.2021.101817"
+        },
+        {
+          "title": "Finsler pp-waves",
+          "year": 2016,
+          "url": "https://doi.org/10.1103/PhysRevD.94.104072"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, pseudo-Finsler geometry, Berwald spacetimes and differential geometry for diffusion MRI",
+          "url": "https://www.tue.nl/en/research/researchers/andrea-fuster"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "bart-m-n-smets",
+      "name": "Bart M.N. Smets",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "eindhoven",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://research.tue.nl/p/en/persons/bart-mn-smets",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://bmnsmets.com/",
+      "homepageStatus": null,
+      "cvUrl": "https://bmnsmets.com/files/cv.pdf",
+      "cvType": "公开 CV（2024-09-30 版本）",
+      "cvStatus": null,
+      "publicationsUrl": "https://bmnsmets.com/publications.html",
+      "publicationCounts": [
+        {
+          "value": 9,
+          "url": "https://research.tue.nl/en/persons/bart-mn-smets/",
+          "checkedAt": "2026-11-26",
+          "scope": "TU/e 科研门户旧版索引 2019–2026 的 Article 分类，会议贡献、预印本和博士论文另列。"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "OpenAlex 此 ID 虽与 ORCID 相同，高引项却混有 2006–2013 年酵母、药理文章以及 Johnson & Johnson 机构。CV 时间线及学校论文与这批生医成果不符。Google Scholar 校邮域、本人页链接与两篇数学 DOI 相符，保存 All 引用。以机构明确分类补计文章，个人书目只作作品佐证。",
+      "metrics": [
+        {
+          "source": "Google Scholar",
+          "authorId": "bdwb_HAAAAAJ",
+          "url": "https://scholar.google.com/citations?user=bdwb_HAAAAAJ&hl=en",
+          "checkedAt": "2026-11-26",
+          "citations": 289,
+          "hIndex": 10,
+          "citationScope": "Google Scholar 作者档案 All 栏"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5103105299",
+      "papers": [
+        {
+          "title": "PDE-based Group Equivariant Convolutional Neural Networks",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s10851-022-01114-x"
+        },
+        {
+          "title": "Total Variation and Mean Curvature PDEs on the Homogeneous Space of Positions and Orientations",
+          "year": 2020,
+          "url": "https://doi.org/10.1007/s10851-020-00991-4"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis on Lie groups and homogeneous spaces, sub-Riemannian geometry and geometric PDEs",
+          "url": "https://bmnsmets.com/publications.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "hans-j-m-sterk",
+      "name": "Hans J.M. Sterk",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "eindhoven",
+          "department": "数学系",
+          "title": "University Lecturer",
+          "url": "https://research.tue.nl/p/en/persons/hans-jm-sterk",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://sterk.win.tue.nl/index.html",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查本人框架内的 Address、Selected Publications 页面和 TU/e 英荷具名档案，研究分栏链接不可读取，未发现独立可读 CV。",
+      "publicationsUrl": "https://sterk.win.tue.nl/publicaties.html",
+      "publicationCounts": [
+        {
+          "value": 14,
+          "url": "https://research.tue.nl/en/persons/hans-jm-sterk/",
+          "checkedAt": "2026-11-26",
+          "scope": "TU/e 科研门户 1991–2024 的公开 Article 类型。已查归档分类计数，出版商版本与预印本分类分列。"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "同校多档。A5000615750 收录与 Cuypers、Perrenet 的成果，A5159057234 收录与 Peters 的 2026 预印本。逐查本人 Selected Publications、Pure 和 Scholar，教育成果与几何成果分属不同档案。保留 TU/e 明确分类的期刊条目数，累计引文待消歧。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5037864392",
+      "papers": [
+        {
+          "title": "Finiteness results for algebraic K3 surfaces",
+          "year": 1985,
+          "url": "https://doi.org/10.1007/bf01168156"
+        },
+        {
+          "title": "Compactifications of the period space of Enriques surfaces Part I",
+          "year": 1991,
+          "url": "https://doi.org/10.1007/bf02571372"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of K3 surfaces, Enriques surfaces, period-space compactifications and complete intersections of quadrics",
+          "url": "https://sterk.win.tue.nl/publicaties.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
       "id": "luc-m-j-florack",
       "name": "Luc M. J. Florack",
       "aliases": [],
@@ -17314,7 +17530,7 @@
           "title": "Full Professor in Applied Differential Geometry",
           "url": "https://research.tue.nl/p/en/persons/luc-mj-florack",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -17325,11 +17541,11 @@
         "differential invariants",
         "multiscale geometric representations"
       ],
-      "homepage": null,
-      "homepageStatus": "已查 TU/e 具名科研档案和研究组，未确认单独维护的个人学术网站。",
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "已查 TU/e 具名英文与荷文档案及学术网页检索，未找到独立具名 CV。",
+      "homepage": "https://lflorack.win.tue.nl/",
+      "homepageStatus": null,
+      "cvUrl": "https://lflorack.win.tue.nl/Extensions/CurriculumVitaeLucFlorack.pdf",
+      "cvType": "公开 CV 与发表表（2021-03-19 版本）",
+      "cvStatus": null,
       "publicationsUrl": "https://research.tue.nl/p/en/persons/luc-mj-florack",
       "publicationCounts": [
         {
@@ -17370,7 +17586,7 @@
           "url": "https://research.tue.nl/p/en/persons/luc-mj-florack"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -17384,7 +17600,7 @@
           "title": "Full Professor of Mathematics",
           "url": "https://research.tue.nl/p/en/persons/remco-duits",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -17447,7 +17663,7 @@
           "url": "https://casa.win.tue.nl/home/geometric-learning-and-differential-geometry/"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -17461,7 +17677,7 @@
           "title": "Assistant Professor",
           "url": "https://research.tue.nl/en/persons/rob-h-eggermont/",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -17539,7 +17755,153 @@
           "url": "https://research.tue.nl/p/en/persons/rob-h-eggermont"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "samantha-fairchild",
+      "name": "Samantha Fairchild",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "eindhoven",
+          "department": "数学系",
+          "title": "Assistant Professor",
+          "url": "https://research.tue.nl/p/en/persons/samantha-fairchild",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/view/sfairchild/home",
+      "homepageStatus": null,
+      "cvUrl": "https://drive.google.com/file/d/1Ur0d-4xjrsBfEGyLujTXBBI3VfZK9QdL/view?usp=sharing",
+      "cvType": "公开 CV（本人学术页链接）",
+      "cvStatus": null,
+      "publicationsUrl": "https://sites.google.com/view/sfairchild/research",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5001923568",
+          "url": "https://openalex.org/A5001923568",
+          "orcid": "https://orcid.org/0000-0001-7265-6904",
+          "authorApiUrl": "https://api.openalex.org/authors/A5001923568",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5001923568,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 8,
+          "works": 12,
+          "citations": 60,
+          "hIndex": 4,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        },
+        {
+          "source": "Google Scholar",
+          "authorId": "5B5FvvUAAAAJ",
+          "url": "https://scholar.google.com/citations?user=5B5FvvUAAAAJ&hl=en",
+          "checkedAt": "2026-11-26",
+          "citations": 65,
+          "hIndex": 4,
+          "citationScope": "Google Scholar 作者档案 All 栏"
+        }
+      ],
+      "identityUrl": "https://openalex.org/A5001923568",
+      "papers": [
+        {
+          "title": "Crossing the Transcendental Divide: From Translation Surfaces to Algebraic Curves",
+          "year": 2023,
+          "url": "https://doi.org/10.1080/10586458.2023.2203413"
+        },
+        {
+          "title": "Counting pairs of saddle connections",
+          "year": 2023,
+          "url": "https://doi.org/10.1016/j.aim.2023.109233"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of translation surfaces and algebraic curves, moduli of Abelian differentials, Veech surfaces and Teichmüller dynamics",
+          "url": "https://www.mis.mpg.de/news/future-proof-samantha-fairchild"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://research.tue.nl/p/en/persons/samantha-fairchild"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "sjors-heefer",
+      "name": "Sjors Heefer",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "eindhoven",
+          "department": "数学系",
+          "title": "University Lecturer",
+          "url": "https://research.tue.nl/p/en/persons/sjors-heefer",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sjorsheefer.com/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查了本人主页导航、院系具名卡、论文与公开学术搜索。2024 年博士论文第 217 页附作者简介，未找到独立可读 CV。",
+      "publicationsUrl": "https://sjorsheefer.com/publications.html",
+      "publicationCounts": [
+        {
+          "value": 14,
+          "url": "https://sjorsheefer.com/publications.html",
+          "checkedAt": "2026-11-26",
+          "scope": "本人 Peer-reviewed articles 完整分栏中 2019–2026 的 14 个不同期刊 DOI，含评述及白皮书，同行的 arXiv 不另计。"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "OpenAlex ORCID 与 Finsler DOI 匹配。只有 14 个可检索条目，观察到本人 Scholar 公开索引列出的白皮书条目未在该档案列出，引用先用由本人主页链接的 Scholar All 栏。",
+      "metrics": [
+        {
+          "source": "Google Scholar",
+          "authorId": "ONwx2d8AAAAJ",
+          "url": "https://scholar.google.com/citations?user=ONwx2d8AAAAJ&hl=en",
+          "checkedAt": "2026-11-26",
+          "citations": 1050,
+          "hIndex": 11,
+          "citationScope": "Google Scholar 作者档案 All 栏"
+        }
+      ],
+      "identityUrl": "https://openalex.org/authors/A5074280651",
+      "papers": [
+        {
+          "title": "Identifying Berwald Finsler geometries",
+          "year": 2021,
+          "url": "https://doi.org/10.1016/j.difgeo.2021.101817"
+        },
+        {
+          "title": "On the metrizability of m-Kropina spaces with closed null one-form",
+          "year": 2023,
+          "url": "https://doi.org/10.1063/5.0130523"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, pseudo-Finsler geometry, Berwald spaces, Lorentzian geometry of spacetimes and mathematical relativity",
+          "url": "https://sjorsheefer.com/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
