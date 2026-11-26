@@ -943,15 +943,51 @@
     {
       "id": "epfl",
       "coverage": "sample",
-      "coverageNote": "已解析 11/16 个登记来源，16 条任职或方向待核。 已收录 4 位学者，个人主页 3、CV 2、指标 1。 核对数学博士培养 36 位导师，与数学研究所 8 个正式专题及数学、物理、化学所在基础科学学院的任职页面交叉。全校教职实名职位补证 421 张。各几何讲席与研究组具体成员、荣休和校内联合研究仍核对。",
+      "coverageNote": "已解析 15/39 个登记来源，9 条任职或方向待核。 已收录 6 位学者，个人主页 4、CV 5、指标 1。 全校 421 张职务卡，数学所独立全表 56 人（29 现任教授、4 Adjunct、1 资深研究者、22 荣休），SB 120 名教师、88 名荣休，核 EDMA 36 导师和八个数学专题。读取 CAG 6、ARG 8、CRT 4、PDE 7、AMCV 13、GCM 6、ANMATH 10 名及 MATHICSE。物理与 ANMATH 总登记仅显示首十张，变更 page 参数无效。高能理论跨机构核到 FSL、LPTP、LTFP，部分科研组聘任和全院跨组名册未完整。Moschidis 2026-08 离任，转任 NTUA 已核。Xue-Mei Li 的 EPFL 与 Imperial 持续双聘已核。",
       "rosterLinks": [
+        [
+          "Mathematical Analysis and Variational PDE · AMCV",
+          "https://www.epfl.ch/labs/amcv/amcv/members/"
+        ],
+        [
+          "Analysis group · ANMATH people",
+          "https://www.epfl.ch/labs/anmath/people/"
+        ],
+        [
+          "Arithmetic Geometry · ARG",
+          "https://www.epfl.ch/labs/arg/arg-chair-of-arithmetic-geometry/members/"
+        ],
+        [
+          "Algebraic Geometry · career opportunities",
+          "https://www.epfl.ch/labs/cag/page-135649-en-html/"
+        ],
+        [
+          "Algebraic Geometry · CAG",
+          "https://www.epfl.ch/labs/cag/page-135645-en-html/"
+        ],
+        [
+          "Mathematical General Relativity · remaining public pages",
+          "https://www.epfl.ch/labs/cmgr/cmgr/members/"
+        ],
+        [
+          "Representation Theory · CRT",
+          "https://www.epfl.ch/labs/crt/mainpage/crt-members/"
+        ],
         [
           "Mathematical Institute · Data Science and Learning",
           "https://www.epfl.ch/schools/sb/research/math/data-science-and-learning/"
         ],
         [
+          "EDMA · open doctoral projects",
+          "https://www.epfl.ch/education/phd/edma-mathematics/edma-open-positions/"
+        ],
+        [
           "Mathematics Doctoral School · EDMA Thesis Directors",
           "https://www.epfl.ch/education/phd/edma-mathematics/edma-thesis-directors/"
+        ],
+        [
+          "School of Basic Sciences · emeriti",
+          "https://www.epfl.ch/schools/sb/about/emeritus-professors/"
         ],
         [
           "EPFL Faculty Members (421 institutional cards)",
@@ -962,8 +998,36 @@
           "https://www.epfl.ch/research/faculty-members/"
         ],
         [
+          "Fields and Strings Laboratory",
+          "https://www.epfl.ch/labs/fsl/"
+        ],
+        [
+          "Geometric Computing Laboratory · team",
+          "https://www.epfl.ch/labs/gcm/team/"
+        ],
+        [
           "数学研究所 Geometry and Topology",
           "https://www.epfl.ch/schools/sb/research/math/research/geometry/"
+        ],
+        [
+          "Interdisciplinary High Energy Theory",
+          "https://www.epfl.ch/labs/het/"
+        ],
+        [
+          "Institute of Mathematics · adjunct professors",
+          "https://www.epfl.ch/schools/sb/research/math/faculty_new/"
+        ],
+        [
+          "Institute of Mathematics · current professors",
+          "https://www.epfl.ch/schools/sb/research/math/faculty_new/"
+        ],
+        [
+          "Institute of Mathematics · professors emeriti",
+          "https://www.epfl.ch/schools/sb/research/math/faculty_new/"
+        ],
+        [
+          "Institute of Mathematics · current senior scientist",
+          "https://www.epfl.ch/schools/sb/research/math/faculty_new/"
         ],
         [
           "ANMATH Chairs",
@@ -1006,11 +1070,39 @@
           "https://www.epfl.ch/labs/mathicse/chairs/"
         ],
         [
+          "Computational Science and Engineering · MATHICSE",
+          "https://www.epfl.ch/labs/mathicse/membres/"
+        ],
+        [
+          "ETH Board · EPFL departures 2026",
+          "https://www.bag.admin.ch/en/newnsb/zjyowJECuGkblhupmGZs5"
+        ],
+        [
+          "National Technical University of Athens · Math Faculty elector list",
+          "https://www.semfe.ntua.gr/api/documents/file/k2-attachment-2834-semfe-eklogikos-katalogos-dep-to.pdf"
+        ],
+        [
+          "Partial Differential Equations · PDE",
+          "https://www.epfl.ch/labs/pde/people/"
+        ],
+        [
           "数学研究所 People",
           "https://www.epfl.ch/schools/sb/research/math/statistics-people/"
+        ],
+        [
+          "Physics Institute · faculty display",
+          "https://www.epfl.ch/schools/sb/research/iphys/professeurs/"
+        ],
+        [
+          "Physics Institute · Astrophysics and Particle Physics",
+          "https://www.epfl.ch/schools/sb/research/iphys/astrophysics-and-particle-physics/"
+        ],
+        [
+          "School of Basic Sciences · faculty",
+          "https://www.epfl.ch/schools/sb/about/faculty/"
         ]
       ],
-      "checkedAt": "2026-11-25"
+      "checkedAt": "2026-11-26"
     },
     {
       "id": "nyu",
@@ -1371,7 +1463,7 @@
     {
       "id": "imperial",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，23 条任职或方向待核。 已收录 3 位学者，个人主页 2、CV 0、指标 3。",
+      "coverageNote": "已解析 1/3 个登记来源，23 条任职或方向待核。 已收录 4 位学者，个人主页 3、CV 1、指标 4。",
       "rosterLinks": [
         [
           "Members",
@@ -19501,66 +19593,133 @@
     {
       "id": "andrei-negut",
       "name": "Andrei Negut",
-      "aliases": [],
+      "aliases": [
+        "Andrei Neguț",
+        "Andrei Neguţ"
+      ],
       "affiliations": [
         {
           "schoolId": "epfl",
-          "department": "数学系",
-          "title": "Associate Professor",
+          "department": "Institute of Mathematics",
+          "title": "Associate Professor and Chair of Representation Theory",
           "url": "https://people.epfl.ch/andrei.negut?lang=en",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [],
-      "homepage": "https://people.epfl.ch/andrei.negut?lang=en",
+      "homepage": "https://www.andreinegut.com/",
       "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "cvUrl": "https://drive.google.com/file/d/1ZFGGJDEv8or5NqQvCtPcGtbMEAtHcpQj/view?usp=sharing",
+      "cvType": "公开学术 CV（个人主页直链，2026）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.andreinegut.com/papers",
+      "publicationCounts": [
         {
-          "text": "Chair of Representation Theory (CRT) We explore the symmetries underlying a great variety of mathematical objects, of geometric, algebraic, combinatorial or topological origin, as inspired by mathematical physics.",
-          "url": "https://www.epfl.ch/schools/sb/research/math/research/geometry/"
-        },
-        {
-          "text": "We explore the symmetries underlying a great variety of mathematical objects, of geometric, algebraic, combinatorial or topological origin, as inspired by mathematical physics.",
-          "url": "https://www.epfl.ch/schools/sb/research/math/research/geometry/"
-        },
-        {
-          "text": "We explore the symmetries underlying a great variety of mathematical objects, of geometric, algebraic, combinatorial or topological origin, as inspired by mathematical physics.",
-          "url": "https://www.epfl.ch/schools/sb/research/math/research/algebra/"
-        },
-        {
-          "text": "Algebraic geometry and geometric representation theory of moduli spaces",
-          "url": "https://www.epfl.ch/labs/crt/"
+          "value": 41,
+          "url": "https://openalex.org/A5005686675",
+          "scope": "本人具名 OpenAlex 完整作品查询 73 项，按可归属的正式刊物 DOI 去重，排除报告、预印本、无 DOI 或独立书章。覆盖该索引。",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "opportunities": [],
+      "identityNote": "CRT、个人 Papers、ORCID 和 Hilbert schemes 正式刊物互核。完整作品页有不同条目口径及版本。 OpenAlex 作者档案 79 项与作品 73 项不一致，累计引用覆盖待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Refined knot invariants and Hilbert schemes",
+          "year": 2015,
+          "url": "https://doi.org/10.1016/j.matpur.2015.03.003"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and geometric representation theory of moduli of sheaves, quiver varieties, Hilbert schemes and Hall algebras",
+          "url": "https://www.andreinegut.com/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
-      "id": "daniel-kressner",
-      "name": "Daniel Kressner",
+      "id": "dimitri-wyss",
+      "name": "Dimitri Wyss",
+      "aliases": [
+        "Dimitri Stelio Wyss"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "epfl",
+          "department": "Institute of Mathematics",
+          "title": "Associate Professor and Chair of Arithmetic Geometry",
+          "url": "https://people.epfl.ch/dimitri.wyss?lang=en",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "先前 /prof-dimitri-wyss/ 路径现 404。有效讲席页与校名片支持当前证据。",
+      "cvUrl": "https://www.epfl.ch/labs/arg/wp-content/uploads/2022/09/CV-Dimitri-Wyss-2022.pdf",
+      "cvType": "公开学术 CV（2022）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.epfl.ch/labs/arg/arg-chair-of-arithmetic-geometry/publications/",
+      "publicationCounts": [
+        {
+          "value": 6,
+          "url": "https://openalex.org/A5031979781",
+          "scope": "本人具名 OpenAlex 完整作品查询 11 项，按可归属的正式刊物 DOI 去重，排除报告、预印本、无 DOI 或独立书章。覆盖该索引。 按系书目、正式 DOI 和具名署名加入未关联 OpenAlex 作者 ID 的 Hitchin 纤维论文。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "EPFL 和本人 ORCID、JAMS DOI 互证。公开正式 Hitchin 纤维论文的作者名未连 OpenAlex ID，已将该 DOI 加入独立计数。 OpenAlex 作者档案 14 项与作品 11 项不一致，累计引用覆盖待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Motivic integration on the Hitchin fibration",
+          "year": 2021,
+          "url": "https://doi.org/10.14231/AG-2021-004"
+        },
+        {
+          "title": "Geometric stabilisation via p-adic integration",
+          "year": 2019,
+          "url": "https://doi.org/10.1090/jams/948"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and arithmetic geometry of moduli, mirror symmetry, p-adic and motivic integration, and geometric Langlands",
+          "url": "https://www.epfl.ch/labs/arg/"
+        },
+        {
+          "text": "个人研究或论文来源",
+          "url": "https://people.epfl.ch/dimitri.wyss?lang=en"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "joachim-krieger",
+      "name": "Joachim Krieger",
       "aliases": [],
       "affiliations": [
         {
           "schoolId": "epfl",
-          "department": "数学系",
-          "title": "Full Professor",
-          "url": "https://people.epfl.ch/daniel.kressner?lang=en",
+          "department": "Institute of Mathematics",
+          "title": "Full Professor of Mathematics",
+          "url": "https://people.epfl.ch/joachim.krieger?lang=en",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -19571,92 +19730,165 @@
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "cvStatus": "本人 EPFL 具名卡提供简历式经历，讲席主页和出版栏目可读。尚无独立公开 CV。",
+      "publicationsUrl": "https://www.epfl.ch/labs/pde/fr/publications-2/",
+      "publicationCounts": [
         {
-          "text": "Numerical linear algebra and high-performance computing, low-rank matrix and tensor techniques, computational differential geometry, eigenvalue problems, high-performance computing, and model reduction.",
-          "url": "https://www.epfl.ch/schools/sb/research/math/research/computationalsciences/"
-        },
-        {
-          "text": "Numerical linear algebra and high-performance computing, low-rank matrix and tensor techniques, computational differential geometry, eigenvalue problems, high-performance computing, and model reduction.",
-          "url": "https://www.epfl.ch/schools/sb/research/math/data-science-and-learning/"
+          "value": 51,
+          "url": "https://openalex.org/A5110558542",
+          "scope": "本人具名 OpenAlex 完整作品查询 69 项，按可归属的正式刊物 DOI 去重，排除报告、预印本、无 DOI 或独立书章。覆盖该索引。",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "checkedAt": "2026-11-25",
-      "recordStatus": "directory"
-    },
-    {
-      "id": "dimitri-wyss",
-      "name": "Dimitri Wyss",
-      "aliases": [],
-      "affiliations": [
-        {
-          "schoolId": "epfl",
-          "department": "数学系",
-          "title": "Associate Professor",
-          "url": "https://people.epfl.ch/dimitri.wyss?lang=en",
-          "type": "primary",
-          "checkedAt": "2026-11-25"
-        }
-      ],
-      "fields": [
-        "algebraic",
-        "complex"
-      ],
-      "tags": [
-        "motivic integration"
-      ],
-      "homepage": "https://www.epfl.ch/labs/arg/prof-dimitri-wyss/",
-      "homepageStatus": null,
-      "cvUrl": "https://www.epfl.ch/labs/arg/wp-content/uploads/2022/09/CV-Dimitri-Wyss-2022.pdf",
-      "cvType": "公开学术 CV（2022 版）",
-      "cvStatus": null,
-      "publicationsUrl": "https://www.epfl.ch/labs/arg/arg-chair-of-arithmetic-geometry/publications/",
-      "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已核 EPFL 任职、公开 ORCID 及两篇正式 DOI。OpenAlex A5031979781 对应刊载于 JAMS 的论文，Hitchin fibration 正式条目上作者未挂 ID，现有档案的累计引用待核。",
+      "identityNote": "数学研究组、2007 几何波正式 DOI 和相关合著者核人。旧组书目含学生学位论文和组成员成果。 OpenAlex 作者档案 86 项与作品 69 项不一致，累计引用覆盖待核。",
       "metrics": [],
       "identityUrl": null,
       "papers": [
         {
-          "title": "Motivic integration on the Hitchin fibration",
-          "url": "https://doi.org/10.14231/AG-2021-004"
-        },
-        {
-          "title": "Geometric stabilisation via p-adic integration",
-          "url": "https://doi.org/10.1090/jams/948"
+          "title": "Renormalization and blow up for charge one equivariant critical wave maps",
+          "year": 2007,
+          "url": "https://doi.org/10.1007/s00222-007-0089-3"
         }
       ],
       "directoryEvidence": [
         {
-          "text": "Chair of Arithmetic Geometry (ARG) We study the topology of algebraic varieties through arithmetic methods such as counting points and p-adic/motivic integration. Of particular interest are connections to other fields such as complex geometry, representation theory and theoretical physics.",
-          "url": "https://www.epfl.ch/schools/sb/research/math/research/geometry/"
-        },
-        {
-          "text": "We study the topology of algebraic varieties through arithmetic methods such as counting points and p-adic/motivic integration. Of particular interest are connections to other fields such as complex geometry, representation theory and theoretical physics.",
-          "url": "https://www.epfl.ch/schools/sb/research/math/research/geometry/"
-        },
-        {
-          "text": "We study the topology of algebraic varieties through arithmetic methods such as counting points and p-adic/motivic integration. Of particular interest are connections to other fields such as complex geometry, representation theory and theoretical physics.",
-          "url": "https://www.epfl.ch/schools/sb/research/math/research/algebra/"
-        },
-        {
-          "text": "Arithmetic geometry, moduli spaces, algebraic geometry and p-adic and motivic integration",
-          "url": "https://www.epfl.ch/labs/arg/"
-        },
-        {
-          "text": "个人研究或论文来源",
-          "url": "https://people.epfl.ch/dimitri.wyss?lang=en"
+          "text": "Differential geometry and geometric analysis of wave maps, geometric wave equations, singularities and dispersive PDE",
+          "url": "https://www.epfl.ch/labs/pde/"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "maria-colombo",
+      "name": "Maria Colombo",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "epfl",
+          "department": "Institute of Mathematics",
+          "title": "Full Professor of Mathematics",
+          "url": "https://people.epfl.ch/maria.colombo?lang=en",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.epfl.ch/labs/amcv/amcv/prof-maria-colombo/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.epfl.ch/labs/amcv/amcv/prof-maria-colombo/cv/",
+      "cvType": "公开学术 CV（院系 HTML 旧版）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.epfl.ch/labs/amcv/amcv/prof-maria-colombo/publications/",
+      "publicationCounts": [
+        {
+          "value": 71,
+          "url": "https://openalex.org/A5065229312",
+          "scope": "本人具名 OpenAlex 完整作品查询 141 项，按可归属的正式刊物 DOI 去重，排除报告、预印本、无 DOI 或独立书章。覆盖该索引。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [
+        {
+          "label": "EPFL AMCV 变分方法与 PDE 博士",
+          "type": "博士",
+          "deadline": "2026-12-01",
+          "status": "招生公告在招",
+          "checkedAt": "2026-11-26",
+          "url": "https://www.epfl.ch/education/phd/edma-mathematics/edma-open-positions/"
+        }
+      ],
+      "identityNote": "EPFL 审定教学、JEMS 署名 ORCID 与变分作品确认。近名 A5103029156 为医学自噬、免疫及疾病研究者。正确作品中包含同一专书的许多章节。 OpenAlex 作者档案 163 项与作品 141 项不一致，累计引用覆盖待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Optimal regularity for the fully nonlinear thin obstacle problem",
+          "year": 2025,
+          "url": "https://doi.org/10.4171/JEMS/1445"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis of free boundaries, geometric measure theory, calculus of variations and transport",
+          "url": "https://www.epfl.ch/labs/amcv/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "xue-mei-li",
+      "name": "Xue-Mei Li",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "epfl",
+          "department": "Institute of Mathematics",
+          "title": "Full Professor and Chair of Stochastic Analysis",
+          "url": "https://people.epfl.ch/xue-mei.li?lang=en",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        },
+        {
+          "schoolId": "imperial",
+          "title": "Chair in Probability and Stochastic Analysis",
+          "department": "Department of Mathematics",
+          "url": "https://profiles.imperial.ac.uk/xue-mei.li",
+          "checkedAt": "2026-11-26",
+          "type": "secondary"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://xuemei.org/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.xuemei.org/cv_Xue-Mei-Li.pdf",
+      "cvType": "公开学术 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.xuemei.org/bib-by-topics.html",
+      "publicationCounts": [
+        {
+          "value": 42,
+          "url": "https://openalex.org/A5100420291",
+          "scope": "ORCID 对应的具名 OpenAlex 作品查询 104 项内，按不同正式文章 DOI 去重；预印本、书、独立书章、会议论文另列。覆盖该索引内可验证的范围。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "Imperial 当前档及个人 ORCID 互证。OpenAlex 作者 116 和作品查询 104。Scholar 由本人独立网站链接，EPFL 验证单位、Imperial 和高引作品一致。",
+      "metrics": [
+        {
+          "source": "Google Scholar",
+          "authorId": "dUfhfwYAAAAJ",
+          "url": "https://scholar.google.com/citations?user=dUfhfwYAAAAJ&hl=en",
+          "checkedAt": "2026-11-26",
+          "citations": 2194,
+          "hIndex": 23,
+          "citationScope": "Google Scholar 作者页 All 列。作者主页直链，公开署名含 EPFL 和 Imperial College London。"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Formulae for the derivatives of heat semigroups",
+          "year": 1994,
+          "url": "https://doi.org/10.1006/jfan.1994.1124"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and stochastic analysis on manifolds, geometric stochastic analysis, path-space geometry and diffusion operators",
+          "url": "https://www.epfl.ch/labs/stoan/professor-xue-mei-li/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -19666,11 +19898,11 @@
       "affiliations": [
         {
           "schoolId": "epfl",
-          "department": "数学系",
-          "title": "Associate Professor",
+          "department": "Institute of Mathematics",
+          "title": "Associate Professor and Chair of Algebraic Geometry",
           "url": "https://people.epfl.ch/zsolt.patakfalvi?lang=en",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -19681,60 +19913,64 @@
       "homepage": "https://www.epfl.ch/labs/cag/patakfalvi/",
       "homepageStatus": null,
       "cvUrl": "https://www.epfl.ch/labs/cag/wp-content/uploads/2021/10/CV.pdf",
-      "cvType": "公开学术 CV（2021 院系存档）",
+      "cvType": "公开学术 CV（旧版，现任以学校目录为准）",
       "cvStatus": null,
-      "publicationsUrl": null,
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
-      "metrics": [
+      "publicationsUrl": "https://www.epfl.ch/labs/cag/page-135646-en-html/",
+      "publicationCounts": [
         {
-          "source": "OpenAlex",
-          "authorId": "A5021889008",
-          "orcid": "https://orcid.org/0000-0002-7536-9203",
-          "url": "https://openalex.org/authors/A5021889008",
-          "authorApiUrl": "https://api.openalex.org/authors/A5021889008",
-          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5021889008,type:article&per_page=1&select=id",
-          "checkedAt": "2026-11-23",
-          "articles": 26,
-          "works": 49,
-          "citations": 1029,
-          "hIndex": 20,
-          "articleScope": "OpenAlex type:article",
-          "citationScope": "OpenAlex 作者档案累计引用"
+          "value": 25,
+          "url": "https://openalex.org/A5021889008",
+          "scope": "本人具名 OpenAlex 完整作品查询 43 项，按可归属的正式刊物 DOI 去重，排除报告、预印本、无 DOI 或独立书章。覆盖该索引。",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "identityUrl": null,
+      "opportunities": [
+        {
+          "label": "EPFL CAG 代数几何博士后",
+          "type": "博士后",
+          "status": "讲席页面列在招一席，独立公告详核",
+          "checkedAt": "2026-11-26",
+          "url": "https://www.epfl.ch/labs/cag/page-135649-en-html/"
+        },
+        {
+          "label": "EPFL CAG 代数几何博士",
+          "type": "博士",
+          "status": "讲席页面列 12 月 15 日轮次",
+          "checkedAt": "2026-11-26",
+          "url": "https://www.epfl.ch/education/phd/edma-mathematics/edma-open-positions/"
+        }
+      ],
+      "identityNote": "院方数学名录和 CAG CV 与 JAMS 和 Inventiones 正式刊本互核。档案出版类型混列。 OpenAlex 作者档案 49 项与作品 43 项不一致，累计引用覆盖待核。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5021889008",
       "papers": [
         {
           "title": "Fibered stable varieties",
           "year": 2015,
           "url": "https://doi.org/10.1090/tran/6386"
+        },
+        {
+          "title": "Projectivity of the moduli space of stable log-varieties and subadditivity of log-Kodaira dimension",
+          "year": 2017,
+          "url": "https://doi.org/10.1090/jams/871"
+        },
+        {
+          "title": "Positivity of the CM line bundle for families of K-stable klt Fano varieties",
+          "year": 2021,
+          "url": "https://doi.org/10.1007/s00222-020-00999-y"
         }
       ],
       "directoryEvidence": [
         {
-          "text": "Chair of Algebraic Geometry (CAG) The main focus of the Chair of Algebraic Geometry is the classification theory of higher dimensional algebraic varieties, including exploring its connections to adjacent fields such as commutative algebra, arithmetic geometry and complex geometry.",
-          "url": "https://www.epfl.ch/schools/sb/research/math/research/geometry/"
-        },
-        {
-          "text": "The main focus of the Chair of Algebraic Geometry is the classification theory of higher dimensional algebraic varieties, including exploring its connections to adjacent fields such as commutative algebra, arithmetic geometry and complex geometry.",
-          "url": "https://www.epfl.ch/schools/sb/research/math/research/geometry/"
-        },
-        {
-          "text": "The main focus of the Chair of Algebraic Geometry is the classification theory of higher-dimensional algebraic varieties, including exploring its connections to adjacent fields such as commutative algebra, arithmetic geometry and complex geometry.",
-          "url": "https://www.epfl.ch/schools/sb/research/math/research/algebra/"
-        },
-        {
-          "text": "Algebraic geometry, singularities, birational geometry and moduli theory",
-          "url": "https://www.epfl.ch/labs/cag/"
+          "text": "Algebraic geometry and complex geometry, moduli of stable varieties, K-stability, Fano varieties, and birational geometry",
+          "url": "https://www.epfl.ch/labs/cag/patakfalvi/"
         },
         {
           "text": "个人研究或论文来源",
           "url": "https://people.epfl.ch/zsolt.patakfalvi"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
