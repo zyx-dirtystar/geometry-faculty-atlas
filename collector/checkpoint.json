@@ -6162,6 +6162,146 @@
       "note": "已核 4 条具名团队档案。交叉检查主聘、博士后、历史和联属。"
     },
     {
+      "id": "melb-analysis26",
+      "school": "melbourne",
+      "url": "https://analysis.science.unimelb.edu.au/home/people/",
+      "label": "Analysis, Geometry and PDE · Members",
+      "status": "reference",
+      "count": 4,
+      "checked_at": "2026-11-26",
+      "note": "官方独立组站人员：现任教员三位、具名博士后一位，另列当期及过去博士学生。公开个人档用于核对任职变化。"
+    },
+    {
+      "id": "melb-applied26",
+      "school": "melbourne",
+      "url": "https://ms.unimelb.edu.au/research/applied-mathematics-and-mathematical-biology/people",
+      "label": "Applied Mathematics and Mathematical Biology · people",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "旧路径转至现行专题入口，People 子页直连 403，校方索引读取不稳定。以学院主名录的 Applied Mathematics and Mathematical Biology 标签、导师表及学者本人站交叉。"
+    },
+    {
+      "id": "melb-discrete26",
+      "school": "melbourne",
+      "url": "https://ms.unimelb.edu.au/research/discrete-mathematics/people",
+      "label": "Discrete Mathematics · people",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "具名 People 页直连 403、公开索引超时；学科首页及主名录的研究分组、现任导师表和本人学术页用于交叉。"
+    },
+    {
+      "id": "melb-edu26",
+      "school": "melbourne",
+      "url": "https://ms.unimelb.edu.au/research/education/people",
+      "label": "Mathematics and Statistics Education · people",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "直连 403、公开索引有栏目名。对照院系职级、研究招生手册及教育组具名研究，如拓扑研究者 TriThang Tran。"
+    },
+    {
+      "id": "melb-emeriti26",
+      "school": "melbourne",
+      "url": "https://about.unimelb.edu.au/notable-alumni-staff/emeriti",
+      "label": "University of Melbourne · Emeritus professors",
+      "status": "reference",
+      "count": 2,
+      "checked_at": "2026-11-26",
+      "note": "校级理学院公开荣休名单中两个具名数学学者卡，与纯数学和拓扑组及院士资料交叉。"
+    },
+    {
+      "id": "melb-honorary26",
+      "school": "melbourne",
+      "url": "https://ms.unimelb.edu.au/people/honorary-staff",
+      "label": "School of Mathematics and Statistics · Honorary staff",
+      "status": "reference",
+      "count": 16,
+      "checked_at": "2026-11-26",
+      "note": "直连 403，校方公开索引全表为 16 条，逐名同院系和校级荣休交叉。名誉职称、原任常设职称及退任分开。"
+    },
+    {
+      "id": "melb-macsys26",
+      "school": "melbourne",
+      "url": "https://macsys.org/about_macsys/people/",
+      "label": "ARC CoE for the Mathematical Analysis of Cellular Systems · Our Members",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-26",
+      "note": "联合研究中心直接访问 TLS EOF；中心公开成员索引及本人当前主页同时确认 MACSYS 的墨大博士后。"
+    },
+    {
+      "id": "melb-mathphys26",
+      "school": "melbourne",
+      "url": "https://ms.unimelb.edu.au/research/mathematical-physics/people",
+      "label": "Mathematical Physics · people & official prospectus",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "直连 403，公开索引可读到具名分组片段，索引正文请求超时。以学院 2026 公开研究手册、数学师资和物理官方分栏及个人网站逐名交叉；独立数学物理全页待验证。"
+    },
+    {
+      "id": "melb-matrix-about26",
+      "school": "melbourne",
+      "url": "https://www.matrix-inst.org.au/about-us/",
+      "label": "MATRIX · partner universities and residential institute",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "研究所本身为多校合作住宅式科研项目，现任岗位依具名成员所在院系，短期访问由各项目时间和主职来源确定。"
+    },
+    {
+      "id": "melb-matrix-exec26",
+      "school": "melbourne",
+      "url": "https://www.matrix-inst.org.au/contact/",
+      "label": "MATRIX · Executive staff and short visits via programs",
+      "status": "reference",
+      "count": 3,
+      "checked_at": "2026-11-26",
+      "note": "机构公布三位主任及协调员。合作机构身份与墨大长聘分开，短访使用具体公开项目和日期。"
+    },
+    {
+      "id": "melb-matrix-gov26",
+      "school": "melbourne",
+      "url": "https://www.matrix-inst.org.au/governance/",
+      "label": "MATRIX · Governance, host partnership and board",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "直接读取治理名录及 Advisory Board、公开联系名单。Jan de Gier 为墨大主任，其他院校合作管理按各自主聘；住宿科研活动参加者为短访。"
+    },
+    {
+      "id": "melb-phys-theory26",
+      "school": "melbourne",
+      "url": "https://physics.unimelb.edu.au/research/research-groups-and-centres/research-groups/theoretical-particle-physics",
+      "label": "School of Physics · Theoretical Particle Physics",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "直连 403，已使用物理学院三分栏全名册、数学物理公开手册及具名机构档交叉。"
+    },
+    {
+      "id": "melb-physics26",
+      "school": "melbourne",
+      "url": "https://physics.unimelb.edu.au/about/people/academic-staff",
+      "label": "School of Physics · Academic staff",
+      "status": "reference",
+      "count": 65,
+      "checked_at": "2026-11-26",
+      "note": "直接 403，校方可读索引三分栏全表：科研 29 人、科教 31 人、教学 5 人。复核理论粒子、量子信息和跨数学联合人员。"
+    },
+    {
+      "id": "melb-prospectus26",
+      "school": "melbourne",
+      "url": "https://science.unimelb.edu.au/__data/assets/pdf_file/0004/4037071/2026-Maths-and-Stats-ResearchProspectus-FINAL.pdf",
+      "label": "Faculty of Science · 2026 Maths and Stats Research Prospectus",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "机构 PDF 直连 403，公开索引可读关键具名节。与当前学校名录、招生导师及跨院物理职务核对。"
+    },
+    {
       "id": "melb-pure-b35",
       "school": "melbourne",
       "url": "https://ms.unimelb.edu.au/research/pure-mathematics/people",
@@ -6170,6 +6310,56 @@
       "count": 29,
       "checked_at": "2026-11-25",
       "note": "纯数学分组学术栏 29 条。单列该站下方博士生。方向逐人用具名档案匹配。"
+    },
+    {
+      "id": "melb-reptheory26",
+      "school": "melbourne",
+      "url": "https://representationtheory.science.unimelb.edu.au/",
+      "label": "Representation theory · Melbourne people and research",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "直接核对数学表示论组具名档、现行研究方向及各自论文。代数簇的奇点与层、几何表示论文及数学物理应用分开。"
+    },
+    {
+      "id": "melb-stats26",
+      "school": "melbourne",
+      "url": "https://ms.unimelb.edu.au/research/statistics/people",
+      "label": "Statistics · Staff",
+      "status": "reference",
+      "count": 25,
+      "checked_at": "2026-11-26",
+      "note": "直连 403，校方公开索引 Academic staff 段 25 位；与数学全名册和导师分组交叉。随机矩阵、统计形状和应用组分开。"
+    },
+    {
+      "id": "melb-topology-visitors26",
+      "school": "melbourne",
+      "url": "https://topology.science.unimelb.edu.au/sample-page/visitors/",
+      "label": "Melbourne Topology · past and scheduled visitors",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "拓扑组具名访客页分时间列短访，和研究组 Members、Emeritus、Related Areas 分列。"
+    },
+    {
+      "id": "melb-topology26",
+      "school": "melbourne",
+      "url": "https://topology.science.unimelb.edu.au/sample-page/people/",
+      "label": "Melbourne Topology · Members, Emeritus and Related Areas",
+      "status": "reference",
+      "count": 6,
+      "checked_at": "2026-11-26",
+      "note": "检查拓扑组的 Members、Emeritus Members 及 Researchers in Related Areas 分栏，交叉几何结构与纯拓扑方向。"
+    },
+    {
+      "id": "melb-vicgap26",
+      "school": "melbourne",
+      "url": "https://vicgap.org/",
+      "label": "Victorian Geometry, Analysis and PDE Network · affiliated sites",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "联合网络连接墨大、Monash、La Trobe 等，各成员身份回到所属大学；跨校研讨会参加不作为任职依据。"
     },
     {
       "id": "melbourne-alternate-geometry",
@@ -452058,22 +452248,8 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://ms.unimelb.edu.au/people/profile?id=2664",
-      "cache_id": "profile-d8c0e76517514710",
-      "status": "source_error",
-      "record": null,
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://ms.unimelb.edu.au/people/profile?id=498",
       "cache_id": "profile-2d019774eb2a6666",
-      "status": "source_error",
-      "record": null,
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://ms.unimelb.edu.au/people/profile?id=54",
-      "cache_id": "profile-5641dbc4a63c19d3",
       "status": "source_error",
       "record": null,
       "checked_at": "2026-11-24"
