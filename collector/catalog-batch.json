@@ -6959,7 +6959,7 @@
     {
       "id": "nust",
       "coverage": "sample",
-      "coverageNote": "已解析 3/17 个登记来源，0 条任职或方向待核。 已收录 3 位学者，个人主页 0、CV 3、指标 3。 已查自然科学学院数学研究组和 2025–26 课程表，几何教学证据已经与研究任职区分。现任几何相关研究方向与联聘仍待核。 SNS 当期 17 人清单与六个数学研究专题 24 名具名成员交叉。SEECS 数学与通识单位另查。以 Noether 对称、曲率内在不变量、时空的等平均曲率叶状结构等代表作确认几何方向；课程表独立为教学资料。 续查 CEME 微分方程组两表去重 9 位、计算数学组去重 7 位，按具名信息区分联属与主聘。补核 SMME、SEECS 交叉与 Asghar Qadir 历史荣休。三位已入库学者的 Qalam CV 均能公开下载且姓名、学校和任职与现行资料一致。另登记校方专业与校区总表及 MCS 名录入口，PNEC、MCS、Balochistan 和其他工学院的跨院成员仍待逐一核完。",
+      "coverageNote": "已解析 3/25 个登记来源，0 条任职或方向待核。 已收录 4 位学者，个人主页 1、CV 3、指标 4。 主校 SNS 17 张数学卡、六研究组 24 位、CEME 微分方程组 9 位及计算数学组 7 位已比对。卡拉奇 PNEC 直读 299 张重复展示卡、按名称整理 151，基础及工程科学具名 44 档访问成功。补核 MCS 通识基础科学与离岗、CAE 通识和 Quetta 计算机／土木／采矿及 MCE 基础科学 7 位。MCS 名册索引与 2026 作品作者信息共同支持 Khalid Saifullah 转入，QAU 2024-06 退休有学会公报。MCS、CAE、Quetta、MCE、SEECS、SINES、SNS 等直连 403，部分网页入口报 525 或超时，已用校方索引和具名研究补证。SINES／SNS 及其余跨院目录、访问和荣休的完整成员范围仍待核；具体入口、合同与作者待核理由见台账。",
       "rosterLinks": [
         [
           "Mathematics · six research groups",
@@ -6968,6 +6968,14 @@
         [
           "School of Natural Sciences · Faculty",
           "https://sns.nust.edu.pk/faculty/"
+        ],
+        [
+          "College of Aeronautical Engineering · public Faculty directory",
+          "https://cae.nust.edu.pk/faculty/"
+        ],
+        [
+          "NUST · institutions and undergraduate degree locations",
+          "https://nust.edu.pk/admissions/undergraduates/list-of-ug-programmes-and-institutions"
         ],
         [
           "CEME · Department of Basic Sciences and Humanities",
@@ -6994,8 +7002,20 @@
           "https://sns.nust.edu.pk/departments/department-of-mathematics/"
         ],
         [
+          "Military College of Engineering · public Faculty directory",
+          "https://mce.nust.edu.pk/faculty/"
+        ],
+        [
           "Military College of Signals · Faculty",
           "https://mcs.nust.edu.pk/faculty/"
+        ],
+        [
+          "NUST Balochistan Campus · public Faculty directory",
+          "https://nbc.nust.edu.pk/faculty/"
+        ],
+        [
+          "Pakistan Navy Engineering College · Faculty",
+          "https://pnec.nust.edu.pk/faculty/"
         ],
         [
           "NUST Qalam · Azad Akhter Siddiqui",
@@ -7014,6 +7034,10 @@
           "https://qalam.nust.edu.pk/faculty-profile/Mzk3"
         ],
         [
+          "Pakistan Mathematical Society · Khalid Saifullah’s QAU retirement",
+          "https://www.pakms.org.pk/newsletter/Issue%20No.3%2C%20Vol%C2%A08%2C%C2%A02024.pdf"
+        ],
+        [
           "SEECS · Azad Akhter Siddiqui",
           "https://seecs.nust.edu.pk/faculty/azad-akhter-siddiqui/"
         ],
@@ -7024,6 +7048,14 @@
         [
           "SEECS · Ibrar Hussain",
           "https://seecs.nust.edu.pk/faculty/ibrar-hussain/"
+        ],
+        [
+          "School of Interdisciplinary Engineering and Sciences · public Faculty directory",
+          "https://sines.nust.edu.pk/faculty/"
+        ],
+        [
+          "School of Natural Sciences · public Faculty directory",
+          "https://sns.nust.edu.pk/faculty/"
         ],
         [
           "Mathematics · Tooba Siddiqui",
@@ -38557,6 +38589,72 @@
         {
           "text": "个人研究或论文来源",
           "url": "https://qalam.nust.edu.pk/faculty-profile/MjQyOA"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "khalid-saifullah",
+      "name": "Khalid Saifullah",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "nust",
+          "department": "Department of Humanities & Basic Sciences, Military College of Signals",
+          "title": "Professor",
+          "url": "https://mcs.nust.edu.pk/faculty/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.qau.edu.pk/profile.php?id=814015",
+      "homepageStatus": "QAU 旧具名档可由公开索引读取。NUST 当前总名单索引有任职；MCS 个人直连 403、网页访问 525。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "NUST MCS 具名路径和 WordPress 公开检索直连 403，QAU 旧个人档直连 403，ORCID 无公开履历。已读巴基斯坦数学学会退休公报，未核实单独公开 CV。",
+      "publicationsUrl": "https://openalex.org/A5101644405",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "姓名、QAU 论文署名、2026 NUST 作者单位及两篇几何 DOI 对照。逐条读 32 个作品端名下记录，排除 BZU 同名工科档和医学／农业姓名变体。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5101644405",
+          "url": "https://openalex.org/A5101644405",
+          "orcid": "https://orcid.org/0000-0002-3028-2024",
+          "authorApiUrl": "https://api.openalex.org/authors/A5101644405",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5101644405,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 21,
+          "works": 33,
+          "citations": 187,
+          "hIndex": 9,
+          "articleScope": "OpenAlex type:article，32 条作品端中 21 条 DOI 文章",
+          "citationScope": "OpenAlex 作者档案累计引用，含多类成果"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Conformal Symmetries of the Energy–Momentum Tensor of Spherically Symmetric Static Spacetimes",
+          "year": 2022,
+          "url": "https://doi.org/10.3390/sym14040647"
+        },
+        {
+          "title": "Exotic Lovelock black holes and extended quasitopological electromagnetism",
+          "year": 2025,
+          "url": "https://doi.org/10.1140/epjc/s10052-025-14731-8"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of Lorentzian spacetimes, conformal and curvature collineations, black hole horizon geometry",
+          "url": "https://doi.org/10.3390/sym14040647"
         }
       ],
       "checkedAt": "2026-11-26",

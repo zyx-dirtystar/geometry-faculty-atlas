@@ -618,7 +618,8 @@
     "tarun-sharma": "OpenAlex 查询本人 INSPIRE ORCID 无结果。精确姓名搜索混有医院医学等同名人，按本人公开链接与两篇文章核实 INSPIRE。",
     "suprit-singh": "OpenAlex 虽匹配本人的 ORCID，名下混入 phage display 生物实验和其他同名作品。用本人任职史、ORCID 与论文核实 INSPIRE，保留相应来源口径。",
     "diksha-gupta": "同名档落在医学、教育、化学等不同机构。由 IIT Delhi 毕业档、UNAM 现任档与 10.1017/prm.2024.18 确证人物；目前未核实完整作者指标。",
-    "shambhavi-singh": "董事会记录 2026-03-17 遴选。数学现任名单无具名，Waterloo 及同名作者只有凸优化或不相干生医。无可独立核对的主职、CV 和计量。"
+    "shambhavi-singh": "董事会记录 2026-03-17 遴选。数学现任名单无具名，Waterloo 及同名作者只有凸优化或不相干生医。无可独立核对的主职、CV 和计量。",
+    "khalid-saifullah": "姓名、QAU 论文署名、2026 NUST 作者单位及两篇几何 DOI 对照。逐条读 32 个作品端名下记录，排除 BZU 同名工科档和医学／农业姓名变体。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -2424,6 +2425,20 @@
         "https://maths.iitd.ac.in/faculty",
         "https://uwaterloo.ca/combinatorics-and-optimization/contacts/shambhavi-singh"
       ]
+    },
+    "khalid-saifullah": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5101644405",
+      "url": "https://openalex.org/A5101644405",
+      "identitySources": [
+        "https://mcs.nust.edu.pk/faculty/",
+        "https://www.pakms.org.pk/newsletter/Issue%20No.3%2C%20Vol%C2%A08%2C%C2%A02024.pdf",
+        "https://doi.org/10.3390/sym14040647",
+        "https://doi.org/10.1140/epjc/s10052-025-14731-8",
+        "https://doi.org/10.2139/ssrn.7584859"
+      ],
+      "note": "姓名、QAU 论文署名、2026 NUST 作者单位及两篇几何 DOI 对照。逐条读 32 个作品端名下记录，排除 BZU 同名工科档和医学／农业姓名变体。"
     }
   }
 }

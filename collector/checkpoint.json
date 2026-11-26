@@ -7802,6 +7802,26 @@
       "note": ""
     },
     {
+      "id": "nust-cae-b40",
+      "school": "nust",
+      "url": "https://cae.nust.edu.pk/faculty/",
+      "label": "College of Aeronautical Engineering · public Faculty directory",
+      "status": "reference",
+      "count": 100,
+      "checked_at": "2026-11-26",
+      "note": "直连 403，官方可读索引取得 101 张可区分职级、院系或离岗区的卡，聚合同名条目后有 100 个姓名。重复栏目仅以原网址作身份线索，有同名或多个职位时以具名来源分辨。"
+    },
+    {
+      "id": "nust-campus-programs-b40",
+      "school": "nust",
+      "url": "https://nust.edu.pk/admissions/undergraduates/list-of-ug-programmes-and-institutions",
+      "label": "NUST · institutions and undergraduate degree locations",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "直连 403，校方索引和能下载的 2025 Prospectus 交叉。数学本科设 SNS Islamabad；Karachi、Risalpur、Quetta 与其他工程学院按具名教研分组核。"
+    },
+    {
       "id": "nust-ceme-bas26",
       "school": "nust",
       "url": "https://ceme.nust.edu.pk/departments/department-of-basic-sciences-and-humanities/",
@@ -7862,14 +7882,44 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "nust-mce-b40",
+      "school": "nust",
+      "url": "https://mce.nust.edu.pk/faculty/",
+      "label": "Military College of Engineering · public Faculty directory",
+      "status": "reference",
+      "count": 61,
+      "checked_at": "2026-11-26",
+      "note": "直连 403，官方可读索引取得 63 张可区分职级、院系或离岗区的卡，聚合同名条目后有 61 个姓名。重复栏目仅以原网址作身份线索，有同名或多个职位时以具名来源分辨。 索引并非所有全页行均已取得；本次核所涉分栏和重点成员。"
+    },
+    {
       "id": "nust-mcs26",
       "school": "nust",
       "url": "https://mcs.nust.edu.pk/faculty/",
       "label": "Military College of Signals · Faculty",
       "status": "reference",
-      "count": 0,
+      "count": 135,
       "checked_at": "2026-11-26",
-      "note": "网页索引披露 Basic Sciences 等分类。直接访问超时，现行完整名册尚待逐项复核。"
+      "note": "直连 403，官方可读索引取得 137 张可区分职级、院系或离岗区的卡，聚合同名条目后有 135 个姓名。重复栏目仅以原网址作身份线索，有同名或多个职位时以具名来源分辨。 基础科学、工科分组和休假条目分列，现任研究方向待按具名论文补查。"
+    },
+    {
+      "id": "nust-nbc-b40",
+      "school": "nust",
+      "url": "https://nbc.nust.edu.pk/faculty/",
+      "label": "NUST Balochistan Campus · public Faculty directory",
+      "status": "reference",
+      "count": 44,
+      "checked_at": "2026-11-26",
+      "note": "直连 403，官方可读索引取得 45 张可区分职级、院系或离岗区的卡，聚合同名条目后有 44 个姓名。重复栏目仅以原网址作身份线索，有同名或多个职位时以具名来源分辨。 现有分组是计算机、土木、采矿和休假。核读数学博士 Zahid Nisar 的主要流体工作和具名计算机系。"
+    },
+    {
+      "id": "nust-pnec-b40",
+      "school": "nust",
+      "url": "https://pnec.nust.edu.pk/faculty/",
+      "label": "Pakistan Navy Engineering College · Faculty",
+      "status": "reference",
+      "count": 151,
+      "checked_at": "2026-11-26",
+      "note": "直连成功。全部 299 张含分组重复的 HTML 卡按姓名归为 151 条，保留工程科学、应用科学和教学／科研职级；工程科学和应用科学 44 个具名档逐一直接打开。资料空白者不根据学位猜测方向。"
     },
     {
       "id": "nust-qalam-azad26",
@@ -7912,6 +7962,16 @@
       "note": "校方具名科研档案提供任职、成果及公开 CV。"
     },
     {
+      "id": "nust-qau-retirement-b40",
+      "school": "nust",
+      "url": "https://www.pakms.org.pk/newsletter/Issue%20No.3%2C%20Vol%C2%A08%2C%C2%A02024.pdf",
+      "label": "Pakistan Mathematical Society · Khalid Saifullah’s QAU retirement",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-26",
+      "note": "公报已直接读取，QAU 旧在岗卡直连 403，公开索引还保留 On Job；退休确切日期以具名公报为准。"
+    },
+    {
       "id": "nust-see-azad31",
       "school": "nust",
       "url": "https://seecs.nust.edu.pk/faculty/azad-akhter-siddiqui/",
@@ -7940,6 +8000,26 @@
       "count": 0,
       "checked_at": null,
       "note": "尚未取得网页。"
+    },
+    {
+      "id": "nust-sines-b40",
+      "school": "nust",
+      "url": "https://sines.nust.edu.pk/faculty/",
+      "label": "School of Interdisciplinary Engineering and Sciences · public Faculty directory",
+      "status": "reference",
+      "count": 21,
+      "checked_at": "2026-11-26",
+      "note": "直连 403，官方可读索引取得 21 张可区分职级、院系或离岗区的卡，聚合同名条目后有 21 个姓名。重复栏目仅以原网址作身份线索，有同名或多个职位时以具名来源分辨。 索引并非所有全页行均已取得；本次核所涉分栏和重点成员。"
+    },
+    {
+      "id": "nust-sns-b40",
+      "school": "nust",
+      "url": "https://sns.nust.edu.pk/faculty/",
+      "label": "School of Natural Sciences · public Faculty directory",
+      "status": "reference",
+      "count": 50,
+      "checked_at": "2026-11-26",
+      "note": "直连 403，官方可读索引取得 51 张可区分职级、院系或离岗区的卡，聚合同名条目后有 50 个姓名。重复栏目仅以原网址作身份线索，有同名或多个职位时以具名来源分辨。 索引并非所有全页行均已取得；本次核所涉分栏和重点成员。"
     },
     {
       "id": "nust-tooba31",
