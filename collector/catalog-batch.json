@@ -607,11 +607,43 @@
     {
       "id": "stanford",
       "coverage": "sample",
-      "coverageNote": "已解析 8/9 个登记来源，6 条任职或方向待核。 已收录 4 位学者，个人主页 4、CV 1、指标 3。 对读任职主名册的 66 人与单列 8 位博士后／访客，以及 Geometry、Analysis & PDE、Symplectic Geometry & Topology、Number Theory 研究页。正式区分 Szegő 固定期博士后岗位和主聘教授，并继续核查数学研究中心与全校 Courtesy 学者。",
+      "coverageNote": "已解析 8/50 个登记来源，0 条任职或方向待核。 已收录 11 位学者，个人主页 8、CV 3、指标 0。 数学现行全表 66 人及 8 名博士后／访客，逐开具名卡；校级 Stanford Profiles 数学 Faculty 59 与博士后 10。比对十个研究领域、当期代数几何活动、MRC 和 Stanford Science Fellows。Warren Li 已在帝国理工具名任职，Jun Li 为 Stanford 荣休、复旦上海数学中心主任，Richard Schoen 的 Stanford 荣休及 UCI 档分别记录。Physics 现行教师 51 人、荣休 17、科研名录 50 条；Leinweber 教师、博士后、访客、学生与 SLAC 分栏为 25、16、4、12、9。核对 ICME 联属两页 75 人与联合聘任四人，CS 三页 94 人，计算几何与图形组。Szegő 固定期、访问、荣休与普通教授分开核对。校方两个博士后名册及部分跨院人员仍有当期研究或起止日期未解。CV、学术首页及同名误归在字段表保留具体访问结论。",
       "rosterLinks": [
         [
           "Mathematics · Analysis and PDE",
           "https://mathematics.stanford.edu/research/analysis-pde"
+        ],
+        [
+          "Applied Physics · Faculty",
+          "https://appliedphysics.stanford.edu/people/faculty"
+        ],
+        [
+          "Stanford Profiles · Mathematics faculty",
+          "https://profiles.stanford.edu/browse/stanford?affiliations=capFaculty&org=school-of-humanities-and-sciences%2Fnatural-sciences%2Fmathematics&p=1&ps=100"
+        ],
+        [
+          "Stanford Profiles · Mathematics postdocs",
+          "https://profiles.stanford.edu/browse/school-of-humanities-and-sciences?affiliations=capPostdoc&org=school-of-humanities-and-sciences%2Fnatural-sciences%2Fmathematics&p=1&ps=100"
+        ],
+        [
+          "Computer Science · Faculty page 2",
+          "https://www.cs.stanford.edu/people/faculty?page=1"
+        ],
+        [
+          "Computer Science · Faculty page 3",
+          "https://www.cs.stanford.edu/people/faculty?page=2"
+        ],
+        [
+          "Computer Science · Faculty page 1",
+          "https://www.cs.stanford.edu/people/faculty"
+        ],
+        [
+          "Computer Science · Geometric Computing Group",
+          "https://geometry.stanford.edu/"
+        ],
+        [
+          "Computer Science · Graphics Lab people",
+          "https://graphics.stanford.edu/people.html"
         ],
         [
           "Mathematics · Faculty and Lecturers",
@@ -626,12 +658,144 @@
           "https://mathematics.stanford.edu/research/geometry"
         ],
         [
+          "ICME · Affiliated Faculty",
+          "https://icme.stanford.edu/people/affiliated-faculty"
+        ],
+        [
+          "ICME · advising faculty",
+          "https://icme.stanford.edu/icme-advising-faculty"
+        ],
+        [
+          "ICME · Affiliated Faculty",
+          "https://icme.stanford.edu/people/affiliated-faculty?page=1"
+        ],
+        [
+          "ICME · Joint appointments",
+          "https://icme.stanford.edu/people/faculty-joint-appointment"
+        ],
+        [
           "数学系 Faculty & Lecturers",
           "https://mathematics.stanford.edu/people/faculty-lecturers"
         ],
         [
+          "Stanford Algebraic Geometry Seminar",
+          "https://agstanford.com/"
+        ],
+        [
+          "Mathematics · Analysis and PDE",
+          "https://mathematics.stanford.edu/research/analysis-pde"
+        ],
+        [
+          "Mathematics · Applied Mathematics",
+          "https://mathematics.stanford.edu/research/applied-math"
+        ],
+        [
+          "Mathematics · Combinatorics",
+          "https://mathematics.stanford.edu/research/combinatorics"
+        ],
+        [
+          "Mathematics · Financial Mathematics",
+          "https://mathematics.stanford.edu/research/financial-math"
+        ],
+        [
+          "Mathematics · Geometry",
+          "https://mathematics.stanford.edu/research/geometry"
+        ],
+        [
           "Mathematics · Number Theory",
           "https://mathematics.stanford.edu/research/number-theory"
+        ],
+        [
+          "Mathematics · Probability",
+          "https://mathematics.stanford.edu/research/probability"
+        ],
+        [
+          "Mathematics · Representation Theory",
+          "https://mathematics.stanford.edu/research/representation-theory"
+        ],
+        [
+          "Mathematics · Symplectic Geometry and Topology",
+          "https://mathematics.stanford.edu/research/symplectic-geometry-topology"
+        ],
+        [
+          "Mathematics · Topology",
+          "https://mathematics.stanford.edu/research/topology"
+        ],
+        [
+          "Mathematics · Faculty and Lecturers",
+          "https://mathematics.stanford.edu/people/faculty-lecturers"
+        ],
+        [
+          "Mathematics · Postdoctoral Fellows, Researchers and Visitors",
+          "https://mathematics.stanford.edu/people/postdoctoral-fellows-research-associates-visitors"
+        ],
+        [
+          "Mathematics · research areas",
+          "https://mathematics.stanford.edu/research/research-areas"
+        ],
+        [
+          "Mathematics Research Center · mission and visitors",
+          "https://mrc.stanford.edu/about/about-mrc"
+        ],
+        [
+          "Mathematics Research Center · department seminars",
+          "https://mrc.stanford.edu/events/department-seminars"
+        ],
+        [
+          "Mathematics · Number Theory",
+          "https://mathematics.stanford.edu/research/number-theory"
+        ],
+        [
+          "Physics · Courtesy Faculty",
+          "https://physics.stanford.edu/people/faculty/courtesy-faculty"
+        ],
+        [
+          "Physics · Emeritus Faculty",
+          "https://physics.stanford.edu/people/faculty/emeritus-faculty"
+        ],
+        [
+          "Physics · Faculty",
+          "https://physics.stanford.edu/people/faculty"
+        ],
+        [
+          "Physics · Postdoc and Research Staff",
+          "https://physics.stanford.edu/index%252Ephp/people/academic-staff/postdoc-research-staff"
+        ],
+        [
+          "Physics · Visiting Professors and Scholars",
+          "https://physics.stanford.edu/people/visiting-professors-and-scholars"
+        ],
+        [
+          "Stanford Science Fellows · Warren Li",
+          "https://stanfordsciencefellows.stanford.edu/people/warren-li"
+        ],
+        [
+          "Leinweber Institute · Faculty",
+          "https://sitp.stanford.edu/people/faculty"
+        ],
+        [
+          "Leinweber Institute · Postdocs",
+          "https://sitp.stanford.edu/people/postdocs"
+        ],
+        [
+          "Leinweber Institute · SLAC Colleagues",
+          "https://sitp.stanford.edu/people/slac-colleagues"
+        ],
+        [
+          "Leinweber Institute · Students",
+          "https://sitp.stanford.edu/people/students"
+        ],
+        [
+          "Leinweber Institute · Formal Quantum Field and String Theory",
+          "https://sitp.stanford.edu/research/formal-quantum-field-and-string-theory"
+        ],
+        [
+          "Leinweber Institute · Quantum Gravity and Black Holes",
+          "https://sitp.stanford.edu/research/quantum-gravity-and-black-holes"
+        ],
+        [
+          "Leinweber Institute · Visitors",
+          "https://sitp.stanford.edu/people/visitors"
         ],
         [
           "Mathematics · Symplectic Geometry and Topology",
@@ -1455,7 +1619,7 @@
     {
       "id": "fudan",
       "coverage": "sample",
-      "coverageNote": "已解析 1/6 个登记来源，3 条任职或方向待核。 已收录 12 位学者，个人主页 8、CV 3、指标 0。 上海数学中心 Current Faculty & Researchers 名册已核录。数学科学学院教职员工目录的名单未随页面静态返回，两个院系的其他人员及重叠任职待核。",
+      "coverageNote": "已解析 1/6 个登记来源，3 条任职或方向待核。 已收录 13 位学者，个人主页 9、CV 3、指标 0。 上海数学中心 Current Faculty & Researchers 名册已核录。数学科学学院教职员工目录的名单未随页面静态返回，两个院系的其他人员及重叠任职待核。",
       "rosterLinks": [
         [
           "数学科学学院数学系",
@@ -8501,7 +8665,7 @@
       "cvType": "公开学术 CV（2022-03）"
     },
     {
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "id": "ravi-vakil",
       "name": "Ravi Vakil",
       "initials": "RV",
@@ -8509,10 +8673,10 @@
         {
           "schoolId": "stanford",
           "department": "数学系",
-          "title": "教授",
+          "title": "Robert Grimmett Professor in Mathematics",
           "url": "https://mathematics.stanford.edu/people/ravi-vakil",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -8526,27 +8690,12 @@
       ],
       "homepage": "https://math.stanford.edu/~vakil/",
       "cvUrl": null,
-      "cvStatus": "已核对个人主页，暂未定位独立 CV。",
+      "cvStatus": "查本人网站、发表页、数学系卡、校级 Profiles 与公开履历入口，未找到明确可读的独立公开 CV。",
       "bioUrl": "https://profiles.stanford.edu/ravi-vakil?tab=bio",
       "publicationsUrl": "https://math.stanford.edu/~vakil/preprints.html",
-      "metrics": [
-        {
-          "source": "OpenAlex",
-          "authorId": "A5013856193",
-          "orcid": "https://orcid.org/0000-0001-8506-270X",
-          "url": "https://openalex.org/authors/A5013856193",
-          "authorApiUrl": "https://api.openalex.org/authors/A5013856193",
-          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5013856193,type:article&per_page=1&select=id",
-          "checkedAt": "2026-11-23",
-          "articles": 56,
-          "works": 159,
-          "citations": 3602,
-          "hIndex": 26,
-          "articleScope": "OpenAlex type:article",
-          "citationScope": "OpenAlex 作者档案累计引用"
-        }
-      ],
-      "identityNote": "用 Stanford 任职和形变、曲线模空间的两篇作者论文核对。",
+      "metrics": [],
+      "identityNote": "ORCID 及具名论文可确认身份。OpenAlex 纳入讲义、会议报告和勘误，引用总量暂待复核。",
+      "identityUrl": "https://openalex.org/A5013856193",
       "papers": [
         {
           "title": "Murphy’s law in algebraic geometry: Badly-behaved deformation spaces",
@@ -8557,12 +8706,25 @@
           "title": "Relative virtual localization and vanishing of tautological classes on moduli spaces of curves",
           "year": 2005,
           "url": "https://doi.org/10.1215/S0012-7094-05-13011-3"
+        },
+        {
+          "title": "Discriminants in the Grothendieck ring",
+          "year": 2015,
+          "url": "https://doi.org/10.1215/00127094-2877184"
         }
       ],
-      "relevance": "曲线模空间与形变理论可提供平面三次曲线后续问题的代数背景。"
+      "relevance": "曲线模空间与形变理论可提供平面三次曲线后续问题的代数背景。",
+      "publicationCounts": [
+        {
+          "value": 37,
+          "scope": "逐条审阅作者档当日 article 的 56 项，按不同 DOI 计入可归属的研究性期刊论文，排除专栏、讲义、竞赛、活动简报、勘误等。对照本人发表页及代表刊本。",
+          "url": "https://openalex.org/A5013856193",
+          "checkedAt": "2026-11-26"
+        }
+      ]
     },
     {
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "id": "rafe-mazzeo",
       "name": "Rafe Mazzeo",
       "initials": "RM",
@@ -8570,10 +8732,10 @@
         {
           "schoolId": "stanford",
           "department": "数学系",
-          "title": "教授",
+          "title": "Cassius Lamb Kirk Professor of Natural Sciences and Professor of Mathematics",
           "url": "https://mathematics.stanford.edu/people/rafe-mazzeo",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -8587,36 +8749,35 @@
         "椭圆 PDE"
       ],
       "homepage": "http://web.stanford.edu/~rmazzeo/cgi-bin/",
-      "homepageStatus": "院系主页列出个人站地址，直接访问暂未成功。",
+      "homepageStatus": "旧 Stanford CGI 入口返回 500，根入口 404，math.stanford.edu 的旧个人路径返回 403。校级具名学术资料可读。",
       "bioUrl": "https://profiles.stanford.edu/rafe-mazzeo",
       "cvUrl": "https://cap.stanford.edu/profiles/viewCV?facultyId=10624&name=Rafe_Mazzeo",
-      "publicationsUrl": "https://profiles.stanford.edu/rafe-mazzeo",
-      "metrics": [
-        {
-          "source": "OpenAlex",
-          "authorId": "A5087642309",
-          "orcid": "https://orcid.org/0000-0001-7058-3246",
-          "url": "https://openalex.org/authors/A5087642309",
-          "authorApiUrl": "https://api.openalex.org/authors/A5087642309",
-          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5087642309,type:article&per_page=1&select=id",
-          "checkedAt": "2026-11-23",
-          "articles": 115,
-          "works": 206,
-          "citations": 6890,
-          "hIndex": 45,
-          "articleScope": "OpenAlex type:article",
-          "citationScope": "OpenAlex 作者档案累计引用"
-        }
-      ],
-      "identityNote": "用 Stanford 任职、边算子论文和带边缘奇性的 Kähler–Einstein 度量论文核对。",
+      "publicationsUrl": "https://profiles.stanford.edu/rafe-mazzeo?tab=publications",
+      "metrics": [],
+      "identityNote": "ORCID 及 Stanford 背书可确认身份。OpenAlex 作者、作品入口和文章类型有差异，累计引用暂待复核。",
+      "identityUrl": "https://openalex.org/A5087642309",
       "papers": [
         {
           "title": "Kähler–Einstein metrics with edge singularities",
           "year": 2016,
           "url": "https://doi.org/10.4007/annals.2016.183.1.3"
+        },
+        {
+          "title": "The Hodge cohomology of a conformally compact metric",
+          "year": 1988,
+          "url": "https://doi.org/10.4310/jdg/1214442281"
         }
       ],
-      "relevance": "与边界附近的奇异 Kähler 度量及几何分析方法有关。"
+      "relevance": "与边界附近的奇异 Kähler 度量及几何分析方法有关。",
+      "cvType": "校级公开学术 CV（13 页）",
+      "publicationCounts": [
+        {
+          "value": 103,
+          "scope": "逐条审阅作者档 article 的 115 项，限有题名且有 DOI 的归属期刊记录。排除 Oberwolfach 会议报告、教育通讯及无题名或无 DOI 的记录。用校级发表清单和 CV 复核范围。",
+          "url": "https://openalex.org/A5087642309",
+          "checkedAt": "2026-11-26"
+        }
+      ]
     },
     {
       "id": "thomas-leistner",
@@ -19588,6 +19749,58 @@
         }
       ],
       "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jun-li",
+      "name": "Jun Li",
+      "aliases": [
+        "李骏"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "fudan",
+          "department": "Shanghai Center for Mathematical Sciences",
+          "title": "Chair Professor and Director of Shanghai Center for Mathematical Sciences",
+          "url": "https://scms.fudan.edu.cn/People/Academic/Faculty___Researchers/Current/ALL.htm",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://math.stanford.edu/~jli/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://math.stanford.edu/~jli/Research.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Polynomial structure of Gromov–Witten potential of quintic 3-folds",
+          "year": 2021,
+          "url": "https://scms.fudan.edu.cn/info/1059/4543.htm"
+        },
+        {
+          "title": "Stable morphisms to singular schemes and relative stable morphisms",
+          "year": 2001,
+          "url": "https://arxiv.org/abs/math/0009097"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of moduli and enumerative geometry, Gromov–Witten invariants and stable maps",
+          "url": "https://scms.fudan.edu.cn/People/Academic/Faculty___Researchers/Current/ALL.htm"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -52794,71 +53007,517 @@
       "recordStatus": "directory"
     },
     {
-      "id": "otis-chodosh",
-      "name": "Otis Chodosh",
+      "id": "andras-vasy",
+      "name": "András Vasy",
+      "aliases": [
+        "Andras Vasy"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "stanford",
+          "department": "Department of Mathematics",
+          "title": "Robert Grimmett Professor in Mathematics",
+          "url": "https://mathematics.stanford.edu/people/andras-vasy",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://math.stanford.edu/~andras/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查校方具名卡、Stanford Profiles 与两校旧人员履历，均未定位独立公开完整 CV。",
+      "publicationsUrl": "https://math.stanford.edu/~andras/",
+      "publicationCounts": [
+        {
+          "value": 89,
+          "url": "https://openalex.org/A5026778922",
+          "checkedAt": "2026-11-26",
+          "scope": "逐条核对 OpenAlex 作品端 97 个 article，保留不同 DOI 的可归属正式研究期刊范围。排除出版社与机构库的重复稿、会议报告、课程、讲座视频和一篇非研究性概述。"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "ORCID 对应本人，但作者端 176 条和当日作品端 154 条不同，并同时列预印本、技术报告、期刊版与修正。本人资料仅为更新至约 2021 的 86 项公开书目，近年作品仍分散。Scholar 具名检索未验证档案。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The global non-linear stability of the Kerr–de Sitter family of black holes",
+          "year": 2018,
+          "url": "https://doi.org/10.4310/acta.2018.v220.n1.a1"
+        },
+        {
+          "title": "The inverse problem for the local geodesic ray transform",
+          "year": 2015,
+          "url": "https://doi.org/10.1007/s00222-015-0631-7"
+        },
+        {
+          "title": "Resolvent near zero energy on Riemannian scattering (asymptotically conic) spaces",
+          "year": 2021,
+          "url": "https://arxiv.org/abs/1808.06123"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis of Lorentzian and Riemannian spaces, geodesic X-ray transforms, inverse problems and microlocal analysis",
+          "url": "https://math.stanford.edu/~andras/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "brian-conrad",
+      "name": "Brian Conrad",
       "aliases": [],
       "affiliations": [
         {
           "schoolId": "stanford",
-          "department": "数学系",
-          "title": "Associate Professor",
-          "url": "https://mathematics.stanford.edu/people/otis-chodosh",
+          "department": "Department of Mathematics",
+          "title": "TG Wijaya Professor of Mathematics and Director of Undergraduate Studies",
+          "url": "https://mathematics.stanford.edu/people/brian-conrad",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://math.stanford.edu/~conrad/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "院系卡、作者官网及具名 CV 检索未找到公开独立 CV。按姓名访问 Stanford Profiles 返回 404。",
+      "publicationsUrl": "https://math.stanford.edu/~conrad/",
+      "publicationCounts": [
+        {
+          "value": 26,
+          "scope": "具名 OpenAlex 档当日 article 候选 37 条逐条核对，限 DOI 明确且由题名、作者或本人站归属的正式论文。排除同名、概述／纪念条目、书章、解题小品及五个缺 DOI 条目。作者页公开选集可能不含全量。",
+          "url": "https://openalex.org/A5112195514",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "OpenAlex 主档包含免疫研究及通信信息学同名，作者端 153 条而作品端当日 106 条。保留逐条复核的有 DOI 期刊范围。Scholar 作者检索未证实匹配。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Arithmetic moduli of generalized elliptic curves",
+          "year": 2007,
+          "url": "https://doi.org/10.1017/S1474748006000089"
+        },
+        {
+          "title": "Nagata compactification for algebraic spaces",
+          "year": 2011,
+          "url": "https://doi.org/10.1017/S1474748011000223"
+        },
+        {
+          "title": "Relative ampleness in rigid geometry",
+          "year": 2006,
+          "url": "https://doi.org/10.5802/aif.2207"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic and algebraic geometry, rigid-analytic spaces, elliptic curves and arithmetic moduli of elliptic curves",
+          "url": "https://math.stanford.edu/~conrad/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "eleny-ionel",
+      "name": "Eleny Ionel",
+      "aliases": [
+        "Eleny-Nicoleta Ionel"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "stanford",
+          "department": "Department of Mathematics",
+          "title": "Robert Grimmett Professor in Mathematics",
+          "url": "https://mathematics.stanford.edu/people/eleny-ionel",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://math.stanford.edu/~ionel/",
+      "homepageStatus": null,
+      "cvUrl": "https://math.stanford.edu/~ionel/EIonel-CV-short.pdf",
+      "cvType": "公开短版学术 CV（2024-01，3 页）",
+      "cvStatus": null,
+      "publicationsUrl": "https://math.stanford.edu/~ionel/",
+      "publicationCounts": [
+        {
+          "value": 15,
+          "scope": "按 OpenAlex 主档逐条核查 14 个期刊 DOI，另外依 CV 查得另一身份分档的 1998 Duke 论文，按刊本去重为 15 篇。其他分档含导师关系的学位论文及旧新闻，未计入。",
+          "url": "https://math.stanford.edu/~ionel/",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "主档虽然具有正确 ORCID，Duke 1998 论文被分到另一记录；另一记录还有 2026 学生学位论文与 2009 新闻。不能直接合并累计引用。Scholar 具名检索未证实公开档。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The Gopakumar–Vafa finiteness conjecture",
+          "year": 2026,
+          "url": "https://doi.org/10.4007/annals.2026.204.3.1"
+        },
+        {
+          "title": "Relative Gromov–Witten invariants",
+          "year": 2003,
+          "url": "https://doi.org/10.4007/annals.2003.157.45"
+        },
+        {
+          "title": "Relations in the tautological ring of Mg",
+          "year": 2005,
+          "url": "https://doi.org/10.1215/S0012-7094-04-12916-1"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Enumerative algebraic geometry of moduli spaces of holomorphic curves, Gromov–Witten invariants and symplectic geometry",
+          "url": "https://math.stanford.edu/~ionel/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jonathan-luk",
+      "name": "Jonathan Luk",
+      "aliases": [
+        "Jonathan Winghong Luk",
+        "陸穎康"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "stanford",
+          "department": "Department of Mathematics",
+          "title": "Professor of Mathematics",
+          "url": "https://mathematics.stanford.edu/people/jonathan-luk",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [
-        "Analysis & PDE",
-        "Geometry"
+        "black-hole stability, singularities and geometric PDE"
       ],
-      "homepage": "https://www.web.stanford.edu/~ochodosh/",
+      "homepage": "https://web.stanford.edu/~jluk/",
+      "homepageStatus": null,
+      "cvUrl": "https://web.stanford.edu/~jluk/cv.2026.1.pdf",
+      "cvType": "公开学术 CV（2026-01，11 页）",
+      "cvStatus": null,
+      "publicationsUrl": "https://web.stanford.edu/~jluk/",
+      "publicationCounts": [
+        {
+          "value": 38,
+          "scope": "OpenAlex 主档逐条核对 39 个 article 中的 38 个不同期刊 DOI。去除 2012 Princeton 学位论文。以 46 项本人 Papers and Preprints 和期刊版交叉。",
+          "url": "https://openalex.org/A5010599788",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "本数学作者 ORCID 0000-0001-6562-6088；同名另外两档分别是营养学及药理研究。主档 60 条，作品端当日 50 条，包含同作预印本和刊本；38 篇不同期刊 DOI 可核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The interior of dynamical vacuum black holes I: The C0-stability of the Kerr Cauchy horizon",
+          "year": 2025,
+          "url": "https://doi.org/10.4007/annals.2025.202.2.1"
+        },
+        {
+          "title": "Strong cosmic censorship in spherical symmetry for two-ended asymptotically flat initial data I. The interior of the black hole region",
+          "year": 2019,
+          "url": "https://doi.org/10.4007/annals.2019.190.1.1"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis of Lorentzian spacetimes and Einstein equations; black-hole stability, singularities and geometric PDE",
+          "url": "https://web.stanford.edu/~jluk/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "mohammed-abouzaid",
+      "name": "Mohammed Abouzaid",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "stanford",
+          "department": "Department of Mathematics",
+          "title": "Professor of Mathematics",
+          "url": "https://mathematics.stanford.edu/people/mohammed-abouzaid",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "保留校级具名研究和教学页。现校以及旧任机构线索未确认独立作者主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查 Stanford 数学系、校级 Profiles、讲座及旧任机构，未确认独立公开 CV。",
+      "publicationsUrl": "https://arxiv.org/search/?query=Abouzaid%2C+Mohammed&searchtype=author",
+      "publicationCounts": [
+        {
+          "value": 31,
+          "scope": "对主档当日全部 34 个 article 按刊本 DOI 和题名核对，排除三条不对应此作者的代数同名记录，其余计 31 个不同 DOI。",
+          "url": "https://openalex.org/A5074246573",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "A5074246573 与 Stanford 研究身份相符，但 76 个作者端条目对作品端 62，且期刊类里混入三条异题代数。A5063538793 为错人，其主要论文为医学试验而非几何。Scholar 具名检索未验证作者档。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Morse homology, tropical geometry, and homological mirror symmetry for toric varieties",
+          "year": 2009,
+          "url": "https://doi.org/10.1007/s00029-009-0492-2"
+        },
+        {
+          "title": "Lagrangian fibrations on blowups of toric varieties and mirror symmetry for hypersurfaces",
+          "year": 2016,
+          "url": "https://doi.org/10.1007/s10240-016-0081-9"
+        },
+        {
+          "title": "Homological mirror symmetry for hypersurfaces in (ℂ∗)n",
+          "year": 2024,
+          "url": "https://doi.org/10.2140/gt.2024.28.2825"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry and algebraic geometry through homological mirror symmetry, toric varieties, hypersurfaces and Fukaya categories",
+          "url": "https://profiles.stanford.edu/mohammed-abouzaid"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "otis-chodosh",
+      "name": "Otis Chodosh",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "stanford",
+          "department": "Department of Mathematics",
+          "title": "Associate Professor of Mathematics and Director of Graduate Studies",
+          "url": "https://mathematics.stanford.edu/people/otis-chodosh-0",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://web.stanford.edu/~ochodosh/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "https://www.web.stanford.edu/~ochodosh/",
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "cvStatus": "已查新旧系卡、Stanford Profiles、个人研究页及具名 CV 检索，未取得公开独立 CV。",
+      "publicationsUrl": "https://web.stanford.edu/~ochodosh/",
+      "publicationCounts": [
         {
-          "text": "Analysis & PDE / Geometry",
-          "url": "https://mathematics.stanford.edu/people/faculty-lecturers"
-        },
-        {
-          "text": "Analysis & PDE / Geometry",
-          "url": "https://mathematics.stanford.edu/people/faculty-lecturers"
-        },
-        {
-          "text": "Analysis & PDE / Geometry",
-          "url": "https://mathematics.stanford.edu/research/geometry"
-        },
-        {
-          "text": "Geometric analysis, minimal surfaces, scalar curvature and partial differential equations",
-          "url": "https://www.web.stanford.edu/~ochodosh/"
+          "value": 48,
+          "scope": "个人 Research and Expository 的 61 项逐篇对照，去除未刊稿、ICM 文章、章节、综述和并入另一作品的记录。Weiss 论文在出版者 DOI 有正式在线版本，记一篇。",
+          "url": "https://web.stanford.edu/~ochodosh/",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "opportunities": [],
+      "identityNote": "OpenAlex 与出版者 ORCID 0000-0002-6124-7889 相符，但作者端 73 条而作品端 70 条；另含同一 2017 Inventiones 论文的无 DOI 摘录、Ars 题名重复形式。已用完整本人分栏与出版版核对 48 项。Scholar 具名检索未找到可复核公开作者档。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Generalized soap bubbles and the topology of manifolds with positive scalar curvature",
+          "year": 2024,
+          "url": "https://doi.org/10.4007/annals.2024.199.2.3"
+        },
+        {
+          "title": "Mean curvature flow with generic initial data",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/s00222-024-01258-0"
+        },
+        {
+          "title": "Weiss monotonicity and capillary hypersurfaces",
+          "year": 2026,
+          "url": "https://doi.org/10.1142/S1793525326500391"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, geometric analysis, minimal surfaces, mean curvature flow, and scalar curvature",
+          "url": "https://web.stanford.edu/~ochodosh/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "xinwen-zhu",
+      "name": "Xinwen Zhu",
+      "aliases": [
+        "朱歆文"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "stanford",
+          "department": "Department of Mathematics",
+          "title": "Professor of Mathematics",
+          "url": "https://mathematics.stanford.edu/people/xinwen-zhu",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "Stanford 猜测旧个人路径 404。校方具名页、IAS 历史卡、出版者和 arXiv 列表可读，尚未确认独立作者现行站。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "核对数学系、Stanford Profiles、任聘支持、IAS 旧资料及具名 CV 查找。未找到可核实的独立公开 CV。",
+      "publicationsUrl": "https://arxiv.org/search/?query=Zhu%2C+Xinwen&searchtype=author&abstracts=show&order=-announced_date_first&size=200",
+      "publicationCounts": [
+        {
+          "value": 16,
+          "scope": "以几何作者 ORCID 0000-0002-0019-658X、作者单位、共同作者及 DOI 逐篇核对。仅记该 OpenAlex 作者档 article 范围中 16 篇可归属期刊论文，已去除机器视觉、电力、教育与无原文泛称。",
+          "url": "https://openalex.org/A5110376991",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "材料 A5100846384、生物 A5076865541 与数学主档 A5110376991 不同。即使数学主档也混入软件、图像识别、能源与教育研究，累计引用暂不采用。ORCID 和可靠原文用于保留可归属的期刊范围。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Affine Grassmannians and the geometric Satake in mixed characteristic",
+          "year": 2017,
+          "url": "https://doi.org/10.4007/annals.2017.185.2.2"
+        },
+        {
+          "title": "Logarithmic Riemann–Hilbert correspondences for rigid varieties",
+          "year": 2022,
+          "url": "https://doi.org/10.1090/jams/1002"
+        },
+        {
+          "title": "Non-abelian Hodge theory for algebraic curves in characteristic p",
+          "year": 2015,
+          "url": "https://doi.org/10.1007/s00039-015-0343-6"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry, affine Grassmannians, geometric Satake, rigid analytic algebraic geometry and the geometric Langlands program",
+          "url": "https://mathematics.stanford.edu/people/xinwen-zhu"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "yakov-eliashberg",
+      "name": "Yakov Eliashberg",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "stanford",
+          "department": "Department of Mathematics",
+          "title": "Herald L. and Caroline L. Ritch Professor of Mathematics",
+          "url": "https://mathematics.stanford.edu/people/yakov-eliashberg",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "complex"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "https://math.stanford.edu/~eliash/ 可打开但保留通用模板文字和邮箱，无学术内容。系具名卡承载研究说明。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "院系具名卡、旧模板主页、公开讲座和作者名查找未定位公开独立 CV。",
+      "publicationsUrl": "https://arxiv.org/search/?query=Eliashberg%2C+Yakov&searchtype=author",
+      "publicationCounts": [
+        {
+          "value": 56,
+          "scope": "《Celebratio Mathematica》Complete Bibliography 的 1970–2023 范围，按期刊 article 标签及题名逐条去重，排除序言、更正及报告。后续出版不计入。",
+          "url": "https://celebratio.org/Eliashberg_Y/article/1194/",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "ORCID 与具名 Stanford 论文相符。OpenAlex 作者端 189 对作品端 167，有数学讲义分章、会议专刊标题、勘误或媒体。本人旧主页无完整范围，另核对 Celebratio 完整书目。查 Scholar 未验证公开档。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Topological characterization of Stein manifolds of dimension > 2",
+          "year": 1990,
+          "url": "https://doi.org/10.1142/S0129167X90000034"
+        },
+        {
+          "title": "Introduction to the h-principle",
+          "year": 2002,
+          "url": "https://bookstore.ams.org/gsm-48"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry of Stein manifolds, several complex variables, symplectic and contact geometry",
+          "url": "https://mathematics.stanford.edu/people/yakov-eliashberg"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
       "id": "ziquan-zhuang",
       "name": "Ziquan Zhuang",
-      "aliases": [],
+      "aliases": [
+        "庄梓铨"
+      ],
       "affiliations": [
         {
           "schoolId": "stanford",
-          "department": "数学系",
-          "title": "Professor",
+          "department": "Department of Mathematics",
+          "title": "Professor of Mathematics",
           "url": "https://mathematics.stanford.edu/people/ziquan-zhuang",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -52870,29 +53529,20 @@
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查校方现任卡、本人主页及 Research、旧 JHU 与具名检索。Research 的 Drive 入口实际指向 Kähler–Ricci soliton 研究论文，并无公开 CV。",
       "publicationsUrl": "https://sites.google.com/view/ziquan-zhuang/research",
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
-      "metrics": [
+      "publicationCounts": [
         {
-          "source": "OpenAlex",
-          "authorId": "A5084495846",
-          "orcid": "https://orcid.org/0000-0002-5466-5206",
-          "url": "https://openalex.org/authors/A5084495846",
-          "authorApiUrl": "https://api.openalex.org/authors/A5084495846",
-          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5084495846,type:article&per_page=1&select=id",
-          "checkedAt": "2026-11-23",
-          "articles": 24,
-          "works": 42,
-          "citations": 1166,
-          "hIndex": 18,
-          "articleScope": "OpenAlex type:article",
-          "citationScope": "OpenAlex 作者档案累计引用"
+          "value": 13,
+          "scope": "本人研究页精选 17 条完整分栏中的有正式期刊链接的 13 项，逐条合并 arXiv 和刊本。单列其余 4 个预印本及精选栏外工作。",
+          "url": "https://sites.google.com/view/ziquan-zhuang/research",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "identityUrl": null,
+      "opportunities": [],
+      "identityNote": "ORCID 0000-0002-5466-5206 与本人研究及 SIAM 作者信息一致。作者端计 42、作品端 41，已有一项章节的两版 ISBN 和无明晰题名的期刊记录。另列作者精选正式期刊数。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5084495846",
       "papers": [
         {
           "title": "K-stability of birationally superrigid Fano varieties",
@@ -52903,19 +53553,30 @@
           "title": "K-stability of Fano varieties via admissible flags",
           "year": 2022,
           "url": "https://doi.org/10.1017/fmp.2022.11"
+        },
+        {
+          "title": "Local Volumes of klt Singularities and K-Stability",
+          "year": 2026,
+          "url": "https://doi.org/10.1137/25M1804133",
+          "type": "survey"
+        },
+        {
+          "title": "Optimal destabilizing centers and equivariant K-stability",
+          "year": 2021,
+          "url": "https://doi.org/10.1007/s00222-021-01046-0"
         }
       ],
       "directoryEvidence": [
         {
-          "text": "Birational algebraic geometry, K-stability, moduli and Kähler–Einstein metrics",
-          "url": "https://mathematics.stanford.edu/people/ziquan-zhuang"
+          "text": "Birational algebraic geometry, K-stability, klt singularities, K-moduli and Kähler–Einstein metrics",
+          "url": "https://sites.google.com/view/ziquan-zhuang/research"
         },
         {
           "text": "个人研究或论文来源",
           "url": "https://www.cambridge.org/core/journals/compositio-mathematica/article/abs/kstability-of-birationally-superrigid-fano-varieties/A84A862D80237F7BD960D76AFCA8A3A2"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {

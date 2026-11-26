@@ -11092,6 +11092,86 @@
       "note": "具名研究组人员，须用个人资料确定精确研究范围与任职分类。"
     },
     {
+      "id": "stanford-applied-physics-b44",
+      "school": "stanford",
+      "url": "https://appliedphysics.stanford.edu/people/faculty",
+      "label": "Applied Physics · Faculty",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "按页面 Faculty、Courtesy、Adjunct、Emeritus 与 In Memoriam 五分栏核对。学者主聘及主题从校级个人卡和具名成果交叉。"
+    },
+    {
+      "id": "stanford-cap-faculty-b44",
+      "school": "stanford",
+      "url": "https://profiles.stanford.edu/browse/stanford?affiliations=capFaculty&org=school-of-humanities-and-sciences%2Fnatural-sciences%2Fmathematics&p=1&ps=100",
+      "label": "Stanford Profiles · Mathematics faculty",
+      "status": "reference",
+      "count": 59,
+      "checked_at": "2026-11-26",
+      "note": "校级数学 Faculty 筛选 59 条，无后页。与系里 66 张卡逐名比对，校级列表也含系页缺失的旧或待确认人事记录。"
+    },
+    {
+      "id": "stanford-cap-postdocs-b44",
+      "school": "stanford",
+      "url": "https://profiles.stanford.edu/browse/school-of-humanities-and-sciences?affiliations=capPostdoc&org=school-of-humanities-and-sciences%2Fnatural-sciences%2Fmathematics&p=1&ps=100",
+      "label": "Stanford Profiles · Mathematics postdocs",
+      "status": "reference",
+      "count": 10,
+      "checked_at": "2026-11-26",
+      "note": "校级数学 Postdoc 筛选十条，无后页。Warren Li 已在帝国理工具名主聘。Douglas Stryker、Theo McKenzie、Katharine Woo 需独立日期复核。"
+    },
+    {
+      "id": "stanford-cs-fac-2-b44",
+      "school": "stanford",
+      "url": "https://www.cs.stanford.edu/people/faculty?page=1",
+      "label": "Computer Science · Faculty page 2",
+      "status": "reference",
+      "count": 39,
+      "checked_at": "2026-11-26",
+      "note": "该页 39 张具名卡；官方 Load More 共三页，几何组与主聘分开对照。"
+    },
+    {
+      "id": "stanford-cs-fac-3-b44",
+      "school": "stanford",
+      "url": "https://www.cs.stanford.edu/people/faculty?page=2",
+      "label": "Computer Science · Faculty page 3",
+      "status": "reference",
+      "count": 16,
+      "checked_at": "2026-11-26",
+      "note": "该页 16 张具名卡；官方 Load More 共三页，几何组与主聘分开对照。"
+    },
+    {
+      "id": "stanford-cs-fac-b44",
+      "school": "stanford",
+      "url": "https://www.cs.stanford.edu/people/faculty",
+      "label": "Computer Science · Faculty page 1",
+      "status": "reference",
+      "count": 39,
+      "checked_at": "2026-11-26",
+      "note": "该页 39 张具名卡；官方 Load More 共三页，几何组与主聘分开对照。"
+    },
+    {
+      "id": "stanford-cs-geometry-b44",
+      "school": "stanford",
+      "url": "https://geometry.stanford.edu/",
+      "label": "Computer Science · Geometric Computing Group",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "Stanford Guibas Lab 首页与计算机现任教师交叉。其旧 /people.html 404；主页以计算几何、处理及图形为主。"
+    },
+    {
+      "id": "stanford-cs-graphics-b44",
+      "school": "stanford",
+      "url": "https://graphics.stanford.edu/people.html",
+      "label": "Computer Science · Graphics Lab people",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "团队页自注访客、学生等多已过时。教师用现行 CS 分页复核，避免把退休教授或过往访客录为现任。"
+    },
+    {
       "id": "stanford-faculty31",
       "school": "stanford",
       "url": "https://mathematics.stanford.edu/people/faculty-lecturers",
@@ -11122,6 +11202,46 @@
       "note": ""
     },
     {
+      "id": "stanford-icme-academic-b44",
+      "school": "stanford",
+      "url": "https://icme.stanford.edu/people/affiliated-faculty",
+      "label": "ICME · Affiliated Faculty",
+      "status": "reference",
+      "count": 39,
+      "checked_at": "2026-11-26",
+      "note": "该分栏 39 张具名卡，核对院系主聘、联合任职和学术联属。"
+    },
+    {
+      "id": "stanford-icme-advising-b44",
+      "school": "stanford",
+      "url": "https://icme.stanford.edu/icme-advising-faculty",
+      "label": "ICME · advising faculty",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "核对学院导师分组及 Mathematics 与 Computer Science 联属，院系主页确认主聘。"
+    },
+    {
+      "id": "stanford-icme-affiliated-2-b44",
+      "school": "stanford",
+      "url": "https://icme.stanford.edu/people/affiliated-faculty?page=1",
+      "label": "ICME · Affiliated Faculty",
+      "status": "reference",
+      "count": 36,
+      "checked_at": "2026-11-26",
+      "note": "该分栏 36 张具名卡，核对院系主聘、联合任职和学术联属。"
+    },
+    {
+      "id": "stanford-icme-joint-b44",
+      "school": "stanford",
+      "url": "https://icme.stanford.edu/people/faculty-joint-appointment",
+      "label": "ICME · Joint appointments",
+      "status": "reference",
+      "count": 4,
+      "checked_at": "2026-11-26",
+      "note": "该分栏 4 张具名卡，核对院系主聘、联合任职和学术联属。"
+    },
+    {
       "id": "stanford-math",
       "school": "stanford",
       "url": "https://mathematics.stanford.edu/people/faculty-lecturers",
@@ -11132,6 +11252,166 @@
       "note": ""
     },
     {
+      "id": "stanford-math-algebra-seminar-b44",
+      "school": "stanford",
+      "url": "https://agstanford.com/",
+      "label": "Stanford Algebraic Geometry Seminar",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "按当期及历史年份分辨报告、外校访问和任职。Vakil 旧代数几何页仍列出 2011 年的岗位，使用现行系名册和具名聘任校正。"
+    },
+    {
+      "id": "stanford-math-area-analysis-pde-b44",
+      "school": "stanford",
+      "url": "https://mathematics.stanford.edu/research/analysis-pde",
+      "label": "Mathematics · Analysis and PDE",
+      "status": "reference",
+      "count": 13,
+      "checked_at": "2026-11-26",
+      "note": "公开方向页 13 张具名卡。方向证据与当前任职分开核实；未以离任者、客座者或域外关联覆盖常任名单。"
+    },
+    {
+      "id": "stanford-math-area-applied-math-b44",
+      "school": "stanford",
+      "url": "https://mathematics.stanford.edu/research/applied-math",
+      "label": "Mathematics · Applied Mathematics",
+      "status": "reference",
+      "count": 7,
+      "checked_at": "2026-11-26",
+      "note": "公开方向页 7 张具名卡。方向证据与当前任职分开核实；未以离任者、客座者或域外关联覆盖常任名单。"
+    },
+    {
+      "id": "stanford-math-area-combinatorics-b44",
+      "school": "stanford",
+      "url": "https://mathematics.stanford.edu/research/combinatorics",
+      "label": "Mathematics · Combinatorics",
+      "status": "reference",
+      "count": 8,
+      "checked_at": "2026-11-26",
+      "note": "公开方向页 8 张具名卡。方向证据与当前任职分开核实；未以离任者、客座者或域外关联覆盖常任名单。"
+    },
+    {
+      "id": "stanford-math-area-financial-math-b44",
+      "school": "stanford",
+      "url": "https://mathematics.stanford.edu/research/financial-math",
+      "label": "Mathematics · Financial Mathematics",
+      "status": "reference",
+      "count": 2,
+      "checked_at": "2026-11-26",
+      "note": "公开方向页 2 张具名卡。方向证据与当前任职分开核实；未以离任者、客座者或域外关联覆盖常任名单。"
+    },
+    {
+      "id": "stanford-math-area-geometry-b44",
+      "school": "stanford",
+      "url": "https://mathematics.stanford.edu/research/geometry",
+      "label": "Mathematics · Geometry",
+      "status": "reference",
+      "count": 13,
+      "checked_at": "2026-11-26",
+      "note": "公开方向页 13 张具名卡。方向证据与当前任职分开核实；未以离任者、客座者或域外关联覆盖常任名单。"
+    },
+    {
+      "id": "stanford-math-area-number-theory-b44",
+      "school": "stanford",
+      "url": "https://mathematics.stanford.edu/research/number-theory",
+      "label": "Mathematics · Number Theory",
+      "status": "reference",
+      "count": 9,
+      "checked_at": "2026-11-26",
+      "note": "公开方向页 9 张具名卡。方向证据与当前任职分开核实；未以离任者、客座者或域外关联覆盖常任名单。"
+    },
+    {
+      "id": "stanford-math-area-probability-b44",
+      "school": "stanford",
+      "url": "https://mathematics.stanford.edu/research/probability",
+      "label": "Mathematics · Probability",
+      "status": "reference",
+      "count": 6,
+      "checked_at": "2026-11-26",
+      "note": "公开方向页 6 张具名卡。方向证据与当前任职分开核实；未以离任者、客座者或域外关联覆盖常任名单。"
+    },
+    {
+      "id": "stanford-math-area-representation-theory-b44",
+      "school": "stanford",
+      "url": "https://mathematics.stanford.edu/research/representation-theory",
+      "label": "Mathematics · Representation Theory",
+      "status": "reference",
+      "count": 3,
+      "checked_at": "2026-11-26",
+      "note": "公开方向页 3 张具名卡。方向证据与当前任职分开核实；未以离任者、客座者或域外关联覆盖常任名单。"
+    },
+    {
+      "id": "stanford-math-area-symplectic-geometry-topology-b44",
+      "school": "stanford",
+      "url": "https://mathematics.stanford.edu/research/symplectic-geometry-topology",
+      "label": "Mathematics · Symplectic Geometry and Topology",
+      "status": "reference",
+      "count": 6,
+      "checked_at": "2026-11-26",
+      "note": "公开方向页 6 张具名卡。方向证据与当前任职分开核实；未以离任者、客座者或域外关联覆盖常任名单。"
+    },
+    {
+      "id": "stanford-math-area-topology-b44",
+      "school": "stanford",
+      "url": "https://mathematics.stanford.edu/research/topology",
+      "label": "Mathematics · Topology",
+      "status": "reference",
+      "count": 10,
+      "checked_at": "2026-11-26",
+      "note": "公开方向页 10 张具名卡。方向证据与当前任职分开核实；未以离任者、客座者或域外关联覆盖常任名单。"
+    },
+    {
+      "id": "stanford-math-combined-b44",
+      "school": "stanford",
+      "url": "https://mathematics.stanford.edu/people/faculty-lecturers",
+      "label": "Mathematics · Faculty and Lecturers",
+      "status": "reference",
+      "count": 66,
+      "checked_at": "2026-11-26",
+      "note": "66 张完全具名卡，无下一页。包括常任、专任教学、荣休、数学礼聘和 Szegő 固定期；交叉阅读每张正式卡。"
+    },
+    {
+      "id": "stanford-math-fixed-visitors-b44",
+      "school": "stanford",
+      "url": "https://mathematics.stanford.edu/people/postdoctoral-fellows-research-associates-visitors",
+      "label": "Mathematics · Postdoctoral Fellows, Researchers and Visitors",
+      "status": "reference",
+      "count": 8,
+      "checked_at": "2026-11-26",
+      "note": "6 名博士后、1 名访问教授、1 名访问学生研究员，无下一页。与校级 Stanford Profiles 的十条博士后记录不同。"
+    },
+    {
+      "id": "stanford-math-research-index-b44",
+      "school": "stanford",
+      "url": "https://mathematics.stanford.edu/research/research-areas",
+      "label": "Mathematics · research areas",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "系研究导航下十个领域页逐一取得。与学者个人发表、博士后及校级任职互校。"
+    },
+    {
+      "id": "stanford-mrc-b44",
+      "school": "stanford",
+      "url": "https://mrc.stanford.edu/about/about-mrc",
+      "label": "Mathematics Research Center · mission and visitors",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "数学研究中心宗旨明确服务数学系教师、博士后及研究生。具名活动与访问分开核查。中心通用 /people 为 404，具名 Jiakai Li 页面可读。"
+    },
+    {
+      "id": "stanford-mrc-seminars-b44",
+      "school": "stanford",
+      "url": "https://mrc.stanford.edu/events/department-seminars",
+      "label": "Mathematics Research Center · department seminars",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "以系研究分组、中心当期活动及具名人事为证。中心活动报告不等同学术任聘。"
+    },
+    {
       "id": "stanford-number31",
       "school": "stanford",
       "url": "https://mathematics.stanford.edu/research/number-theory",
@@ -11140,6 +11420,136 @@
       "count": 9,
       "checked_at": "2026-11-25",
       "note": "具名研究组人员，须用个人资料确定精确研究范围与任职分类。"
+    },
+    {
+      "id": "stanford-physics-courtesy-b44",
+      "school": "stanford",
+      "url": "https://physics.stanford.edu/people/faculty/courtesy-faculty",
+      "label": "Physics · Courtesy Faculty",
+      "status": "reference",
+      "count": 7,
+      "checked_at": "2026-11-26",
+      "note": "具名 7 张卡，保留该分栏所列范围及实际身份。"
+    },
+    {
+      "id": "stanford-physics-emeriti-b44",
+      "school": "stanford",
+      "url": "https://physics.stanford.edu/people/faculty/emeritus-faculty",
+      "label": "Physics · Emeritus Faculty",
+      "status": "reference",
+      "count": 17,
+      "checked_at": "2026-11-26",
+      "note": "具名 17 张卡，保留该分栏所列范围及实际身份。"
+    },
+    {
+      "id": "stanford-physics-fac-b44",
+      "school": "stanford",
+      "url": "https://physics.stanford.edu/people/faculty",
+      "label": "Physics · Faculty",
+      "status": "reference",
+      "count": 51,
+      "checked_at": "2026-11-26",
+      "note": "具名 51 张卡，保留该分栏所列范围及实际身份。"
+    },
+    {
+      "id": "stanford-physics-research-b44",
+      "school": "stanford",
+      "url": "https://physics.stanford.edu/index%252Ephp/people/academic-staff/postdoc-research-staff",
+      "label": "Physics · Postdoc and Research Staff",
+      "status": "reference",
+      "count": 50,
+      "checked_at": "2026-11-26",
+      "note": "校方菜单给出的编码入口载有 50 项。直接的无编码路径 HTTP 404；按官方菜单所点路径读取。角色分栏另和 Leinweber 名录比较。"
+    },
+    {
+      "id": "stanford-physics-visits-b44",
+      "school": "stanford",
+      "url": "https://physics.stanford.edu/people/visiting-professors-and-scholars",
+      "label": "Physics · Visiting Professors and Scholars",
+      "status": "reference",
+      "count": 3,
+      "checked_at": "2026-11-26",
+      "note": "具名 3 张卡，保留该分栏所列范围及实际身份。"
+    },
+    {
+      "id": "stanford-science-fellow-warren-b44",
+      "school": "stanford",
+      "url": "https://stanfordsciencefellows.stanford.edu/people/warren-li",
+      "label": "Stanford Science Fellows · Warren Li",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-26",
+      "note": "历史 2025 Fellow 卡可读，校级任职正文无终期。比对 Imperial 当期 Chapman Fellow 及 Stanford 数学系具名卡登录限制。"
+    },
+    {
+      "id": "stanford-sitp-fac-b44",
+      "school": "stanford",
+      "url": "https://sitp.stanford.edu/people/faculty",
+      "label": "Leinweber Institute · Faculty",
+      "status": "reference",
+      "count": 25,
+      "checked_at": "2026-11-26",
+      "note": "具名 25 张卡，保留该分栏所列范围及实际身份。"
+    },
+    {
+      "id": "stanford-sitp-postdocs-b44",
+      "school": "stanford",
+      "url": "https://sitp.stanford.edu/people/postdocs",
+      "label": "Leinweber Institute · Postdocs",
+      "status": "reference",
+      "count": 16,
+      "checked_at": "2026-11-26",
+      "note": "具名 16 张卡，保留该分栏所列范围及实际身份。"
+    },
+    {
+      "id": "stanford-sitp-slac-b44",
+      "school": "stanford",
+      "url": "https://sitp.stanford.edu/people/slac-colleagues",
+      "label": "Leinweber Institute · SLAC Colleagues",
+      "status": "reference",
+      "count": 9,
+      "checked_at": "2026-11-26",
+      "note": "具名 9 张卡，保留该分栏所列范围及实际身份。"
+    },
+    {
+      "id": "stanford-sitp-students-b44",
+      "school": "stanford",
+      "url": "https://sitp.stanford.edu/people/students",
+      "label": "Leinweber Institute · Students",
+      "status": "reference",
+      "count": 12,
+      "checked_at": "2026-11-26",
+      "note": "具名 12 张卡，保留该分栏所列范围及实际身份。"
+    },
+    {
+      "id": "stanford-sitp-topic-formal-quantum-field-and-string-theory-b44",
+      "school": "stanford",
+      "url": "https://sitp.stanford.edu/research/formal-quantum-field-and-string-theory",
+      "label": "Leinweber Institute · Formal Quantum Field and String Theory",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "核对本研究首页与具名教师／科研人员名录。主题页分页为活动、媒体与新闻，可从当前研究结论回查原始作品。"
+    },
+    {
+      "id": "stanford-sitp-topic-quantum-gravity-and-black-holes-b44",
+      "school": "stanford",
+      "url": "https://sitp.stanford.edu/research/quantum-gravity-and-black-holes",
+      "label": "Leinweber Institute · Quantum Gravity and Black Holes",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "核对本研究首页与具名教师／科研人员名录。主题页分页为活动、媒体与新闻，可从当前研究结论回查原始作品。"
+    },
+    {
+      "id": "stanford-sitp-visitors-b44",
+      "school": "stanford",
+      "url": "https://sitp.stanford.edu/people/visitors",
+      "label": "Leinweber Institute · Visitors",
+      "status": "reference",
+      "count": 4,
+      "checked_at": "2026-11-26",
+      "note": "具名 4 张卡，保留该分栏所列范围及实际身份。"
     },
     {
       "id": "stanford-symplectic31",
@@ -532256,21 +532666,7 @@
         }
       ],
       "checkedAt": "2026-11-23",
-      "snapshot": {
-        "source": "OpenAlex",
-        "authorId": "A5087642309",
-        "orcid": "https://orcid.org/0000-0001-7058-3246",
-        "url": "https://openalex.org/authors/A5087642309",
-        "authorApiUrl": "https://api.openalex.org/authors/A5087642309",
-        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5087642309,type:article&per_page=1&select=id",
-        "checkedAt": "2026-11-23",
-        "articles": 115,
-        "works": 206,
-        "citations": 6890,
-        "hIndex": 45,
-        "articleScope": "OpenAlex type:article",
-        "citationScope": "OpenAlex 作者档案累计引用"
-      }
+      "candidate_url": "https://openalex.org/authors/A5087642309"
     },
     "rahim-moosa": {
       "status": "review_ready",
@@ -532351,21 +532747,7 @@
         }
       ],
       "checkedAt": "2026-11-23",
-      "snapshot": {
-        "source": "OpenAlex",
-        "authorId": "A5013856193",
-        "orcid": "https://orcid.org/0000-0001-8506-270X",
-        "url": "https://openalex.org/authors/A5013856193",
-        "authorApiUrl": "https://api.openalex.org/authors/A5013856193",
-        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5013856193,type:article&per_page=1&select=id",
-        "checkedAt": "2026-11-23",
-        "articles": 56,
-        "works": 159,
-        "citations": 3602,
-        "hIndex": 26,
-        "articleScope": "OpenAlex type:article",
-        "citationScope": "OpenAlex 作者档案累计引用"
-      }
+      "candidate_url": "https://openalex.org/authors/A5013856193"
     },
     "reamonn-peadar-o-buachalla": {
       "status": "identity_review",
@@ -535062,21 +535444,7 @@
           "url": "https://doi.org/10.1017/fmp.2022.11"
         }
       ],
-      "snapshot": {
-        "source": "OpenAlex",
-        "authorId": "A5084495846",
-        "orcid": "https://orcid.org/0000-0002-5466-5206",
-        "url": "https://openalex.org/authors/A5084495846",
-        "authorApiUrl": "https://api.openalex.org/authors/A5084495846",
-        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5084495846,type:article&per_page=1&select=id",
-        "checkedAt": "2026-11-23",
-        "articles": 24,
-        "works": 42,
-        "citations": 1166,
-        "hIndex": 18,
-        "articleScope": "OpenAlex type:article",
-        "citationScope": "OpenAlex 作者档案累计引用"
-      }
+      "candidate_url": "https://openalex.org/authors/A5084495846"
     },
     "ziyang-gao": {
       "status": "identity_review",

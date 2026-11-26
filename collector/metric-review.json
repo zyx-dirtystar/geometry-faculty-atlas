@@ -39,14 +39,11 @@
     "li-buyang": "A5039197834",
     "robert-haslhofer": "A5024588618",
     "mark-gross": "A5113571976",
-    "ziquan-zhuang": "A5084495846",
     "martin-sombra": "A5027538609",
     "jacob-bernstein": "A5019978507",
     "georg-oberdieck": "A5014684784",
     "milena-hering": "A5017113686",
     "chenyang-xu": "A5102008315",
-    "ravi-vakil": "A5013856193",
-    "rafe-mazzeo": "A5087642309",
     "marti-lahoz": "A5012961943",
     "melody-chan": "A5020887417",
     "tony-yue-yu": "A5064553016",
@@ -649,13 +646,43 @@
     "hyenho-lho": "ORCID、作者研究主题、Yonsei 访问及忠南大学主聘可确认同一人。OpenAlex 把论文 Comparison of two desingularizations 的预印本与期刊版两计，累计引用无法当作去重数，保留核对后九项期刊范围。",
     "hobum-kim": "同名或近名作者档散布多份，当前旧 Yonsei 荣休卡未指向 ORCID 或个人完整书目。现有论文可核个别题名，未验证作者累计。",
     "jong-woo-lee": "OpenAlex 用曾用缩写、韩文姓名和校名查询遇多份同名自然科学与工程作者，未有可归属的完整档。Yonsei Pure 具名路径 404，旧数学页无发表列表。",
-    "dohyun-kwon": "OpenAlex 的具名 A5081743149 由两篇几何流 DOI 和 ORCID 对应，但 29 条中混入两项同一 DASH 论文的英韩记录和无线网络同名作者。Google Scholar 由本人站直链，姓名、Yonsei 与代表作吻合；其公开 All 引用为 617。正文以作者完整列表逐项核实 12 篇期刊论文。"
+    "dohyun-kwon": "OpenAlex 的具名 A5081743149 由两篇几何流 DOI 和 ORCID 对应，但 29 条中混入两项同一 DASH 论文的英韩记录和无线网络同名作者。Google Scholar 由本人站直链，姓名、Yonsei 与代表作吻合；其公开 All 引用为 617。正文以作者完整列表逐项核实 12 篇期刊论文。",
+    "otis-chodosh": "OpenAlex 与出版者 ORCID 0000-0002-6124-7889 相符，但作者端 73 条而作品端 70 条；另含同一 2017 Inventiones 论文的无 DOI 摘录、Ars 题名重复形式。已用完整本人分栏与出版版核对 48 项。Scholar 具名检索未找到可复核公开作者档。",
+    "brian-conrad": "OpenAlex 主档包含免疫研究及通信信息学同名，作者端 153 条而作品端当日 106 条。保留逐条复核的有 DOI 期刊范围。Scholar 作者检索未证实匹配。",
+    "eleny-ionel": "主档虽然具有正确 ORCID，Duke 1998 论文被分到另一记录；另一记录还有 2026 学生学位论文与 2009 新闻。不能直接合并累计引用。Scholar 具名检索未证实公开档。",
+    "andras-vasy": "ORCID 对应本人，但作者端 176 条和当日作品端 154 条不同，并同时列预印本、技术报告、期刊版与修正。本人资料仅为更新至约 2021 的 86 项公开书目，近年作品仍分散。Scholar 具名检索未验证档案。",
+    "jonathan-luk": "本数学作者 ORCID 0000-0001-6562-6088；同名另外两档分别是营养学及药理研究。主档 60 条，作品端当日 50 条，包含同作预印本和刊本；38 篇不同期刊 DOI 可核。",
+    "xinwen-zhu": "材料 A5100846384、生物 A5076865541 与数学主档 A5110376991 不同。即使数学主档也混入软件、图像识别、能源与教育研究，累计引用暂不采用。ORCID 和可靠原文用于保留可归属的期刊范围。",
+    "mohammed-abouzaid": "A5074246573 与 Stanford 研究身份相符，但 76 个作者端条目对作品端 62，且期刊类里混入三条异题代数。A5063538793 为错人，其主要论文为医学试验而非几何。Scholar 具名检索未验证作者档。",
+    "yakov-eliashberg": "ORCID 与具名 Stanford 论文相符。OpenAlex 作者端 189 对作品端 167，有数学讲义分章、会议专刊标题、勘误或媒体。本人旧主页无完整范围，另核对 Celebratio 完整书目。查 Scholar 未验证公开档。",
+    "rafe-mazzeo": "Stanford Profiles ORCID 与作者档一致，但作者端 206 条、作品端 175 条。OpenAlex 的 article 含会议报告、缺题名数据和学术行政通讯，累计引用暂不确认。用 CV 与校级 120 条发表输出对照 DOI。",
+    "ravi-vakil": "作者端 159 条、作品端当日 105 条。具名数学论文符合 ORCID，但 OpenAlex article 还包含课程讲义、Oberwolfach 活动、勘误、教学通讯及新闻。改列有归属证据的研究性期刊 DOI。",
+    "ziquan-zhuang": "ORCID 0000-0002-5466-5206 与本人研究及 SIAM 作者信息一致。作者端计 42、作品端 41，已有一项章节的两版 ISBN 和无明晰题名的期刊记录。另列作者精选正式期刊数。",
+    "eva-silverstein": "正确 ORCID 的作者档仍有技术报告与期刊的重复版本，作者端 274、作品端 197；以校级发表页供后续去重。",
+    "weite-pi": "Stanford 正式数学系与具名论文 DOI、作者 ORCID 和个人研究页支持，逐项检查 OpenAlex 七个作品，三条期刊 DOI、共 75 次累计引用。Szegő 固定聘任依校规则单列。"
   },
   "evidence": {
-    "ravi-vakil": [
-      "https://mathematics.stanford.edu/people/ravi-vakil",
-      "https://math.stanford.edu/~vakil/papers/"
-    ],
+    "ravi-vakil": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "作者端 159 条、作品端当日 105 条。具名数学论文符合 ORCID，但 OpenAlex article 还包含课程讲义、Oberwolfach 活动、勘误、教学通讯及新闻。改列有归属证据的研究性期刊 DOI。",
+      "identitySources": [
+        "https://mathematics.stanford.edu/people/ravi-vakil",
+        "https://math.stanford.edu/~vakil/preprints.html",
+        "https://doi.org/10.1007/s00222-005-0481-9",
+        "https://doi.org/10.1215/00127094-2877184"
+      ],
+      "authorId": "A5013856193",
+      "url": "https://openalex.org/A5013856193",
+      "previousPublicSnapshot": {
+        "articles": 56,
+        "works": 159,
+        "citations": 3598,
+        "hIndex": 26,
+        "checkedAt": "2026-11-23",
+        "source": "OpenAlex"
+      }
+    },
     "melody-chan": [
       "https://www.math.brown.edu/mchan2/",
       "https://www.math.brown.edu/mchan2/"
@@ -2941,6 +2968,193 @@
         "citations": 617,
         "hIndex": 11
       }
+    },
+    "otis-chodosh": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 与出版者 ORCID 0000-0002-6124-7889 相符，但作者端 73 条而作品端 70 条；另含同一 2017 Inventiones 论文的无 DOI 摘录、Ars 题名重复形式。已用完整本人分栏与出版版核对 48 项。Scholar 具名检索未找到可复核公开作者档。",
+      "identitySources": [
+        "https://mathematics.stanford.edu/people/otis-chodosh-0",
+        "https://web.stanford.edu/~ochodosh/",
+        "https://doi.org/10.4007/annals.2024.199.2.3",
+        "https://doi.org/10.1007/s00222-024-01258-0",
+        "https://doi.org/10.1142/S1793525326500391"
+      ],
+      "authorId": "A5018130194",
+      "url": "https://openalex.org/A5018130194"
+    },
+    "brian-conrad": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 主档包含免疫研究及通信信息学同名，作者端 153 条而作品端当日 106 条。保留逐条复核的有 DOI 期刊范围。Scholar 作者检索未证实匹配。",
+      "identitySources": [
+        "https://mathematics.stanford.edu/people/brian-conrad",
+        "https://math.stanford.edu/~conrad/",
+        "https://doi.org/10.1017/S1474748006000089",
+        "https://doi.org/10.1017/S1474748011000223",
+        "https://doi.org/10.5802/aif.2207"
+      ],
+      "authorId": "A5112195514",
+      "url": "https://openalex.org/A5112195514"
+    },
+    "eleny-ionel": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "主档虽然具有正确 ORCID，Duke 1998 论文被分到另一记录；另一记录还有 2026 学生学位论文与 2009 新闻。不能直接合并累计引用。Scholar 具名检索未证实公开档。",
+      "identitySources": [
+        "https://mathematics.stanford.edu/people/eleny-ionel",
+        "https://math.stanford.edu/~ionel/",
+        "https://doi.org/10.4007/annals.2026.204.3.1",
+        "https://doi.org/10.4007/annals.2003.157.45",
+        "https://doi.org/10.1215/S0012-7094-04-12916-1"
+      ],
+      "authorId": "A5013638611",
+      "url": "https://openalex.org/A5013638611",
+      "alternativeAuthorIds": [
+        "A5109042466"
+      ]
+    },
+    "andras-vasy": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "ORCID 对应本人，但作者端 176 条和当日作品端 154 条不同，并同时列预印本、技术报告、期刊版与修正。本人资料仅为更新至约 2021 的 86 项公开书目，近年作品仍分散。Scholar 具名检索未验证档案。",
+      "identitySources": [
+        "https://mathematics.stanford.edu/people/andras-vasy",
+        "https://math.stanford.edu/~andras/",
+        "https://doi.org/10.4310/acta.2018.v220.n1.a1",
+        "https://doi.org/10.1007/s00222-015-0631-7",
+        "https://arxiv.org/abs/1808.06123"
+      ],
+      "authorId": "A5026778922",
+      "url": "https://openalex.org/A5026778922",
+      "alternativeAuthorIds": [
+        "A5158866166"
+      ]
+    },
+    "jonathan-luk": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "本数学作者 ORCID 0000-0001-6562-6088；同名另外两档分别是营养学及药理研究。主档 60 条，作品端当日 50 条，包含同作预印本和刊本；38 篇不同期刊 DOI 可核。",
+      "identitySources": [
+        "https://mathematics.stanford.edu/people/jonathan-luk",
+        "https://web.stanford.edu/~jluk/",
+        "https://doi.org/10.4007/annals.2025.202.2.1",
+        "https://doi.org/10.4007/annals.2019.190.1.1"
+      ],
+      "authorId": "A5010599788",
+      "url": "https://openalex.org/A5010599788",
+      "alternativeAuthorIds": [
+        "A5013485839",
+        "A5042047616"
+      ]
+    },
+    "xinwen-zhu": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "材料 A5100846384、生物 A5076865541 与数学主档 A5110376991 不同。即使数学主档也混入软件、图像识别、能源与教育研究，累计引用暂不采用。ORCID 和可靠原文用于保留可归属的期刊范围。",
+      "identitySources": [
+        "https://mathematics.stanford.edu/people/xinwen-zhu",
+        "https://mathematics.stanford.edu/people/xinwen-zhu",
+        "https://doi.org/10.4007/annals.2017.185.2.2",
+        "https://doi.org/10.1090/jams/1002",
+        "https://doi.org/10.1007/s00039-015-0343-6"
+      ],
+      "authorId": "A5110376991",
+      "url": "https://openalex.org/A5110376991",
+      "alternativeAuthorIds": [
+        "A5100846384",
+        "A5076865541"
+      ]
+    },
+    "mohammed-abouzaid": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "A5074246573 与 Stanford 研究身份相符，但 76 个作者端条目对作品端 62，且期刊类里混入三条异题代数。A5063538793 为错人，其主要论文为医学试验而非几何。Scholar 具名检索未验证作者档。",
+      "identitySources": [
+        "https://mathematics.stanford.edu/people/mohammed-abouzaid",
+        "https://profiles.stanford.edu/mohammed-abouzaid",
+        "https://doi.org/10.1007/s00029-009-0492-2",
+        "https://doi.org/10.1007/s10240-016-0081-9",
+        "https://doi.org/10.2140/gt.2024.28.2825"
+      ],
+      "authorId": "A5074246573",
+      "url": "https://openalex.org/A5074246573",
+      "alternativeAuthorIds": [
+        "A5063538793"
+      ]
+    },
+    "yakov-eliashberg": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "ORCID 与具名 Stanford 论文相符。OpenAlex 作者端 189 对作品端 167，有数学讲义分章、会议专刊标题、勘误或媒体。本人旧主页无完整范围，另核对 Celebratio 完整书目。查 Scholar 未验证公开档。",
+      "identitySources": [
+        "https://mathematics.stanford.edu/people/yakov-eliashberg",
+        "https://mathematics.stanford.edu/people/yakov-eliashberg",
+        "https://doi.org/10.1142/S0129167X90000034",
+        "https://bookstore.ams.org/gsm-48"
+      ],
+      "authorId": "A5012294913",
+      "url": "https://openalex.org/A5012294913",
+      "alternativeAuthorIds": [
+        "A5111376743"
+      ]
+    },
+    "rafe-mazzeo": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "Stanford Profiles ORCID 与作者档一致，但作者端 206 条、作品端 175 条。OpenAlex 的 article 含会议报告、缺题名数据和学术行政通讯，累计引用暂不确认。用 CV 与校级 120 条发表输出对照 DOI。",
+      "identitySources": [
+        "https://mathematics.stanford.edu/people/rafe-mazzeo",
+        "https://profiles.stanford.edu/rafe-mazzeo",
+        "https://doi.org/10.4007/annals.2016.183.1.3",
+        "https://doi.org/10.4310/jdg/1214442281"
+      ],
+      "authorId": "A5087642309",
+      "url": "https://openalex.org/A5087642309",
+      "previousPublicSnapshot": {
+        "articles": 115,
+        "works": 206,
+        "citations": 6881,
+        "hIndex": 45,
+        "checkedAt": "2026-11-23",
+        "source": "OpenAlex"
+      }
+    },
+    "ziquan-zhuang": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "ORCID 0000-0002-5466-5206 与本人研究及 SIAM 作者信息一致。作者端计 42、作品端 41，已有一项章节的两版 ISBN 和无明晰题名的期刊记录。另列作者精选正式期刊数。",
+      "identitySources": [
+        "https://mathematics.stanford.edu/people/ziquan-zhuang",
+        "https://sites.google.com/view/ziquan-zhuang/research",
+        "https://doi.org/10.1137/25M1804133",
+        "https://doi.org/10.1007/s00222-021-01046-0"
+      ],
+      "authorId": "A5084495846",
+      "url": "https://openalex.org/A5084495846"
+    },
+    "eva-silverstein": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "正确 ORCID 的作者档仍有技术报告与期刊的重复版本，作者端 274、作品端 197；以校级发表页供后续去重。",
+      "identitySources": [
+        "https://sitp.stanford.edu/people/eva-silverstein",
+        "https://profiles.stanford.edu/eva-silverstein"
+      ],
+      "authorId": "A5057988369",
+      "url": "https://openalex.org/A5057988369"
+    },
+    "weite-pi": {
+      "status": "accepted",
+      "authorId": "A5002600493",
+      "url": "https://openalex.org/A5002600493",
+      "checkedAt": "2026-11-26",
+      "note": "Stanford 正式数学系与具名论文 DOI、作者 ORCID 和个人研究页支持，逐项检查 OpenAlex 七个作品，三条期刊 DOI、共 75 次累计引用。Szegő 固定聘任依校规则单列。",
+      "identitySources": [
+        "https://mathematics.stanford.edu/people/weite-pi",
+        "https://sites.google.com/view/weitepi/",
+        "https://doi.org/10.1016/j.aim.2023.109294"
+      ]
     }
   }
 }
