@@ -1553,5 +1553,20 @@
   {"id":"unimi-emeritus-b38","school":"unimi","name":"University of Milan · Emeritus and Honorary professors","url":"https://www.unimi.it/en/university/la-statale/our-heritage-our-future/emeritus-and-honorary-professors","parser":"pending","kind":"campus"},
   {"id":"unimi-arith-b38","school":"unimi","name":"Arithmetic Geometry and Number Theory · faculty and trainees","url":"https://sites.unimi.it/geoaritmetica/","parser":"pending","kind":"campus"},
   {"id":"unimi-physics-groups-b38","school":"unimi","name":"Physics · research groups and contacts","url":"https://fisica.unimi.it/en/research/research-activities-and-findings/research-groups","parser":"pending","kind":"campus"},
-  {"id":"unimi-physics-theory-b38","school":"unimi","name":"Theoretical Physics · doctoral research lines","url":"https://phd.fisica.unimi.it/research/theoretical-physics/","parser":"pending","kind":"campus"}
+  {"id":"unimi-physics-theory-b38","school":"unimi","name":"Theoretical Physics · doctoral research lines","url":"https://phd.fisica.unimi.it/research/theoretical-physics/","parser":"pending","kind":"campus"},
+  {"id":"iitd-math-faculty-b39","school":"iit-delhi","name":"Mathematics · current Faculty","url":"https://maths.iitd.ac.in/faculty","kind":"department","parser":"pending"},
+  {"id":"iitd-math-retired-b39","school":"iit-delhi","name":"Mathematics · retired or former faculty","url":"https://maths.iitd.ac.in/api/retired-faculty","kind":"department","parser":"pending"},
+  {"id":"iitd-math-visiting-b39","school":"iit-delhi","name":"Mathematics · dated visiting faculty","url":"https://maths.iitd.ac.in/api/visiting-faculty","kind":"department","parser":"pending"},
+  {"id":"iitd-math-postdoctoral-b39","school":"iit-delhi","name":"Mathematics · postdoctoral roster","url":"https://maths.iitd.ac.in/api/postdocs","kind":"department","parser":"pending"},
+  {"id":"iitd-math-scholars-b39","school":"iit-delhi","name":"Mathematics · doctoral researchers and alumni","url":"https://maths.iitd.ac.in/api/scholars","kind":"department","parser":"pending"},
+  {"id":"iitd-mechanical-b39","school":"iit-delhi","name":"Mechanical Engineering · Faculty","url":"https://mech.iitd.ac.in/faculty","kind":"campus","parser":"pending"},
+  {"id":"iitd-applied-mechanics-b39","school":"iit-delhi","name":"Applied Mechanics · Faculty","url":"https://am.iitd.ac.in/faculty","kind":"campus","parser":"pending"},
+  {"id":"iitd-applied-postdoc-b39","school":"iit-delhi","name":"Applied Mechanics · postdoctoral archive","url":"https://am.iitd.ac.in/students-postdoc","kind":"campus","parser":"pending"},
+  {"id":"iitd-board-202604-b39","school":"iit-delhi","name":"IIT Delhi Board of Governors · April 2026 appointments","url":"https://home.iitd.ac.in/uploads/MoM%20Special%20BoG_04.04.2026%20Final.pdf","kind":"campus","parser":"pending"},
+  {"id":"iitd-qip-b39","school":"iit-delhi","name":"CEP/QIP · Institute research areas","url":"https://cepqip.iitd.ac.in/research-area","kind":"campus","parser":"pending"},
+  {"id":"iitd-math-projects-b39","school":"iit-delhi","name":"Mathematics · publications and research projects","url":"https://maths.iitd.ac.in/api/research-projects","kind":"campus","parser":"pending"},
+  {"id":"iitd-hep39","school":"iit-delhi","name":"High Energy Physics and Quantum Gravity · Faculty and research members","url":"https://hep.iitd.ac.in/","kind":"campus","parser":"pending"},
+  {"id":"iitd-prospectus26-b39","school":"iit-delhi","name":"IIT Delhi · Prospectus 2026–27, campus and departments","url":"https://home.iitd.ac.in/uploads/PROSPECTUS%202026-27.pdf","kind":"campus","parser":"pending"},
+  {"id":"iitd-crf-sonipat-b39","school":"iit-delhi","name":"Central Research Facility · Sonipat and Hauz Khas","url":"https://crf.iitd.ac.in/Contact.html","kind":"campus","parser":"pending"},
+  {"id":"iitd-jhajjar-b39","school":"iit-delhi","name":"IIT Delhi · parliamentary reply on extension campuses","url":"https://rti.iitd.ac.in/sites/default/files/inst_manuals/PQ2023.pdf","kind":"campus","parser":"pending"}
 ]

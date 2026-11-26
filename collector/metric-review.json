@@ -605,7 +605,20 @@
     "luciano-mari": "已确认具名米兰职务与发表入口。作者档与 CV 附件尚待核对，引用及文章总数留待核。",
     "maura-elisabetta-salvatori": "已确认具名米兰职务与发表入口。作者档与 CV 附件尚待核对，引用及文章总数留待核。",
     "jin-liu": "数学系确认访问分类，但 Rubrica 403、UniFind 404，且公开同名候选无法与米兰访问身份匹配。论文、CV 和引用不猜测。",
-    "haoran-yang": "数学系确认访问分类，但 Rubrica 403、UniFind 404，且公开同名候选无法与米兰访问身份匹配。论文、CV 和引用不猜测。"
+    "haoran-yang": "数学系确认访问分类，但 Rubrica 403、UniFind 404，且公开同名候选无法与米兰访问身份匹配。论文、CV 和引用不猜测。",
+    "pinakinath-saha": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。",
+    "vivek-mukundan": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。",
+    "konijeti-sreenadh": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。 作品端与作者端收录总量存在差异，以独立 type:article 查询展示文章数。",
+    "biplab-basak": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。",
+    "amit-priyadarshi": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。 作品端与作者端收录总量存在差异，以独立 type:article 查询展示文章数。",
+    "debdip-ganguly": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。 作品端与作者端收录总量存在差异，以独立 type:article 查询展示文章数。",
+    "minati-de": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。 作品端与作者端收录总量存在差异，以独立 type:article 查询展示文章数。",
+    "surjeet-kour": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。",
+    "sarthak-parikh": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。",
+    "tarun-sharma": "OpenAlex 查询本人 INSPIRE ORCID 无结果。精确姓名搜索混有医院医学等同名人，按本人公开链接与两篇文章核实 INSPIRE。",
+    "suprit-singh": "OpenAlex 虽匹配本人的 ORCID，名下混入 phage display 生物实验和其他同名作品。用本人任职史、ORCID 与论文核实 INSPIRE，保留相应来源口径。",
+    "diksha-gupta": "同名档落在医学、教育、化学等不同机构。由 IIT Delhi 毕业档、UNAM 现任档与 10.1017/prm.2024.18 确证人物；目前未核实完整作者指标。",
+    "shambhavi-singh": "董事会记录 2026-03-17 遴选。数学现任名单无具名，Waterloo 及同名作者只有凸优化或不相干生医。无可独立核对的主职、CV 和计量。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -673,7 +686,19 @@
     ],
     "calum-spicer": "已据校方任职、出版社 DOI 和数学论文抽样确认 OpenAlex 作者身份。",
     "christian-saemann": "已据校方任职、出版社 DOI 和数学论文抽样确认 OpenAlex 作者身份。",
-    "pinakinath-saha": "以公开 ORCID、校方任职和相关研究样本完成 OpenAlex 作者消歧。",
+    "pinakinath-saha": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5010537615",
+      "url": "https://openalex.org/A5010537615",
+      "identitySources": [
+        "https://researchambit.iitd.ac.in/faculty/pinakinath",
+        "https://pinakinath.github.io/",
+        "https://doi.org/10.1080/00927872.2024.2422028",
+        "https://doi.org/10.1007/s10468-025-10364-3"
+      ],
+      "note": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。"
+    },
     "rob-h-eggermont": "以公开 ORCID、校方任职和相关研究样本完成 OpenAlex 作者消歧。",
     "murad-alim": "以公开 ORCID、校方任职和相关研究样本完成 OpenAlex 作者消歧。",
     "lotte-hollands": "以校方任职、出版社 DOI 和研究样本完成 OpenAlex 作者消歧。",
@@ -2256,6 +2281,148 @@
       "identitySources": [
         "https://matematica.unimi.it/it/dipartimento/contatti/persone",
         "https://www.unimi.it/it/ugov/rubrica/person0000196554"
+      ]
+    },
+    "vivek-mukundan": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5066273214",
+      "url": "https://openalex.org/A5066273214",
+      "identitySources": [
+        "https://maths.iitd.ac.in/faculty",
+        "https://web.iitd.ac.in/~vmukunda/",
+        "https://doi.org/10.1016/j.jalgebra.2016.03.035",
+        "https://doi.org/10.1112/jlms.12324"
+      ],
+      "note": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。"
+    },
+    "konijeti-sreenadh": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5072035531",
+      "url": "https://openalex.org/A5072035531",
+      "identitySources": [
+        "https://maths.iitd.ac.in/faculty",
+        "https://sites.google.com/view/professor-sreenadh/",
+        "https://doi.org/10.1007/s00030-017-0487-1",
+        "https://doi.org/10.1515/anona-2016-0100"
+      ],
+      "note": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。 作品端与作者端收录总量存在差异，以独立 type:article 查询展示文章数。"
+    },
+    "biplab-basak": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5085613273",
+      "url": "https://openalex.org/A5085613273",
+      "identitySources": [
+        "https://maths.iitd.ac.in/faculty",
+        "https://sites.google.com/view/biplabbasak",
+        "https://doi.org/10.1515/advgeom-2015-0043",
+        "https://doi.org/10.1515/forum-2015-0080"
+      ],
+      "note": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。"
+    },
+    "amit-priyadarshi": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5040702477",
+      "url": "https://openalex.org/A5040702477",
+      "identitySources": [
+        "https://maths.iitd.ac.in/faculty",
+        "https://web.iitd.ac.in/~priyadarshi/",
+        "https://doi.org/10.1016/j.jmaa.2020.124036",
+        "https://doi.org/10.1090/s0002-9947-2011-05484-x"
+      ],
+      "note": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。 作品端与作者端收录总量存在差异，以独立 type:article 查询展示文章数。"
+    },
+    "debdip-ganguly": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5032167815",
+      "url": "https://openalex.org/A5032167815",
+      "identitySources": [
+        "https://www.isid.ac.in/~statmath/tsmud/faculty.html",
+        "https://sites.google.com/site/debdipganguly02/home",
+        "https://doi.org/10.1017/prm.2018.139",
+        "https://doi.org/10.1007/s00526-022-02232-5"
+      ],
+      "note": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。 作品端与作者端收录总量存在差异，以独立 type:article 查询展示文章数。"
+    },
+    "minati-de": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5020649644",
+      "url": "https://openalex.org/A5020649644",
+      "identitySources": [
+        "https://maths.iitd.ac.in/faculty",
+        "https://web.iitd.ac.in/~minati/",
+        "https://doi.org/10.1016/j.ipl.2014.11.002",
+        "https://doi.org/10.1007/s00453-024-01244-1"
+      ],
+      "note": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。 作品端与作者端收录总量存在差异，以独立 type:article 查询展示文章数。"
+    },
+    "surjeet-kour": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5022231975",
+      "url": "https://openalex.org/A5022231975",
+      "identitySources": [
+        "https://maths.iitd.ac.in/faculty",
+        "https://sites.google.com/view/surjeetkour/home",
+        "https://doi.org/10.1016/j.aim.2024.109581",
+        "https://doi.org/10.4171/jncg/693"
+      ],
+      "note": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。"
+    },
+    "sarthak-parikh": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5009858916",
+      "url": "https://openalex.org/A5009858916",
+      "identitySources": [
+        "https://physics.iitd.ac.in/faculty",
+        "https://web.iitd.ac.in/~sarthak/",
+        "https://doi.org/10.1007/jhep10(2019)268",
+        "https://doi.org/10.1103/physrevd.96.066024"
+      ],
+      "note": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。"
+    },
+    "tarun-sharma": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "reason": "OpenAlex 查询本人 INSPIRE ORCID 无结果。精确姓名搜索混有医院医学等同名人，按本人公开链接与两篇文章核实 INSPIRE。",
+      "identitySources": [
+        "https://sites.google.com/view/tarun-iitd",
+        "https://inspirehep.net/authors/1077841"
+      ]
+    },
+    "suprit-singh": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "reason": "OpenAlex 虽匹配本人的 ORCID，名下混入 phage display 生物实验和其他同名作品。用本人任职史、ORCID 与论文核实 INSPIRE，保留相应来源口径。",
+      "identitySources": [
+        "https://supritsinghlab.github.io/",
+        "https://openalex.org/A5035165886",
+        "https://inspirehep.net/authors/1321475"
+      ]
+    },
+    "diksha-gupta": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "reason": "同名档落在医学、教育、化学等不同机构。由 IIT Delhi 毕业档、UNAM 现任档与 10.1017/prm.2024.18 确证人物；目前未核实完整作者指标。",
+      "identitySources": [
+        "https://www.matem.unam.mx/acerca-de/ingresos-y-visitantes/diksha-gupta",
+        "https://doi.org/10.1017/prm.2024.18"
+      ]
+    },
+    "shambhavi-singh": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "reason": "董事会记录 2026-03-17 遴选。数学现任名单无具名，Waterloo 及同名作者只有凸优化或不相干生医。无可独立核对的主职、CV 和计量。",
+      "identitySources": [
+        "https://home.iitd.ac.in/uploads/MoM%20Special%20BoG_04.04.2026%20Final.pdf",
+        "https://maths.iitd.ac.in/faculty",
+        "https://uwaterloo.ca/combinatorics-and-optimization/contacts/shambhavi-singh"
       ]
     }
   }

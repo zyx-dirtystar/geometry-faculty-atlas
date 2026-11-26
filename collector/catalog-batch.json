@@ -4914,8 +4914,8 @@
     },
     {
       "id": "iit-delhi",
-      "coverage": "sample",
-      "coverageNote": "已解析 1/19 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 1、指标 1。 已解析院系 Faculty 网页调用的公开名单及研究标签，并检查继续教育平台研究领域。公开页目前返回 34 张教师卡，联合单位与缺少方向简介的个人仍待核。 补核两位相邻方向的现任职级及计算几何／非交换几何的具名证据，并交叉对照 IIT Delhi 年报。阿布扎比分校公布教师简介 PDF，另核各岗位与主校具体关系。 本轮核 32 位阿布扎比现行名单、物理系 50 位、CSE 60 张现任／历史卡、SIT 41 位、ScAI 72 张及 HEP 具名专题。分校早期个人页并非现行任职证明，当前数学学术职位与 2026 年具名聘任结果仍逐人核对。",
+      "coverage": "verified",
+      "coverageNote": "已解析 6/34 个登记来源，0 条任职或方向待核。 已收录 3 位学者，个人主页 3、CV 1、指标 3。 主校数学核当前教师 34 人、退休／离任 26 人、具日期曾访 6 人、博士后 1 人、在读 83 人及 30 位校友，并以 2024–25 年报、第 6 页 2026 年 4 月任命附件、近年科研成果、15 个系项目及 CEP/QIP 829 条跨院研究卡对照。已比对阿布扎比当前 32 张卡、物理 50 位及 HEP 七位教员和分组成员、CSE 60、SIT 41、ScAI 72、机械 52 位与应用力学现行名册。Sonepat 设施型校区及 Jhajjar 规划区范围通过校方手册、CRF 和公开答复核实。2026 数学遴选 Shambhavi Singh 在现任教师表无到岗条目，按已公布遴选证据留档。Debdip Ganguly 已转 ISI，Diksha Gupta 毕业后现赴 UNAM。论文和 CV 找不到的具体原因，以及 OpenAlex 串档时用 INSPIRE 的数值与范围，见个人字段表。",
       "rosterLinks": [
         [
           "QIP IIT Delhi · Faculty Research Areas",
@@ -4958,8 +4958,24 @@
           "https://rti.iitd.ac.in/sites/default/files/inst_manuals/AR-2024-25-E.pdf"
         ],
         [
+          "Applied Mechanics · Faculty",
+          "https://am.iitd.ac.in/faculty"
+        ],
+        [
+          "Applied Mechanics · postdoctoral archive",
+          "https://am.iitd.ac.in/students-postdoc"
+        ],
+        [
+          "IIT Delhi Board of Governors · April 2026 appointments",
+          "https://home.iitd.ac.in/uploads/MoM%20Special%20BoG_04.04.2026%20Final.pdf"
+        ],
+        [
           "Mechanical Engineering · Computer-Aided Graphics Instruction Laboratory",
           "https://mech.iitd.ac.in/labs/computer-aided-graphics-instruction-laboratory-cagil"
+        ],
+        [
+          "Central Research Facility · Sonipat and Hauz Khas",
+          "https://crf.iitd.ac.in/Contact.html"
         ],
         [
           "CSE · head, faculty, adjunct, honorary and former",
@@ -4974,12 +4990,56 @@
           "https://hep.iitd.ac.in/"
         ],
         [
+          "High Energy Physics and Quantum Gravity · Faculty and research members",
+          "https://hep.iitd.ac.in/"
+        ],
+        [
+          "IIT Delhi · parliamentary reply on extension campuses",
+          "https://rti.iitd.ac.in/sites/default/files/inst_manuals/PQ2023.pdf"
+        ],
+        [
+          "Mathematics · current Faculty",
+          "https://maths.iitd.ac.in/faculty"
+        ],
+        [
+          "Mathematics · postdoctoral roster",
+          "https://maths.iitd.ac.in/api/postdocs"
+        ],
+        [
+          "Mathematics · publications and research projects",
+          "https://maths.iitd.ac.in/api/research-projects"
+        ],
+        [
+          "Mathematics · retired or former faculty",
+          "https://maths.iitd.ac.in/api/retired-faculty"
+        ],
+        [
+          "Mathematics · doctoral researchers and alumni",
+          "https://maths.iitd.ac.in/api/scholars"
+        ],
+        [
+          "Mathematics · dated visiting faculty",
+          "https://maths.iitd.ac.in/api/visiting-faculty"
+        ],
+        [
+          "Mechanical Engineering · Faculty",
+          "https://mech.iitd.ac.in/faculty"
+        ],
+        [
           "Physics department · All faculty current section",
           "https://physics.iitd.ac.in/faculty"
         ],
         [
           "Physics Department · research categories",
           "https://physics.iitd.ac.in/research"
+        ],
+        [
+          "IIT Delhi · Prospectus 2026–27, campus and departments",
+          "https://home.iitd.ac.in/uploads/PROSPECTUS%202026-27.pdf"
+        ],
+        [
+          "CEP/QIP · Institute research areas",
+          "https://cepqip.iitd.ac.in/research-area"
         ],
         [
           "School of AI · named faculty roles",
@@ -4994,7 +5054,7 @@
           "https://maths.iitd.ac.in/recentresearch"
         ]
       ],
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-26"
     },
     {
       "id": "unicamp",
@@ -6815,7 +6875,7 @@
     {
       "id": "isi",
       "coverage": "sample",
-      "coverageNote": "已解析 2/4 个登记来源，32 条任职或方向待核。 已收录 4 位学者，个人主页 2、CV 0、指标 0。 已提取 Kolkata 单元名册和跨校区统计与数学分部中央名册，分别保留来源。Delhi、Bangalore 的具体任职及跨校区同人仍待核。",
+      "coverageNote": "已解析 2/4 个登记来源，31 条任职或方向待核。 已收录 5 位学者，个人主页 3、CV 0、指标 1。 已提取 Kolkata 单元名册和跨校区统计与数学分部中央名册，分别保留来源。Delhi、Bangalore 的具体任职及跨校区同人仍待核。",
       "rosterLinks": [
         [
           "Theoretical Statistics and Mathematics Division",
@@ -26225,6 +26285,95 @@
       "recordStatus": "directory"
     },
     {
+      "id": "konijeti-sreenadh",
+      "name": "Konijeti Sreenadh",
+      "aliases": [
+        "K. Sreenadh",
+        "Sreenadh Konijeti"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "iit-delhi",
+          "department": "数学系",
+          "title": "Professor (HAG), Janaki & K.A. Iyer Chair Professor",
+          "url": "https://maths.iitd.ac.in/faculty",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Analysis, Partial Differential Equations",
+        "fractional and quasilinear PDEs"
+      ],
+      "homepage": "https://sites.google.com/view/professor-sreenadh/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "本人 Experience、Awards、Publications 等分栏为公开履历。已查数学系、Research Ambit、阿布扎比具名页面。尚无可核独立 CV 文件。",
+      "publicationsUrl": "https://sites.google.com/view/professor-sreenadh/publications",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。 作品端与作者端收录总量存在差异，以独立 type:article 查询展示文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5072035531",
+          "url": "https://openalex.org/A5072035531",
+          "orcid": "https://orcid.org/0000-0001-7953-7887",
+          "authorApiUrl": "https://api.openalex.org/authors/A5072035531",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5072035531,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 117,
+          "works": 134,
+          "citations": 1621,
+          "hIndex": 21,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        },
+        {
+          "source": "Google Scholar",
+          "authorId": "iXL9BmwAAAAJ",
+          "url": "https://scholar.google.com/citations?user=iXL9BmwAAAAJ&hl=en",
+          "checkedAt": "2026-11-26",
+          "citations": 2025,
+          "hIndex": 24,
+          "citationScope": "Google Scholar 作者档案 All 栏"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Multiplicity of positive solutions for a class of nonhomogeneous elliptic equations in the hyperbolic space",
+          "year": 2025,
+          "url": "https://doi.org/10.1017/prm.2024.18"
+        },
+        {
+          "title": "Existence of High Energy-Positive Solutions for a Class of Elliptic Equations in the Hyperbolic Space",
+          "year": 2023,
+          "url": "https://doi.org/10.1007/s12220-022-01128-2"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Analysis, Partial Differential Equations",
+          "url": "https://maths.iitd.ac.in/faculty"
+        },
+        {
+          "text": "Analysis, Partial Differential Equations",
+          "url": "https://maths.iitd.ac.in/faculty"
+        },
+        {
+          "text": "Geometric analysis of nonlinear elliptic equations on hyperbolic manifolds; fractional and quasilinear PDEs",
+          "url": "https://sites.google.com/view/professor-sreenadh/publications"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
       "id": "pinakinath-saha",
       "name": "Pinakinath Saha",
       "aliases": [],
@@ -26235,7 +26384,7 @@
           "title": "Assistant Professor",
           "url": "https://researchambit.iitd.ac.in/faculty/pinakinath",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -26247,7 +26396,7 @@
       "homepage": "https://pinakinath.github.io/",
       "homepageStatus": null,
       "cvUrl": "https://pinakinath.github.io/pinakinath_cv.pdf",
-      "cvType": null,
+      "cvType": "公开 CV（三页 PDF）",
       "cvStatus": null,
       "publicationsUrl": "https://pinakinath.github.io/pinakinath_cv.pdf",
       "publicationCounts": [
@@ -26275,11 +26424,50 @@
           "hIndex": 3,
           "articleScope": "OpenAlex type:article",
           "citationScope": "OpenAlex 作者档案累计引用"
+        },
+        {
+          "source": "OpenAlex",
+          "authorId": "A5010537615",
+          "url": "https://openalex.org/A5010537615",
+          "orcid": "https://orcid.org/0000-0003-1077-3990",
+          "authorApiUrl": "https://api.openalex.org/authors/A5010537615",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5010537615,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 10,
+          "works": 18,
+          "citations": 39,
+          "hIndex": 3,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        },
+        {
+          "source": "Google Scholar",
+          "authorId": "skBYDGgAAAAJ",
+          "url": "https://scholar.google.com/citations?user=skBYDGgAAAAJ&hl=en",
+          "checkedAt": "2026-11-26",
+          "citations": 48,
+          "hIndex": 3,
+          "citationScope": "Google Scholar 作者档案 All 栏"
         }
       ],
-      "identityUrl": null,
-      "papers": [],
+      "identityUrl": "https://openalex.org/authors/A5010537615",
+      "papers": [
+        {
+          "title": "Toric Richardson varieties",
+          "year": 2025,
+          "url": "https://doi.org/10.1080/00927872.2024.2422028"
+        },
+        {
+          "title": "Blow-up of a Generalized Flag Variety",
+          "year": 2025,
+          "url": "https://doi.org/10.1007/s10468-025-10364-3"
+        }
+      ],
       "directoryEvidence": [
+        {
+          "text": "Algebraic Geometry & Representation Theory",
+          "url": "https://maths.iitd.ac.in/faculty"
+        },
         {
           "text": "Algebraic Geometry & Representation Theory",
           "url": "https://maths.iitd.ac.in/faculty"
@@ -26293,7 +26481,7 @@
           "url": "https://researchambit.iitd.ac.in/faculty/pinakinath"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -26307,7 +26495,7 @@
           "title": "Associate Professor",
           "url": "https://maths.iitd.ac.in/faculty",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -26320,21 +26508,63 @@
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
-      "publicationCounts": [],
+      "cvStatus": "本人 IIT Delhi 网页、校方教师名册、Research Ambit、IRINS 索引（直连 403）和 Purdue 博士库已查，未确认单独公开 CV。",
+      "publicationsUrl": "https://iitd.irins.org/profile/213960",
+      "publicationCounts": [
+        {
+          "value": 20,
+          "scope": "IIT Delhi IRINS 具名档 2016–2026 Journal Articles 栏",
+          "url": "https://iitd.irins.org/profile/213960",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5066273214",
+          "url": "https://openalex.org/A5066273214",
+          "orcid": "https://orcid.org/0000-0002-7202-8083",
+          "authorApiUrl": "https://api.openalex.org/authors/A5066273214",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5066273214,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 20,
+          "works": 25,
+          "citations": 175,
+          "hIndex": 8,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Equations defining the Rees algebra of ideals and the G(d-1) condition",
+          "year": 2025,
+          "url": "https://doi.org/10.1016/j.jalgebra.2025.04.007"
+        },
+        {
+          "title": "Symbolic powers of classical varieties",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s11856-026-2931-6"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Commutative Algebra, Algebraic Geometry",
           "url": "https://maths.iitd.ac.in/faculty"
+        },
+        {
+          "text": "Commutative Algebra, Algebraic Geometry",
+          "url": "https://maths.iitd.ac.in/faculty"
+        },
+        {
+          "text": "Algebraic geometry and commutative algebra, Rees algebras, symbolic powers, projective embeddings and blowups",
+          "url": "https://web.iitd.ac.in/~vmukunda/"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -26878,6 +27108,72 @@
         }
       ],
       "checkedAt": "2026-11-24",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "debdip-ganguly",
+      "name": "Debdip Ganguly",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "isi",
+          "department": "数学系",
+          "title": "Associate Professor · Theoretical Statistics and Mathematics Unit, Delhi Centre",
+          "url": "https://www.isid.ac.in/~statmath/tsmud/faculty.html",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/site/debdipganguly02/home",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查本人主页或公开任职公告、毕业资料及机构介绍，暂无可独立核对的公开 CV。",
+      "publicationsUrl": "https://sites.google.com/site/debdipganguly02/publications-prepeints",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "核对现任及既往机构、本人学术履历与至少两条本领域文章作者信息，高引作品逐项抽查。 作品端与作者端收录总量存在差异，以独立 type:article 查询展示文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5032167815",
+          "url": "https://openalex.org/A5032167815",
+          "orcid": null,
+          "authorApiUrl": "https://api.openalex.org/authors/A5032167815",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5032167815,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 29,
+          "works": 39,
+          "citations": 454,
+          "hIndex": 11,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "An optimal improvement for the Hardy inequality on the hyperbolic space and related manifolds",
+          "year": 2019,
+          "url": "https://doi.org/10.1017/prm.2018.139"
+        },
+        {
+          "title": "Hardy–Rellich and second order Poincaré identities on the hyperbolic space via Bessel pairs",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s00526-022-02232-5"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis, rigidity of Cartan–Hadamard and hyperbolic manifolds",
+          "url": "https://sites.google.com/site/debdipganguly02/home"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {

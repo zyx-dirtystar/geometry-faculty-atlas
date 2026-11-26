@@ -3868,8 +3868,38 @@
       "label": "IIT Delhi · Annual Report Academic Staff and Math Department",
       "status": "reference",
       "count": 0,
-      "checked_at": null,
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "checked_at": "2026-11-26",
+      "note": "已读 248 页年报，PDF 第 79–83 页为数学系相应具名材料。它是学年历史快照，当前源优先。"
+    },
+    {
+      "id": "iitd-applied-mechanics-b39",
+      "school": "iit-delhi",
+      "url": "https://am.iitd.ac.in/faculty",
+      "label": "Applied Mechanics · Faculty",
+      "status": "reference",
+      "count": 39,
+      "checked_at": "2026-11-26",
+      "note": "读院系公开全页 39 个不重复元素，核材料、连续介质、船流和微结构。几何相关方法须与纯数学研究方向核实。"
+    },
+    {
+      "id": "iitd-applied-postdoc-b39",
+      "school": "iit-delhi",
+      "url": "https://am.iitd.ac.in/students-postdoc",
+      "label": "Applied Mechanics · postdoctoral archive",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "读取当前页，公开的时间筛选为 2016–2025 历史归档，主要在力学与工程。无 2026 具名单列条目。"
+    },
+    {
+      "id": "iitd-board-202604-b39",
+      "school": "iit-delhi",
+      "url": "https://home.iitd.ac.in/uploads/MoM%20Special%20BoG_04.04.2026%20Final.pdf",
+      "label": "IIT Delhi Board of Governors · April 2026 appointments",
+      "status": "reference",
+      "count": 4,
+      "checked_at": "2026-11-26",
+      "note": "4 月 4 日会议公开附件第 6 页。逐项核对 3 月 17 日两条数学遴选与物理两条晋升，遴选结果与当前独立教师卡分开。"
     },
     {
       "id": "iitd-cagil31",
@@ -3880,6 +3910,16 @@
       "count": 0,
       "checked_at": null,
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "iitd-crf-sonipat-b39",
+      "school": "iit-delhi",
+      "url": "https://crf.iitd.ac.in/Contact.html",
+      "label": "Central Research Facility · Sonipat and Hauz Khas",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "主校和 Sonipat 共用科研设施管理名单。Sonepat 的 Technopark、CRF 及大气观测设施无独立数学教研名册。"
     },
     {
       "id": "iitd-cse-people31",
@@ -3912,6 +3952,96 @@
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
+      "id": "iitd-hep39",
+      "school": "iit-delhi",
+      "url": "https://hep.iitd.ac.in/",
+      "label": "High Energy Physics and Quantum Gravity · Faculty and research members",
+      "status": "reference",
+      "count": 23,
+      "checked_at": "2026-11-26",
+      "note": "该官方应用页面静态包公布全部七位教员，以及 current/recent 博士后与学生。按起讫日期、研究组与物理系正式职务交叉。"
+    },
+    {
+      "id": "iitd-jhajjar-b39",
+      "school": "iit-delhi",
+      "url": "https://rti.iitd.ac.in/sites/default/files/inst_manuals/PQ2023.pdf",
+      "label": "IIT Delhi · parliamentary reply on extension campuses",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "校方答复说明 Jhajjar 为规划医疗扩展区，2026-03 公布的技术调查记录原地块不能施工。未发现当地已运行数学编制。"
+    },
+    {
+      "id": "iitd-math-faculty-b39",
+      "school": "iit-delhi",
+      "url": "https://maths.iitd.ac.in/faculty",
+      "label": "Mathematics · current Faculty",
+      "status": "parsed",
+      "count": 34,
+      "checked_at": "2026-11-26",
+      "note": "主系前端调用的 api/faculty 完整 34 条现聘教师卡，均有研究标签。已与 2024–25 年报及 2026 任命核对。"
+    },
+    {
+      "id": "iitd-math-postdoctoral-b39",
+      "school": "iit-delhi",
+      "url": "https://maths.iitd.ac.in/api/postdocs",
+      "label": "Mathematics · postdoctoral roster",
+      "status": "parsed",
+      "count": 1,
+      "checked_at": "2026-11-26",
+      "note": "完整公开表 1 位 Nayan Adhikary，拓扑与动力系统，和 2025 年 12 月正式公开人员表及作者研究核对。"
+    },
+    {
+      "id": "iitd-math-projects-b39",
+      "school": "iit-delhi",
+      "url": "https://maths.iitd.ac.in/api/research-projects",
+      "label": "Mathematics · publications and research projects",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "公开项目全表 15 条及 recentresearch 使用的 1 个结构化近年发表版，交叉确认几何方向。"
+    },
+    {
+      "id": "iitd-math-retired-b39",
+      "school": "iit-delhi",
+      "url": "https://maths.iitd.ac.in/api/retired-faculty",
+      "label": "Mathematics · retired or former faculty",
+      "status": "parsed",
+      "count": 26,
+      "checked_at": "2026-11-26",
+      "note": "院系网站现用公开数据，26 条退休或离任。Debdip Ganguly 的 ISI 副教授主聘为离任例外，职称逐项看独立现任材料。"
+    },
+    {
+      "id": "iitd-math-scholars-b39",
+      "school": "iit-delhi",
+      "url": "https://maths.iitd.ac.in/api/scholars",
+      "label": "Mathematics · doctoral researchers and alumni",
+      "status": "parsed",
+      "count": 113,
+      "checked_at": "2026-11-26",
+      "note": "同一公开 API 113 条，按 isalumni 分出 83 位在读、30 位校友，逐项读公开研究方向。只保留姓名、角色、公开学术主题和校方卡。"
+    },
+    {
+      "id": "iitd-math-visiting-b39",
+      "school": "iit-delhi",
+      "url": "https://maths.iitd.ac.in/api/visiting-faculty",
+      "label": "Mathematics · dated visiting faculty",
+      "status": "parsed",
+      "count": 6,
+      "checked_at": "2026-11-26",
+      "note": "官网公开源全部 6 条，起讫在 2024-12 至 2025-01。访问期已结束；记录主职及具名访期。"
+    },
+    {
+      "id": "iitd-mechanical-b39",
+      "school": "iit-delhi",
+      "url": "https://mech.iitd.ac.in/faculty",
+      "label": "Mechanical Engineering · Faculty",
+      "status": "reference",
+      "count": 52,
+      "checked_at": "2026-11-26",
+      "note": "完整 52 位，32 正、8 副、12 助理教授。逐项筛选研究标签，机器人、计算形状、机械设计与经典几何主方向分别核对。"
+    },
+    {
       "id": "iitd-physics-dept31",
       "school": "iit-delhi",
       "url": "https://physics.iitd.ac.in/faculty",
@@ -3930,6 +4060,26 @@
       "count": 0,
       "checked_at": null,
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "iitd-prospectus26-b39",
+      "school": "iit-delhi",
+      "url": "https://home.iitd.ac.in/uploads/PROSPECTUS%202026-27.pdf",
+      "label": "IIT Delhi · Prospectus 2026–27, campus and departments",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "官方手册核主校、Sonepat 科研延伸区和 Abu Dhabi 国际校区。Sonepat 为设施型研究和产业合作。"
+    },
+    {
+      "id": "iitd-qip-b39",
+      "school": "iit-delhi",
+      "url": "https://cepqip.iitd.ac.in/research-area",
+      "label": "CEP/QIP · Institute research areas",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "公开跨院表 829 条题目卡，交叉核行政单位、几何词和具名人物；仍列 2024 已离任者，以各院现行分栏为准。"
     },
     {
       "id": "iitd-scai31",
@@ -112004,6 +112154,2886 @@
         "source_kind": "department",
         "source_url": "https://math.iitm.ac.in/",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "amitabhatripathi",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Amitabha Tripathi",
+        "title": "Professor",
+        "research": "Number Theory, Ramsey Theory, Graph Theory",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "amitpriyadarshi",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Amit Priyadarshi",
+        "title": "Associate Professor",
+        "research": "Fractal Dimensions, Fractal Interpolations, Quantization Dimensions, Analysis on Fractals",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "anantakumarmajee",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Ananta Kumar Majee",
+        "title": "Associate Professor",
+        "research": "Stochastic Partial Differential Equations",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "animanagar",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Anima Nagar",
+        "title": "Associate Professor",
+        "research": "Dynamical Systems",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "aparajitadasgupta",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Aparajita Dasgupta",
+        "title": "Associate Professor",
+        "research": "Harmonic Analysis, Pseudo-Differential Operators, Partial Differential equations",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "aparnamehra",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Aparna Mehra",
+        "title": "Professor",
+        "research": "Optimization, Portfolio Optimization, Fuzzy Optimization, Numerical Optimization, Decision-Making",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "ashutoshrai",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Ashutosh Rai",
+        "title": "Associate Professor",
+        "research": "Theoretical Computer Science, Algorithms, Graph Theory",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "bhawanisankarpanda",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Bhawani Sankar Panda",
+        "title": "Professor (HAG)",
+        "research": "Graph Theory, Graph Algorithms, Combinatorial Optimization, Machine Learning on Graphs",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "biplabbasak",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Biplab Basak",
+        "title": "Associate Professor",
+        "research": "Algebraic Topology, Combinatorial Topology and Discrete Mathematics",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "biplabpaul",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Biplab Paul",
+        "title": "Assistant Professor",
+        "research": "Multivariate Statistics, High-Dimensional Hypothesis Testing, Functional Data Analysis and Its Applications in Behavioral Science",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "biswajyotisaha",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Biswajyoti Saha",
+        "title": "Assistant Professor",
+        "research": "Number Theory",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "dalujacob",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Dalu Jacob",
+        "title": "Assistant Professor",
+        "research": "Graph theory and Graph algorithms",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "ekatasaha",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Ekata Saha",
+        "title": "Associate Professor",
+        "research": "Number Theory",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "harishkumar",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Harish Kumar",
+        "title": "Professor",
+        "research": "Numerical Methods for Hyperbolic PDEs and applications related to fluid and plasma flow models",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "harmendergahlawat",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Harmender Gahlawat",
+        "title": "Assistant Professor",
+        "research": "Theoretical Computer Science, Games on Graphs, Parameterized and Approximation Algorithms",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "kamanaporwal",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Kamana Porwal",
+        "title": "Associate Professor",
+        "research": "Finite Element Methods, A Posteriori Error Analysis, Nonlinear Elliptic PDEs, Optimal Control Problems",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "konijetisreenadh",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Konijeti Sreenadh",
+        "title": "Professor (HAG), Janaki & K.A. Iyer Chair Professor",
+        "research": "Analysis, Partial Differential Equations",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "manimehra",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Mani Mehra",
+        "title": "Professor, Head of Department",
+        "research": "Wavelet methods for Partial Differential Equations, Numerical Methods",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "minatide",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Minati De",
+        "title": "Associate Professor",
+        "research": "Approximation and Online Algorithms, Computational and Combinatorial Geometry",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "neerajjoshi",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Neeraj Joshi",
+        "title": "Assistant Professor",
+        "research": "Sequential Analysis, Statistical Inference, Statistical Reliability Theory, Statistical Quality Control",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "nshravankumar",
+      "school": "iit-delhi",
+      "record": {
+        "name": "N. Shravan Kumar",
+        "title": "Professor",
+        "research": "Abstract Harmonic Analysis",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "pinakinathsaha",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Pinakinath Saha",
+        "title": "Assistant Professor",
+        "research": "Algebraic Geometry & Representation Theory",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "punitsharma",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Punit Sharma",
+        "title": "Associate Professor",
+        "research": "Linear Algebra, Numerical Linear Algebra, and their Applications in Control Theory.",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "rahulsingh",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Rahul Singh",
+        "title": "Assistant Professor",
+        "research": "Bayesian Methods, Inference based on Ordered Data, Nonparametric Methods, Stochastic Gradient Descent",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "ritumonisarma",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Ritumoni Sarma",
+        "title": "Professor",
+        "research": "Algebra, Number Theory, Coding Theory",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "schandrasekhararao",
+      "school": "iit-delhi",
+      "record": {
+        "name": "S. Chandra Sekhara Rao",
+        "title": "Professor",
+        "research": "Parallel Computing, Numerical Linear Algebra, Computational Ordinary/Partial Differential Equations",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "sdharmaraja",
+      "school": "iit-delhi",
+      "record": {
+        "name": "S Dharmaraja",
+        "title": "Professor (HAG)",
+        "research": "Statistical data analysis, Queueing theory, Stochastic modeling of communication systems, Reliability, Financial mathematics.",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "shivprakashpatel",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Shiv Prakash Patel",
+        "title": "Assistant Professor",
+        "research": "Representation theory, automorphic forms, Number theory",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "ssivananthan",
+      "school": "iit-delhi",
+      "record": {
+        "name": "S. Sivananthan",
+        "title": "Professor",
+        "research": "Harmonic analysis and Learning Theory",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "surjeetkour",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Surjeet Kour",
+        "title": "Associate Professor",
+        "research": "Commutative Algebra, Category Theory, Noncommutative Geometry.",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "vijayanandakalyanasrinivaskumarvasana",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Vijayananda Kalyana Srinivas Kumar Vasana",
+        "title": "Assistant Professor",
+        "research": "Numerical Analysis.",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "vikasvikramsingh",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Vikas Vikram Singh",
+        "title": "Associate Professor",
+        "research": "Stochastic Games, Chance Constraints, Stochastic Optimization, Distributionally Robust Optimization",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "viswanathanputhanveedu",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Viswanathan Puthan Veedu",
+        "title": "Professor",
+        "research": "Fractal interpolation and approximation; Iterated function systems and fixed point theory.",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-faculty-b39",
+      "person_key": "vivekmukundan",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Vivek Mukundan",
+        "title": "Associate Professor",
+        "research": "Commutative Algebra, Algebraic Geometry",
+        "profile": "https://maths.iitd.ac.in/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-postdoctoral-b39",
+      "person_key": "nayanadhikary",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Nayan Adhikary",
+        "title": "Postdoctoral Fellow",
+        "research": "Topology, Dynamical Systems",
+        "profile": "https://maths.iitd.ac.in/api/postdocs",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/postdocs",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "anagabhushanam",
+      "school": "iit-delhi",
+      "record": {
+        "name": "A. Nagabhushanam",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "bchandra",
+      "school": "iit-delhi",
+      "record": {
+        "name": "B. Chandra",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "bchoudhary",
+      "school": "iit-delhi",
+      "record": {
+        "name": "B. Choudhary",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "brhanda",
+      "school": "iit-delhi",
+      "record": {
+        "name": "B. R. Handa",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "debdipganguly",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Debdip Ganguly",
+        "title": "Former faculty",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "hlmanocha",
+      "school": "iit-delhi",
+      "record": {
+        "name": "H. L. Manocha",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "jbsrivastava",
+      "school": "iit-delhi",
+      "record": {
+        "name": "J. B. Srivastava",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "knmehta",
+      "school": "iit-delhi",
+      "record": {
+        "name": "K. N. Mehta",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "mcpuri",
+      "school": "iit-delhi",
+      "record": {
+        "name": "M. C. Puri",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "mkjain",
+      "school": "iit-delhi",
+      "record": {
+        "name": "M. K. Jain",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "mmchawla",
+      "school": "iit-delhi",
+      "record": {
+        "name": "M. M. Chawla",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "mpsingh",
+      "school": "iit-delhi",
+      "record": {
+        "name": "M. P. Singh",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "niladrichatterjee",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Niladri Chatterjee",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "nskambo",
+      "school": "iit-delhi",
+      "record": {
+        "name": "N. S. Kambo",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "opbhutani",
+      "school": "iit-delhi",
+      "record": {
+        "name": "O. P. Bhutani",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "opsharma",
+      "school": "iit-delhi",
+      "record": {
+        "name": "O. P. Sharma",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "pkbhattacharya",
+      "school": "iit-delhi",
+      "record": {
+        "name": "P. K. Bhattacharya",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "premkumar",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Prem Kumar",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "rajahuja",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Raj Ahuja",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "rkjain",
+      "school": "iit-delhi",
+      "record": {
+        "name": "R. K. Jain",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "rksharma",
+      "school": "iit-delhi",
+      "record": {
+        "name": "R. K. Sharma",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "srkiyengar",
+      "school": "iit-delhi",
+      "record": {
+        "name": "S. R. K. Iyengar",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "subimankundu",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Subiman Kundu",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "sureshchandra",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Suresh Chandra",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "wagishshukla",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Wagish Shukla",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-retired-b39",
+      "person_key": "yashpaul",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Yash Paul",
+        "title": "Retired professor",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/retired-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/retired-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "aartiyadav",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Aarti Yadav",
+        "title": "Doctoral student",
+        "research": "Data Envelopment Analysis (DEA)",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/119",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "abhijitjana",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Abhijit Jana",
+        "title": "Doctoral student",
+        "research": "Algebraic Geometry",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/160",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "abhilashtushir",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Abhilash Tushir",
+        "title": "Former doctoral student",
+        "research": "Analysis of PDEs",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/47",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "abhinavkumarsingh",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Abhinav Kumar Singh",
+        "title": "Doctoral student",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/190",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "abhinaykumargupta",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Abhinay Kumar Gupta",
+        "title": "Former doctoral student",
+        "research": "Integral Group Rings, Group Algebras",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/165",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "akanksha",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Akanksha",
+        "title": "Doctoral student",
+        "research": "Algebra and Coding Theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/105",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "akankshagupta",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Akanksha Gupta",
+        "title": "Doctoral student",
+        "research": "Number Theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/52",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "amritapaul",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Amrita Paul",
+        "title": "Doctoral student",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/185",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "amritkumar",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Amrit Kumar",
+        "title": "Doctoral student",
+        "research": "Fuzzy & Rough Set Theories and Logics and Their Application To Learning and Knowledge Representation",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/113",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "anjalinaik",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Anjali Naik",
+        "title": "Doctoral student",
+        "research": "Uncertain Data Envelopment Analysis",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/64",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "ankit",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Ankit",
+        "title": "Doctoral student",
+        "research": "Algebraic Coding Theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/110",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "ankitaparashar",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Ankita Parashar",
+        "title": "Former doctoral student",
+        "research": "Representation theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/50",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "anshu",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Anshu",
+        "title": "Doctoral student",
+        "research": "Combinatorial and PL Topology-colored triangulation of PL manifolds",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/104",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "anshulprajapati",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Anshul Prajapati",
+        "title": "Former doctoral student",
+        "research": "Numerical Linear Algebra",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/120",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "anujkumarbhagat",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Anuj Kumar Bhagat",
+        "title": "Doctoral student",
+        "research": "Algebra and Algebraic Coding Theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/66",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "arpitdawar",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Arpit Dawar",
+        "title": "Doctoral student",
+        "research": "Fractal Dimension",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/171",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "arshirizvi",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Arshi Rizvi",
+        "title": "Doctoral student",
+        "research": "Statistics",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/117",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "arvishdabra",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Arvish Dabra",
+        "title": "Doctoral student",
+        "research": "Harmonic Analysis",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/57",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "aryansawhney",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Aryan Sawhney",
+        "title": "Doctoral student",
+        "research": "Matching Theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/178",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "aseemdalal",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Aseem Dalal",
+        "title": "Former doctoral student",
+        "research": "Graph Theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/54",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "ashwanirajput",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Ashwani Rajput",
+        "title": "Doctoral student",
+        "research": "Sequential Analysis",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/80",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "ashwinikumarupadhyay",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Ashwini Kumar Upadhyay",
+        "title": "Doctoral student",
+        "research": "Stochastic Partial Differential Equations",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/199",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "asthajain",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Astha Jain",
+        "title": "Doctoral student",
+        "research": "Learning Theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/200",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "atulkumarpatel",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Atul Kumar Patel",
+        "title": "Doctoral student",
+        "research": "Stochastic Partial Differential Equation",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/193",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "ayushitrivedi",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Ayushi Trivedi",
+        "title": "Doctoral student",
+        "research": "Combinatorial Topology",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/88",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "bikrammisra",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Bikram Misra",
+        "title": "Doctoral student",
+        "research": "Number Theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/141",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "biswajitganguly",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Biswajit Ganguly",
+        "title": "Doctoral student",
+        "research": "Harmonic Analysis",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/81",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "catherinbernard",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Catherin Bernard",
+        "title": "Doctoral student",
+        "research": "Graph Theory and Graph Algorithms",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/84",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "chetanadas",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Chetana Das",
+        "title": "Doctoral student",
+        "research": "Sequential Analysis, Multiple Hypothesis Testing",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/194",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "chetansingh",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Chetan Singh",
+        "title": "Doctoral student",
+        "research": "Computational Methods for Hyperbolic PDEs",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/60",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "debolinaghosh",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Debolina Ghosh",
+        "title": "Doctoral student",
+        "research": "Topology",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/192",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "dikshagupta",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Diksha Gupta",
+        "title": "Former doctoral student",
+        "research": "Analysis of PDEs, Calculus of Variation, Hyperbolic Space",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/58",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "diptipaik",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Dipti Paik",
+        "title": "Doctoral student",
+        "research": "Commutative Algebra & Algebraic Geometry and Category Theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/152",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "divya",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Divya",
+        "title": "Former doctoral student",
+        "research": "Category Theory and Homological Algebra",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/51",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "divyaneegarg",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Divyanee Garg",
+        "title": "Doctoral student",
+        "research": "Portfolio Management, Robust Optimization",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/85",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "divyanshukala",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Divyanshu Kala",
+        "title": "Former doctoral student",
+        "research": "Number Theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/86",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "drishtigarg",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Drishti Garg",
+        "title": "Doctoral student",
+        "research": "Harmonic Analysis",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/169",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "gyanendrakumarverma",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Gyanendra Kumar Verma",
+        "title": "Former doctoral student",
+        "research": "Algebraic Coding Theory, Algebra, Finite Fields",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/53",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "harsh",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Harsh",
+        "title": "Doctoral student",
+        "research": "Fractal Geometry",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/116",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "harshdeepsingh",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Harshdeep Singh",
+        "title": "Doctoral student",
+        "research": "Code based Cryptography",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/83",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "himanshurewri",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Himanshu Rewri",
+        "title": "Former doctoral student",
+        "research": "Commutative Algebra",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/49",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "jayaagnihotri",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Jaya Agnihotri",
+        "title": "Former doctoral student",
+        "research": "Hyperbolic Conservation laws, Numerical Methods for hyperbolic PDE’s.",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/112",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "jyotsnasharma",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Jyotsna Sharma",
+        "title": "Former doctoral student",
+        "research": "Fields with primitive elements, Algebra",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/174",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "kanupriya",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Kanupriya",
+        "title": "Doctoral student",
+        "research": "Abstract Harmonic Analysis",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/62",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "kavinr",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Kavin R",
+        "title": "Former doctoral student",
+        "research": "Stochastic Partial Differential Equations",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/69",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "khushisen",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Khushi Sen",
+        "title": "Doctoral student",
+        "research": "Reliability Theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/189",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "kishoreu",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Kishore U",
+        "title": "Doctoral student",
+        "research": "Finite Element Methods for Boundary Value Problems",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/196",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "kislayatiwari",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Kislaya Tiwari",
+        "title": "Doctoral student",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/103",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "knsridharannamboodiri",
+      "school": "iit-delhi",
+      "record": {
+        "name": "K N Sridharan Namboodiri",
+        "title": "Doctoral student",
+        "research": "Abstract Harmonic Analysis, Analysis on Groupoids, Operator Theory.",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/56",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "krishansharma",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Krishan Sharma",
+        "title": "Doctoral student",
+        "research": "Harmonic Analysis",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/95",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "kunika",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Kunika",
+        "title": "Doctoral student",
+        "research": "Numerical Analysis",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/195",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "lalitmohan",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Lalit Mohan",
+        "title": "Former doctoral student",
+        "research": "Harmonic Analysis, Pseudo-differential Operators, Fourier Integral Operators",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/63",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "mangaldeepsaha",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Mangaldeep Saha",
+        "title": "Doctoral student",
+        "research": "Combinatorial Topology",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/98",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "mansiyadav",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Mansi Yadav",
+        "title": "Doctoral student",
+        "research": "Finite Element Methods for PDEs",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/92",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "mohammadsarfraz",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Mohammad Sarfraz",
+        "title": "Former doctoral student",
+        "research": "Stochastic Modelling in Insurance and Finance, Machine Learning, Statistical Inference",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/65",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "mohitkumarbaghel",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Mohit Kumar Baghel",
+        "title": "Former doctoral student",
+        "research": "Linear Algebra, Numerical Linear Algebra and their applications in Control Theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/168",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "mohitsinghkarki",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Mohit Singh Karki",
+        "title": "Doctoral student",
+        "research": "Topics in Geometric Algorithms",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/121",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "nandanimaurya",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Nandani Maurya",
+        "title": "Doctoral student",
+        "research": "Game Theory and Optimization",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/188",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "naveengupta",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Naveen Gupta",
+        "title": "Former doctoral student",
+        "research": "Applied Mathematics, Learning Theory, Functional Data Analysis",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/48",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "nehaarora",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Neha Arora",
+        "title": "Former doctoral student",
+        "research": "Blockchain, Cryptography",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/158",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "nidhi",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Nidhi",
+        "title": "Doctoral student",
+        "research": "Elliptic Partial Differential Equations",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/93",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "nitinkumar",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Nitin Kumar",
+        "title": "Doctoral student",
+        "research": "Numerical Hyperbolic partial differential equation",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/155",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "nitinvishwakarma",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Nitin Vishwakarma",
+        "title": "Doctoral student",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/205",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "paritoshroy",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Paritosh Roy",
+        "title": "Doctoral student",
+        "research": "Optimization and game theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/72",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "parulnishad",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Parul Nishad",
+        "title": "Doctoral student",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/202",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "pawansinghmehta",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Pawan Singh Mehta",
+        "title": "Doctoral student",
+        "research": "Number Theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/108",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "prernagulia",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Prerna Gulia",
+        "title": "Doctoral student",
+        "research": "Harmonic Analysis",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/90",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "priyamittal",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Priya Mittal",
+        "title": "Former doctoral student",
+        "research": "Financial mathematics, Stochastic modelling of derivatives",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/74",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "punityadav",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Punit Yadav",
+        "title": "Doctoral student",
+        "research": "Numerical Methods for Hyperbolic Partial Differential Equations",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/77",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "rajukumargupta",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Raju Kumar Gupta",
+        "title": "Former doctoral student",
+        "research": "Combinatorial Topology, Algebraic topology, Combinatorics",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/99",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "ratnadipmandal",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Ratnadip Mandal",
+        "title": "Doctoral student",
+        "research": "Computational Geometry",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/94",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "ridipmedhi",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Ridip Medhi",
+        "title": "Former doctoral student",
+        "research": "Approximation theory, Fractal Geometry.",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/154",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "rishabh",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Rishabh",
+        "title": "Doctoral student",
+        "research": "Fractal Geometry and Dimensions.",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/181",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "ritikasinghal",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Ritika Singhal",
+        "title": "Former doctoral student",
+        "research": "Harmonic Analysis",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/76",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "ritukumari",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Ritu Kumari",
+        "title": "Doctoral student",
+        "research": "Wavelet Collocation Method for Optimal Control Problems",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/106",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "ritwikprabinkalita",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Ritwik Prabin Kalita",
+        "title": "Doctoral student",
+        "research": "Numerical Linear Algebra - Rational Matrix Polynomial.",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/87",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "rumkighosh",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Rumki Ghosh",
+        "title": "Doctoral student",
+        "research": "Graph Coloring and Its Variations: Structural and Algorithmic Study",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/111",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "rupendrayadav",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Rupendra Yadav",
+        "title": "Doctoral student",
+        "research": "Financial Optimization",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/71",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "saanvi",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Saanvi",
+        "title": "Doctoral student",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/161",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "sachin",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Sachin",
+        "title": "Doctoral student",
+        "research": "Algorithms, Graph Theory, Theoretical Computer Science",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/176",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "sahiba",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Sahiba",
+        "title": "Doctoral student",
+        "research": "Algorithmic Graph Theory, Parameterized Complexity",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/73",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "sarthakraj",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Sarthak Raj",
+        "title": "Doctoral student",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/70",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "sarveshpandey",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Sarvesh Pandey",
+        "title": "Doctoral student",
+        "research": "Numerical Analysis, Scientific Computing",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/102",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "saumyajitdas",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Saumyajit Das",
+        "title": "Doctoral student",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/177",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "sayandippandit",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Sayandip Pandit",
+        "title": "Doctoral student",
+        "research": "Geometry of Analysis , Fractal Geometry",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/170",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "shaktisingh",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Shakti Singh",
+        "title": "Former doctoral student",
+        "research": "Finance, Actuarial Science, Variable Annuities, Insurance",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/157",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "shamiksha",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Shamiksha",
+        "title": "Doctoral student",
+        "research": "Probability Theory, Hawkes Process",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/68",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "shammimalhotra",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Shammi Malhotra",
+        "title": "Doctoral student",
+        "research": "Elliptic Partial Differential Equations",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/156",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "sheetaljauhari",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Sheetal Jauhari",
+        "title": "Doctoral student",
+        "research": "Number theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/186",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "shrutichoudhury",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Shruti Choudhury",
+        "title": "Doctoral student",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/198",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "shubham",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Shubham",
+        "title": "Doctoral student",
+        "research": "Numerical analysis",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/204",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "shwetakumari",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Shweta Kumari",
+        "title": "Doctoral student",
+        "research": "Numerical methods for loaded fractional PDEs, Scientific Computing",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/59",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "sitabissu",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Sita Bissu",
+        "title": "Doctoral student",
+        "research": "Optimization",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/79",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "sonamgariya",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Sonam Gariya",
+        "title": "Doctoral student",
+        "research": "Graph Algorithms, Parameterized Algorithms, Online Algorithms",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/75",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "soniyatakshak",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Soniya Takshak",
+        "title": "Former doctoral student",
+        "research": "Finite Fields",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/175",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "soumenmandal",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Soumen Mandal",
+        "title": "Former doctoral student",
+        "research": "Parameterized Algorithms, Approximation Algorithms",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/107",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "soumyajitsarkar",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Soumyajit Sarkar",
+        "title": "Doctoral student",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/201",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "soumyaranjanbehera",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Soumya Ranjan Behera",
+        "title": "Former doctoral student",
+        "research": "Stochastic Partial Differential Equations, Stochastic conservation laws",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/55",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "soumyashreerana",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Soumyashree Rana",
+        "title": "Doctoral student",
+        "research": "Algorithmic Graph Theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/96",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "souravsarkar",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Sourav Sarkar",
+        "title": "Former doctoral student",
+        "research": "Combinatorial and PL topology: Triangulation of manifolds and pseudomanifolds, Algebraic Topology, Extremal Combinatorics.",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/114",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "subhasmitajoshi",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Subhasmita Joshi",
+        "title": "Doctoral student",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/109",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "sudhayadav",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Sudha Yadav",
+        "title": "Doctoral student",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/203",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "sujoybasak",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Sujoy Basak",
+        "title": "Doctoral student",
+        "research": "Numerical Hyperbolic PDE",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/97",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "surajkumar",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Suraj Kumar",
+        "title": "Former doctoral student",
+        "research": "Commutative Algebra",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/89",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "swarajkoley",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Swaraj Koley",
+        "title": "Doctoral student",
+        "research": "Commutative Algebra",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/118",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "tanvi",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Tanvi",
+        "title": "Former doctoral student",
+        "research": "Numerical Analysis",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/163",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "urvashiarora",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Urvashi Arora",
+        "title": "Doctoral student",
+        "research": "Machine Learning for Combinatorial Optimization problems",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/100",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "utpaljyotidebasarma",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Utpal Jyoti Deba Sarma",
+        "title": "Doctoral student",
+        "research": "Stochastic Processes",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/82",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "uttamkumardolai",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Uttam Kumar Dolai",
+        "title": "Doctoral student",
+        "research": "Harmonic Analysis",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/78",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "vaibhavsilmana",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Vaibhav Silmana",
+        "title": "Doctoral student",
+        "research": "Learning theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/115",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "vaishali",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Vaishali",
+        "title": "Doctoral student",
+        "research": "Numerical Linear Algebra",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/101",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "vidyasagar",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Vidya Sagar",
+        "title": "Former doctoral student",
+        "research": "Coding Theory",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/162",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-scholars-b39",
+      "person_key": "vivekkumar",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Vivek Kumar",
+        "title": "Doctoral student",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/profile/scholar/173",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/scholars",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-visiting-b39",
+      "person_key": "ashishkumarupadhyay",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Ashish Kumar Upadhyay",
+        "title": "Past visitor · 20-24 January 2025",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/visiting-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/visiting-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-visiting-b39",
+      "person_key": "jacquesgiacomoni",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Jacques Giacomoni",
+        "title": "Past visitor · 06-11 January 2025",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/visiting-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/visiting-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-visiting-b39",
+      "person_key": "maniltmohan",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Manil T Mohan",
+        "title": "Past visitor · 09-10 January 2025",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/visiting-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/visiting-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-visiting-b39",
+      "person_key": "oridavidov",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Ori Davidov",
+        "title": "Past visitor · 21-23 December 2024",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/visiting-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/visiting-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-visiting-b39",
+      "person_key": "paolatardelli",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Paola Tardelli",
+        "title": "Past visitor · 04-18 January 2025",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/visiting-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/visiting-faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "iitd-math-visiting-b39",
+      "person_key": "viswanathanarunchalam",
+      "school": "iit-delhi",
+      "record": {
+        "name": "Viswanathan Arunchalam",
+        "title": "Past visitor · 28-29 December 2024 & 15-16 January 2025",
+        "research": "",
+        "profile": "https://maths.iitd.ac.in/api/visiting-faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.iitd.ac.in/api/visiting-faculty",
+        "checked_at": "2026-11-26"
       }
     },
     {
@@ -432289,19 +435319,6 @@
     {
       "url": "https://asd.isical.ac.in/isical_web/people/profile.php?id=160",
       "cache_id": "profile-c4982983547eb1ae",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://asd.isical.ac.in/isical_web/people/profile.php?id=162",
-      "cache_id": "profile-61ae398bcffa75d4",
       "status": "parsed",
       "record": {
         "research": "",
