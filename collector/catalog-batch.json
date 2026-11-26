@@ -6543,7 +6543,7 @@
     {
       "id": "kfupm",
       "coverage": "sample",
-      "coverageNote": "已解析 2/8 个登记来源，2 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 1。 已对照数学系 Faculty 和 Bulletin 与旧个人主页及 CV。旧页确有代数几何著述，未找到对应的现任目录职级。 现行数学系 58 个职位卡片和 2026–27 学年委员会名册已对照；Ashfaque Bokhari 的微分几何专长见科研门户。区分 Ashfaque H. Bokhari 与 Muhammad Ashfaq Bokhari 的个人资料。",
+      "coverageNote": "已解析 9/31 个登记来源，1 条任职或方向待核。 已收录 6 位学者，个人主页 6、CV 1、指标 2。 数学全部 58 张现任、教学与访问人员名片和具名网页逐一核对，并查 2026–27 当期委员会、六个研究组和 20 条专题研究说明。另核物理全 36 人、计算机旧版 52 张及 2026-11-24 学术数据 20 张、智能安全／工业核能／航空航天中心及学校跨院中心分类。旧网页中三位学者用 Google、卡塔尔大学和 Abdus Salam School 的具名资料补证。学校 Pure 数学／物理／计算机组织名册直访及数学分页 403，现行具名档仍可读取；物理博士后页无姓名。另有同名指标、未列个人研究和未公开荣休成员待核。",
       "rosterLinks": [
         [
           "KFUPM Bulletin · Mathematics",
@@ -6562,7 +6562,47 @@
           "https://math.kfupm.edu.sa/research/mathematics-research-groups"
         ],
         [
+          "Applied Research Centers (ARCs)",
+          "https://ri.kfupm.edu.sa/research-centers/applied-research-centers"
+        ],
+        [
+          "Interdisciplinary Research Center · Aviation and Space Exploration",
+          "https://ri.kfupm.edu.sa/irc-ase/about-us/people"
+        ],
+        [
+          "Information and Computer Science · adjunct faculty",
+          "https://ics.kfupm.edu.sa/people/adjunct-professors"
+        ],
+        [
+          "Information and Computer Science · affiliated faculty",
+          "https://ics.kfupm.edu.sa/people/ics-affiliates"
+        ],
+        [
+          "Information and Computer Science · current named publication",
+          "https://ics.kfupm.edu.sa/people/faculty---new"
+        ],
+        [
+          "Interdisciplinary Research Center · Industrial Nuclear Energy",
+          "https://ri.kfupm.edu.sa/irc-ine/about-us/people"
+        ],
+        [
+          "Interdisciplinary Research Centers (IRCs)",
+          "https://ri.kfupm.edu.sa/research-centers/interdisciplinary-research-centers"
+        ],
+        [
+          "Interdisciplinary Research Center · Intelligent Secure Systems",
+          "https://ri.kfupm.edu.sa/iss/about-us/people"
+        ],
+        [
+          "Joint Research Centers (JRCs)",
+          "https://ri.kfupm.edu.sa/research-centers/joint-research-centers"
+        ],
+        [
           "KFUPM Bulletin · Mathematics",
+          "https://bulletin.kfupm.edu.sa/department?department_code=MATH"
+        ],
+        [
+          "KFUPM Mathematics Bulletin",
           "https://bulletin.kfupm.edu.sa/department?department_code=MATH"
         ],
         [
@@ -6574,11 +6614,63 @@
           "https://math.kfupm.edu.sa/people/math-faculty-directory"
         ],
         [
+          "Mathematics · current academic and teaching ranks",
+          "https://math.kfupm.edu.sa/people/math-faculty-directory"
+        ],
+        [
+          "Mathematics · graduate training",
+          "https://math.kfupm.edu.sa/graduate-program"
+        ],
+        [
+          "Mathematics · all six research groups",
+          "https://math.kfupm.edu.sa/research/mathematics-research-groups"
+        ],
+        [
+          "Mathematics · research and collaboration",
+          "https://math.kfupm.edu.sa/research/faculty-research-interests"
+        ],
+        [
+          "Mathematics · legacy faculty sites with changed affiliation",
+          "https://faculty.kfupm.edu.sa/web/general/facultynamebydep.aspx?dep=MATH"
+        ],
+        [
+          "Physics · all faculty ranks",
+          "https://physics.kfupm.edu.sa/People/faculty"
+        ],
+        [
+          "Physics · postdoctoral fellows",
+          "https://physics.kfupm.edu.sa/People/postdoctoral-fellows"
+        ],
+        [
+          "Physics · research output",
+          "https://physics.kfupm.edu.sa/research/publications"
+        ],
+        [
+          "Physics · associated research centers",
+          "https://physics.kfupm.edu.sa/research/research-centers"
+        ],
+        [
+          "Mathematics · research portal organisation",
+          "https://pure.kfupm.edu.sa/en/organisations/department-of-mathematics/persons/"
+        ],
+        [
+          "Information and Computer Science · research portal organisation",
+          "https://pure.kfupm.edu.sa/en/organisations/department-of-information-and-computer-science/persons/"
+        ],
+        [
+          "Physics · research portal organisation",
+          "https://pure.kfupm.edu.sa/en/organisations/department-of-physics/persons/"
+        ],
+        [
           "数学科学系教师名录",
           "https://math.kfupm.edu.sa/people/math-faculty-directory"
+        ],
+        [
+          "Saudi Center for Theoretical Physics historical link",
+          "https://sctp.kacst.edu.sa/"
         ]
       ],
-      "checkedAt": "2026-11-25"
+      "checkedAt": "2026-11-26"
     },
     {
       "id": "malaya",
@@ -32125,64 +32217,106 @@
       "recordStatus": "directory"
     },
     {
-      "id": "ashfaque-bokhari",
-      "name": "Ashfaque Bokhari",
+      "id": "abdallah-m-al-zahrani",
+      "name": "Abdallah M. Al-Zahrani",
       "aliases": [
-        "Ashfaque H. Bokhari"
+        "Abdallah Al Zahrani",
+        "Abdallah Muhammad Al Zahrani"
       ],
       "affiliations": [
         {
           "schoolId": "kfupm",
-          "department": "数学系",
-          "title": "Professor",
-          "url": "https://math.kfupm.edu.sa/facultyinfo/bokhari-ashfaque",
+          "department": "Department of Physics",
+          "title": "Assistant Professor of Physics",
+          "url": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/dr.-abdallah-m.-al-zahrani",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
-      "tags": [
-        "Conservation Law Nonlinear",
-        "Conservation Law",
-        "Nonlinear"
-      ],
-      "homepage": "https://faculty.kfupm.edu.sa/MATH/abokhari/",
+      "tags": [],
+      "homepage": "https://faculty.kfupm.edu.sa/phys/amz/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "已查院系现职卡、KFUPM Pure、本人网页和 2026–27 委员会。另一位 Muhammad Ashfaq Bokhari 的简历已消歧。",
-      "publicationsUrl": "https://pure.kfupm.edu.sa/en/persons/ashfaque-bokhari/publications/",
+      "cvStatus": "已查院系具名档、研究中心、Pure 和本人站。教育栏与旧学位论文只给履历或教育摘要，未见独立公开 CV。",
+      "publicationsUrl": "https://pure.kfupm.edu.sa/en/persons/abdallah-al-zahrani/",
       "publicationCounts": [
         {
-          "value": 124,
-          "scope": "KFUPM Pure 明示 Article 类型",
-          "url": "https://pure.kfupm.edu.sa/en/persons/ashfaque-bokhari/",
-          "checkedAt": "2026-11-25"
-        },
-        {
-          "value": 134,
-          "scope": "KFUPM Pure 明示 Research output，含其他成果类型",
-          "url": "https://pure.kfupm.edu.sa/en/persons/ashfaque-bokhari/",
-          "checkedAt": "2026-11-25"
+          "value": 10,
+          "url": "https://pure.kfupm.edu.sa/en/persons/abdallah-al-zahrani/",
+          "scope": "KFUPM Pure 的 Article 分栏明示 10，会议论文另外一项。",
+          "checkedAt": "2026-11-26"
         }
       ],
       "opportunities": [],
-      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
+      "identityNote": "校方 ORCID、Alberta 学位和 Kerr 圆轨论文一致。机构 10 篇明确期刊数另存，作者端与作品端差异未决。 作者档 14 项，作品端 13 项。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Tilted circular orbits around a Kerr black hole",
+          "year": 2024,
+          "url": "https://doi.org/10.1103/PhysRevD.109.024029",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and mathematical relativity, Kerr and Schwarzschild spacetimes, circular orbits and geodesics",
+          "url": "https://pure.kfupm.edu.sa/en/persons/abdallah-al-zahrani/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "adel-khalfallah",
+      "name": "Adel Khalfallah",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "kfupm",
+          "department": "Department of Mathematics",
+          "title": "Associate Professor",
+          "url": "https://math.kfupm.edu.sa/people/math-faculty-directory/khalfallah-adel",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://faculty.kfupm.edu.sa/math/khelifa/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查数学系两版具名页面、校方 Pure 档、旧个人网站及公开姓名加 CV 检索。个人站只列培训和研究，尚无独立 CV。",
+      "publicationsUrl": "https://pure.kfupm.edu.sa/en/persons/adel-khalfallah/",
+      "publicationCounts": [
+        {
+          "value": 33,
+          "url": "https://pure.kfupm.edu.sa/en/persons/adel-khalfallah/",
+          "scope": "KFUPM Pure 本人公开档当前 Article 分栏明确列 33，等于该档登记发表集合。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "学校具名档、机构 ORCID 以及针对伪全纯曲线和双曲调和函数的两篇期刊互证。另一个同名同机构的作者档属软件工程与形式化方法，ORCID 不同。",
       "metrics": [
         {
           "source": "OpenAlex",
-          "authorId": "A5061634971",
-          "orcid": "https://orcid.org/0000-0002-3468-010X",
-          "url": "https://openalex.org/authors/A5061634971",
-          "authorApiUrl": "https://api.openalex.org/authors/A5061634971",
-          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5061634971,type:article&per_page=1&select=id",
-          "checkedAt": "2026-11-25",
-          "articles": 132,
-          "works": 152,
-          "citations": 1694,
-          "hIndex": 24,
+          "authorId": "A5029799089",
+          "url": "https://openalex.org/authors/A5029799089",
+          "works": 40,
+          "articles": 34,
+          "citations": 149,
+          "checkedAt": "2026-11-26",
+          "authorApiUrl": "https://api.openalex.org/authors/A5029799089",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5029799089,type:article&per_page=1&select=id",
           "articleScope": "OpenAlex type:article",
           "citationScope": "OpenAlex 作者档案累计引用"
         }
@@ -32190,8 +32324,78 @@
       "identityUrl": null,
       "papers": [
         {
+          "title": "Hyperbolic embeddedness and extension-convergence theorems of J-holomorphic curves",
+          "year": 2009,
+          "url": "https://doi.org/10.1007/s00209-008-0378-6",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Weighted Dirichlet Spaces of Hyperbolic Harmonic Functions",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s00009-026-03123-1",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry, hyperbolic complex spaces and almost complex manifolds, pseudoholomorphic curves, harmonic function theory",
+          "url": "https://math.kfupm.edu.sa/facultyinfo/khalfallah-adel"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ashfaque-bokhari",
+      "name": "Ashfaque Bokhari",
+      "aliases": [
+        "Ashfaque H. Bokhari",
+        "Ashfaque Hussain Bokhari"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "kfupm",
+          "department": "Department of Mathematics",
+          "title": "Professor",
+          "url": "https://math.kfupm.edu.sa/people/math-faculty-directory/bokhari-ashfaque",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://faculty.kfupm.edu.sa/MATH/abokhari/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查教职卡、Pure 的公开档、本人旧网页、当期委员会与姓名加 CV 检索。其他公开简历属于 Muhammad Ashfaq Bokhari。尚无本人的独立 CV。",
+      "publicationsUrl": "https://pure.kfupm.edu.sa/en/persons/ashfaque-bokhari/",
+      "publicationCounts": [
+        {
+          "value": 124,
+          "url": "https://pure.kfupm.edu.sa/en/persons/ashfaque-bokhari/",
+          "scope": "KFUPM Pure 具名档明确 Article",
+          "checkedAt": "2026-11-26"
+        },
+        {
+          "value": 134,
+          "url": "https://pure.kfupm.edu.sa/en/persons/ashfaque-bokhari/",
+          "scope": "KFUPM Pure 具名档所有 134 Research outputs，保留原分类。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "以机构 ORCID 与 Lorentzian 正刊、系现任互证；排除另一个同校 Muhammad Ashfaq Bokhari。现行校方 Article 124 项另记，作者统计与作品端差异待核。 作者档 152 项，作品端 150 项。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5061634971",
+      "papers": [
+        {
           "title": "On the symmetry structures of the Minkowski metric and Weyl rescaled metric",
-          "url": "https://doi.org/10.1007/s10773-007-9390-6"
+          "year": 2007,
+          "url": "https://doi.org/10.1007/s10773-007-9390-6",
+          "type": "期刊论文"
         },
         {
           "title": "Spherically symmetric static space-times and their classification by Ricci inheritance symmetries",
@@ -32199,21 +32403,15 @@
           "url": "https://doi.org/10.1393/ncb/i2003-10078-3"
         },
         {
-          "title": "Classification of spherically symmetric static space-times by their curvature collineations",
-          "url": "https://pure.kfupm.edu.sa/en/publications/classification-of-spherically-symmetric-static-space-times-by-the/"
+          "title": "Conformal Killing vectors of plane symmetric four dimensional Lorentzian manifolds",
+          "year": 2015,
+          "url": "https://doi.org/10.1140/epjc/s10052-015-3758-1",
+          "type": "期刊论文"
         }
       ],
       "directoryEvidence": [
         {
-          "text": "Conservation Law Nonlinear",
-          "url": "https://math.kfupm.edu.sa/people/math-faculty-directory"
-        },
-        {
-          "text": "Conservation Law / Nonlinear",
-          "url": "https://math.kfupm.edu.sa/people/math-faculty-directory"
-        },
-        {
-          "text": "Differential geometry of Lorentzian manifolds, symmetry and general relativity, Ricci and curvature collineations",
+          "text": "Differential geometry of Lorentzian manifolds, curvature collineations, symmetry and general relativity",
           "url": "https://pure.kfupm.edu.sa/en/persons/ashfaque-bokhari/"
         },
         {
@@ -32221,7 +32419,213 @@
           "url": "https://pure.kfupm.edu.sa/en/persons/ashfaque-bokhari/"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "duvan-cardona-sanchez",
+      "name": "Duvan Cardona Sanchez",
+      "aliases": [
+        "Duván Cardona",
+        "Duván Cardona Sánchez"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "kfupm",
+          "department": "Department of Mathematics",
+          "title": "Assistant Professor",
+          "url": "https://math.kfupm.edu.sa/people/math-faculty-directory/duvan-cardona-sanchez",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/site/duvancardonas/home",
+      "homepageStatus": null,
+      "cvUrl": "https://sites.google.com/site/duvancardonas/publications",
+      "cvType": "本人公开学术 CV（HTML，含研究与履历分栏）",
+      "cvStatus": null,
+      "publicationsUrl": "https://sites.google.com/site/duvancardonas/publications_1",
+      "publicationCounts": [
+        {
+          "value": 55,
+          "url": "https://pure.kfupm.edu.sa/en/persons/duv%C3%A1n-cardona-s%C3%A1nchez/",
+          "scope": "KFUPM Pure 本人档 Article 明确标注数。档案另列章、综述、会议和编者文章。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "本人公示 ORCID、2026-09 学校任命及 Ghent 历史档相符。OpenAlex 作品与作者统计不同，另列机构明确的期刊范围。 作者档 101 项，作品端 97 项。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Subelliptic Pseudo-differential Operators and Fourier Integral Operators on Compact Lie Groups",
+          "year": 2025,
+          "url": "https://doi.org/10.1142/e077",
+          "type": "研究专著"
+        },
+        {
+          "title": "Lp-Bounds for Pseudo-differential Operators on Graded Lie Groups",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s12220-021-00694-1",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis, sub-Riemannian structures on compact Lie groups, subelliptic operators and microlocal analysis",
+          "url": "https://sites.google.com/site/duvancardonas/home"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "imran-qureshi",
+      "name": "Imran Qureshi",
+      "aliases": [
+        "Muhammad Imran Qureshi",
+        "M. Imran Qureshi"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "kfupm",
+          "department": "Department of Mathematics",
+          "title": "Associate Professor",
+          "url": "https://math.kfupm.edu.sa/people/math-faculty-directory/qureshi-imran",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/view/miqureshi/home",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查数学系档、在任科研档、本人主页及 Research、公开 CV 搜索和 Stanford 路径。本人网页有职业和学历履历，独立 CV 仍未见。",
+      "publicationsUrl": "https://sites.google.com/view/miqureshi/research",
+      "publicationCounts": [
+        {
+          "value": 21,
+          "url": "https://pure.kfupm.edu.sa/en/persons/muhammad-imran-qureshi/",
+          "scope": "KFUPM Pure 明示的单独 Article 统计，其余有会议一项及综述一项。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "作者档使用 KFUPM 公开 ORCID，但聚入多篇未能以机构或个人作品清单匹配的拓扑指数和流体文章。对 Fano 与 Calabi–Yau 已用具名刊本核对。聚合不采用，公开机构期刊分类另记。 作者档 77 项，作品端 76 项。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Terminal Fano fourfolds and anticanonical linear sections",
+          "year": 2026,
+          "url": "https://doi.org/10.1016/j.jsc.2026.102571",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Smooth Fano 4-folds in Gorenstein formats",
+          "year": 2021,
+          "url": "https://doi.org/10.1017/S0004972721000393",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, classification of Fano and Calabi–Yau varieties, weighted complete intersections, orbifold del Pezzo surfaces",
+          "url": "https://pure.kfupm.edu.sa/en/persons/muhammad-imran-qureshi/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "naveed-hussain",
+      "name": "Naveed Hussain",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "kfupm",
+          "department": "Department of Mathematics",
+          "title": "Assistant Professor",
+          "url": "https://math.kfupm.edu.sa/people/math-faculty-directory/naveed-hussain",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://math.kfupm.edu.sa/people/math-faculty-directory/naveed-hussain",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查具名校方档、中心、UAF 历史发表与 Math-Net 履历和公开姓名 CV 检索，未发现独立学术 CV。",
+      "publicationsUrl": "https://pure.kfupm.edu.sa/en/persons/naveed-hussain/",
+      "publicationCounts": [
+        {
+          "value": 35,
+          "url": "https://pure.kfupm.edu.sa/en/persons/naveed-hussain/",
+          "scope": "KFUPM Pure 公开科研档的完整 Article 分类，35 条与总栏目数相同。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "高阶 Nash 吹胀刊本和同作者複结构论文匹配；UAF 本人公开论文页确认同一作者做过心理计量跨学科研究。排除另几个同名机构作者。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5064553367",
+          "url": "https://openalex.org/authors/A5064553367",
+          "works": 40,
+          "articles": 38,
+          "citations": 383,
+          "checkedAt": "2026-11-26",
+          "authorApiUrl": "https://api.openalex.org/authors/A5064553367",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5064553367,type:article&per_page=1&select=id",
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        },
+        {
+          "source": "Google Scholar",
+          "authorId": "lqlplFcAAAAJ",
+          "url": "https://scholar.google.com/citations?hl=en&user=lqlplFcAAAAJ",
+          "citations": 408,
+          "checkedAt": "2026-11-26",
+          "citationScope": "Google Scholar All 列累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Higher Nash blow-up local algebras of singularities and its derivation Lie algebras",
+          "year": 2023,
+          "url": "https://doi.org/10.1016/j.jalgebra.2022.11.016",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Variation of complex structures and variation of Lie algebras II: new Lie algebras arising from singularities",
+          "year": 2020,
+          "url": "https://doi.org/10.4310/jdg/1594260016",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and complex geometry, isolated hypersurface singularities, higher Nash blow-ups and derivation Lie algebras",
+          "url": "https://pure.kfupm.edu.sa/en/persons/naveed-hussain/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {

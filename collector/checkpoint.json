@@ -6702,6 +6702,96 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "kfupm-arc-b53",
+      "school": "kfupm",
+      "url": "https://ri.kfupm.edu.sa/research-centers/applied-research-centers",
+      "label": "Applied Research Centers (ARCs)",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "kfupm-ase-b53",
+      "school": "kfupm",
+      "url": "https://ri.kfupm.edu.sa/irc-ase/about-us/people",
+      "label": "Interdisciplinary Research Center · Aviation and Space Exploration",
+      "status": "parsed",
+      "count": 1,
+      "checked_at": "2026-11-26",
+      "note": "读取具名中心名册。列明同一学校数学或物理本职及中心联属，保留两处职称来源。"
+    },
+    {
+      "id": "kfupm-cs-adj-b53",
+      "school": "kfupm",
+      "url": "https://ics.kfupm.edu.sa/people/adjunct-professors",
+      "label": "Information and Computer Science · adjunct faculty",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "kfupm-cs-aff-b53",
+      "school": "kfupm",
+      "url": "https://ics.kfupm.edu.sa/people/ics-affiliates",
+      "label": "Information and Computer Science · affiliated faculty",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "kfupm-cs-faculty-current-b53",
+      "school": "kfupm",
+      "url": "https://ics.kfupm.edu.sa/people/faculty---new",
+      "label": "Information and Computer Science · current named publication",
+      "status": "parsed",
+      "count": 20,
+      "checked_at": "2026-11-26",
+      "note": "以 2026-11-24 发布的公开静态目录 JSON 读取 20 张具名学术简介，不执行内嵌脚本。场景视觉、图形构形等以个人研究方向分辨。旧版 52 张卡可读但缺少部分可比的研究栏目。"
+    },
+    {
+      "id": "kfupm-ine-b53",
+      "school": "kfupm",
+      "url": "https://ri.kfupm.edu.sa/irc-ine/about-us/people",
+      "label": "Interdisciplinary Research Center · Industrial Nuclear Energy",
+      "status": "parsed",
+      "count": 1,
+      "checked_at": "2026-11-26",
+      "note": "读取具名中心名册。列明同一学校数学或物理本职及中心联属，保留两处职称来源。"
+    },
+    {
+      "id": "kfupm-irc-b53",
+      "school": "kfupm",
+      "url": "https://ri.kfupm.edu.sa/research-centers/interdisciplinary-research-centers",
+      "label": "Interdisciplinary Research Centers (IRCs)",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "kfupm-iss-b53",
+      "school": "kfupm",
+      "url": "https://ri.kfupm.edu.sa/iss/about-us/people",
+      "label": "Interdisciplinary Research Center · Intelligent Secure Systems",
+      "status": "parsed",
+      "count": 2,
+      "checked_at": "2026-11-26",
+      "note": "读取具名中心名册。列明同一学校数学或物理本职及中心联属，保留两处职称来源。"
+    },
+    {
+      "id": "kfupm-jrc-b53",
+      "school": "kfupm",
+      "url": "https://ri.kfupm.edu.sa/research-centers/joint-research-centers",
+      "label": "Joint Research Centers (JRCs)",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
       "id": "kfupm-math-bulletin",
       "school": "kfupm",
       "url": "https://bulletin.kfupm.edu.sa/department?department_code=MATH",
@@ -6710,6 +6800,16 @@
       "count": 0,
       "checked_at": null,
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "kfupm-math-bulletin-b53",
+      "school": "kfupm",
+      "url": "https://bulletin.kfupm.edu.sa/department?department_code=MATH",
+      "label": "KFUPM Mathematics Bulletin",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "大学项目、课程说明与数学系公告交叉。未取得独立当前荣休名单。"
     },
     {
       "id": "kfupm-math-committees31",
@@ -6732,6 +6832,126 @@
       "note": "58 张现任具名研究说明和职位卡，单列访问与讲师。下一步交叉 Research Portal、委员会、校内关联单位。"
     },
     {
+      "id": "kfupm-math-faculty-b53",
+      "school": "kfupm",
+      "url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+      "label": "Mathematics · current academic and teaching ranks",
+      "status": "parsed",
+      "count": 58,
+      "checked_at": "2026-11-26",
+      "note": "58 张具名卡完整读取。包括 1 主席、12 教授、13 副教授、24 助理教授、1 访问教授、6 讲师和 1 研究生助教。具名页面全部尝试访问，逐条比较研究主题。"
+    },
+    {
+      "id": "kfupm-math-grad-b53",
+      "school": "kfupm",
+      "url": "https://math.kfupm.edu.sa/graduate-program",
+      "label": "Mathematics · graduate training",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "kfupm-math-groups-b53",
+      "school": "kfupm",
+      "url": "https://math.kfupm.edu.sa/research/mathematics-research-groups",
+      "label": "Mathematics · all six research groups",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "kfupm-math-interests-b53",
+      "school": "kfupm",
+      "url": "https://math.kfupm.edu.sa/research/faculty-research-interests",
+      "label": "Mathematics · research and collaboration",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "kfupm-past-roles-b53",
+      "school": "kfupm",
+      "url": "https://faculty.kfupm.edu.sa/web/general/facultynamebydep.aspx?dep=MATH",
+      "label": "Mathematics · legacy faculty sites with changed affiliation",
+      "status": "parsed",
+      "count": 3,
+      "checked_at": "2026-11-26",
+      "note": "校园个人站索引包含原任职者。按新任机构、公开 CV、期刊署名及现任名单记录三项变化。"
+    },
+    {
+      "id": "kfupm-phys-faculty-b53",
+      "school": "kfupm",
+      "url": "https://physics.kfupm.edu.sa/People/faculty",
+      "label": "Physics · all faculty ranks",
+      "status": "parsed",
+      "count": 36,
+      "checked_at": "2026-11-26",
+      "note": "官方完整名单共 36 人。逐项核其具名研究与标题，并补查黑洞／数学物理、理论和几何交叉。个别档未列方向或仅有空壳。"
+    },
+    {
+      "id": "kfupm-phys-post-b53",
+      "school": "kfupm",
+      "url": "https://physics.kfupm.edu.sa/People/postdoctoral-fellows",
+      "label": "Physics · postdoctoral fellows",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "kfupm-phys-pubs-b53",
+      "school": "kfupm",
+      "url": "https://physics.kfupm.edu.sa/research/publications",
+      "label": "Physics · research output",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "kfupm-physics-centers-b53",
+      "school": "kfupm",
+      "url": "https://physics.kfupm.edu.sa/research/research-centers",
+      "label": "Physics · associated research centers",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "kfupm-pure-b53",
+      "school": "kfupm",
+      "url": "https://pure.kfupm.edu.sa/en/organisations/department-of-mathematics/persons/",
+      "label": "Mathematics · research portal organisation",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "kfupm-pure-computing-b53",
+      "school": "kfupm",
+      "url": "https://pure.kfupm.edu.sa/en/organisations/department-of-information-and-computer-science/persons/",
+      "label": "Information and Computer Science · research portal organisation",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "kfupm-pure-physics-b53",
+      "school": "kfupm",
+      "url": "https://pure.kfupm.edu.sa/en/organisations/department-of-physics/persons/",
+      "label": "Physics · research portal organisation",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
       "id": "kfupm-qs-roster",
       "school": "kfupm",
       "url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
@@ -6740,6 +6960,16 @@
       "count": 58,
       "checked_at": "2026-11-23",
       "note": ""
+    },
+    {
+      "id": "kfupm-sctp-b53",
+      "school": "kfupm",
+      "url": "https://sctp.kacst.edu.sa/",
+      "label": "Saudi Center for Theoretical Physics historical link",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
     },
     {
       "id": "khalifa-batic-pure31",
@@ -177519,6 +177749,390 @@
       }
     },
     {
+      "source": "kfupm-ase-b53",
+      "person_key": "abdallahmalzahrani",
+      "school": "kfupm",
+      "record": {
+        "name": "Abdallah M. Al-Zahrani",
+        "title": "Assistant Professor of Physics",
+        "research": "Differential geometry and mathematical relativity, Kerr and Schwarzschild spacetimes, circular orbits and geodesics",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/dr.-abdallah-m.-al-zahrani",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://ri.kfupm.edu.sa/irc-ase/about-us/people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "amalmohammedalghamdi",
+      "school": "kfupm",
+      "record": {
+        "name": "Amal Mohammed Alghamdi",
+        "title": "Assistant Professor",
+        "research": "Computational Science; Inverse Problems; Uncertainty Quantification; Numerical Methods; Partial Differential Equations (PDEs); Mathematical Modeling; High-Performance Computing; Bayesian Inference; Optimization",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "darinelnakla",
+      "school": "kfupm",
+      "record": {
+        "name": "Darin El-Nakla",
+        "title": "Lecturer",
+        "research": "Generative AI; Agentic AI; Sustainability; AI-E-Learning",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "drmansouralharthi",
+      "school": "kfupm",
+      "record": {
+        "name": "Dr. Mansour Alharthi",
+        "title": "Assistant Professor",
+        "research": "Software Testing and Automated Bug Finding; Directed Fuzzing and Vulnerability Discovery; Systems Security and Confidential Computing; Trusted Execution Environments and Intel SGX; Secure and High-Performance Systems I/O; AI Detection Techniques; Human-AI Trust and Privacy; Data-Disclosure Behavior and AI Privacy",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "fakhrialamkhan",
+      "school": "kfupm",
+      "record": {
+        "name": "Fakhri Alam Khan",
+        "title": "Associate Professor",
+        "research": "biomedical AI and medical imaging; trustworthy and privacy-preserving AI; information security; cybersecurity; post-quantum security; business informatics",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "hamdialjamimi",
+      "school": "kfupm",
+      "record": {
+        "name": "Hamdi Al-Jamimi",
+        "title": "Associate Professor",
+        "research": "Explainable & Trustworthy AI (XAI); LLMs & Foundation Models; Machine Learning & Computational Intelligence; AI for Healthcare; AI for Sustainability & Scientific Discovery",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "hamoudaljamaan",
+      "school": "kfupm",
+      "record": {
+        "name": "Hamoud Aljamaan",
+        "title": "Associate Professor",
+        "research": "Artificial Intelligence for Software Engineering; Software Quality; Ensemble Learning; Software Security",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "hamzahluqman",
+      "school": "kfupm",
+      "record": {
+        "name": "Hamzah Luqman",
+        "title": "Associate Professor",
+        "research": "Artificial Intelligence; Natural Language Processing; Computer Vision; Generative Models",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "hanikaidalmohair",
+      "school": "kfupm",
+      "record": {
+        "name": "Hani Kaid Al-Mohair",
+        "title": "Lecturer",
+        "research": "Image processing; Computer vision; Artificial intelligence; Machine learning",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "irfanahmad",
+      "school": "kfupm",
+      "record": {
+        "name": "Irfan Ahmad",
+        "title": "Associate Professor",
+        "research": "Low-Resource Learning; Representation Learning; Natural Language Processing; Machine Learning; Pattern Recognition",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "maramkurdi",
+      "school": "kfupm",
+      "record": {
+        "name": "Maram Kurdi",
+        "title": "Assistant Professor",
+        "research": "Human–Computer Interaction (HCI); Social Computing; Computational Social Science; Social Media Analysis; Digital Well-being",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "mohammadalshayeb",
+      "school": "kfupm",
+      "record": {
+        "name": "Mohammad Alshayeb",
+        "title": "Professor",
+        "research": "Software quality; Software measurement and metrics; AI applications in software engineering; Empirical studies in software engineering.",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "mohammedabdulhai",
+      "school": "kfupm",
+      "record": {
+        "name": "Mohammed Abdul Hai",
+        "title": "Professor",
+        "research": "Enhanced Oil Recovery; Multiphase Flow in Pipes; Fracturing; Drilling Fluids and Cementation",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "muhammadfaisal",
+      "school": "kfupm",
+      "record": {
+        "name": "Muhammad Faisal",
+        "title": "Lecturer",
+        "research": "Machine Learning; Artificial Intelligence; Fuzzy Logic; Genetic Algorithm; Computer Vision; Computer Forensics",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "muzammilbehzad",
+      "school": "kfupm",
+      "record": {
+        "name": "Muzammil Behzad",
+        "title": "Assistant Professor",
+        "research": "Deep learning; Computer vision; Multimodal AI; Knowledge representation and reasoning; Generative AI; Agentic AI and multi-agent systems; Explainable AI; Affective Computing; AI for Healthcare",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "nuhaalbadi",
+      "school": "kfupm",
+      "record": {
+        "name": "Nuha Albadi",
+        "title": "Assistant Professor",
+        "research": "Human–Computer Interaction (HCI); Computational Social Science; Responsible Artificial Intelligence (AI); Data Mining",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "saadezzini",
+      "school": "kfupm",
+      "record": {
+        "name": "Saad Ezzini",
+        "title": "Assistant Professor",
+        "research": "Software Engineering and Automated Requirements Engineering; Natural Language Processing and Large Language Models; Agentic AI and Multi-Agent Systems; Generative Physical AI and Intelligent Robotics; Software Security and Code Intelligence",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "sajjadmahmood",
+      "school": "kfupm",
+      "record": {
+        "name": "SAJJAD MAHMOOD",
+        "title": "Associate Professor",
+        "research": "Empirical Software Engineering; Software Secure Engineering; AI-based Software Engineering",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "sultanahmadalmuhammadi",
+      "school": "kfupm",
+      "record": {
+        "name": "Sultan Ahmad Almuhammadi",
+        "title": "Assistant Professor",
+        "research": "cryptography; quantum algorithms; post-quantum security; blockchain; coding theory",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "tarekhelmyelbassuny",
+      "school": "kfupm",
+      "record": {
+        "name": "Tarek Helmy El-Bassuny",
+        "title": "Professor",
+        "research": "Artificial Intelligence; Machine and Federated Learning; Intelligent Software Agents; Distributed, Edge, & Cloud Computing Systems; Intelligent Secure Systems; Intelligent Decision Support Systems; Personalized Large Language Models",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-cs-faculty-current-b53",
+      "person_key": "yusufsharifhassan",
+      "school": "kfupm",
+      "record": {
+        "name": "Yusuf Sharif Hassan",
+        "title": "Lecturer",
+        "research": "Human Computer Interaction; Intelligence in User Experience; Inclusive Education; Ethics in AI; IT Service Management; Software Engineering",
+        "profile": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ics.kfupm.edu.sa/people/faculty---new",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-ine-b53",
+      "person_key": "duvancardonasanchez",
+      "school": "kfupm",
+      "record": {
+        "name": "Duvan Cardona Sanchez",
+        "title": "Assistant Professor",
+        "research": "Differential geometry and geometric analysis, sub-Riemannian structures on compact Lie groups, subelliptic operators and microlocal analysis",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/duvan-cardona-sanchez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://ri.kfupm.edu.sa/irc-ine/about-us/people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-iss-b53",
+      "person_key": "imranqureshi",
+      "school": "kfupm",
+      "record": {
+        "name": "Imran Qureshi",
+        "title": "Associate Professor",
+        "research": "Algebraic geometry, classification of Fano and Calabi–Yau varieties, weighted complete intersections, orbifold del Pezzo surfaces",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/qureshi-imran",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://ri.kfupm.edu.sa/iss/about-us/people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-iss-b53",
+      "person_key": "naveedhussain",
+      "school": "kfupm",
+      "record": {
+        "name": "Naveed Hussain",
+        "title": "Assistant Professor",
+        "research": "Algebraic geometry and complex geometry, isolated hypersurface singularities, higher Nash blow-ups and derivation Lie algebras",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/naveed-hussain",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://ri.kfupm.edu.sa/iss/about-us/people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
       "source": "kfupm-math-directory31",
       "person_key": "abdelslammimouni",
       "school": "kfupm",
@@ -178444,6 +179058,1558 @@
         "source_kind": "department",
         "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
         "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "abdelslammimouni",
+      "school": "kfupm",
+      "record": {
+        "name": "Abdelslam Mimouni",
+        "title": "Professor",
+        "research": "Commutative Algebra",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/mimouni-abdelslam",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "abdullahshah",
+      "school": "kfupm",
+      "record": {
+        "name": "Abdullah Shah",
+        "title": "Associate Professor",
+        "research": "Numerical Solution of Differential Equations; Computational Fluid Dynamics; Simulation of Two-phase Flows",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/abdullah-shah",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "adelalmahdi",
+      "school": "kfupm",
+      "record": {
+        "name": "Adel Al Mahdi",
+        "title": "Associate Professor",
+        "research": "Nonlinear; Stability Result",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/almahdiadel",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "adelkhalfallah",
+      "school": "kfupm",
+      "record": {
+        "name": "Adel Khalfallah",
+        "title": "Associate Professor",
+        "research": "Harmonic Function; Complex Analysis",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/khalfallah-adel",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "anatolyalikhanov",
+      "school": "kfupm",
+      "record": {
+        "name": "Anatoly Alikhanov",
+        "title": "Associate Professor",
+        "research": "Numerical Methods for Nonlocal Integro-Differential Equations",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/alikhanov-anatoly",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "ashfaquebokhari",
+      "school": "kfupm",
+      "record": {
+        "name": "Ashfaque Bokhari",
+        "title": "Professor",
+        "research": "Conservation Law; Nonlinear",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/bokhari-ashfaque",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "azzamalfarraj",
+      "school": "kfupm",
+      "record": {
+        "name": "Azzam Alfarraj",
+        "title": "Assistant Professor",
+        "research": "Topological Data Analysis; Chemical Graph Theory",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/azzam",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "baderalhumaidi",
+      "school": "kfupm",
+      "record": {
+        "name": "Bader Al Humaidi",
+        "title": "Assistant Professor",
+        "research": "Functional Equation; Fourier Matrix",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/al-humaidi-bader",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "boubakersmii",
+      "school": "kfupm",
+      "record": {
+        "name": "Boubaker Smii",
+        "title": "Associate Professor",
+        "research": "Stochastic partial differential equations",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/boubaker-smii",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "daniyaromarov",
+      "school": "kfupm",
+      "record": {
+        "name": "Daniyar Omarov",
+        "title": "Assistant Professor",
+        "research": "Applied Mathematics",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/daniyar-omarov",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "dhakerkroumi",
+      "school": "kfupm",
+      "record": {
+        "name": "Dhaker Kroumi",
+        "title": "Associate Professor",
+        "research": "Evolutionary Game Theory",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/kroumi-dhaker",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "duvancardonasanchez",
+      "school": "kfupm",
+      "record": {
+        "name": "Duvan Cardona Sanchez",
+        "title": "Assistant Professor",
+        "research": "HARMONIC ANALYSIS; HARMONIC ANALYSIS AND PDE",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/duvan-cardona-sanchez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "faisalfairag",
+      "school": "kfupm",
+      "record": {
+        "name": "Faisal Fairag",
+        "title": "Associate Professor",
+        "research": "Numerical Analysis; Numerical Linear Algebra",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/fairag-faisal",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "faisalsuwayyid",
+      "school": "kfupm",
+      "record": {
+        "name": "Faisal Suwayyid",
+        "title": "Assistant Professor",
+        "research": "Commutative Algebra",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/suwayyid-faisal",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "feicao",
+      "school": "kfupm",
+      "record": {
+        "name": "Fei Cao",
+        "title": "Assistant Professor",
+        "research": "Applied and Computational Mathematics; Interacting particle systems; Multi-agent dynamics; Partial Differential Equations; Mathematical and Stochastic Modeling",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/fei-cao",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "fuadsalameh",
+      "school": "kfupm",
+      "record": {
+        "name": "Fuad Salameh",
+        "title": "Assistant Professor",
+        "research": "Numerical partial differential equations",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/fuad-salameh",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "husainalattas",
+      "school": "kfupm",
+      "record": {
+        "name": "Husain Al Attas",
+        "title": "Assistant Professor",
+        "research": "Solving Sys with Multiple Right-Hand Sides; Sensitivity Analysis",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/al-attas-husain",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "ibrahimalrasasi",
+      "school": "kfupm",
+      "record": {
+        "name": "Ibrahim Al Rasasi",
+        "title": "Assistant Professor",
+        "research": "Number Theory; Prime Ideal",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/al-rasasi-ibrahim",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "ibrahimsarumi",
+      "school": "kfupm",
+      "record": {
+        "name": "Ibrahim Sarumi",
+        "title": "Assistant Professor",
+        "research": "Scientific Computing",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/sarumi-ibrahim",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "ilhembouderbala",
+      "school": "kfupm",
+      "record": {
+        "name": "Ilhem Bouderbala",
+        "title": "Assistant Professor",
+        "research": "Biostatistics; Complex Systems; State-Space Modelling; Computational Biology",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/bouderbala-ilhem",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "imranqureshi",
+      "school": "kfupm",
+      "record": {
+        "name": "Imran Qureshi",
+        "title": "Associate Professor",
+        "research": "Classification of Fano and Calabi--Yau varieties; TDA in Medical imaging",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/qureshi-imran",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "izharahmad",
+      "school": "kfupm",
+      "record": {
+        "name": "Izhar Ahmad",
+        "title": "Professor",
+        "research": "Convex Analysis; Vector Optimization",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/ahmad-izhar",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "jamalalsmail",
+      "school": "kfupm",
+      "record": {
+        "name": "Jamal Alsmail",
+        "title": "Assistant Professor",
+        "research": "Shape Optimization; Mathematical Modeling",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/alsmail-jamal",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "jawadabuhlail",
+      "school": "kfupm",
+      "record": {
+        "name": "Jawad Abuhlail",
+        "title": "Professor",
+        "research": "(Semi)Rings and (Semi)Modules",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/abuhlail-jawad",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "khaledalshammari",
+      "school": "kfupm",
+      "record": {
+        "name": "Khaled Al Shammari",
+        "title": "Assistant Professor",
+        "research": "Discountinuous Differential Equations",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/al-shammari-khaled",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "khaledfurati",
+      "school": "kfupm",
+      "record": {
+        "name": "Khaled Furati",
+        "title": "Professor",
+        "research": "Differential Equations; Fractional Differential Equations",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/furati-khaled",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "khalidalanezy",
+      "school": "kfupm",
+      "record": {
+        "name": "Khalid Alanezy",
+        "title": "Assistant Professor",
+        "research": "Orthogonal Polynomials; Fluid Dynamics",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/alanezy-khalid",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "lorenzosaurasaltuzarra",
+      "school": "kfupm",
+      "record": {
+        "name": "Lorenzo Sauras Altuzarra",
+        "title": "Assistant Professor",
+        "research": "Enumerative Combinatorics; Calculation of Integer Sequences",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/lorenzo-sauras-altuzarra",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "majdoulineborji",
+      "school": "kfupm",
+      "record": {
+        "name": "Majdouline Borji",
+        "title": "Assistant Professor",
+        "research": "Mathematical Physics; Renormalization Theory; Boundary Field Theory; Singular Stochastic PDEs",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/borji-majdouline",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "manalalotibi",
+      "school": "kfupm",
+      "record": {
+        "name": "Manal Alotibi",
+        "title": "Associate Professor",
+        "research": "Numerical Analysis of PDEs; Stability and Convergence of Numerical Schemes",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/alotibi-manal",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "mohammadalgharabli",
+      "school": "kfupm",
+      "record": {
+        "name": "Mohammad Algharabli",
+        "title": "Associate Professor",
+        "research": "Partial Differential Equations",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/algharabli",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "mohammedabushosha",
+      "school": "kfupm",
+      "record": {
+        "name": "Mohammed AbuShosha",
+        "title": "Assistant Professor",
+        "research": "Fluid Dynamics; Heat Transfer",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/abushosha-mohammed",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "mohammedalshahrani",
+      "school": "kfupm",
+      "record": {
+        "name": "Mohammed Alshahrani",
+        "title": "Associate Professor",
+        "research": "Optimization; Numerical Optimization",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/alshahrani-mohammed",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "mohammedkafini",
+      "school": "kfupm",
+      "record": {
+        "name": "Mohammed Kafini",
+        "title": "Lecturer-A",
+        "research": "Hyperpolic Equations and systems; viscoelasticity and thermoelasticity",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/kafini-mohammed",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "mohammedsaleh",
+      "school": "kfupm",
+      "record": {
+        "name": "Mohammed Saleh",
+        "title": "Lecturer",
+        "research": "Queueing Theory; Estimation",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/saleh-mohammed",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "mohsenalshahrani",
+      "school": "kfupm",
+      "record": {
+        "name": "Mohsen Alshahrani",
+        "title": "Assistant Professor",
+        "research": "Numerical Analysis",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/alshahrani-mohsen",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "montheralfuraidan",
+      "school": "kfupm",
+      "record": {
+        "name": "Monther Alfuraidan",
+        "title": "Chairman & Professor",
+        "research": "Algebraic Graph Theory; Spectral Graph Theory (Eigenvalues & Laplacian Methods)",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/chairman",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "muhammadriaz",
+      "school": "kfupm",
+      "record": {
+        "name": "Muhammad Riaz",
+        "title": "Professor",
+        "research": "Statistical Process Control",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/riaz-muhammad",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "muhammadyousuf",
+      "school": "kfupm",
+      "record": {
+        "name": "Muhammad Yousuf",
+        "title": "Professor",
+        "research": "Numerical Analysis; Option pricing",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/yousuf-muhammad",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "munirahalshayqi",
+      "school": "kfupm",
+      "record": {
+        "name": "Munirah Alshayqi",
+        "title": "Lecturer",
+        "research": "Numerical analysis",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/alshayqi-munirah",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "musawarmalik",
+      "school": "kfupm",
+      "record": {
+        "name": "Musawar Malik",
+        "title": "Lecturer",
+        "research": "Applies Statistics",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/malik-musawar",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "nasirabbas",
+      "school": "kfupm",
+      "record": {
+        "name": "Nasir Abbas",
+        "title": "Associate Professor",
+        "research": "Statistical Quality Control; Non-parametric statistics",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/abbas-nasir",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "nassereddinetatar",
+      "school": "kfupm",
+      "record": {
+        "name": "Nasser Eddine Tatar",
+        "title": "Professor",
+        "research": "Evolution problems of parabolic; hyperbolic and mixed systems",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/tatar-nasser-eddine",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "naveedhussain",
+      "school": "kfupm",
+      "record": {
+        "name": "Naveed Hussain",
+        "title": "Assistant Professor",
+        "research": "Pure Mathematics; Cryptography and Coding Theory; Singularity Theory and Derivation Lie Algebras",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/naveed-hussain",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "nouraalabdulqader",
+      "school": "kfupm",
+      "record": {
+        "name": "Noura Alabdulqader",
+        "title": "Graduate Assistant",
+        "research": "Information not listed",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/alabdulqader-noura",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "qamrulhasanansari",
+      "school": "kfupm",
+      "record": {
+        "name": "Qamrul Hasan Ansari",
+        "title": "Visiting Professor",
+        "research": "Variational inequalities / inclusions; scalar / vector optimization",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/ansari-qamrul-hasan",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "qiweifeng",
+      "school": "kfupm",
+      "record": {
+        "name": "Qiwei Feng",
+        "title": "Assistant Professor",
+        "research": "High order finite difference methods",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/feng-qiwei",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "raedanabosi",
+      "school": "kfupm",
+      "record": {
+        "name": "Raed Anabosi",
+        "title": "Lecturer",
+        "research": "Ranked set sampling",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/anabosi-raed",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "rajaialassar",
+      "school": "kfupm",
+      "record": {
+        "name": "Rajai Alassar",
+        "title": "Professor",
+        "research": "Solid-Fluid Interaction",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/alassar-rajai",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "ridwansanusi",
+      "school": "kfupm",
+      "record": {
+        "name": "Ridwan Sanusi",
+        "title": "Assistant Professor",
+        "research": "Pure and Applied Statistics; Biostatistics",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/sanusi-ridwan",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "saidalgarni",
+      "school": "kfupm",
+      "record": {
+        "name": "Said Al Garni",
+        "title": "Assistant Professor",
+        "research": "Numerical Methods of PDEs/ODEs; Numerical Linear Algebra",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/al-garni-said",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "salaheddinekabbaj",
+      "school": "kfupm",
+      "record": {
+        "name": "Salah Eddine Kabbaj",
+        "title": "Professor",
+        "research": "Commutative Algebra and its Homological & Geometric Aspects",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/kabbaj-salah-eddine",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "shahzadsarwar",
+      "school": "kfupm",
+      "record": {
+        "name": "Shahzad Sarwar",
+        "title": "Assistant Professor",
+        "research": "Fractional Calculus; Partial differential equations",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/sarwar-shahzad",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "slimbelhaiza",
+      "school": "kfupm",
+      "record": {
+        "name": "Slim Belhaiza",
+        "title": "Associate Professor",
+        "research": "Vehicle Routing; Nash Equilibrium",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/belhaiza-slim",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "sulimanalhomidan",
+      "school": "kfupm",
+      "record": {
+        "name": "Suliman Al Homidan",
+        "title": "Professor",
+        "research": "Matrix Approximation; Numerical Linear Algebra",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/alhomidan-suliman",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "usmanqamar",
+      "school": "kfupm",
+      "record": {
+        "name": "Usman Qamar",
+        "title": "Professor",
+        "research": "Data Sciene and GenAI",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/qamar-usman",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "yaqoubshehadeh",
+      "school": "kfupm",
+      "record": {
+        "name": "Yaqoub Shehadeh",
+        "title": "Lecturer",
+        "research": "Bifurcation Point; Discretization Error",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/shehadeh-yaqoub",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-math-faculty-b53",
+      "person_key": "zaidsawlan",
+      "school": "kfupm",
+      "record": {
+        "name": "Zaid Sawlan",
+        "title": "Assistant Professor",
+        "research": "Data Assimilation; History matching",
+        "profile": "https://math.kfupm.edu.sa/people/math-faculty-directory/sawlan-zaid",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.kfupm.edu.sa/people/math-faculty-directory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-past-roles-b53",
+      "person_key": "hassanazad",
+      "school": "kfupm",
+      "record": {
+        "name": "Hassan Azad",
+        "title": "Former Professor (visiting professor at Abdus Salam School)",
+        "research": "Differential geometry and Lie groups, symmetry analysis on complex manifolds",
+        "profile": "https://faculty.kfupm.edu.sa/math/hassanaz/",
+        "homepage": "https://faculty.kfupm.edu.sa/math/hassanaz/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.kfupm.edu.sa/web/general/facultynamebydep.aspx?dep=MATH",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-past-roles-b53",
+      "person_key": "mtahirmustafa",
+      "school": "kfupm",
+      "record": {
+        "name": "M. Tahir Mustafa",
+        "title": "Former Associate Professor (current Qatar University Professor)",
+        "research": "Differential geometry, harmonic maps and harmonic morphisms, Kähler metrics, symmetries of Einstein manifolds",
+        "profile": "https://faculty.kfupm.edu.sa/MATH/tmustafa/",
+        "homepage": "https://www.cse.qu.edu.qa/en-us/Colleges/ArtsSciences/departments/msp/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.kfupm.edu.sa/web/general/facultynamebydep.aspx?dep=MATH",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-past-roles-b53",
+      "person_key": "parsabakhtary",
+      "school": "kfupm",
+      "record": {
+        "name": "Parsa Bakhtary",
+        "title": "Former Assistant Professor (currently Google Data Scientist)",
+        "research": "Algebraic geometry and complex geometry, simple normal crossing divisors, vector bundle splitting, and toric varieties",
+        "profile": "https://faculty.kfupm.edu.sa/math/pbakhtary/",
+        "homepage": "https://research.google/people/parsabakhtary/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://faculty.kfupm.edu.sa/web/general/facultynamebydep.aspx?dep=MATH",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "abdallahmalzahrani",
+      "school": "kfupm",
+      "record": {
+        "name": "Abdallah M. Al-Zahrani",
+        "title": "Assistant Professor",
+        "research": "Gravitational physics and mathematical modeling of black-hole geodesics",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/dr.-abdallah-m.-al-zahrani",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "abdelkrimmekki",
+      "school": "kfupm",
+      "record": {
+        "name": "Abdelkrim Mekki",
+        "title": "Associate Professor",
+        "research": "Material Science",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/akmekki",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "abdulazizaljalal",
+      "school": "kfupm",
+      "record": {
+        "name": "Abdul-Aziz Al-Jalal",
+        "title": "Associate Professor",
+        "research": "Laser Physics and Spectroscopy",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/aljalal",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "abdulazizhusainmalaswad",
+      "school": "kfupm",
+      "record": {
+        "name": "Abdulaziz Husain M. Al-Aswad",
+        "title": "Assistant Professor; Dean of Admission and Registration",
+        "research": "",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/dr.-abdulaziz-husain-m.-al-aswad",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "abdulwahababdulrahmanalluhaibi",
+      "school": "kfupm",
+      "record": {
+        "name": "Abdulwahab Abdulrahman Al Luhaibi",
+        "title": "Assistant Professor",
+        "research": "Computational Condensed Matter Physics \\ Superconductivity",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/aalluhaibi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "ahmedfsalem",
+      "school": "kfupm",
+      "record": {
+        "name": "Ahmed F. Salem",
+        "title": "Lecturer",
+        "research": "Superconductivity",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/afsalem",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "ashrafmohamedsamirfarahat",
+      "school": "kfupm",
+      "record": {
+        "name": "Ashraf Mohamed Samir Farahat",
+        "title": "Professor",
+        "research": "Physics/Space Physics",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/dr.-ashraf-mohamed-samir-farahat",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "aymanghannam",
+      "school": "kfupm",
+      "record": {
+        "name": "Ayman Ghannam",
+        "title": "Lecturer",
+        "research": "Superconductivity",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/ghannama",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "aymanselsaid",
+      "school": "kfupm",
+      "record": {
+        "name": "Ayman S. El-Said",
+        "title": "Associate Professor",
+        "research": "Materials Modification using Ion Beam Technology",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/elsaid",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "burhansaifaddin",
+      "school": "kfupm",
+      "record": {
+        "name": "Burhan Saifaddin",
+        "title": "Assistant Professor",
+        "research": "Semiconductor materials, optoelectronics and quantum devices",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/dr.-burhan-saifaddin",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "danielloss",
+      "school": "kfupm",
+      "record": {
+        "name": "Daniel Loss",
+        "title": "Chair Professor and Center Director",
+        "research": "Condensed matter theory and quantum computing",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/daniel.loss",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "eventhingstad",
+      "school": "kfupm",
+      "record": {
+        "name": "Even Thingstad",
+        "title": "Assistant Professor",
+        "research": "Condensed matter theory and quantum magnetism",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/even.thingstad",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "fahhadalharbi",
+      "school": "kfupm",
+      "record": {
+        "name": "Fahhad Alharbi",
+        "title": "Professor",
+        "research": "Optics and Photonics",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/fahhad.alharbi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "farisahmedalmatouq",
+      "school": "kfupm",
+      "record": {
+        "name": "Faris Ahmed Al-matouq",
+        "title": "Assistant Professor",
+        "research": "Experimental nuclear physics and prompt gamma spectroscopy",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/dr.-faris-ahmed-al-matouq",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "hocinebahlouli",
+      "school": "kfupm",
+      "record": {
+        "name": "Hocine Bahlouli",
+        "title": "Professor",
+        "research": "Condensed Matter",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/bahlouli",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "jihadalsadah",
+      "school": "kfupm",
+      "record": {
+        "name": "Jihad Al- Sadah",
+        "title": "Assistant Professor",
+        "research": "Medical physics",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/dr.-jihad-al--sadah",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "jizou",
+      "school": "kfupm",
+      "record": {
+        "name": "Ji Zou",
+        "title": "Assistant Professor",
+        "research": "Theory at the interface of quantum information and computation, magnetism, and topology.",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/ji.zou",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "khaledgasmi",
+      "school": "kfupm",
+      "record": {
+        "name": "Khaled Gasmi",
+        "title": "Associate Professor",
+        "research": "Laser Spectroscopy and Laser Sensing",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/kgasmi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "khalilaziq",
+      "school": "kfupm",
+      "record": {
+        "name": "Khalil A. Ziq",
+        "title": "Professor",
+        "research": "Superconductivity",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/dr.-khalil-a.-ziq",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "khalilharrabi",
+      "school": "kfupm",
+      "record": {
+        "name": "Khalil Harrabi",
+        "title": "Professor",
+        "research": "Mesoscopic physics and Superconductivity",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/dr.-khalil-harrabi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "khanalam",
+      "school": "kfupm",
+      "record": {
+        "name": "Khan Alam",
+        "title": "Associate Professor",
+        "research": "​Experimental Condensed Matter Physics: Thin Films",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/khan.alam",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "michaelvogl",
+      "school": "kfupm",
+      "record": {
+        "name": "Michael Vogl",
+        "title": "Associate Professor",
+        "research": "​Condensed Matter",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/michael.vogl",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "mogtababmekki",
+      "school": "kfupm",
+      "record": {
+        "name": "Mogtaba B. Mekki",
+        "title": "Lecturer",
+        "research": "Self-organized of Nano-structures, Numerical Solution of PDE with Noise, Nano-Scale Magnetism",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/mogtaba",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "mohammadagondal",
+      "school": "kfupm",
+      "record": {
+        "name": "Mohammad A. Gondal",
+        "title": "Distinguished Professor",
+        "research": "Laser Physics and Spectroscopy",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/magondal",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "mohammadfalkuhaili",
+      "school": "kfupm",
+      "record": {
+        "name": "Mohammad F. Al-Kuhaili",
+        "title": "Professor / Chairman",
+        "research": "Thin Films and Material Science",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/dr.-mohammad-f.-al-kuhaili",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "mohammadkhaledalsaif",
+      "school": "kfupm",
+      "record": {
+        "name": "Mohammad Khaled AL-Saif",
+        "title": "Lecturer",
+        "research": "Computational physics, condensed matter, quantum computing",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/Mohammad.saif",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "muhammadbaseerhaider",
+      "school": "kfupm",
+      "record": {
+        "name": "Muhammad Baseer Haider",
+        "title": "Associate Professor",
+        "research": "Surface and materials Science",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/mhaider",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "muhammaddastageer",
+      "school": "kfupm",
+      "record": {
+        "name": "Muhammad Dastageer",
+        "title": "Lecturer",
+        "research": "Laser Molecular Spectroscopy",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/makader",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "nidalkhaleddwaikat",
+      "school": "kfupm",
+      "record": {
+        "name": "Nidal Khaled Dwaikat",
+        "title": "Associate Professor",
+        "research": "Nuclear and Radiation Physics",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/dr.-nidal-khaled-dwaikat",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "radityawedabomantara",
+      "school": "kfupm",
+      "record": {
+        "name": "Raditya Weda Bomantara",
+        "title": "Assistant Professor",
+        "research": "​Condensed Matter and Quantum Computing",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/raditya.bomantara",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "saeedalmarzoug",
+      "school": "kfupm",
+      "record": {
+        "name": "Saeed Al-Marzoug",
+        "title": "Associate Professor",
+        "research": "Bose Einstein Condensate and nonlinear physics",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/marzoug",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "saleemrao",
+      "school": "kfupm",
+      "record": {
+        "name": "Saleem Rao",
+        "title": "Associate Professor",
+        "research": "Condensed Matter Physics",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/dr.-saleem-rao",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "suhailaldhurais",
+      "school": "kfupm",
+      "record": {
+        "name": "Suhail Aldhurais",
+        "title": "Assistant Professor",
+        "research": "Computational and theoretical space plasma physics and wave–particle interactions",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/suhail.aldhurais",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "wasikulislam",
+      "school": "kfupm",
+      "record": {
+        "name": "Wasikul Islam",
+        "title": "Assistant Professor",
+        "research": "Experimental Particle Physics, Physics at the Large Hadron Collider with ATLAS/CERN Experiment",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/wasikul.islam",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "watheqahmadalbasheer",
+      "school": "kfupm",
+      "record": {
+        "name": "Watheq Ahmad Al-Basheer",
+        "title": "Associate Professor",
+        "research": "Atomic Molecular and Optical Physics/Chemical Physics",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/Watheq",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "kfupm-phys-faculty-b53",
+      "person_key": "zainhassanyamani",
+      "school": "kfupm",
+      "record": {
+        "name": "Zain Hassan Yamani",
+        "title": "Professor",
+        "research": "Condensed Matter",
+        "profile": "https://physics.kfupm.edu.sa/People/faculty/faculty-details/zhyamani",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.kfupm.edu.sa/People/faculty",
+        "checked_at": "2026-11-26"
       }
     },
     {
@@ -570117,21 +572283,7 @@
         }
       ],
       "checkedAt": "2026-11-25",
-      "snapshot": {
-        "source": "OpenAlex",
-        "authorId": "A5061634971",
-        "orcid": "https://orcid.org/0000-0002-3468-010X",
-        "url": "https://openalex.org/authors/A5061634971",
-        "authorApiUrl": "https://api.openalex.org/authors/A5061634971",
-        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5061634971,type:article&per_page=1&select=id",
-        "checkedAt": "2026-11-25",
-        "articles": 132,
-        "works": 152,
-        "citations": 1694,
-        "hIndex": 24,
-        "articleScope": "OpenAlex type:article",
-        "citationScope": "OpenAlex 作者档案累计引用"
-      }
+      "candidate_url": "https://openalex.org/authors/A5061634971"
     },
     "asilata-bapat": {
       "status": "review_ready",
