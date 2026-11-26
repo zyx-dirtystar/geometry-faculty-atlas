@@ -455,8 +455,44 @@
     {
       "id": "cambridge",
       "coverage": "sample",
-      "coverageNote": "已解析 10/21 个登记来源，145 条任职或方向待核。 已收录 16 位学者，个人主页 6、CV 6、指标 3。 核对 DPMMS 57 位学者、62 位研究人员及 25 位荣休／离任，以及 DAMTP 73 位学者、91 位研究人员及 34 位荣休。两系分别对照研究组及 2027 年具名申请导师专长。独立核实跨系岗位、联合研究单位、大学学院及固定期研究人员。 本批逐名核对 177 个校内具名页面，69 个主页标签中一处是 Scholar 引用页，另查 68 个个人主页，36 个返回可读。核实列作 Academic Research Staff 的博士生、固定期博士后、学院研究员和教师，未披露具体方向的继续调查。",
+      "coverageNote": "已解析 32/50 个登记来源，153 条任职或方向待核。 已收录 23 位学者，个人主页 11、CV 7、指标 1。 DPMMS 57 学术、62 研究、92 学生、21 支持、25 荣休及 2 访问。DAMTP 73 学术、91 研究、34 荣休。学院总表六类合计 718 具名卡，单列 DPMMS、DAMTP 及合聘。高能物理 71、相对论和引力 72 张分栏。剑桥大学正式任命核实 Miranda Cheng 2026-09 起，Yang Li 与 Zoe Wyatt 核至 2026-10。学院具名任职和 2027 导师兴趣交叉。逐名尝试大学镜像及若干个人站，Isaac Newton Institute 公开目录直接 HTTP 403。原 145 条中 86 条已归类、59 条继续核对。学院总表新增 94 条待核人员记录。其余研究人员具体合约、跨院和学院联合范围待对账。",
       "rosterLinks": [
+        [
+          "DPMMS · Academic",
+          "https://www.dpmms.cam.ac.uk/people/"
+        ],
+        [
+          "DPMMS · Researcher",
+          "https://www.dpmms.cam.ac.uk/people/"
+        ],
+        [
+          "DPMMS · Students",
+          "https://www.dpmms.cam.ac.uk/people/"
+        ],
+        [
+          "DPMMS · Professional and Support Staff",
+          "https://www.dpmms.cam.ac.uk/people/"
+        ],
+        [
+          "DPMMS · Emeritus Staff",
+          "https://www.dpmms.cam.ac.uk/people/"
+        ],
+        [
+          "DPMMS · Visitors",
+          "https://www.dpmms.cam.ac.uk/people/"
+        ],
+        [
+          "DPMMS · Appointments and Promotions",
+          "https://www.dpmms.cam.ac.uk/appointments-and-promotions"
+        ],
+        [
+          "DPMMS · 2027 graduate supervisors",
+          "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
+        ],
+        [
+          "DAMTP · 2027 graduate supervisors",
+          "https://www.maths.cam.ac.uk/postgrad/finding-damtp-supervisor"
+        ],
         [
           "DAMTP · Academic Staff",
           "https://www.damtp.cam.ac.uk/people/academic"
@@ -502,6 +538,58 @@
           "https://www.dpmms.cam.ac.uk/people/students"
         ],
         [
+          "Faculty of Mathematics · Academic",
+          "https://www.maths.cam.ac.uk/people"
+        ],
+        [
+          "Faculty of Mathematics · Researcher",
+          "https://www.maths.cam.ac.uk/people"
+        ],
+        [
+          "Faculty of Mathematics · Students",
+          "https://www.maths.cam.ac.uk/people"
+        ],
+        [
+          "Faculty of Mathematics · Professional and Support Staff",
+          "https://www.maths.cam.ac.uk/people"
+        ],
+        [
+          "Faculty of Mathematics · Emeritus Staff",
+          "https://www.maths.cam.ac.uk/people"
+        ],
+        [
+          "Faculty of Mathematics · Visitors",
+          "https://www.maths.cam.ac.uk/people"
+        ],
+        [
+          "Instituto Superior Técnico · September 2026 appointment",
+          "https://math.tecnico.ulisboa.pt/faculty/recent"
+        ],
+        [
+          "DAMTP · Theoretical High Energy Particle Physics · Academic",
+          "https://www.damtp.cam.ac.uk/research/hep/people"
+        ],
+        [
+          "DAMTP · Theoretical High Energy Particle Physics · Emeritus Staff",
+          "https://www.damtp.cam.ac.uk/research/hep/people"
+        ],
+        [
+          "DAMTP · Theoretical High Energy Particle Physics · Researcher",
+          "https://www.damtp.cam.ac.uk/research/hep/people"
+        ],
+        [
+          "DAMTP · Theoretical High Energy Particle Physics · Students",
+          "https://www.damtp.cam.ac.uk/research/hep/people"
+        ],
+        [
+          "DAMTP · Theoretical High Energy Particle Physics · Professional and Support Staff",
+          "https://www.damtp.cam.ac.uk/research/hep/people"
+        ],
+        [
+          "Isaac Newton Institute · programme and visiting scopes",
+          "https://www.newton.ac.uk/event/"
+        ],
+        [
           "Isaac Newton Institute official programme archive and visitor evidence",
           "https://www.newton.ac.uk/event/"
         ],
@@ -510,8 +598,36 @@
           "https://www.maths.cam.ac.uk/internal/postdocs"
         ],
         [
+          "Cambridge Reporter · 2026 mathematical physics and cosmology chairs",
+          "https://rso.admin.cam.ac.uk/reporter/2025-26/weekly/6821/section2.shtml"
+        ],
+        [
+          "Cambridge · current mathematics vacancies",
+          "https://www.cam.ac.uk/jobs/term/Department-of-Pure-Mathematics-and-Mathematical-Statistics"
+        ],
+        [
           "Cambridge · Postdoctoral Research Associate in Geometry & Topology",
           "https://www.cam.ac.uk/jobs/postdoctoral-research-associate-in-geometry-topology-lf51644"
+        ],
+        [
+          "DAMTP · Relativity and Gravitation · Academic",
+          "https://www.damtp.cam.ac.uk/research/gr/people"
+        ],
+        [
+          "DAMTP · Relativity and Gravitation · Researcher",
+          "https://www.damtp.cam.ac.uk/research/gr/people"
+        ],
+        [
+          "DAMTP · Relativity and Gravitation · Students",
+          "https://www.damtp.cam.ac.uk/research/gr/people"
+        ],
+        [
+          "DAMTP · Relativity and Gravitation · Professional and Support Staff",
+          "https://www.damtp.cam.ac.uk/research/gr/people"
+        ],
+        [
+          "DAMTP · Relativity and Gravitation · Emeritus Staff",
+          "https://www.damtp.cam.ac.uk/research/gr/people"
         ],
         [
           "Postgraduate Study in Mathematics · Research Programmes",
@@ -542,7 +658,7 @@
           "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
         ]
       ],
-      "checkedAt": "2026-11-25"
+      "checkedAt": "2026-11-26"
     },
     {
       "id": "sorbonne",
@@ -7275,7 +7391,7 @@
     {
       "id": "lisbon",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，11 条任职或方向待核。 已收录 6 位学者，个人主页 0、CV 0、指标 0。 已读取 Instituto Superior Técnico 数学系 Faculty and Researchers。其余校内数学院系和联合单位仍待与大学口径对账。",
+      "coverageNote": "已解析 1/3 个登记来源，11 条任职或方向待核。 已收录 6 位学者，个人主页 1、CV 0、指标 0。 已读取 Instituto Superior Técnico 数学系 Faculty and Researchers。其余校内数学院系和联合单位仍待与大学口径对账。",
       "rosterLinks": [
         [
           "Matemática IST faculty and researchers",
@@ -14488,7 +14604,7 @@
           "title": "Academic Faculty",
           "url": "https://www.dpmms.cam.ac.uk/person/ajm269",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -14520,7 +14636,7 @@
           "url": "https://www.dpmms.cam.ac.uk/person/ajm269"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -14530,61 +14646,59 @@
       "affiliations": [
         {
           "schoolId": "cambridge",
-          "department": "数学系",
-          "title": "Professor",
-          "url": "https://www.dpmms.cam.ac.uk/person/amk50",
+          "department": "Department of Pure Mathematics and Mathematical Statistics",
+          "title": "Professor of Mathematics",
+          "url": "https://www.maths.cam.ac.uk/person/amk50",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
+        "algebraic",
         "differential"
       ],
-      "tags": [
-        "Geometry and topology group",
-        "Symplectic topology, singularity theory and mirror symmetry",
-        "Research Interests: Symplectic Geometry"
-      ],
+      "tags": [],
       "homepage": null,
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "http://www.cam.ac.uk/about-the-university/publications",
-      "publicationCounts": [],
+      "publicationsUrl": null,
+      "publicationCounts": [
+        {
+          "value": 11,
+          "url": "https://openalex.org/A5050843802",
+          "scope": "具名 OpenAlex 作品查询共 14 项。按不同正式期刊 DOI 去重，排除报告、存档副本、书章及预印本。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [
         {
-          "label": "Ailsa Keating 项目博士后，几何与拓扑",
-          "url": "https://www.mathjobs.org/jobs/list/29485",
+          "label": "Cambridge 几何与拓扑博士后（Ailsa Keating 研究组）",
+          "url": "https://www.cam.ac.uk/jobs/postdoctoral-research-associate-in-geometry-topology-lf51644",
           "type": "博士后",
           "status": "招聘公告在招",
           "deadline": "2026-12-20",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "具名 EPFL 合作者及 Cambridge、辛几何刊本和本人 ORCID 均相符。 作者端 18 项与作品查询 14 项不同，累计引用覆盖待核。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "papers": [
         {
-          "text": "Geometry and topology group",
-          "url": "https://www.dpmms.cam.ac.uk/people/academic"
-        },
-        {
-          "text": "Symplectic topology, singularity theory and mirror symmetry",
-          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
-        },
-        {
-          "text": "Differential geometry of symplectic manifolds, mirror symmetry and singularity theory",
-          "url": "https://www.dpmms.cam.ac.uk/person/amk50"
-        },
-        {
-          "text": "Research Interests: Symplectic Geometry",
-          "url": "https://www.dpmms.cam.ac.uk/person/amk50"
+          "title": "Homological mirror symmetry for log Calabi–Yau surfaces",
+          "year": 2022,
+          "url": "https://doi.org/10.2140/gt.2022.26.3747"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "directoryEvidence": [
+        {
+          "text": "Symplectic and differential geometry, algebraic geometry of mirror symmetry, Fukaya categories and singularities",
+          "url": "https://www.maths.cam.ac.uk/person/amk50"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -14594,48 +14708,35 @@
       "affiliations": [
         {
           "schoolId": "cambridge",
-          "department": "数学系",
-          "title": "Associate Professor",
-          "url": "https://www.maths.cam.ac.uk/node/470",
+          "department": "Department of Pure Mathematics and Mathematical Statistics",
+          "title": "Associate Professor of Mathematics",
+          "url": "https://www.maths.cam.ac.uk/person/agk22",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
-      "tags": [
-        "Geometry and topology group",
-        "Differential geometry, special holonomy and G2 manifolds",
-        "Research Interests: differential geometry, global analysis"
-      ],
+      "tags": [],
       "homepage": "https://www.dpmms.cam.ac.uk/~agk22/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "http://www.cam.ac.uk/about-the-university/publications",
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
-      "metrics": [
+      "publicationsUrl": "https://www.dpmms.cam.ac.uk/~agk22/papers.html",
+      "publicationCounts": [
         {
-          "source": "OpenAlex",
-          "authorId": "A5076403961",
-          "orcid": null,
-          "url": "https://openalex.org/authors/A5076403961",
-          "authorApiUrl": "https://api.openalex.org/authors/A5076403961",
-          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5076403961,type:article&per_page=1&select=id",
-          "checkedAt": "2026-11-23",
-          "articles": 10,
-          "works": 22,
-          "citations": 590,
-          "hIndex": 10,
-          "articleScope": "OpenAlex type:article",
-          "citationScope": "OpenAlex 作者档案累计引用"
+          "value": 10,
+          "url": "https://openalex.org/A5076403961",
+          "scope": "具名 OpenAlex 作品查询共 19 项。按不同正式期刊 DOI 去重，排除报告、存档副本、书章及预印本。",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "identityUrl": null,
+      "opportunities": [],
+      "identityNote": "Cambridge 具名作者及 G₂ 正式论文匹配。另一个 A.E. Kovalev 带大量低温输运、磁阻和材料论文。 作者端 22 项与作品查询 19 项不同，累计引用覆盖待核。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5076403961",
       "papers": [
         {
           "title": "Nearly parallel $\\mathrm{G}_2$-manifolds: formality and associative submanifolds",
@@ -14651,31 +14752,105 @@
           "title": "K3 surfaces with non-symplectic involution and compact irreducibleG2-manifolds",
           "year": 2011,
           "url": "https://doi.org/10.1017/s030500411100003x"
+        },
+        {
+          "title": "Twisted connected sums and special Riemannian holonomy",
+          "year": 2003,
+          "url": "https://doi.org/10.1515/crll.2003.097"
         }
       ],
       "directoryEvidence": [
         {
-          "text": "Geometry and topology group",
-          "url": "https://www.dpmms.cam.ac.uk/people/academic"
-        },
-        {
-          "text": "Differential geometry and global analysis, especially reduced holonomy, calibrated submanifolds and special geometric structures",
-          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
-        },
-        {
-          "text": "Differential geometry, special holonomy and G2 manifolds",
-          "url": "https://www.dpmms.cam.ac.uk/~agk22/phdinfo.html"
-        },
-        {
-          "text": "Research Interests: differential geometry, global analysis.",
-          "url": "https://www.maths.cam.ac.uk/node/470"
+          "text": "Differential geometry, special holonomy, G₂ manifolds, calibrated submanifolds and geometric analysis",
+          "url": "https://www.maths.cam.ac.uk/person/agk22"
         },
         {
           "text": "个人研究或论文来源",
           "url": "https://www.maths.cam.ac.uk/node/470"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "david-michael-addis-stuart",
+      "name": "David Michael Addis Stuart",
+      "aliases": [
+        "David M. A. Stuart",
+        "David Stuart"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "cambridge",
+          "department": "Department of Applied Mathematics and Theoretical Physics",
+          "title": "Professor of Mathematics",
+          "url": "https://www.maths.cam.ac.uk/person/dmas2",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.damtp.cam.ac.uk/user/dmas2/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometric analysis, variational PDE, harmonic maps, solitons on pseudo-Riemannian manifolds and Einstein equations",
+          "url": "https://www.maths.cam.ac.uk/person/dmas2"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "david-skinner",
+      "name": "David Skinner",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "cambridge",
+          "department": "Department of Applied Mathematics and Theoretical Physics",
+          "title": "Professor",
+          "url": "https://www.maths.cam.ac.uk/person/dbs26",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "complex"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Twistor geometry, complex geometry, scattering amplitudes and algebraic structures in quantum field theory",
+          "url": "https://www.maths.cam.ac.uk/person/dbs26"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -14685,42 +14860,88 @@
       "affiliations": [
         {
           "schoolId": "cambridge",
-          "department": "数学系",
+          "department": "Department of Pure Mathematics and Mathematical Statistics",
           "title": "Professor of Algebraic Geometry",
           "url": "https://www.joh.cam.ac.uk/research/academics/fellows/professor-dhruv-ranganathan",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
-      "tags": [
-        "Algebraic Geometry, combinatorics"
-      ],
+      "tags": [],
       "homepage": "https://www.dhruvrnathan.net/",
       "homepageStatus": null,
       "cvUrl": "https://www.google.com/url?q=https%3A%2F%2Fwww.dpmms.cam.ac.uk%2F~dr508%2Fcv.pdf&sa=D&sntz=1&usg=AOvVaw3HvGpg6DBrthBgt841uc1D",
       "cvType": null,
       "cvStatus": null,
       "publicationsUrl": null,
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 38,
+          "url": "https://openalex.org/A5084547899",
+          "scope": "具名 OpenAlex 作品查询共 61 项。按不同正式期刊 DOI 去重，排除报告、存档副本、书章及预印本。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
+      "identityNote": "学院在任、ORCID、对数 Gromov–Witten 正式 DOI 与学位论文履历相符。 作者端 67 项与作品查询 61 项不同，累计引用覆盖待核。",
       "metrics": [],
       "identityUrl": "https://openalex.org/A5084547899",
+      "papers": [
+        {
+          "title": "Logarithmic Gromov–Witten theory with expansions",
+          "year": 2022,
+          "url": "https://doi.org/10.14231/ag-2022-022"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of logarithmic, tropical and enumerative geometry, moduli of curves and stable maps",
+          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor#algebraicgeometry"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "harvey-reall",
+      "name": "Harvey Reall",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "cambridge",
+          "department": "Department of Applied Mathematics and Theoretical Physics",
+          "title": "Professor of Theoretical Physics",
+          "url": "https://www.maths.cam.ac.uk/person/hsr1000",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Algebraic Geometry, combinatorics",
-          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
-        },
-        {
-          "text": "Tropical algebraic geometry, enumerative geometry and moduli theory",
-          "url": "https://www.joh.cam.ac.uk/research/academics/fellows/professor-dhruv-ranganathan"
+          "text": "Mathematical general relativity, differential geometry of black holes and causal structure of Einstein spacetimes",
+          "url": "https://www.maths.cam.ac.uk/person/hsr1000"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -14734,7 +14955,7 @@
           "title": "Professor",
           "url": "https://www.dpmms.cam.ac.uk/person/hk439",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -14771,7 +14992,7 @@
           "url": "https://www.dpmms.cam.ac.uk/person/hk439"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -14785,7 +15006,7 @@
           "title": "Professor",
           "url": "https://www.dpmms.cam.ac.uk/person/ig211",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -14821,7 +15042,7 @@
           "url": "https://www.dpmms.cam.ac.uk/person/ig211"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -14831,21 +15052,17 @@
       "affiliations": [
         {
           "schoolId": "cambridge",
-          "department": "数学系",
-          "title": "Professor",
-          "url": "https://www.dpmms.cam.ac.uk/person/is200",
+          "department": "Department of Pure Mathematics and Mathematical Statistics",
+          "title": "Professor of Geometry",
+          "url": "https://www.maths.cam.ac.uk/person/is200",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
-        "algebraic",
         "differential"
       ],
-      "tags": [
-        "Geometry and topology group",
-        "Research Interests: Symplectic Topology"
-      ],
+      "tags": [],
       "homepage": null,
       "homepageStatus": null,
       "cvUrl": null,
@@ -14860,23 +15077,11 @@
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Geometry and topology group",
-          "url": "https://www.dpmms.cam.ac.uk/people/academic"
-        },
-        {
-          "text": "I am interested in symplectic topology and its connections to algebraic geometry, algebraic topology, low-dimensional topology and dynamics. Much of my work uses Floer theory (counts of holomorphic discs and associated algebraic structures) to study the topology of Lagrangian submanifolds and the structure of symplectomorphism groups.",
-          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
-        },
-        {
-          "text": "Differential geometry of symplectic manifolds, symplectic topology, Fukaya categories and mirror symmetry",
-          "url": "https://www.dpmms.cam.ac.uk/person/is200"
-        },
-        {
-          "text": "Research Interests: Symplectic Topology",
-          "url": "https://www.dpmms.cam.ac.uk/person/is200"
+          "text": "Differential geometry of symplectic manifolds, mirror symmetry, Floer theory and Fukaya categories",
+          "url": "https://www.maths.cam.ac.uk/person/is200"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -14890,7 +15095,7 @@
           "title": "Professor of Number Theory",
           "url": "https://www.dpmms.cam.ac.uk/person/jat58",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -14926,7 +15131,112 @@
           "url": "https://www.dpmms.cam.ac.uk/person/jat58"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jorge-e-santos",
+      "name": "Jorge E Santos",
+      "aliases": [
+        "Jorge E. Santos"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "cambridge",
+          "department": "Department of Applied Mathematics and Theoretical Physics",
+          "title": "Professor of Theoretical Physics",
+          "url": "https://www.maths.cam.ac.uk/person/jss55",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "Cambridge DAMTP 的 Lorentzian Einstein 工作与本人 ORCID、正式论文支持。 作者端 176 项与作品查询 159 项不同，累计引用覆盖待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Almost all extremal black holes in AdS are singular",
+          "year": 2023,
+          "url": "https://doi.org/10.1007/JHEP01(2023)162"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Lorentzian differential geometry and mathematical relativity of black hole spacetimes, bifurcation, and higher-dimensional Einstein solutions",
+          "url": "https://www.damtp.cam.ac.uk/person/jss55"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "maciej-dunajski",
+      "name": "Maciej Dunajski",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "cambridge",
+          "department": "Department of Applied Mathematics and Theoretical Physics",
+          "title": "Professor of Mathematical Physics",
+          "url": "https://www.maths.cam.ac.uk/person/md327",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.damtp.cam.ac.uk/user/md327/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "本人作者站与系具名任职和 Career 分栏可读，尚未确认独立公开 CV。",
+      "publicationsUrl": "https://www.damtp.cam.ac.uk/user/md327/publ.html",
+      "publicationCounts": [
+        {
+          "value": 89,
+          "url": "https://openalex.org/A5039368482",
+          "scope": "具名 OpenAlex 作品查询共 142 项。按不同正式期刊 DOI 去重，排除报告、存档副本、书章及预印本。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "具名几何论文与学校档一致。部分正式 DOI 同时见于机构库或预印本。 作者端 189 项与作品查询 142 项不同，累计引用覆盖待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Quasi-Einstein Structures and Hitchin’s Equations",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s00220-026-05699-x"
+        },
+        {
+          "title": "Conformally Kähler structures",
+          "year": 2025,
+          "url": "https://doi.org/10.1017/prm.2025.10058"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry and differential geometry of twistor spaces, conformally Kähler structures, Einstein metrics and integrable systems",
+          "url": "https://www.damtp.cam.ac.uk/person/md327"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -14936,49 +15246,35 @@
       "affiliations": [
         {
           "schoolId": "cambridge",
-          "department": "数学系",
-          "title": "Professor",
-          "url": "https://www.dpmms.cam.ac.uk/person/mg475",
+          "department": "Department of Pure Mathematics and Mathematical Statistics",
+          "title": "Professor of Pure Mathematics",
+          "url": "https://www.maths.cam.ac.uk/person/mg475",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
-        "algebraic",
-        "differential"
+        "complex"
       ],
-      "tags": [
-        "Algebraic Geometry",
-        "Algebraic geometry and mirror symmetry",
-        "Research Interests: Algebraic Geometry, Differential Geometry,"
-      ],
-      "homepage": null,
+      "tags": [],
+      "homepage": "https://www.dpmms.cam.ac.uk/~mg475/",
       "homepageStatus": null,
-      "cvUrl": "https://www.dpmms.cam.ac.uk/~mg475/cv2024.pdf",
-      "cvType": null,
+      "cvUrl": "https://www.dpmms.cam.ac.uk/~mg475/cv2026.pdf",
+      "cvType": "公开学术 CV（2026）",
       "cvStatus": null,
-      "publicationsUrl": "http://www.cam.ac.uk/about-the-university/publications",
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
-      "metrics": [
+      "publicationsUrl": null,
+      "publicationCounts": [
         {
-          "source": "OpenAlex",
-          "authorId": "A5113571976",
-          "orcid": null,
-          "url": "https://openalex.org/authors/A5113571976",
-          "authorApiUrl": "https://api.openalex.org/authors/A5113571976",
-          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5113571976,type:article&per_page=1&select=id",
-          "checkedAt": "2026-11-23",
-          "articles": 51,
-          "works": 109,
-          "citations": 6896,
-          "hIndex": 47,
-          "articleScope": "OpenAlex type:article",
-          "citationScope": "OpenAlex 作者档案累计引用"
+          "value": 50,
+          "url": "https://openalex.org/A5113571976",
+          "scope": "具名 OpenAlex 作品查询共 85 项。按不同正式期刊 DOI 去重，排除报告、存档副本、书章及预印本。",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "identityUrl": null,
+      "opportunities": [],
+      "identityNote": "几何 Gross 由 Annals 的仿射几何、DPMMS CV 及合作者 Bernd Siebert 核定。另一个 Mark D. Gross 属机器人、设计和人机交互。 作者端 109 项与作品查询 85 项不同，累计引用覆盖待核。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5113571976",
       "papers": [
         {
           "title": "From real affine geometry to complex geometry",
@@ -14988,27 +15284,69 @@
       ],
       "directoryEvidence": [
         {
-          "text": "Algebraic Geometry",
-          "url": "https://www.dpmms.cam.ac.uk/people/academic"
-        },
-        {
-          "text": "Algebraic Geometry",
-          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
-        },
-        {
-          "text": "Algebraic geometry and mirror symmetry",
-          "url": "https://annals.math.princeton.edu/2011/174-3/p01"
-        },
-        {
-          "text": "Research Interests: Algebraic Geometry, Differential Geometry,",
-          "url": "https://www.dpmms.cam.ac.uk/person/mg475"
+          "text": "Algebraic and complex geometry, tropical and logarithmic geometry and mirror symmetry for Calabi–Yau varieties",
+          "url": "https://www.maths.cam.ac.uk/person/mg475"
         },
         {
           "text": "个人研究或论文来源",
           "url": "https://annals.math.princeton.edu/2011/174-3/p01"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "miranda-cheng",
+      "name": "Miranda Cheng",
+      "aliases": [
+        "Miranda C. N. Cheng"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "cambridge",
+          "department": "Department of Applied Mathematics and Theoretical Physics",
+          "title": "Professor of Data-Intensive Mathematical Physics",
+          "url": "https://www.maths.cam.ac.uk/person/mc2645",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/site/mcheng0606/",
+      "homepageStatus": null,
+      "cvUrl": "https://sites.google.com/site/mcheng0606/short-cv",
+      "cvType": "公开学术短 CV（含 2026 任聘）",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [
+        {
+          "value": 44,
+          "url": "https://openalex.org/A5089449248",
+          "scope": "具名 OpenAlex 作品查询共 74 项。按不同正式期刊 DOI 去重，排除报告、存档副本、书章及预印本。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "新 Cambridge 讲席、本人姓名与 ORCID 互核。K3 和 Moonshine 正式 DOI 与 Amsterdam 任职记录交叉。 作者端 92 项与作品查询 74 项不同，累计引用覆盖待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "K3 surfaces, N=4 dyons and the Mathieu group M24",
+          "year": 2010,
+          "url": "https://doi.org/10.4310/cntp.2010.v4.n4.a2"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex and algebraic geometry of K3 surfaces, moonshine, automorphic forms, and supersymmetric string compactifications",
+          "url": "https://rso.admin.cam.ac.uk/reporter/2025-26/weekly/6821/section2.shtml"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -15018,50 +15356,49 @@
       "affiliations": [
         {
           "schoolId": "cambridge",
-          "department": "数学系",
-          "title": "Professor",
-          "url": "https://www.dpmms.cam.ac.uk/person/ngw24",
+          "department": "Department of Pure Mathematics and Mathematical Statistics",
+          "title": "Professor of Mathematics",
+          "url": "https://www.maths.cam.ac.uk/person/ngw24",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
-      "tags": [
-        "Geometry and topology group"
-      ],
+      "tags": [],
       "homepage": null,
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "http://www.cam.ac.uk/about-the-university/publications",
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "publicationsUrl": null,
+      "publicationCounts": [
         {
-          "text": "Geometry and topology group",
-          "url": "https://www.dpmms.cam.ac.uk/people/academic"
-        },
-        {
-          "text": "Geometric measure theory, partial differential equations, differential geometry",
-          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
-        },
-        {
-          "text": "Differential geometry, geometric measure theory, geometric analysis and partial differential equations",
-          "url": "https://www.dpmms.cam.ac.uk/person/ngw24"
-        },
-        {
-          "text": "Research Interests: Geometric measure theory, partial differential equations, differential geometry",
-          "url": "https://www.dpmms.cam.ac.uk/person/ngw24"
+          "value": 14,
+          "url": "https://openalex.org/A5011706684",
+          "scope": "具名 OpenAlex 作品查询共 32 项。按不同正式期刊 DOI 去重，排除报告、存档副本、书章及预印本。",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "opportunities": [],
+      "identityNote": "DPMMS 当前职务和 Annals 正式代表作确认。OA 作者身份成立，含正式刊物和多项预印本。 作者端 35 项与作品查询 32 项不同，累计引用覆盖待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "A general regularity theory for stable codimension 1 integral varifolds",
+          "year": 2014,
+          "url": "https://doi.org/10.4007/annals.2014.179.3.2"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of minimal hypersurfaces, geometric measure theory and elliptic regularity",
+          "url": "https://www.maths.cam.ac.uk/person/ngw24"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -15071,11 +15408,11 @@
       "affiliations": [
         {
           "schoolId": "cambridge",
-          "department": "数学系",
-          "title": "Professor of Mathematics",
-          "url": "https://www.dpmms.cam.ac.uk/person/rz240",
+          "department": "Department of Pure Mathematics and Mathematical Statistics",
+          "title": "Professor of Arithmetic Geometry (Grade 11)",
+          "url": "https://www.maths.cam.ac.uk/person/rz240",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -15085,7 +15422,7 @@
       "homepage": "https://www.dpmms.cam.ac.uk/~rz240/",
       "homepageStatus": null,
       "cvUrl": "https://www.dpmms.cam.ac.uk/~rz240/CV_25.pdf",
-      "cvType": null,
+      "cvType": "公开学术 CV（主页 2025 版，职称以 2026 公告为准）",
       "cvStatus": null,
       "publicationsUrl": "https://www.dpmms.cam.ac.uk/~rz240/",
       "publicationCounts": [],
@@ -15096,19 +15433,11 @@
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Arithmetic geometry, representation theory, geometry of Shimura varieties",
-          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
-        },
-        {
-          "text": "Arithmetic geometry of Shimura varieties and representation theory",
-          "url": "https://www.dpmms.cam.ac.uk/person/rz240"
-        },
-        {
-          "text": "Research Interests: Arithmetic geometry, representation theory, geometry of Shimura varieties.",
-          "url": "https://www.dpmms.cam.ac.uk/person/rz240"
+          "text": "Algebraic geometry and arithmetic geometry of Shimura varieties, abelian varieties and their moduli",
+          "url": "https://www.maths.cam.ac.uk/person/rz240"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -15118,46 +15447,49 @@
       "affiliations": [
         {
           "schoolId": "cambridge",
-          "department": "数学系",
+          "department": "Department of Pure Mathematics and Mathematical Statistics",
           "title": "University Assistant Professor in Pure Mathematics",
           "url": "https://www.pem.cam.ac.uk/college/master-and-fellows/list-fellows/dr-samir-canning",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
-      "tags": [
-        "Algebraic Geometry"
-      ],
+      "tags": [],
       "homepage": "https://www.dpmms.cam.ac.uk/~src88/",
       "homepageStatus": null,
-      "cvUrl": "https://www.dpmms.cam.ac.uk/~src88/CV.pdf",
-      "cvType": null,
+      "cvUrl": "https://people.math.ethz.ch/~scanning/CV.pdf",
+      "cvType": "公开学术 CV（旧 ETH 版本，当前职称见 Cambridge）",
       "cvStatus": null,
       "publicationsUrl": "https://www.dpmms.cam.ac.uk/~src88/",
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "publicationCounts": [
         {
-          "text": "Algebraic Geometry",
-          "url": "https://www.dpmms.cam.ac.uk/people/academic"
-        },
-        {
-          "text": "Geometry and topology of moduli spaces, especially moduli spaces of curves, K3 surfaces, and abelian varieties",
-          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
-        },
-        {
-          "text": "Algebraic geometry of moduli spaces of curves, abelian varieties and K3 surfaces",
-          "url": "https://www.dpmms.cam.ac.uk/~src88/"
+          "value": 17,
+          "url": "https://openalex.org/A5053862082",
+          "scope": "具名 OpenAlex 作品查询共 28 项。按不同正式期刊 DOI 去重，排除报告、存档副本、书章及预印本。",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "opportunities": [],
+      "identityNote": "Cambridge 与 ETH 履历、合作者和 DOI 归属吻合。作品含一条由正式出版 DOI 及机构存档 DOI 双存的同题论文。 作者端 30 项与作品查询 28 项不同，累计引用覆盖待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Extensions of tautological rings and motivic structures in the cohomology of moduli of curves",
+          "year": 2024,
+          "url": "https://doi.org/10.1017/fmp.2024.24"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of moduli of curves, K3 surfaces and abelian varieties, tautological classes and motives",
+          "url": "https://www.maths.cam.ac.uk/person/src88"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -15171,7 +15503,7 @@
           "title": "Professor",
           "url": "https://www.dpmms.cam.ac.uk/person/taf1000",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -15200,7 +15532,7 @@
           "url": "https://www.dpmms.cam.ac.uk/person/taf1000"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -15214,7 +15546,7 @@
           "title": "Professor of Number Theory and Algebra",
           "url": "https://www.dpmms.cam.ac.uk/person/ajs1005",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -15245,7 +15577,65 @@
           "url": "https://www.dpmms.cam.ac.uk/person/ajs1005"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "yang-li",
+      "name": "Yang Li",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "cambridge",
+          "department": "Department of Pure Mathematics and Mathematical Statistics",
+          "title": "Lecturer and Royal Society University Research Fellow",
+          "url": "https://www.maths.cam.ac.uk/person/yl454",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/view/yanglimaths/home",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.maths.cam.ac.uk/person/yl454",
+      "publicationCounts": [
+        {
+          "value": 30,
+          "url": "https://openalex.org/A5100421699",
+          "scope": "具名 OpenAlex 作品查询共 39 项。按不同正式期刊 DOI 去重，排除报告、存档副本、书章及预印本。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "由本人 ORCID、具名 Cambridge 职务及 Inventiones 正式论文核定。大量姓名查询结果属其他学科。 作者端 41 项与作品查询 39 项不同，累计引用覆盖待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "A new complete Calabi–Yau metric on C³",
+          "year": 2019,
+          "url": "https://doi.org/10.1007/s00222-019-00861-w"
+        },
+        {
+          "title": "On collapsing Calabi–Yau fibrations",
+          "year": 2021,
+          "url": "https://doi.org/10.4310/jdg/1615487004"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential and complex geometry of Calabi–Yau metrics, special Lagrangians, special holonomy and gauge theory",
+          "url": "https://www.maths.cam.ac.uk/person/yl454"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -15255,50 +15645,42 @@
       "affiliations": [
         {
           "schoolId": "cambridge",
-          "department": "数学系",
-          "title": "Academic Faculty · DPMMS",
-          "url": "https://www.dpmms.cam.ac.uk/person/zw253",
+          "department": "Department of Pure Mathematics and Mathematical Statistics",
+          "title": "Associate Professor of Mathematics",
+          "url": "https://www.maths.cam.ac.uk/person/zw253",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
-      "tags": [
-        "Geometry and topology group"
-      ],
+      "tags": [],
       "homepage": "https://www.dpmms.cam.ac.uk/~zw253/index.html",
       "homepageStatus": null,
       "cvUrl": "https://www.dpmms.cam.ac.uk/~zw253/files/Wyatt-CV.pdf",
-      "cvType": null,
+      "cvType": "公开学术 CV（列 2026-10 晋升）",
       "cvStatus": null,
-      "publicationsUrl": "http://www.cam.ac.uk/about-the-university/publications",
+      "publicationsUrl": "https://www.dpmms.cam.ac.uk/~zw253/index.html",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "papers": [
         {
-          "text": "Geometry and topology group",
-          "url": "https://www.dpmms.cam.ac.uk/people/academic"
-        },
-        {
-          "text": "General relativity, theoretical cosmology, analysis of hyperbolic differential differential equations",
-          "url": "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor"
-        },
-        {
-          "text": "General relativity, theoretical cosmology, analysis of partial differential equations",
-          "url": "https://www.maths.cam.ac.uk/postgrad/finding-damtp-supervisor"
-        },
-        {
-          "text": "Differential geometry, nonlinear PDEs and mathematical general relativity",
-          "url": "https://www.dpmms.cam.ac.uk/~zw253/index.html"
+          "title": "Stabilizing Relativistic Fluids on Spacetimes with Non-Accelerated Expansion",
+          "year": 2021,
+          "url": "https://doi.org/10.1007/s00220-020-03924-9"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "directoryEvidence": [
+        {
+          "text": "Lorentzian differential geometry, geometric analysis, general relativity and nonlinear hyperbolic PDE",
+          "url": "https://www.maths.cam.ac.uk/person/zw253"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -32423,20 +32805,18 @@
       "affiliations": [
         {
           "schoolId": "lisbon",
-          "department": "数学系",
-          "title": "Assistant Professor",
-          "url": "https://math.tecnico.ulisboa.pt/faculty/professor.php?who=adlguerra",
+          "department": "Department of Mathematics, Instituto Superior Técnico",
+          "title": "Assistant Professor of Mathematics",
+          "url": "https://math.tecnico.ulisboa.pt/professor?who=adlguerra",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
-      "tags": [
-        "Calculus of Variations and Geometric Analysis"
-      ],
-      "homepage": null,
+      "tags": [],
+      "homepage": "https://www.dpmms.cam.ac.uk/~adblg2/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
@@ -32450,11 +32830,11 @@
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Calculus of Variations and Geometric Analysis",
-          "url": "https://math.tecnico.ulisboa.pt/faculty/"
+          "text": "Differential geometry and geometric analysis, geometric function theory, calculus of variations and nonlinear PDE",
+          "url": "https://math.tecnico.ulisboa.pt/faculty/recent"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {

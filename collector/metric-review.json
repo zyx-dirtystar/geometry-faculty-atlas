@@ -35,7 +35,6 @@
     "konstantin-ardakov": "A5002685409",
     "li-buyang": "A5039197834",
     "robert-haslhofer": "A5024588618",
-    "mark-gross": "A5113571976",
     "martin-sombra": "A5027538609",
     "jacob-bernstein": "A5019978507",
     "georg-oberdieck": "A5014684784",
@@ -44,7 +43,6 @@
     "marti-lahoz": "A5012961943",
     "melody-chan": "A5020887417",
     "tony-yue-yu": "A5064553016",
-    "alexei-kovalev": "A5076403961",
     "mark-haskins": "A5076628446",
     "stefano-filipazzi": "A5082068687",
     "saikat-mazumdar": "A5064246689",
@@ -723,7 +721,18 @@
     "georgios-moschidis": "历年 EPFL 和 Princeton、现行 NTUA 署名与本人 ORCID 相符。作品查询 14 项逐一核对，其中九项为 OpenAlex article。",
     "raymond-cheng": "近名计算机和医学作者档不匹配几何。以本人 Writings 全表按照刊本补计论文。",
     "niklas-maximilian-muller": "OpenAlex 全名检索无结果。较短拼法候选同名较多，先以 CAG 具名角色与本人几何方向判定。",
-    "xue-mei-li": "Imperial 当前档及个人 ORCID 互证。OpenAlex 作者 116 和作品查询 104。Scholar 由本人独立网站链接，EPFL 验证单位、Imperial 和高引作品一致。"
+    "xue-mei-li": "Imperial 当前档及个人 ORCID 互证。OpenAlex 作者 116 和作品查询 104。Scholar 由本人独立网站链接，EPFL 验证单位、Imperial 和高引作品一致。",
+    "yang-li": "由本人 ORCID、具名 Cambridge 职务及 Inventiones 正式论文核定。大量姓名查询结果属其他学科。 作者端 41 项与作品查询 39 项不同，累计引用覆盖待核。",
+    "maciej-dunajski": "具名几何论文与学校档一致。部分正式 DOI 同时见于机构库或预印本。 作者端 189 项与作品查询 142 项不同，累计引用覆盖待核。",
+    "miranda-cheng": "新 Cambridge 讲席、本人姓名与 ORCID 互核。K3 和 Moonshine 正式 DOI 与 Amsterdam 任职记录交叉。 作者端 92 项与作品查询 74 项不同，累计引用覆盖待核。",
+    "jorge-e-santos": "Cambridge DAMTP 的 Lorentzian Einstein 工作与本人 ORCID、正式论文支持。 作者端 176 项与作品查询 159 项不同，累计引用覆盖待核。",
+    "mark-gross": "几何 Gross 由 Annals 的仿射几何、DPMMS CV 及合作者 Bernd Siebert 核定。另一个 Mark D. Gross 属机器人、设计和人机交互。 作者端 109 项与作品查询 85 项不同，累计引用覆盖待核。",
+    "ailsa-keating": "具名 EPFL 合作者及 Cambridge、辛几何刊本和本人 ORCID 均相符。 作者端 18 项与作品查询 14 项不同，累计引用覆盖待核。",
+    "samir-canning": "Cambridge 与 ETH 履历、合作者和 DOI 归属吻合。作品含一条由正式出版 DOI 及机构存档 DOI 双存的同题论文。 作者端 30 项与作品查询 28 项不同，累计引用覆盖待核。",
+    "neshan-wickramasekera": "DPMMS 当前职务和 Annals 正式代表作确认。OA 作者身份成立，含正式刊物和多项预印本。 作者端 35 项与作品查询 32 项不同，累计引用覆盖待核。",
+    "dhruv-ranganathan": "学院在任、ORCID、对数 Gromov–Witten 正式 DOI 与学位论文履历相符。 作者端 67 项与作品查询 61 项不同，累计引用覆盖待核。",
+    "alexei-kovalev": "Cambridge 具名作者及 G₂ 正式论文匹配。另一个 A.E. Kovalev 带大量低温输运、磁阻和材料论文。 作者端 22 项与作品查询 19 项不同，累计引用覆盖待核。",
+    "patrick-kennedy-hunt": "本人当前学院研究员信息、公开 CV、同一枚举几何工作与 ORCID 交叉。 作者端 10 项与作品查询 9 项不同，累计引用覆盖待核。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -4171,6 +4180,180 @@
       ],
       "authorId": "A5100420291",
       "url": "https://openalex.org/A5100420291"
+    },
+    "yang-li": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "由本人 ORCID、具名 Cambridge 职务及 Inventiones 正式论文核定。大量姓名查询结果属其他学科。 作者端 41 项与作品查询 39 项不同，累计引用覆盖待核。",
+      "identitySources": [
+        "https://www.maths.cam.ac.uk/person/yl454",
+        "https://www.maths.cam.ac.uk/person/yl454",
+        "https://doi.org/10.1007/s00222-019-00861-w",
+        "https://doi.org/10.4310/jdg/1615487004"
+      ],
+      "authorId": "A5100421699",
+      "url": "https://openalex.org/A5100421699",
+      "alternativeAuthorIds": [
+        "A5100319864",
+        "A5100688703"
+      ]
+    },
+    "maciej-dunajski": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "具名几何论文与学校档一致。部分正式 DOI 同时见于机构库或预印本。 作者端 189 项与作品查询 142 项不同，累计引用覆盖待核。",
+      "identitySources": [
+        "https://www.maths.cam.ac.uk/person/md327",
+        "https://www.damtp.cam.ac.uk/person/md327",
+        "https://doi.org/10.1007/s00220-026-05699-x",
+        "https://doi.org/10.1017/prm.2025.10058"
+      ],
+      "authorId": "A5039368482",
+      "url": "https://openalex.org/A5039368482"
+    },
+    "miranda-cheng": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "新 Cambridge 讲席、本人姓名与 ORCID 互核。K3 和 Moonshine 正式 DOI 与 Amsterdam 任职记录交叉。 作者端 92 项与作品查询 74 项不同，累计引用覆盖待核。",
+      "identitySources": [
+        "https://www.maths.cam.ac.uk/person/mc2645",
+        "https://rso.admin.cam.ac.uk/reporter/2025-26/weekly/6821/section2.shtml",
+        "https://doi.org/10.4310/cntp.2010.v4.n4.a2"
+      ],
+      "authorId": "A5089449248",
+      "url": "https://openalex.org/A5089449248"
+    },
+    "jorge-e-santos": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "Cambridge DAMTP 的 Lorentzian Einstein 工作与本人 ORCID、正式论文支持。 作者端 176 项与作品查询 159 项不同，累计引用覆盖待核。",
+      "identitySources": [
+        "https://www.maths.cam.ac.uk/person/jss55",
+        "https://www.damtp.cam.ac.uk/person/jss55",
+        "https://doi.org/10.1007/JHEP01(2023)162"
+      ],
+      "authorId": "A5061177898",
+      "url": "https://openalex.org/A5061177898"
+    },
+    "mark-gross": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "几何 Gross 由 Annals 的仿射几何、DPMMS CV 及合作者 Bernd Siebert 核定。另一个 Mark D. Gross 属机器人、设计和人机交互。 作者端 109 项与作品查询 85 项不同，累计引用覆盖待核。",
+      "identitySources": [
+        "https://www.maths.cam.ac.uk/person/mg475",
+        "https://www.maths.cam.ac.uk/person/mg475",
+        "https://doi.org/10.4007/annals.2011.174.3.1"
+      ],
+      "authorId": "A5113571976",
+      "url": "https://openalex.org/A5113571976",
+      "alternativeAuthorIds": [
+        "A5066921846"
+      ],
+      "previousPublicSnapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5113571976",
+        "orcid": null,
+        "url": "https://openalex.org/authors/A5113571976",
+        "authorApiUrl": "https://api.openalex.org/authors/A5113571976",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5113571976,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-23",
+        "articles": 51,
+        "works": 109,
+        "citations": 6896,
+        "hIndex": 47,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "ailsa-keating": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "具名 EPFL 合作者及 Cambridge、辛几何刊本和本人 ORCID 均相符。 作者端 18 项与作品查询 14 项不同，累计引用覆盖待核。",
+      "identitySources": [
+        "https://www.maths.cam.ac.uk/person/amk50",
+        "https://www.maths.cam.ac.uk/person/amk50",
+        "https://doi.org/10.2140/gt.2022.26.3747"
+      ],
+      "authorId": "A5050843802",
+      "url": "https://openalex.org/A5050843802"
+    },
+    "samir-canning": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "Cambridge 与 ETH 履历、合作者和 DOI 归属吻合。作品含一条由正式出版 DOI 及机构存档 DOI 双存的同题论文。 作者端 30 项与作品查询 28 项不同，累计引用覆盖待核。",
+      "identitySources": [
+        "https://www.pem.cam.ac.uk/college/master-and-fellows/list-fellows/dr-samir-canning",
+        "https://www.maths.cam.ac.uk/person/src88",
+        "https://doi.org/10.1017/fmp.2024.24"
+      ],
+      "authorId": "A5053862082",
+      "url": "https://openalex.org/A5053862082"
+    },
+    "neshan-wickramasekera": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "DPMMS 当前职务和 Annals 正式代表作确认。OA 作者身份成立，含正式刊物和多项预印本。 作者端 35 项与作品查询 32 项不同，累计引用覆盖待核。",
+      "identitySources": [
+        "https://www.maths.cam.ac.uk/person/ngw24",
+        "https://www.maths.cam.ac.uk/person/ngw24",
+        "https://doi.org/10.4007/annals.2014.179.3.2"
+      ],
+      "authorId": "A5011706684",
+      "url": "https://openalex.org/A5011706684"
+    },
+    "dhruv-ranganathan": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "学院在任、ORCID、对数 Gromov–Witten 正式 DOI 与学位论文履历相符。 作者端 67 项与作品查询 61 项不同，累计引用覆盖待核。",
+      "identitySources": [
+        "https://www.joh.cam.ac.uk/research/academics/fellows/professor-dhruv-ranganathan",
+        "https://www.maths.cam.ac.uk/postgrad/finding-dpmms-supervisor#algebraicgeometry",
+        "https://doi.org/10.14231/ag-2022-022"
+      ],
+      "authorId": "A5084547899",
+      "url": "https://openalex.org/A5084547899"
+    },
+    "alexei-kovalev": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "Cambridge 具名作者及 G₂ 正式论文匹配。另一个 A.E. Kovalev 带大量低温输运、磁阻和材料论文。 作者端 22 项与作品查询 19 项不同，累计引用覆盖待核。",
+      "identitySources": [
+        "https://www.maths.cam.ac.uk/person/agk22",
+        "https://www.maths.cam.ac.uk/person/agk22",
+        "https://doi.org/10.1515/crll.2003.097"
+      ],
+      "authorId": "A5076403961",
+      "url": "https://openalex.org/A5076403961",
+      "alternativeAuthorIds": [
+        "A5024408562"
+      ],
+      "previousPublicSnapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5076403961",
+        "orcid": null,
+        "url": "https://openalex.org/authors/A5076403961",
+        "authorApiUrl": "https://api.openalex.org/authors/A5076403961",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5076403961,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-23",
+        "articles": 10,
+        "works": 22,
+        "citations": 590,
+        "hIndex": 10,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "patrick-kennedy-hunt": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "本人当前学院研究员信息、公开 CV、同一枚举几何工作与 ORCID 交叉。 作者端 10 项与作品查询 9 项不同，累计引用覆盖待核。",
+      "identitySources": [
+        "https://www.maths.cam.ac.uk/person/pfk21",
+        "https://www.patrickkennedyhunt.com/",
+        "https://doi.org/10.1007/s00029-024-00956-0"
+      ],
+      "authorId": "A5005351205",
+      "url": "https://openalex.org/A5005351205"
     }
   }
 }
