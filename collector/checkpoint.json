@@ -5042,6 +5042,76 @@
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
     },
     {
+      "id": "jordan-aqaba-math-b41",
+      "school": "jordan",
+      "url": "https://marine.ju.edu.jo/Departments/School_DeptHome.aspx?deptname=Mathematics",
+      "label": "Aqaba · Mathematics · department landing",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "部门标题显示 Mathematics，正文含海洋科学通用消息，该子页没有附独立具名名册。学院总页提供一位数学教师。"
+    },
+    {
+      "id": "jordan-aqaba-science-b41",
+      "school": "jordan",
+      "url": "https://marine.ju.edu.jo/Lists/FacultyAcademicStaff/School_All_Staff.aspx",
+      "label": "Aqaba · School of Basic and Marine Sciences · Faculty",
+      "status": "reference",
+      "count": 7,
+      "checked_at": "2026-11-26",
+      "note": "学院总页七名教师，其中六位海洋生物学，数学一位 Anas Altawallbeh。具名卡和公开 CV 已打开。"
+    },
+    {
+      "id": "jordan-computing-b41",
+      "school": "jordan",
+      "url": "https://computer.ju.edu.jo/Lists/FacultyAcademicStaff/School_All_Staff.aspx",
+      "label": "School of Information Technology · Faculty",
+      "status": "reference",
+      "count": 78,
+      "checked_at": "2026-11-26",
+      "note": "计算机科学 29、信息系统 23、信息技术 15、人工智能 11。抽查主题并核对学院的离任及荣誉分栏。"
+    },
+    {
+      "id": "jordan-computing-former-b41",
+      "school": "jordan",
+      "url": "https://computer.ju.edu.jo/Lists/FacultyAcademicStaff/School_All_Staff_prv.aspx",
+      "label": "School of Information Technology · Previous Faculty",
+      "status": "reference",
+      "count": 18,
+      "checked_at": "2026-11-26",
+      "note": "学校公开前任名单 18 人，所示过去职称只作历史核对。"
+    },
+    {
+      "id": "jordan-computing-honorary-b41",
+      "school": "jordan",
+      "url": "https://computer.ju.edu.jo/Lists/FacultyAcademicStaff/School_All_Staff1.aspx",
+      "label": "School of Information Technology · Honorary, Emeritus and Adjunct",
+      "status": "reference",
+      "count": 2,
+      "checked_at": "2026-11-26",
+      "note": "两名为计算机科学系荣誉教授，同样出现于学院总页。"
+    },
+    {
+      "id": "jordan-lambda-b41",
+      "school": "jordan",
+      "url": "https://science.ju.edu.jo/en/lambda/Home.aspx",
+      "label": "LAMBDA Physics Group · official site",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "官网及公开手册确认 2015 年组建的物理科普与学生交流小组。未见高能理论或几何研究组现任名册。"
+    },
+    {
+      "id": "jordan-math-ar-b41",
+      "school": "jordan",
+      "url": "https://science.ju.edu.jo/ar/arabic/Departments/DeptStaff.aspx?DeptName=%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA",
+      "label": "Mathematics · Arabic faculty directory",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "按具名行和语言核对。六个编号在英阿两种历史目录分配到不同姓名。用阿拉伯语原名核对逐人线索。"
+    },
+    {
       "id": "jordan-math-dept-30",
       "school": "jordan",
       "url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
@@ -5062,14 +5132,54 @@
       "note": "机构网站限制了目录请求。"
     },
     {
+      "id": "jordan-physics-b41",
+      "school": "jordan",
+      "url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+      "label": "Physics · Academic Department Staff",
+      "status": "parsed",
+      "count": 41,
+      "checked_at": "2026-11-26",
+      "note": "学术分栏 41 人，行政及技术分栏排除。替代路径 School_DispStaff 具名卡 41 份可读，另查 34 份个人研究分栏及补证 CV。"
+    },
+    {
+      "id": "jordan-research-portal-b41",
+      "school": "jordan",
+      "url": "https://research.ju.edu.jo/Lists/DSR%20Portal/All_Items.aspx",
+      "label": "Deanship of Scientific Research · portal",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "科研处公共入口已打开，未见可按三方向筛选的具名全员列表。"
+    },
+    {
+      "id": "jordan-science-b41",
+      "school": "jordan",
+      "url": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_All_Staff.aspx",
+      "label": "School of Science · Faculty Academic Staff",
+      "status": "reference",
+      "count": 133,
+      "checked_at": "2026-11-26",
+      "note": "当前学院级显示 133 条，其中数学 30、物理 30。与系级名单并查，学院页较短，不能以单页缺名判离任。"
+    },
+    {
+      "id": "jordan-staff-websites-b41",
+      "school": "jordan",
+      "url": "https://www.ju.edu.jo/Applications/Design/index_English.aspx",
+      "label": "Academic staff websites · portal",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "校方学术网站入口本页可读。新 webportals 入口仅返回 244 字节的脚本壳。旧具名 SharePoint 主页须逐个核验。"
+    },
+    {
       "id": "jordan-yearbook31",
       "school": "jordan",
       "url": "https://yearbook1.ju.edu.jo/2025-2026/",
       "label": "University of Jordan · official yearbook 2025–2026",
       "status": "reference",
       "count": 0,
-      "checked_at": "2026-11-25",
-      "note": "补证来源已尝试访问，当前未取得可读取内容。"
+      "checked_at": "2026-11-26",
+      "note": "正常 HTTPS 证书已过期。单独读取其公开翻页文字索引并解码 538 页，主体为毕业班年鉴，不能用作现任数学教师的完整名录。"
     },
     {
       "id": "jyvaskyla-math",
@@ -131911,6 +132021,703 @@
         "source_kind": "department",
         "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Mathematics",
         "checked_at": "2026-11-24"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "ahmadmasadeh",
+      "school": "jordan",
+      "record": {
+        "name": "Ahmad Masadeh",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=52",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "alaaazzam",
+      "school": "jordan",
+      "record": {
+        "name": "Alaa Azzam",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=175",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "aliadawi",
+      "school": "jordan",
+      "record": {
+        "name": "Ali Adawi",
+        "title": "Adjunct Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=248",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "ammaralhusseini",
+      "school": "jordan",
+      "record": {
+        "name": "Ammar Alhusseini",
+        "title": "Teacher",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=152",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "awnikhasawneh",
+      "school": "jordan",
+      "record": {
+        "name": "Awni Khasawneh",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=254",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "basharilahlouh",
+      "school": "jordan",
+      "record": {
+        "name": "Bashar I. Lahlouh",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=54",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "bothinaahamad",
+      "school": "jordan",
+      "record": {
+        "name": "Bothina A. Hamad",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=53",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "diaarafah",
+      "school": "jordan",
+      "record": {
+        "name": "Dia Arafah",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=67",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "emandaar",
+      "school": "jordan",
+      "record": {
+        "name": "Eman Daar",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=80",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "farhansaif",
+      "school": "jordan",
+      "record": {
+        "name": "Farhan Saif",
+        "title": "Honorary Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=243",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "hanansaadeh",
+      "school": "jordan",
+      "record": {
+        "name": "Hanan Sa'adeh",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=156",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "hassankjuwhari",
+      "school": "jordan",
+      "record": {
+        "name": "Hassan K. Juwhari",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=57",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "humamghassib",
+      "school": "jordan",
+      "record": {
+        "name": "Humam Ghassib",
+        "title": "Honorary Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=76",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "issaalshakhrah",
+      "school": "jordan",
+      "record": {
+        "name": "Issa Al-Shakhrah",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=51",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "jamalmsharaf",
+      "school": "jordan",
+      "record": {
+        "name": "Jamal M. Sharaf",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=55",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "jamilmkhalifeh",
+      "school": "jordan",
+      "record": {
+        "name": "Jamil M. Khalifeh",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=56",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "kamalalsaleh",
+      "school": "jordan",
+      "record": {
+        "name": "Kamal Al-Saleh",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=68",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "khaledbodoor",
+      "school": "jordan",
+      "record": {
+        "name": "Khaled Bodoor",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=59",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "khalifehabusaleem",
+      "school": "jordan",
+      "record": {
+        "name": "Khalifeh Abusaleem",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=60",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "lailahabuhassan",
+      "school": "jordan",
+      "record": {
+        "name": "Laila H. Abuhassan",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=169",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "mahmoudababneh",
+      "school": "jordan",
+      "record": {
+        "name": "Mahmoud Ababneh",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=71",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "mahmoudijaghoub",
+      "school": "jordan",
+      "record": {
+        "name": "Mahmoud I. Jaghoub",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=42",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "maroufkhalilhajabdallah",
+      "school": "jordan",
+      "record": {
+        "name": "Marouf Khalil Haj-Abdallah",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=72",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "mohdhussein",
+      "school": "jordan",
+      "record": {
+        "name": "Moh'd Hussein",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=162",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "moneebshatnawi",
+      "school": "jordan",
+      "record": {
+        "name": "Moneeb Shatnawi",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=73",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "mousaabdulgaderjafar",
+      "school": "jordan",
+      "record": {
+        "name": "Mousa Abdul-Gader Jafar",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=74",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "nidalershaidat",
+      "school": "jordan",
+      "record": {
+        "name": "Nidal Ershaidat",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=186",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "noureddinechair",
+      "school": "jordan",
+      "record": {
+        "name": "Noureddine chair",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=75",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "olahassouneh",
+      "school": "jordan",
+      "record": {
+        "name": "Ola Hassouneh",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=180",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "ramimali",
+      "school": "jordan",
+      "record": {
+        "name": "Rami M. Ali",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=61",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "riadshaltaf",
+      "school": "jordan",
+      "record": {
+        "name": "Riad Shaltaf",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=62",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "riyadmanasrah",
+      "school": "jordan",
+      "record": {
+        "name": "Riyad Manasrah",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=65",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "samimahmood",
+      "school": "jordan",
+      "record": {
+        "name": "Sami Mahmood",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=232",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "shadiaikhmayies",
+      "school": "jordan",
+      "record": {
+        "name": "Shadia Ikhmayies",
+        "title": "Adjunct Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=245",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "sufianabedrabbo",
+      "school": "jordan",
+      "record": {
+        "name": "Sufian Abed Rabbo",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=66",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "sultananahar",
+      "school": "jordan",
+      "record": {
+        "name": "Sultana Nahar",
+        "title": "Honorary Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=247",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "tareqhussein",
+      "school": "jordan",
+      "record": {
+        "name": "Tareq Hussein",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=81",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "usamaalkhawaja",
+      "school": "jordan",
+      "record": {
+        "name": "Usama Al Khawaja",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=233",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "walaaaltamimi",
+      "school": "jordan",
+      "record": {
+        "name": "Walaa Al Tamimi",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=211",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "yahyaisalramadiny",
+      "school": "jordan",
+      "record": {
+        "name": "Yahya I.S. Al-Ramadiny",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=78",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
+      }
+    },
+    {
+      "source": "jordan-physics-b41",
+      "person_key": "ziadabuwaar",
+      "school": "jordan",
+      "record": {
+        "name": "Ziad Abu Waar",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/School_DispStaff.aspx?id=64",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://science.ju.edu.jo/Departments/DeptStaff.aspx?DeptName=Physics",
+        "checked_at": "2026-11-26",
+        "unit": "Department of Physics"
       }
     },
     {

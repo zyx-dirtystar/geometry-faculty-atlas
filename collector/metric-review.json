@@ -619,7 +619,8 @@
     "suprit-singh": "OpenAlex 虽匹配本人的 ORCID，名下混入 phage display 生物实验和其他同名作品。用本人任职史、ORCID 与论文核实 INSPIRE，保留相应来源口径。",
     "diksha-gupta": "同名档落在医学、教育、化学等不同机构。由 IIT Delhi 毕业档、UNAM 现任档与 10.1017/prm.2024.18 确证人物；目前未核实完整作者指标。",
     "shambhavi-singh": "董事会记录 2026-03-17 遴选。数学现任名单无具名，Waterloo 及同名作者只有凸优化或不相干生医。无可独立核对的主职、CV 和计量。",
-    "khalid-saifullah": "姓名、QAU 论文署名、2026 NUST 作者单位及两篇几何 DOI 对照。逐条读 32 个作品端名下记录，排除 BZU 同名工科档和医学／农业姓名变体。"
+    "khalid-saifullah": "姓名、QAU 论文署名、2026 NUST 作者单位及两篇几何 DOI 对照。逐条读 32 个作品端名下记录，排除 BZU 同名工科档和医学／农业姓名变体。",
+    "noureddine-chair": "校方 2024 CV、2025 课程大纲、ORCID 及论文归属互证。OpenAlex 的 36 条作品逐条辨识出 29 条不同 DOI 的期刊条目。CV 另有四个期刊版在该作者档缺项，合并第 33 项预印本与期刊版后，CV 完整分栏为 33 个可核期刊作品。累计引用只反映 OpenAlex 覆盖。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -2439,6 +2440,25 @@
         "https://doi.org/10.2139/ssrn.7584859"
       ],
       "note": "姓名、QAU 论文署名、2026 NUST 作者单位及两篇几何 DOI 对照。逐条读 32 个作品端名下记录，排除 BZU 同名工科档和医学／农业姓名变体。"
+    },
+    "noureddine-chair": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5086291305",
+      "url": "https://openalex.org/A5086291305",
+      "identitySources": [
+        "https://science.ju.edu.jo/Lists/FacultyAcademicStaff/Attachments/75/Chair_CV_2024.pdf",
+        "https://orcid.org/0000-0002-5103-6594",
+        "https://doi.org/10.1016/S0393-0440(00)00059-0",
+        "https://doi.org/10.1140/epjp/s13360-024-05342-5"
+      ],
+      "additionalJournalEditions": [
+        "https://doi.org/10.1016/0370-2693(92)90007-Q",
+        "https://doi.org/10.1088/1751-8113/43/46/465204",
+        "https://doi.org/10.1143/PTP.127.179",
+        "https://doi.org/10.1088/0143-0807/38/1/015402"
+      ],
+      "note": "校方 2024 CV、2025 课程大纲、ORCID 及论文归属互证。OpenAlex 的 36 条作品逐条辨识出 29 条不同 DOI 的期刊条目。CV 另有四个期刊版在该作者档缺项，合并第 33 项预印本与期刊版后，CV 完整分栏为 33 个可核期刊作品。累计引用只反映 OpenAlex 覆盖。"
     }
   }
 }
