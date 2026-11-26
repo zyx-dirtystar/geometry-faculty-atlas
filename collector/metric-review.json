@@ -620,7 +620,26 @@
     "diksha-gupta": "同名档落在医学、教育、化学等不同机构。由 IIT Delhi 毕业档、UNAM 现任档与 10.1017/prm.2024.18 确证人物；目前未核实完整作者指标。",
     "shambhavi-singh": "董事会记录 2026-03-17 遴选。数学现任名单无具名，Waterloo 及同名作者只有凸优化或不相干生医。无可独立核对的主职、CV 和计量。",
     "khalid-saifullah": "姓名、QAU 论文署名、2026 NUST 作者单位及两篇几何 DOI 对照。逐条读 32 个作品端名下记录，排除 BZU 同名工科档和医学／农业姓名变体。",
-    "noureddine-chair": "校方 2024 CV、2025 课程大纲、ORCID 及论文归属互证。OpenAlex 的 36 条作品逐条辨识出 29 条不同 DOI 的期刊条目。CV 另有四个期刊版在该作者档缺项，合并第 33 项预印本与期刊版后，CV 完整分栏为 33 个可核期刊作品。累计引用只反映 OpenAlex 覆盖。"
+    "noureddine-chair": "校方 2024 CV、2025 课程大纲、ORCID 及论文归属互证。OpenAlex 的 36 条作品逐条辨识出 29 条不同 DOI 的期刊条目。CV 另有四个期刊版在该作者档缺项，合并第 33 项预印本与期刊版后，CV 完整分栏为 33 个可核期刊作品。累计引用只反映 OpenAlex 覆盖。",
+    "andres-fernandez-herrero": "以论文与 Penn、Columbia 和 Cornell 履历去除同名风险。 作者端总作品 28，作品查询端当日解析 26，各用其明确范围。",
+    "angela-gibney": "Penn、Rutgers、UGA 的职业记录与校方所列研究方向及本人论文一致。Notices 文章按数据库分类保留。 作者端总作品 42，作品查询端当日解析 34，各用其明确范围。",
+    "daniel-krashen": "Penn、Rutgers、Georgia 的 CV 记录与 DOI、合著者一致。 作者端总作品 63，作品查询端当日解析 48，各用其明确范围。",
+    "davi-maximo": "OpenAlex 与本人身份吻合，分类中无 DOI 的 Ricci flow 和 bounded-index 条目与正式出版或报告重复，且将收录书章作为文章。改用本人 Papers 范围的去重计数。Scholar 具名检索未得可核的作者累计引用。",
+    "david-harbater": "与本人 CV 和 Penn 具名论文交叉。两条无 DOI 的记录由相关题名和任职交叉，数据库 type:article 为索引值。 作者端总作品 80，作品查询端当日解析 66，各用其明确范围。",
+    "dennis-deturck": "OpenAlex 主档与 Penn Ricci 论文一致。另一同名档列本人 2026 Penn 预印本 Rotations, Shears, and Two-Generation on Spheres，主档又有同作重复及报告条目。校方发布即将退休，但未找到生效日。",
+    "florian-pop": "与 Penn、Bonn 职务及文章署名一致。The Arithmetic of Fields 同名条目对应不同会议卷和不同 DOI，被计入 OpenAlex 分类。 作者端总作品 69，作品查询端当日解析 63，各用其明确范围。",
+    "herman-gluck": "已辨识 Penn 几何作者 A5001799964。无 DOI 的 Making Matrices Better 与期刊题名有重复，且部分预告与正文分列。A5070039081 含明显不相关牙科条目，不与作者合并。未找到完整公开本人目录和独立累计引用。",
+    "jonathan-block": "以本人文章目录、Penn 与 IAS/NYU 合著线索确认匹配。另档 A5091415804 归牙科作者，已排除。 作者端总作品 37，作品查询端当日解析 32，各用其明确范围。",
+    "philip-gressman": "本人 CV 明列所抽查的数学论文、中子星和疫情数学建模文章。APS 原文的 Princeton 和 Washington University 署名与履历一致。 作者端总作品 47，作品查询端当日解析 41，各用其明确范围。",
+    "ron-donagi": "OpenAlex 99 篇含 Spectra of D-branes with Higgs vevs 无 DOI 与期刊的重复条目，以及部分会议内容。系方简介仅写逾 100 篇研究文章，本人研究页为分主题摘要链接，未取得精确完整计数。Scholar 查询未得独立可核作者总量。",
+    "ted-chinburg": "2026 CV、Penn 署名和几何两篇 DOI 匹配。排除把 Communicated 当成作者名的另档。 作者端总作品 145，作品查询端当日解析 131，各用其明确范围。",
+    "tony-pantev": "OpenAlex 主档含 Calabi–Yau 早稿与期刊的重收。另一 Tony G. Pantev 档的 MIT 旧作 Weak Hironaka Theorem 作者、论文和早期履历一致。本人站只列合作项目和演讲，暂无可独立验证的累计引用和完整去重论文数。",
+    "jonathan-j-heckman": "OpenAlex 97 个 type:article 中有相同论文的 UNC 机构仓库 DOI 与正式 JHEP DOI 各计一次，核实四对。Scholar 检索仅返回登录页，以 INSPIRE HEP 具名档逐篇复核。",
+    "mirjam-cvetic": "OpenAlex 同作者的无 DOI 预印本及期刊版重复，涉及 Chiral D-brane Models、Brane Resolution 和数篇超引力工作。School、ORCID 与 INSPIRE HEP 具名身份一致。Scholar 只返回登录页。",
+    "randall-kamien": "OpenAlex 有同人分档，第二档含编辑任内的 Introducing GSOFT 及若干数据。主档 type:article 收录更正和媒体稿，不能直接作期刊论文总数。使用 2026 CV 限定完整分栏和 INSPIRE 的小范围计量。Scholar 只返回登录页。",
+    "jean-h-gallier": "OpenAlex 主档把课程讲义、书和无标题页码分类为 article，另一个同名档还混有法国 NMR 生医研究及本人格式错误内容。2026 CV 有可复核的完整期刊分栏。Scholar 只返回登录页。",
+    "shani-nadir-meynet": "INSPIRE ORCID、Penn 与 Uppsala 论文单位及合作者核实为同一作者。 作者端总作品 19，作品查询端当日解析 19，各用其明确范围。",
+    "burt-ovrut": "OpenAlex 作者端和作品查询端总作品相差 100。以 ORCID 和 Penn 具名论文确认 INSPIRE 文献范围，避免沿用该跨端不一致的数字。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -2459,6 +2478,293 @@
         "https://doi.org/10.1088/0143-0807/38/1/015402"
       ],
       "note": "校方 2024 CV、2025 课程大纲、ORCID 及论文归属互证。OpenAlex 的 36 条作品逐条辨识出 29 条不同 DOI 的期刊条目。CV 另有四个期刊版在该作者档缺项，合并第 33 项预印本与期刊版后，CV 完整分栏为 33 个可核期刊作品。累计引用只反映 OpenAlex 覆盖。"
+    },
+    "andres-fernandez-herrero": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "note": "以论文与 Penn、Columbia 和 Cornell 履历去除同名风险。 作者端总作品 28，作品查询端当日解析 26，各用其明确范围。",
+      "identitySources": [
+        "https://www.math.upenn.edu/people/andres-fernandez-herrero",
+        "https://web.sas.upenn.edu/andresfh/research/",
+        "https://doi.org/10.1515/crelle-2023-0099",
+        "https://doi.org/10.1007/s00209-024-03497-6"
+      ],
+      "authorId": "A5037798458",
+      "url": "https://openalex.org/A5037798458"
+    },
+    "angela-gibney": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "note": "Penn、Rutgers、UGA 的职业记录与校方所列研究方向及本人论文一致。Notices 文章按数据库分类保留。 作者端总作品 42，作品查询端当日解析 34，各用其明确范围。",
+      "identitySources": [
+        "https://www.math.upenn.edu/people/angela-gibney",
+        "https://www.angelagibney.org/",
+        "https://doi.org/10.24033/asens.2574",
+        "https://doi.org/10.2140/gt.2021.25.2235"
+      ],
+      "authorId": "A5055718307",
+      "url": "https://openalex.org/A5055718307"
+    },
+    "daniel-krashen": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "note": "Penn、Rutgers、Georgia 的 CV 记录与 DOI、合著者一致。 作者端总作品 63，作品查询端当日解析 48，各用其明确范围。",
+      "identitySources": [
+        "https://www.math.upenn.edu/people/daniel-krashen",
+        "https://torsor.org/",
+        "https://doi.org/10.1007/s00222-009-0195-5",
+        "https://doi.org/10.1353/ajm.2015.0039"
+      ],
+      "authorId": "A5000681345",
+      "url": "https://openalex.org/A5000681345"
+    },
+    "davi-maximo": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 与本人身份吻合，分类中无 DOI 的 Ricci flow 和 bounded-index 条目与正式出版或报告重复，且将收录书章作为文章。改用本人 Papers 范围的去重计数。Scholar 具名检索未得可核的作者累计引用。",
+      "identitySources": [
+        "https://www.math.upenn.edu/people/davi-maximo",
+        "https://www2.math.upenn.edu/~dmaxim/",
+        "https://doi.org/10.1007/s00222-017-0717-5",
+        "https://doi.org/10.1007/s00208-026-03401-z"
+      ],
+      "authorId": "A5033038272",
+      "url": "https://openalex.org/A5033038272"
+    },
+    "david-harbater": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "note": "与本人 CV 和 Penn 具名论文交叉。两条无 DOI 的记录由相关题名和任职交叉，数据库 type:article 为索引值。 作者端总作品 80，作品查询端当日解析 66，各用其明确范围。",
+      "identitySources": [
+        "https://www.math.upenn.edu/people/david-harbater",
+        "https://www2.math.upenn.edu/~harbater/research.html",
+        "https://doi.org/10.1007/BF01232232",
+        "https://doi.org/10.1353/ajm.2015.0039"
+      ],
+      "authorId": "A5052309612",
+      "url": "https://openalex.org/A5052309612"
+    },
+    "dennis-deturck": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 主档与 Penn Ricci 论文一致。另一同名档列本人 2026 Penn 预印本 Rotations, Shears, and Two-Generation on Spheres，主档又有同作重复及报告条目。校方发布即将退休，但未找到生效日。",
+      "identitySources": [
+        "https://www.math.upenn.edu/people/dennis-deturck",
+        "https://lps.upenn.edu/about/news/professor-dennis-deturck-honored-lps-award-distinction",
+        "https://doi.org/10.4310/jdg/1214509286"
+      ],
+      "authorId": "A5036480234",
+      "url": "https://openalex.org/A5036480234",
+      "alternativeAuthorIds": [
+        "A5159177556"
+      ]
+    },
+    "florian-pop": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "note": "与 Penn、Bonn 职务及文章署名一致。The Arithmetic of Fields 同名条目对应不同会议卷和不同 DOI，被计入 OpenAlex 分类。 作者端总作品 69，作品查询端当日解析 63，各用其明确范围。",
+      "identitySources": [
+        "https://www.math.upenn.edu/people/florian-pop",
+        "https://www2.math.upenn.edu/~pop/Research.html",
+        "https://doi.org/10.2307/2946630",
+        "https://doi.org/10.4007/annals.2014.180.1.6"
+      ],
+      "authorId": "A5030439284",
+      "url": "https://openalex.org/A5030439284"
+    },
+    "herman-gluck": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "已辨识 Penn 几何作者 A5001799964。无 DOI 的 Making Matrices Better 与期刊题名有重复，且部分预告与正文分列。A5070039081 含明显不相关牙科条目，不与作者合并。未找到完整公开本人目录和独立累计引用。",
+      "identitySources": [
+        "https://www.math.upenn.edu/people/herman-gluck",
+        "https://curf.upenn.edu/profile/herman-gluck",
+        "https://doi.org/10.1080/00029890.1966.11970818",
+        "https://doi.org/10.1090/S0002-9947-1962-0146807-0"
+      ],
+      "authorId": "A5001799964",
+      "url": "https://openalex.org/A5001799964",
+      "alternativeAuthorIds": [
+        "A5070039081"
+      ]
+    },
+    "jonathan-block": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "note": "以本人文章目录、Penn 与 IAS/NYU 合著线索确认匹配。另档 A5091415804 归牙科作者，已排除。 作者端总作品 37，作品查询端当日解析 32，各用其明确范围。",
+      "identitySources": [
+        "https://www.math.upenn.edu/people/jonathan-block",
+        "https://www2.math.upenn.edu/~blockj/Papers.html",
+        "https://doi.org/10.1090/S0894-0347-1992-1145337-X",
+        "https://doi.org/10.1016/j.aim.2013.11.001"
+      ],
+      "authorId": "A5112366545",
+      "url": "https://openalex.org/A5112366545"
+    },
+    "philip-gressman": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "note": "本人 CV 明列所抽查的数学论文、中子星和疫情数学建模文章。APS 原文的 Princeton 和 Washington University 署名与履历一致。 作者端总作品 47，作品查询端当日解析 41，各用其明确范围。",
+      "identitySources": [
+        "https://www.math.upenn.edu/people/philip-gressman",
+        "https://www2.math.upenn.edu/~gressman/Gressman_CV_short.pdf",
+        "https://doi.org/10.1016/j.jfa.2009.04.008",
+        "https://doi.org/10.1073/pnas.1001185107"
+      ],
+      "authorId": "A5073463363",
+      "url": "https://openalex.org/A5073463363"
+    },
+    "ron-donagi": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 99 篇含 Spectra of D-branes with Higgs vevs 无 DOI 与期刊的重复条目，以及部分会议内容。系方简介仅写逾 100 篇研究文章，本人研究页为分主题摘要链接，未取得精确完整计数。Scholar 查询未得独立可核作者总量。",
+      "identitySources": [
+        "https://www.math.upenn.edu/people/ron-donagi",
+        "https://www.math.harvard.edu/event/recent-developments-in-super-geometry/",
+        "https://doi.org/10.1016/0550-3213(95)00609-5",
+        "https://www.mathnet.ru/eng/tm4549"
+      ],
+      "authorId": "A5042286237",
+      "url": "https://openalex.org/A5042286237"
+    },
+    "ted-chinburg": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "note": "2026 CV、Penn 署名和几何两篇 DOI 匹配。排除把 Communicated 当成作者名的另档。 作者端总作品 145，作品查询端当日解析 131，各用其明确范围。",
+      "identitySources": [
+        "https://www.math.upenn.edu/people/ted-chinburg",
+        "https://www2.math.upenn.edu/~ted/page.html",
+        "https://doi.org/10.1215/00127094-2008-045",
+        "https://doi.org/10.1016/j.jnt.2020.04.015"
+      ],
+      "authorId": "A5049836984",
+      "url": "https://openalex.org/A5049836984"
+    },
+    "tony-pantev": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 主档含 Calabi–Yau 早稿与期刊的重收。另一 Tony G. Pantev 档的 MIT 旧作 Weak Hironaka Theorem 作者、论文和早期履历一致。本人站只列合作项目和演讲，暂无可独立验证的累计引用和完整去重论文数。",
+      "identitySources": [
+        "https://www.math.upenn.edu/people/tony-pantev",
+        "https://www2.math.upenn.edu/~tpantev/",
+        "https://doi.org/10.1007/s10240-013-0054-1",
+        "https://doi.org/10.1007/s00222-012-0373-8"
+      ],
+      "authorId": "A5036342643",
+      "url": "https://openalex.org/A5036342643",
+      "alternativeAuthorIds": [
+        "A5103391679"
+      ]
+    },
+    "jonathan-j-heckman": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 97 个 type:article 中有相同论文的 UNC 机构仓库 DOI 与正式 JHEP DOI 各计一次，核实四对。Scholar 检索仅返回登录页，以 INSPIRE HEP 具名档逐篇复核。",
+      "identitySources": [
+        "https://www.physics.upenn.edu/people/standing-faculty/jonathan-heckman",
+        "https://www.jjheckman.com/research.html",
+        "https://doi.org/10.1007/JHEP05(2014)028",
+        "https://doi.org/10.1007/JHEP07(2011)030"
+      ],
+      "authorId": "A5071364258",
+      "url": "https://openalex.org/A5071364258",
+      "alternative": {
+        "source": "INSPIRE HEP",
+        "id": "1045268",
+        "articles": 111,
+        "works": 135,
+        "citations": 8235
+      }
+    },
+    "mirjam-cvetic": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 同作者的无 DOI 预印本及期刊版重复，涉及 Chiral D-brane Models、Brane Resolution 和数篇超引力工作。School、ORCID 与 INSPIRE HEP 具名身份一致。Scholar 只返回登录页。",
+      "identitySources": [
+        "https://www.physics.upenn.edu/people/standing-faculty/mirjam-cvetic",
+        "https://almanac.upenn.edu/volume-69-number-32",
+        "https://doi.org/10.1007/JHEP08(2015)087",
+        "https://doi.org/10.1088/1126-6708/2009/07/082"
+      ],
+      "authorId": "A5028811495",
+      "url": "https://openalex.org/A5028811495",
+      "alternative": {
+        "source": "INSPIRE HEP",
+        "id": "1012655",
+        "articles": 305,
+        "works": 375,
+        "citations": 26663
+      }
+    },
+    "randall-kamien": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 有同人分档，第二档含编辑任内的 Introducing GSOFT 及若干数据。主档 type:article 收录更正和媒体稿，不能直接作期刊论文总数。使用 2026 CV 限定完整分栏和 INSPIRE 的小范围计量。Scholar 只返回登录页。",
+      "identitySources": [
+        "https://www.physics.upenn.edu/people/standing-faculty/randall-kamien",
+        "https://live-sas-physics.pantheon.sas.upenn.edu/sites/default/files/2026-04/Kamien%20CV%20March2026.pdf",
+        "https://doi.org/10.1103/RevModPhys.74.953",
+        "https://doi.org/10.1103/PhysRevLett.82.2892"
+      ],
+      "authorId": "A5084776029",
+      "url": "https://openalex.org/A5084776029",
+      "alternativeAuthorIds": [
+        "A5099648565"
+      ],
+      "alternative": {
+        "source": "INSPIRE HEP",
+        "id": "1003820",
+        "articles": 10,
+        "works": 12,
+        "citations": 131
+      }
+    },
+    "jean-h-gallier": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 主档把课程讲义、书和无标题页码分类为 article，另一个同名档还混有法国 NMR 生医研究及本人格式错误内容。2026 CV 有可复核的完整期刊分栏。Scholar 只返回登录页。",
+      "identitySources": [
+        "https://www.cis.upenn.edu/jean-gallier/",
+        "https://amcs.upenn.edu/faculty/",
+        "https://doi.org/10.1016/j.difgeo.2012.09.002"
+      ],
+      "authorId": "A5016407219",
+      "url": "https://openalex.org/A5016407219",
+      "alternativeAuthorIds": [
+        "A5083818921"
+      ]
+    },
+    "shani-nadir-meynet": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "note": "INSPIRE ORCID、Penn 与 Uppsala 论文单位及合作者核实为同一作者。 作者端总作品 19，作品查询端当日解析 19，各用其明确范围。",
+      "identitySources": [
+        "https://www.physics.upenn.edu/people/shani-nadir-meynet",
+        "https://scgcs.berkeley.edu/people/",
+        "https://doi.org/10.1007/JHEP08(2025)082",
+        "https://arxiv.org/abs/2609.20917"
+      ],
+      "authorId": "A5011915425",
+      "url": "https://openalex.org/A5011915425"
+    },
+    "burt-ovrut": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 作者端和作品查询端总作品相差 100。以 ORCID 和 Penn 具名论文确认 INSPIRE 文献范围，避免沿用该跨端不一致的数字。",
+      "identitySources": [
+        "https://www.physics.upenn.edu/people/emeritus",
+        "https://doi.org/10.1023/A:1021297514203",
+        "https://doi.org/10.1023/A:1021297514203"
+      ],
+      "authorId": "A5017630672",
+      "url": "https://openalex.org/A5017630672",
+      "alternative": {
+        "source": "INSPIRE HEP",
+        "id": "994614",
+        "articles": 240,
+        "works": 324,
+        "citations": 17423
+      }
     }
   }
 }

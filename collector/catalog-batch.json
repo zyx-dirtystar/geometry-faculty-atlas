@@ -3931,18 +3931,134 @@
     {
       "id": "upenn",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，0 条任职或方向待核。 已收录 13 位学者，个人主页 12、CV 1、指标 0。",
+      "coverageNote": "已解析 2/31 个登记来源，1 条任职或方向待核。 已收录 16 位学者，个人主页 14、CV 10、指标 11。 数学 Standing Faculty 40 条，总表 144 条，联聘 11 条，讲师与博士后 16 条。专门访客、研究生页返回 504，用总表和具名档补证。核对官方 2026 毕业典礼荣休段和校董档。Dennis DeTurck 已有即将退休公告，仍缺生效日期。物理现任 46、联属 5、荣休 13、研究员 6、博士后 30、博士生 122、访问 28、讲师 5、历史纪念 7。粒子宇宙学中心总表七页 69 位，理论 12、实验 14、博士后 12、学生 28、访问 3，均核至末页。核对 AMCS 98 卡、CIS 120 卡、图形及 PSL。以具名主聘区分数学联聘与访客，一人一档。新增跨院 F-theory、软物质几何及几何建模。论文和引用分开复核，预印本重收、同名和拆档记录在复核表。独立纯数研究组入口返回 504，数学访问和博士后研究方向仍有公开资料缺口。",
       "rosterLinks": [
+        [
+          "Applied Mathematics and Computational Science · Faculty",
+          "https://amcs.upenn.edu/faculty/"
+        ],
+        [
+          "Center for Particle Cosmology · Experiment",
+          "https://particlecosmo.sas.upenn.edu/people/experiment"
+        ],
+        [
+          "Center for Particle Cosmology · Graduate Students",
+          "https://particlecosmo.sas.upenn.edu/people/graduate-students"
+        ],
+        [
+          "Center for Particle Cosmology · People",
+          "https://particlecosmo.sas.upenn.edu/people"
+        ],
+        [
+          "Center for Particle Cosmology · Postdoctoral Fellows",
+          "https://particlecosmo.sas.upenn.edu/people/postdoctoral-fellows"
+        ],
+        [
+          "Center for Particle Cosmology · Theory",
+          "https://particlecosmo.sas.upenn.edu/people/theory"
+        ],
+        [
+          "Center for Particle Cosmology · Visitors",
+          "https://particlecosmo.sas.upenn.edu/people/visitors"
+        ],
+        [
+          "Computer and Information Science · Faculty",
+          "https://www.cis.upenn.edu/people/faculty/"
+        ],
+        [
+          "Penn 2026 Commencement · Faculty Honors",
+          "https://archives.upenn.edu/wp-content/uploads/2026/09/commencement-program-2026.pdf"
+        ],
         [
           "宾大数学系 Standing Faculty",
           "https://www.math.upenn.edu/people/standing-faculty"
+        ],
+        [
+          "Computer Graphics · Penn research lab",
+          "https://cg.cis.upenn.edu/"
+        ],
+        [
+          "Physics · High Energy Theory and Experiment seminars",
+          "https://www.physics.upenn.edu/events/het-and-hee-seminars"
+        ],
+        [
+          "Mathematics · Associated Faculty",
+          "https://www.math.upenn.edu/people/associated-faculty"
+        ],
+        [
+          "Mathematics · emeritus cross-check",
+          "https://www.math.upenn.edu/people"
+        ],
+        [
+          "Mathematics · Graduate Students",
+          "https://www.math.upenn.edu/people/graduate-students"
+        ],
+        [
+          "Mathematics · Lecturers and Postdocs",
+          "https://www.math.upenn.edu/people/lecturers-and-postdocs"
+        ],
+        [
+          "Mathematics · Visiting Faculty",
+          "https://www.math.upenn.edu/people/visiting-faculty"
+        ],
+        [
+          "Center for Mathematical Biology · Fellows",
+          "https://mathbio.sas.upenn.edu/fellows/"
+        ],
+        [
+          "Mathematics · general People directory",
+          "https://www.math.upenn.edu/people"
+        ],
+        [
+          "Physics and Astronomy · Associated Faculty",
+          "https://www.physics.upenn.edu/people/associated-faculty"
+        ],
+        [
+          "Physics and Astronomy · Emeritus",
+          "https://www.physics.upenn.edu/people/emeritus"
+        ],
+        [
+          "Physics and Astronomy · Graduate Students",
+          "https://www.physics.upenn.edu/people/graduate-students"
+        ],
+        [
+          "Physics and Astronomy · Lecturers",
+          "https://www.physics.upenn.edu/people/lecturers"
+        ],
+        [
+          "Physics and Astronomy · In Memoriam",
+          "https://www.physics.upenn.edu/people/memoriam"
+        ],
+        [
+          "Physics and Astronomy · Postdoctoral Researchers",
+          "https://www.physics.upenn.edu/people/post-docs"
+        ],
+        [
+          "Physics and Astronomy · Research Associates",
+          "https://www.physics.upenn.edu/people/research-associates"
+        ],
+        [
+          "Physics and Astronomy · Standing Faculty",
+          "https://www.physics.upenn.edu/people/standing-faculty"
+        ],
+        [
+          "Physics and Astronomy · Visiting Scholars",
+          "https://www.physics.upenn.edu/people/visiting-scholars"
+        ],
+        [
+          "Weitzman · Polyhedral Structures Laboratory",
+          "https://psl.design.upenn.edu/people/"
+        ],
+        [
+          "Weitzman · Polyhedral Structures Laboratory · Team",
+          "https://psl.design.upenn.edu/team/"
         ],
         [
           "应用数学与计算科学教师",
           "https://amcs.upenn.edu/faculty/"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-26"
     },
     {
       "id": "msu-moscow",
@@ -67899,39 +68015,59 @@
           "title": "Assistant Professor of Mathematics",
           "url": "https://www.math.upenn.edu/people/andres-fernandez-herrero",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
-      "tags": [
-        "Algebraic geometry",
-        "Research Interests Algebraic geometry"
-      ],
+      "tags": [],
       "homepage": "https://web.sas.upenn.edu/andresfh/",
       "homepageStatus": null,
       "cvUrl": "https://web.sas.upenn.edu/andresfh/files/2026/10/CV.pdf",
-      "cvType": null,
+      "cvType": "公开学术 CV",
       "cvStatus": null,
-      "publicationsUrl": null,
+      "publicationsUrl": "https://web.sas.upenn.edu/andresfh/research/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5037798458",
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "以论文与 Penn、Columbia 和 Cornell 履历去除同名风险。 作者端总作品 28，作品查询端当日解析 26，各用其明确范围。",
+      "metrics": [
         {
-          "text": "Algebraic geometry",
-          "url": "https://www.math.upenn.edu/people/standing-faculty"
-        },
-        {
-          "text": "Algebraic geometry / Research Interests Algebraic geometry",
-          "url": "https://www.math.upenn.edu/people/andres-fernandez-herrero"
+          "source": "OpenAlex",
+          "authorId": "A5037798458",
+          "url": "https://openalex.org/A5037798458",
+          "authorApiUrl": "https://api.openalex.org/authors/A5037798458",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5037798458,type:article&per_page=1&select=id",
+          "orcid": "0000-0002-6617-0411",
+          "articles": 13,
+          "works": 28,
+          "citations": 153,
+          "hIndex": 7,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "identityUrl": "https://openalex.org/A5037798458",
+      "papers": [
+        {
+          "title": "Moduli spaces of sheaves via affine Grassmannians",
+          "year": 2024,
+          "url": "https://doi.org/10.1515/crelle-2023-0099"
+        },
+        {
+          "title": "The moduli stack of principal ρ-sheaves and Gieseker–Harder–Narasimhan filtrations",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/s00209-024-03497-6"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of moduli stacks, stability of sheaves and principal bundles, Higgs bundles and Harder–Narasimhan strata",
+          "url": "https://web.sas.upenn.edu/andresfh/research/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -67942,42 +68078,62 @@
         {
           "schoolId": "upenn",
           "department": "数学系",
-          "title": "Professor of Mathematics Presidential Professor of Mathematics & Graduate Chair",
+          "title": "Presidential Professor of Mathematics and Graduate Chair",
           "url": "https://www.math.upenn.edu/people/angela-gibney",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
-      "tags": [
-        "Algebraic geometry and representation theory",
-        "Research Interests Algebraic geometry and representation theory"
-      ],
+      "tags": [],
       "homepage": "https://www.angelagibney.org/",
       "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvUrl": "https://www.angelagibney.org/wp-content/uploads/2024/04/GibneyCVApril2024.pdf",
+      "cvType": "公开学术 CV（2024）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.angelagibney.org/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5055718307",
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "Penn、Rutgers、UGA 的职业记录与校方所列研究方向及本人论文一致。Notices 文章按数据库分类保留。 作者端总作品 42，作品查询端当日解析 34，各用其明确范围。",
+      "metrics": [
         {
-          "text": "Algebraic geometry and representation theory.",
-          "url": "https://www.math.upenn.edu/people/standing-faculty"
-        },
-        {
-          "text": "Algebraic geometry and representation theory. / Research Interests Algebraic geometry and representation theory.",
-          "url": "https://www.math.upenn.edu/people/angela-gibney"
+          "source": "OpenAlex",
+          "authorId": "A5055718307",
+          "url": "https://openalex.org/A5055718307",
+          "authorApiUrl": "https://api.openalex.org/authors/A5055718307",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5055718307,type:article&per_page=1&select=id",
+          "orcid": "0000-0003-0208-4140",
+          "articles": 22,
+          "works": 42,
+          "citations": 736,
+          "hIndex": 16,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "identityUrl": "https://openalex.org/A5055718307",
+      "papers": [
+        {
+          "title": "On factorization and vector bundles of conformal blocks from vertex algebras",
+          "year": 2024,
+          "url": "https://doi.org/10.24033/asens.2574"
+        },
+        {
+          "title": "Conformal blocks from vertex algebras and their connections on the moduli of curves",
+          "year": 2021,
+          "url": "https://doi.org/10.2140/gt.2021.25.2235"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of moduli of curves, conformal block bundles and representation theory",
+          "url": "https://www.angelagibney.org/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -67988,42 +68144,62 @@
         {
           "schoolId": "upenn",
           "department": "数学系",
-          "title": "Professor of Mathematics Presidential Professor of Mathematics",
+          "title": "Presidential Professor of Mathematics",
           "url": "https://www.math.upenn.edu/people/daniel-krashen",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
-      "tags": [
-        "Algebra and arithmetic geometry",
-        "Research Interests Algebra and arithmetic geometry"
-      ],
-      "homepage": "http://dkrashen.github.io/",
+      "tags": [],
+      "homepage": "https://torsor.org/",
       "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvUrl": "https://torsor.org/vita.pdf",
+      "cvType": "公开学术 CV（2025）",
+      "cvStatus": null,
+      "publicationsUrl": "https://torsor.org/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5000681345",
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "Penn、Rutgers、Georgia 的 CV 记录与 DOI、合著者一致。 作者端总作品 63，作品查询端当日解析 48，各用其明确范围。",
+      "metrics": [
         {
-          "text": "Algebra and arithmetic geometry",
-          "url": "https://www.math.upenn.edu/people/standing-faculty"
-        },
-        {
-          "text": "Algebra and arithmetic geometry / Research Interests Algebra and arithmetic geometry",
-          "url": "https://www.math.upenn.edu/people/daniel-krashen"
+          "source": "OpenAlex",
+          "authorId": "A5000681345",
+          "url": "https://openalex.org/A5000681345",
+          "authorApiUrl": "https://api.openalex.org/authors/A5000681345",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5000681345,type:article&per_page=1&select=id",
+          "orcid": "0000-0001-6826-9901",
+          "articles": 30,
+          "works": 63,
+          "citations": 676,
+          "hIndex": 15,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "identityUrl": "https://openalex.org/A5000681345",
+      "papers": [
+        {
+          "title": "Applications of patching to quadratic forms and central simple algebras",
+          "year": 2009,
+          "url": "https://doi.org/10.1007/s00222-009-0195-5"
+        },
+        {
+          "title": "Local-global principles for torsors over arithmetic curves",
+          "year": 2015,
+          "url": "https://doi.org/10.1353/ajm.2015.0039"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic geometry, torsors over curves, quadratic forms and central simple algebras",
+          "url": "https://torsor.org/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -68037,36 +68213,50 @@
           "title": "Associate Professor of Mathematics",
           "url": "https://www.math.upenn.edu/people/davi-maximo",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [],
-      "homepage": "https://www.math.upenn.edu/~dmaxim/",
+      "homepage": "https://www2.math.upenn.edu/~dmaxim/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5033038272",
-      "papers": [],
-      "directoryEvidence": [
+      "cvStatus": "已查本人 2026 学术主页、Math Standing Faculty、Penn CURF 和公开 CV 具名检索，未找到本人独立公开 CV。",
+      "publicationsUrl": "https://www2.math.upenn.edu/~dmaxim/",
+      "publicationCounts": [
         {
-          "text": "Nonlinear methods in differential geometry, partial differential equations, and geometric topology",
-          "url": "https://www.math.upenn.edu/people/standing-faculty"
-        },
-        {
-          "text": "Nonlinear methods in differential geometry, partial differential equations, and geometric topology / Research Interests Nonlinear methods in differential geometry, partial differential equations, and geometric topology",
-          "url": "https://www.math.upenn.edu/people/davi-maximo"
+          "value": 16,
+          "scope": "本人 2026 年 10 月 Papers 完整分栏中已注明期刊出版的作品，含 Notices 文章。期刊版合并预印本，另有 1 书章和 2 未注明期刊条目。",
+          "url": "https://www2.math.upenn.edu/~dmaxim/",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "opportunities": [],
+      "identityNote": "OpenAlex 与本人身份吻合，分类中无 DOI 的 Ricci flow 和 bounded-index 条目与正式出版或报告重复，且将收录书章作为文章。改用本人 Papers 范围的去重计数。Scholar 具名检索未得可核的作者累计引用。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/A5033038272",
+      "papers": [
+        {
+          "title": "Minimal surfaces with bounded index",
+          "year": 2017,
+          "url": "https://doi.org/10.1007/s00222-017-0717-5"
+        },
+        {
+          "title": "On the topology and index of minimal and Bryant framed surfaces",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s00208-026-03401-z"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis, minimal surfaces, Ricci flow, positive scalar curvature and geometric inequalities",
+          "url": "https://www2.math.upenn.edu/~dmaxim/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -68077,84 +68267,62 @@
         {
           "schoolId": "upenn",
           "department": "数学系",
-          "title": "Professor of Mathematics Christopher H. Browne Distinguished Professor in the School of Arts and Sciences",
+          "title": "Christopher H. Browne Distinguished Professor of Mathematics",
           "url": "https://www.math.upenn.edu/people/david-harbater",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [],
-      "homepage": "https://www.math.upenn.edu/~harbater/",
+      "homepage": "https://www2.math.upenn.edu/~harbater/",
       "homepageStatus": null,
-      "cvUrl": null,
+      "cvUrl": "https://www2.math.upenn.edu/~harbater/cv.html",
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://www2.math.upenn.edu/~harbater/papers.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
+      "identityNote": "与本人 CV 和 Penn 具名论文交叉。两条无 DOI 的记录由相关题名和任职交叉，数据库 type:article 为索引值。 作者端总作品 80，作品查询端当日解析 66，各用其明确范围。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5052309612",
+          "url": "https://openalex.org/A5052309612",
+          "authorApiUrl": "https://api.openalex.org/authors/A5052309612",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5052309612,type:article&per_page=1&select=id",
+          "orcid": null,
+          "articles": 49,
+          "works": 80,
+          "citations": 1507,
+          "hIndex": 24,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "identityUrl": "https://openalex.org/A5052309612",
-      "papers": [],
-      "directoryEvidence": [
+      "papers": [
         {
-          "text": "Modern Galois theory and related areas of Algebra and Arithmetic Geometry",
-          "url": "https://www.math.upenn.edu/people/standing-faculty"
+          "title": "Abhyankar’s conjecture on Galois groups over curves",
+          "year": 1994,
+          "url": "https://doi.org/10.1007/BF01232232"
         },
         {
-          "text": "Modern Galois theory and related areas of Algebra and Arithmetic Geometry / Research Interests Modern Galois theory and related areas of Algebra and Arithmetic Geometry",
-          "url": "https://www.math.upenn.edu/people/david-harbater"
+          "title": "Local-global principles for torsors over arithmetic curves",
+          "year": 2015,
+          "url": "https://doi.org/10.1353/ajm.2015.0039"
         }
       ],
-      "checkedAt": "2026-11-23",
-      "recordStatus": "directory"
-    },
-    {
-      "id": "dennis-deturck",
-      "name": "Dennis DeTurck",
-      "aliases": [],
-      "affiliations": [
-        {
-          "schoolId": "upenn",
-          "department": "数学系",
-          "title": "Professor of Mathematics Robert A. Fox Leadership Professor",
-          "url": "https://www.math.upenn.edu/people/dennis-deturck",
-          "type": "primary",
-          "checkedAt": "2026-11-23"
-        }
-      ],
-      "fields": [
-        "differential"
-      ],
-      "tags": [
-        "Partial Differential Equations and Differential Geometry"
-      ],
-      "homepage": "https://www.math.upenn.edu/~deturck/",
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
       "directoryEvidence": [
         {
-          "text": "Partial Differential Equations and Differential Geometry.",
-          "url": "https://www.math.upenn.edu/people/standing-faculty"
-        },
-        {
-          "text": "Partial Differential Equations and Differential Geometry. / Research Interests Partial Differential Equations and Differential Geometry.",
-          "url": "https://www.math.upenn.edu/people/dennis-deturck"
+          "text": "Arithmetic geometry, Galois theory of covers of curves, patching and local-global principles",
+          "url": "https://www2.math.upenn.edu/~harbater/research.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -68165,41 +68333,62 @@
         {
           "schoolId": "upenn",
           "department": "数学系",
-          "title": "Professor of Mathematics Samuel D. Schack Professor of Algebra",
+          "title": "Samuel D. Schack Professor of Algebra",
           "url": "https://www.math.upenn.edu/people/florian-pop",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
-      "tags": [
-        "Arithmetic Algebraic Geometry and Modern Galois Theory"
-      ],
-      "homepage": "https://www.math.upenn.edu/~pop/",
+      "tags": [],
+      "homepage": "https://www2.math.upenn.edu/~pop/",
       "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvUrl": "https://www2.math.upenn.edu/~pop/BriefCV.html",
+      "cvType": "公开学术 CV（简版）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www2.math.upenn.edu/~pop/Research/Papers.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5030439284",
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "与 Penn、Bonn 职务及文章署名一致。The Arithmetic of Fields 同名条目对应不同会议卷和不同 DOI，被计入 OpenAlex 分类。 作者端总作品 69，作品查询端当日解析 63，各用其明确范围。",
+      "metrics": [
         {
-          "text": "Arithmetic Algebraic Geometry and Modern Galois Theory.",
-          "url": "https://www.math.upenn.edu/people/standing-faculty"
-        },
-        {
-          "text": "Arithmetic Algebraic Geometry and Modern Galois Theory. / Research Interests Arithmetic Algebraic Geometry and Modern Galois Theory.",
-          "url": "https://www.math.upenn.edu/people/florian-pop"
+          "source": "OpenAlex",
+          "authorId": "A5030439284",
+          "url": "https://openalex.org/A5030439284",
+          "authorApiUrl": "https://api.openalex.org/authors/A5030439284",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5030439284,type:article&per_page=1&select=id",
+          "orcid": null,
+          "articles": 42,
+          "works": 69,
+          "citations": 972,
+          "hIndex": 15,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "identityUrl": "https://openalex.org/A5030439284",
+      "papers": [
+        {
+          "title": "On Grothendieck’s conjecture of birational anabelian geometry",
+          "year": 1994,
+          "url": "https://doi.org/10.2307/2946630"
+        },
+        {
+          "title": "The Oort conjecture on lifting covers of curves",
+          "year": 2014,
+          "url": "https://doi.org/10.4007/annals.2014.180.1.6"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry, birational anabelian geometry and Galois theory",
+          "url": "https://www2.math.upenn.edu/~pop/Research.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -68213,38 +68402,96 @@
           "title": "Professor of Mathematics",
           "url": "https://www.math.upenn.edu/people/herman-gluck",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
-      "tags": [
-        "Differential Geometry, Dynamical Systems, Topology of Manifolds"
-      ],
+      "tags": [],
       "homepage": null,
-      "homepageStatus": null,
+      "homepageStatus": "查数学系、AMCS、Penn CURF 和 IAS 具名页，未发现在用的独立学术网站。",
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "数学系、AMCS、Penn CURF、IAS 和姓名 CV 检索未取得独立公开学术 CV。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 请求或返回数据失败。",
+      "identityNote": "已辨识 Penn 几何作者 A5001799964。无 DOI 的 Making Matrices Better 与期刊题名有重复，且部分预告与正文分列。A5070039081 含明显不相关牙科条目，不与作者合并。未找到完整公开本人目录和独立累计引用。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "papers": [
         {
-          "text": "Differential Geometry, Dynamical Systems, Topology of Manifolds.",
-          "url": "https://www.math.upenn.edu/people/standing-faculty"
+          "title": "Higher curvatures of curves in Euclidean space",
+          "year": 1966,
+          "url": "https://doi.org/10.1080/00029890.1966.11970818"
         },
         {
-          "text": "Differential Geometry, Dynamical Systems, Topology of Manifolds. / Research Interests Differential Geometry, Dynamical Systems, Topology of Manifolds.",
-          "url": "https://www.math.upenn.edu/people/herman-gluck"
+          "title": "The embedding of two-spheres in the four-sphere",
+          "year": 1962,
+          "url": "https://doi.org/10.1090/S0002-9947-1962-0146807-0"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of curves and manifolds, dynamical systems, embeddings and geometric topology",
+          "url": "https://curf.upenn.edu/profile/herman-gluck"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jean-h-gallier",
+      "name": "Jean H. Gallier",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "upenn",
+          "department": "Department of Computer and Information Science",
+          "title": "Professor of Computer and Information Science",
+          "url": "https://www.cis.upenn.edu/jean-gallier/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.cis.upenn.edu/~jean/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.cis.upenn.edu/~jean/vita2.pdf",
+      "cvType": "公开学术 CV（2026-03）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.cis.upenn.edu/~jean/vita2.pdf",
+      "publicationCounts": [
+        {
+          "value": 38,
+          "scope": "2026 CV 的 Papers accepted in refereed Journals 全 40 条中已有刊名卷页的不同成果。另两项只列待刊，未合并进计数。",
+          "url": "https://www.cis.upenn.edu/~jean/vita2.pdf",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "OpenAlex 主档把课程讲义、书和无标题页码分类为 article，另一个同名档还混有法国 NMR 生医研究及本人格式错误内容。2026 CV 有可复核的完整期刊分栏。Scholar 只返回登录页。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Parametric pseudo-manifolds",
+          "year": 2012,
+          "url": "https://doi.org/10.1016/j.difgeo.2012.09.002"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of curves and surfaces, parametric manifolds, geometric modeling and algebraic geometry of rational curves",
+          "url": "https://amcs.upenn.edu/faculty/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -68255,39 +68502,201 @@
         {
           "schoolId": "upenn",
           "department": "数学系",
-          "title": "Professor of Mathematics & Department Chair",
+          "title": "Professor of Mathematics and Department Chair",
           "url": "https://www.math.upenn.edu/people/jonathan-block",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [],
-      "homepage": "https://www.math.upenn.edu/~blockj/",
+      "homepage": "https://www2.math.upenn.edu/~blockj/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvStatus": "已查本人校站、Research Articles、校方任职和 CV 具名检索，未找到独立公开学术 CV。",
+      "publicationsUrl": "https://www2.math.upenn.edu/~blockj/Papers.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 请求或返回数据失败。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "以本人文章目录、Penn 与 IAS/NYU 合著线索确认匹配。另档 A5091415804 归牙科作者，已排除。 作者端总作品 37，作品查询端当日解析 32，各用其明确范围。",
+      "metrics": [
         {
-          "text": "K-Theory, Differential Geometry and Index Theory, Operator Algebras.",
-          "url": "https://www.math.upenn.edu/people/standing-faculty"
-        },
-        {
-          "text": "K-Theory, Differential Geometry and Index Theory, Operator Algebras. / Research Interests K-Theory, Differential Geometry and Index Theory, Operator Algebras.",
-          "url": "https://www.math.upenn.edu/people/jonathan-block"
+          "source": "OpenAlex",
+          "authorId": "A5112366545",
+          "url": "https://openalex.org/A5112366545",
+          "authorApiUrl": "https://api.openalex.org/authors/A5112366545",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5112366545,type:article&per_page=1&select=id",
+          "orcid": null,
+          "articles": 22,
+          "works": 37,
+          "citations": 758,
+          "hIndex": 15,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Aperiodic tilings, positive scalar curvature, and amenability of spaces",
+          "year": 1992,
+          "url": "https://doi.org/10.1090/S0894-0347-1992-1145337-X"
+        },
+        {
+          "title": "The higher Riemann–Hilbert correspondence",
+          "year": 2014,
+          "url": "https://doi.org/10.1016/j.aim.2013.11.001"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, noncommutative geometry, index theory, higher Riemann–Hilbert correspondence and operator algebras",
+          "url": "https://www2.math.upenn.edu/~blockj/Papers.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jonathan-j-heckman",
+      "name": "Jonathan J. Heckman",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "upenn",
+          "department": "Department of Physics and Astronomy",
+          "title": "Professor of Physics and Astronomy · Undergraduate Affairs Chair",
+          "url": "https://www.physics.upenn.edu/people/standing-faculty/jonathan-heckman",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.jjheckman.com/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.jjheckman.com/uploads/2/0/6/7/20676186/heckcv.pdf",
+      "cvType": "公开学术 CV（完整版）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.jjheckman.com/research.html",
+      "publicationCounts": [
+        {
+          "value": 111,
+          "scope": "INSPIRE HEP 具名档中标记为 article、且有期刊出版资料的记录。按 DOI 或作品号去重。",
+          "url": "https://inspirehep.net/authors/1045268",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "OpenAlex 97 个 type:article 中有相同论文的 UNC 机构仓库 DOI 与正式 JHEP DOI 各计一次，核实四对。Scholar 检索仅返回登录页，以 INSPIRE HEP 具名档逐篇复核。",
+      "metrics": [
+        {
+          "source": "INSPIRE HEP",
+          "authorId": "1045268",
+          "url": "https://inspirehep.net/authors/1045268",
+          "articles": 111,
+          "works": 135,
+          "citations": 8235,
+          "checkedAt": "2026-11-26",
+          "articleScope": "INSPIRE HEP 具名作者结果中有期刊名且 document_type 为 article 的记录，按 DOI 或作品号去重",
+          "citationScope": "INSPIRE HEP 可归属的全部不同作品号累计引用，含自引"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On the classification of 6D SCFTs and generalized ADE orbifolds",
+          "year": 2014,
+          "url": "https://doi.org/10.1007/JHEP05(2014)028"
+        },
+        {
+          "title": "T-branes and monodromy",
+          "year": 2011,
+          "url": "https://doi.org/10.1007/JHEP07(2011)030"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of elliptic fibrations and generalized ADE singularities in F-theory, Higgs bundles, geometric engineering and quantum field theory",
+          "url": "https://www.jjheckman.com/research.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "mirjam-cvetic",
+      "name": "Mirjam Cvetič",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "upenn",
+          "department": "Department of Physics and Astronomy",
+          "title": "Fay R. and Eugene L. Langberg Professor of Physics",
+          "url": "https://www.physics.upenn.edu/people/standing-faculty/mirjam-cvetic",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "物理系及数学联聘卡给出旧 HEP Theory 组站，直连 502。学院与科学院具名简介可访问，未找到作者个人站。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查物理系档、数学联聘、美国艺术与科学院、校方院士报道和具名 CV 查询，未发现可独立核实的公开 CV。",
+      "publicationsUrl": "https://inspirehep.net/authors/1012655",
+      "publicationCounts": [
+        {
+          "value": 305,
+          "scope": "INSPIRE HEP 具名档中标记为 article、且有期刊出版资料的记录。按 DOI 或作品号去重。",
+          "url": "https://inspirehep.net/authors/1012655",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "OpenAlex 同作者的无 DOI 预印本及期刊版重复，涉及 Chiral D-brane Models、Brane Resolution 和数篇超引力工作。School、ORCID 与 INSPIRE HEP 具名身份一致。Scholar 只返回登录页。",
+      "metrics": [
+        {
+          "source": "INSPIRE HEP",
+          "authorId": "1012655",
+          "url": "https://inspirehep.net/authors/1012655",
+          "articles": 305,
+          "works": 375,
+          "citations": 26663,
+          "checkedAt": "2026-11-26",
+          "articleScope": "INSPIRE HEP 具名作者结果中有期刊名且 document_type 为 article 的记录，按 DOI 或作品号去重",
+          "citationScope": "INSPIRE HEP 可归属的全部不同作品号累计引用，含自引"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Three-family particle physics models from global F-theory compactifications",
+          "year": 2015,
+          "url": "https://doi.org/10.1007/JHEP08(2015)087"
+        },
+        {
+          "title": "New Einstein–Sasaki and Einstein spaces from Kerr–de Sitter",
+          "year": 2009,
+          "url": "https://doi.org/10.1088/1126-6708/2009/07/082"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of elliptic Calabi–Yau fibrations and F-theory compactification, differential geometry of Einstein–Sasaki and special holonomy spaces",
+          "url": "https://almanac.upenn.edu/volume-69-number-32"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -68301,36 +68710,134 @@
           "title": "Professor of Mathematics",
           "url": "https://www.math.upenn.edu/people/philip-gressman",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [],
-      "homepage": "https://www.math.upenn.edu/~gressman/",
+      "homepage": "https://www2.math.upenn.edu/~gressman/",
       "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvUrl": "https://www2.math.upenn.edu/~gressman/Gressman_CV_short.pdf",
+      "cvType": "公开学术 CV（简版，2024）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www2.math.upenn.edu/~gressman/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5073463363",
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "本人 CV 明列所抽查的数学论文、中子星和疫情数学建模文章。APS 原文的 Princeton 和 Washington University 署名与履历一致。 作者端总作品 47，作品查询端当日解析 41，各用其明确范围。",
+      "metrics": [
         {
-          "text": "Harmonic Analysis and PDE's, Geometric Combinatorics, Geometric Analysis",
-          "url": "https://www.math.upenn.edu/people/standing-faculty"
-        },
-        {
-          "text": "Harmonic Analysis and PDE's, Geometric Combinatorics, Geometric Analysis / Research Interests Harmonic Analysis and PDE's, Geometric Combinatorics, Geometric Analysis",
-          "url": "https://www.math.upenn.edu/people/philip-gressman"
+          "source": "OpenAlex",
+          "authorId": "A5073463363",
+          "url": "https://openalex.org/A5073463363",
+          "authorApiUrl": "https://api.openalex.org/authors/A5073463363",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5073463363,type:article&per_page=1&select=id",
+          "orcid": "0000-0003-3896-8714",
+          "articles": 38,
+          "works": 47,
+          "citations": 1112,
+          "hIndex": 15,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "identityUrl": "https://openalex.org/A5073463363",
+      "papers": [
+        {
+          "title": "Rank and regularity for averages over submanifolds",
+          "year": 2009,
+          "url": "https://doi.org/10.1016/j.jfa.2009.04.008"
+        },
+        {
+          "title": "Global classical solutions of the Boltzmann equation with long-range interactions",
+          "year": 2010,
+          "url": "https://doi.org/10.1073/pnas.1001185107"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Geometric analysis, harmonic analysis, Fourier restriction and averages on submanifolds",
+          "url": "https://www2.math.upenn.edu/~gressman/Gressman_CV_short.pdf"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "randall-kamien",
+      "name": "Randall Kamien",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "upenn",
+          "department": "Department of Physics and Astronomy",
+          "title": "Vicki and William Abrams Professor in the Natural Sciences",
+          "url": "https://www.physics.upenn.edu/people/standing-faculty/randall-kamien",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.physics.upenn.edu/~kamien/kamiengroup/",
+      "homepageStatus": null,
+      "cvUrl": "https://live-sas-physics.pantheon.sas.upenn.edu/sites/default/files/2026-04/Kamien%20CV%20March2026.pdf",
+      "cvType": "公开学术 CV（2026-03）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.physics.upenn.edu/~kamien/kamiengroup/publications.html",
+      "publicationCounts": [
+        {
+          "value": 146,
+          "scope": "2026-03 CV 的 Peer-Reviewed Publications 共编号 147 项。排除一篇会议集。末项由 Wiley DOI 10.1002/sstr.70378 核实正式出版。勘误不另计。",
+          "url": "https://live-sas-physics.pantheon.sas.upenn.edu/sites/default/files/2026-04/Kamien%20CV%20March2026.pdf",
+          "checkedAt": "2026-11-26"
+        },
+        {
+          "value": 10,
+          "scope": "INSPIRE HEP 具名档中标记为 article、且有期刊出版资料的记录。按 DOI 或作品号去重。",
+          "url": "https://inspirehep.net/authors/1003820",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "OpenAlex 有同人分档，第二档含编辑任内的 Introducing GSOFT 及若干数据。主档 type:article 收录更正和媒体稿，不能直接作期刊论文总数。使用 2026 CV 限定完整分栏和 INSPIRE 的小范围计量。Scholar 只返回登录页。",
+      "metrics": [
+        {
+          "source": "INSPIRE HEP",
+          "authorId": "1003820",
+          "url": "https://inspirehep.net/authors/1003820",
+          "articles": 10,
+          "works": 12,
+          "citations": 131,
+          "checkedAt": "2026-11-26",
+          "articleScope": "INSPIRE HEP 具名作者结果中有期刊名且 document_type 为 article 的记录，按 DOI 或作品号去重",
+          "citationScope": "INSPIRE HEP 可归属的全部不同作品号累计引用，含自引"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The geometry of soft materials: a primer",
+          "year": 2002,
+          "url": "https://doi.org/10.1103/RevModPhys.74.953"
+        },
+        {
+          "title": "Minimal surfaces, screw dislocations, and twist grain boundaries",
+          "year": 1999,
+          "url": "https://doi.org/10.1103/PhysRevLett.82.2892"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of soft materials, minimal surfaces, geodesic fibrations and geometry of liquid crystals",
+          "url": "https://live-sas-physics.pantheon.sas.upenn.edu/sites/default/files/2026-04/Kamien%20CV%20March2026.pdf"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -68341,41 +68848,47 @@
         {
           "schoolId": "upenn",
           "department": "数学系",
-          "title": "Professor of Mathematics Thomas A. Scott Professor of Mathematics",
+          "title": "Thomas A. Scott Professor of Mathematics and Professor of Physics",
           "url": "https://www.math.upenn.edu/people/ron-donagi",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
-        "algebraic"
+        "algebraic",
+        "complex"
       ],
-      "tags": [
-        "Mathematical Physics: Algebraic Geometry and String Theory"
-      ],
-      "homepage": "https://www.math.upenn.edu/~donagi/",
+      "tags": [],
+      "homepage": "https://web.sas.upenn.edu/donagi/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvStatus": "查本人新旧主页、系档、SAS 教席简介、IAS 历史履历及正式 CV 名称检索。Simons 报告幻灯片虽有 CV 页眉，内容是讲稿，未找到独立公开学术 CV。",
+      "publicationsUrl": "https://web.sas.upenn.edu/donagi/research/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
+      "identityNote": "OpenAlex 99 篇含 Spectra of D-branes with Higgs vevs 无 DOI 与期刊的重复条目，以及部分会议内容。系方简介仅写逾 100 篇研究文章，本人研究页为分主题摘要链接，未取得精确完整计数。Scholar 查询未得独立可核作者总量。",
       "metrics": [],
       "identityUrl": "https://openalex.org/A5042286237",
-      "papers": [],
-      "directoryEvidence": [
+      "papers": [
         {
-          "text": "Mathematical Physics: Algebraic Geometry and String Theory",
-          "url": "https://www.math.upenn.edu/people/standing-faculty"
+          "title": "Supersymmetric Yang–Mills theory and integrable systems",
+          "year": 1996,
+          "url": "https://doi.org/10.1016/0550-3213(95)00609-5"
         },
         {
-          "text": "Mathematical Physics: Algebraic Geometry and String Theory / Research Interests Mathematical Physics: Algebraic Geometry and String Theory",
-          "url": "https://www.math.upenn.edu/people/ron-donagi"
+          "title": "The intersection of three quadrics in projective seven-space revisited",
+          "year": 2026,
+          "url": "https://www.mathnet.ru/eng/tm4549"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "directoryEvidence": [
+        {
+          "text": "Complex algebraic geometry, super Riemann surfaces, moduli of curves, Higgs bundles and geometric Langlands",
+          "url": "https://www.math.harvard.edu/event/recent-developments-in-super-geometry/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -68389,38 +68902,60 @@
           "title": "Professor of Mathematics",
           "url": "https://www.math.upenn.edu/people/ted-chinburg",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
+        "algebraic",
         "differential"
       ],
-      "tags": [
-        "Number Theory, Algebraic and Hyperbolic Geometry"
-      ],
-      "homepage": "https://www.math.upenn.edu/~ted/",
+      "tags": [],
+      "homepage": "https://www2.math.upenn.edu/~ted/page.html",
       "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvUrl": "https://www2.math.upenn.edu/~ted/LongerVitaPubs2-21-26.pdf",
+      "cvType": "公开学术 CV（2026-02）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www2.math.upenn.edu/~ted/LongerVitaPubs2-21-26.pdf",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5049836984",
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "2026 CV、Penn 署名和几何两篇 DOI 匹配。排除把 Communicated 当成作者名的另档。 作者端总作品 145，作品查询端当日解析 131，各用其明确范围。",
+      "metrics": [
         {
-          "text": "Number Theory, Algebraic and Hyperbolic Geometry.",
-          "url": "https://www.math.upenn.edu/people/standing-faculty"
-        },
-        {
-          "text": "Number Theory, Algebraic and Hyperbolic Geometry. / Research Interests Number Theory, Algebraic and Hyperbolic Geometry.",
-          "url": "https://www.math.upenn.edu/people/ted-chinburg"
+          "source": "OpenAlex",
+          "authorId": "A5049836984",
+          "url": "https://openalex.org/A5049836984",
+          "authorApiUrl": "https://api.openalex.org/authors/A5049836984",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5049836984,type:article&per_page=1&select=id",
+          "orcid": "0000-0001-8122-1582",
+          "articles": 93,
+          "works": 145,
+          "citations": 1437,
+          "hIndex": 22,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "identityUrl": "https://openalex.org/A5049836984",
+      "papers": [
+        {
+          "title": "Geodesics and commensurability classes of arithmetic hyperbolic 3-manifolds",
+          "year": 2008,
+          "url": "https://doi.org/10.1215/00127094-2008-045"
+        },
+        {
+          "title": "Galois structure of the holomorphic differentials of curves",
+          "year": 2020,
+          "url": "https://doi.org/10.1016/j.jnt.2020.04.015"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic geometry of curves and Galois modules, number theory and hyperbolic geometry of arithmetic three-manifolds",
+          "url": "https://www2.math.upenn.edu/~ted/page.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -68431,45 +68966,47 @@
         {
           "schoolId": "upenn",
           "department": "数学系",
-          "title": "Professor of Mathematics Class of 1939 Professor",
+          "title": "Class of 1939 Professor of Mathematics",
           "url": "https://www.math.upenn.edu/people/tony-pantev",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic",
         "differential"
       ],
-      "tags": [
-        "Algebraic and differential geometry",
-        "Hodge theory and motives",
-        "Mathematical physics and string theory",
-        "Research Interests Algebraic and differential geometry"
-      ],
-      "homepage": "https://www.math.upenn.edu/~tpantev/",
+      "tags": [],
+      "homepage": "https://www2.math.upenn.edu/~tpantev/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查看本人校站的 Research、SAS 和 Simons 合作页、公开具名 CV 搜索，未找到作者独立公开学术 CV。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
+      "identityNote": "OpenAlex 主档含 Calabi–Yau 早稿与期刊的重收。另一 Tony G. Pantev 档的 MIT 旧作 Weak Hironaka Theorem 作者、论文和早期履历一致。本人站只列合作项目和演讲，暂无可独立验证的累计引用和完整去重论文数。",
       "metrics": [],
       "identityUrl": "https://openalex.org/A5036342643",
-      "papers": [],
-      "directoryEvidence": [
+      "papers": [
         {
-          "text": "Algebraic and differential geometry. Hodge theory and motives. Mathematical physics and string theory.",
-          "url": "https://www.math.upenn.edu/people/standing-faculty"
+          "title": "Shifted symplectic structures",
+          "year": 2013,
+          "url": "https://doi.org/10.1007/s10240-013-0054-1"
         },
         {
-          "text": "Algebraic and differential geometry. Hodge theory and motives. Mathematical physics and string theory. / Research Interests Algebraic and differential geometry. Hodge theory and motives. Mathematical physics and string theory.",
-          "url": "https://www.math.upenn.edu/people/tony-pantev"
+          "title": "Langlands duality for Hitchin systems",
+          "year": 2012,
+          "url": "https://doi.org/10.1007/s00222-012-0373-8"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "directoryEvidence": [
+        {
+          "text": "Algebraic and differential geometry, Hodge theory, derived and shifted symplectic structures, algebraic geometry of moduli stacks",
+          "url": "https://www2.math.upenn.edu/~tpantev/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
