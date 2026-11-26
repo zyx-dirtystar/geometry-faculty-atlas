@@ -29,10 +29,8 @@
     "caucher-birkar": "A5032259921",
     "simon-brendle": "A5076363880",
     "jeffrey-case": "A5077324526",
-    "anton-mellit": "A5055419764",
     "marco-zambon": "A5060858260",
     "joeri-van-der-veken": "A5033126696",
-    "balazs-szendroi": "A5078229428",
     "tapio-rajala": "A5041041984",
     "francis-brown": "A5057969937",
     "konstantin-ardakov": "A5002685409",
@@ -694,7 +692,25 @@
     "alessio-figalli": "OpenAlex 具名档与本人 ETH 简介、ORCID、研究作品相符。作者端 288 包含跨年份与作品类型，采用本人双源一致的完整已发表或接受列表。累计引用的署名覆盖继续核对。",
     "tristan-riviere": "OpenAlex 具名档以 ETH、ORCID 及 Willmore 正式论文互证。作者端 165 与作品端 151 不一致。本人网站全书目 129 条含论文、学位章节、报告及待刊，继续核对分类型。",
     "yilin-wang": "Loewner 链 JEMS 正式论文中的 ETH 和 ORCID 锁定正确档 A5100449856。作者端 34 与作品端 30 不一致，后者含访谈、学位论文与同题预印本。其余近名档属工程、生物和计算机领域。",
-    "denis-nesterov": "ETH 任聘、作者材料、JAMS 文章和合作者核定两个同人 OpenAlex 档。A5038303953 列五条带正式期刊 DOI，A5122021508 列四条另行的预印本。高位近名 A5041558892 是化学研究者。"
+    "denis-nesterov": "ETH 任聘、作者材料、JAMS 文章和合作者核定两个同人 OpenAlex 档。A5038303953 列五条带正式期刊 DOI，A5122021508 列四条另行的预印本。高位近名 A5041558892 是化学研究者。",
+    "clemens-samann": "作者 ORCID 由 Uni Wien u:cris 或公开 CV 交叉，正式作品和共同作者一致。核对作者端和完整作品查询后，文章类型与累计引用各按 OpenAlex 源口径。",
+    "stefan-furdos": "作者 ORCID 由 Uni Wien u:cris 或公开 CV 交叉，正式作品和共同作者一致。核对作者端和完整作品查询后，文章类型与累计引用各按 OpenAlex 源口径。",
+    "luke-david-edholm": "作者 ORCID 由 Uni Wien u:cris 或公开 CV 交叉，正式作品和共同作者一致。核对作者端和完整作品查询后，文章类型与累计引用各按 OpenAlex 源口径。",
+    "anton-mellit": "核对带日维也纳 ORCID、Mellit 作品和模空间代表作。 OpenAlex 作者端 64 项，作品查询 61 项。累计引用归属范围仍有差异。",
+    "balazs-szendroi": "列表含代数几何、跨学科及出版目录，另有人文文章与书目版本待核。 OpenAlex 作者端 78 项，作品查询 65 项。累计引用归属范围仍有差异。",
+    "bernhard-lamel": "FWF 2026 具名项目、ORCID 与 CR 论文源吻合。 OpenAlex 作者端 74 项，作品查询 67 项。累计引用归属范围仍有差异。",
+    "michael-eichmair": "具名论文中的数学教育共同作者与本人教学项目有交叉。主页 START PDF 属整个项目、多位作者，不能当作者全表。 OpenAlex 作者端 47 项，作品查询 45 项。累计引用归属范围仍有差异。",
+    "daniele-semola": "作者作品端书章 38 项，包含 Springer 书的分章节。以作者书目完整分册记录已刊或接受期刊论文。 OpenAlex 作者端 75 项，作品查询 72 项。累计引用归属范围仍有差异。",
+    "michael-kunzinger": "u:cris ORCID 和学者网站的 Lorentzian length spaces 互证。 OpenAlex 作者端 105 项，作品查询 95 项。累计引用归属范围仍有差异。",
+    "roland-steinbauer": "u:cris ORCID、数学物理作者主页和具名作品相符。档案包含多书章、学科教育和预印本。 OpenAlex 作者端 146 项，作品查询 109 项。累计引用归属范围仍有差异。",
+    "stefan-haller": "数学 ORCID 与具名 FWF 课题匹配，另一个相似作者 A5054674811 的作品为电路与纳米工程。 OpenAlex 作者端 41 项，作品查询 35 项。累计引用归属范围仍有差异。",
+    "herwig-hauser": "奇点及 Artin 正式作品和本人主页一致。档案会议及期刊混杂，需逐项排除同名。 OpenAlex 作者端 210 项，作品查询 195 项。累计引用归属范围仍有差异。",
+    "olivia-constantin": "Fock 空间作者档，单项学位论文及专书章节。该关联方向避免计成复几何主名单。 OpenAlex 作者端 30 项，作品查询 29 项。累计引用归属范围仍有差异。",
+    "chiara-rigoni": "以项目组、书目与曲率 RCD 论文核本人，作者计量与作品查询仍有较大差异。 OpenAlex 作者端 26 项，作品查询 16 项。累计引用归属范围仍有差异。",
+    "andreas-cap": "本人主页和 u:cris ORCID 一致。OpenAlex 作者端 132 项，作品端 102，含课程、重复题录及出版物混标。本人直链的 Scholar 核得 All 3672 引用。",
+    "weixia-zhu": "FWF 可靠 ORCID 与 CR 工作属本人，具名档亦含 harmonic number／Euler sums 旧条目，归属仍核。高位近名档为化学和材料。",
+    "hendrik-herrmann": "三份高位近名 OpenAlex 档分别是生物、化学和临床材料。已核 Szegő kernels 两条代表作有本人署名但作者 ID 空缺，尚未得到数学档。",
+    "thomas-korber": "三份近名档未经 ORCID 与具名论文确认。已用作者主页完整十二篇刊物分栏，公开累计引用暂待核。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -3682,6 +3698,266 @@
       "alternativeAuthorIds": [
         "A5122021508",
         "A5041558892"
+      ]
+    },
+    "clemens-samann": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "note": "作者 ORCID 由 Uni Wien u:cris 或公开 CV 交叉，正式作品和共同作者一致。核对作者端和完整作品查询后，文章类型与累计引用各按 OpenAlex 源口径。",
+      "identitySources": [
+        "https://ucrisportal.univie.ac.at/en/persons/clemens-s%C3%A4mann/",
+        "https://ef-geometry.univie.ac.at/team/",
+        "https://doi.org/10.1007/s10455-018-9633-1",
+        "https://doi.org/10.1007/s00023-015-0425-x"
+      ],
+      "authorId": "A5070070883",
+      "url": "https://openalex.org/A5070070883"
+    },
+    "stefan-furdos": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "note": "作者 ORCID 由 Uni Wien u:cris 或公开 CV 交叉，正式作品和共同作者一致。核对作者端和完整作品查询后，文章类型与累计引用各按 OpenAlex 源口径。",
+      "identitySources": [
+        "https://ufind.univie.ac.at/en/person.html?id=35831",
+        "https://ucrisportal.univie.ac.at/en/persons/stefan-f%C3%BCrd%C3%B6s/",
+        "https://doi.org/10.2140/pjm.2020.307.303"
+      ],
+      "authorId": "A5052495878",
+      "url": "https://openalex.org/A5052495878"
+    },
+    "luke-david-edholm": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "note": "作者 ORCID 由 Uni Wien u:cris 或公开 CV 交叉，正式作品和共同作者一致。核对作者端和完整作品查询后，文章类型与累计引用各按 OpenAlex 源口径。",
+      "identitySources": [
+        "https://ufind.univie.ac.at/en/person.html?id=115320",
+        "https://complex.univie.ac.at/people/luke-edholm/"
+      ],
+      "authorId": "A5027328914",
+      "url": "https://openalex.org/A5027328914"
+    },
+    "anton-mellit": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "核对带日维也纳 ORCID、Mellit 作品和模空间代表作。 OpenAlex 作者端 64 项，作品查询 61 项。累计引用归属范围仍有差异。",
+      "identitySources": [
+        "https://ucrisportal.univie.ac.at/en/persons/anton-mellit/",
+        "https://mat.univie.ac.at/~mellit/",
+        "https://arxiv.org/abs/1905.10685",
+        "https://doi.org/10.1090/jams/893"
+      ],
+      "authorId": "A5055419764",
+      "url": "https://openalex.org/A5055419764",
+      "previousPublicSnapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5055419764",
+        "orcid": "https://orcid.org/0000-0003-1287-4728",
+        "url": "https://openalex.org/authors/A5055419764",
+        "authorApiUrl": "https://api.openalex.org/authors/A5055419764",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5055419764,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-23",
+        "articles": 36,
+        "works": 64,
+        "citations": 1411,
+        "hIndex": 20,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "balazs-szendroi": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "列表含代数几何、跨学科及出版目录，另有人文文章与书目版本待核。 OpenAlex 作者端 78 项，作品查询 65 项。累计引用归属范围仍有差异。",
+      "identitySources": [
+        "https://ucrisportal.univie.ac.at/en/persons/bal%C3%A1zs-szendroi/",
+        "https://homepage.univie.ac.at/balazs.szendroi/?page_id=34",
+        "https://doi.org/10.2140/gt.2008.12.1171"
+      ],
+      "authorId": "A5078229428",
+      "url": "https://openalex.org/A5078229428",
+      "previousPublicSnapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5078229428",
+        "orcid": "https://orcid.org/0000-0002-0092-4719",
+        "url": "https://openalex.org/authors/A5078229428",
+        "authorApiUrl": "https://api.openalex.org/authors/A5078229428",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5078229428,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-23",
+        "articles": 45,
+        "works": 78,
+        "citations": 2068,
+        "hIndex": 22,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "bernhard-lamel": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "FWF 2026 具名项目、ORCID 与 CR 论文源吻合。 OpenAlex 作者端 74 项，作品查询 67 项。累计引用归属范围仍有差异。",
+      "identitySources": [
+        "https://ucrisportal.univie.ac.at/en/persons/bernhard-lamel/",
+        "https://www.fwf.ac.at/en/research-radar/10.55776/PIN3112125",
+        "https://doi.org/10.1016/j.aim.2025.110639"
+      ],
+      "authorId": "A5004921586",
+      "url": "https://openalex.org/A5004921586"
+    },
+    "michael-eichmair": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "具名论文中的数学教育共同作者与本人教学项目有交叉。主页 START PDF 属整个项目、多位作者，不能当作者全表。 OpenAlex 作者端 47 项，作品查询 45 项。累计引用归属范围仍有差异。",
+      "identitySources": [
+        "https://ucrisportal.univie.ac.at/en/persons/michael-eichmair/",
+        "https://homepage.univie.ac.at/michael.eichmair/",
+        "https://doi.org/10.4171/jems/584"
+      ],
+      "authorId": "A5060571568",
+      "url": "https://openalex.org/A5060571568"
+    },
+    "daniele-semola": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "作者作品端书章 38 项，包含 Springer 书的分章节。以作者书目完整分册记录已刊或接受期刊论文。 OpenAlex 作者端 75 项，作品查询 72 项。累计引用归属范围仍有差异。",
+      "identitySources": [
+        "https://ucrisportal.univie.ac.at/en/persons/daniele-semola/",
+        "https://www.univie.ac.at/aktuelles/neue-professuren/detail/semola-daniele",
+        "https://doi.org/10.1002/cpa.21849"
+      ],
+      "authorId": "A5048186592",
+      "url": "https://openalex.org/A5048186592"
+    },
+    "michael-kunzinger": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "u:cris ORCID 和学者网站的 Lorentzian length spaces 互证。 OpenAlex 作者端 105 项，作品查询 95 项。累计引用归属范围仍有差异。",
+      "identitySources": [
+        "https://ucrisportal.univie.ac.at/en/persons/michael-kunzinger/",
+        "https://ef-geometry.univie.ac.at/team/",
+        "https://doi.org/10.1007/s10455-018-9633-1"
+      ],
+      "authorId": "A5091121013",
+      "url": "https://openalex.org/A5091121013"
+    },
+    "roland-steinbauer": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "u:cris ORCID、数学物理作者主页和具名作品相符。档案包含多书章、学科教育和预印本。 OpenAlex 作者端 146 项，作品查询 109 项。累计引用归属范围仍有差异。",
+      "identitySources": [
+        "https://ucrisportal.univie.ac.at/en/persons/roland-steinbauer/",
+        "https://ef-geometry.univie.ac.at/team/",
+        "https://doi.org/10.1088/0264-9381/23/10/r01"
+      ],
+      "authorId": "A5003456365",
+      "url": "https://openalex.org/A5003456365"
+    },
+    "stefan-haller": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "数学 ORCID 与具名 FWF 课题匹配，另一个相似作者 A5054674811 的作品为电路与纳米工程。 OpenAlex 作者端 41 项，作品查询 35 项。累计引用归属范围仍有差异。",
+      "identitySources": [
+        "https://ucrisportal.univie.ac.at/en/persons/stefan-haller/",
+        "https://mat.univie.ac.at/~stefan/cv.html",
+        "https://doi.org/10.1023/a:1006650124434"
+      ],
+      "authorId": "A5011409985",
+      "url": "https://openalex.org/A5011409985",
+      "alternativeAuthorIds": [
+        "A5054674811"
+      ]
+    },
+    "herwig-hauser": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "奇点及 Artin 正式作品和本人主页一致。档案会议及期刊混杂，需逐项排除同名。 OpenAlex 作者端 210 项，作品查询 195 项。累计引用归属范围仍有差异。",
+      "identitySources": [
+        "https://ucrisportal.univie.ac.at/en/persons/herwig-hauser/",
+        "https://homepage.univie.ac.at/herwig.hauser/",
+        "https://doi.org/10.1007/pl00012443"
+      ],
+      "authorId": "A5084460617",
+      "url": "https://openalex.org/A5084460617"
+    },
+    "olivia-constantin": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "Fock 空间作者档，单项学位论文及专书章节。该关联方向避免计成复几何主名单。 OpenAlex 作者端 30 项，作品查询 29 项。累计引用归属范围仍有差异。",
+      "identitySources": [
+        "https://ufind.univie.ac.at/en/person.html?id=34951",
+        "https://mathematik.univie.ac.at/en/research/analysis-geometric-structures-and-mathematical-physics/",
+        "https://doi.org/10.1090/s0002-9939-2012-11541-2"
+      ],
+      "authorId": "A5058972153",
+      "url": "https://openalex.org/A5058972153"
+    },
+    "chiara-rigoni": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "以项目组、书目与曲率 RCD 论文核本人，作者计量与作品查询仍有较大差异。 OpenAlex 作者端 26 项，作品查询 16 项。累计引用归属范围仍有差异。",
+      "identitySources": [
+        "https://ucrisportal.univie.ac.at/en/persons/chiara-rigoni/",
+        "https://ef-geometry.univie.ac.at/team/",
+        "https://doi.org/10.1016/j.matpur.2022.02.002"
+      ],
+      "authorId": "A5079798819",
+      "url": "https://openalex.org/A5079798819"
+    },
+    "andreas-cap": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "本人主页和 u:cris ORCID 一致。OpenAlex 作者端 132 项，作品端 102，含课程、重复题录及出版物混标。本人直链的 Scholar 核得 All 3672 引用。",
+      "identitySources": [
+        "https://ucrisportal.univie.ac.at/en/persons/andreas-cap/",
+        "https://www.mat.univie.ac.at/~cap/research.html",
+        "https://doi.org/10.2307/3062111"
+      ],
+      "authorId": "A5019803024",
+      "url": "https://openalex.org/A5019803024"
+    },
+    "weixia-zhu": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "FWF 可靠 ORCID 与 CR 工作属本人，具名档亦含 harmonic number／Euler sums 旧条目，归属仍核。高位近名档为化学和材料。",
+      "identitySources": [
+        "https://ufind.univie.ac.at/en/person.html?id=114624",
+        "https://complex.univie.ac.at/index.php?id=166221&L=0",
+        "https://doi.org/10.1007/s00208-025-03134-5"
+      ],
+      "authorId": "A5090778447",
+      "url": "https://openalex.org/A5090778447",
+      "alternativeAuthorIds": [
+        "A5067399689",
+        "A5103687814"
+      ]
+    },
+    "hendrik-herrmann": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "三份高位近名 OpenAlex 档分别是生物、化学和临床材料。已核 Szegő kernels 两条代表作有本人署名但作者 ID 空缺，尚未得到数学档。",
+      "identitySources": [
+        "https://ucrisportal.univie.ac.at/en/persons/hendrik-herrmann/",
+        "https://complex.univie.ac.at/index.php?id=7675&L=0",
+        "https://doi.org/10.4310/mrl.2022.v29.n1.a6"
+      ],
+      "alternativeAuthorIds": [
+        "A5034289450",
+        "A5050068185",
+        "A5108834692"
+      ]
+    },
+    "thomas-korber": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "三份近名档未经 ORCID 与具名论文确认。已用作者主页完整十二篇刊物分栏，公开累计引用暂待核。",
+      "identitySources": [
+        "https://geometricpde.univie.ac.at/people",
+        "https://www.mat.univie.ac.at/~koerber/",
+        "https://arxiv.org/abs/2303.12200"
+      ],
+      "alternativeAuthorIds": [
+        "A5085098777",
+        "A5139371728",
+        "A5093913514"
       ]
     }
   }
