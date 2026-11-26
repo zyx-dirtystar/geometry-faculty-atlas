@@ -6747,14 +6747,54 @@
     {
       "id": "hu-berlin",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 0。 已读取代数几何组旧版名册作线索，并用现行个人主页复核一位现任教授。旧条目和院系其他几何分组仍待对账。",
+      "coverageNote": "已解析 4/11 个登记来源，10 条任职或方向待核。 已收录 10 位学者，个人主页 10、CV 4、指标 9。 AGNES 全表读取 431 个具名行，其中 417 个去重且可提取完整 ID。教学索引有历史条目且缺部分当期教席，作为补证。另核 MATH+ 数学分栏、2026–27 课程、数学研究报告、RTG 2965 的 HU 分栏、KMPB 和 RTG 2575 人员组。Schüth、Wendl、Walpuski、Mohnke 的几何教学和研究分别核实。Thomas Krämer 现为 Hamburg 教授，Floccari 于 2025-10 起在本校为博士后，Bakker 现属 UIC。院系主站德英目录和物理总入口遇 Anubis，现行各职类另用具名档补查。RTG 中部分联属成员的聘期和研究待核，CS／交叉课题组和正式学术任职的整体范围仍需补证。",
       "rosterLinks": [
+        [
+          "AGNES · Mathematics personnel index",
+          "https://agnes.hu-berlin.de/lupo/rds?state=verpublish&publishContainer=lecturePersonalList&fachrichtung=Mathematisch-Naturwissenschaftliche%20Fakult%C3%A4t,%20Institut%20f%C3%BCr%20Mathematik&publishid=9458"
+        ],
+        [
+          "AGNES · 2026–27 algebraic and differential geometry courses",
+          "https://agnes.hu-berlin.de/lupo/rds?P.vx=kurz&root120262=342437%7C337990%7C333007%7C337609&search=1&state=wtree"
+        ],
+        [
+          "Kolleg Mathematik Physik Berlin · named members",
+          "https://kmpb.physik.hu-berlin.de/index.php/members/"
+        ],
+        [
+          "Institute of Mathematics · German department directory",
+          "https://www.mathematik.hu-berlin.de/de/front-page"
+        ],
+        [
+          "MATH+ · HU Berlin Department of Mathematics",
+          "https://mathplus.de/about-us/members/faculty/"
+        ],
+        [
+          "MATH+ · HU retired and memorial faculty",
+          "https://mathplus.de/about-us/members/faculty/"
+        ],
+        [
+          "Institute of Physics · official research entry",
+          "https://www.physik.hu-berlin.de/de/forschung"
+        ],
         [
           "Algebraic Geometry group · older faculty archive",
           "https://www.math.hu-berlin.de/~farkas/alggeomgroup/"
+        ],
+        [
+          "HU Research Report · mathematics research groups",
+          "https://edoc.hu-berlin.de/bitstreams/cdfb705e-3716-46d8-bda8-95ba2b42a6d9/download"
+        ],
+        [
+          "RTG 2575 · current public PI, doctoral and postdoctoral sections",
+          "https://www2.hu-berlin.de/rtg2575/members/principal-investigators/"
+        ],
+        [
+          "RTG 2965 · Humboldt-affiliated members",
+          "https://sites.google.com/view/rtg-2965/members"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-26"
     },
     {
       "id": "uq",
@@ -29719,48 +29759,640 @@
       "recordStatus": "directory"
     },
     {
-      "id": "gavril-farkas",
-      "name": "Gavril Farkas",
+      "id": "bruno-klingler",
+      "name": "Bruno Klingler",
       "aliases": [],
       "affiliations": [
         {
           "schoolId": "hu-berlin",
-          "department": "数学系",
-          "title": "Professor of Algebraic Geometry",
-          "url": "https://www.mathematik.hu-berlin.de/~farkas/",
+          "department": "Institut für Mathematik",
+          "title": "Einstein Professor of Arithmetic and Algebraic Geometry",
+          "url": "https://www.einsteinfoundation.de/fellows-projekte/einstein-fellows-und-professorinnen/einstein-professoren/bruno-klingler",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://www2.mathematik.hu-berlin.de/~klingleb/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "核对本人主页 https://www2.mathematik.hu-berlin.de/~klingleb/、Einstein 基金会和 FIS 项目页 与姓名 CV／Lebenslauf 搜索，公开履历片段可读，未发现独立公开 CV。",
+      "publicationsUrl": "https://www2.mathematik.hu-berlin.de/~klingleb/papers.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "Einstein 基金会与 Hodge loci 论文 DOI 互证，最高引 Lorentzian completeness 在本人早期研究清单。 OpenAlex 全语料含附材和撤回项的作品端 43。核心语料 article 23。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5033207774",
+          "url": "https://openalex.org/authors/A5033207774",
+          "authorApiUrl": "https://api.openalex.org/authors/A5033207774",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5033207774,type:article&corpus=core&per_page=1&select=id",
+          "articles": 23,
+          "works": 43,
+          "citations": 970,
+          "checkedAt": "2026-11-26",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Tame topology of arithmetic quotients and algebraicity of Hodge loci",
+          "year": 2020,
+          "url": "https://doi.org/10.1090/jams/952",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic and complex geometry, period maps, Hodge theory, arithmetic geometry and o-minimality",
+          "url": "https://www2.mathematik.hu-berlin.de/~klingleb/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "chris-wendl",
+      "name": "Chris Wendl",
+      "aliases": [
+        "Christopher Wendl"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "hu-berlin",
+          "department": "Institut für Mathematik",
+          "title": "Professor of Differential Geometry and Global Analysis",
+          "url": "https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&personal.pid=20159",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.mathematik.hu-berlin.de/~wendl/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.mathematik.hu-berlin.de/~wendl/vita.html",
+      "cvType": "公开 CV（简版）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.mathematik.hu-berlin.de/~wendl/publications.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "HU 公开 short vita、本人著作和 punctured holomorphic curves 刊本确定 ID。高引 Introduction: Motivation 为该数学家 Cambridge 书章，计量按数据库作品分类。 OpenAlex 全语料含附材和撤回项的作品端 53。核心语料 article 13。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5004713685",
+          "url": "https://openalex.org/authors/A5004713685",
+          "authorApiUrl": "https://api.openalex.org/authors/A5004713685",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5004713685,type:article&corpus=core&per_page=1&select=id",
+          "articles": 13,
+          "works": 53,
+          "citations": 1598,
+          "checkedAt": "2026-11-26",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Automatic transversality and orbifolds of punctured holomorphic curves in dimension four",
+          "year": 2010,
+          "url": "https://doi.org/10.4171/cmh/199",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, symplectic and contact topology, pseudoholomorphic curves, symplectic field theory and filling problems",
+          "url": "https://www.mathematik.hu-berlin.de/~wendl/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "dorothee-schuth",
+      "name": "Dorothee Schüth",
+      "aliases": [
+        "Dorothee Schueth"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "hu-berlin",
+          "department": "Institut für Mathematik",
+          "title": "Professor of Mathematics",
+          "url": "https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&personal.pid=17703",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.mathematik.hu-berlin.de/~schueth/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.mathematik.hu-berlin.de/~schueth/cv2.html",
+      "cvType": "公开 CV（HTML）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.mathematik.hu-berlin.de/~schueth/research.html",
+      "publicationCounts": [
+        {
+          "value": 23,
+          "url": "https://www.mathematik.hu-berlin.de/~schueth/research.html",
+          "scope": "本人校方 Research 的 Papers 栏共 30 项，逐题名及刊本去重。计 1995–2026 的 23 篇期刊刊本，论文集章节、会议文本和未独立发表的学位论文不计。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "校方简介列数学谱几何与 Bonn 履历。A5081784245 与 A5007837755 都含本人研究，存在 Isospectral manifolds with different local geometries 的两版本，不能合计。校方本人论文页完整栏回退。 OpenAlex 全语料含附材和撤回项的作品端 27。核心语料 article 22。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Continuous Families of Isospectral Metrics on Simply Connected Manifolds",
+          "year": 1999,
+          "url": "https://doi.org/10.2307/121026",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, spectral geometry of Riemannian manifolds, isospectral deformations and heat invariants",
+          "url": "https://www.mathematik.hu-berlin.de/~schueth/research.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "elmar-groe-klonne",
+      "name": "Elmar Große-Klönne",
+      "aliases": [
+        "Elmar Gross-Klönne"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "hu-berlin",
+          "department": "Institut für Mathematik",
+          "title": "Professor of Mathematics (Arithmetic Geometry)",
+          "url": "https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&personal.pid=17955",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
-      "tags": [
-        "-Professor of Algebraic Geometry"
+      "tags": [],
+      "homepage": "https://www.math.hu-berlin.de/~zyska/Grosse-Kloenne/Welcome1.html",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "核对本人主页 https://www.math.hu-berlin.de/~zyska/Grosse-Kloenne/Welcome1.html、HU FIS 具名项目和 AGNES 2026–27 教学档 与姓名 CV／Lebenslauf 搜索，公开履历片段可读，未发现独立公开 CV。",
+      "publicationsUrl": "https://www.math.hu-berlin.de/~zyska/Grosse-Kloenne/Preprints.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "HU 个人站和 AGNES，核对 Drinfel’d 对称空间与 p 进刚性上同调高引条目。 OpenAlex 全语料含附材和撤回项的作品端 31。核心语料 article 20。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5040373321",
+          "url": "https://openalex.org/authors/A5040373321",
+          "authorApiUrl": "https://api.openalex.org/authors/A5040373321",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5040373321,type:article&corpus=core&per_page=1&select=id",
+          "articles": 20,
+          "works": 31,
+          "citations": 357,
+          "checkedAt": "2026-11-26",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        }
       ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Finiteness of de Rham cohomology in rigid analysis",
+          "year": 2002,
+          "url": "https://doi.org/10.1215/s0012-7094-02-11312-x",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry, p-adic rigid analytic spaces, overconvergent cohomology and p-adic representation theory",
+          "url": "https://www.math.hu-berlin.de/~zyska/Grosse-Kloenne/Welcome1.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "gavril-farkas",
+      "name": "Gavril Farkas",
+      "aliases": [
+        "Gavril-Marius Farkas",
+        "Gavril Marius Farkas"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "hu-berlin",
+          "department": "Institut für Mathematik",
+          "title": "Einstein Professor of Algebraic Geometry",
+          "url": "https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&personal.pid=17848",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
       "homepage": "https://www.mathematik.hu-berlin.de/~farkas/",
       "homepageStatus": null,
       "cvUrl": "https://www.mathematik.hu-berlin.de/~farkas/vita2.pdf",
-      "cvType": null,
+      "cvType": "公开 CV",
       "cvStatus": null,
       "publicationsUrl": "https://www.mathematik.hu-berlin.de/~farkas/",
       "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "opportunities": [
         {
-          "text": "-Professor of Algebraic Geometry",
-          "url": "https://www.math.hu-berlin.de/~farkas/alggeomgroup/"
+          "label": "RTG 2965 · 洪堡与汉诺威联合博士项目",
+          "type": "博士",
+          "status": "项目线索",
+          "url": "https://sites.google.com/view/rtg-2965",
+          "checkedAt": "2026-11-26"
         },
         {
-          "text": "Algebraic geometry, moduli of curves, enumerative geometry and syzygies",
+          "label": "RTG 2965 · 2026 年 10 月入学招聘",
+          "type": "博士",
+          "status": "已截止",
+          "url": "https://sites.google.com/view/rtg-2965/open-positions",
+          "deadline": "2026-01-01",
+          "checkedAt": "2026-11-26"
+        },
+        {
+          "label": "DR/140/26 · 代数几何研究职位",
+          "type": "博士后",
+          "status": "已截止",
+          "url": "https://www.mathjobs.org/jobs/list/28805",
+          "deadline": "2026-09-30",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "identityNote": "本人数学系履历、当前 FIS 和 Prym／Koszul 刊本匹配。Roma Tre 论文署名历史不作现任推断。 OpenAlex 全语料含附材和撤回项的作品端 130。核心语料 article 74。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5068972048",
+          "url": "https://openalex.org/authors/A5068972048",
+          "authorApiUrl": "https://api.openalex.org/authors/A5068972048",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5068972048,type:article&corpus=core&per_page=1&select=id",
+          "articles": 74,
+          "works": 130,
+          "citations": 2174,
+          "checkedAt": "2026-11-26",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The Kodaira dimension of the moduli space of Prym varieties",
+          "year": 2010,
+          "url": "https://doi.org/10.4171/jems/214",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex algebraic geometry, moduli of curves, K3 surfaces, enumerative geometry, syzygies and Prym varieties",
           "url": "https://www.mathematik.hu-berlin.de/~farkas/"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "gaetan-borot",
+      "name": "Gaëtan Borot",
+      "aliases": [
+        "Gaetan Borot"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "hu-berlin",
+          "department": "Institut für Mathematik; Institut für Physik",
+          "title": "Professor of Mathematics and Physics",
+          "url": "https://www2.hu-berlin.de/rtg2575/members/principal-investigators/gaetan-borot/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://www2.hu-berlin.de/rtg2575/members/principal-investigators/gaetan-borot/",
+      "homepageStatus": "院系 MATH+ 所链个人入口返回 Anubis，大学研究训练组的具名公开档可读。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "RTG 2575 具名页有教育与任职时间线。查学院个人入口、项目页和 MPIM 履历，独立公开 CV 未核到。",
+      "publicationsUrl": "https://inspirehep.net/authors/1072776",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "HU RTG 2575 正式教授履历、早期 MPIM 与 Eynard 合署的 Hurwitz 数和拓扑递归作品匹配。 OpenAlex 全语料含附材和撤回项的作品端 85。核心语料 article 46。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5088684979",
+          "url": "https://openalex.org/authors/A5088684979",
+          "authorApiUrl": "https://api.openalex.org/authors/A5088684979",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5088684979,type:article&corpus=core&per_page=1&select=id",
+          "articles": 46,
+          "works": 85,
+          "citations": 2095,
+          "checkedAt": "2026-11-26",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "A matrix model for simple Hurwitz numbers, and topological recursion",
+          "year": 2010,
+          "url": "https://doi.org/10.1016/j.geomphys.2010.10.017",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and complex geometry of moduli spaces of curves, topological recursion, enumerative geometry and spectral curves",
+          "url": "https://www2.hu-berlin.de/rtg2575/members/principal-investigators/gaetan-borot/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jan-plefka",
+      "name": "Jan Plefka",
+      "aliases": [
+        "Jan Christoph Plefka"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "hu-berlin",
+          "department": "Institut für Physik",
+          "title": "Professor of Quantum Field and String Theory",
+          "url": "https://fis.hu-berlin.de/converis/portal/detail/Person/400261797?lang=en_GB",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://qft.physik.hu-berlin.de/research/elementary-particle-physics-group/jan-plefka/",
+      "homepageStatus": null,
+      "cvUrl": "https://people.physik.hu-berlin.de/~plefka/ECuVi.pdf",
+      "cvType": "公开 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://people.physik.hu-berlin.de/~plefka/Publ.pdf",
+      "publicationCounts": [
+        {
+          "value": 93,
+          "url": "https://people.physik.hu-berlin.de/~plefka/Publ.pdf",
+          "scope": "本人 Publications and Talks 第 4 栏 Articles 的 94 项逐题名与刊本去重。编号 68 对应两篇不同论文。排除仅有预印本的第 16 项，已核验 87、92、93 的刊本分别为 DOI 10.1103/PhysRevD.109.124046、10.1103/4dvk-nglx、10.1007/JHEP08(2026)064。范围为第 4 栏。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "机构正式具名简历、Nature Calabi–Yau 论文与 ORCID 互证。至少三份 OpenAlex 档有同一数学物理作者或共用 ORCID，累计量不能合计。本人学校直接链接 Scholar。 OpenAlex 全语料含附材和撤回项的作品端 92。核心语料 article 68。",
+      "metrics": [
+        {
+          "source": "Google Scholar",
+          "authorId": "e4hzXVoAAAAJ",
+          "url": "https://scholar.google.com/citations?user=e4hzXVoAAAAJ&hl=en",
+          "citations": 9612,
+          "checkedAt": "2026-11-26",
+          "citationScope": "Google Scholar All 列累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Emergence of Calabi–Yau manifolds in high-precision black-hole scattering",
+          "year": 2025,
+          "url": "https://doi.org/10.1038/s41586-025-08984-2",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex algebraic geometry in gravitational amplitudes, Calabi–Yau periods, geometric methods for perturbative general relativity and gauge theory",
+          "url": "https://colloquia.to.infn.it/2025/20260515/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "klaus-mohnke",
+      "name": "Klaus Mohnke",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hu-berlin",
+          "department": "Institut für Mathematik",
+          "title": "Professor of Mathematics",
+          "url": "https://mathplus.de/about-us/members/faculty/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.hu-berlin.de/~mohnke/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "核对本人主页 https://www.math.hu-berlin.de/~mohnke/、HU 年度报告、2026–27 课程与 MATH+ 数学分栏 与姓名 CV／Lebenslauf 搜索，公开履历片段可读，未发现独立公开 CV。",
+      "publicationsUrl": "https://www.math.hu-berlin.de/~mohnke/research/papers.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "HU 个人站、MATH+ 当前名单及本人同合作者 Cieliebak 的 Gromov–Witten 刊本对应。 OpenAlex 全语料含附材和撤回项的作品端 19。核心语料 article 11。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5017748113",
+          "url": "https://openalex.org/authors/A5017748113",
+          "authorApiUrl": "https://api.openalex.org/authors/A5017748113",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5017748113,type:article&corpus=core&per_page=1&select=id",
+          "articles": 11,
+          "works": 19,
+          "citations": 615,
+          "checkedAt": "2026-11-26",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Symplectic hypersurfaces and transversality in Gromov-Witten theory",
+          "year": 2007,
+          "url": "https://doi.org/10.4310/jsg.2007.v5.n3.a2",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, symplectic and contact geometry, pseudoholomorphic curves, Lagrangian embeddings and Gromov-Witten theory",
+          "url": "https://www.math.hu-berlin.de/~mohnke/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "olaf-hohm",
+      "name": "Olaf Hohm",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hu-berlin",
+          "department": "Institut für Physik",
+          "title": "Professor of Mathematical Physics",
+          "url": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www2.physik.hu-berlin.de/alphaprime/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "核对本人主页 https://www2.physik.hu-berlin.de/alphaprime/、KMPB 与大学理论物理研究组 与姓名 CV／Lebenslauf 搜索，公开履历片段可读，未发现独立公开 CV。",
+      "publicationsUrl": "https://www2.physik.hu-berlin.de/alphaprime/ohlist.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "HU 官方组长主页和人事、double field theory JHEP 论文与合作者 Hull、Zwiebach 互证。 OpenAlex 全语料含附材和撤回项的作品端 172。核心语料 article 119。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5047589697",
+          "url": "https://openalex.org/authors/A5047589697",
+          "authorApiUrl": "https://api.openalex.org/authors/A5047589697",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5047589697,type:article&corpus=core&per_page=1&select=id",
+          "articles": 119,
+          "works": 172,
+          "citations": 10131,
+          "checkedAt": "2026-11-26",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Generalized metric formulation of double field theory",
+          "year": 2010,
+          "url": "https://doi.org/10.1007/jhep08(2010)008",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and generalized geometry in double field theory, geometric structures on doubled spaces and gravity",
+          "url": "https://www2.physik.hu-berlin.de/alphaprime/research.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "thomas-walpuski",
+      "name": "Thomas Walpuski",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "hu-berlin",
+          "department": "Institut für Mathematik",
+          "title": "Professor and Chair of Geometry and Topology",
+          "url": "https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&moduleCall=webInfo&publishConfFile=webInfoPerson&publishSubDir=personal&personal.pid=30282",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://walpu.ski/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "核对本人主页 https://walpu.ski/、学校人事档和 Simons 特殊整体群协作 与姓名 CV／Lebenslauf 搜索，公开履历片段可读，未发现独立公开 CV。",
+      "publicationsUrl": "https://walpu.ski/Research/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "现任教席、本人 Research 页面、Simons 合作及 G2-instantons DOI 互证。 OpenAlex 全语料含附材和撤回项的作品端 28。核心语料 article 20。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5043492778",
+          "url": "https://openalex.org/authors/A5043492778",
+          "authorApiUrl": "https://api.openalex.org/authors/A5043492778",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5043492778,type:article&corpus=core&per_page=1&select=id",
+          "articles": 20,
+          "works": 28,
+          "citations": 698,
+          "checkedAt": "2026-11-26",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "G2–instantons over twisted connected sums",
+          "year": 2015,
+          "url": "https://doi.org/10.2140/gt.2015.19.1263",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, geometric analysis, gauge theory, G2 manifolds, special holonomy and Seiberg–Witten theory",
+          "url": "https://walpu.ski/Research/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {

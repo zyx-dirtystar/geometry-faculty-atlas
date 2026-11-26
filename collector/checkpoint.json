@@ -4942,6 +4942,76 @@
       "note": ""
     },
     {
+      "id": "hu-berlin-agnes-listed-people-b56",
+      "school": "hu-berlin",
+      "url": "https://agnes.hu-berlin.de/lupo/rds?state=verpublish&publishContainer=lecturePersonalList&fachrichtung=Mathematisch-Naturwissenschaftliche%20Fakult%C3%A4t,%20Institut%20f%C3%BCr%20Mathematik&publishid=9458",
+      "label": "AGNES · Mathematics personnel index",
+      "status": "reference",
+      "count": 417,
+      "checked_at": "2026-11-26",
+      "note": "全表读取 431 条具名行，提取去重后 417 个完整个人 ID。含历史课程人员、访客和现任。现任 Farkas、Schüth 等分别出现在本系统具名任职或教学条目，人员索引以独立补证收录。"
+    },
+    {
+      "id": "hu-berlin-geo-term-b56",
+      "school": "hu-berlin",
+      "url": "https://agnes.hu-berlin.de/lupo/rds?P.vx=kurz&root120262=342437%7C337990%7C333007%7C337609&search=1&state=wtree",
+      "label": "AGNES · 2026–27 algebraic and differential geometry courses",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "课程树的 2026–27 冬季学期明确，用于核对几何专题与实际教学，授课事实补证在校关系。"
+    },
+    {
+      "id": "hu-berlin-kmpb-b56",
+      "school": "hu-berlin",
+      "url": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+      "label": "Kolleg Mathematik Physik Berlin · named members",
+      "status": "parsed",
+      "count": 15,
+      "checked_at": "2026-11-26",
+      "note": "读全员名单及各卡实际部门，区分校内数学、跨聘物理与 DESY 独立单位。"
+    },
+    {
+      "id": "hu-berlin-main-b56",
+      "school": "hu-berlin",
+      "url": "https://www.mathematik.hu-berlin.de/de/front-page",
+      "label": "Institute of Mathematics · German department directory",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "德语入口原始响应返回 Anubis 页面，英语首页和德语 /personen 亦同。已采用 AGNES、MATH+、联合项目和具名页交叉核对。"
+    },
+    {
+      "id": "hu-berlin-mathplus-b56",
+      "school": "hu-berlin",
+      "url": "https://mathplus.de/about-us/members/faculty/",
+      "label": "MATH+ · HU Berlin Department of Mathematics",
+      "status": "parsed",
+      "count": 26,
+      "checked_at": "2026-11-26",
+      "note": "课题群现行 HU 数学分栏 26 人。带 WIAS 和 PIK 标记者同步核实际任职，课题群会员资格另与大学岗位核。"
+    },
+    {
+      "id": "hu-berlin-mathplus-emeriti-b56",
+      "school": "hu-berlin",
+      "url": "https://mathplus.de/about-us/members/faculty/",
+      "label": "MATH+ · HU retired and memorial faculty",
+      "status": "reference",
+      "count": 10,
+      "checked_at": "2026-11-26",
+      "note": "核对退休与纪念分栏，并以学校历史和当前具名证据确定身份。"
+    },
+    {
+      "id": "hu-berlin-physics-dept-b56",
+      "school": "hu-berlin",
+      "url": "https://www.physik.hu-berlin.de/de/forschung",
+      "label": "Institute of Physics · official research entry",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "院系公开入口返回 Anubis，KMPB、引力与数学物理组、量子场论与弦论及 RTG 2575 可读，其他物理组仍待核。"
+    },
+    {
       "id": "hu-berlin-qs-roster",
       "school": "hu-berlin",
       "url": "https://www.math.hu-berlin.de/~farkas/alggeomgroup/",
@@ -4950,6 +5020,36 @@
       "count": 7,
       "checked_at": "2026-11-23",
       "note": ""
+    },
+    {
+      "id": "hu-berlin-report-b56",
+      "school": "hu-berlin",
+      "url": "https://edoc.hu-berlin.de/bitstreams/cdfb705e-3716-46d8-bda8-95ba2b42a6d9/download",
+      "label": "HU Research Report · mathematics research groups",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "数学研究页辨认代数与算术几何、微分几何、数学物理，以及应用研究分组。出版时间在当前学期之前，按现行组页和个人任职修正。"
+    },
+    {
+      "id": "hu-berlin-rtg-physics-b56",
+      "school": "hu-berlin",
+      "url": "https://www2.hu-berlin.de/rtg2575/members/principal-investigators/",
+      "label": "RTG 2575 · current public PI, doctoral and postdoctoral sections",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "当期 RTG 独立 PI、博士生、博士后目录与 KMPB 对照核到校内数学物理通道。当前项目宁列合作轨迹，正式职位另查大学资料。"
+    },
+    {
+      "id": "hu-berlin-rtg2965-b56",
+      "school": "hu-berlin",
+      "url": "https://sites.google.com/view/rtg-2965/members",
+      "label": "RTG 2965 · Humboldt-affiliated members",
+      "status": "parsed",
+      "count": 26,
+      "checked_at": "2026-11-26",
+      "note": "汉诺威校方连到联合项目主页，项目成员按院校与职级具名。逐条分开负责人、博士生、联属与过往。"
     },
     {
       "id": "iisc-math-source",
@@ -154479,6 +154579,662 @@
       }
     },
     {
+      "source": "hu-berlin-kmpb-b56",
+      "person_key": "agostinopatella",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Agostino Patella",
+        "title": "Kolleg Member",
+        "research": "",
+        "profile": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "homepage": "https://pages.cms.hu-berlin.de/lattice-field-theory/lft-website/people/agostino-patella/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-kmpb-b56",
+      "person_key": "angelaortega",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Angela Ortega",
+        "title": "Kolleg Member",
+        "research": "",
+        "profile": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "homepage": "https://www.mathematik.hu-berlin.de/de/personen/mitarb-vz/1683061",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-kmpb-b56",
+      "person_key": "annespiering",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Anne Spiering",
+        "title": "Kolleg Member",
+        "research": "",
+        "profile": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "homepage": "https://inspirehep.net/authors/1677147",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-kmpb-b56",
+      "person_key": "brunoklingler",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Bruno Klingler",
+        "title": "Kolleg Member",
+        "research": "",
+        "profile": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "homepage": "https://www.math.hu-berlin.de/~klingleb/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-kmpb-b56",
+      "person_key": "chriswendl",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Chris Wendl",
+        "title": "Kolleg Member",
+        "research": "",
+        "profile": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "homepage": "https://www.mathematik.hu-berlin.de/~wendl/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-kmpb-b56",
+      "person_key": "gaetanborot",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Gaëtan Borot",
+        "title": "Kolleg Member",
+        "research": "",
+        "profile": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "homepage": "https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/mathematische-physik/borot-mp-homepage",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-kmpb-b56",
+      "person_key": "gavrilfarkas",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Gavril Farkas",
+        "title": "Kolleg Member",
+        "research": "",
+        "profile": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "homepage": "https://www.mathematik.hu-berlin.de/~farkas/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-kmpb-b56",
+      "person_key": "janplefka",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Jan Plefka",
+        "title": "Kolleg Member",
+        "research": "",
+        "profile": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "homepage": "https://qft.physik.hu-berlin.de/research/elementary-particle-physics-group/jan-plefka/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-kmpb-b56",
+      "person_key": "johannesblumlein",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Johannes Blümlein",
+        "title": "Kolleg Member",
+        "research": "",
+        "profile": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "homepage": "https://www-zeuthen.desy.de/~blumlein/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-kmpb-b56",
+      "person_key": "matthiasstaudacher",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Matthias Staudacher",
+        "title": "Kolleg Member",
+        "research": "",
+        "profile": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "homepage": "https://www.mathematik.hu-berlin.de/~staudacher/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-kmpb-b56",
+      "person_key": "nicholfurey",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Nichol Furey",
+        "title": "Kolleg Member",
+        "research": "",
+        "profile": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "homepage": "https://www.furey.space/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-kmpb-b56",
+      "person_key": "olafhohm",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Olaf Hohm",
+        "title": "Kolleg Member",
+        "research": "",
+        "profile": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "homepage": "https://www2.physik.hu-berlin.de/alphaprime/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-kmpb-b56",
+      "person_key": "olafmuller",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Olaf Müller",
+        "title": "Kolleg Member",
+        "research": "",
+        "profile": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "homepage": "https://www.mathematik.hu-berlin.de/~mullerol/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-kmpb-b56",
+      "person_key": "thomaswalpuski",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Thomas Walpuski",
+        "title": "Kolleg Member",
+        "research": "",
+        "profile": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "homepage": "https://walpu.ski/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-kmpb-b56",
+      "person_key": "valentinaforini",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Valentina Forini",
+        "title": "Kolleg Member",
+        "research": "",
+        "profile": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "homepage": "https://qft.physik.hu-berlin.de/research/emmy-noether-research-group/valentina-forini/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://kmpb.physik.hu-berlin.de/index.php/members/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "alexandermielke",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Alexander Mielke",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "http://www.wias-berlin.de/people/mielke/?lang=0",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "andreasfiller",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Andreas Filler",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "http://didaktik.mathematik.hu-berlin.de/de/personen/professoren/filler",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "andreawalther",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Andrea Walther",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/mathematische-optimierung/andrea-walther",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "angelaortega",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Angela Ortega",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "https://www2.mathematik.hu-berlin.de/~ortega/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "barbarazwicknagl",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Barbara Zwicknagl",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/angewandte-analysis/b-zwicknagl",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "brunoklingler",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Bruno Klingler",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "https://www.mathematik.hu-berlin.de/de/personen/mitarb-vz/1690433",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "carentischendorf",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Caren Tischendorf",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "https://www.mathematik.hu-berlin.de/en/research/fields-of-research/appliedmath-ct/persons/tischendorf",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "carstencarstensen",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Carsten Carstensen",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "https://www.math.hu-berlin.de/%7Ecc/cc_homepage/cc/education.shtml",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "chriswendl",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Chris Wendl",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "https://www.mathematik.hu-berlin.de/~wendl/index.html",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "dirkbecherer",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Dirk Becherer",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/stochastik/stoch-employees/fp-prof-Becherer",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "dortekreher",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Dörte Kreher",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "http://www.applied-financial-mathematics.de/index.php/dorte-kreher",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "elmargrosseklonne",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Elmar Große-Klönne",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "http://www.math.hu-berlin.de/~zyska/Grosse-Kloenne/Welcome.html",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "falkhante",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Falk Hante",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/mathematische-optimierung/Falk-hante/falk-hante-fp",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "gaetanborot",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Gaëtan Borot",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/mathematische-physik/borot-mp-homepage",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "gavrilfarkas",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Gavril Farkas",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "http://www.mathematik.hu-berlin.de/%7Efarkas/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "jurgkramer",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Jürg Kramer",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "http://didaktik.mathematik.hu-berlin.de/de/personen/professoren/kramer",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "klausmohnke",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Klaus Mohnke",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "http://www.math.hu-berlin.de/%7Emohnke/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "maitewilkeberenguer",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Maite Wilke Berenguer",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "http://www.math.hu-berlin.de/~wilkemai",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "markusreiss",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Markus Reiß",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "https://www.mathematik.hu-berlin.de/de/personen/prof/1683017",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "matthiasstaudacher",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Matthias Staudacher",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "http://www.mathematik.hu-berlin.de/~staudacher/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "michaelhintermuller",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Michael Hintermüller",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "https://www.wias-berlin.de/people/hintermueller/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "olafmuller",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Olaf Müller",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "https://www.mathematik.hu-berlin.de/~mullerol/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "serhiyyanchuk",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Serhiy Yanchuk",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "https://www.pik-potsdam.de/members/serhiyya",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "thomaswalpuski",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Thomas Walpuski",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "https://www.mathematik.hu-berlin.de/de/personen/mitarb-vz/1693084",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "ulrichhorst",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Ulrich Horst",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "http://www.applied-financial-mathematics.de/index.php/ulrich-horst",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-mathplus-b56",
+      "person_key": "vladimirspokoiny",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Vladimir Spokoiny",
+        "title": "MATH+ Faculty Member",
+        "research": "",
+        "profile": "https://mathplus.de/about-us/members/faculty/",
+        "homepage": "http://www.wias-berlin.de/~spokoiny/",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://mathplus.de/about-us/members/faculty/",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
       "source": "hu-berlin-qs-roster",
       "person_key": "angelaortega",
       "school": "hu-berlin",
@@ -154588,6 +155344,422 @@
         "source_kind": "research",
         "source_url": "https://www.math.hu-berlin.de/~farkas/alggeomgroup/",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "andreaskretschmer",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Andreas Kretschmer",
+        "title": "RTG Associated Member",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "aniaotwinowska",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Ania Otwinowska",
+        "title": "RTG Associated Member",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "bogdancarasca",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Bogdan Carasca",
+        "title": "Doctoral Student",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "brunoklingler",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Bruno Klingler",
+        "title": "RTG Principal Investigator",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "https://sites.google.com/view/rtg-2965/members#h.7beqer5rzc2g",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "debjitbasu",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Debjit Basu",
+        "title": "RTG Associated Member",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "gaetanborot",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Gaëtan Borot",
+        "title": "RTG Principal Investigator",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "https://sites.google.com/view/rtg-2965/members#h.fya04987uyhq",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "gavrilfarkas",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Gavril Farkas",
+        "title": "RTG Principal Investigator",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "https://sites.google.com/view/rtg-2965/members#h.wduq88x8hao5",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "irenespelta",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Irene Spelta",
+        "title": "RTG Associated Member",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "joaquimribeiro",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Joaquim Ribeiro",
+        "title": "RTG Associated Member",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "joshualam",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Joshua Lam",
+        "title": "Former Associated Member",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "khanhhungnguyen",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Khanh Hung Nguyen",
+        "title": "Doctoral Student",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "maftunasamatboyeva",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Maftuna Samatboyeva",
+        "title": "Doctoral Student",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "niklasmartensen",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Niklas Martensen",
+        "title": "RTG Associated Member",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "paulbrommerwierig",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Paul Brommer-Wierig",
+        "title": "RTG Associated Member",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "pddrangelaortega",
+      "school": "hu-berlin",
+      "record": {
+        "name": "PD Dr. Angela Ortega",
+        "title": "RTG Principal Investigator",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "https://sites.google.com/view/rtg-2965/members#h.qbkyk2ml61aj",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "riccardoredigolo",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Riccardo Redigolo",
+        "title": "Doctoral Student",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "salvatorefloccari",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Salvatore Floccari",
+        "title": "RTG Associated Member",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "samirgeiger",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Samir Geiger",
+        "title": "Doctoral Student",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "silviaragni",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Silvia Ragni",
+        "title": "Doctoral Student",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "sophiabugarija",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Sophia Bugarija",
+        "title": "RTG Associated Member",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "theodosisalexandrou",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Theodosis Alexandrou",
+        "title": "RTG Associated Member",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "tommasolunghi",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Tommaso Lunghi",
+        "title": "Doctoral Student",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "vincentariksoy",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Vincent Ariksoy",
+        "title": "Doctoral Student",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "vladrobu",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Vlad Robu",
+        "title": "Doctoral Student",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "yilinni",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Yilin Ni",
+        "title": "RTG Associated Member",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "hu-berlin-rtg2965-b56",
+      "person_key": "zhixingchen",
+      "school": "hu-berlin",
+      "record": {
+        "name": "Zhixing Chen",
+        "title": "Doctoral Student",
+        "research": "",
+        "profile": "https://sites.google.com/view/rtg-2965/members",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "center",
+        "source_url": "https://sites.google.com/view/rtg-2965/members",
+        "checked_at": "2026-11-26"
       }
     },
     {
