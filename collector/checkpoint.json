@@ -127,9 +127,29 @@
       "url": "https://www.ualberta.ca/en/computing-science/research/research-areas/algorithmics.html",
       "label": "Computing Science · Algorithmics",
       "status": "reference",
+      "count": 6,
+      "checked_at": "2026-11-26",
+      "note": "院系公开专题动态名录，其人数与链接用院系网页引用的公开数据核对。实际职务复核校级具名卡，荣休单列。"
+    },
+    {
+      "id": "alberta-aug-research26",
+      "school": "alberta",
+      "url": "https://apps.ualberta.ca/directory/search/department/330150",
+      "label": "Augustana · Research or Teaching & Research",
+      "status": "reference",
       "count": 0,
-      "checked_at": "2026-11-25",
-      "note": "校方专题给出研究领域与课程，没有单列几何学现任名册。"
+      "checked_at": "2026-11-26",
+      "note": "对账校级目录 Research or Teaching & Research 分栏 20 条。另核 Brock 具名任命，旧任 Augustana 数学与物理教授 Peter Berg 2023 年已转任。"
+    },
+    {
+      "id": "alberta-aug-science26",
+      "school": "alberta",
+      "url": "https://apps.ualberta.ca/directory/search/department/330240",
+      "label": "Augustana · Sciences (university appointment directory)",
+      "status": "reference",
+      "count": 8,
+      "checked_at": "2026-11-26",
+      "note": "校级目录 Sciences 48 条教学、科研与行政记录，一页无续页。核查数学、物理及计算方向对应的 8 位。"
     },
     {
       "id": "alberta-august-dept26",
@@ -142,6 +162,46 @@
       "note": "对照校区 Department of Science、Computing Science and Mathematics 方向与具名档案，查到这两位数学教职。"
     },
     {
+      "id": "alberta-chem-adjunct26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/en/chemistry/people/adjunct-faculty.html",
+      "label": "Chemistry · Adjunct Faculty",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "交叉检查理论物理研究所列出的化学来源系，包括独立联属人员，现行化学网页主要按分子和材料研究组织。"
+    },
+    {
+      "id": "alberta-chem-emeriti26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/en/chemistry/people/emeriti-faculty/index.html",
+      "label": "Chemistry · Emeriti and Retired Faculty",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "从学院 Faculty 页面进入其当前退休分栏，对照理论物理所早期成员的荣休范围。"
+    },
+    {
+      "id": "alberta-chem-faculty26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/en/chemistry/people/faculty.html",
+      "label": "Chemistry · Faculty",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "逐行读取 34 个在职条目所列方向。理论交叉集中于分子结构、光谱和计算化学。"
+    },
+    {
+      "id": "alberta-cs-central26",
+      "school": "alberta",
+      "url": "https://apps.ualberta.ca/directory/search/department/360300",
+      "label": "Computing Science · university appointment directory",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "校级计算机系 714 条岗位与学生记录，同页无续页；图形、算法和视觉专题人员的现任从此表与具名卡交叉确认。"
+    },
+    {
       "id": "alberta-cs-faculty26",
       "school": "alberta",
       "url": "https://www.ualberta.ca/en/computing-science/faculty-and-staff/faculty-teaching-staff.html?1=Faculty",
@@ -150,6 +210,36 @@
       "count": 0,
       "checked_at": "2026-11-25",
       "note": "校方现行人员目录与图形、算法和科研实验室交叉。"
+    },
+    {
+      "id": "alberta-cs-labs26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/en/computing-science/research/research-labs.html",
+      "label": "Computing Science · Research Labs",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "核对 18 个实验室分栏及其中图形、视觉、多媒体和计算交叉人员，区分现任职务与旧实验室名单。"
+    },
+    {
+      "id": "alberta-cs-research-data26",
+      "school": "alberta",
+      "url": "https://docs.google.com/spreadsheets/d/1LHOg56j3IT1o5gmyo3e1qSFT1BjuKVuZ1Q1dlFCt68Y/edit",
+      "label": "Computing Science · public research-area data",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "院系专题网页用于显示 People 的同一公开数据。逐一读取 Graphics、Algorithmics 和 Vision 三种标记，共 13 个不同学校人员档案。"
+    },
+    {
+      "id": "alberta-cs-vision26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/en/computing-science/research/research-areas/computer-vision-and-multimedia-communications.html",
+      "label": "Computing Science · Vision",
+      "status": "reference",
+      "count": 7,
+      "checked_at": "2026-11-26",
+      "note": "院系公开专题动态名录，其人数与链接用院系网页引用的公开数据核对。实际职务复核校级具名卡，荣休单列。"
     },
     {
       "id": "alberta-full-audit-source",
@@ -167,9 +257,9 @@
       "url": "https://www.ualberta.ca/en/computing-science/research/research-areas/computer-graphics.html",
       "label": "Computing Science · Computer Graphics",
       "status": "reference",
-      "count": 0,
-      "checked_at": "2026-11-25",
-      "note": "校方专题给出研究与教学范围；具名方向仍须回查个人页面。"
+      "count": 5,
+      "checked_at": "2026-11-26",
+      "note": "院系公开专题动态名录，其人数与链接用院系网页引用的公开数据核对。实际职务复核校级具名卡，荣休单列。"
     },
     {
       "id": "alberta-math-source",
@@ -210,6 +300,16 @@
       "count": 46,
       "checked_at": "2026-11-25",
       "note": "读取公开名册，转录具名带链接的 46 张卡，重力、相对论和数理物理条目按具名研究证据另查。"
+    },
+    {
+      "id": "alberta-pihot26",
+      "school": "alberta",
+      "url": "https://kantorovich.org/project/pihot/",
+      "label": "Pacific Interdisciplinary Hub on Optimal Transport · shared members",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-26",
+      "note": "联合网络公开成员名单列 University of Alberta 的 Brendan Pass，博士后及项目学生记录与主聘学校交叉。"
     },
     {
       "id": "alberta-pims26",
@@ -260,6 +360,56 @@
       "count": 24,
       "checked_at": "2026-11-25",
       "note": "核对四个分栏共 24 名，计算拓扑及定量方向记录按校级职务与专长查。"
+    },
+    {
+      "id": "alberta-stj-acad26",
+      "school": "alberta",
+      "url": "https://apps.ualberta.ca/directory/search/department/350110",
+      "label": "Campus Saint-Jean · Académique",
+      "status": "reference",
+      "count": 2,
+      "checked_at": "2026-11-26",
+      "note": "校级英法双语目录 55 条。具名现任与荣休记录用于核对，从研究者卡补研究方向。"
+    },
+    {
+      "id": "alberta-stj-campus26",
+      "school": "alberta",
+      "url": "https://apps.ualberta.ca/directory/search/department/csj",
+      "label": "Campus Saint-Jean · all campus appointments",
+      "status": "reference",
+      "count": 7,
+      "checked_at": "2026-11-26",
+      "note": "跨单位目录一页共 467 条任职和其他记录，逐查数学、理工与访问／博士后条目，核出 7 个相关具名入口。"
+    },
+    {
+      "id": "alberta-stj-post26",
+      "school": "alberta",
+      "url": "https://apps.ualberta.ca/directory/search/department/350150",
+      "label": "Campus Saint-Jean · Recherches et Études Supérieures",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "校级目录研究与研究生行政单位 63 条含重复职位。另从校区总表核对具名博士后和来访研究者。"
+    },
+    {
+      "id": "alberta-stj-stem26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/fr/campus-saint-jean/_media-library/_csj-programmes/etudes-superieures/trouvez-nos-chercheurs-2024-02.pdf",
+      "label": "Campus Saint-Jean · Trouvez nos chercheurs, Sciences et Technologie",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "公开 7 页学科手册，第 5 页列数学与理工介绍。用 2026 校级具名卡和校区目录核对任职，不以旧手册推断现任。"
+    },
+    {
+      "id": "alberta-tpi-seminars26",
+      "school": "alberta",
+      "url": "https://www.ualberta.ca/en/physics/research/theoretical-physics-institute/tpi-seminars/index.html",
+      "label": "Theoretical Physics Institute · TPI Seminars",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "校方现行活动页公开历届报告者和日期。受邀演讲不作为聘任或会员依据，TPI 概况仍未公开当期完整成员。"
     },
     {
       "id": "alberta-tpi26",
@@ -430065,13 +430215,6 @@
   ],
   "profiles": [
     {
-      "url": "https://adamtopaz.com/#papers",
-      "cache_id": "profile-4c7ae8a782db34ec",
-      "status": "parsed",
-      "record": null,
-      "checked_at": "2026-11-24"
-    },
-    {
       "url": "https://adelaide.edu.au/people/adrian.koerber",
       "cache_id": "profile-64abe654fdb81c99",
       "status": "parsed",
@@ -468318,19 +468461,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://www.adamtopaz.com/",
-      "cache_id": "profile-5a39438103c88cd3",
-      "status": "parsed",
-      "record": {
-        "research": "My research interests in pure mathematics mostly revolve around Galois theory, with an emphasis on anabelian geometry and other related topics in arithmetic/algebraic geometry. I am also interested in various other topics, such as algebraic cycles, Hodge theory (Archimedean and p-adic), valuation theory, differential Galois theory, model theory of fields, etc.",
-        "homepage": "",
-        "cv": "",
-        "publications": "https://adamtopaz.com/#papers",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
       "url": "https://www.ae-info.org/ae/Member/Kresch_Andrew/Publications",
       "cache_id": "profile-f09cc5c7c03b68cd",
       "status": "parsed",
@@ -470337,13 +470467,6 @@
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.charlesdoran.net/papers-923618.html",
-      "cache_id": "profile-e1a10c7a468666c5",
-      "status": "parsed",
-      "record": null,
-      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.cmu.edu/math/people/faculty/abdelghany.html",
@@ -520516,9 +520639,24 @@
       "candidate_url": "https://openalex.org/A5040280051"
     },
     "ha-tran": {
-      "status": "identity_review",
-      "reason": "OpenAlex 按 Ha Tran 的首页姓名结果涉及多个同名机构，未匹配本人 Augustana 任职及超奇异椭圆曲线研究。本人书目列 26 个混合条目，已分核截至 2024 年可确认正式出版的作品。另有当期预印本、在编、接收及刊年未明条目，累计引用待核。",
-      "checkedAt": "2026-11-25"
+      "status": "review_ready",
+      "author_id": "A5029576211",
+      "checkedAt": "2026-11-26",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5029576211",
+        "url": "https://openalex.org/A5029576211",
+        "orcid": "https://orcid.org/0000-0001-5180-586X",
+        "authorApiUrl": "https://api.openalex.org/authors/A5029576211",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5029576211,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-26",
+        "articles": 17,
+        "works": 27,
+        "citations": 190,
+        "hIndex": 9,
+        "articleScope": "OpenAlex type:article 原始分类。Lattice Blind Signatures 的无 DOI 记录亦被标为 article，严格期刊数另用本人书目。",
+        "citationScope": "OpenAlex 已核作者档案的累计引用，可能同时计入预印本或会议版本。"
+      }
     },
     "haesong-seo": {
       "status": "identity_review",
@@ -528016,9 +528154,24 @@
       }
     },
     "xi-chen": {
-      "status": "identity_review",
-      "reason": "OpenAlex 姓名加 Alberta 查询无匹配，出版社 DOI 10.1017/fms.2022.24 的 Xi Chen 署名和学校均可核但 OpenAlex 作者 ID 为空。已查校级具名页及 PIMS 报告，未确认完整发表清单或 Scholar 指标。",
-      "checkedAt": "2026-11-25"
+      "status": "review_ready",
+      "author_id": "A5100329864",
+      "checkedAt": "2026-11-26",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5100329864",
+        "url": "https://openalex.org/A5100329864",
+        "orcid": "https://orcid.org/0000-0001-7535-1807",
+        "authorApiUrl": "https://api.openalex.org/authors/A5100329864",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5100329864,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-26",
+        "articles": 18,
+        "works": 30,
+        "citations": 331,
+        "hIndex": 10,
+        "articleScope": "OpenAlex type:article，限该已核作者档案。10.1017/fms.2022.24 在 OpenAlex 的作者行未关联任何作者 ID。",
+        "citationScope": "OpenAlex 已核作者档案的累计引用，未关联作品不计。"
+      }
     },
     "xiangwen-zhang": {
       "status": "source_error",
