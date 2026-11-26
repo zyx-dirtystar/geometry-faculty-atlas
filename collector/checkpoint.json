@@ -1312,6 +1312,46 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "brown-ap-prager-b52",
+      "school": "brown",
+      "url": "https://www.mathjobs.org/jobs/list/28730",
+      "label": "Applied Mathematics · LFZ and Prager terms",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "brown-app-fac-b52",
+      "school": "brown",
+      "url": "https://appliedmath.brown.edu/people/faculty",
+      "label": "Applied Mathematics · Faculty",
+      "status": "parsed",
+      "count": 45,
+      "checked_at": "2026-11-26",
+      "note": "核对常任、教学、Prager/LFZ、科研教授、荣休与附属各分栏。"
+    },
+    {
+      "id": "brown-app-post-b52",
+      "school": "brown",
+      "url": "https://appliedmath.brown.edu/people/postdoctoral-researchers",
+      "label": "Applied Mathematics · Postdoctoral Researchers",
+      "status": "parsed",
+      "count": 15,
+      "checked_at": "2026-11-26",
+      "note": "核对全部 15 张当期博士后卡，有一人的卡缺职称。"
+    },
+    {
+      "id": "brown-cs-b52",
+      "school": "brown",
+      "url": "https://cs.brown.edu/people/faculty/",
+      "label": "Computer Science · Faculty",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
       "id": "brown-faculty",
       "school": "brown",
       "url": "https://mathematics.brown.edu/people/faculty?filters=professors",
@@ -1320,6 +1360,16 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "brown-faculty-all-b52",
+      "school": "brown",
+      "url": "https://mathematics.brown.edu/dsf_people",
+      "label": "Mathematics · all faculty and research ranks",
+      "status": "parsed",
+      "count": 52,
+      "checked_at": "2026-11-26",
+      "note": "数学系 Faculty 界面公开加载的 dsf_people 名册，完整显示 52 项。原分栏为 21 教授、3 教学职、14 Tamarkin 及博士后、8 荣休、6 访问及附属。具名校园科研库补核无个人链接的条目。"
     },
     {
       "id": "brown-geometry",
@@ -1340,6 +1390,156 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "brown-icerm-k3-b52",
+      "school": "brown",
+      "url": "https://icerm.brown.edu/program/semester_program/sp-f26",
+      "label": "ICERM · Computations on K3 Surfaces and Related Varieties",
+      "status": "parsed",
+      "count": 5,
+      "checked_at": "2026-11-26",
+      "note": "查阅当期项目的讲者与参与者列表。下表为按 Brown 或 ICERM 署名补核的当期项目人员；外校工作坊与会者仍归其本校。参加日期、兼职或固有任职分别记录。"
+    },
+    {
+      "id": "brown-icerm-staff-b52",
+      "school": "brown",
+      "url": "https://icerm.brown.edu/about/people",
+      "label": "ICERM · Directors, Staff and Emeritus Leadership",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "brown-ics-b52",
+      "school": "brown",
+      "url": "https://icerm.brown.edu/programs",
+      "label": "ICERM · Program catalog",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "brown-ihes-b52",
+      "school": "brown",
+      "url": "https://www.ihes.fr/en/scholars/invited-researchers/",
+      "label": "IHES · invited researchers",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "brown-math-algebra-b52",
+      "school": "brown",
+      "url": "https://mathematics.brown.edu/research/algebra",
+      "label": "Mathematics · Algebra",
+      "status": "parsed",
+      "count": 15,
+      "checked_at": "2026-11-26",
+      "note": "共 15 张，其中 11 位当期成员及 4 位荣休。研究组含算术、代数几何及数论不同方向。"
+    },
+    {
+      "id": "brown-math-analysis-b52",
+      "school": "brown",
+      "url": "https://mathematics.brown.edu/research/analysis",
+      "label": "Mathematics · Analysis",
+      "status": "parsed",
+      "count": 11,
+      "checked_at": "2026-11-26",
+      "note": "共 11 张，含应用数学联合或荣休人员。用个人资料区分一般 PDE 与几何分析。"
+    },
+    {
+      "id": "brown-math-geo-b52",
+      "school": "brown",
+      "url": "https://mathematics.brown.edu/research/geometry-and-topology",
+      "label": "Mathematics · Geometry and Topology",
+      "status": "parsed",
+      "count": 13,
+      "checked_at": "2026-11-26",
+      "note": "核对全部 13 张具名卡，并与全校职级和本人方向对账。"
+    },
+    {
+      "id": "brown-math-grad-b52",
+      "school": "brown",
+      "url": "https://mathematics.brown.edu/people/graduate-students",
+      "label": "Mathematics · Graduate Students",
+      "status": "parsed",
+      "count": 44,
+      "checked_at": "2026-11-26",
+      "note": "逐卡读取全部 44 张研究生卡。研究生身份另列。"
+    },
+    {
+      "id": "brown-math-staff-b52",
+      "school": "brown",
+      "url": "https://mathematics.brown.edu/people/staff",
+      "label": "Mathematics · Administrative Staff",
+      "status": "parsed",
+      "count": 4,
+      "checked_at": "2026-11-26",
+      "note": "核对 4 张行政人员卡。"
+    },
+    {
+      "id": "brown-math-tamarkin-b52",
+      "school": "brown",
+      "url": "https://mathematics.brown.edu/about/open-positions",
+      "label": "Mathematics · Tamarkin appointment terms",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "brown-math-vivo-b52",
+      "school": "brown",
+      "url": "https://vivo.brown.edu/display/org-brown-univ-dept41",
+      "label": "Brown VIVO · Mathematics",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
+    },
+    {
+      "id": "brown-phys-fac-b52",
+      "school": "brown",
+      "url": "https://physics.brown.edu/people/faculty",
+      "label": "Physics · Faculty",
+      "status": "parsed",
+      "count": 71,
+      "checked_at": "2026-11-26",
+      "note": "核全体分栏并以高能理论组及科研档确认几何交叉方向。教授同荣休和纪念栏目须分开。"
+    },
+    {
+      "id": "brown-phys-het-b52",
+      "school": "brown",
+      "url": "https://physics.brown.edu/research/high-energy-theory",
+      "label": "Physics · High Energy Theory",
+      "status": "parsed",
+      "count": 6,
+      "checked_at": "2026-11-26",
+      "note": "逐人核对全部六位具名研究人员。"
+    },
+    {
+      "id": "brown-phys-post-b52",
+      "school": "brown",
+      "url": "https://physics.brown.edu/people/postdoctoral-research-associates",
+      "label": "Physics · Postdoctoral Research Associates",
+      "status": "parsed",
+      "count": 6,
+      "checked_at": "2026-11-26",
+      "note": "直连证书无法验证，官方搜索索引读取全部 6 张具名博士后卡。正几何以公开学术论文补核。"
+    },
+    {
+      "id": "brown-simons-b52",
+      "school": "brown",
+      "url": "https://agntc.org/team_member_group/affiliated-scientists/",
+      "label": "ICERM · Arithmetic Geometry, Number Theory and Computation",
+      "status": "pending",
+      "count": 0,
+      "checked_at": null,
+      "note": "尚未取得网页。"
     },
     {
       "id": "cairo-27-Taha",
@@ -48168,6 +48368,1798 @@
       }
     },
     {
+      "source": "brown-app-fac-b52",
+      "person_key": "amaliaculiuc",
+      "school": "brown",
+      "record": {
+        "name": "Amalia Culiuc",
+        "title": "Assistant Teaching Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/amalia-culiuc",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "basilisgidas",
+      "school": "brown",
+      "record": {
+        "name": "Basilis Gidas",
+        "title": "Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/basilis-gidas",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "bjornsandstede",
+      "school": "brown",
+      "record": {
+        "name": "Björn Sandstede",
+        "title": "Alumni-Alumnae University Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/bjorn-sandstede",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "brendankeith",
+      "school": "brown",
+      "record": {
+        "name": "Brendan Keith",
+        "title": "Morton E. Gurtin Assistant Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/brendan-keith",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "carinacurto",
+      "school": "brown",
+      "record": {
+        "name": "Carina Curto",
+        "title": "Pablo J. Salame Goldman Sachs Professor of Computational Neuroscience and Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/carina-curto",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "carolineklivans",
+      "school": "brown",
+      "record": {
+        "name": "Caroline Klivans",
+        "title": "Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/caroline-klivans",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "charleslawrence",
+      "school": "brown",
+      "record": {
+        "name": "Charles Lawrence",
+        "title": "Professor of Applied Mathematics (Research), Professor Emeritus of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/charles-lawrence",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "chauhsingsu",
+      "school": "brown",
+      "record": {
+        "name": "Chau-Hsing Su",
+        "title": "Professor Emeritus of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/chau-hsing-su",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "chiwangshu",
+      "school": "brown",
+      "record": {
+        "name": "Chi-Wang Shu",
+        "title": "Theodore B. Stowell University Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/chi-wang-shu",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "constantinedafermos",
+      "school": "brown",
+      "record": {
+        "name": "Constantine Dafermos",
+        "title": "Alumni/Alumnae University Professor of Applied Mathematics, Emeritus",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/constantine-dafermos",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "davidmumford",
+      "school": "brown",
+      "record": {
+        "name": "David Mumford",
+        "title": "Professor Emeritus of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/david-mumford",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "dohyunkim",
+      "school": "brown",
+      "record": {
+        "name": "Dohyun Kim",
+        "title": "Research Associate",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/dohyun-kim",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "donmcclure",
+      "school": "brown",
+      "record": {
+        "name": "Don McClure",
+        "title": "Professor Emeritus of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/don-mcclure",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "eliebienenstock",
+      "school": "brown",
+      "record": {
+        "name": "Elie Bienenstock",
+        "title": "Associate Professor Emeritus of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/elie-bienenstock",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "georgeakevrekidis",
+      "school": "brown",
+      "record": {
+        "name": "George A. Kevrekidis",
+        "title": "Prager Assistant Professor",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/george-kevrekidis",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "georgeemkarniadakis",
+      "school": "brown",
+      "record": {
+        "name": "George Em Karniadakis",
+        "title": "The Charles Pitts Robinson and John Palmer Barstow, Professor of Applied Mathematics, Research Scientist, Massachusetts Institute of Technology",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/george-em-karniadakis",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "govindmenon",
+      "school": "brown",
+      "record": {
+        "name": "Govind Menon",
+        "title": "Division Chair and Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/govind-menon",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "haroldkushner",
+      "school": "brown",
+      "record": {
+        "name": "Harold Kushner",
+        "title": "L. Herbert Ballou University Professor Emeritus of Applied Mathematics and Engineering",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/harold-kushner",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "hongjiedong",
+      "school": "brown",
+      "record": {
+        "name": "Hongjie Dong",
+        "title": "Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/hongjie-dong",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "huiwang",
+      "school": "brown",
+      "record": {
+        "name": "Hui Wang",
+        "title": "Director of Undergraduate Studies and Associate Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/hui-wang",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "jeromedarbon",
+      "school": "brown",
+      "record": {
+        "name": "Jerome Darbon",
+        "title": "Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/jerome-darbon",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "johnmalletparet",
+      "school": "brown",
+      "record": {
+        "name": "John Mallet-Paret",
+        "title": "George I. Chace Professor Emeritus of Physical Sciences, Professor Emeritus of Applied Mathematic",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/john-mallet-paret",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "johnnyguzman",
+      "school": "brown",
+      "record": {
+        "name": "Johnny Guzmán",
+        "title": "Division Associate Chair and Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/johnny-guzman",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "kamaljyotinath",
+      "school": "brown",
+      "record": {
+        "name": "Kamaljyoti Nath",
+        "title": "Research Associate",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/kamaljyoti-nath",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "kavitaramanan",
+      "school": "brown",
+      "record": {
+        "name": "Kavita Ramanan",
+        "title": "Roland George Dwight Richardson University Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/kavita-ramanan",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "khemrajshukla",
+      "school": "brown",
+      "record": {
+        "name": "Khemraj Shukla",
+        "title": "Associate Professor of Applied Mathematics (Research)",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/khemraj-shukla",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "kristinamallory",
+      "school": "brown",
+      "record": {
+        "name": "Kristina Mallory",
+        "title": "Assistant Teaching Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/kristina-mallory",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "marafreilich",
+      "school": "brown",
+      "record": {
+        "name": "Mara Freilich",
+        "title": "Thomas J. and Alice M. Tisch Assistant Professor of Earth, Environmental, and Planetary Sciences and Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/mara-freilich",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "markainsworth",
+      "school": "brown",
+      "record": {
+        "name": "Mark Ainsworth",
+        "title": "Director of Graduate Studies and Francis Wayland Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/mark-ainsworth",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "martinmaxey",
+      "school": "brown",
+      "record": {
+        "name": "Martin Maxey",
+        "title": "Professor of Applied Mathematics (Research), Professor Emeritus of Applied Mathematics, Professor Emeritus of Engineering",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/martin-maxey",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "matthewharrison",
+      "school": "brown",
+      "record": {
+        "name": "Matthew Harrison",
+        "title": "Associate Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/matthew-harrison",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "miriamgordin",
+      "school": "brown",
+      "record": {
+        "name": "Miriam Gordin",
+        "title": "Prager Assistant Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/miriam-gordin",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "oanhnguyen",
+      "school": "brown",
+      "record": {
+        "name": "Oanh Nguyen",
+        "title": "Assistant Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/oanh-nguyen",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "pauldupuis",
+      "school": "brown",
+      "record": {
+        "name": "Paul Dupuis",
+        "title": "IBM Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/paul-dupuis",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "peterfalb",
+      "school": "brown",
+      "record": {
+        "name": "Peter Falb",
+        "title": "Professor Emeritus of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/peter-falb",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "peyamtabrizian",
+      "school": "brown",
+      "record": {
+        "name": "Peyam Tabrizian",
+        "title": "Director of Undergraduate Studies and Assistant Teaching Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/peyam-tabrizian",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "ryancreedon",
+      "school": "brown",
+      "record": {
+        "name": "Ryan Creedon",
+        "title": "Prager Assistant Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/ryan-creedon",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "stuartgeman",
+      "school": "brown",
+      "record": {
+        "name": "Stuart Geman",
+        "title": "James Manning Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/stuart-geman",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "vadimsemenov",
+      "school": "brown",
+      "record": {
+        "name": "Vadim Semenov",
+        "title": "LFZ Assistant Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/vadim-semenov",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "walterstrauss",
+      "school": "brown",
+      "record": {
+        "name": "Walter Strauss",
+        "title": "Professor Emeritus of Mathematics and Applied Mathematics",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/walter-strauss",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "yairshenfeld",
+      "school": "brown",
+      "record": {
+        "name": "Yair Shenfeld",
+        "title": "Assistant Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/yair-shenfeld",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "yanguo",
+      "school": "brown",
+      "record": {
+        "name": "Yan Guo",
+        "title": "L. Herbert Ballou University Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/yan-guo",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "youngtaksohn",
+      "school": "brown",
+      "record": {
+        "name": "Youngtak Sohn",
+        "title": "Assistant Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/youngtak-sohn",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "yuanchen",
+      "school": "brown",
+      "record": {
+        "name": "Yuan Chen",
+        "title": "Prager Assistant Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/yuan-chen",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-fac-b52",
+      "person_key": "zhichengwang",
+      "school": "brown",
+      "record": {
+        "name": "Zhicheng Wang",
+        "title": "Research Scientist",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/zhicheng-wang",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-post-b52",
+      "person_key": "bohuang",
+      "school": "brown",
+      "record": {
+        "name": "Bo Huang",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/bo-huang",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/postdoctoral-researchers",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-post-b52",
+      "person_key": "elhamkianiharchegani",
+      "school": "brown",
+      "record": {
+        "name": "Elham Kianiharchegani",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/elham-kianiharchegani",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/postdoctoral-researchers",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-post-b52",
+      "person_key": "haeinjung",
+      "school": "brown",
+      "record": {
+        "name": "Haein Jung",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/haein-jung",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/postdoctoral-researchers",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-post-b52",
+      "person_key": "hanzhang",
+      "school": "brown",
+      "record": {
+        "name": "Han Zhang",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/han-zhang",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/postdoctoral-researchers",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-post-b52",
+      "person_key": "jaeminoh",
+      "school": "brown",
+      "record": {
+        "name": "Jaemin Oh",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/jaemin-oh",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/postdoctoral-researchers",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-post-b52",
+      "person_key": "jiezang",
+      "school": "brown",
+      "record": {
+        "name": "Jie Zang",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/jie-zang",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/postdoctoral-researchers",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-post-b52",
+      "person_key": "kyriacosgeorgiou",
+      "school": "brown",
+      "record": {
+        "name": "Kyriacos Georgiou",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/kyriacos-georgiou",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/postdoctoral-researchers",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-post-b52",
+      "person_key": "nicolesanderson",
+      "school": "brown",
+      "record": {
+        "name": "Nicole Sanderson",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/nicole-sanderson",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/postdoctoral-researchers",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-post-b52",
+      "person_key": "ramimasri",
+      "school": "brown",
+      "record": {
+        "name": "Rami Masri",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/rami-masri",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/postdoctoral-researchers",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-post-b52",
+      "person_key": "shanqingliu",
+      "school": "brown",
+      "record": {
+        "name": "Shanqing Liu",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/shanqing-liu",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/postdoctoral-researchers",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-post-b52",
+      "person_key": "siavashkhodakarami",
+      "school": "brown",
+      "record": {
+        "name": "Siavash Khodakarami",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/siavash-khodakarami",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/postdoctoral-researchers",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-post-b52",
+      "person_key": "yifengmao",
+      "school": "brown",
+      "record": {
+        "name": "Yifeng Mao",
+        "title": "",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/yifeng-mao",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/postdoctoral-researchers",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-post-b52",
+      "person_key": "youngkyulee",
+      "school": "brown",
+      "record": {
+        "name": "Youngkyu Lee",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/youngkyu-lee",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/postdoctoral-researchers",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-post-b52",
+      "person_key": "zhaojiechai",
+      "school": "brown",
+      "record": {
+        "name": "Zhaojie Chai",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/zhaojie-chai",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/postdoctoral-researchers",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-app-post-b52",
+      "person_key": "zhenzhang",
+      "school": "brown",
+      "record": {
+        "name": "Zhen Zhang",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/zhen-zhang",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://appliedmath.brown.edu/people/postdoctoral-researchers",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "alanlandman",
+      "school": "brown",
+      "record": {
+        "name": "Alan Landman",
+        "title": "Associate Professor Emeritus",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/alan-landman",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "benatshishiku",
+      "school": "brown",
+      "record": {
+        "name": "Bena Tshishiku",
+        "title": "Associate Professor, Director of Undergraduate Studies",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/bena-tshishiku",
+        "homepage": "http://bena-tshishiku.github.io/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "benjamindees",
+      "school": "brown",
+      "record": {
+        "name": "Benjamin Dees",
+        "title": "Tamarkin Assistant Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/benjamin-dees",
+        "homepage": "https://sites.google.com/brown.edu/ben-dees",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "benoitpausader",
+      "school": "brown",
+      "record": {
+        "name": "Benoit Pausader",
+        "title": "Professor, Department Chair",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/benoit-pausader",
+        "homepage": "https://www.math.brown.edu/bpausade/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "brendanhassett",
+      "school": "brown",
+      "record": {
+        "name": "Brendan Hassett",
+        "title": "Jonathan Nelson University Professor of Mathematics, Director of ICERM",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/brendan-hassett",
+        "homepage": "https://sites.google.com/view/brendan-hassett",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "briancole",
+      "school": "brown",
+      "record": {
+        "name": "Brian Cole",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/brian-cole",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "brunoharris",
+      "school": "brown",
+      "record": {
+        "name": "Bruno Harris",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/bruno-harris",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "candacebethea",
+      "school": "brown",
+      "record": {
+        "name": "Candace Bethea",
+        "title": "Postdoctoral Fellow in Mathematics",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/candace-bethea",
+        "homepage": "https://sites.google.com/view/candacebethea/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "christianemmel",
+      "school": "brown",
+      "record": {
+        "name": "Christian Emmel",
+        "title": "Postdoctoral Research Associate in Mathematics",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "christinebreiner",
+      "school": "brown",
+      "record": {
+        "name": "Christine Breiner",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/christine-breiner",
+        "homepage": "https://sites.google.com/brown.edu/christine-breiner-brown/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "damiengalant",
+      "school": "brown",
+      "record": {
+        "name": "Damien Galant",
+        "title": "Postdoctoral Fellow of Mathematics",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/damien-galant",
+        "homepage": "https://damien-gal.github.io/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "danabramovich",
+      "school": "brown",
+      "record": {
+        "name": "Dan Abramovich",
+        "title": "L. Herbert Ballou University Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/dan-abramovich",
+        "homepage": "https://www.math.brown.edu/dabramov/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "danielkatz",
+      "school": "brown",
+      "record": {
+        "name": "Daniel Katz",
+        "title": "Associate Teaching Professor, Placement Advisor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/daniel-katz",
+        "homepage": "https://www.math.brown.edu/dkatz/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "ericjovinelly",
+      "school": "brown",
+      "record": {
+        "name": "Eric Jovinelly",
+        "title": "Tamarkin Assistant Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/eric-jovinelly",
+        "homepage": "https://sites.google.com/view/ericjovinelly/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "ericlarson",
+      "school": "brown",
+      "record": {
+        "name": "Eric Larson",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/eric-larson",
+        "homepage": "https://www.math.brown.edu/elarso19/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "ethandlugie",
+      "school": "brown",
+      "record": {
+        "name": "Ethan Dlugie",
+        "title": "Tamarkin Assistant Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/ethan-dlugie",
+        "homepage": "https://sites.google.com/view/ethandlugie",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "feiyanglin",
+      "school": "brown",
+      "record": {
+        "name": "Feiyang Lin",
+        "title": "Tamarkin Assistant Professor of Mathematics",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/feiyang-lin",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "georgedaskalopoulos",
+      "school": "brown",
+      "record": {
+        "name": "George Daskalopoulos",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/george-daskalopoulos",
+        "homepage": "https://sites.google.com/brown.edu/daskalopoulos/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "helengrundman",
+      "school": "brown",
+      "record": {
+        "name": "Helen Grundman",
+        "title": "Visiting Scholar",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/helen-grundman",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "isabelvogt",
+      "school": "brown",
+      "record": {
+        "name": "Isabel Vogt",
+        "title": "Associate Professor, Director of Undergraduate Studies",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/isabel-vogt",
+        "homepage": "https://www.math.brown.edu/ivogt/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "javiergomezserrano",
+      "school": "brown",
+      "record": {
+        "name": "Javier Gomez Serrano",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/javier-gomez-serrano",
+        "homepage": "https://sites.brown.edu/jgs/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "jeffreyhoffstein",
+      "school": "brown",
+      "record": {
+        "name": "Jeffrey Hoffstein",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/jeffrey-hoffstein",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "jeremykahn",
+      "school": "brown",
+      "record": {
+        "name": "Jeremy Kahn",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/jeremy-kahn",
+        "homepage": "https://www.math.brown.edu/jk17/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "jillpipher",
+      "school": "brown",
+      "record": {
+        "name": "Jill Pipher",
+        "title": "Elisha Benjamin Andrews Professor of Mathematics",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/jill-pipher",
+        "homepage": "https://www.math.brown.edu/jpipher/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "jonathanlubin",
+      "school": "brown",
+      "record": {
+        "name": "Jonathan Lubin",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/jonathan-lubin",
+        "homepage": "https://www.math.brown.edu/jlubin/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "jordankostiuk",
+      "school": "brown",
+      "record": {
+        "name": "Jordan Kostiuk",
+        "title": "Associate Teaching Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/jordan-kostiuk",
+        "homepage": "https://sites.google.com/a/brown.edu/jordan-kostiuk/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "josephsilverman",
+      "school": "brown",
+      "record": {
+        "name": "Joseph Silverman",
+        "title": "Ford Foundation Professor of Mathematics",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/joseph-silverman",
+        "homepage": "https://www.math.brown.edu/johsilve/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "junehyukjung",
+      "school": "brown",
+      "record": {
+        "name": "Junehyuk Jung",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/junehyuk-jung",
+        "homepage": "https://sites.google.com/brown.edu/junehyuk/about?authuser=0",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "justinholmer",
+      "school": "brown",
+      "record": {
+        "name": "Justin Holmer",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/justin-holmer",
+        "homepage": "https://www.math.brown.edu/jholmer/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "kevinbuck",
+      "school": "brown",
+      "record": {
+        "name": "Kevin Buck",
+        "title": "Postdoctoral Research Associate in Mathematics",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/kevin-buck",
+        "homepage": "https://mathematics.brown.edu/people/kevin-buck",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "liamkeenan",
+      "school": "brown",
+      "record": {
+        "name": "Liam Keenan",
+        "title": "Tamarkin Assistant Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/liam-keenan",
+        "homepage": "https://sites.google.com/view/liam-keenan/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "martinulmer",
+      "school": "brown",
+      "record": {
+        "name": "Martin Ulmer",
+        "title": "Tamarkin Assistant Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/martin-ulmer",
+        "homepage": "https://sites.google.com/brown.edu/martinulmer/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "melodychan",
+      "school": "brown",
+      "record": {
+        "name": "Melody Chan",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/melody-chan",
+        "homepage": "https://sites.google.com/brown.edu/melody-chan/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "michaelrosen",
+      "school": "brown",
+      "record": {
+        "name": "Michael Rosen",
+        "title": "Professor Emeritus/Adjunct",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/michael-rosen",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "nicolaoskapouleas",
+      "school": "brown",
+      "record": {
+        "name": "Nicolaos Kapouleas",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/nicos-kapouleas",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "nicolelooper",
+      "school": "brown",
+      "record": {
+        "name": "Nicole Looper",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/nicole-looper",
+        "homepage": "https://sites.google.com/view/nicole-looper",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "peterzenz",
+      "school": "brown",
+      "record": {
+        "name": "Peter Zenz",
+        "title": "Research Associate",
+        "research": "",
+        "profile": "https://sites.google.com/view/peterzenz/",
+        "homepage": "https://sites.google.com/view/peterzenz/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "richardbirkett",
+      "school": "brown",
+      "record": {
+        "name": "Richard Birkett",
+        "title": "Tamarkin Assistant Professor",
+        "research": "",
+        "profile": "https://birkettmaths.com/",
+        "homepage": "https://birkettmaths.com/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "richardschwartz",
+      "school": "brown",
+      "record": {
+        "name": "Richard Schwartz",
+        "title": "Chancellor's Professor of Mathematics, Director of Undergraduate Studies",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/richard-schwartz",
+        "homepage": "https://www.math.brown.edu/reschwar/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "sergeigelfand",
+      "school": "brown",
+      "record": {
+        "name": "Sergei Gelfand",
+        "title": "Visiting Scholar (American Mathematical Society)",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "sergeitreil",
+      "school": "brown",
+      "record": {
+        "name": "Sergei Treil",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/sergei-treil",
+        "homepage": "https://sites.google.com/a/brown.edu/sergei-treil-homepage/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "stephenlichtenbaum",
+      "school": "brown",
+      "record": {
+        "name": "Stephen Lichtenbaum",
+        "title": "Roland George Dwight Richardson University Professor Emeritus",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/stephen-lichtenbaum",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "tchristinestevens",
+      "school": "brown",
+      "record": {
+        "name": "T. Christine Stevens",
+        "title": "Visiting Scholar of Mathematics",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/t-chrisitne-stevens",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "thomasbanchoff",
+      "school": "brown",
+      "record": {
+        "name": "Thomas Banchoff",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/thomas-banchoff",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "thomasbarr",
+      "school": "brown",
+      "record": {
+        "name": "Thomas Barr",
+        "title": "Visiting Scholar of Mathematics",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/thomas-barr",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "thomasgoodwillie",
+      "school": "brown",
+      "record": {
+        "name": "Thomas Goodwillie",
+        "title": "Professor, Director of Graduate Studies",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/thomas-goodwillie",
+        "homepage": "https://sites.brown.edu/tgoodwillie/tom-goodwillie/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "tracychin",
+      "school": "brown",
+      "record": {
+        "name": "Tracy Chin",
+        "title": "Tamarkin Assistant Professor of Mathematics",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "ulricawilson",
+      "school": "brown",
+      "record": {
+        "name": "Ulrica Wilson",
+        "title": "Visiting Associate Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/ulrica-wilson",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "walterstrauss",
+      "school": "brown",
+      "record": {
+        "name": "Walter Strauss",
+        "title": "L. Herbert Ballou Professor Emeritus of Mathematics and Applied Mathematics",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/walter-strauss",
+        "homepage": "https://www.math.brown.edu/wstrauss/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "willierushlim",
+      "school": "brown",
+      "record": {
+        "name": "Willie Rush Lim",
+        "title": "Dean's Tamarkin Assistant Professor of Mathematics",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/willie-rush-lim",
+        "homepage": "https://willierushrush.github.io/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "yulinlin",
+      "school": "brown",
+      "record": {
+        "name": "Yulin Lin",
+        "title": "Visiting Assistant Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/yulin-lin",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-faculty-all-b52",
+      "person_key": "yuwenhsu",
+      "school": "brown",
+      "record": {
+        "name": "Yu-Wen Hsu",
+        "title": "Associate Teaching Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/yu-wen-hsu",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/dsf_people",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
       "source": "brown-geometry",
       "person_key": "benatshishiku",
       "school": "brown",
@@ -48357,6 +50349,2806 @@
         "source_kind": "research",
         "source_url": "https://mathematics.brown.edu/research/geometry-and-topology",
         "checked_at": "2026-11-23"
+      }
+    },
+    {
+      "source": "brown-icerm-k3-b52",
+      "person_key": "alvarogonzalezhernandez",
+      "school": "brown",
+      "record": {
+        "name": "Alvaro Gonzalez Hernandez",
+        "title": "ICERM Postdoctoral Research Fellow",
+        "research": "Algebraic geometry, K3 surfaces, abelian varieties and characteristic-p geometry",
+        "profile": "https://icerm.brown.edu/program/semester_program/sp-f26",
+        "homepage": "https://alvarogohe.github.io/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://icerm.brown.edu/program/semester_program/sp-f26",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-icerm-k3-b52",
+      "person_key": "elenasammarco",
+      "school": "brown",
+      "record": {
+        "name": "Elena Sammarco",
+        "title": "ICERM Semester Program Participant",
+        "research": "Complex geometry and algebraic geometry, Morin configurations, hyperkähler fourfolds and Verra threefolds",
+        "profile": "https://icerm.brown.edu/program/semester_program/sp-f26",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://icerm.brown.edu/program/semester_program/sp-f26",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-icerm-k3-b52",
+      "person_key": "jackjgarzella",
+      "school": "brown",
+      "record": {
+        "name": "Jack J. Garzella",
+        "title": "ICERM Semester Research Fellow",
+        "research": "Algebraic geometry, birational singularities, p-adic geometry and computational arithmetic",
+        "profile": "https://icerm.brown.edu/program/semester_program/sp-f26",
+        "homepage": "https://jjgarzella.github.io/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://icerm.brown.edu/program/semester_program/sp-f26",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-icerm-k3-b52",
+      "person_key": "lucaslibassi",
+      "school": "brown",
+      "record": {
+        "name": "Lucas Li Bassi",
+        "title": "ICERM Semester Program Participant",
+        "research": "Complex geometry and algebraic geometry, irreducible holomorphic symplectic varieties and cubic fourfolds",
+        "profile": "https://icerm.brown.edu/program/semester_program/sp-f26",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://icerm.brown.edu/program/semester_program/sp-f26",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-icerm-k3-b52",
+      "person_key": "margheritapagano",
+      "school": "brown",
+      "record": {
+        "name": "Margherita Pagano",
+        "title": "ICERM Semester Postdoctoral Fellow",
+        "research": "Algebraic geometry and arithmetic geometry, K3 surfaces and Brauer–Manin obstructions",
+        "profile": "https://icerm.brown.edu/program/semester_program/sp-f26",
+        "homepage": "https://sites.google.com/view/margheritapagano/home-page",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://icerm.brown.edu/program/semester_program/sp-f26",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-algebra-b52",
+      "person_key": "alanlandman",
+      "school": "brown",
+      "record": {
+        "name": "Alan Landman",
+        "title": "Associate Professor Emeritus",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/alan-landman",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/algebra",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-algebra-b52",
+      "person_key": "brendanhassett",
+      "school": "brown",
+      "record": {
+        "name": "Brendan Hassett",
+        "title": "Jonathan Nelson University Professor of Mathematics, Director of ICERM",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/brendan-hassett",
+        "homepage": "https://sites.google.com/view/brendan-hassett",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/algebra",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-algebra-b52",
+      "person_key": "danabramovich",
+      "school": "brown",
+      "record": {
+        "name": "Dan Abramovich",
+        "title": "L. Herbert Ballou University Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/dan-abramovich",
+        "homepage": "https://www.math.brown.edu/dabramov/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/algebra",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-algebra-b52",
+      "person_key": "ericjovinelly",
+      "school": "brown",
+      "record": {
+        "name": "Eric Jovinelly",
+        "title": "Tamarkin Assistant Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/eric-jovinelly",
+        "homepage": "https://sites.google.com/view/ericjovinelly/home",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/algebra",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-algebra-b52",
+      "person_key": "ericlarson",
+      "school": "brown",
+      "record": {
+        "name": "Eric Larson",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/eric-larson",
+        "homepage": "https://www.math.brown.edu/elarso19/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/algebra",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-algebra-b52",
+      "person_key": "isabelvogt",
+      "school": "brown",
+      "record": {
+        "name": "Isabel Vogt",
+        "title": "Associate Professor, Director of Undergraduate Studies",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/isabel-vogt",
+        "homepage": "https://www.math.brown.edu/ivogt/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/algebra",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-algebra-b52",
+      "person_key": "jeffreyhoffstein",
+      "school": "brown",
+      "record": {
+        "name": "Jeffrey Hoffstein",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/jeffrey-hoffstein",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/algebra",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-algebra-b52",
+      "person_key": "jonathanlubin",
+      "school": "brown",
+      "record": {
+        "name": "Jonathan Lubin",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/jonathan-lubin",
+        "homepage": "https://www.math.brown.edu/jlubin/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/algebra",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-algebra-b52",
+      "person_key": "josephsilverman",
+      "school": "brown",
+      "record": {
+        "name": "Joseph Silverman",
+        "title": "Ford Foundation Professor of Mathematics",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/joseph-silverman",
+        "homepage": "https://www.math.brown.edu/johsilve/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/algebra",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-algebra-b52",
+      "person_key": "junehyukjung",
+      "school": "brown",
+      "record": {
+        "name": "Junehyuk Jung",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/junehyuk-jung",
+        "homepage": "https://sites.google.com/brown.edu/junehyuk/about?authuser=0",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/algebra",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-algebra-b52",
+      "person_key": "melodychan",
+      "school": "brown",
+      "record": {
+        "name": "Melody Chan",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/melody-chan",
+        "homepage": "https://sites.google.com/brown.edu/melody-chan/home",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/algebra",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-algebra-b52",
+      "person_key": "michaelrosen",
+      "school": "brown",
+      "record": {
+        "name": "Michael Rosen",
+        "title": "Professor Emeritus/Adjunct",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/michael-rosen",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/algebra",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-algebra-b52",
+      "person_key": "nicolelooper",
+      "school": "brown",
+      "record": {
+        "name": "Nicole Looper",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/nicole-looper",
+        "homepage": "https://sites.google.com/view/nicole-looper",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/algebra",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-algebra-b52",
+      "person_key": "peterzenz",
+      "school": "brown",
+      "record": {
+        "name": "Peter Zenz",
+        "title": "Research Associate",
+        "research": "",
+        "profile": "https://sites.google.com/view/peterzenz/",
+        "homepage": "https://sites.google.com/view/peterzenz/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/algebra",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-algebra-b52",
+      "person_key": "stephenlichtenbaum",
+      "school": "brown",
+      "record": {
+        "name": "Stephen Lichtenbaum",
+        "title": "Roland George Dwight Richardson University Professor Emeritus",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/stephen-lichtenbaum",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/algebra",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-analysis-b52",
+      "person_key": "benoitpausader",
+      "school": "brown",
+      "record": {
+        "name": "Benoit Pausader",
+        "title": "Professor, Department Chair",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/benoit-pausader",
+        "homepage": "https://www.math.brown.edu/bpausade/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/analysis",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-analysis-b52",
+      "person_key": "briancole",
+      "school": "brown",
+      "record": {
+        "name": "Brian Cole",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/brian-cole",
+        "homepage": "https://mathematics.brown.edu/people/brian-cole",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/analysis",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-analysis-b52",
+      "person_key": "constantinedafermos",
+      "school": "brown",
+      "record": {
+        "name": "Constantine Dafermos",
+        "title": "Professor Emeritus of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/constantine-dafermos",
+        "homepage": "https://appliedmath.brown.edu/people/constantine-dafermos",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/analysis",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-analysis-b52",
+      "person_key": "javiergomezserrano",
+      "school": "brown",
+      "record": {
+        "name": "Javier Gomez Serrano",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/javier-gomez-serrano",
+        "homepage": "https://sites.brown.edu/jgs/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/analysis",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-analysis-b52",
+      "person_key": "jillpipher",
+      "school": "brown",
+      "record": {
+        "name": "Jill Pipher",
+        "title": "Elisha Benjamin Andrews Professor of Mathematics",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/jill-pipher",
+        "homepage": "https://www.math.brown.edu/jpipher/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/analysis",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-analysis-b52",
+      "person_key": "johnmalletparet",
+      "school": "brown",
+      "record": {
+        "name": "John Mallet-Paret",
+        "title": "Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/john-mallet-paret",
+        "homepage": "https://appliedmath.brown.edu/people/john-mallet-paret",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/analysis",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-analysis-b52",
+      "person_key": "justinholmer",
+      "school": "brown",
+      "record": {
+        "name": "Justin Holmer",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/justin-holmer",
+        "homepage": "https://www.math.brown.edu/jholmer/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/analysis",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-analysis-b52",
+      "person_key": "martinulmer",
+      "school": "brown",
+      "record": {
+        "name": "Martin Ulmer",
+        "title": "Tamarkin Assistant Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/martin-ulmer",
+        "homepage": "https://sites.google.com/brown.edu/martinulmer/home",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/analysis",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-analysis-b52",
+      "person_key": "sergeitreil",
+      "school": "brown",
+      "record": {
+        "name": "Sergei Treil",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/sergei-treil",
+        "homepage": "https://sites.google.com/a/brown.edu/sergei-treil-homepage/home",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/analysis",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-analysis-b52",
+      "person_key": "walterstrauss",
+      "school": "brown",
+      "record": {
+        "name": "Walter Strauss",
+        "title": "L. Herbert Ballou Professor Emeritus of Mathematics and Applied Mathematics",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/walter-strauss",
+        "homepage": "https://www.math.brown.edu/wstrauss/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/analysis",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-analysis-b52",
+      "person_key": "yanguo",
+      "school": "brown",
+      "record": {
+        "name": "Yan Guo",
+        "title": "Professor of Applied Mathematics",
+        "research": "",
+        "profile": "https://appliedmath.brown.edu/people/yan-guo",
+        "homepage": "https://appliedmath.brown.edu/people/yan-guo",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/analysis",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-geo-b52",
+      "person_key": "benatshishiku",
+      "school": "brown",
+      "record": {
+        "name": "Bena Tshishiku",
+        "title": "Associate Professor, Director of Undergraduate Studies",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/bena-tshishiku",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/geometry-and-topology",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-geo-b52",
+      "person_key": "benjamindees",
+      "school": "brown",
+      "record": {
+        "name": "Benjamin Dees",
+        "title": "Tamarkin Assistant Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/benjamin-dees",
+        "homepage": "https://sites.google.com/brown.edu/ben-dees",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/geometry-and-topology",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-geo-b52",
+      "person_key": "brunoharris",
+      "school": "brown",
+      "record": {
+        "name": "Bruno Harris",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/bruno-harris",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/geometry-and-topology",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-geo-b52",
+      "person_key": "christinebreiner",
+      "school": "brown",
+      "record": {
+        "name": "Christine Breiner",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/christine-breiner",
+        "homepage": "https://sites.google.com/brown.edu/christine-breiner-brown/home",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/geometry-and-topology",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-geo-b52",
+      "person_key": "ethandlugie",
+      "school": "brown",
+      "record": {
+        "name": "Ethan Dlugie",
+        "title": "Tamarkin Assistant Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/ethan-dlugie",
+        "homepage": "https://sites.google.com/view/ethandlugie",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/geometry-and-topology",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-geo-b52",
+      "person_key": "georgedaskalopoulos",
+      "school": "brown",
+      "record": {
+        "name": "George Daskalopoulos",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/george-daskalopoulos",
+        "homepage": "https://sites.google.com/brown.edu/daskalopoulos/home",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/geometry-and-topology",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-geo-b52",
+      "person_key": "jeremykahn",
+      "school": "brown",
+      "record": {
+        "name": "Jeremy Kahn",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/jeremy-kahn",
+        "homepage": "https://www.math.brown.edu/jk17/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/geometry-and-topology",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-geo-b52",
+      "person_key": "liamkeenan",
+      "school": "brown",
+      "record": {
+        "name": "Liam Keenan",
+        "title": "Tamarkin Assistant Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/liam-keenan",
+        "homepage": "https://sites.google.com/view/liam-keenan/home",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/geometry-and-topology",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-geo-b52",
+      "person_key": "nicolaoskapouleas",
+      "school": "brown",
+      "record": {
+        "name": "Nicolaos Kapouleas",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/nicos-kapouleas",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/geometry-and-topology",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-geo-b52",
+      "person_key": "richardschwartz",
+      "school": "brown",
+      "record": {
+        "name": "Richard Schwartz",
+        "title": "Chancellor's Professor of Mathematics, Director of Undergraduate Studies",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/richard-schwartz",
+        "homepage": "https://www.math.brown.edu/reschwar/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/geometry-and-topology",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-geo-b52",
+      "person_key": "thomasbanchoff",
+      "school": "brown",
+      "record": {
+        "name": "Thomas Banchoff",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/thomas-banchoff",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/geometry-and-topology",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-geo-b52",
+      "person_key": "thomasgoodwillie",
+      "school": "brown",
+      "record": {
+        "name": "Thomas Goodwillie",
+        "title": "Professor, Director of Graduate Studies",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/thomas-goodwillie",
+        "homepage": "https://sites.brown.edu/tgoodwillie/tom-goodwillie/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/geometry-and-topology",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-geo-b52",
+      "person_key": "willierushlim",
+      "school": "brown",
+      "record": {
+        "name": "Willie Rush Lim",
+        "title": "Dean's Tamarkin Assistant Professor of Mathematics",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/willie-rush-lim",
+        "homepage": "https://willierushrush.github.io/",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mathematics.brown.edu/research/geometry-and-topology",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "albertolandi",
+      "school": "brown",
+      "record": {
+        "name": "Alberto Landi",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://sites.google.com/brown.edu/alberto-landi/home?authuser=2",
+        "homepage": "https://sites.google.com/brown.edu/alberto-landi/home?authuser=2",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "alvarocarballeiramora",
+      "school": "brown",
+      "record": {
+        "name": "Álvaro Carballeira Mora",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://alvarocarballeira.github.io/",
+        "homepage": "https://alvarocarballeira.github.io/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "amandahernandez",
+      "school": "brown",
+      "record": {
+        "name": "Amanda Hernandez",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://sites.google.com/brown.edu/amandahernandez/home",
+        "homepage": "https://sites.google.com/brown.edu/amandahernandez/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "anamariaperez",
+      "school": "brown",
+      "record": {
+        "name": "AnaMaria Perez",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "annadietrich",
+      "school": "brown",
+      "record": {
+        "name": "Anna Dietrich",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://sites.google.com/view/anna-m-dietrich",
+        "homepage": "https://sites.google.com/view/anna-m-dietrich",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "beckettsanchez",
+      "school": "brown",
+      "record": {
+        "name": "Beckett Sanchez",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "clemencemoullet",
+      "school": "brown",
+      "record": {
+        "name": "Clémence Moullet",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "dakshaggarwal",
+      "school": "brown",
+      "record": {
+        "name": "Daksh Aggarwal",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "eduardoventilarisodre",
+      "school": "brown",
+      "record": {
+        "name": "Eduardo Ventilari Sodré",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://evsmath.github.io/",
+        "homepage": "https://evsmath.github.io/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "ellawilson",
+      "school": "brown",
+      "record": {
+        "name": "Ella Wilson",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "ethanpartida",
+      "school": "brown",
+      "record": {
+        "name": "Ethan Partida",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://ethanpartida.github.io/",
+        "homepage": "https://ethanpartida.github.io/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "fernandobenitofernandezdelacigona",
+      "school": "brown",
+      "record": {
+        "name": "Fernando Benito Fernández de la Cigoña",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "haniehghorbani",
+      "school": "brown",
+      "record": {
+        "name": "Hanieh Ghorbani",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "haonicksun",
+      "school": "brown",
+      "record": {
+        "name": "Hao (Nick) Sun",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "henrytwiss",
+      "school": "brown",
+      "record": {
+        "name": "Henry Twiss",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "ianavranesko",
+      "school": "brown",
+      "record": {
+        "name": "Iana Vranesko",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "ivystoner",
+      "school": "brown",
+      "record": {
+        "name": "Ivy Stoner",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "jinheo",
+      "school": "brown",
+      "record": {
+        "name": "Jin Heo",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "johnahn",
+      "school": "brown",
+      "record": {
+        "name": "John Ahn",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "jorgegonzalezacosta",
+      "school": "brown",
+      "record": {
+        "name": "Jorge Gonzalez Acosta",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "jungkyoungna",
+      "school": "brown",
+      "record": {
+        "name": "Jungkyoung Na",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://jungkyoungna.github.io/",
+        "homepage": "https://jungkyoungna.github.io/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "jungsuklee",
+      "school": "brown",
+      "record": {
+        "name": "Jung Suk Lee",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "kaiwenlu",
+      "school": "brown",
+      "record": {
+        "name": "Kaiwen Lu",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://kaiwlu.github.io/",
+        "homepage": "https://kaiwlu.github.io/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "karinadovgodko",
+      "school": "brown",
+      "record": {
+        "name": "Karina Dovgodko",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "marcuspasquariello",
+      "school": "brown",
+      "record": {
+        "name": "Marcus Pasquariello",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "marinoechavarria",
+      "school": "brown",
+      "record": {
+        "name": "Marino Echavarria",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://sites.google.com/brown.edu/marinojosechavarria/home",
+        "homepage": "https://sites.google.com/brown.edu/marinojosechavarria/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "mathewkushelman",
+      "school": "brown",
+      "record": {
+        "name": "Mathew Kushelman",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "meganchanglee",
+      "school": "brown",
+      "record": {
+        "name": "Megan Chang-Lee",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://www.meganchanglee.com/",
+        "homepage": "https://www.meganchanglee.com/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "ottoreed",
+      "school": "brown",
+      "record": {
+        "name": "Otto Reed",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "quinnbrussel",
+      "school": "brown",
+      "record": {
+        "name": "Quinn Brussel",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "ralucavlad",
+      "school": "brown",
+      "record": {
+        "name": "Raluca Vlad",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://sites.google.com/brown.edu/raluca-vlad",
+        "homepage": "https://sites.google.com/brown.edu/raluca-vlad",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "robertapagliaro",
+      "school": "brown",
+      "record": {
+        "name": "Roberta Pagliaro",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "sahankarawita",
+      "school": "brown",
+      "record": {
+        "name": "Sahan Karawita",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://sites.google.com/brown.edu/sahan",
+        "homepage": "https://sites.google.com/brown.edu/sahan",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "sujungjo",
+      "school": "brown",
+      "record": {
+        "name": "Sujung Jo",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://sites.google.com/view/sujungjo",
+        "homepage": "https://sites.google.com/view/sujungjo",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "theodorelysek",
+      "school": "brown",
+      "record": {
+        "name": "Theodore Lysek",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "vasylpaliy",
+      "school": "brown",
+      "record": {
+        "name": "Vasyl Paliy",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "wenruihuang",
+      "school": "brown",
+      "record": {
+        "name": "Wenrui Huang",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://whuang58.github.io/",
+        "homepage": "https://whuang58.github.io/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "xuyanliu",
+      "school": "brown",
+      "record": {
+        "name": "Xuyan Liu",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "yagracegao",
+      "school": "brown",
+      "record": {
+        "name": "Ya (Grace) Gao",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "yifanguo",
+      "school": "brown",
+      "record": {
+        "name": "Yifan Guo",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://www.yifanguo.org/",
+        "homepage": "https://www.yifanguo.org/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "yuhanliu",
+      "school": "brown",
+      "record": {
+        "name": "Yuhan Liu",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "yuyangwang",
+      "school": "brown",
+      "record": {
+        "name": "Yuyang Wang",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "zacharyhunsucker",
+      "school": "brown",
+      "record": {
+        "name": "Zachary Hunsucker",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://sites.google.com/brown.edu/zdh",
+        "homepage": "https://sites.google.com/brown.edu/zdh",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-grad-b52",
+      "person_key": "ziruiwang",
+      "school": "brown",
+      "record": {
+        "name": "Zirui Wang",
+        "title": "Graduate Student",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/graduate-students",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/graduate-students",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-staff-b52",
+      "person_key": "audreyaguiar",
+      "school": "brown",
+      "record": {
+        "name": "Audrey Aguiar",
+        "title": "Coordinator of Student Affairs",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/staff",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/staff",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-staff-b52",
+      "person_key": "ernestlilavois",
+      "school": "brown",
+      "record": {
+        "name": "Ernest Lilavois",
+        "title": "IT Support Consultant",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/staff",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/staff",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-staff-b52",
+      "person_key": "lorinascimento",
+      "school": "brown",
+      "record": {
+        "name": "Lori Nascimento",
+        "title": "Academic Department Manager",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/staff",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/staff",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-math-staff-b52",
+      "person_key": "timothylockhart",
+      "school": "brown",
+      "record": {
+        "name": "Timothy Lockhart",
+        "title": "IT Support Consultant",
+        "research": "",
+        "profile": "https://mathematics.brown.edu/people/staff",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://mathematics.brown.edu/people/staff",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "aaronhui",
+      "school": "brown",
+      "record": {
+        "name": "Aaron Hui",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "adrienrosuel",
+      "school": "brown",
+      "record": {
+        "name": "Adrien Rosuel",
+        "title": "Assistant Professor of Physics (Research)",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "alexanderzaslavsky",
+      "school": "brown",
+      "record": {
+        "name": "Alexander Zaslavsky",
+        "title": "Professor of Engineering and Physics",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "anastasiavolovich",
+      "school": "brown",
+      "record": {
+        "name": "Anastasia Volovich",
+        "title": "Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/avolovic",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "andreikorotkov",
+      "school": "brown",
+      "record": {
+        "name": "Andrei Korotkov",
+        "title": "Senior Research Associate",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "antaljevicki",
+      "school": "brown",
+      "record": {
+        "name": "Antal Jevicki",
+        "title": "Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/anjevick",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "artonurmikko",
+      "school": "brown",
+      "record": {
+        "name": "Arto Nurmikko",
+        "title": "Professor of Engineering and Physics",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "bradmarston",
+      "school": "brown",
+      "record": {
+        "name": "Brad Marston",
+        "title": "Professor of Physics, Harrison E. Farnsworth Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/jmarston",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "brendarubenstein",
+      "school": "brown",
+      "record": {
+        "name": "Brenda Rubenstein",
+        "title": "Professor of Chemistry and Physics",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "carinacurto",
+      "school": "brown",
+      "record": {
+        "name": "Carina Curto",
+        "title": "Professor of Computational Neuroscience, Applied Mathematics and Physics",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "charleselbaum",
+      "school": "brown",
+      "record": {
+        "name": "Charles Elbaum",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/charles-elbaum",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "chungitan",
+      "school": "brown",
+      "record": {
+        "name": "Chung-I Tan",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/chtan",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "danielmittleman",
+      "school": "brown",
+      "record": {
+        "name": "Daniel Mittleman",
+        "title": "Professor of Engineering and Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/dmittlem",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "davidcutts",
+      "school": "brown",
+      "record": {
+        "name": "David Cutts",
+        "title": "",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/dcutts",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "davidlowe",
+      "school": "brown",
+      "record": {
+        "name": "David Lowe",
+        "title": "Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/dlowe",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "derekstein",
+      "school": "brown",
+      "record": {
+        "name": "Derek Stein",
+        "title": "",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/ds1",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "dmitrifeldman",
+      "school": "brown",
+      "record": {
+        "name": "Dmitri Feldman",
+        "title": "Professor of Physics, Director of Graduate Studies (Spring 2027)",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/dfeldman",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "domenicopacifici",
+      "school": "brown",
+      "record": {
+        "name": "Domenico Pacifici",
+        "title": "Associate Professor of Engineering and Physics",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "frankslevin",
+      "school": "brown",
+      "record": {
+        "name": "Frank S. Levin",
+        "title": "",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/frank-s-levin",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "gabrielebenelli",
+      "school": "brown",
+      "record": {
+        "name": "Gabriele Benelli",
+        "title": "Distinguished Senior Research Scientist",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "gaetanobarone",
+      "school": "brown",
+      "record": {
+        "name": "Gaetano Barone",
+        "title": "Assistant Professor of Physics (Research)",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/gbarone1",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "gangxiao",
+      "school": "brown",
+      "record": {
+        "name": "Gang Xiao",
+        "title": "Ford Foundation Professor of Physics & Engineering",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/gxiao",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "georgeseidel",
+      "school": "brown",
+      "record": {
+        "name": "George Seidel",
+        "title": "",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/george-seidel",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "geraldguralnik",
+      "school": "brown",
+      "record": {
+        "name": "Gerald Guralnik",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/gerald-guralnik",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "greglandsberg",
+      "school": "brown",
+      "record": {
+        "name": "Greg Landsberg",
+        "title": "Thomas J Watson Sr., Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/glandsbe",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "gregorytucker",
+      "school": "brown",
+      "record": {
+        "name": "Gregory Tucker",
+        "title": "Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/gtucker",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "herbertfried",
+      "school": "brown",
+      "record": {
+        "name": "Herbert Fried",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/herbert-fried",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "humphreymaris",
+      "school": "brown",
+      "record": {
+        "name": "Humphrey Maris",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/hmaris",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "iandellantonio",
+      "school": "brown",
+      "record": {
+        "name": "Ian Dell'Antonio",
+        "title": "Professor of Physics, Undergraduate Concentration Advisor",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/idellant",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "jamescbaird",
+      "school": "brown",
+      "record": {
+        "name": "James C. Baird",
+        "title": "",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "jamesvallesjr",
+      "school": "brown",
+      "record": {
+        "name": "James Valles, Jr.",
+        "title": "Professor of Physics, Undergraduate Concentration Advisor",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/jvallesj",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "janoffermann",
+      "school": "brown",
+      "record": {
+        "name": "Jan Offermann",
+        "title": "Research Associate",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "jantobochnik",
+      "school": "brown",
+      "record": {
+        "name": "Jan Tobochnik",
+        "title": "Adjunct Professor of Physics",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "jaytang",
+      "school": "brown",
+      "record": {
+        "name": "Jay Tang",
+        "title": "Professor of Physics & Engineering, Concentration Advisor",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/jxtang",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "jenniferroloff",
+      "school": "brown",
+      "record": {
+        "name": "Jennifer Roloff",
+        "title": "Assistant Professor of Physics",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "jialeoli",
+      "school": "brown",
+      "record": {
+        "name": "Jia (Leo) Li",
+        "title": "Visiting Associate Professor of Physics",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "jijifan",
+      "school": "brown",
+      "record": {
+        "name": "JiJi Fan",
+        "title": "Associate Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/jfan2",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "jingmingxu",
+      "school": "brown",
+      "record": {
+        "name": "Jingming Xu",
+        "title": "Professor of Engineering and Physics",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "jingyuluo",
+      "school": "brown",
+      "record": {
+        "name": "Jingyu Luo",
+        "title": "Research Associate",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "jmichaelkosterlitz",
+      "school": "brown",
+      "record": {
+        "name": "J. Michael Kosterlitz",
+        "title": "",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/jkosterl",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "jonathanpober",
+      "school": "brown",
+      "record": {
+        "name": "Jonathan Pober",
+        "title": "Associate Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/jpober",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "kempplumb",
+      "school": "brown",
+      "record": {
+        "name": "Kemp Plumb",
+        "title": "Associate Professor of Physics, Director of Master's Program",
+        "research": "",
+        "profile": "http://vivo.brown.edu/display/kplumb",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "kyungsikkang",
+      "school": "brown",
+      "record": {
+        "name": "Kyungsik Kang",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/kyungsik-kang",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "leenoymeshulam",
+      "school": "brown",
+      "record": {
+        "name": "Leenoy Meshulam",
+        "title": "June and Howard Zimmerman Assistant Professor of Physics, Neuroscience and Brain Science",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "leonncooper",
+      "school": "brown",
+      "record": {
+        "name": "Leon N. Cooper",
+        "title": "Nobel Laureate, 1972, Professor Emeritus, Biological Physics",
+        "research": "",
+        "profile": "https://physics.brown.edu/memoriam-leon-cooper",
+        "homepage": "https://physics.brown.edu/memoriam-leon-cooper",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "loukasgouskos",
+      "school": "brown",
+      "record": {
+        "name": "Loukas Gouskos",
+        "title": "Associate Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/lgouskos",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "lucascaretta",
+      "school": "brown",
+      "record": {
+        "name": "Lucas Caretta",
+        "title": "Assistant Professor of Engineering and Physics",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "lukalambrecht",
+      "school": "brown",
+      "record": {
+        "name": "Luka Lambrecht",
+        "title": "Visiting Research Associate",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "marcusspradlin",
+      "school": "brown",
+      "record": {
+        "name": "Marcus Spradlin",
+        "title": "Professor of Physics, Concentration Advisor",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/mspradli",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "markostamenkovic",
+      "school": "brown",
+      "record": {
+        "name": "Marko Stamenkovic",
+        "title": "Research Associate",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "matthiaskuehne",
+      "school": "brown",
+      "record": {
+        "name": "Matthias Kuehne",
+        "title": "Assistant Professor of Physics, Christopher M. Barter Assistant Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/mkuehne",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "mattleblanc",
+      "school": "brown",
+      "record": {
+        "name": "Matt LeBlanc",
+        "title": "Assistant Professor of Physics (Research)",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/mleblan6",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "meenakshinarain",
+      "school": "brown",
+      "record": {
+        "name": "Meenakshi Narain",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/meenakshi-narain",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "miqueldorca",
+      "school": "brown",
+      "record": {
+        "name": "Miquel Dorca",
+        "title": "Adjunct Lecturer",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "oludurotimiadetunji",
+      "school": "brown",
+      "record": {
+        "name": "Oludurotimi Adetunji",
+        "title": "Adjunct Assistant Professor",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "pederestrup",
+      "school": "brown",
+      "record": {
+        "name": "Peder Estrup",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "pushkarajjoshi",
+      "school": "brown",
+      "record": {
+        "name": "Pushkaraj Joshi",
+        "title": "Senior Research Associate",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "rashidzia",
+      "school": "brown",
+      "record": {
+        "name": "Rashid Zia",
+        "title": "Professor of Engineering and Physics",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "richardgaitskell",
+      "school": "brown",
+      "record": {
+        "name": "Richard Gaitskell",
+        "title": "Hazard Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/rgaitske",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "richardstratt",
+      "school": "brown",
+      "record": {
+        "name": "Richard Stratt",
+        "title": "Professor of Chemistry and Physics",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "robertlanou",
+      "school": "brown",
+      "record": {
+        "name": "Robert Lanou",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/robert-lanou",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "robertpelcovits",
+      "school": "brown",
+      "record": {
+        "name": "Robert Pelcovits",
+        "title": "Professor of Physics, Honors Coordinator",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/rpelcovi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "savvaskoushiappas",
+      "school": "brown",
+      "record": {
+        "name": "Savvas Koushiappas",
+        "title": "Professor of Physics, Director of Graduate Studies (Fall 2026)",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/skoushia",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "seechenying",
+      "school": "brown",
+      "record": {
+        "name": "See-Chen Ying",
+        "title": "",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "spandanmondal",
+      "school": "brown",
+      "record": {
+        "name": "Spandan Mondal",
+        "title": "Research Associate",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "stephonalexander",
+      "school": "brown",
+      "record": {
+        "name": "Stephon Alexander",
+        "title": "Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/salexan4",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "thomaspowers",
+      "school": "brown",
+      "record": {
+        "name": "Thomas Powers",
+        "title": "Professor of Engineering and Physics",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "ulrichheintz",
+      "school": "brown",
+      "record": {
+        "name": "Ulrich Heintz",
+        "title": "Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/uheintz",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "vesnamitrovic",
+      "school": "brown",
+      "record": {
+        "name": "Vesna Mitrović",
+        "title": "Department Chair, L. Herbert Ballou University Professor of Physics & Engineering",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/vmitrovi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "xinshengseanling",
+      "school": "brown",
+      "record": {
+        "name": "Xinsheng Sean Ling",
+        "title": "Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/xling",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-fac-b52",
+      "person_key": "yongpchen",
+      "school": "brown",
+      "record": {
+        "name": "Yong P. Chen",
+        "title": "Visiting Professor of Physics, Villum Investigator and Professor at the Department of Physics and Astronomy at Aarhus University",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/faculty",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/faculty",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-het-b52",
+      "person_key": "anastasiavolovich",
+      "school": "brown",
+      "record": {
+        "name": "Anastasia Volovich",
+        "title": "Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/avolovic",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://physics.brown.edu/research/high-energy-theory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-het-b52",
+      "person_key": "antaljevicki",
+      "school": "brown",
+      "record": {
+        "name": "Antal Jevicki",
+        "title": "Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/anjevick",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://physics.brown.edu/research/high-energy-theory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-het-b52",
+      "person_key": "davidlowe",
+      "school": "brown",
+      "record": {
+        "name": "David Lowe",
+        "title": "Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/dlowe",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://physics.brown.edu/research/high-energy-theory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-het-b52",
+      "person_key": "jijifan",
+      "school": "brown",
+      "record": {
+        "name": "JiJi Fan",
+        "title": "Associate Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/jfan2",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://physics.brown.edu/research/high-energy-theory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-het-b52",
+      "person_key": "marcusspradlin",
+      "school": "brown",
+      "record": {
+        "name": "Marcus Spradlin",
+        "title": "Professor of Physics, Concentration Advisor",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/mspradli",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://physics.brown.edu/research/high-energy-theory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-het-b52",
+      "person_key": "stephonalexander",
+      "school": "brown",
+      "record": {
+        "name": "Stephon Alexander",
+        "title": "Professor of Physics",
+        "research": "",
+        "profile": "https://vivo.brown.edu/display/salexan4",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://physics.brown.edu/research/high-energy-theory",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-post-b52",
+      "person_key": "canonsun",
+      "school": "brown",
+      "record": {
+        "name": "Canon Sun",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/postdoctoral-research-associates",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/postdoctoral-research-associates",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-post-b52",
+      "person_key": "kawaho",
+      "school": "brown",
+      "record": {
+        "name": "Ka Wa Ho",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/postdoctoral-research-associates",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/postdoctoral-research-associates",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-post-b52",
+      "person_key": "laurenhay",
+      "school": "brown",
+      "record": {
+        "name": "Lauren Hay",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/postdoctoral-research-associates",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/postdoctoral-research-associates",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-post-b52",
+      "person_key": "michellevick",
+      "school": "brown",
+      "record": {
+        "name": "Michelle Vick",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/postdoctoral-research-associates",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/postdoctoral-research-associates",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-post-b52",
+      "person_key": "shrutiparanjape",
+      "school": "brown",
+      "record": {
+        "name": "Shruti Paranjape",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/postdoctoral-research-associates",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/postdoctoral-research-associates",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "brown-phys-post-b52",
+      "person_key": "yichaotang",
+      "school": "brown",
+      "record": {
+        "name": "Yichao Tang",
+        "title": "Postdoctoral Research Associate",
+        "research": "",
+        "profile": "https://physics.brown.edu/people/postdoctoral-research-associates",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://physics.brown.edu/people/postdoctoral-research-associates",
+        "checked_at": "2026-11-26"
       }
     },
     {
@@ -513837,19 +518629,6 @@
       "checked_at": "2026-11-24"
     },
     {
-      "url": "https://vivo.brown.edu/display/mchan2",
-      "cache_id": "profile-66a4ea3dfff3c979",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "https://sites.google.com/brown.edu/melody-chan/home",
-        "cv": "https://vivo.brown.edu/source-documents/docs/m/mchan2_cv.pdf?dt=050915214",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
       "url": "https://w-rdb.waseda.jp/html/100000441_en.html",
       "cache_id": "profile-9d921197d03f3dda",
       "status": "source_error",
@@ -571431,21 +576210,7 @@
         }
       ],
       "checkedAt": "2026-11-23",
-      "snapshot": {
-        "source": "OpenAlex",
-        "authorId": "A5020887417",
-        "orcid": null,
-        "url": "https://openalex.org/authors/A5020887417",
-        "authorApiUrl": "https://api.openalex.org/authors/A5020887417",
-        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5020887417,type:article&per_page=1&select=id",
-        "checkedAt": "2026-11-23",
-        "articles": 27,
-        "works": 53,
-        "citations": 1139,
-        "hIndex": 20,
-        "articleScope": "OpenAlex type:article",
-        "citationScope": "OpenAlex 作者档案累计引用"
-      }
+      "candidate_url": "https://openalex.org/authors/A5020887417"
     },
     "mengwei-hu": {
       "status": "identity_review",

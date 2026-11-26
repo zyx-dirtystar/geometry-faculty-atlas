@@ -1999,11 +1999,31 @@
     {
       "id": "brown",
       "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，12 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 1。",
+      "coverageNote": "已解析 13/23 个登记来源，84 条任职或方向待核。 已收录 14 位学者，个人主页 14、CV 13、指标 3。 核对数学系动态总名录全部 52 张具名卡及 5 个职级分栏，几何拓扑 13 张、代数 15 张、分析 11 张、数学研究生 44 张。应用数学教师及博士后、物理系全职级名册及 6 人高能理论组、ICERM 现站、2024–25 年报、当期 K3 项目及其 2026 学期科研人员交叉。Brown 具名 CV、开放职位和 MathJobs 核定了 Tamarkin 与 LFZ/Prager 的任聘类别。团组跨任职、应用学科中非具名方向、部分现任研究任期和计算机几何人员仍有待核项。",
       "rosterLinks": [
+        [
+          "Applied Mathematics · LFZ and Prager terms",
+          "https://www.mathjobs.org/jobs/list/28730"
+        ],
+        [
+          "Applied Mathematics · Faculty",
+          "https://appliedmath.brown.edu/people/faculty"
+        ],
+        [
+          "Applied Mathematics · Postdoctoral Researchers",
+          "https://appliedmath.brown.edu/people/postdoctoral-researchers"
+        ],
+        [
+          "Computer Science · Faculty",
+          "https://cs.brown.edu/people/faculty/"
+        ],
         [
           "数学系 Faculty",
           "https://mathematics.brown.edu/people/faculty?filters=professors"
+        ],
+        [
+          "Mathematics · all faculty and research ranks",
+          "https://mathematics.brown.edu/dsf_people"
         ],
         [
           "数学系 Geometry and Topology",
@@ -2012,9 +2032,69 @@
         [
           "Algebra group",
           "https://mathematics.brown.edu/research/algebra"
+        ],
+        [
+          "ICERM · Computations on K3 Surfaces and Related Varieties",
+          "https://icerm.brown.edu/program/semester_program/sp-f26"
+        ],
+        [
+          "ICERM · Directors, Staff and Emeritus Leadership",
+          "https://icerm.brown.edu/about/people"
+        ],
+        [
+          "ICERM · Program catalog",
+          "https://icerm.brown.edu/programs"
+        ],
+        [
+          "IHES · invited researchers",
+          "https://www.ihes.fr/en/scholars/invited-researchers/"
+        ],
+        [
+          "Mathematics · Algebra",
+          "https://mathematics.brown.edu/research/algebra"
+        ],
+        [
+          "Mathematics · Analysis",
+          "https://mathematics.brown.edu/research/analysis"
+        ],
+        [
+          "Mathematics · Geometry and Topology",
+          "https://mathematics.brown.edu/research/geometry-and-topology"
+        ],
+        [
+          "Mathematics · Graduate Students",
+          "https://mathematics.brown.edu/people/graduate-students"
+        ],
+        [
+          "Mathematics · Administrative Staff",
+          "https://mathematics.brown.edu/people/staff"
+        ],
+        [
+          "Mathematics · Tamarkin appointment terms",
+          "https://mathematics.brown.edu/about/open-positions"
+        ],
+        [
+          "Brown VIVO · Mathematics",
+          "https://vivo.brown.edu/display/org-brown-univ-dept41"
+        ],
+        [
+          "Physics · Faculty",
+          "https://physics.brown.edu/people/faculty"
+        ],
+        [
+          "Physics · High Energy Theory",
+          "https://physics.brown.edu/research/high-energy-theory"
+        ],
+        [
+          "Physics · Postdoctoral Research Associates",
+          "https://physics.brown.edu/people/postdoctoral-research-associates"
+        ],
+        [
+          "ICERM · Arithmetic Geometry, Number Theory and Computation",
+          "https://agntc.org/team_member_group/affiliated-scientists/"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-26"
     },
     {
       "id": "pku",
@@ -14091,17 +14171,635 @@
       "recordStatus": "directory"
     },
     {
+      "id": "anastasia-volovich",
+      "name": "Anastasia Volovich",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "brown",
+          "department": "Department of Physics",
+          "title": "Professor of Physics",
+          "url": "https://vivo.brown.edu/display/avolovic",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://vivo.brown.edu/display/avolovic",
+      "homepageStatus": null,
+      "cvUrl": "https://vivo.brown.edu/docs/a/avolovic_cv.pdf?dt=501703225",
+      "cvType": "校方公开学术 CV（PDF）",
+      "cvStatus": null,
+      "publicationsUrl": "https://vivo.brown.edu/display/avolovic",
+      "publicationCounts": [
+        {
+          "value": 100,
+          "url": "https://openalex.org/authors/A5011089197",
+          "scope": "公开作者作品端的完整已取范围共 131 项。仅计主来源标明期刊、具 DOI 的 article，按 DOI 和题名去重，排除预印本及勘误。其余机构和个人列表有不同覆盖。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "Brown VIVO、期刊与当前职位确认数学物理作者；Scholar 作者档由 Brown VIVO 连接且同列散射振幅。OA 计数不一致。 作者端 160，可检索作品端 131。",
+      "metrics": [
+        {
+          "source": "Google Scholar",
+          "authorId": "O9I8NagAAAAJ",
+          "url": "https://scholar.google.com/citations?hl=en&user=O9I8NagAAAAJ",
+          "citations": 8812,
+          "checkedAt": "2026-11-26",
+          "citationScope": "Google Scholar All 列累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Motivic amplitudes and cluster coordinates",
+          "year": 2014,
+          "url": "https://doi.org/10.1007/JHEP01(2014)091",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Mathematical physics, positive geometry and algebraic geometry of Grassmannians, cluster coordinates, scattering amplitudes",
+          "url": "https://doi.org/10.1007/JHEP01(2014)091"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "brendan-hassett",
+      "name": "Brendan Hassett",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "brown",
+          "department": "Department of Mathematics",
+          "title": "Jonathan Nelson University Professor of Mathematics, Director of ICERM",
+          "url": "https://mathematics.brown.edu/people/brendan-hassett",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/view/brendan-hassett",
+      "homepageStatus": null,
+      "cvUrl": "https://www.math.brown.edu/bhassett/cv/Curriculum_Vitae.pdf",
+      "cvType": "本人主页公开学术 CV（PDF）",
+      "cvStatus": null,
+      "publicationsUrl": "https://sites.google.com/view/brendan-hassett/papers-and-preprints",
+      "publicationCounts": [
+        {
+          "value": 56,
+          "url": "https://openalex.org/authors/A5025173159",
+          "scope": "公开作者作品端的完整已取范围共 103 项。仅计主来源标明期刊、具 DOI 的 article，按 DOI 和题名去重，排除预印本及勘误。其余机构和个人列表有不同覆盖。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [
+        {
+          "label": "ICERM 2027 年秋 Applied and Computational Complex Analysis 访问博士后",
+          "url": "https://www.mathjobs.org/jobs/list/29114",
+          "type": "博士后",
+          "status": "公开招聘，页面标为列示至 2027-04-02，未设申请截止日",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "identityNote": "Brown 执教、ICERM 当前项目及 Special Cubic Fourfolds 刊本匹配。一条反序姓名簇另记，未合并引用。 作者端 132，可检索作品端 103。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Special Cubic Fourfolds",
+          "year": 2000,
+          "url": "https://doi.org/10.1023/A:1001706324425",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Moduli spaces of weighted pointed stable curves",
+          "year": 2003,
+          "url": "https://doi.org/10.1016/S0001-8708(02)00058-0",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, arithmetic geometry, moduli of K3 surfaces and special cubic fourfolds, Hodge theory",
+          "url": "https://icerm.brown.edu/program/semester_program/sp-f26"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "christine-breiner",
+      "name": "Christine Breiner",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "brown",
+          "department": "Department of Mathematics",
+          "title": "Associate Professor",
+          "url": "https://mathematics.brown.edu/people/christine-breiner",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/brown.edu/christine-breiner-brown/home",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查过系具名任职、VIVO 的教育和研究栏目、本人站主页及 Research，并做姓名加 CV 检索，尚无核准公开 CV。",
+      "publicationsUrl": "https://sites.google.com/brown.edu/christine-breiner-brown/research",
+      "publicationCounts": [
+        {
+          "value": 20,
+          "url": "https://openalex.org/authors/A5076770131",
+          "scope": "公开作者作品端的完整已取范围共 26 项。仅计主来源标明期刊、具 DOI 的 article，按 DOI 和题名去重，排除预印本及勘误。其余机构和个人列表有不同覆盖。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "Brown 具名研究主页、CMC 与 Euclidean buildings 合作者可交叉。另一个同名是高分子研究者。已核本人公开论文页，未见可确认 Scholar。 作者端 29，可检索作品端 26。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Conformal structure of minimal surfaces with finite topology",
+          "year": 2011,
+          "url": "https://doi.org/10.4171/cmh/226",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Embedded constant mean curvature surfaces in Euclidean three-space",
+          "year": 2015,
+          "url": "https://doi.org/10.1007/s00208-014-1056-0",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis, constant mean curvature surfaces, minimal surfaces and harmonic maps",
+          "url": "https://sites.google.com/brown.edu/christine-breiner-brown/research"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "dan-abramovich",
+      "name": "Dan Abramovich",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "brown",
+          "department": "Department of Mathematics",
+          "title": "L. Herbert Ballou University Professor",
+          "url": "https://mathematics.brown.edu/people/dan-abramovich",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.brown.edu/dabramov/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.math.brown.edu/dabramov/PAPERS/cv.pdf",
+      "cvType": "公开学术 CV（PDF，2026-03-21）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.brown.edu/dabramov/",
+      "publicationCounts": [
+        {
+          "value": 47,
+          "url": "https://openalex.org/authors/A5068737130",
+          "scope": "公开作者作品端的完整已取范围共 115 项。仅计主来源标明期刊、具 DOI 的 article，按 DOI 和题名去重，排除预印本及勘误。其余机构和个人列表有不同覆盖。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "具名公开简历 ORCID、Brown 任职和 JAMS / AJM 作者交叉。个人 CV 已查，累积引用待核。 作者端 147，可检索作品端 115。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Gromov-Witten theory of Deligne-Mumford stacks",
+          "year": 2008,
+          "url": "https://doi.org/10.1353/ajm.0.0017",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Torification and factorization of birational maps",
+          "year": 2002,
+          "url": "https://doi.org/10.1090/s0894-0347-02-00396-x",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, logarithmic geometry, moduli of stable maps, Gromov–Witten theory and birational factorization",
+          "url": "https://www.math.brown.edu/dabramov/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "eric-larson",
+      "name": "Eric Larson",
+      "aliases": [
+        "Eric K. Larson"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "brown",
+          "department": "Department of Mathematics",
+          "title": "Associate Professor",
+          "url": "https://mathematics.brown.edu/people/eric-larson",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.brown.edu/elarso19/",
+      "homepageStatus": null,
+      "cvUrl": "https://vivo.brown.edu/docs/e/elarso19_cv.pdf?dt=440415214",
+      "cvType": "校方公开学术 CV（PDF，2025-04-25；现职采用当期系名册）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.brown.edu/elarso19/",
+      "publicationCounts": [
+        {
+          "value": 26,
+          "url": "https://openalex.org/authors/A5047115153",
+          "scope": "公开作者作品端的完整已取范围共 32 项。仅计主来源标明期刊、具 DOI 的 article，按 DOI 和题名去重，排除预印本及勘误。其余机构和个人列表有不同覆盖。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "由 Brown 署名的 Cambridge 原文 DOI 锚定，Isabel Vogt 和 Hannah Larson 共同论文及个人刊表互证。排除同名医学、能源作者。 作者端 36，可检索作品端 32。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Interpolation for Brill–Noether curves",
+          "year": 2023,
+          "url": "https://doi.org/10.1017/fmp.2023.22",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Global Brill–Noether theory over the Hurwitz space",
+          "year": 2025,
+          "url": "https://doi.org/10.2140/gt.2025.29.193",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, Brill–Noether theory, moduli and interpolation of algebraic curves, normal bundles",
+          "url": "https://www.math.brown.edu/elarso19/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "george-daskalopoulos",
+      "name": "George Daskalopoulos",
+      "aliases": [
+        "Georgios Daskalopoulos",
+        "Georgios D. Daskalopoulos"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "brown",
+          "department": "Department of Mathematics",
+          "title": "Professor",
+          "url": "https://mathematics.brown.edu/people/george-daskalopoulos",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.brown.edu/gdaskalo/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.math.brown.edu/gdaskalo/CV.pdf",
+      "cvType": "本人公开学术 CV（PDF，简版）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.brown.edu/gdaskalo/",
+      "publicationCounts": [
+        {
+          "value": 38,
+          "url": "https://openalex.org/authors/A5031899165",
+          "scope": "公开作者作品端的完整已取范围共 50 项。仅计主来源标明期刊、具 DOI 的 article，按 DOI 和题名去重，排除预印本及勘误。其余机构和个人列表有不同覆盖。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "当前 Brown CV、Springer 文献与 Georgios 拼写一致。排除医疗机构同名、软件作者及哥伦比亚 Panagiota。检索过本人主页和列出的成果，累计引用待核。 作者端 55，可检索作品端 50。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Rigidity of Teichmüller space",
+          "year": 2021,
+          "url": "https://doi.org/10.1007/s00222-020-01020-2",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry and differential geometry, geometric analysis, Kähler rigidity, gauge theory and Teichmüller spaces",
+          "url": "https://www.math.brown.edu/gdaskalo/CV.pdf"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "isabel-vogt",
+      "name": "Isabel Vogt",
+      "aliases": [
+        "Isabel M. Vogt"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "brown",
+          "department": "Department of Mathematics",
+          "title": "Associate Professor, Director of Undergraduate Studies",
+          "url": "https://mathematics.brown.edu/people/isabel-vogt",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.brown.edu/ivogt/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.math.brown.edu/ivogt/ivogtCV.pdf",
+      "cvType": "公开学术 CV（PDF，2026-10-14）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.brown.edu/ivogt/",
+      "publicationCounts": [
+        {
+          "value": 28,
+          "url": "https://openalex.org/authors/A5049912082",
+          "scope": "公开作者作品端的完整已取范围共 41 项。仅计主来源标明期刊、具 DOI 的 article，按 DOI 和题名去重，排除预印本及勘误。其余机构和个人列表有不同覆盖。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "以本人的 Brown 主页、CV 同卷期以及 Cambridge 刊本核对 OA，排除医学同名；Scholar 页面由本人官网链接，All 引用可验。 作者端 43，可检索作品端 41。",
+      "metrics": [
+        {
+          "source": "Google Scholar",
+          "authorId": "umpkI2QAAAAJ",
+          "url": "https://scholar.google.com/citations?hl=en&user=umpkI2QAAAAJ",
+          "citations": 347,
+          "checkedAt": "2026-11-26",
+          "citationScope": "Google Scholar All 列累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Global Brill–Noether theory over the Hurwitz space",
+          "year": 2025,
+          "url": "https://doi.org/10.2140/gt.2025.29.193",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Interpolation for Brill–Noether curves",
+          "year": 2023,
+          "url": "https://doi.org/10.1017/fmp.2023.22",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and number theory, Brill–Noether theory, algebraic curves and rational points on varieties",
+          "url": "https://www.math.brown.edu/ivogt/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jeremy-kahn",
+      "name": "Jeremy Kahn",
+      "aliases": [
+        "Jeremy A. Kahn"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "brown",
+          "department": "Department of Mathematics",
+          "title": "Professor",
+          "url": "https://mathematics.brown.edu/people/jeremy-kahn",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.brown.edu/jk17/",
+      "homepageStatus": null,
+      "cvUrl": "https://vivo.brown.edu/docs/j/jk17_cv.pdf",
+      "cvType": "校方公开学术 CV（PDF，2023-01-31）",
+      "cvStatus": null,
+      "publicationsUrl": "https://vivo.brown.edu/docs/j/jk17_cv.pdf",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "布朗和 Clay 具名数学简介及 Kahn–Markovic Annals 刊本互证。Pittsburgh 医学作者档排除。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5080003035",
+          "url": "https://openalex.org/authors/A5080003035",
+          "works": 31,
+          "articles": 22,
+          "citations": 867,
+          "checkedAt": "2026-11-26",
+          "authorApiUrl": "https://api.openalex.org/authors/A5080003035",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5080003035,type:article&per_page=1&select=id",
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Immersing almost geodesic surfaces in a closed hyperbolic three manifold",
+          "year": 2012,
+          "url": "https://doi.org/10.4007/annals.2012.175.3.4",
+          "type": "期刊论文"
+        },
+        {
+          "title": "The quasi-additivity law in conformal geometry",
+          "year": 2009,
+          "url": "https://doi.org/10.4007/annals.2009.169.561",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and complex geometry, hyperbolic three-manifolds, Teichmüller theory and conformal geometry",
+          "url": "https://vivo.brown.edu/docs/j/jk17_cv.pdf"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "joseph-silverman",
+      "name": "Joseph Silverman",
+      "aliases": [
+        "Joseph H. Silverman"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "brown",
+          "department": "Department of Mathematics",
+          "title": "Ford Foundation Professor of Mathematics",
+          "url": "https://mathematics.brown.edu/people/joseph-silverman",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.brown.edu/johsilve/",
+      "homepageStatus": null,
+      "cvUrl": "https://vivo.brown.edu/docs/j/johsilve_cv.pdf?dt=102808114",
+      "cvType": "公开学术 CV（PDF，2023-12-15；现任讲席按校方当前档）",
+      "cvStatus": null,
+      "publicationsUrl": "https://vivo.brown.edu/display/johsilve",
+      "publicationCounts": [
+        {
+          "value": 126,
+          "url": "https://openalex.org/authors/A5058156788",
+          "scope": "公开作者作品端的完整已取范围共 152 项。仅计主来源标明期刊、具 DOI 的 article，按 DOI 和题名去重，排除预印本及勘误。其余机构和个人列表有不同覆盖。",
+          "checkedAt": "2026-11-26"
+        },
+        {
+          "value": 92,
+          "url": "https://vivo.brown.edu/display/johsilve",
+          "scope": "学校 VIVO Publications 的 Article 分栏明确标注 92，共 125 条。口径为校内科研档登记。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "Brown 现任、VIVO 履历、公开 CV、ORCID 及椭圆曲线专著相互对应。排除音乐治疗同名，并保留机构明确发表范围。 作者端 331，可检索作品端 303。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The Arithmetic of Elliptic Curves",
+          "year": 2009,
+          "url": "https://doi.org/10.1007/978-0-387-09494-6",
+          "type": "研究专著"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic geometry and algebraic geometry, elliptic surfaces and curves, arithmetic dynamics and K3 surface orbits",
+          "url": "https://vivo.brown.edu/display/johsilve"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "marcus-spradlin",
+      "name": "Marcus Spradlin",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "brown",
+          "department": "Department of Physics",
+          "title": "Professor of Physics",
+          "url": "https://vivo.brown.edu/display/mspradli",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://vivo.brown.edu/display/mspradli",
+      "homepageStatus": null,
+      "cvUrl": "https://vivo.brown.edu/docs/m/mspradli_cv.pdf?dt=142614317",
+      "cvType": "校方公开学术 CV（PDF）",
+      "cvStatus": null,
+      "publicationsUrl": "https://vivo.brown.edu/display/mspradli",
+      "publicationCounts": [
+        {
+          "value": 103,
+          "url": "https://openalex.org/authors/A5077331978",
+          "scope": "公开作者作品端的完整已取范围共 131 项。仅计主来源标明期刊、具 DOI 的 article，按 DOI 和题名去重，排除预印本及勘误。其余机构和个人列表有不同覆盖。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "Brown VIVO 与散射振幅代表作及 Volovich 合作者交叉。聚合端点数不同。未核准本人公开 Scholar。 作者端 165，可检索作品端 131。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Motivic amplitudes and cluster coordinates",
+          "year": 2014,
+          "url": "https://doi.org/10.1007/JHEP01(2014)091",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Mathematical physics, positive geometry and algebraic geometry of Grassmannians, cluster coordinates, scattering amplitudes",
+          "url": "https://doi.org/10.1007/JHEP01(2014)091"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
       "id": "melody-chan",
       "name": "Melody Chan",
       "aliases": [],
       "affiliations": [
         {
           "schoolId": "brown",
-          "department": "数学系",
-          "title": "Professor of Mathematics",
-          "url": "https://vivo.brown.edu/display/mchan2",
+          "department": "Department of Mathematics",
+          "title": "Professor",
+          "url": "https://mathematics.brown.edu/people/melody-chan",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -14111,30 +14809,21 @@
       "homepage": "https://www.math.brown.edu/mchan2/",
       "homepageStatus": null,
       "cvUrl": "https://www.math.brown.edu/mchan2/MChanCV.pdf",
-      "cvType": null,
+      "cvType": "公开学术 CV（PDF，2026 年 9 月版本）",
       "cvStatus": null,
       "publicationsUrl": "https://www.math.brown.edu/mchan2/",
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
-      "metrics": [
+      "publicationCounts": [
         {
-          "source": "OpenAlex",
-          "authorId": "A5020887417",
-          "orcid": null,
+          "value": 25,
           "url": "https://openalex.org/authors/A5020887417",
-          "authorApiUrl": "https://api.openalex.org/authors/A5020887417",
-          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5020887417,type:article&per_page=1&select=id",
-          "checkedAt": "2026-11-23",
-          "articles": 27,
-          "works": 53,
-          "citations": 1139,
-          "hIndex": 20,
-          "articleScope": "OpenAlex type:article",
-          "citationScope": "OpenAlex 作者档案累计引用"
+          "scope": "公开作者作品端的完整已取范围共 46 项。仅计主来源标明期刊、具 DOI 的 article，按 DOI 和题名去重，排除预印本及勘误。其余机构和个人列表有不同覆盖。",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "identityUrl": null,
+      "opportunities": [],
+      "identityNote": "本人 Brown CV、JAMS 热带曲线作者与机构一致；排除同名神经医学簇。累积引用复核暂缓，个人站和 CV 已复核。 作者端 53，可检索作品端 46。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5020887417",
       "papers": [
         {
           "title": "On the weight zero compactly supported cohomology of",
@@ -14150,11 +14839,17 @@
           "title": "THE EXPECTED JAGGEDNESS OF ORDER IDEALS",
           "year": 2017,
           "url": "https://doi.org/10.1017/fms.2017.5"
+        },
+        {
+          "title": "Tropical curves, graph complexes, and top weight cohomology of ℳg",
+          "year": 2021,
+          "url": "https://doi.org/10.1090/jams/965",
+          "type": "期刊论文"
         }
       ],
       "directoryEvidence": [
         {
-          "text": "Combinatorial algebraic geometry, tropical geometry and moduli of algebraic curves",
+          "text": "Algebraic geometry, tropical geometry, graph complexes and moduli of algebraic curves",
           "url": "https://www.math.brown.edu/mchan2/"
         },
         {
@@ -14162,7 +14857,184 @@
           "url": "https://www.math.brown.edu/mchan2/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "nicolaos-kapouleas",
+      "name": "Nicolaos Kapouleas",
+      "aliases": [
+        "Nicos Kapouleas",
+        "Nikolaos Kapouleas"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "brown",
+          "department": "Department of Mathematics",
+          "title": "Professor",
+          "url": "https://mathematics.brown.edu/people/nicos-kapouleas",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://mathematics.brown.edu/people/nicos-kapouleas",
+      "homepageStatus": null,
+      "cvUrl": "https://vivo.brown.edu/docs/drrb/1106970222.pdf",
+      "cvType": "校方公开学术 CV（PDF，简版）",
+      "cvStatus": null,
+      "publicationsUrl": "https://mathematics.brown.edu/people/nicos-kapouleas",
+      "publicationCounts": [
+        {
+          "value": 23,
+          "url": "https://openalex.org/authors/A5085297175",
+          "scope": "公开作者作品端的完整已取范围共 31 项。仅计主来源标明期刊、具 DOI 的 article，按 DOI 和题名去重，排除预印本及勘误。其余机构和个人列表有不同覆盖。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "Nicos、Nicolaos 与 Nikolaos 对应同一具名 CV，Brown 和极小曲面刊本互证。查校方公开列表和作者档，两端不同，引用待核。 作者端 36，可检索作品端 31。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Complete Constant Mean Curvature Surfaces in Euclidean Three-Space",
+          "year": 1990,
+          "url": "https://doi.org/10.2307/1971494",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Minimal surfaces in the three-sphere by doubling the Clifford torus",
+          "year": 2010,
+          "url": "https://doi.org/10.1353/ajm.0.0104",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis, minimal and constant mean curvature surfaces, gluing and desingularization",
+          "url": "https://mathematics.brown.edu/people/nicos-kapouleas"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "nicole-looper",
+      "name": "Nicole Looper",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "brown",
+          "department": "Department of Mathematics",
+          "title": "Associate Professor",
+          "url": "https://mathematics.brown.edu/people/nicole-looper",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/view/nicole-looper",
+      "homepageStatus": null,
+      "cvUrl": "https://drive.google.com/file/d/13crHxf52BVHp10pJueXBAXZyJk3pd_BE/view",
+      "cvType": "本人 CV 栏嵌入的公开 PDF（文件为 LooperCVDec2025）",
+      "cvStatus": null,
+      "publicationsUrl": "https://sites.google.com/view/nicole-looper/research",
+      "publicationCounts": [
+        {
+          "value": 7,
+          "url": "https://openalex.org/authors/A5039070582",
+          "scope": "公开作者作品端的完整已取范围共 13 项。仅计主来源标明期刊、具 DOI 的 article，按 DOI 和题名去重，排除预印本及勘误。其余机构和个人列表有不同覆盖。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "由本人当前 Brown 主页、历史 UIC 和 Manin–Mumford 刊本互证。本人公开 Research 名录已补核，累计引用缺少一致作者档。 作者端 14，可检索作品端 13。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "A uniform quantitative Manin–Mumford theorem for curves over function fields",
+          "year": 2025,
+          "url": "https://doi.org/10.1515/crelle-2025-0055",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and arithmetic dynamics, function-field curves, canonical heights and Manin–Mumford",
+          "url": "https://sites.google.com/view/nicole-looper/research"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "richard-schwartz",
+      "name": "Richard Schwartz",
+      "aliases": [
+        "Richard Evan Schwartz"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "brown",
+          "department": "Department of Mathematics",
+          "title": "Chancellor's Professor of Mathematics, Director of Undergraduate Studies",
+          "url": "https://mathematics.brown.edu/people/richard-schwartz",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.brown.edu/reschwar/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.math.brown.edu/reschwar/cv.html",
+      "cvType": "本人公开学术 CV（HTML，含 2026–2028 访问讲席）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.brown.edu/reschwar/papers.html",
+      "publicationCounts": [
+        {
+          "value": 61,
+          "url": "https://openalex.org/authors/A5011629087",
+          "scope": "公开作者作品端的完整已取范围共 182 项。仅计主来源标明期刊、具 DOI 的 article，按 DOI 和题名去重，排除预印本及勘误。其余机构和个人列表有不同覆盖。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "本人 Brown 现职、CV 和 Pentagram Map / CR 几何出版档确证数学簇。语音识别簇 A5110434216 的高引作品署 BBN 研究员却误用同一 ORCID。只报告确证的数学范围，累计引用待核。 作者端 189，可检索作品端 182。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Spherical CR Geometry and Dehn Surgery",
+          "year": 2007,
+          "url": "https://press.princeton.edu/books/paperback/9780691128108/spherical-cr-geometry-and-dehn-surgery",
+          "type": "研究专著"
+        },
+        {
+          "title": "The quasi-isometry classification of rank one lattices",
+          "year": 1995,
+          "url": "https://doi.org/10.1007/BF02698639",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry and differential geometry, spherical CR structures, complex hyperbolic geometry, discrete groups and dynamics",
+          "url": "https://vivo.brown.edu/display/reschwar"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
