@@ -1,8 +1,8 @@
 # 几何学者库进度
 
 更新日期 2026-11-26。QS 2026 数学 200 所，软科 GRAS 2026 数学 100 所，两榜合并去重 222 所。已登记来源 222 所，至少有一个已解析来源 222 所。
-目录去重后共 20056 条学者与学校记录，来源外的任职或研究交叉需要继续复核。
-网页收录 1278 位，覆盖 220 所。有个人主页 792 位、公开 CV 403 位、发表列表 579 位、代表作 468 位、机构或作者计数 201 位、OpenAlex 指标 372 位、Google Scholar 指标 20 位。
+目录去重后共 20227 条学者与学校记录，来源外的任职或研究交叉需要继续复核。
+网页收录 1286 位，覆盖 220 所。有个人主页 802 位、公开 CV 410 位、发表列表 587 位、代表作 476 位、机构或作者计数 211 位、OpenAlex 指标 371 位、Google Scholar 指标 20 位。
 有 6741 个个人页面的可读访问记录。校级全名单对账完成 15 所。
 
 ## 公开 CV 链接复核
@@ -15,7 +15,7 @@
 
 ## 最近一轮作者档案复核
 
-2026-11-26 逐项核对 12 位学者的 ORCID、具名论文和机构资料。确认 1 个 OpenAlex 作者档案，搁置 11 个有身份或作品争议的 OpenAlex 档案，另确认 2 个 Google Scholar 作者档案。归属证据、替代计量和检索结果见学者字段复核表。
+2026-11-26 逐项核对 18 位学者的 ORCID、具名论文和机构资料。确认 5 个 OpenAlex 作者档案，搁置 13 个有身份或作品争议的 OpenAlex 档案，另确认 0 个 Google Scholar 作者档案。归属证据、替代计量和检索结果见学者字段复核表。
 
 ## 原待查批次
 
@@ -57,7 +57,7 @@
 | 耶鲁大学 | 31 | 25 | 工作名单 | [数学系 Faculty](https://math.yale.edu/people/faculty) | 3 | 0 / 0 / 0 | 13 |
 | 清华大学 | =12 | 26 | 工作名单 | [数学科学系代数研究团队](https://www.math.tsinghua.edu.cn/info/1013/1631.htm) · [微分几何与几何分析研究团队](https://www.math.tsinghua.edu.cn/info/1013/1639.htm) · [数学科学系教师目录](https://www.math.tsinghua.edu.cn/szdw1/js/aszm.htm) · [丘成桐数学科学中心助理教授](https://ymsc.tsinghua.edu.cn/sxxr/zxjs/zljs.htm) · [丘成桐数学科学中心副教授](https://ymsc.tsinghua.edu.cn/sxxr/zxjs/fjs.htm) · [丘成桐数学科学中心教授](https://ymsc.tsinghua.edu.cn/sxxr/zxjs/js.htm) | 30 | 0 / 1 / 1 | 13 |
 | 波恩大学 | 39 | 27 | 工作名单 | [Bonn Mathematics People](https://www.mathematics.uni-bonn.de/en/people/people) | 4 | 4 / 1 / 2 | 21 |
-| 日内瓦大学 | — | 28 | 工作名单 | [Section of Mathematics · Faculty and Researchers](https://www.unige.ch/math/en/section/enseignants-et-chercheurs-2) · [Section de mathématiques · Groupes de recherche](https://www.unige.ch/math/recherche/groupes-de-recherche) · [Section de mathématiques · Enseignants et chercheurs](https://www.unige.ch/math/la-section/enseignants-et-chercheurs) · [Section de mathématiques · Groupes de recherche](https://www.unige.ch/math/recherche/groupes-de-recherche) · [Geneva University Tropical Group](https://www.unige.ch/math/tggroup/doku.php?id=start) | 2 | 0 / 0 / 1 | 2 |
+| 日内瓦大学 | — | 28 | 工作名单 | [Mathematics · Algèbre et Géométrie](https://www.unige.ch/math/recherche/groupes-de-recherche) · [Mathematics · Analyse, Physique mathématique et Probabilités](https://www.unige.ch/math/recherche/groupes-de-recherche) · [Cosmology and Astroparticle Physics · members](https://cosmology.unige.ch/people) · [Department of Theoretical Physics · members](https://fiteoweb.unige.ch/members.php?lang=en) · [Theoretical Physics · older school overview](https://www.unige.ch/sciences/physique/theorique/en/) · [Section of Mathematics · Faculty and Researchers](https://www.unige.ch/math/en/section/enseignants-et-chercheurs-2) · [Geneva Advances in Mathematics and Applications](https://www.unige.ch/math/recherche/G-AMMA) · [SwissMAP Research Station](https://swissmaprs.ch/) · [Geneva Institute for Theoretical Sciences](https://www.unige.ch/math/GIST/about) · [Section de mathématiques · Groupes de recherche](https://www.unige.ch/math/recherche/groupes-de-recherche) · [Gravitational Wave Science Center](https://gwsc.unige.ch/members/) · [Mathematics · Faculty and Researchers (English)](https://www.unige.ch/math/en/section/enseignants-et-chercheurs-2) · [Section de mathématiques · Enseignants et chercheurs](https://www.unige.ch/math/la-section/enseignants-et-chercheurs) · [Mathematics · Faculty and Researchers (French)](https://www.unige.ch/math/la-section/enseignants-et-chercheurs) · [Mathematics · Analyse numérique](https://www.unige.ch/math/recherche/groupes-de-recherche) · [2027 mathematical physics opportunity](https://academicjobsonline.org/ajo/jobs/33221) · [Section de mathématiques · Groupes de recherche](https://www.unige.ch/math/recherche/groupes-de-recherche) · [Theoretical Physics · Sonner group](https://fiteoweb.unige.ch/~sonner/group) · [SwissMAP · All Researchers](https://www.nccr-swissmap.ch/members/researcher/researcher) · [SwissMAP Doctoral Student](https://www.nccr-swissmap.ch/members/researcher/phd) · [SwissMAP Postdoctoral Researcher](https://www.nccr-swissmap.ch/members/researcher/postdoc) · [SwissMAP Professor](https://www.nccr-swissmap.ch/members/researcher/professor) · [SwissMAP Senior Researcher](https://www.nccr-swissmap.ch/members/researcher/seniorr) · [Geneva 2026–2027 course catalogue](https://pgc.unige.ch/main/teachings/details/2026-14M900) · [Geneva Tropical Group · current and former members](https://www.unige.ch/math/tggroup/doku.php?id=start) · [Geneva University Tropical Group](https://www.unige.ch/math/tggroup/doku.php?id=start) | 10 | 10 / 7 / 0 | 83 |
 | 石溪大学 | — | 29 | 工作名单 | [代数几何研究组](https://www.math.stonybrook.edu/AlgebraicGeometry/) · [数学系 Faculty](https://www.math.stonybrook.edu/faculty) | 18 | 17 / 11 / 6 | 15 |
 | 威斯康星大学麦迪逊分校 | =96 | 29 | 工作名单 | [Math Faculty · 公开任职类别](https://www.math.wisc.edu/wp-json/wp/v2/uw_staff_type?per_page=100) · [数学系 All Department Directory](https://www.math.wisc.edu/all-department-directory/) · [数学系 Math Faculty · 公开名单数据](https://www.math.wisc.edu/wp-json/wp/v2/uw_staff?uw_staff_type=20%2C21%2C22%2C52&per_page=100) · [数学系 Math Faculty](https://www.math.wisc.edu/math-faculty/) | 1 | 1 / 1 / 0 | 56 |
 | 布朗大学 | =56 | 31 | 工作名单 | [数学系 Faculty](https://mathematics.brown.edu/people/faculty?filters=professors) · [数学系 Geometry and Topology](https://mathematics.brown.edu/research/geometry-and-topology) · [Algebra group](https://mathematics.brown.edu/research/algebra) | 1 | 1 / 1 / 1 | 12 |
@@ -271,7 +271,7 @@
 - 巴黎西岱大学。已逐条查看 TGA 雇主标签及方向证据。Olivier Debarre 在本人 IMJ-PRG 页标注荣休。学院其余分组及联合任职仍待核。 补核 IMJ–PRG 官方全名册 10 类、487 行原始任职／学籍信息；按雇主与驻所校区匹配 198 项。CNRS／INRIA 所在校区仅作为联合研究所归属线索。 核对应用数学联合实验室 LJLL 的 15 张同校实际雇主记录。
 - 多伦多大学。Mississauga 校区数学教师目录已提取；主站跨校区全院目录出现访问验证，已补可验证的个别校区记录。
 - 罗格斯大学新布朗斯维克分校。已读取 New Brunswick 的学校目录及领域页。目录混有教师和学生，并按显示职位分类，人士更名及未公开方向待核。
-- 日内瓦大学。院系全名录的直接访问呈安全验证。已核录院系研究组可索引的代数与几何组可见成员及个别当前个人档案。
+- 日内瓦大学。数学组索引核对 25 当前具名、7 荣誉和 16 历史条目。热带几何组单独核 1 现任、19 前成员和 5 名已毕业博士，旧分组与 Roma Tor Vergata、图卢兹 CNRS、Tübingen 和 Sorbonne 现职交叉。理论物理完整通讯录英法一致共 56 人，46 人有具名职位说明。另核 Cosmology 27 人、Sonner 组、GWSC 和跨院 G·IST。逐页读取 SwissMAP 当前综合 19 页 223 项，其中 69 项以 UNIGE 署名，并核 6 页教授、2 页高级科研、6 页博士后和 7 页博士生。英法数学总名录及部分个人页直访为安全验证页，保留可读公开索引、项目档、大学当期教学和任职档。若干当前合约、跨院名录和数学总表仍待核。
 - 东京大学。日文现任五十音、2026–27 指导、英文现任及四研究领域与特任、特别教授、客员四名、连携中心三分栏和日法实验室交叉。本批补入学校 2024–26 三届名誉教授公报与 2026-11 荣休公告，区分退休后特任及标有期限的短访。核对数理科学研究科当年访客 68 次和 Kavli IPMU 2026 全表 649 次，按具体期间处理。IPMU 数据库的所有职类、联属与学生分栏以及 7 位数学教师、5 位数学 Senior Fellow、12 位数学项目研究员、31 位数学 Affiliate 均已核复。逐项核实小林俊行当前教授和 IHÉS 访问，以及英文和日文作者档案的同名或拆档问题。各历史届累计荣休总表公开时段不齐，部分 2026 后续数理科学研究科访客没有出现在现行页面，仍需校方年度与独立个人档核查。
 - 复旦大学。上海数学中心 Current Faculty & Researchers 名册已核录。数学科学学院教职员工目录的名单未随页面静态返回，两个院系的其他人员及重叠任职待核。
 - 维也纳大学。数学学院英文 405 具名员工及德文镜像。数学三方向总页七个分组，另核代数、应用 PDE、计算与数据、动力系统等方向。几何 PDE 独立现任分册含 3 常任、2 PI、4 博士后、2 博士前、3 访问。复分析组织另分常任、访问、博士前后和离任。FWF Einstein 几何团队、ESI、WPI 四类成员、数学物理以及 VSM 与 TU Wien 联合结构分别查阅。u:cris 组织 Persons 403，动态 u:find 静态仅有壳，旧 staff 404，改读现行学院名单及个别 u:cris。部分科研人员合同、跨院成员和其余方向待对账。
@@ -512,9 +512,19 @@
 - 复旦大学 · 数学科学学院 学术队伍（新版）。已保存网页，目录为动态列表或结构尚未对账。 [数学科学学院 学术队伍（新版）](https://math.fudan.edu.cn/xsdw/list.htm)
 - 复旦大学 · 数学科学学院 数学系现任教师。已保存网页，目录为动态列表或结构尚未对账。 [数学科学学院 数学系现任教师](https://math.fudan.edu.cn/sxx/list.htm)
 - 复旦大学 · 数学科学学院 学术队伍（学院栏目）。已保存网页，目录为动态列表或结构尚未对账。 [数学科学学院 学术队伍（学院栏目）](https://math.fudan.edu.cn/30301/list.htm)
+- 日内瓦大学 · Theoretical Physics · older school overview。尚未取得网页。 [Theoretical Physics · older school overview](https://www.unige.ch/sciences/physique/theorique/en/)
 - 日内瓦大学 · Section of Mathematics · Faculty and Researchers。已保存网页，目录为动态列表或结构尚未对账。 [Section of Mathematics · Faculty and Researchers](https://www.unige.ch/math/en/section/enseignants-et-chercheurs-2)
+- 日内瓦大学 · Geneva Advances in Mathematics and Applications。尚未取得网页。 [Geneva Advances in Mathematics and Applications](https://www.unige.ch/math/recherche/G-AMMA)
+- 日内瓦大学 · SwissMAP Research Station。尚未取得网页。 [SwissMAP Research Station](https://swissmaprs.ch/)
+- 日内瓦大学 · Geneva Institute for Theoretical Sciences。尚未取得网页。 [Geneva Institute for Theoretical Sciences](https://www.unige.ch/math/GIST/about)
 - 日内瓦大学 · Section de mathématiques · Groupes de recherche。已保存网页，目录为动态列表或结构尚未对账。 [Section de mathématiques · Groupes de recherche](https://www.unige.ch/math/recherche/groupes-de-recherche)
+- 日内瓦大学 · Gravitational Wave Science Center。尚未取得网页。 [Gravitational Wave Science Center](https://gwsc.unige.ch/members/)
+- 日内瓦大学 · Mathematics · Faculty and Researchers (English)。尚未取得网页。 [Mathematics · Faculty and Researchers (English)](https://www.unige.ch/math/en/section/enseignants-et-chercheurs-2)
 - 日内瓦大学 · Section de mathématiques · Enseignants et chercheurs。已保存网页，目录为动态列表或结构尚未对账。 [Section de mathématiques · Enseignants et chercheurs](https://www.unige.ch/math/la-section/enseignants-et-chercheurs)
+- 日内瓦大学 · Mathematics · Faculty and Researchers (French)。尚未取得网页。 [Mathematics · Faculty and Researchers (French)](https://www.unige.ch/math/la-section/enseignants-et-chercheurs)
+- 日内瓦大学 · 2027 mathematical physics opportunity。尚未取得网页。 [2027 mathematical physics opportunity](https://academicjobsonline.org/ajo/jobs/33221)
+- 日内瓦大学 · Theoretical Physics · Sonner group。尚未取得网页。 [Theoretical Physics · Sonner group](https://fiteoweb.unige.ch/~sonner/group)
+- 日内瓦大学 · Geneva 2026–2027 course catalogue。尚未取得网页。 [Geneva 2026–2027 course catalogue](https://pgc.unige.ch/main/teachings/details/2026-14M900)
 - 日内瓦大学 · Geneva University Tropical Group。已保存网页，目录为动态列表或结构尚未对账。 [Geneva University Tropical Group](https://www.unige.ch/math/tggroup/doku.php?id=start)
 - 格拉斯哥大学 · Core Structures · People and personal research descriptions。已保存网页，目录为动态列表或结构尚未对账。 [Core Structures · People and personal research descriptions](https://core.maths.gla.ac.uk/People)
 - 格拉斯哥大学 · Core Structures · Geometry, Algebra, Analysis and Number Theory。已保存网页，目录为动态列表或结构尚未对账。 [Core Structures · Geometry, Algebra, Analysis and Number Theory](https://core.maths.gla.ac.uk/Welcome)

@@ -1847,30 +1847,114 @@
     {
       "id": "geneva",
       "coverage": "sample",
-      "coverageNote": "已解析 1/5 个登记来源，2 条任职或方向待核。 已收录 2 位学者，个人主页 0、CV 0、指标 1。 院系全名录的直接访问呈安全验证。已核录院系研究组可索引的代数与几何组可见成员及个别当前个人档案。",
+      "coverageNote": "已解析 12/26 个登记来源，83 条任职或方向待核。 已收录 10 位学者，个人主页 10、CV 7、指标 0。 数学组索引核对 25 当前具名、7 荣誉和 16 历史条目。热带几何组单独核 1 现任、19 前成员和 5 名已毕业博士，旧分组与 Roma Tor Vergata、图卢兹 CNRS、Tübingen 和 Sorbonne 现职交叉。理论物理完整通讯录英法一致共 56 人，46 人有具名职位说明。另核 Cosmology 27 人、Sonner 组、GWSC 和跨院 G·IST。逐页读取 SwissMAP 当前综合 19 页 223 项，其中 69 项以 UNIGE 署名，并核 6 页教授、2 页高级科研、6 页博士后和 7 页博士生。英法数学总名录及部分个人页直访为安全验证页，保留可读公开索引、项目档、大学当期教学和任职档。若干当前合约、跨院名录和数学总表仍待核。",
       "rosterLinks": [
+        [
+          "Mathematics · Algèbre et Géométrie",
+          "https://www.unige.ch/math/recherche/groupes-de-recherche"
+        ],
+        [
+          "Mathematics · Analyse, Physique mathématique et Probabilités",
+          "https://www.unige.ch/math/recherche/groupes-de-recherche"
+        ],
+        [
+          "Cosmology and Astroparticle Physics · members",
+          "https://cosmology.unige.ch/people"
+        ],
+        [
+          "Department of Theoretical Physics · members",
+          "https://fiteoweb.unige.ch/members.php?lang=en"
+        ],
+        [
+          "Theoretical Physics · older school overview",
+          "https://www.unige.ch/sciences/physique/theorique/en/"
+        ],
         [
           "Section of Mathematics · Faculty and Researchers",
           "https://www.unige.ch/math/en/section/enseignants-et-chercheurs-2"
         ],
         [
+          "Geneva Advances in Mathematics and Applications",
+          "https://www.unige.ch/math/recherche/G-AMMA"
+        ],
+        [
+          "SwissMAP Research Station",
+          "https://swissmaprs.ch/"
+        ],
+        [
+          "Geneva Institute for Theoretical Sciences",
+          "https://www.unige.ch/math/GIST/about"
+        ],
+        [
           "Section de mathématiques · Groupes de recherche",
           "https://www.unige.ch/math/recherche/groupes-de-recherche"
+        ],
+        [
+          "Gravitational Wave Science Center",
+          "https://gwsc.unige.ch/members/"
+        ],
+        [
+          "Mathematics · Faculty and Researchers (English)",
+          "https://www.unige.ch/math/en/section/enseignants-et-chercheurs-2"
         ],
         [
           "Section de mathématiques · Enseignants et chercheurs",
           "https://www.unige.ch/math/la-section/enseignants-et-chercheurs"
         ],
         [
+          "Mathematics · Faculty and Researchers (French)",
+          "https://www.unige.ch/math/la-section/enseignants-et-chercheurs"
+        ],
+        [
+          "Mathematics · Analyse numérique",
+          "https://www.unige.ch/math/recherche/groupes-de-recherche"
+        ],
+        [
+          "2027 mathematical physics opportunity",
+          "https://academicjobsonline.org/ajo/jobs/33221"
+        ],
+        [
           "Section de mathématiques · Groupes de recherche",
           "https://www.unige.ch/math/recherche/groupes-de-recherche"
+        ],
+        [
+          "Theoretical Physics · Sonner group",
+          "https://fiteoweb.unige.ch/~sonner/group"
+        ],
+        [
+          "SwissMAP · All Researchers",
+          "https://www.nccr-swissmap.ch/members/researcher/researcher"
+        ],
+        [
+          "SwissMAP Doctoral Student",
+          "https://www.nccr-swissmap.ch/members/researcher/phd"
+        ],
+        [
+          "SwissMAP Postdoctoral Researcher",
+          "https://www.nccr-swissmap.ch/members/researcher/postdoc"
+        ],
+        [
+          "SwissMAP Professor",
+          "https://www.nccr-swissmap.ch/members/researcher/professor"
+        ],
+        [
+          "SwissMAP Senior Researcher",
+          "https://www.nccr-swissmap.ch/members/researcher/seniorr"
+        ],
+        [
+          "Geneva 2026–2027 course catalogue",
+          "https://pgc.unige.ch/main/teachings/details/2026-14M900"
+        ],
+        [
+          "Geneva Tropical Group · current and former members",
+          "https://www.unige.ch/math/tggroup/doku.php?id=start"
         ],
         [
           "Geneva University Tropical Group",
           "https://www.unige.ch/math/tggroup/doku.php?id=start"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-26"
     },
     {
       "id": "stony-brook",
@@ -21907,74 +21991,343 @@
       "recordStatus": "directory"
     },
     {
+      "id": "alba-grassi",
+      "name": "Alba Grassi",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "geneva",
+          "department": "Section of Mathematics",
+          "title": "Acting Associate Professor of Mathematical Physics",
+          "url": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/alba-grassi",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/alba-grassi",
+      "homepageStatus": null,
+      "cvUrl": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/alba-grassi",
+      "cvType": "UNIGE 公开学术任职简历（HTML）",
+      "cvStatus": null,
+      "publicationsUrl": "https://inspirehep.net/authors/1257923",
+      "publicationCounts": [
+        {
+          "value": 33,
+          "url": "https://openalex.org/A5081503446",
+          "scope": "作者具名 OpenAlex 完整作品查询 40 项内，逐条核不同正式期刊 DOI 与题名。已排除题名重复、预印本、存档、书章和已识别的同名条目。",
+          "checkedAt": "2026-11-26"
+        },
+        {
+          "value": 31,
+          "url": "https://inspirehep.net/authors/1257923",
+          "scope": "INSPIRE 具名文献页 published 过滤范围。页面同时列 37 条文献、36 个 article 标签及 1 份论文。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [
+        {
+          "label": "Geneva 量子曲线与数学物理博士后（Alba Grassi 组）",
+          "url": "https://academicjobsonline.org/ajo/jobs/33221",
+          "type": "博士后",
+          "status": "招聘公告在招",
+          "deadline": "2027-01-01",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "identityNote": "UNIGE、CERN 代表作、公开身份与量子镜像曲线作品互证。OpenAlex 两端数不同；另查看 INSPIRE 分类，分别保留来源明确的范围。 OpenAlex 作者端 44 项，具名作品端 40 项。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On the Open TS/ST Correspondence",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s00220-026-05608-2",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry and algebraic geometry of Calabi–Yau mirror curves, topological strings and quantum geometry",
+          "url": "https://doi.org/10.1007/s00220-026-05608-2"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alexander-hock",
+      "name": "Alexander Hock",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "geneva",
+          "department": "Section of Mathematics",
+          "title": "SNSF Ambizione Research Collaborator",
+          "url": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/marcos-marino/alexander-hock",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/marcos-marino/alexander-hock",
+      "homepageStatus": null,
+      "cvUrl": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/marcos-marino/alexander-hock",
+      "cvType": "UNIGE 具名教育与任聘简历（HTML）",
+      "cvStatus": null,
+      "publicationsUrl": "https://openalex.org/A5103124647",
+      "publicationCounts": [
+        {
+          "value": 22,
+          "url": "https://openalex.org/A5103124647",
+          "scope": "作者具名 OpenAlex 完整作品查询 30 项内，逐条核不同正式期刊 DOI 与题名。已排除题名重复、预印本、存档、书章和已识别的同名条目。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "UNIGE Ambizione 人事和本人谱曲线工作是同一身份证据。相近姓名 Alexander Höck 是另一数据档。当前作者与作品端不齐，累计引用待核。 OpenAlex 作者端 31 项，具名作品端 30 项。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On the x-y Symmetry of Correlators in Topological Recursion via Loop Insertion Operator",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/s00220-024-05043-1",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of spectral curves and topological recursion, noncommutative geometry and enumerative invariants",
+          "url": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/marcos-marino/alexander-hock"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "andras-szenes",
+      "name": "András Szenes",
+      "aliases": [
+        "Andras Szenes"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "geneva",
+          "department": "Section of Mathematics",
+          "title": "Full Professor of Mathematics",
+          "url": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/andras-szenes",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.nccr-swissmap.ch/members/profile/view/52",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查英法系具名档、SwissMAP 人员页、代数期刊作者站和数学所学术活动，未核到独立公开 CV。",
+      "publicationsUrl": "https://openalex.org/A5016134697",
+      "publicationCounts": [
+        {
+          "value": 22,
+          "url": "https://openalex.org/A5016134697",
+          "scope": "作者具名 OpenAlex 完整作品查询 44 项内，逐条核不同正式期刊 DOI 与题名。已排除题名重复、预印本、存档、书章和已识别的同名条目。已按题名排除纳米光学同名，并保留数学期刊范围。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "代数期刊 DOI 标 Geneva，主簇同时混入至少五项 Szeged 同名光学和纳米材料作品。另一个 ID 的主线为光学。仅保留按 DOI 排除后可核范围，引用不采用混档。 OpenAlex 作者端 44 项，具名作品端 44 项。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Intersection cohomology of type-A toric varieties",
+          "year": 2025,
+          "url": "https://doi.org/10.5802/alco.417",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of moduli of bundles and Higgs bundles, toric reduction and enumerative geometry, mathematical physics",
+          "url": "https://www.nccr-swissmap.ch/members/profile/view/52"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "anton-alekseev",
+      "name": "Anton Alekseev",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "geneva",
+          "department": "Section of Mathematics",
+          "title": "Full Professor of Mathematics",
+          "url": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/anton-alekseev",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.nccr-swissmap.ch/members/profile/view/5",
+      "homepageStatus": null,
+      "cvUrl": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/anton-alekseev",
+      "cvType": "UNIGE 公开学术任职摘要（HTML）",
+      "cvStatus": null,
+      "publicationsUrl": "https://openalex.org/A5101689782",
+      "publicationCounts": [
+        {
+          "value": 57,
+          "url": "https://openalex.org/A5101689782",
+          "scope": "作者具名 OpenAlex 完整作品查询 76 项内，逐条核不同正式期刊 DOI 与题名。已排除题名重复、预印本、存档、书章和已识别的同名条目。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "两个 Geneva 作者簇，几何主簇所含 moment maps、Quasi-Poisson 与 2011 DOI 归属明确。另一簇也有同名物理与同一作者旧作；其 ORCID 还出现在 Steklov 同名作者档。累计引用暂不合并。 OpenAlex 作者端 77 项，具名作品端 76 项。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On rational Drinfeld associators",
+          "year": 2011,
+          "url": "https://doi.org/10.1007/s00029-010-0035-x",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Symplectic and Poisson differential geometry, moment maps, moduli spaces and deformation quantization",
+          "url": "https://www.nccr-swissmap.ch/members/profile/view/5"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "bart-vandereycken",
+      "name": "Bart Vandereycken",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "geneva",
+          "department": "Section of Mathematics",
+          "title": "Associate Professor of Numerical Analysis",
+          "url": "https://www.unige.ch/presse/nominations/fiche.php?id=599",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.unige.ch/math/vandereycken/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.unige.ch/presse/nominations/fiche.php?id=599",
+      "cvType": "UNIGE 公开学术履历摘要（任聘公告）",
+      "cvStatus": null,
+      "publicationsUrl": null,
+      "publicationCounts": [
+        {
+          "value": 36,
+          "url": "https://openalex.org/A5039297086",
+          "scope": "作者具名 OpenAlex 完整作品查询 72 项内，逐条核不同正式期刊 DOI 与题名。已排除题名重复、预印本、存档、书章和已识别的同名条目。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "具名 ORCID 及 Riemannian optimization 代表作确证。两端不齐，保留去重文章数。 OpenAlex 作者端 77 项，具名作品端 72 项。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Low-rank matrix completion by Riemannian optimization",
+          "year": 2013,
+          "url": "https://doi.org/10.1137/110845768",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Computational differential geometry of Riemannian matrix manifolds, geometric optimization and numerical linear algebra",
+          "url": "https://www.unige.ch/math/vandereycken/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
       "id": "dario-beraldo",
       "name": "Dario Beraldo",
       "aliases": [],
       "affiliations": [
         {
           "schoolId": "geneva",
-          "department": "数学系",
+          "department": "Section of Mathematics",
           "title": "Associate Professor of Mathematics",
-          "url": "https://www.unige.ch/math/en/section/enseignants-et-chercheurs-2/dario-beraldo",
+          "url": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/dario-beraldo",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
-      "tags": [
-        "Arithmetic geometry and geometric representation theory",
-        "Algebraic geometry, arithmetic geometry and geometric Langlands"
-      ],
-      "homepage": null,
-      "homepageStatus": null,
+      "tags": [],
+      "homepage": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/dario-beraldo",
+      "homepageStatus": "旧 UCL 具名档和研究组仍保留。当前 Geneva 任职用日内瓦档，独立个人网站未核到。",
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "已查 UNIGE 英法具名档、UCL 几何研究组及 Discovery，未见本人公开完整 CV。",
       "publicationsUrl": "https://discovery.ucl.ac.uk/view/people/DBERA62.html",
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
-      "metrics": [
+      "publicationCounts": [
         {
-          "source": "OpenAlex",
-          "authorId": "A5089977377",
-          "orcid": "https://orcid.org/0000-0002-4881-9846",
-          "url": "https://openalex.org/authors/A5089977377",
-          "authorApiUrl": "https://api.openalex.org/authors/A5089977377",
-          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5089977377,type:article&per_page=1&select=id",
-          "checkedAt": "2026-11-25",
-          "articles": 11,
-          "works": 20,
-          "citations": 269,
-          "hIndex": 10,
-          "articleScope": "OpenAlex type:article",
-          "citationScope": "OpenAlex 作者档案累计引用"
+          "value": 11,
+          "url": "https://openalex.org/A5089977377",
+          "scope": "作者具名 OpenAlex 完整作品查询 19 项内，逐条核不同正式期刊 DOI 与题名。已排除题名重复、预印本、存档、书章和已识别的同名条目。",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "identityUrl": null,
+      "opportunities": [],
+      "identityNote": "UCL 历史 ORCID、UNIGE 同一人事记录及几何 Langlands DOI 一致。两端不齐，先保留具名卷期文章范围。没有可直接确认本人 Scholar。 OpenAlex 作者端 20 项，具名作品端 19 项。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5089977377",
       "papers": [
         {
           "title": "Non-commutative nature of ℓ-adic vanishing cycles",
-          "url": "https://doi.org/10.1515/crelle-2024-0099"
+          "year": 2025,
+          "url": "https://doi.org/10.1515/crelle-2024-0099",
+          "type": "期刊论文"
         }
       ],
       "directoryEvidence": [
         {
-          "text": "Arithmetic geometry and geometric representation theory",
-          "url": "https://www.unige.ch/math/recherche/groupes-de-recherche"
-        },
-        {
-          "text": "Algebraic geometry, arithmetic geometry and geometric Langlands",
-          "url": "https://www.unige.ch/math/en/section/enseignants-et-chercheurs-2/dario-beraldo"
+          "text": "Derived algebraic geometry, arithmetic geometry and geometric Langlands, geometric representation theory",
+          "url": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/dario-beraldo"
         },
         {
           "text": "个人研究或论文来源",
           "url": "https://profiles.ucl.ac.uk/77921-dario-beraldo"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -21984,43 +22337,207 @@
       "affiliations": [
         {
           "schoolId": "geneva",
-          "department": "数学系",
-          "title": "Professor",
+          "department": "Section of Mathematics",
+          "title": "Full Professor of Mathematics",
           "url": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/grigory-mikhalkin",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
-      "tags": [
-        "Geometry and topology",
-        "Tropical algebraic geometry and enumerative geometry"
+      "tags": [],
+      "homepage": "https://www.unige.ch/math/tggroup/doku.php?id=start",
+      "homepageStatus": null,
+      "cvUrl": "https://www.unige.ch/math/en/section/enseignants-et-chercheurs-2/grigory-mikhalkin",
+      "cvType": "UNIGE 公开学术履历（HTML 简版）",
+      "cvStatus": null,
+      "publicationsUrl": "https://openalex.org/A5087740280",
+      "publicationCounts": [
+        {
+          "value": 33,
+          "url": "https://openalex.org/A5087740280",
+          "scope": "作者具名 OpenAlex 完整作品查询 61 项内，逐条核不同正式期刊 DOI 与题名。已排除题名重复、预印本、存档、书章和已识别的同名条目。",
+          "checkedAt": "2026-11-26"
+        }
       ],
-      "homepage": null,
+      "opportunities": [],
+      "identityNote": "UNIGE 热带组、具名几何论文与 OpenAlex 作者机构一致。没有核准公开同名 Scholar。两端不齐，引用留待核。 OpenAlex 作者端 69 项，具名作品端 61 项。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/A5087740280",
+      "papers": [
+        {
+          "title": "Enumerative tropical algebraic geometry in ℝ²",
+          "year": 2005,
+          "url": "https://doi.org/10.1090/s0894-0347-05-00477-7",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Tropical algebraic geometry, enumerative geometry and real and complex algebraic curves",
+          "url": "https://www.unige.ch/math/en/section/enseignants-et-chercheurs-2/grigory-mikhalkin"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "marcos-marino",
+      "name": "Marcos Mariño",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "geneva",
+          "department": "Section of Mathematics / Department of Theoretical Physics",
+          "title": "Full Professor of Mathematical Physics",
+          "url": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/marcos-marino",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://www.marcosmarino.net/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.unige.ch/math/en/section/enseignants-et-chercheurs-2/marcos-marino",
+      "cvType": "UNIGE 公开学术任职简历（HTML）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.marcosmarino.net/research.html",
+      "publicationCounts": [
+        {
+          "value": 103,
+          "url": "https://openalex.org/A5035617598",
+          "scope": "作者具名 OpenAlex 完整作品查询 175 项内，逐条核不同正式期刊 DOI 与题名。已排除题名重复、预印本、存档、书章和已识别的同名条目。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "本人 ORCID、双系教授与 Calabi–Yau、SIGMA 题名交叉。排除运动生理学同名。OpenAlex 作者与作品计数不同。INSPIRE 998790 的公开聚合列表误显示跨学科全站结果，未作指标。 OpenAlex 作者端 198 项，具名作品端 175 项。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On the Structure of Wave Functions in Complex Chern–Simons Theory",
+          "year": 2026,
+          "url": "https://doi.org/10.3842/SIGMA.2026.002",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry and algebraic geometry of Calabi–Yau threefolds, mirror curves, topological string theory and mathematical physics",
+          "url": "https://www.marcosmarino.net/research.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "pietro-benetti-genolini",
+      "name": "Pietro Benetti Genolini",
+      "aliases": [
+        "Pietro Benetti-Genolini"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "geneva",
+          "department": "Department of Theoretical Physics",
+          "title": "Senior Research Associate in Theoretical Physics",
+          "url": "https://fiteoweb.unige.ch/showlargimage.php?id=649&lang=en",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "CFT"
+      ],
+      "homepage": "https://fiteoweb.unige.ch/~sonner/group",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
-      "publicationCounts": [],
+      "cvStatus": "理论物理实名职称、Sonner 组、KCL 旧科研页及 Oxford 导师页面均查阅，未核到独立公开 CV。",
+      "publicationsUrl": "https://openalex.org/A5086733230",
+      "publicationCounts": [
+        {
+          "value": 31,
+          "url": "https://openalex.org/A5086733230",
+          "scope": "作者具名 OpenAlex 完整作品查询 37 项内，逐条核不同正式期刊 DOI 与题名。已排除题名重复、预印本、存档、书章和已识别的同名条目。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
+      "identityNote": "日内瓦 senior research associate 与该 DOI 作者的当前单位一致，旧 King’s 姓名和研究匹配。未确认公开 Scholar。 OpenAlex 作者端 38 项，具名作品端 37 项。",
       "metrics": [],
-      "identityUrl": "https://openalex.org/A5087740280",
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Equivariant localization for D = 4 gauged supergravity",
+          "year": 2025,
+          "url": "https://doi.org/10.1007/JHEP08(2025)211",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of supersymmetric and Einstein manifolds, equivariant localization in supergravity and AdS/CFT",
+          "url": "https://doi.org/10.1007/JHEP08(2025)211"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "rinat-kashaev",
+      "name": "Rinat Kashaev",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "geneva",
+          "department": "Section of Mathematics",
+          "title": "Full Professor of Mathematics",
+          "url": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/rinat-kashaev",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.unige.ch/math/la-section/enseignants-et-chercheurs/rinat-kashaev",
+      "homepageStatus": null,
+      "cvUrl": "https://www.unige.ch/presse/nominations/fiche.php?id=402",
+      "cvType": "UNIGE 公开任聘履历（早期，现职以数学系为准）",
+      "cvStatus": null,
+      "publicationsUrl": "https://openalex.org/A5048282324",
+      "publicationCounts": [
+        {
+          "value": 59,
+          "url": "https://openalex.org/A5048282324",
+          "scope": "作者具名 OpenAlex 完整作品查询 123 项内，逐条核不同正式期刊 DOI 与题名。已排除题名重复、预印本、存档、书章和已识别的同名条目。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "现任教授档与量子 Teichmüller、双曲体积两篇具名 DOI 及 Helsinki 历史相符。作者与作品数不同，未确认合计引用。 OpenAlex 作者端 141 项，具名作品端 123 项。",
+      "metrics": [],
+      "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Geometry and topology",
-          "url": "https://www.unige.ch/math/recherche/groupes-de-recherche"
-        },
-        {
-          "text": "Tropical algebraic geometry and enumerative geometry",
-          "url": "https://www.unige.ch/math/tggroup/doku.php?id=start"
+          "text": "Differential geometry of hyperbolic three-manifolds, Teichmüller spaces, quantum topology and knot invariants",
+          "url": "https://www.unige.ch/presse/nominations/fiche.php?id=402"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
