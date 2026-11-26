@@ -13582,6 +13582,26 @@
       "note": "核对公开 9 条具名机构信息，与任职来源分别记录。"
     },
     {
+      "id": "unimi-analysis-geometry-b38",
+      "school": "unimi",
+      "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/analisi-matematica",
+      "label": "Analisi Matematica · Calculus of Variations and nonlocal geometry",
+      "status": "reference",
+      "count": 5,
+      "checked_at": "2026-11-26",
+      "note": "读取两段完整具名分栏，五人。另核 PDE、泛函分析和概率研究分栏的方向边界。"
+    },
+    {
+      "id": "unimi-arith-b38",
+      "school": "unimi",
+      "url": "https://sites.unimi.it/geoaritmetica/",
+      "label": "Arithmetic Geometry and Number Theory · faculty and trainees",
+      "status": "reference",
+      "count": 17,
+      "checked_at": "2026-11-26",
+      "note": "读取完整 11 位教员、6 位博后或学生分栏以及 2026/27 研讨会更新。个人岗位以当期校方具名档为准。"
+    },
+    {
       "id": "unimi-dept-b35",
       "school": "unimi",
       "url": "https://matematica.unimi.it/it/dipartimento/contatti/persone",
@@ -13592,6 +13612,16 @@
       "note": "院系名册按六栏逐项核对。官职与学者所列主要几何方向另交叉。{'Professori': 69, 'Professori a contratto': 2, 'Ricercatori': 30, 'Assegnisti': 13, 'Visiting Scholar': 3, 'Personale tecnico - amministrativo': 21}"
     },
     {
+      "id": "unimi-emeritus-b38",
+      "school": "unimi",
+      "url": "https://www.unimi.it/en/university/la-statale/our-heritage-our-future/emeritus-and-honorary-professors",
+      "label": "University of Milan · Emeritus and Honorary professors",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "校级荣誉教授入口直连 403，公开索引显示协会和职责。已逐名核对可读几何组内的退休档，仍未取得可逐行比对的校级数学荣休历史全表。"
+    },
+    {
       "id": "unimi-full-audit-source",
       "school": "unimi",
       "url": "https://sites.unimi.it/geoalg/research1.html",
@@ -13600,6 +13630,16 @@
       "count": 22,
       "checked_at": "2026-11-23",
       "note": ""
+    },
+    {
+      "id": "unimi-geo-research-fellows-b38",
+      "school": "unimi",
+      "url": "https://sites.unimi.it/geoalg/research1.html",
+      "label": "Complex Algebraic Geometry Group · Research fellows",
+      "status": "reference",
+      "count": 24,
+      "checked_at": "2026-11-26",
+      "note": "具名全表包括现任、两名退休及在读成员，主聘与职级以当期具名任职资料为准。"
     },
     {
       "id": "unimi-geometry-b35",
@@ -13632,6 +13672,26 @@
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
     },
     {
+      "id": "unimi-physics-groups-b38",
+      "school": "unimi",
+      "url": "https://fisica.unimi.it/en/research/research-activities-and-findings/research-groups",
+      "label": "Physics · research groups and contacts",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "直接读取物理院公开研究组和联系人，包括理论物理、聚合态、天体宇宙和粒子物理等。理论岗细名册结合博士项目和院系 People。"
+    },
+    {
+      "id": "unimi-physics-theory-b38",
+      "school": "unimi",
+      "url": "https://phd.fisica.unimi.it/research/theoretical-physics/",
+      "label": "Theoretical Physics · doctoral research lines",
+      "status": "reference",
+      "count": 14,
+      "checked_at": "2026-11-26",
+      "note": "完整读出四段具名分组共 14 人。审批通用学科名单区分弦与引力几何、QFT、粒子现象、量子计算与统计物理。"
+    },
+    {
       "id": "unimi-unifind-b35",
       "school": "unimi",
       "url": "https://expertise.unimi.it/resource/orgunit/5815?language=it-IT",
@@ -13640,6 +13700,16 @@
       "count": 146,
       "checked_at": "2026-11-25",
       "note": "科研门户 146 条，含博士生、研究员和教师。与院系现任名单互证；门户历史头衔不覆盖个人页或分栏的较新证据。"
+    },
+    {
+      "id": "unimi-visitors-b38",
+      "school": "unimi",
+      "url": "https://matematica.unimi.it/it/dipartimento/contatti/persone",
+      "label": "Dipartimento di Matematica · Visiting Scholar",
+      "status": "reference",
+      "count": 3,
+      "checked_at": "2026-11-26",
+      "note": "读取现行系目录完整 Visiting Scholar 三人分栏，访客卡逐一返回 403，UniFind 具名路径逐一 404。"
     },
     {
       "id": "unsw-geometry-audit-2",
@@ -513353,13 +513423,6 @@
         "checked_at": "2026-11-23"
       },
       "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.unimi.it/it/ugov/person/roberto-svaldi",
-      "cache_id": "profile-2e5d606596658f5a",
-      "status": "source_error",
-      "record": null,
-      "checked_at": "2026-11-24"
     },
     {
       "url": "https://www.unipi.it/ateneo/organizzazione/persone/andrea-di-lorenzo-195217/",

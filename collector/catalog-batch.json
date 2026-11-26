@@ -7703,18 +7703,34 @@
     {
       "id": "unimi",
       "coverage": "sample",
-      "coverageNote": "已解析 1/7 个登记来源，1 条任职或方向待核。 已收录 17 位学者，个人主页 16、CV 2、指标 2。 核对校系主站 138 条分栏条目、UniFind 146 位、几何研究线、复代数几何和 INdAM 单位。新匹配代数几何、微分几何和复几何的具名现任。荣休、访问个人身份及其余相关研究线继续逐项核对。",
+      "coverageNote": "已解析 1/14 个登记来源，0 条任职或方向待核。 已收录 29 位学者，个人主页 29、CV 25、指标 21。 数学系名册 138 条、UniFind 146 位、复代数几何 Research fellows、分析和非局部几何 5 位、算术几何与数论 11 位教员及 6 位博士后／学生、INdAM 项目、物理全院研究分组与理论物理四线 14 位已读。具名卡对照确认 Tortora 终身研究职、Pertusi 2026 年 7 月转副教授、Binda 离校访问、Neeman 主职与澳国立荣休、Rigoli 的合同授课、两个已退休名录和三个系内访问者。补核具名 CV、OpenAlex、机构成果数和分档。系访客 Jin Liu、Haoran Yang 的具名 Rubrica 403、UniFind 404，校级荣休总目录 403；现行研究组与具名文件可读，待核未公开的访客身份标识和完整历史荣休范围。校级物理目录已读，可继续逐人核对数学物理和分析外圈成员及其单独的作者计量。",
       "rosterLinks": [
         [
           "Geometria algebrica complessa · Chi siamo",
           "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-algebrica-complessa"
         ],
         [
+          "Analisi Matematica · Calculus of Variations and nonlocal geometry",
+          "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/analisi-matematica"
+        ],
+        [
+          "Arithmetic Geometry and Number Theory · faculty and trainees",
+          "https://sites.unimi.it/geoaritmetica/"
+        ],
+        [
           "Dipartimento di Matematica · Persone",
           "https://matematica.unimi.it/it/dipartimento/contatti/persone"
         ],
         [
+          "University of Milan · Emeritus and Honorary professors",
+          "https://www.unimi.it/en/university/la-statale/our-heritage-our-future/emeritus-and-honorary-professors"
+        ],
+        [
           "Algebraic Geometry Group",
+          "https://sites.unimi.it/geoalg/research1.html"
+        ],
+        [
+          "Complex Algebraic Geometry Group · Research fellows",
           "https://sites.unimi.it/geoalg/research1.html"
         ],
         [
@@ -7730,8 +7746,20 @@
           "https://matematica.unimi.it/it/dipartimento/contatti/persone"
         ],
         [
+          "Physics · research groups and contacts",
+          "https://fisica.unimi.it/en/research/research-activities-and-findings/research-groups"
+        ],
+        [
+          "Theoretical Physics · doctoral research lines",
+          "https://phd.fisica.unimi.it/research/theoretical-physics/"
+        ],
+        [
           "UniFind · Dipartimento di Matematica Federigo Enriques",
           "https://expertise.unimi.it/resource/orgunit/5815?language=it-IT"
+        ],
+        [
+          "Dipartimento di Matematica · Visiting Scholar",
+          "https://matematica.unimi.it/it/dipartimento/contatti/persone"
         ]
       ],
       "checkedAt": "2026-11-23"
@@ -64749,9 +64777,9 @@
           "schoolId": "unimi",
           "department": "数学系",
           "title": "Professore Associato Confermato",
-          "url": "https://www.unimi.it/it/ugov/rubrica/person0000010635",
+          "url": "https://expertise.unimi.it/get/person/alberto-alzati",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -64761,18 +64789,52 @@
       "tags": [
         "Associate professor"
       ],
-      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000010635",
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "homepage": "https://expertise.unimi.it/get/person/alberto-alzati",
+      "homepageStatus": "校方具名研究档已读取。",
+      "cvUrl": "https://work.unimi.it/chiedove/cv/alberto_alzati.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
       "publicationsUrl": "https://www.unimi.it/it/ugov/person/alberto-alzati",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 78,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/alberto-alzati",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 核对机构披露的 ORCID。 作者档名下成果与作品端检索的总量有差异，按独立 type:article 查询保存文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5058074416",
+          "url": "https://openalex.org/A5058074416",
+          "orcid": "https://orcid.org/0000-0001-9336-7482",
+          "authorApiUrl": "https://api.openalex.org/authors/A5058074416",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5058074416,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 60,
+          "works": 71,
+          "citations": 369,
+          "hIndex": 12,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "On the k-normality of projected algebraic varieties",
+          "year": 2002,
+          "url": "https://doi.org/10.1007/s005740200001"
+        },
+        {
+          "title": "Irreducible components of Hilbert schemes of rational curves with given normal bundle",
+          "year": 2017,
+          "url": "https://doi.org/10.14231/ag-2017-004"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Associate professor",
@@ -64783,7 +64845,160 @@
           "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-algebrica-complessa"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alberto-vezzani",
+      "name": "Alberto Vezzani",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Ordinario",
+          "url": "https://expertise.unimi.it/get/person/alberto-vezzani",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://sites.unimi.it/vezzani/Pages/Research.htm",
+      "homepageStatus": null,
+      "cvUrl": "https://work.unimi.it/chiedove/cv/alberto_vezzani.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
+      "publicationsUrl": "https://expertise.unimi.it/get/person/alberto-vezzani",
+      "publicationCounts": [
+        {
+          "value": 17,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/alberto-vezzani",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 核对机构披露的 ORCID。 作者档名下成果与作品端检索的总量有差异，按独立 type:article 查询保存文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5056955280",
+          "url": "https://openalex.org/A5056955280",
+          "orcid": "https://orcid.org/0000-0002-1179-8287",
+          "authorApiUrl": "https://api.openalex.org/authors/A5056955280",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5056955280,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 15,
+          "works": 22,
+          "citations": 271,
+          "hIndex": 10,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The six-functor formalism for rigid analytic motives",
+          "year": 2022,
+          "url": "https://doi.org/10.1017/fms.2022.55"
+        },
+        {
+          "title": "A motivic version of the theorem of Fontaine and Wintenberger",
+          "year": 2018,
+          "url": "https://doi.org/10.1112/s0010437x18007595"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic and arithmetic geometry, derived motives, non-archimedean analytic and perfectoid varieties",
+          "url": "https://sites.unimi.it/vezzani/Pages/Research.htm"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alfonso-tortora",
+      "name": "Alfonso Tortora",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Ricercatore Confermato · Assistant Professor with tenure",
+          "url": "https://expertise.unimi.it/get/person/alfonso-tortora",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [
+        "Assistant professor"
+      ],
+      "homepage": "https://expertise.unimi.it/get/person/alfonso-tortora",
+      "homepageStatus": "校方具名研究档已读取。",
+      "cvUrl": "https://work.unimi.it/chiedove/cv/alfonso_tortora.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.unimi.it/it/ugov/person/alfonso-tortora",
+      "publicationCounts": [
+        {
+          "value": 16,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/alfonso-tortora",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 作者档名下成果与作品端检索的总量有差异，按独立 type:article 查询保存文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5110628429",
+          "url": "https://openalex.org/A5110628429",
+          "orcid": null,
+          "authorApiUrl": "https://api.openalex.org/authors/A5110628429",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5110628429,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 11,
+          "works": 14,
+          "citations": 84,
+          "hIndex": 5,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Some remarks on the geometry of the tautological model",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/s13348-022-00376-3"
+        },
+        {
+          "title": "General position of points on a rational ruled surface",
+          "year": 2018,
+          "url": "https://doi.org/10.1007/s13366-017-0362-6"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Assistant professor",
+          "url": "https://sites.unimi.it/geoalg/research1.html"
+        },
+        {
+          "text": "Complex algebraic geometry, algebraic curves and projective geometry",
+          "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-algebrica-complessa"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -64795,9 +65010,9 @@
           "schoolId": "unimi",
           "department": "数学系",
           "title": "Professore Associato",
-          "url": "https://www.unimi.it/it/ugov/rubrica/person0000018319",
+          "url": "https://expertise.unimi.it/get/person/alice-garbagnati",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -64807,18 +65022,52 @@
       "tags": [
         "Associate professor"
       ],
-      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000018319",
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "homepage": "https://expertise.unimi.it/get/person/alice-garbagnati",
+      "homepageStatus": "校方具名研究档已读取。",
+      "cvUrl": "https://work.unimi.it/chiedove/cv/alice_garbagnati.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
       "publicationsUrl": "https://www.unimi.it/it/ugov/person/alice-garbagnati",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 42,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/alice-garbagnati",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 核对机构披露的 ORCID。 作者档名下成果与作品端检索的总量有差异，按独立 type:article 查询保存文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5005940929",
+          "url": "https://openalex.org/A5005940929",
+          "orcid": "https://orcid.org/0000-0001-7261-9986",
+          "authorApiUrl": "https://api.openalex.org/authors/A5005940929",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5005940929,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 37,
+          "works": 55,
+          "citations": 666,
+          "hIndex": 15,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Symplectic automorphisms of prime order on K3 surfaces",
+          "year": 2007,
+          "url": "https://doi.org/10.1016/j.jalgebra.2007.04.017"
+        },
+        {
+          "title": "Elliptic Fibrations and Symplectic Automorphisms on K3 Surfaces",
+          "year": 2009,
+          "url": "https://doi.org/10.1080/00927870902828785"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Associate professor",
@@ -64829,7 +65078,65 @@
           "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-algebrica-complessa"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "amnon-neeman",
+      "name": "Amnon Neeman",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Ordinario",
+          "url": "https://expertise.unimi.it/get/person/amnon-neeman",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Full professor"
+      ],
+      "homepage": "https://expertise.unimi.it/get/person/amnon-neeman",
+      "homepageStatus": "校方具名研究档已读取。",
+      "cvUrl": "https://work.unimi.it/chiedove/cv/amnon_neeman.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
+      "publicationsUrl": "https://expertise.unimi.it/get/person/amnon-neeman",
+      "publicationCounts": [
+        {
+          "value": 34,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/amnon-neeman",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "米兰教授与澳国立荣休为同一人。A5025379457 另收高维小样本统计题录，A5150545901 为疑似早期署名分档。采用米兰具名 UniFind 机构收录量，未拼接引用。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The Grothendieck duality theorem via Bousfield’s techniques and Brown representability",
+          "year": 1996,
+          "url": "https://doi.org/10.1090/s0894-0347-96-00174-9"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Full professor",
+          "url": "https://sites.unimi.it/geoalg/research1.html"
+        },
+        {
+          "text": "Algebraic geometry, Grothendieck duality of schemes, triangulated and derived categories and K-theory",
+          "url": "https://sites.unimi.it/geoaritmetica/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -64841,9 +65148,9 @@
           "schoolId": "unimi",
           "department": "数学系",
           "title": "Professore Associato",
-          "url": "https://www.unimi.it/it/ugov/rubrica/person0000017578",
+          "url": "https://expertise.unimi.it/get/person/anna-gori",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -64851,15 +65158,22 @@
         "differential"
       ],
       "tags": [],
-      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000017578",
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "homepage": "https://expertise.unimi.it/get/person/anna-gori",
+      "homepageStatus": "校方具名研究档已读取。",
+      "cvUrl": "https://work.unimi.it/chiedove/cv/anna_gori.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
       "publicationsUrl": "https://www.unimi.it/it/ugov/person/anna-gori",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 26,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/anna-gori",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "校方 ORCID 对应 A5107483928，最高引为心血管研究，另一 A5105835273 亦同收医学视网膜论文和本人的切片几何论文。两档不能采用。改保留 UniFind 收录量，真实累计引用未核实。",
       "metrics": [],
       "identityUrl": null,
       "papers": [],
@@ -64869,7 +65183,7 @@
           "url": "https://air.unimi.it/retrieve/dfa8b9a8-236a-748b-e053-3a05fe0a3a96/Gori2021_Article_ANoteOnModuliSpacesOfConformal.pdf"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -64881,9 +65195,9 @@
           "schoolId": "unimi",
           "department": "数学系",
           "title": "Professore Associato",
-          "url": "https://www.unimi.it/it/ugov/rubrica/person0000053756",
+          "url": "https://expertise.unimi.it/get/person/chiara-camere",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -64893,13 +65207,20 @@
       "tags": [
         "Associate professor"
       ],
-      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000053756",
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "homepage": "https://expertise.unimi.it/get/person/chiara-camere",
+      "homepageStatus": "校方具名研究档已读取。",
+      "cvUrl": "https://work.unimi.it/chiedove/cv/chiara_camere.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
       "publicationsUrl": "https://www.unimi.it/it/ugov/person/chiara-camere",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 19,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/chiara-camere",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
       "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
       "metrics": [
@@ -64917,9 +65238,24 @@
           "hIndex": 12,
           "articleScope": "OpenAlex type:article",
           "citationScope": "OpenAlex 作者档案累计引用"
+        },
+        {
+          "source": "OpenAlex",
+          "authorId": "A5065250876",
+          "url": "https://openalex.org/A5065250876",
+          "orcid": "https://orcid.org/0000-0002-4793-3495",
+          "authorApiUrl": "https://api.openalex.org/authors/A5065250876",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5065250876,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 19,
+          "works": 24,
+          "citations": 371,
+          "hIndex": 12,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
         }
       ],
-      "identityUrl": null,
+      "identityUrl": "https://openalex.org/authors/A5065250876",
       "papers": [
         {
           "title": "Symplectic involutions of holomorphic symplectic four-folds",
@@ -64946,7 +65282,80 @@
           "url": "https://expertise.unimi.it/get/person/chiara-camere"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "claudia-dalia-bucur",
+      "name": "Claudia Dalia Bucur",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Associato",
+          "url": "https://expertise.unimi.it/get/person/claudia-bucur",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://expertise.unimi.it/get/person/claudia-bucur",
+      "homepageStatus": "校方具名研究档已读取。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查系分析组、校方具名教师档和 UniFind 两个姓名拼法，完整独立公开 CV 暂待核。",
+      "publicationsUrl": "https://expertise.unimi.it/get/person/claudia-bucur",
+      "publicationCounts": [
+        {
+          "value": 25,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/claudia-bucur",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 核对机构披露的 ORCID。 作者档名下成果与作品端检索的总量有差异，按独立 type:article 查询保存文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5066244268",
+          "url": "https://openalex.org/A5066244268",
+          "orcid": "https://orcid.org/0000-0002-5061-7338",
+          "authorApiUrl": "https://api.openalex.org/authors/A5066244268",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5066244268,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 16,
+          "works": 28,
+          "citations": 1135,
+          "hIndex": 9,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Minimisers of a fractional seminorm and nonlocal minimal surfaces",
+          "year": 2020,
+          "url": "https://doi.org/10.4171/ifb/447"
+        },
+        {
+          "title": "Some observations on the Green function for the ball in the fractional Laplace framework",
+          "year": 2016,
+          "url": "https://doi.org/10.3934/cpaa.2016.15.657"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Geometric analysis of fractional minimal surfaces, nonlocal mean curvature and fractional PDEs",
+          "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/analisi-matematica"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -64958,9 +65367,9 @@
           "schoolId": "unimi",
           "department": "数学系",
           "title": "Professore Associato",
-          "url": "https://www.unimi.it/it/ugov/rubrica/person0000017594",
+          "url": "https://expertise.unimi.it/get/person/diego-matessi",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -64969,18 +65378,52 @@
       "tags": [
         "Associate professor"
       ],
-      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000017594",
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "homepage": "https://expertise.unimi.it/get/person/diego-matessi",
+      "homepageStatus": "校方具名研究档已读取。",
+      "cvUrl": "https://work.unimi.it/chiedove/cv/diego_matessi.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
       "publicationsUrl": "https://www.unimi.it/it/ugov/person/diego-matessi",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 16,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/diego-matessi",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 核对机构披露的 ORCID。 作者档名下成果与作品端检索的总量有差异，按独立 type:article 查询保存文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5012308805",
+          "url": "https://openalex.org/A5012308805",
+          "orcid": "https://orcid.org/0000-0002-4603-2214",
+          "authorApiUrl": "https://api.openalex.org/authors/A5012308805",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5012308805,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 13,
+          "works": 19,
+          "citations": 235,
+          "hIndex": 8,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Lagrangian 3-torus fibrations",
+          "year": 2009,
+          "url": "https://doi.org/10.4310/jdg/1236604343"
+        },
+        {
+          "title": "Lagrangian Pairs of Pants",
+          "year": 2019,
+          "url": "https://doi.org/10.1093/imrn/rnz126"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Associate professor",
@@ -64991,7 +65434,7 @@
           "url": "https://doi.org/10.1142/S0129167X21500464"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -65003,9 +65446,9 @@
           "schoolId": "unimi",
           "department": "数学系",
           "title": "Professore Associato Confermato",
-          "url": "https://www.unimi.it/it/ugov/rubrica/person0000011910",
+          "url": "https://expertise.unimi.it/get/person/elisabetta-colombo",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -65015,15 +65458,22 @@
       "tags": [
         "Associate professor"
       ],
-      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000011910",
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "homepage": "https://expertise.unimi.it/get/person/elisabetta-colombo",
+      "homepageStatus": "校方具名研究档已读取。",
+      "cvUrl": "https://work.unimi.it/chiedove/cv/elisabetta_colombo.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
       "publicationsUrl": "https://www.unimi.it/it/ugov/person/elisabetta-colombo",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 33,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/elisabetta-colombo",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "校方 ORCID 对应 A5053463609，但同一档最高引多为肠炎临床与遗传论文。A5103042572 另含生物医学。保留 UniFind 机构收录总量；未找到可独立归属的累计引用。",
       "metrics": [],
       "identityUrl": null,
       "papers": [],
@@ -65037,7 +65487,7 @@
           "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-algebrica-complessa"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -65049,22 +65499,29 @@
           "schoolId": "unimi",
           "department": "数学系",
           "title": "Professore Ordinario",
-          "url": "https://www.unimi.it/it/ugov/rubrica/person0000165029",
+          "url": "https://expertise.unimi.it/get/person/fabio-cavalletti",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [],
-      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000165029",
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "homepage": "https://expertise.unimi.it/get/person/fabio-cavalletti",
+      "homepageStatus": "校方具名研究档已读取。",
+      "cvUrl": "https://work.unimi.it/chiedove/cv/fabio_cavalletti.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
       "publicationsUrl": "https://www.unimi.it/it/ugov/person/fabio-cavalletti",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 39,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/fabio-cavalletti",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
       "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
       "metrics": [
@@ -65082,9 +65539,24 @@
           "hIndex": 19,
           "articleScope": "OpenAlex type:article",
           "citationScope": "OpenAlex 作者档案累计引用"
+        },
+        {
+          "source": "OpenAlex",
+          "authorId": "A5036786403",
+          "url": "https://openalex.org/A5036786403",
+          "orcid": "https://orcid.org/0000-0003-2494-9029",
+          "authorApiUrl": "https://api.openalex.org/authors/A5036786403",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5036786403,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 33,
+          "works": 45,
+          "citations": 1265,
+          "hIndex": 19,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
         }
       ],
-      "identityUrl": null,
+      "identityUrl": "https://openalex.org/authors/A5036786403",
       "papers": [
         {
           "title": "Metric measure spaces, Ricci curvature, and optimal transport",
@@ -65095,6 +65567,16 @@
           "title": "A review of Lorentzian synthetic theory of timelike Ricci curvature bounds",
           "year": 2022,
           "url": "https://doi.org/10.1007/s10714-022-03004-4"
+        },
+        {
+          "title": "The globalization theorem for the Curvature-Dimension condition",
+          "year": 2021,
+          "url": "https://doi.org/10.1007/s00222-021-01040-6"
+        },
+        {
+          "title": "Sharp geometric and functional inequalities in metric measure spaces with lower Ricci curvature bounds",
+          "year": 2017,
+          "url": "https://doi.org/10.2140/gt.2017.21.603"
         }
       ],
       "directoryEvidence": [
@@ -65107,7 +65589,7 @@
           "url": "https://www.unimi.it/en/ugov/person/fabio-cavalletti"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -65119,34 +65601,68 @@
           "schoolId": "unimi",
           "department": "数学系",
           "title": "Professore Ordinario",
-          "url": "https://www.unimi.it/it/ugov/rubrica/person0000017333",
+          "url": "https://expertise.unimi.it/get/person/fabrizio-andreatta",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [],
-      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000017333",
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "homepage": "https://expertise.unimi.it/get/person/fabrizio-andreatta",
+      "homepageStatus": "校方具名研究档已读取。",
+      "cvUrl": "https://work.unimi.it/chiedove/cv/fabrizio_andreatta.pdf",
+      "cvType": "公开 CV（校方具名扫描附件）",
+      "cvStatus": null,
       "publicationsUrl": "https://www.unimi.it/it/ugov/person/fabrizio-andreatta",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 42,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/fabrizio-andreatta",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 核对机构披露的 ORCID。 作者档名下成果与作品端检索的总量有差异，按独立 type:article 查询保存文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5070590756",
+          "url": "https://openalex.org/A5070590756",
+          "orcid": "https://orcid.org/0000-0002-8247-5813",
+          "authorApiUrl": "https://api.openalex.org/authors/A5070590756",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5070590756,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 39,
+          "works": 77,
+          "citations": 947,
+          "hIndex": 19,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Faltings heights of abelian varieties with complex multiplication",
+          "year": 2018,
+          "url": "https://doi.org/10.4007/annals.2018.187.2.3"
+        },
+        {
+          "title": "p-adic families of Siegel modular cuspforms",
+          "year": 2015,
+          "url": "https://doi.org/10.4007/annals.2015.181.2.5"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Arithmetic algebraic geometry and p-adic geometry, Shimura varieties and modular forms",
           "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-aritmetica-motivi-e-teoria-dei-numeri"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -65158,34 +65674,68 @@
           "schoolId": "unimi",
           "department": "数学系",
           "title": "Professore Associato",
-          "url": "https://www.unimi.it/it/ugov/rubrica/person0000078722",
+          "url": "https://expertise.unimi.it/get/person/federico-binda",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [],
-      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000078722",
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "homepage": "https://fedebinda.eu/",
+      "homepageStatus": "校方具名研究档已读取。",
+      "cvUrl": "https://work.unimi.it/chiedove/cv/federico_binda.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
       "publicationsUrl": "https://www.unimi.it/it/ugov/person/federico-binda",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 27,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/federico-binda",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 核对机构披露的 ORCID。 作者档名下成果与作品端检索的总量有差异，按独立 type:article 查询保存文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5083289157",
+          "url": "https://openalex.org/A5083289157",
+          "orcid": "https://orcid.org/0000-0002-3476-440X",
+          "authorApiUrl": "https://api.openalex.org/authors/A5083289157",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5083289157,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 18,
+          "works": 26,
+          "citations": 328,
+          "hIndex": 11,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "RELATIVE CYCLES WITH MODULI AND REGULATOR MAPS",
+          "year": 2017,
+          "url": "https://doi.org/10.1017/s1474748017000391"
+        },
+        {
+          "title": "Zero cycles with modulus and zero cycles on singular varieties",
+          "year": 2017,
+          "url": "https://doi.org/10.1112/s0010437x17007503"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic geometry, motives, algebraic cycles and algebraic K-theory",
-          "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-aritmetica-motivi-e-teoria-dei-numeri"
+          "url": "https://fedebinda.eu/"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -65197,24 +65747,31 @@
           "schoolId": "unimi",
           "department": "数学系",
           "title": "Professore Ordinario",
-          "url": "https://www.unimi.it/it/ugov/rubrica/person0000127157",
+          "url": "https://expertise.unimi.it/get/person/giulio-ciraolo",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [],
-      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000127157",
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "homepage": "https://expertise.unimi.it/get/person/giulio-ciraolo",
+      "homepageStatus": "校方具名研究档已读取。",
+      "cvUrl": "https://work.unimi.it/chiedove/cv/giulio_ciraolo.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
       "publicationsUrl": "https://www.unimi.it/it/ugov/person/giulio-ciraolo",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 59,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/giulio-ciraolo",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "主档身份匹配，同一 DOI 10.1007/s00205-012-0605-5 在高引成果中出现两条不同 OpenAlex 记录，累计数字可能重复；另保留具名机构收录范围。",
       "metrics": [],
       "identityUrl": null,
       "papers": [],
@@ -65224,7 +65781,7 @@
           "url": "https://www.unimi.it/it/ugov/person/giulio-ciraolo"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -65239,9 +65796,9 @@
           "schoolId": "unimi",
           "department": "数学系",
           "title": "Professore Ordinario",
-          "url": "https://www.unimi.it/it/ugov/rubrica/person0000015603",
+          "url": "https://expertise.unimi.it/get/person/lambertus-van-geemen",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -65253,13 +65810,20 @@
       ],
       "homepage": "https://sites.unimi.it/vangeemen/curriculumGeom0809.html",
       "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
-      "publicationsUrl": "https://www.unimi.it/it/ugov/person/lambertus-vangeemen",
-      "publicationCounts": [],
+      "cvUrl": "https://work.unimi.it/chiedove/cv/lambertus_vangeemen.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
+      "publicationsUrl": "https://sites.unimi.it/vangeemen/publ.html",
+      "publicationCounts": [
+        {
+          "value": 50,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/lambertus-van-geemen",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "本人的全名档 A5087060986 仅 3 项，Bert 名下 A5048141295 有 K3 代表作，另一 A5161295082 另列 1 项。校方 ORCID 在 OpenAlex 无精确关联，待核分档。保留本人发表表和 UniFind 收录总量。",
       "metrics": [],
       "identityUrl": null,
       "papers": [],
@@ -65273,7 +65837,87 @@
           "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-algebrica-complessa"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "laura-pertusi",
+      "name": "Laura Pertusi",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Associato",
+          "url": "https://expertise.unimi.it/get/person/laura-pertusi",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [
+        "Assistant professor"
+      ],
+      "homepage": "https://sites.unimi.it/pertusi/",
+      "homepageStatus": null,
+      "cvUrl": "https://work.unimi.it/chiedove/cv/laura_pertusi.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
+      "publicationsUrl": "https://sites.unimi.it/pertusi/Research.html",
+      "publicationCounts": [
+        {
+          "value": 18,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/laura-pertusi",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 核对机构披露的 ORCID。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5060275004",
+          "url": "https://openalex.org/A5060275004",
+          "orcid": "https://orcid.org/0000-0002-9982-1858",
+          "authorApiUrl": "https://api.openalex.org/authors/A5060275004",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5060275004,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 16,
+          "works": 20,
+          "citations": 395,
+          "hIndex": 12,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Twisted cubics on cubic fourfolds and stability conditions",
+          "year": 2023,
+          "url": "https://doi.org/10.14231/ag-2023-022"
+        },
+        {
+          "title": "Stability conditions and moduli spaces for Kuznetsov components of Gushel–Mukai varieties",
+          "year": 2022,
+          "url": "https://doi.org/10.2140/gt.2022.26.3055"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Assistant professor",
+          "url": "https://sites.unimi.it/geoalg/research1.html"
+        },
+        {
+          "text": "Complex algebraic geometry, derived categories, hyperkähler varieties, cubic fourfolds and Bridgeland stability",
+          "url": "https://sites.unimi.it/pertusi/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -65285,34 +65929,199 @@
           "schoolId": "unimi",
           "department": "数学系",
           "title": "Professore Ordinario",
-          "url": "https://www.unimi.it/it/ugov/rubrica/person0000016523",
+          "url": "https://expertise.unimi.it/get/person/luca-barbieri-viale",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [],
-      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000016523",
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "homepage": "https://expertise.unimi.it/get/person/luca-barbieri-viale",
+      "homepageStatus": "校方具名研究档已读取。",
+      "cvUrl": "https://work.unimi.it/chiedove/cv/luca_barbieri-viale.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
       "publicationsUrl": "https://www.unimi.it/it/ugov/person/luca-barbieri-viale",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 30,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/luca-barbieri-viale",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 核对机构披露的 ORCID。 作者档名下成果与作品端检索的总量有差异，按独立 type:article 查询保存文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5050082497",
+          "url": "https://openalex.org/A5050082497",
+          "orcid": "https://orcid.org/0000-0002-9896-2130",
+          "authorApiUrl": "https://api.openalex.org/authors/A5050082497",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5050082497,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 30,
+          "works": 45,
+          "citations": 441,
+          "hIndex": 13,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Deligne’s conjecture on 1-motives",
+          "year": 2003,
+          "url": "https://doi.org/10.4007/annals.2003.158.593"
+        },
+        {
+          "title": "1-motivic sheaves and the Albanese functor",
+          "year": 2008,
+          "url": "https://doi.org/10.1016/j.jpaa.2008.10.002"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic geometry of motives and algebraic cycles, Hodge theoretic realization",
           "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-aritmetica-motivi-e-teoria-dei-numeri"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "luca-tasin",
+      "name": "Luca Tasin",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Associato",
+          "url": "https://expertise.unimi.it/get/person/luca-tasin",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Associate professor"
+      ],
+      "homepage": "https://sites.google.com/site/lucatasinmath/",
+      "homepageStatus": null,
+      "cvUrl": "https://work.unimi.it/chiedove/cv/luca_tasin.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
+      "publicationsUrl": "https://expertise.unimi.it/get/person/luca-tasin",
+      "publicationCounts": [
+        {
+          "value": 22,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/luca-tasin",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 核对机构披露的 ORCID。 作者档名下成果与作品端检索的总量有差异，按独立 type:article 查询保存文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5066093628",
+          "url": "https://openalex.org/A5066093628",
+          "orcid": "https://orcid.org/0000-0001-5977-0585",
+          "authorApiUrl": "https://api.openalex.org/authors/A5066093628",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5066093628,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 19,
+          "works": 28,
+          "citations": 236,
+          "hIndex": 9,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Effective nonvanishing for Fano weighted complete intersections",
+          "year": 2017,
+          "url": "https://doi.org/10.2140/ant.2017.11.2369"
+        },
+        {
+          "title": "Fano Varieties in Mori Fibre Spaces",
+          "year": 2015,
+          "url": "https://doi.org/10.1093/imrn/rnv173"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Associate professor",
+          "url": "https://sites.unimi.it/geoalg/research1.html"
+        },
+        {
+          "text": "Algebraic geometry, birational geometry, minimal models, foliations and moduli spaces",
+          "url": "https://matematica.unimi.it/it/indam-unimi"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "luciano-mari",
+      "name": "Luciano Mari",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Ordinario",
+          "url": "https://www.unimi.it/it/ugov/person/luciano-mari",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Differential geometry and geometric analysis"
+      ],
+      "homepage": "https://www.unimi.it/it/ugov/person/luciano-mari",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://www.unimi.it/it/ugov/person/luciano-mari",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已确认具名米兰职务与发表入口。作者档与 CV 附件尚待核对，引用及文章总数留待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Spectral rigidity of manifolds with Ricci bounded below and maximal bottom spectrum",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s00209-026-04114-4"
+        },
+        {
+          "title": "Some splitting and rigidity results for sub-static spaces",
+          "year": 2026,
+          "url": "https://doi.org/10.1112/jlms.70590"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis; Riemannian manifolds, spectral Ricci bounds, and mean curvature flow solitons",
+          "url": "https://doi.org/10.1007/s00209-026-04114-4"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -65324,9 +66133,9 @@
           "schoolId": "unimi",
           "department": "数学系",
           "title": "Professore Associato",
-          "url": "https://www.unimi.it/it/ugov/rubrica/person0000124190",
+          "url": "https://expertise.unimi.it/get/person/luigi-lombardi",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -65342,10 +66151,33 @@
       "cvType": null,
       "cvStatus": null,
       "publicationsUrl": "https://sites.unimi.it/luigilombardi/",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 17,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/luigi-lombardi",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "两篇本人研究方向匹配的 DOI 在 OpenAlex 指向两个作者档案。Google Scholar 公开搜索未核唯一身份，保留本人发表页及公开 CV。",
-      "metrics": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 核对机构披露的 ORCID。 作者档名下成果与作品端检索的总量有差异，按独立 type:article 查询保存文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5066772054",
+          "url": "https://openalex.org/A5066772054",
+          "orcid": "https://orcid.org/0000-0002-1598-0190",
+          "authorApiUrl": "https://api.openalex.org/authors/A5066772054",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5066772054,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 13,
+          "works": 19,
+          "citations": 74,
+          "hIndex": 6,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [
         {
@@ -65368,7 +66200,7 @@
           "url": "https://sites.unimi.it/luigilombardi/"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -65380,9 +66212,9 @@
           "schoolId": "unimi",
           "department": "数学系",
           "title": "Professore Associato Confermato",
-          "url": "https://www.unimi.it/it/ugov/rubrica/person0000012312",
+          "url": "https://expertise.unimi.it/get/person/marina-bertolini",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -65392,18 +66224,52 @@
       "tags": [
         "Associate professor"
       ],
-      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000012312",
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "homepage": "https://expertise.unimi.it/get/person/marina-bertolini",
+      "homepageStatus": "校方具名研究档已读取。",
+      "cvUrl": "https://work.unimi.it/chiedove/cv/marina_bertolini.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
       "publicationsUrl": "https://www.unimi.it/it/ugov/person/marina-bertolini",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 44,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/marina-bertolini",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 核对机构披露的 ORCID。 作者档名下成果与作品端检索的总量有差异，按独立 type:article 查询保存文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5037732809",
+          "url": "https://openalex.org/A5037732809",
+          "orcid": "https://orcid.org/0000-0002-1988-653X",
+          "authorApiUrl": "https://api.openalex.org/authors/A5037732809",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5037732809,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 31,
+          "works": 43,
+          "citations": 238,
+          "hIndex": 10,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "A focus on focal surfaces",
+          "year": 2001,
+          "url": "https://doi.org/10.4310/ajm.2001.v5.n3.a8"
+        },
+        {
+          "title": "Linear pose estimate from corresponding conics",
+          "year": 2012,
+          "url": "https://doi.org/10.1016/j.patcog.2012.05.020"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Associate professor",
@@ -65414,7 +66280,119 @@
           "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-algebrica-complessa"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "matteo-cozzi",
+      "name": "Matteo Cozzi",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Associato",
+          "url": "https://expertise.unimi.it/get/person/matteo-cozzi",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://expertise.unimi.it/get/person/matteo-cozzi",
+      "homepageStatus": "校方具名研究档已读取。",
+      "cvUrl": "https://work.unimi.it/chiedove/cv/matteo_cozzi.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
+      "publicationsUrl": "https://expertise.unimi.it/get/person/matteo-cozzi",
+      "publicationCounts": [
+        {
+          "value": 26,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/matteo-cozzi",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 核对机构披露的 ORCID。 作者档名下成果与作品端检索的总量有差异，按独立 type:article 查询保存文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5072974382",
+          "url": "https://openalex.org/A5072974382",
+          "orcid": "https://orcid.org/0000-0001-6105-692X",
+          "authorApiUrl": "https://api.openalex.org/authors/A5072974382",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5072974382,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 21,
+          "works": 32,
+          "citations": 677,
+          "hIndex": 13,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Regularity results and Harnack inequalities for minimizers and solutions of nonlocal problems: A unified approach via fractional De Giorgi classes",
+          "year": 2017,
+          "url": "https://doi.org/10.1016/j.jfa.2017.02.016"
+        },
+        {
+          "title": "Monotonicity formulae and classification results for singular, degenerate, anisotropic PDEs",
+          "year": 2016,
+          "url": "https://doi.org/10.1016/j.aim.2016.02.014"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis of nonlocal minimal surfaces, fractional curvature and variational problems",
+          "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/analisi-matematica"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "maura-elisabetta-salvatori",
+      "name": "Maura Elisabetta Salvatori",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Associato Confermato",
+          "url": "https://www.unimi.it/it/ugov/person/maura-salvatori",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.unimi.it/it/ugov/person/maura-salvatori",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "校方具名索引列 CV，附件链接检索待完成。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已确认具名米兰职务与发表入口。作者档与 CV 附件尚待核对，引用及文章总数留待核。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis on Riemannian manifolds, heat semigroups and weighted graph curvature",
+          "url": "https://www.unimi.it/it/ugov/person/maura-salvatori"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -65426,34 +66404,68 @@
           "schoolId": "unimi",
           "department": "数学系",
           "title": "Professore Associato",
-          "url": "https://www.unimi.it/it/ugov/rubrica/person0000047191",
+          "url": "https://expertise.unimi.it/get/person/paolo-mastrolia",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [],
-      "homepage": "https://www.unimi.it/it/ugov/rubrica/person0000047191",
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "已核本次所列具名研究页和可读成果入口。完整或简版公开 CV 尚未核实。",
+      "homepage": "https://expertise.unimi.it/get/person/paolo-mastrolia",
+      "homepageStatus": "校方具名研究档已读取。",
+      "cvUrl": "https://work.unimi.it/chiedove/cv/paolo_mastrolia.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
       "publicationsUrl": "https://www.unimi.it/it/ugov/person/paolo-mastrolia",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 39,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/paolo-mastrolia",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 核对机构披露的 ORCID。 作者档名下成果与作品端检索的总量有差异，按独立 type:article 查询保存文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5066539926",
+          "url": "https://openalex.org/A5066539926",
+          "orcid": "https://orcid.org/0000-0001-7254-3694",
+          "authorApiUrl": "https://api.openalex.org/authors/A5066539926",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5066539926,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 35,
+          "works": 71,
+          "citations": 903,
+          "hIndex": 16,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Two Rigidity Results for Stable Minimal Hypersurfaces",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/s00039-024-00662-1"
+        },
+        {
+          "title": "On the geometry of gradient Einstein-type manifolds",
+          "year": 2017,
+          "url": "https://doi.org/10.2140/pjm.2017.286.39"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Differential geometry, geometric analysis, nonlinear elliptic equations and Riemannian manifolds",
           "url": "https://www.unimi.it/it/ugov/person/paolo-mastrolia"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -65465,9 +66477,9 @@
           "schoolId": "unimi",
           "department": "数学系",
           "title": "Professore Ordinario",
-          "url": "https://www.unimi.it/it/ugov/rubrica/person0000016378",
+          "url": "https://expertise.unimi.it/get/person/paolo-stellari",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -65483,10 +66495,33 @@
       "cvType": null,
       "cvStatus": null,
       "publicationsUrl": "https://sites.unimi.it/stellari/research1.html",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 40,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/paolo-stellari",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 核对机构披露的 ORCID。 作者档名下成果与作品端检索的总量有差异，按独立 type:article 查询保存文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5029317691",
+          "url": "https://openalex.org/A5029317691",
+          "orcid": "https://orcid.org/0000-0003-0173-9387",
+          "authorApiUrl": "https://api.openalex.org/authors/A5029317691",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5029317691,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 34,
+          "works": 57,
+          "citations": 1946,
+          "hIndex": 24,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
       "papers": [
         {
@@ -65505,7 +66540,88 @@
           "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-algebrica-complessa"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "paul-arne-stvr",
+      "name": "Paul Arne Østvær",
+      "aliases": [
+        "Paul Arne Oestvaer"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Ordinario",
+          "url": "https://expertise.unimi.it/get/person/paul-oestvaer",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Full professor"
+      ],
+      "homepage": "https://sites.google.com/view/oestvaer",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查米兰几何系档、合作组主页、奥斯陆具名页和出版方工作，尚无已核公开 CV 文件。",
+      "publicationsUrl": "https://expertise.unimi.it/get/person/paul-oestvaer",
+      "publicationCounts": [
+        {
+          "value": 33,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/paul-oestvaer",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 核对机构披露的 ORCID。 作者档名下成果与作品端检索的总量有差异，按独立 type:article 查询保存文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5052200461",
+          "url": "https://openalex.org/A5052200461",
+          "orcid": "https://orcid.org/0000-0003-1433-870X",
+          "authorApiUrl": "https://api.openalex.org/authors/A5052200461",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5052200461,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 76,
+          "works": 120,
+          "citations": 1950,
+          "hIndex": 25,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Modules over motivic cohomology",
+          "year": 2008,
+          "url": "https://doi.org/10.1016/j.aim.2008.05.013"
+        },
+        {
+          "title": "The motivic Steenrod algebra in positive characteristic",
+          "year": 2017,
+          "url": "https://doi.org/10.4171/jems/754"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Full professor",
+          "url": "https://sites.unimi.it/geoalg/research1.html"
+        },
+        {
+          "text": "Algebraic geometry, motivic homotopy theory, algebraic cobordism and K-theory of schemes",
+          "url": "https://sites.unimi.it/geoaritmetica/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -65517,34 +66633,188 @@
           "schoolId": "unimi",
           "department": "数学系",
           "title": "Professore Ordinario",
-          "url": "https://www.unimi.it/it/ugov/person/roberto-svaldi",
+          "url": "https://expertise.unimi.it/get/person/roberto-svaldi",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [],
-      "homepage": null,
-      "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "homepage": "https://rsvaldi.github.io/",
+      "homepageStatus": "校方具名研究档已读取。",
+      "cvUrl": "https://rsvaldi.github.io/docs/pers/cv_ita.pdf",
+      "cvType": "公开本人 CV（2026-05-10）",
+      "cvStatus": null,
       "publicationsUrl": "https://expertise.unimi.it/get/person/roberto-svaldi",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 26,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/roberto-svaldi",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 核对机构披露的 ORCID。 作者档名下成果与作品端检索的总量有差异，按独立 type:article 查询保存文章数。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5058857061",
+          "url": "https://openalex.org/A5058857061",
+          "orcid": "https://orcid.org/0000-0003-1489-5899",
+          "authorApiUrl": "https://api.openalex.org/authors/A5058857061",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5058857061,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 18,
+          "works": 34,
+          "citations": 565,
+          "hIndex": 15,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "On the connectedness principle and dual complexes for generalized pairs",
+          "year": 2023,
+          "url": "https://doi.org/10.1017/fms.2023.25"
+        },
+        {
+          "title": "A geometric characterization of toric varieties",
+          "year": 2018,
+          "url": "https://doi.org/10.1215/00127094-2017-0047"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic geometry, birational geometry, positivity and singularities",
           "url": "https://matematica.unimi.it/it/ricerca/attivita-e-risultati-di-ricerca/aree-e-linee-di-ricerca/geometria/geometria-algebrica-complessa"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "salvatore-stuvard",
+      "name": "Salvatore Stuvard",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "数学系",
+          "title": "Professore Associato",
+          "url": "https://expertise.unimi.it/get/person/salvatore-stuvard",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sstuvard.wixsite.com/math",
+      "homepageStatus": null,
+      "cvUrl": "https://work.unimi.it/chiedove/cv/salvatore_stuvard.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
+      "publicationsUrl": "https://sstuvard.wixsite.com/math/publications",
+      "publicationCounts": [
+        {
+          "value": 27,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/salvatore-stuvard",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "核对机构／学术主页、至少两篇本领域 DOI 与该档署名，并抽查该档最高被引作品。 核对机构披露的 ORCID。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5031782597",
+          "url": "https://openalex.org/A5031782597",
+          "orcid": "https://orcid.org/0000-0002-3519-3653",
+          "authorApiUrl": "https://api.openalex.org/authors/A5031782597",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5031782597,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 24,
+          "works": 29,
+          "citations": 323,
+          "hIndex": 12,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On the existence of canonical multi-phase Brakke flows",
+          "year": 2022,
+          "url": "https://doi.org/10.1515/acv-2021-0093"
+        },
+        {
+          "title": "Regularity of area minimizing currents mod p",
+          "year": 2020,
+          "url": "https://doi.org/10.1007/s00039-020-00546-0"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis, geometric measure theory, minimal surfaces and mean curvature flow",
+          "url": "https://sstuvard.wixsite.com/math"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "silke-klemm",
+      "name": "Silke Klemm",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "unimi",
+          "department": "Department of Physics Aldo Pontremoli",
+          "title": "Professore Associato Confermato · Physics",
+          "url": "https://expertise.unimi.it/get/person/silke-klemm",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www0.mi.infn.it/~strings/memberhome.php?member=klemm",
+      "homepageStatus": null,
+      "cvUrl": "https://work.unimi.it/chiedove/cv/silke_klemm.pdf",
+      "cvType": "公开 CV（UniFind 附件）",
+      "cvStatus": null,
+      "publicationsUrl": "https://expertise.unimi.it/get/person/silke-klemm",
+      "publicationCounts": [
+        {
+          "value": 49,
+          "scope": "米兰大学 UniFind 具名 Pubblicazioni 栏机构收录总量，涵盖多种成果类型",
+          "url": "https://expertise.unimi.it/get/person/silke-klemm",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "官方 ORCID 匹配 A5022349483，另一个同单位的 A5040841920 确含本人的 Einstein–Weyl 和引力研究，两档分拆；Jena 同名档按领域排除。改保留 UniFind 机构收录量，暂不汇总累计引用。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of supersymmetric gravitational solutions, Lorentzian and special Kähler geometry, black hole geometry",
+          "url": "https://doi.org/10.1007/JHEP01(2010)085"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
