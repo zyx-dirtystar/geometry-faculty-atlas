@@ -3998,9 +3998,13 @@
     },
     {
       "id": "anu",
-      "coverage": "sample",
-      "coverageNote": "已解析 6/20 个登记来源，1 条任职或方向待核。 已收录 9 位学者，个人主页 9、CV 3、指标 5。 数学科学研究所现任列表三页 45 人、荣休和名誉 20 人、长访 17 人。另交叉四个具名研究组、分析与几何组 17 人及学校研究访问入口。个人档案已逐张读取，常设职、博士后、研究 fellowship、访问和荣休分开。继续复核名单空白方向与跨学科任职。 检查应用计算数学组 33 条、数据科学组 5 条、理论物理和计算学院入口。理论物理的应用拓扑与几何组、长访计划年度名册仍须逐人核完。 本批补查物理学院应用拓扑与几何 4 位、数学物理 8 位，逐条核对其官方分组。 核对 2026 MATRIX–RIMS 几何流的具名参加者，补入 Min Chen 的科研 fellowship；Griffith Ware 的官网和 2026 教学记录可证现在职，未展示三个方向的研究。",
+      "coverage": "verified",
+      "coverageNote": "已解析 7/30 个登记来源，0 条任职或方向待核。 已收录 9 位学者，个人主页 9、CV 3、指标 7。 核对 MSI 学术人员三页 45 人、荣休与名誉 20 人、现行全名册 145 行去重 141 人及长访目录。姓名、现任科研级别与主聘根据具名档案、研究方向和合作单位区分。交叉纯数、数论、拓扑、分析与 PDE、几何、应用计算、数据科学、物理学院应用拓扑与数学物理，以及计算学院现行名录和组织结构。逐人对照 2026 MSRVP 11 位、FAMSI 现任及历史访问、2026 MATRIX–RIMS 具名名单。短期访客按年度单列，校方未给逐人访问日。ECRVP 未找到单列公示；具名的联合和短访以现行资料登记。FAMSI 定期公报和具名科研确认新增博士后 Jui-Yun Hung；ANU 数学物理组与实际论文纠正 Xiaoxu Wu 旧误配。校科研门户成员页直连 403，使用公开院系和具名主页交叉。作品与引用的公开缺项及拆档在复核表单列。",
       "rosterLinks": [
+        [
+          "MSI · All people (combined directory)",
+          "https://maths.anu.edu.au/people/all-people"
+        ],
         [
           "MSI · Algebraic & Differential Geometry",
           "https://maths.anu.edu.au/research/research-areas/algebraic-differential-geometry"
@@ -4022,8 +4026,24 @@
           "https://comp.anu.edu.au/people/"
         ],
         [
+          "School of Computing · research clusters and named groups",
+          "https://comp.anu.edu.au/research/"
+        ],
+        [
           "Mathematical Data Science Centre · Members",
           "https://maths.anu.edu.au/research/anu-mathematical-data-science/members"
+        ],
+        [
+          "MSI · Early Career Researcher Visitor Program public entry",
+          "https://maths.anu.edu.au/outreach/visitors-program/early-career-researcher-visitor-program-ecrvp"
+        ],
+        [
+          "FAMSI · Local and international memberships",
+          "https://maths.anu.edu.au/research/famsi-irl/members"
+        ],
+        [
+          "FAMSI · Monthly dated affiliation evidence",
+          "https://maths.anu.edu.au/research/famsi-irl/newsletters"
         ],
         [
           "MSI · Emeritus and Honorary",
@@ -4032,6 +4052,18 @@
         [
           "MSI · Mathematical Physics",
           "https://maths.anu.edu.au/research/research-areas/mathematical-physics"
+        ],
+        [
+          "ANU–MATRIX/RIMS named workshop attendees",
+          "https://www.matrix-inst.org.au/events/matrix-rims-tandem-workshop-geometric-flows-and-related-phenomena/"
+        ],
+        [
+          "MSI · Algebraic & Differential Geometry",
+          "https://maths.anu.edu.au/research/research-areas/algebraic-differential-geometry"
+        ],
+        [
+          "MSI · Analysis & PDE",
+          "https://maths.anu.edu.au/research/research-areas/analysis-pde"
         ],
         [
           "MSI · Algebra & Number Theory",
@@ -4048,6 +4080,10 @@
         [
           "Research School of Physics · Applied Topology and Geometry group",
           "https://physics.anu.edu.au/research/ftp/topo/?tab=people"
+        ],
+        [
+          "ANU Research Portal · MSI persons",
+          "https://researchportalplus.anu.edu.au/en/organisations/mathematical-sciences-institute/persons/"
         ],
         [
           "数学科学研究所学术人员",
@@ -4078,11 +4114,15 @@
           "https://maths.anu.edu.au/research/research-areas/pure-applied-topology"
         ],
         [
+          "MSI · Competitive visitor programs",
+          "https://maths.anu.edu.au/outreach/visitors-program"
+        ],
+        [
           "MSI · Long-term Visitors",
           "https://maths.anu.edu.au/people/long-term-visitors"
         ]
       ],
-      "checkedAt": "2026-11-25"
+      "checkedAt": "2026-11-26"
     },
     {
       "id": "tu-berlin",
@@ -9346,7 +9386,7 @@
           "title": "Associate Professor",
           "url": "https://maths.anu.edu.au/people/anand-deopurkar",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -9391,7 +9431,7 @@
           "url": "https://maths.anu.edu.au/people/anand-deopurkar"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -9405,7 +9445,7 @@
           "title": "Senior Lecturer ARC DECRA Fellow",
           "url": "https://maths.anu.edu.au/people/asilata-bapat",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -9450,7 +9490,7 @@
           "url": "https://maths.anu.edu.au/people/asilata-bapat"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -9464,7 +9504,7 @@
           "title": "Professor Associate Director (Research)",
           "url": "https://maths.anu.edu.au/people/ben-andrews",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -9475,10 +9515,18 @@
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "本批复核学者的 ANU 具名档案及可达研究入口。独立公开 CV 待进一步核实。",
-      "publicationsUrl": "https://researchportalplus.anu.edu.au/en/persons/ben-andrews/publications",
+      "cvStatus": "查 ANU 具名教研页面、本人独立站和发表目录、Australian Academy of Science 院士公开简介及带 CV 的姓名检索，未见独立公开 CV。",
+      "publicationsUrl": "https://maths-people.anu.edu.au/~andrews/publications.html",
       "publicationCounts": [],
-      "opportunities": [],
+      "opportunities": [
+        {
+          "label": "ANU MSI 两席几何分析博士项目",
+          "url": "https://maths.anu.edu.au/news-events/news/msi-seeking-two-phd-candidates-geometric-analysis",
+          "type": "博士",
+          "status": "公开公告，页面未列截止日期",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
       "metrics": [
         {
@@ -9509,7 +9557,7 @@
           "url": "https://maths.anu.edu.au/people/ben-andrews"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -9581,7 +9629,11 @@
     {
       "id": "bryan-wang",
       "name": "Bryan Wang",
-      "aliases": [],
+      "aliases": [
+        "Bryan Bai-Ling Wang",
+        "Bai-Ling Wang",
+        "王百灵"
+      ],
       "affiliations": [
         {
           "schoolId": "anu",
@@ -9589,25 +9641,43 @@
           "title": "Professor",
           "url": "https://maths.anu.edu.au/people/bryan-wang",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [],
-      "homepage": "https://maths.anu.edu.au/people/bryan-wang",
+      "homepage": "https://maths-people.anu.edu.au/~wangb/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "本批复核学者的 ANU 具名档案及可达研究入口。独立公开 CV 待进一步核实。",
-      "publicationsUrl": "https://researchportalplus.anu.edu.au/en/persons/bryan-wang/publications",
-      "publicationCounts": [],
+      "cvStatus": "查 ANU 具名档及个人旧站完整导航、公开访学页和校方 ORCID。找到教育履历和发表资料，未见独立公开 CV。",
+      "publicationsUrl": "https://maths.anu.edu.au/people/bryan-wang",
+      "publicationCounts": [
+        {
+          "value": 22,
+          "scope": "ANU Research Portal 的 Contribution to journal · Article 分项",
+          "checkedAt": "2026-11-26",
+          "url": "https://researchportalplus.anu.edu.au/en/persons/bryan-wang/"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。 已以 ANU 具名档案或校研究门户的 ORCID 核对。",
+      "identityNote": "ANU 与本人署名确认 Bryan、Bai-Ling 为同一学者。OpenAlex 校方 ORCID 当前只收 1 项，数学主作品和已核扭曲 K 同调 DOI 又分两档，其中一档 ORCID 不同。Scholar 搜索同名和机构未核实档案；校方给出 22 条 Article，累计引用尚未核实。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Bundle Gerbes for Chern-Simons and Wess-Zumino-Witten Theories",
+          "year": 2005,
+          "url": "https://doi.org/10.1007/s00220-005-1376-8"
+        },
+        {
+          "title": "Twisted Sectors for Lagrangian Floer Theory on Symplectic Orbifolds",
+          "year": 2024,
+          "url": "https://doi.org/10.3842/SIGMA.2024.011"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Symplectic geometry and topology, gauge theory on manifolds, geometric properties of moduli spaces and Gromov–Witten invariants",
@@ -9618,7 +9688,7 @@
           "url": "https://maths.anu.edu.au/people/bryan-wang"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -9632,7 +9702,7 @@
           "title": "Associate Professor PhB Convenor",
           "url": "https://maths.anu.edu.au/people/ian-le",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -9643,14 +9713,32 @@
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "本批复核学者的 ANU 具名档案及可达研究入口。独立公开 CV 待进一步核实。",
-      "publicationsUrl": "https://researchportalplus.anu.edu.au/en/persons/ian-le/publications",
-      "publicationCounts": [],
+      "cvStatus": "读取 ANU MSI 具名档、悉尼大学具名访问档，查澳国立科研门户及公开数学报告；未见独立公开 CV。科研门户的作品子页直连返回 403。",
+      "publicationsUrl": "https://researchportalplus.anu.edu.au/en/persons/ian-le/",
+      "publicationCounts": [
+        {
+          "value": 14,
+          "scope": "ANU Research Portal 的 Contribution to journal · Article 分项",
+          "checkedAt": "2026-11-26",
+          "url": "https://researchportalplus.anu.edu.au/en/persons/ian-le/"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "OpenAlex HTTP 404 已以 ANU 具名档案或校研究门户的 ORCID 核对。",
+      "identityNote": "OpenAlex 的 2019 期刊 DOI 与 2024 braid varieties 期刊 DOI 分属于两个无 ORCID 档案。校方 ORCID 在 OpenAlex 返回 404；Google Scholar 姓名、机构和研究关键词未匹配本人档案。校方给出 14 条 Article；累计引用尚未核实。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Cluster structures on higher Teichmüller spaces for classical groups",
+          "year": 2019,
+          "url": "https://doi.org/10.1017/fms.2019.5"
+        },
+        {
+          "title": "Cluster structures on braid varieties",
+          "year": 2024,
+          "url": "https://doi.org/10.1090/jams/1048"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic geometry of cluster varieties and moduli, higher Teichmüller theory, and geometric representation theory",
@@ -9661,7 +9749,7 @@
           "url": "https://maths.anu.edu.au/people/ian-le"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -9675,7 +9763,7 @@
           "title": "Associate Professor",
           "url": "https://maths.anu.edu.au/people/james-borger",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -9736,7 +9824,7 @@
           "url": "https://maths-people.anu.edu.au/~borger/papers.html"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -9750,7 +9838,7 @@
           "title": "Professor",
           "url": "https://maths.anu.edu.au/people/joan-licata",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -9761,14 +9849,48 @@
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "本批复核学者的 ANU 具名档案及可达研究入口。独立公开 CV 待进一步核实。",
-      "publicationsUrl": "https://researchportalplus.anu.edu.au/en/persons/joan-licata/publications",
-      "publicationCounts": [],
+      "cvStatus": "查 ANU 教师档案及内嵌论文、ORCID、教学表彰和具名公开 CV 搜索。找到学术档案与论文，未见独立公开 CV。ANU 机构成果列表直连 403。",
+      "publicationsUrl": "https://researchportalplus.anu.edu.au/en/persons/joan-licata/",
+      "publicationCounts": [
+        {
+          "value": 16,
+          "scope": "ANU Research Portal 的 Contribution to journal · Article 分项",
+          "checkedAt": "2026-11-26",
+          "url": "https://researchportalplus.anu.edu.au/en/persons/joan-licata/"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。 已以 ANU 具名档案或校研究门户的 ORCID 核对。",
-      "metrics": [],
+      "identityNote": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5033291418",
+          "url": "https://openalex.org/A5033291418",
+          "checkedAt": "2026-11-26",
+          "authorApiUrl": "https://api.openalex.org/authors/A5033291418",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5033291418,type:article&per_page=1&select=id",
+          "orcid": "https://orcid.org/0000-0003-4831-8563",
+          "articles": 18,
+          "works": 29,
+          "citations": 160,
+          "hIndex": 8,
+          "articleScope": "OpenAlex type:article，作者档案收录范围",
+          "citationScope": "OpenAlex 作者档案累计引用（作者端与作品搜索覆盖有差异，保留作者 API 口径）"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "A dynamical characterization of universally tight lens spaces",
+          "year": 2014,
+          "url": "https://doi.org/10.1112/plms/pdu043"
+        },
+        {
+          "title": "Morse structures on open books",
+          "year": 2016,
+          "url": "https://doi.org/10.1090/tran/7079"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Differential geometry of contact 3-manifolds, Legendrian and topological knot theory and Floer invariants",
@@ -9779,13 +9901,15 @@
           "url": "https://maths.anu.edu.au/people/joan-licata"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
       "id": "mat-langford",
       "name": "Mat Langford",
-      "aliases": [],
+      "aliases": [
+        "Mathew Langford"
+      ],
       "affiliations": [
         {
           "schoolId": "anu",
@@ -9793,7 +9917,7 @@
           "title": "MSI Fellow ARC Future Fellow",
           "url": "https://maths.anu.edu.au/people/mat-langford",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -9804,21 +9928,56 @@
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "本批复核学者的 ANU 具名档案及可达研究入口。独立公开 CV 待进一步核实。",
-      "publicationsUrl": null,
+      "cvStatus": "读取本人主站、本人独立发表和教学入口、ANU 具名档案及 ARC 项目公开页，未见可公开访问的独立 CV。",
+      "publicationsUrl": "https://suppiluliuma.neocities.org/research.html",
       "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "opportunities": [
+        {
+          "label": "ANU MSI 两席几何分析博士项目",
+          "url": "https://maths.anu.edu.au/news-events/news/msi-seeking-two-phd-candidates-geometric-analysis",
+          "type": "博士",
+          "status": "公开公告，页面未列截止日期",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "identityNote": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5065181230",
+          "url": "https://openalex.org/A5065181230",
+          "checkedAt": "2026-11-26",
+          "authorApiUrl": "https://api.openalex.org/authors/A5065181230",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5065181230,type:article&per_page=1&select=id",
+          "orcid": null,
+          "articles": 25,
+          "works": 52,
+          "citations": 496,
+          "hIndex": 12,
+          "articleScope": "OpenAlex type:article，作者档案收录范围",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Non-collapsing in fully non-linear curvature flows",
+          "year": 2012,
+          "url": "https://doi.org/10.1016/j.anihpc.2012.05.003"
+        },
+        {
+          "title": "Collapsing ancient solutions of mean curvature flow",
+          "year": 2021,
+          "url": "https://doi.org/10.4310/jdg/1632506300"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Differential geometry and geometric analysis, Ricci flow, mean curvature flow and hypersurface curvature flows",
           "url": "https://maths.anu.edu.au/research/research-areas/algebraic-differential-geometry"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {

@@ -422,6 +422,16 @@
       "note": "校方页面列现任负责人 Igor Boettcher、依托院系和研讨会，未列当期全体成员。可公开取得的年度文件为历史来源。"
     },
     {
+      "id": "anu-all-people26",
+      "school": "anu",
+      "url": "https://maths.anu.edu.au/people/all-people",
+      "label": "MSI · All people (combined directory)",
+      "status": "reference",
+      "count": 141,
+      "checked_at": "2026-11-26",
+      "note": "当前全名册直接可读，无分页，145 行，去重 141 人。逐项与教职、荣休、访问档案比对，含学生和行政。"
+    },
+    {
       "id": "anu-alt-geometry31",
       "school": "anu",
       "url": "https://maths.anu.edu.au/research/research-areas/algebraic-differential-geometry",
@@ -467,9 +477,19 @@
       "url": "https://comp.anu.edu.au/people/",
       "label": "School of Computing · People",
       "status": "reference",
+      "count": 262,
+      "checked_at": "2026-11-26",
+      "note": "直接读取 428 条人员卡，按现行目录标签比对师资、联属、研究及相关计算组 262 个具名条目。交叉研究总页所列计算基础、计算科学和人本计算的具名组织入口；图形和形状分析按应用关联处理。"
+    },
+    {
+      "id": "anu-computing-research26",
+      "school": "anu",
+      "url": "https://comp.anu.edu.au/research/",
+      "label": "School of Computing · research clusters and named groups",
+      "status": "reference",
       "count": 0,
-      "checked_at": null,
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "checked_at": "2026-11-26",
+      "note": "核对 School of Computing 现行研究总页及人本计算分组。Computing Foundations、Computational Science 在研究总页列为 cluster，直接尝试的同名 group URL 均 404，另查现行组织图及人员筛选。"
     },
     {
       "id": "anu-datasci-b33",
@@ -480,6 +500,36 @@
       "count": 5,
       "checked_at": "2026-11-25",
       "note": "逐张核查 5 个公开具名条目。学校主聘和研究组联属分开，当前页并不代表联合机构全部人员。"
+    },
+    {
+      "id": "anu-ecrvp26",
+      "school": "anu",
+      "url": "https://maths.anu.edu.au/outreach/visitors-program/early-career-researcher-visitor-program-ecrvp",
+      "label": "MSI · Early Career Researcher Visitor Program public entry",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "独立早期职业访问项目试查路径返回 404，项目总入口无独立链接。MSRVP 的 2025 表内出现单项 ECRVP 标注，未公布独立 2026 名单。"
+    },
+    {
+      "id": "anu-famsi-members26",
+      "school": "anu",
+      "url": "https://maths.anu.edu.au/research/famsi-irl/members",
+      "label": "FAMSI · Local and international memberships",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "现行页列 ANU 成员 14 位、1 项联属 Fellow，在站法方 2 位、已离站 4 位及共同指导学生。2026 年 8 月简报确认 Hung 到任为博士后。"
+    },
+    {
+      "id": "anu-famsi-news26",
+      "school": "anu",
+      "url": "https://maths.anu.edu.au/research/famsi-irl/newsletters",
+      "label": "FAMSI · Monthly dated affiliation evidence",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "核对 2026 年 8 月 Jui-Yun Hung 到任及其后访客更新；交叉当前成员页和本人 2026-10 有署名预印本。"
     },
     {
       "id": "anu-honorary31",
@@ -500,6 +550,36 @@
       "count": 22,
       "checked_at": "2026-11-25",
       "note": "逐张对照官方分页与 22 个具名档案。任职优先取个人档案，组成员身份单独交叉审阅。"
+    },
+    {
+      "id": "anu-matrix-rims26",
+      "school": "anu",
+      "url": "https://www.matrix-inst.org.au/events/matrix-rims-tandem-workshop-geometric-flows-and-related-phenomena/",
+      "label": "ANU–MATRIX/RIMS named workshop attendees",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "读取 2026 几何流研讨会具名报名者的校名；任职仍由 ANU 人员卡和研究组判断。"
+    },
+    {
+      "id": "anu-new-adg26",
+      "school": "anu",
+      "url": "https://maths.anu.edu.au/research/research-areas/algebraic-differential-geometry",
+      "label": "MSI · Algebraic & Differential Geometry",
+      "status": "reference",
+      "count": 25,
+      "checked_at": "2026-11-26",
+      "note": "读取当前研究组和在页分页，去重 25 个具名科研、名誉、学生条目；以任职名册交叉。"
+    },
+    {
+      "id": "anu-new-analysis26",
+      "school": "anu",
+      "url": "https://maths.anu.edu.au/research/research-areas/analysis-pde",
+      "label": "MSI · Analysis & PDE",
+      "status": "reference",
+      "count": 32,
+      "checked_at": "2026-11-26",
+      "note": "读取当前研究组和在页分页，去重 32 个具名科研、名誉、学生条目；以任职名册交叉。"
     },
     {
       "id": "anu-number-b33",
@@ -542,14 +622,24 @@
       "note": "4 条公开人员卡片，现任与荣休获具名官方档案支持。"
     },
     {
+      "id": "anu-pure-people26",
+      "school": "anu",
+      "url": "https://researchportalplus.anu.edu.au/en/organisations/mathematical-sciences-institute/persons/",
+      "label": "ANU Research Portal · MSI persons",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "校级机构主页面可读；具名人员子页直连 403。MSI 官网完整名册、职级分栏及个别科研门户主页可作为互补证据。"
+    },
+    {
       "id": "anu-qs-roster",
       "school": "anu",
       "url": "https://maths.anu.edu.au/people/academics",
       "label": "数学科学研究所学术人员",
-      "status": "needs_adapter",
-      "count": 0,
-      "checked_at": "2026-11-23",
-      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+      "status": "parsed",
+      "count": 20,
+      "checked_at": "2026-11-26",
+      "note": "现行 Academics 第一页 20 人。原自动解析未处理动态目录，本次以院系逐卡复核的具名转录补齐；另有两页 25 人。"
     },
     {
       "id": "anu-resvisitor31",
@@ -557,9 +647,9 @@
       "url": "https://maths.anu.edu.au/outreach/visitors-program/mathematical-sciences-research-visitor-program-msrvp",
       "label": "MSI · Research Visitors Program by year",
       "status": "reference",
-      "count": 0,
-      "checked_at": null,
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "count": 11,
+      "checked_at": "2026-11-26",
+      "note": "已读取 2026 具名 11 位与 2025 历史分栏。该项目访问为两至六周，2026 页只公布年度名单，未公布逐人起止日期。"
     },
     {
       "id": "anu-staff-acad31",
@@ -598,8 +688,8 @@
       "label": "ANU Fundamental & Theoretical Physics · research group index",
       "status": "reference",
       "count": 0,
-      "checked_at": null,
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "checked_at": "2026-11-26",
+      "note": "已读取现任四个物理研究方向及组别导航，应用拓扑与几何和数学物理的具名人员组另有逐人记录。"
     },
     {
       "id": "anu-topology-b33",
@@ -610,6 +700,16 @@
       "count": 9,
       "checked_at": "2026-11-25",
       "note": "逐张对照官方分页与 9 个具名档案。任职优先取个人档案，组成员身份单独交叉审阅。"
+    },
+    {
+      "id": "anu-vis-program26",
+      "school": "anu",
+      "url": "https://maths.anu.edu.au/outreach/visitors-program",
+      "label": "MSI · Competitive visitor programs",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "现行页面列 MSRVP 与 ECRVP；MSRVP 有具名年度页，ECRVP 仅文字，无独立公示入口。年度 MSRVP 页可查到 2025 的 ECRVP 具名个案。"
     },
     {
       "id": "anu-visitors31",
@@ -29795,6 +29895,326 @@
         "source_kind": "department",
         "source_url": "https://maths.anu.edu.au/people/emeritus-honorary",
         "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "ananddeopurkar",
+      "school": "anu",
+      "record": {
+        "name": "Anand Deopurkar",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/anand-deopurkar",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "andrewhassell",
+      "school": "anu",
+      "record": {
+        "name": "Andrew Hassell",
+        "title": "Professor ARC Laureate Fellow",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/andrew-hassell",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "asilatabapat",
+      "school": "anu",
+      "record": {
+        "name": "Asilata Bapat",
+        "title": "Senior Lecturer ARC DECRA Fellow",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/asilata-bapat",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "barrycroke",
+      "school": "anu",
+      "record": {
+        "name": "Barry Croke",
+        "title": "Senior Fellow / Professor",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/barry-croke",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "benandrews",
+      "school": "anu",
+      "record": {
+        "name": "Ben Andrews",
+        "title": "Professor Associate Director (Research)",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/ben-andrews",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "galinalevitina",
+      "school": "anu",
+      "record": {
+        "name": "Galina Levitina",
+        "title": "Senior Lecturer ARC DECRA Fellow",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/galina-levitina",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "ianle",
+      "school": "anu",
+      "record": {
+        "name": "Ian Le",
+        "title": "Associate Professor PhB Convenor",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/ian-le",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "jamesborger",
+      "school": "anu",
+      "record": {
+        "name": "James Borger",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/james-borger",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "lancegurney",
+      "school": "anu",
+      "record": {
+        "name": "Lance Gurney",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/lance-gurney",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "liliaferrario",
+      "school": "anu",
+      "record": {
+        "name": "Lilia Ferrario",
+        "title": "MSI Director Professor",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/lilia-ferrario",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "matlangford",
+      "school": "anu",
+      "record": {
+        "name": "Mat Langford",
+        "title": "MSI Fellow ARC Future Fellow",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/mat-langford",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "matthewhole",
+      "school": "anu",
+      "record": {
+        "name": "Matthew Hole",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/matthew-hole",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "minchen",
+      "school": "anu",
+      "record": {
+        "name": "Min Chen",
+        "title": "MSI Fellow",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/min-chen",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "peterheisssynak",
+      "school": "anu",
+      "record": {
+        "name": "Peter Heiss Synak",
+        "title": "Lecturer",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/peter-heiss-synak",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "qinianjin",
+      "school": "anu",
+      "record": {
+        "name": "Qinian Jin",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/qinian-jin",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "qiuyejia",
+      "school": "anu",
+      "record": {
+        "name": "Qiuye Jia",
+        "title": "Postdoctoral Fellow",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/qiuye-jia",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "rowenaball",
+      "school": "anu",
+      "record": {
+        "name": "Rowena Ball",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/rowena-ball",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "teresaheisssynak",
+      "school": "anu",
+      "record": {
+        "name": "Teresa Heiss-Synak",
+        "title": "MSI-Google Fellow",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/teresa-heiss-synak",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "vigleikangeltveit",
+      "school": "anu",
+      "record": {
+        "name": "Vigleik Angeltveit",
+        "title": "Senior Lecturer Honours Convener",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/vigleik-angeltveit",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "anu-qs-roster",
+      "person_key": "xiahua",
+      "school": "anu",
+      "record": {
+        "name": "Xia Hua",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://maths.anu.edu.au/people/xia-hua",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://maths.anu.edu.au/people/academics",
+        "checked_at": "2026-11-26"
       }
     },
     {

@@ -406,9 +406,9 @@
     "marija-zamaklar": "ORCID 入口未返回作者，Durham 具名成果库的 JHEP 2018 和 2016 两项 DOI 及任职一致，确认 A5090712903。OA 总档案与作品检索覆盖数不同，采用其 type:article 查询计数。",
     "yue-ren": "已核对公开 ORCID、当前或历史任职与两篇具名论文。杜伦科研论文与热带几何履历匹配。",
     "jack-hall": "OpenAlex 将本人发表页所列 Perfect complexes on algebraic stacks 与 The Hilbert stack 两篇出版 DOI 分配给不同档案。Google Scholar 姓名加现任学校检索未找到可确认的公开档案。已保留墨尔本学术站论文目录，尚缺可核实的同口径合计。",
-    "joan-licata": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。 已以 ANU 具名档案或校研究门户的 ORCID 核对。",
-    "bryan-wang": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。 已以 ANU 具名档案或校研究门户的 ORCID 核对。",
-    "ian-le": "OpenAlex HTTP 404 已以 ANU 具名档案或校研究门户的 ORCID 核对。",
+    "joan-licata": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。",
+    "bryan-wang": "ANU 与本人署名确认 Bryan、Bai-Ling 为同一学者。OpenAlex 校方 ORCID 当前只收 1 项，数学主作品和已核扭曲 K 同调 DOI 又分两档，其中一档 ORCID 不同。Scholar 搜索同名和机构未核实档案；校方给出 22 条 Article，累计引用尚未核实。",
+    "ian-le": "OpenAlex 的 2019 期刊 DOI 与 2024 braid varieties 期刊 DOI 分属于两个无 ORCID 档案。校方 ORCID 在 OpenAlex 返回 404；Google Scholar 姓名、机构和研究关键词未匹配本人档案。校方给出 14 条 Article；累计引用尚未核实。",
     "qiuye-jia": "OpenAlex 作者姓名或 ORCID 与院校公开档案不一致。 已以 ANU 具名档案或校研究门户的 ORCID 核对。",
     "kevin-mcgerty": "已核对公开 ORCID、当前或历史任职与两篇具名论文。Oxford 院系书目及正式论文所列 Mathematical Institute 作者身份确认神经科学跨学科论文也是本人合著。",
     "richard-earl": "Oxford 具名档案与历史代数几何 DOI 已核，OpenAlex 查询未返回可采信作者档案。",
@@ -495,7 +495,31 @@
     "hans-j-m-sterk": "同校多档。A5000615750 收录与 Cuypers、Perrenet 的成果，A5159057234 收录与 Peters 的 2026 预印本。逐查本人 Selected Publications、Pure 和 Scholar，教育成果与几何成果分属不同档案。保留 TU/e 明确分类的期刊条目数，累计引文待消歧。",
     "sjors-heefer": "OpenAlex ORCID 与 Finsler DOI 匹配。只有 14 个可检索条目，观察到本人 Scholar 公开索引列出的白皮书条目未在该档案列出，引用先用由本人主页链接的 Scholar All 栏。",
     "jan-draisma": "伯尔尼机构及 ORCID 匹配。A5159960204 分列本人和 Blatter、Rupniewski 的 preprint，累计引用采用已按作品和校邮核对的 Scholar All 栏。",
-    "nicky-j-van-den-berg": "作者 ORCID 及 TU/e 合作者吻合，另档 A5084431998 的公路裂缝作品也出现在本人 Scholar。引用采用经本人学术主页核实的 Scholar All 栏。"
+    "nicky-j-van-den-berg": "作者 ORCID 及 TU/e 合作者吻合，另档 A5084431998 的公路裂缝作品也出现在本人 Scholar。引用采用经本人学术主页核实的 Scholar All 栏。",
+    "mat-langford": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。",
+    "john-huerta": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。",
+    "peter-vassiliou": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。",
+    "noah-white": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。",
+    "sadashige-ishida": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。",
+    "parth-shimpi": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。",
+    "perrine-jouteur": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。",
+    "tanmay-deshpande": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。",
+    "jui-yun-hung": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。",
+    "svetlana-makarova": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。",
+    "john-urbas": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。",
+    "caleb-ji": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。",
+    "jesse-kass": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。",
+    "lance-gurney": "OpenAlex A5066815505 的数学作品属本人，但混入 2006 工程安全计划；2026 数学预印本另在 A5152636686。本人 ANU 主页的 CV/bibliography 链接为空；跨页全文作品没有确证完整。未核实 Scholar 同名档与累计引用。",
+    "gleb-smirnov": "校方本人简介说明从 Geneva 辛几何转到 ANU discrepancy。OpenAlex 按两个 ORCID 分档，前一档另出现不相符合著和主题。校方机构与个人论文读到部分成果，未得可核实完整去重数和累计引用。",
+    "yixuan-li": "已核 Floer 论文 DOI 在 OpenAlex 作者栏缺 ID；姓名候选为机器学习、生医和光学的同名者。核对 ANU、Berkeley 论文目录和清华具名讲座，未定位可归属的统计档或完整发表表。",
+    "min-chen": "已核几何预印本在 OpenAlex 作者栏缺 ID；同名作者搜索靠前结果属网络、材料和生物等。查 ANU 和 Oregon 具名目录及 MATRIX–RIMS，均不提供可确认的完整作品或累计引用。",
+    "john-hutchinson": "按本人《Fractals and self similarity》的 DOI 查询，OpenAlex 把 1981 几何论文归给 Lancaster 软件工程的同名者 A5087436752。ANU 榮休与研究页不能提供确证完整计数或累计引用。",
+    "amnon-neeman": "OpenAlex 数学档案 A5025379457 的高引记录混入 2005 高维统计论文。数学条目还出现异体名独立档。ANU 荣休资料和 Milan 公开任职可确定本人，汇总计量暂缺可确认依据。",
+    "neil-trudinger": "OpenAlex 大档与只有 2026 年几何方程预印本的 A5158743439 有同一人分档；大档的同一本吉尔巴格合著专著也有独立版次。未把两档引用合并。",
+    "fei-han": "OpenAlex A5005755707 的椭圆亏格和示性类作品属于本人，高引表还混入聚合物分子机器学习论文。NUS Graduate School 本人档案标示 Publications 52 项，累计引用未核实。",
+    "nicolas-vilches": "本人站列出预印本和学位论文，已匹配 OpenAlex A5120546649 的代数几何预印本；同一博士论文另在作者 A5140942694，并被标作 type:article。个人研究页未声明全生涯期刊论文计数，未汇总两档引用。",
+    "peter-o-sullivan": "校方确认访客及具名纯动机报告。已核纯数学期刊版 DOI 和 arXiv 版，两个 OpenAlex 作者栏均缺作者 ID；同名档靠前有临床与工程作者。校方访客卡和专题未给完整发表表或累计引用。",
+    "xu-jia-wang": "Westlake 与 ANU 具名来源确认汪学家，OpenAlex 主档 A5039750293 抽查两篇代表作均相符，另有同领域汪学家条目待按发表版本逐条合并。累计引用仍按来源分开核对。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -737,7 +761,20 @@
     "thomas-rudelius": "Durham 官方档案的两项 JHEP DOI 匹配同一身份，IAS 任职历史及弦场论、弱引力、模空间高引条目一致。",
     "asilata-bapat": "官网 ORCID、ANU 单位及稳定条件、球面对象和 q-变形高引结果一致。",
     "anand-deopurkar": "官网 ORCID、ANU 单位及 Hurwitz 空间、向量丛、稳定 log 曲面高引结果一致。",
-    "svetlana-makarova": "官网 ORCID、ANU 单位及模空间、determinantal line bundles 与 Fano 成果一致。",
+    "svetlana-makarova": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5112149697",
+      "url": "https://openalex.org/A5112149697",
+      "authorApiUrl": "https://api.openalex.org/authors/A5112149697",
+      "identitySources": [
+        "https://maths.anu.edu.au/people/svetlana-makarova",
+        "https://sites.google.com/view/murmuno/",
+        "https://doi.org/10.2140/ant.2026.20.747",
+        "https://doi.org/10.1112/mod.2025.10006"
+      ],
+      "note": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。"
+    },
     "brett-parker": "官网 ORCID、ANU 单位及爆裂流形、全纯曲线及 Gromov–Witten 高引结果一致。",
     "alexander-ritter": "牛津具名 ORCID 和任职互证，抽样确认为该作者的 Floer、Fukaya 与 Gromov–Witten 成果。",
     "andrea-mondino": "牛津具名官方 ORCID 和现任单位互证。高引作品逐条核对下 Ricci 界、度量测度和等周问题。",
@@ -754,6 +791,320 @@
     "jesse-gell-redman": "墨尔本现聘与两篇 Hodge/Dirac 几何 DOI 互证。高引深度学习预印本在 arXiv 明列 Jesse Gell-Redman，连分数论文见 Williams 数学系具名发表和出版社。",
     "gwyn-bellamy": "官网 ORCID、Glasgow 单位及具名辛消解、Calogero–Moser 和双有理几何高引成果一致。",
     "ian-strachan": "官网 ORCID、Glasgow 单位及扭量、可积系统、自对偶 Einstein 和其它高引成果一致。",
-    "anna-puskas": "官网 ORCID、Glasgow 单位以及早期组合、Whittaker 函数、character varieties 代表作一致。"
+    "anna-puskas": "官网 ORCID、Glasgow 单位以及早期组合、Whittaker 函数、character varieties 代表作一致。",
+    "mat-langford": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5065181230",
+      "url": "https://openalex.org/A5065181230",
+      "authorApiUrl": "https://api.openalex.org/authors/A5065181230",
+      "identitySources": [
+        "https://maths.anu.edu.au/people/mat-langford",
+        "https://suppiluliuma.neocities.org/",
+        "https://doi.org/10.1016/j.anihpc.2012.05.003",
+        "https://doi.org/10.4310/jdg/1632506300"
+      ],
+      "note": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。"
+    },
+    "joan-licata": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5033291418",
+      "url": "https://openalex.org/A5033291418",
+      "authorApiUrl": "https://api.openalex.org/authors/A5033291418",
+      "identitySources": [
+        "https://maths.anu.edu.au/people/joan-licata",
+        "https://maths.anu.edu.au/people/joan-licata",
+        "https://doi.org/10.1112/plms/pdu043",
+        "https://doi.org/10.1090/tran/7079"
+      ],
+      "note": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。"
+    },
+    "john-huerta": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5052172920",
+      "url": "https://openalex.org/A5052172920",
+      "authorApiUrl": "https://api.openalex.org/authors/A5052172920",
+      "identitySources": [
+        "https://maths.anu.edu.au/people/john-huerta",
+        "https://www.math.ist.utl.pt/~jhuerta/",
+        "https://doi.org/10.1007/s10714-010-1070-9",
+        "https://doi.org/10.1090/s0002-9947-2014-05977-1"
+      ],
+      "note": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。"
+    },
+    "peter-vassiliou": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5110155474",
+      "url": "https://openalex.org/A5110155474",
+      "authorApiUrl": "https://api.openalex.org/authors/A5110155474",
+      "identitySources": [
+        "https://maths.anu.edu.au/people/peter-vassiliou-0",
+        "https://maths.anu.edu.au/people/peter-vassiliou",
+        "https://doi.org/10.1016/j.aim.2009.03.010",
+        "https://doi.org/10.1016/j.difgeo.2005.12.001"
+      ],
+      "note": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。"
+    },
+    "noah-white": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5013512087",
+      "url": "https://openalex.org/A5013512087",
+      "authorApiUrl": "https://api.openalex.org/authors/A5013512087",
+      "identitySources": [
+        "https://maths.anu.edu.au/people/noah-white",
+        "https://maths-people.anu.edu.au/nwhite/",
+        "https://doi.org/10.1112/plms.12506",
+        "https://doi.org/10.1016/j.jalgebra.2019.08.038"
+      ],
+      "note": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。"
+    },
+    "sadashige-ishida": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5009268124",
+      "url": "https://openalex.org/A5009268124",
+      "authorApiUrl": "https://api.openalex.org/authors/A5009268124",
+      "identitySources": [
+        "https://maths.anu.edu.au/outreach/visitors-program/mathematical-sciences-research-visitor-program-msrvp",
+        "https://sadashigeishida.bitbucket.io/index.html",
+        "https://doi.org/10.1007/s00332-026-10266-8",
+        "https://doi.org/10.1090/tran/9911"
+      ],
+      "note": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。"
+    },
+    "parth-shimpi": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5116211501",
+      "url": "https://openalex.org/A5116211501",
+      "authorApiUrl": "https://api.openalex.org/authors/A5116211501",
+      "identitySources": [
+        "https://maths.anu.edu.au/outreach/visitors-program/mathematical-sciences-research-visitor-program-msrvp",
+        "https://pas201.user.srcf.net/",
+        "https://doi.org/10.48550/arxiv.2502.05146",
+        "https://doi.org/10.48550/arxiv.2508.06437",
+        "https://scholar.google.com/citations?user=3OsA_ooAAAAJ&hl=en"
+      ],
+      "note": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。",
+      "scholarUrl": "https://scholar.google.com/citations?user=3OsA_ooAAAAJ&hl=en"
+    },
+    "perrine-jouteur": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5106113128",
+      "url": "https://openalex.org/A5106113128",
+      "authorApiUrl": "https://api.openalex.org/authors/A5106113128",
+      "identitySources": [
+        "https://maths.anu.edu.au/outreach/visitors-program/mathematical-sciences-research-visitor-program-msrvp",
+        "https://perso.eleves.ens-rennes.fr/people/perrine.jouteur/",
+        "https://doi.org/10.1007/s00026-026-00813-1",
+        "https://doi.org/10.5802/crmath.702"
+      ],
+      "note": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。"
+    },
+    "tanmay-deshpande": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5063968518",
+      "url": "https://openalex.org/A5063968518",
+      "authorApiUrl": "https://api.openalex.org/authors/A5063968518",
+      "identitySources": [
+        "https://maths.anu.edu.au/outreach/visitors-program/mathematical-sciences-research-visitor-program-msrvp",
+        "https://www.math.tifr.res.in/faculty.html",
+        "https://doi.org/10.1112/s0010437x16007429",
+        "https://doi.org/10.1112/plms.70029"
+      ],
+      "note": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。"
+    },
+    "jui-yun-hung": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5158690263",
+      "url": "https://openalex.org/A5158690263",
+      "authorApiUrl": "https://api.openalex.org/authors/A5158690263",
+      "identitySources": [
+        "https://maths.anu.edu.au/research/famsi-irl/newsletters",
+        null,
+        "https://doi.org/10.48550/arxiv.2610.15457",
+        "https://doi.org/10.48550/arxiv.2611.21693"
+      ],
+      "note": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。"
+    },
+    "john-urbas": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5021223816",
+      "url": "https://openalex.org/A5021223816",
+      "authorApiUrl": "https://api.openalex.org/authors/A5021223816",
+      "identitySources": [
+        "https://maths.anu.edu.au/people/john-urbas",
+        "https://maths.anu.edu.au/people/john-urbas",
+        "https://doi.org/10.1007/bf02571249",
+        "https://doi.org/10.4310/jdg/1214446031"
+      ],
+      "note": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。"
+    },
+    "caleb-ji": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5088534865",
+      "url": "https://openalex.org/A5088534865",
+      "authorApiUrl": "https://api.openalex.org/authors/A5088534865",
+      "identitySources": [
+        "https://maths.anu.edu.au/outreach/visitors-program/mathematical-sciences-research-visitor-program-msrvp",
+        "https://lsa.umich.edu/math/people/postdoc-faculty/caleb-ji.html",
+        "https://doi.org/10.46298/epiga.2026.13916",
+        "https://doi.org/10.1080/00927872.2021.1988629"
+      ],
+      "note": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。"
+    },
+    "jesse-kass": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5086604961",
+      "url": "https://openalex.org/A5086604961",
+      "authorApiUrl": "https://api.openalex.org/authors/A5086604961",
+      "identitySources": [
+        "https://maths.anu.edu.au/outreach/visitors-program/mathematical-sciences-research-visitor-program-msrvp",
+        "https://people.ucsc.edu/~jelkass/",
+        "https://doi.org/10.1215/00127094-2018-0046",
+        "https://doi.org/10.14231/ag-2017-020"
+      ],
+      "note": "先核对学校或本人学术主页，再交叉至少两篇已核 DOI 与 OpenAlex 作者 ID，抽查高引成果。"
+    },
+    "ian-le": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "identitySources": [
+        "https://openalex.org/A5064199361",
+        "https://openalex.org/A5108364837",
+        "https://researchportalplus.anu.edu.au/en/persons/ian-le/"
+      ],
+      "reason": "OpenAlex 的 2019 期刊 DOI 与 2024 braid varieties 期刊 DOI 分属于两个无 ORCID 档案。校方 ORCID 在 OpenAlex 返回 404；Google Scholar 姓名、机构和研究关键词未匹配本人档案。校方给出 14 条 Article；累计引用尚未核实。"
+    },
+    "bryan-wang": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "identitySources": [
+        "https://openalex.org/A5066993967",
+        "https://openalex.org/A5064892629",
+        "https://openalex.org/A5006275370",
+        "https://researchportalplus.anu.edu.au/en/persons/bryan-wang/"
+      ],
+      "reason": "ANU 与本人署名确认 Bryan、Bai-Ling 为同一学者。OpenAlex 校方 ORCID 当前只收 1 项，数学主作品和已核扭曲 K 同调 DOI 又分两档，其中一档 ORCID 不同。Scholar 搜索同名和机构未核实档案；校方给出 22 条 Article，累计引用尚未核实。"
+    },
+    "lance-gurney": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "identitySources": [
+        "https://openalex.org/A5066815505",
+        "https://openalex.org/A5152636686",
+        "https://maths-people.anu.edu.au/gurney/"
+      ],
+      "reason": "OpenAlex A5066815505 的数学作品属本人，但混入 2006 工程安全计划；2026 数学预印本另在 A5152636686。本人 ANU 主页的 CV/bibliography 链接为空；跨页全文作品没有确证完整。未核实 Scholar 同名档与累计引用。"
+    },
+    "gleb-smirnov": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "identitySources": [
+        "https://openalex.org/A5070458758",
+        "https://openalex.org/A5113997860",
+        "https://researchportalplus.anu.edu.au/en/persons/gleb-smirnov/"
+      ],
+      "reason": "校方本人简介说明从 Geneva 辛几何转到 ANU discrepancy。OpenAlex 按两个 ORCID 分档，前一档另出现不相符合著和主题。校方机构与个人论文读到部分成果，未得可核实完整去重数和累计引用。"
+    },
+    "yixuan-li": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "identitySources": [
+        "https://api.openalex.org/works/https://doi.org/10.48550/arxiv.2406.04258",
+        "https://maths.anu.edu.au/people/yixuan-li",
+        "https://ymsc.tsinghua.edu.cn/info/1054/4818.htm"
+      ],
+      "reason": "已核 Floer 论文 DOI 在 OpenAlex 作者栏缺 ID；姓名候选为机器学习、生医和光学的同名者。核对 ANU、Berkeley 论文目录和清华具名讲座，未定位可归属的统计档或完整发表表。"
+    },
+    "min-chen": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "identitySources": [
+        "https://api.openalex.org/works/https://doi.org/10.48550/arxiv.2501.07854",
+        "https://maths.anu.edu.au/people/min-chen"
+      ],
+      "reason": "已核几何预印本在 OpenAlex 作者栏缺 ID；同名作者搜索靠前结果属网络、材料和生物等。查 ANU 和 Oregon 具名目录及 MATRIX–RIMS，均不提供可确认的完整作品或累计引用。"
+    },
+    "john-hutchinson": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "identitySources": [
+        "https://openalex.org/A5087436752",
+        "https://maths.anu.edu.au/people/john-hutchinson",
+        "https://doi.org/10.1512/iumj.1981.30.30055"
+      ],
+      "reason": "按本人《Fractals and self similarity》的 DOI 查询，OpenAlex 把 1981 几何论文归给 Lancaster 软件工程的同名者 A5087436752。ANU 榮休与研究页不能提供确证完整计数或累计引用。"
+    },
+    "amnon-neeman": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "identitySources": [
+        "https://openalex.org/A5025379457",
+        "https://openalex.org/A5150545901",
+        "https://maths.anu.edu.au/people/amnon-neeman"
+      ],
+      "reason": "OpenAlex 数学档案 A5025379457 的高引记录混入 2005 高维统计论文。数学条目还出现异体名独立档。ANU 荣休资料和 Milan 公开任职可确定本人，汇总计量暂缺可确认依据。"
+    },
+    "neil-trudinger": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "identitySources": [
+        "https://openalex.org/A5059521689",
+        "https://openalex.org/A5158743439",
+        "https://maths.anu.edu.au/people/neil-trudinger"
+      ],
+      "reason": "OpenAlex 大档与只有 2026 年几何方程预印本的 A5158743439 有同一人分档；大档的同一本吉尔巴格合著专著也有独立版次。未把两档引用合并。"
+    },
+    "fei-han": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "identitySources": [
+        "https://openalex.org/A5005755707",
+        "https://doi.org/10.1016/j.aim.2021.108023",
+        "https://nusgs.nus.edu.sg/thesis-advisors/mathanf"
+      ],
+      "reason": "OpenAlex A5005755707 的椭圆亏格和示性类作品属于本人，高引表还混入聚合物分子机器学习论文。NUS Graduate School 本人档案标示 Publications 52 项，累计引用未核实。"
+    },
+    "nicolas-vilches": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "identitySources": [
+        "https://openalex.org/A5120546649",
+        "https://openalex.org/A5140942694",
+        "https://sites.google.com/view/nivilches/research"
+      ],
+      "reason": "本人站列出预印本和学位论文，已匹配 OpenAlex A5120546649 的代数几何预印本；同一博士论文另在作者 A5140942694，并被标作 type:article。个人研究页未声明全生涯期刊论文计数，未汇总两档引用。"
+    },
+    "peter-o-sullivan": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "identitySources": [
+        "https://doi.org/10.1515/crelle.2011.025",
+        "https://arxiv.org/abs/0908.0626",
+        "https://maths.anu.edu.au/people/peter-osullivan"
+      ],
+      "reason": "校方确认访客及具名纯动机报告。已核纯数学期刊版 DOI 和 arXiv 版，两个 OpenAlex 作者栏均缺作者 ID；同名档靠前有临床与工程作者。校方访客卡和专题未给完整发表表或累计引用。"
+    },
+    "xu-jia-wang": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "identitySources": [
+        "https://openalex.org/A5039750293",
+        "https://openalex.org/A5018681525",
+        "https://maths.anu.edu.au/people/xu-jia-wang"
+      ],
+      "reason": "Westlake 与 ANU 具名来源确认汪学家，OpenAlex 主档 A5039750293 抽查两篇代表作均相符，另有同领域汪学家条目待按发表版本逐条合并。累计引用仍按来源分开核对。"
+    }
   }
 }

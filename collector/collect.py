@@ -738,6 +738,7 @@ def export(db, seed):
     atomic_write(ROOT / "catalog-batch.json", json.dumps(patch,ensure_ascii=False,indent=2) + "\n")
     decisions = Counter(p["decision"] for p in candidates)
     page_attempts = {row["url"]:row for row in db.execute("SELECT url, status, checked_at FROM profiles WHERE status != 'queued'")}
+    _, findings, _, metric_review_notes = metrics_evidence()
     with (ROOT / "review-queue.csv.tmp").open("w",encoding="utf-8-sig",newline="") as handle:
         rows = csv.writer(handle)
         rows.writerow(["学校 ID","姓名","职位","目录判定","方向","公开任职","主页","CV","论文数","累计引用","指标来源","指标日期",
@@ -778,13 +779,28 @@ def export(db, seed):
                     decision_note += " 已发现个人来源，尚无可复核的读取记录。"
                 else:
                     decision_note += " 已登记名录未提供具名个人入口。"
+            if not public and p["fields"] and decision in ("associated", "emeritus", "other"):
+                field_notes = [
+                    p["homepage_status"] if not p["homepage"] else None,
+                    p["cv_status"] if not p["cv"] else None,
+                    metric_review_notes.get(name_slug(p["name"])) if not metric else None,
+                ]
+                field_notes.extend(
+                    f"{count['scope']} {count['value']}（{count['checkedAt']}，{count['url']}）。"
+                    for count in p["publication_counts"]
+                )
+                field_notes.extend(
+                    f"{snapshot['articleScope']} {snapshot['articles']}（{snapshot['checkedAt']}，{snapshot['url']}）。"
+                    for snapshot in p["reviewed_metrics"]
+                    if snapshot != metric and snapshot.get("articles") is not None and snapshot.get("articleScope")
+                )
+                decision_note = " ".join(note for note in [decision_note, *field_notes] if note)
             rows.writerow([p["school"],p["name"],p["title"],p["decision"]," / ".join(p["fields"]),p["affiliation_url"],
                            public.get("homepage") or p["homepage"] or pending,public.get("cvUrl") or p["cv"] or pending,
                            metric.get("articles", pending),metric.get("citations", pending),metric.get("url", ""),metric.get("checkedAt", ""),
                            " | ".join(f"{x['text']} [{x['url']}]" for x in p["topic_sources"]), decision_note,
                            appointment_source, p["checked_at"] or "", checked_pages])
     (ROOT / "review-queue.csv.tmp").replace(ROOT / "review-queue.csv")
-    _, findings, _, metric_review_notes = metrics_evidence()
     cv_audit = cohorts.get("cvLinkAudit", {})
     cv_checks = cv_audit.get("records", {})
     with (ROOT / "field-review.csv.tmp").open("w", encoding="utf-8-sig", newline="") as handle:
