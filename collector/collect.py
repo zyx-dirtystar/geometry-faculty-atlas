@@ -748,7 +748,7 @@ def export(db, seed):
         }
         for p in candidates:
             public = by_affiliation.get((p["school"], name_key(p["name"])), {})
-            metric = next(iter(public.get("metrics") or []), {})
+            metric = next(iter(public.get("metrics") or p["reviewed_metrics"]), {})
             decision = p["decision"]
             pending = "待核" if decision in ("candidate","topic_review","role_review","affiliation_review") else ""
             appointment_source = p["affiliation_url"] or p["profile"] or next(

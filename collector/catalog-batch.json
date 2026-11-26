@@ -10,12 +10,28 @@
   "schools": [
     {
       "id": "princeton",
-      "coverage": "sample",
-      "coverageNote": "已解析 4/25 个登记来源，0 条任职或方向待核。 已收录 19 位学者，个人主页 15、CV 13、指标 12。 逐项复核数学系原待核名册，并补查具名跨单位名单：PACM 新入口五页共 62 位、PCTS 教师 11 位、CS 原官方名录 99 位，以及数学系 Associated Faculty、独立 IAS 和 Princeton Gravity Initiative 具名研究。学者主名单新增 Dafermos（另证 Cambridge 任职）、Klainerman、Rodnianski。研究组 Fellows 及部分物理交叉任职仍需逐人确认。作者同名与拆分档案、访问失败或历史书目范围见字段表。 续核引力项目 15 位联属教师、11 位现行及 3 位历史 Fellows，PCTS 15 位博士后与 Physics 的引力和数学物理专题。校方三年制博士后条款支持 PGI 的职级区分。复核四位分在分析或数论目录的几何学者，并确认 Toronto 现任与历史 Princeton 的归属。Physics 全教师及天体物理的个别入口直接访问受限，相关研究中心的跨院覆盖仍待查全。",
+      "coverage": "verified",
+      "coverageNote": "已解析 4/40 个登记来源，0 条任职或方向待核。 已收录 19 位学者，个人主页 15、CV 13、指标 12。 数学系现任、荣休、访问、研究人员和六个方向，与 2026–27 研究生院岗位表、院系组、具名任命交叉。核对 PACM 五页 62 位教师、当期 4 位博士后及访问分栏、CS 99 人，PCTS 11 位教师及 15 位博士后，PGI 联属与现任、历史 Fellows 及新 Leinweber 公开 10 席。进一步核对 Physics 72 位教师及 71 位科研人员，Astrophysical Sciences 43 位教师及资深研究者、21 位联属访客及 60 位科研与博士后。部分入口直连返回 403，院系公开索引含现行全页及具名职位。补查 Simons 模空间与隐藏对称性两个协作组、PICSciE 和独立 IAS。对账采用机构的公开任职，联合、窗口期、历史及独立机构一一核对。个人字段的公开来源缺项在字段表保留。",
       "rosterLinks": [
         [
           "Mathematics · Associated Faculty",
           "https://www.math.princeton.edu/people/associated-faculty"
+        ],
+        [
+          "Astrophysical Sciences · Associated Faculty & Department Affiliates",
+          "https://web.astro.princeton.edu/people/associated-faculty-department-affiliates"
+        ],
+        [
+          "Astrophysical Sciences · past postdocs and researchers",
+          "https://web.astro.princeton.edu/academic-programs/postdoctoral-program/where-are-they-now-postdocs-and-researchers"
+        ],
+        [
+          "Astrophysical Sciences · Faculty and Research Scholars",
+          "https://web.astro.princeton.edu/people/astronomy-Faculty%20and%20Research%20Scholars"
+        ],
+        [
+          "Astrophysical Sciences · Postdocs, Professional Specialists, and Associate Research Scholars",
+          "https://web.astro.princeton.edu/people/postdocs-researchers"
         ],
         [
           "PGI Associated Faculty",
@@ -38,6 +54,10 @@
           "https://www.cs.princeton.edu/people/faculty"
         ],
         [
+          "Leinweber Forum · call and terms",
+          "https://gravity.princeton.edu/job-opportunities"
+        ],
+        [
           "Graduate School · Mathematics faculty and advisers",
           "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/mathematics"
         ],
@@ -54,12 +74,28 @@
           "https://www.ias.edu/math/people/faculty"
         ],
         [
+          "Leinweber Forum · Postdoctoral Fellows",
+          "https://leinweberforum.princeton.edu/fellows/postdoctoral-fellows"
+        ],
+        [
           "数学系 People",
           "https://www.math.princeton.edu/people"
         ],
         [
+          "Mathematics Department · terms for research instructors and appointments",
+          "https://www.mathjobs.org/jobs/list/28695"
+        ],
+        [
           "Program in Applied and Computational Mathematics · Faculty",
           "https://www.pacm.princeton.edu/people/faculty"
+        ],
+        [
+          "PACM · Postdoc",
+          "https://www.pacm.princeton.edu/directory/8"
+        ],
+        [
+          "PACM · Visitor",
+          "https://www.pacm.princeton.edu/directory/7"
         ],
         [
           "PACM · All Faculty (1)",
@@ -106,12 +142,36 @@
           "https://phy.princeton.edu/research/research-areas/cosmology-gravity-theory"
         ],
         [
+          "Physics · High Energy Theory",
+          "https://phy.princeton.edu/people/high-energy-theory"
+        ],
+        [
           "Physics · Mathematical Physics",
           "https://phy.princeton.edu/research/research-areas/mathematical-physics"
         ],
         [
+          "Physics · Professors",
+          "https://phy.princeton.edu/directory/faculty/professors"
+        ],
+        [
+          "Department of Physics · Researchers",
+          "https://phy.princeton.edu/directory/researchers"
+        ],
+        [
+          "Princeton Institute for Computational Science and Engineering · People",
+          "https://picscie.princeton.edu/people"
+        ],
+        [
           "数学系 Faculty Research",
           "https://www.math.princeton.edu/graduate/faculty-research"
+        ],
+        [
+          "Hidden Symmetries and Fusion Energy · combined project teams",
+          "https://hiddensymmetries.princeton.edu/Our-Team"
+        ],
+        [
+          "Simons Collaboration on Moduli of Varieties · Princeton participants",
+          "https://simonsmoduli.com/people/"
         ]
       ],
       "checkedAt": "2026-11-26"
@@ -7731,7 +7791,7 @@
   ],
   "people": [
     {
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "id": "chenyang-xu",
       "name": "Chenyang Xu",
       "nameZh": "许晨阳",
@@ -7758,7 +7818,7 @@
       ],
       "homepage": "https://web.math.princeton.edu/~chenyang/",
       "cvUrl": null,
-      "cvStatus": "已查普林斯顿具名教授档案、校属研究主页和公开搜索。可读个人主页公开发表及获奖信息，未见独立 CV。",
+      "cvStatus": "查本人主页与发表清单、Princeton 任职卡和 Freiburg 早期访学页面。找到旧学术经历和已核论文，未确认独立 CV。",
       "bioUrl": "https://www.math.princeton.edu/news/department-welcomes-chenyang-xu-professor-mathematics",
       "publicationsUrl": "https://web.math.princeton.edu/~chenyang/",
       "metrics": [
@@ -7811,7 +7871,17 @@
           "url": "https://doi.org/10.4007/annals.2014.180.1.4"
         }
       ],
-      "relevance": "如果需要讨论 Fano 紧化的代数侧，可以从 K-稳定性、奇点和双有理方法切入。"
+      "relevance": "如果需要讨论 Fano 紧化的代数侧，可以从 K-稳定性、奇点和双有理方法切入。",
+      "opportunities": [
+        {
+          "label": "Princeton 数学系 2027–28 初级研究岗位（含博士后）",
+          "url": "https://www.mathjobs.org/jobs/list/28695",
+          "type": "博士后",
+          "status": "已截止",
+          "deadline": "2026-11-15",
+          "checkedAt": "2026-11-26"
+        }
+      ]
     },
     {
       "checkedAt": "2026-11-25",
@@ -45348,10 +45418,10 @@
         {
           "schoolId": "princeton",
           "department": "数学系",
-          "title": "Assistant Professor of Mathematics",
+          "title": "Assistant Professor",
           "url": "https://www.math.princeton.edu/people/mingjia-zhang",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -45362,7 +45432,7 @@
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "已查数学系具名任职和校科研门户，可读的档案含出版与研究标签，未见独立公开 CV。",
+      "cvStatus": "已查 Princeton 系页面和任命公告、IAS 的具名履历以及公开学术检索。未发现独立公开 CV。",
       "publicationsUrl": "https://collaborate.princeton.edu/en/persons/mingjia-zhang/",
       "publicationCounts": [
         {
@@ -45414,7 +45484,7 @@
           "url": "https://collaborate.princeton.edu/en/persons/mingjia-zhang/"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -45628,7 +45698,7 @@
           "title": "Professor of Mathematics",
           "url": "https://www.math.princeton.edu/people/sergiu-klainerman",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -45644,7 +45714,16 @@
       "cvStatus": null,
       "publicationsUrl": "https://web.math.princeton.edu/~seri/homepage/SergiuBIB.pdf",
       "publicationCounts": [],
-      "opportunities": [],
+      "opportunities": [
+        {
+          "label": "Leinweber Forum 三年博士后，含数学引力研究",
+          "url": "https://gravity.princeton.edu/job-opportunities",
+          "type": "博士后",
+          "status": "招聘公告在招",
+          "deadline": "2026-11-30",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
       "metrics": [
         {
@@ -45686,7 +45765,7 @@
           "url": "https://web.math.princeton.edu/~seri/homepage/SergiuBIB.pdf"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {

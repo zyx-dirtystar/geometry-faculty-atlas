@@ -8722,6 +8722,46 @@
       "note": "复核数学系单列的跨聘人员入口，从主名单、研究方向和正式职务交叉检查。"
     },
     {
+      "id": "princeton-astro-affiliates26",
+      "school": "princeton",
+      "url": "https://web.astro.princeton.edu/people/associated-faculty-department-affiliates",
+      "label": "Astrophysical Sciences · Associated Faculty & Department Affiliates",
+      "status": "reference",
+      "count": 21,
+      "checked_at": "2026-11-26",
+      "note": "核对整页 21 位联属、访客及合作。主聘和访问角色逐人区分。"
+    },
+    {
+      "id": "princeton-astro-alumni26",
+      "school": "princeton",
+      "url": "https://web.astro.princeton.edu/academic-programs/postdoctoral-program/where-are-they-now-postdocs-and-researchers",
+      "label": "Astrophysical Sciences · past postdocs and researchers",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "院系的历史博士后与研究人员去向表，作为任职变动核对入口。"
+    },
+    {
+      "id": "princeton-astro-faculty26",
+      "school": "princeton",
+      "url": "https://web.astro.princeton.edu/people/astronomy-Faculty%20and%20Research%20Scholars",
+      "label": "Astrophysical Sciences · Faculty and Research Scholars",
+      "status": "reference",
+      "count": 43,
+      "checked_at": "2026-11-26",
+      "note": "天体物理、等离子体物理、资深科研三层目录共 44 行，Matthew W. Kunz 在两层重复，43 人。"
+    },
+    {
+      "id": "princeton-astro-research26",
+      "school": "princeton",
+      "url": "https://web.astro.princeton.edu/people/postdocs-researchers",
+      "label": "Astrophysical Sciences · Postdocs, Professional Specialists, and Associate Research Scholars",
+      "status": "reference",
+      "count": 60,
+      "checked_at": "2026-11-26",
+      "note": "从院系菜单进入正确的当前 Postdocs, Professional Specialists, and Associate Research Scholars 全页，60 人。"
+    },
+    {
       "id": "princeton-branch26-associates",
       "school": "princeton",
       "url": "https://gravity.princeton.edu/people/associated-faculty-0",
@@ -8772,6 +8812,16 @@
       "note": "公共名册的 99 条具名身份，和院系主聘分开审阅。"
     },
     {
+      "id": "princeton-fellows-terms26",
+      "school": "princeton",
+      "url": "https://gravity.princeton.edu/job-opportunities",
+      "label": "Leinweber Forum · call and terms",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "公开 2027 年三年期 Associate Research Scholar 博士后项目，数学引力、物理及宇宙学可申。2026-11-30 截止。"
+    },
+    {
       "id": "princeton-grad-b34",
       "school": "princeton",
       "url": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/mathematics",
@@ -8812,6 +8862,16 @@
       "note": "机构自有教师与荣休为独立名单。联合教授 Bhargav Bhatt 有具名校职，访问人员以 Princeton 任职入口区分。"
     },
     {
+      "id": "princeton-leinweber-postdoc26",
+      "school": "princeton",
+      "url": "https://leinweberforum.princeton.edu/fellows/postdoctoral-fellows",
+      "label": "Leinweber Forum · Postdoctoral Fellows",
+      "status": "reference",
+      "count": 10,
+      "checked_at": "2026-11-26",
+      "note": "当前 3 位 2026 Leinweber Fellows 与 7 位 Other Affiliated Fellows，目录表头指博士后项目。"
+    },
+    {
       "id": "princeton-math",
       "school": "princeton",
       "url": "https://www.math.princeton.edu/people",
@@ -8822,6 +8882,16 @@
       "note": ""
     },
     {
+      "id": "princeton-math-postdoc26",
+      "school": "princeton",
+      "url": "https://www.mathjobs.org/jobs/list/28695",
+      "label": "Mathematics Department · terms for research instructors and appointments",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "校方公告说明 Instructor、Veblen Research Instructor、Associate Research Scholar 与博士后条款，曾公开截止 2026-11-15。"
+    },
+    {
       "id": "princeton-pacm-b34",
       "school": "princeton",
       "url": "https://www.pacm.princeton.edu/people/faculty",
@@ -8830,6 +8900,26 @@
       "count": 0,
       "checked_at": null,
       "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+    },
+    {
+      "id": "princeton-pacm-postdoc26",
+      "school": "princeton",
+      "url": "https://www.pacm.princeton.edu/directory/8",
+      "label": "PACM · Postdoc",
+      "status": "reference",
+      "count": 4,
+      "checked_at": "2026-11-26",
+      "note": "当前 PACM 具名博士后 4 人。旧项目主页及本人资料用于核对历史关系。"
+    },
+    {
+      "id": "princeton-pacm-visitor26",
+      "school": "princeton",
+      "url": "https://www.pacm.princeton.edu/directory/7",
+      "label": "PACM · Visitor",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-26",
+      "note": "当前 PACM 访问页一位。较早快照另列 Tim Binz 为访问博士后，现行名册已不显示。"
     },
     {
       "id": "princeton-pacm26-1",
@@ -8927,9 +9017,9 @@
       "url": "https://phy.princeton.edu/people/faculty",
       "label": "Department of Physics · Faculty",
       "status": "reference",
-      "count": 0,
-      "checked_at": null,
-      "note": "全校名录保留作任职补证。研究人员范围由数学研究所及有关研究组确认。"
+      "count": 72,
+      "checked_at": "2026-11-26",
+      "note": "官方索引逐卡核对 72 人，含联属及荣休。基本目录直连 403，读公开官方索引可见内容。"
     },
     {
       "id": "princeton-physics-cosmology26",
@@ -8942,6 +9032,16 @@
       "note": "公开分栏 6 位教师、1 位联属、4 位研究人员；学生名单不作学术聘任依据。"
     },
     {
+      "id": "princeton-physics-hep26",
+      "school": "princeton",
+      "url": "https://phy.princeton.edu/people/high-energy-theory",
+      "label": "Physics · High Energy Theory",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-26",
+      "note": "核对高能理论分栏的教师、研究人员和学生。Edward Witten 的具名条目列 IAS 为办公室，独立机构研究人员。"
+    },
+    {
       "id": "princeton-physics-math26",
       "school": "princeton",
       "url": "https://phy.princeton.edu/research/research-areas/mathematical-physics",
@@ -8952,6 +9052,36 @@
       "note": "核对两位学术职务，研究组常列数学物理与统计力学。"
     },
     {
+      "id": "princeton-physics-professors26",
+      "school": "princeton",
+      "url": "https://phy.princeton.edu/directory/faculty/professors",
+      "label": "Physics · Professors",
+      "status": "reference",
+      "count": 2,
+      "checked_at": "2026-11-26",
+      "note": "核对教授职位分栏 30 人。具名卡补普通 Faculty 名录快照缺 Herman Verlinde 和 Ali Yazdani。"
+    },
+    {
+      "id": "princeton-physics-staff26",
+      "school": "princeton",
+      "url": "https://phy.princeton.edu/directory/researchers",
+      "label": "Department of Physics · Researchers",
+      "status": "reference",
+      "count": 71,
+      "checked_at": "2026-11-26",
+      "note": "官方现行科研人员分栏 71 人，跨读 Leinweber 具名 Fellow。直接连接 403，公开索引可完整读取。"
+    },
+    {
+      "id": "princeton-picscie26",
+      "school": "princeton",
+      "url": "https://picscie.princeton.edu/people",
+      "label": "Princeton Institute for Computational Science and Engineering · People",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "核对公开院系联属与研究软件人员，校内导师集中于 PACM、CS 和本校已有院系记录。"
+    },
+    {
       "id": "princeton-research",
       "school": "princeton",
       "url": "https://www.math.princeton.edu/graduate/faculty-research",
@@ -8960,6 +9090,26 @@
       "count": 26,
       "checked_at": "2026-11-23",
       "note": ""
+    },
+    {
+      "id": "princeton-simons-fusion26",
+      "school": "princeton",
+      "url": "https://hiddensymmetries.princeton.edu/Our-Team",
+      "label": "Hidden Symmetries and Fusion Energy · combined project teams",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "核对 Princeton 数学、天体物理、PPPL 的组员与院系来源。Daniel Ginsberg 的旧团队卡保留 Princeton，CUNY 具名任职确认转出。"
+    },
+    {
+      "id": "princeton-simons-moduli26",
+      "school": "princeton",
+      "url": "https://simonsmoduli.com/people/",
+      "label": "Simons Collaboration on Moduli of Varieties · Princeton participants",
+      "status": "reference",
+      "count": 5,
+      "checked_at": "2026-11-26",
+      "note": "核对团队页身份分栏里的四位 Princeton 博士后或独立教学研究职位和一位具名博士生，结合院校现行职称。"
     },
     {
       "id": "psau-current-math-30",
@@ -487554,19 +487704,6 @@
       "record": {
         "research": "Graph Theory Applied Mathematics / Research Field Graph Theory Applied Mathematics",
         "homepage": "https://web.math.princeton.edu/~mchudnov/",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://www.math.princeton.edu/people/michael-aizenman",
-      "cache_id": "profile-fbb0f3c73e801d01",
-      "status": "parsed",
-      "record": {
-        "research": "Mathematical Physics / Research Field Mathematical Physics",
-        "homepage": "https://scholar.princeton.edu/aizenman",
         "cv": "",
         "publications": "",
         "checked_at": "2026-11-23"
