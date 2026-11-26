@@ -8650,23 +8650,79 @@
     },
     {
       "id": "swansea",
-      "coverage": "sample",
-      "coverageNote": "已解析 1/3 个登记来源，3 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 1、指标 1。 已提取 Algebra, Geometry and Topology 研究组具名成员及个人方向。组页身份与个人页有冲突的记录留待确认，院系完整人员表和其他研究组仍待核。",
+      "coverage": "verified",
+      "coverageNote": "已解析 12/17 个登记来源，0 条任职或方向待核。 已收录 5 位学者，个人主页 5、CV 0、指标 1。 现行数学名册 22 项、物理 37 项、计算机 62 项，读具名研究页并对照数学六分组、PPCT 16+6 名册、Cosmology & Gravity 分栏和联合拓扑数据分析网络。以访客组／在任校／ORCID 区分顾问、荣休、访问、短期与离任；核到 Guo Liu 转入温州肯恩、Ameek Malhotra 2026-09-30 任职结束、Peter Weck 转入 Vassar、Fabian Zierler 转入 TUM，核到两家活动主办方把 Martin Helmer 标为纪念，历史资料留存。已给各相关名录和人员校级判定。个别公开 CV、论文聚合与历史合同日期的缺项另列。",
       "rosterLinks": [
+        [
+          "Mathematics · Algebra, Geometry and Topology",
+          "https://www.swansea.ac.uk/maths/research-and-impact/algebra-geometry-topology/"
+        ],
+        [
+          "Mathematics · Analysis and Nonlinear PDE",
+          "https://www.swansea.ac.uk/maths/research-and-impact/analysis-nonlinear-pde/"
+        ],
+        [
+          "Mathematics · Biomathematics",
+          "https://www.swansea.ac.uk/maths/research-and-impact/centreforbiomaths/"
+        ],
+        [
+          "Mathematics · Computational Mathematics",
+          "https://www.swansea.ac.uk/maths/research-and-impact/computational-mathematics/"
+        ],
+        [
+          "Physics · Cosmology & Gravity",
+          "https://swansea-cosmo-gravity.github.io/"
+        ],
+        [
+          "Department of Computer Science · public roster",
+          "https://www.swansea.ac.uk/staff/science-and-engineering/school-of-mathematics-and-computer-science-staff/compsci/"
+        ],
+        [
+          "Centre for Topological Data Analysis",
+          "https://www.maths.ox.ac.uk/groups/topological-data-analysis"
+        ],
+        [
+          "Mathematics · Mathematics Education",
+          "https://www.swansea.ac.uk/maths/research-and-impact/research-mathematics-education/"
+        ],
         [
           "Mathematics Research and Impact - Swansea University",
           "https://www.swansea.ac.uk/maths/research-and-impact/"
+        ],
+        [
+          "AG27 workshop in memory of Martin Helmer",
+          "https://www.math-conf.uni-osnabrueck.de/ag27/"
+        ],
+        [
+          "Department of Mathematics · public roster",
+          "https://www.swansea.ac.uk/staff/science-and-engineering/school-of-mathematics-and-computer-science-staff/maths/"
+        ],
+        [
+          "Mathematics research degrees",
+          "https://www.swansea.ac.uk/postgraduate/research/maths-comp-sci/mathematics/"
         ],
         [
           "数学系或所属学院人员入口",
           "https://wap.swan.ac.uk/staff/science-and-engineering/school-of-mathematics-and-computer-science-staff/maths/"
         ],
         [
+          "Department of Physics · public roster",
+          "https://www.swansea.ac.uk/staff/science-and-engineering/school-of-biosciences-geography-and-physics-staff/physics/"
+        ],
+        [
+          "Physics · Particle Physics and Cosmology Theory",
+          "https://www.swansea.ac.uk/physics/research-and-impact/particle-physics-cosmology/"
+        ],
+        [
+          "Mathematics · Probability",
+          "https://www.swansea.ac.uk/maths/research-and-impact/probability/"
+        ],
+        [
           "Algebra, Geometry and Topology group",
           "https://www.swansea.ac.uk/maths/research-and-impact/algebra-geometry-topology/"
         ]
       ],
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-26"
     },
     {
       "id": "dtu",
@@ -58242,61 +58298,322 @@
       "recordStatus": "directory"
     },
     {
+      "id": "carlos-nunez",
+      "name": "Carlos Nunez",
+      "aliases": [
+        "Carlos Núñez"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "swansea",
+          "department": "Department of Physics",
+          "title": "Personal Chair",
+          "url": "https://www.swansea.ac.uk/staff/c.nunez/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.swansea.ac.uk/staff/c.nunez/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查 Swansea 具名教授档、PPCT、INSPIRE 和公开具名 CV 检索。校方概况及历史单位可核，未找到独立 CV。",
+      "publicationsUrl": "https://inspirehep.net/authors/995335",
+      "publicationCounts": [
+        {
+          "value": 77,
+          "url": "https://www.swansea.ac.uk/staff/c.nunez/",
+          "checkedAt": "2026-11-26",
+          "scope": "校方具名页 All Research 的 Journal Articles 栏共 80 行，核完该栏，以 DOI 或题名与年份去重。范围为校内登记的期刊发表。"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "Swansea ORCID、校方链接的 INSPIRE 与 CY 超引力刊本互证。OpenAlex 两端不一致，机构期刊栏保留。 作者端 163，作品端 132，文章筛选端 116。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "AdS2 × S2 × CY2 solutions in Type IIB with 8 supersymmetries",
+          "year": 2021,
+          "url": "https://doi.org/10.1007/JHEP04(2021)110",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Conformal to confining SQFTs from holography",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/JHEP08(2024)041",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of warped string compactifications and supersymmetric backgrounds, Calabi–Yau models and holography",
+          "url": "https://www.swansea.ac.uk/staff/c.nunez/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "daniel-thompson",
+      "name": "Daniel Thompson",
+      "aliases": [
+        "Daniel C. Thompson"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "swansea",
+          "department": "Department of Physics",
+          "title": "Professor",
+          "url": "https://www.swansea.ac.uk/staff/science/physics/thompson-d-c/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.swansea.ac.uk/staff/d.c.thompson/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查当前任职与研究目录、Royal Society 任命资料和独立 CV 检索。具名机构履历可读，独立 CV 未核。",
+      "publicationsUrl": "https://www.swansea.ac.uk/staff/d.c.thompson/",
+      "publicationCounts": [
+        {
+          "value": 47,
+          "url": "https://www.swansea.ac.uk/staff/d.c.thompson/",
+          "checkedAt": "2026-11-26",
+          "scope": "校方具名页 All Research 的 Journal Articles 栏共 47 行，核完该栏，以 DOI 或题名与年份去重。范围为校内登记的期刊发表。"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "官方 ORCID、具名 Royal Society 任聘和 Generalised Kähler / twistor 刊本一致。OpenAlex 两端有异，按完整校方期刊栏补量。 作者端 70，作品端 62，文章筛选端 50。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Integrable deformation of CPn and generalised Kähler geometry",
+          "year": 2020,
+          "url": "https://doi.org/10.1007/JHEP10(2020)086",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Gauging the diamond: integrable coset models from twistor space",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/JHEP12(2024)202",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and complex geometry, generalised Kähler geometry, Poisson–Lie duality, twistor space and integrable sigma models",
+          "url": "https://www.swansea.ac.uk/staff/d.c.thompson/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "grigory-garkusha",
+      "name": "Grigory Garkusha",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "swansea",
+          "department": "Department of Mathematics",
+          "title": "Professor",
+          "url": "https://www.swansea.ac.uk/staff/g.garkusha/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://ggarkusha.github.io/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查校方完整具名科研页、本人 GitHub Pages、发表页及姓名 CV 搜索。本人旧 /cv.html 与 /cv.pdf 均 404，尚无独立公开 CV。",
+      "publicationsUrl": "https://ggarkusha.github.io/publist.html",
+      "publicationCounts": [
+        {
+          "value": 27,
+          "url": "https://www.swansea.ac.uk/staff/g.garkusha/",
+          "checkedAt": "2026-11-26",
+          "scope": "校方具名页 All Research 的 Journal Articles 栏共 27 行，核完该栏，以 DOI 或题名与年份去重。范围为校内登记的期刊发表。"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "ORCID、Swansea 数学教授档与 framed motives 刊本一致。本人及 Swansea 官方都连接 Scholar；OpenAlex 两端数有差。 作者端 44，作品端 42，文章筛选端 31。",
+      "metrics": [
+        {
+          "source": "Google Scholar",
+          "authorId": "Emg-aMIAAAAJ",
+          "url": "https://scholar.google.com/citations?hl=en&user=Emg-aMIAAAAJ",
+          "citations": 841,
+          "checkedAt": "2026-11-26",
+          "citationScope": "Google Scholar All 列累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Framed motives of algebraic varieties (after V. Voevodsky)",
+          "year": 2021,
+          "url": "https://doi.org/10.1090/jams/958",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Group schemes and motivic spectra",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/s11856-023-2492-x",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, framed motives, group schemes, stable motivic homotopy theory and algebraic K-theory",
+          "url": "https://www.swansea.ac.uk/staff/g.garkusha/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ivonne-zavala-carrasco",
+      "name": "Ivonne Zavala Carrasco",
+      "aliases": [
+        "Ivonne Zavala",
+        "Ivonne Zavala-Carrasco"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "swansea",
+          "department": "Department of Physics",
+          "title": "Associate Professor",
+          "url": "https://www.swansea.ac.uk/staff/e.i.zavalacarrasco/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://ivonnezca.github.io/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查现任科研简介、具名研究组、个人站及其研究和公开出版入口，未核到独立 CV。",
+      "publicationsUrl": "https://inspirehep.net/authors/1049889",
+      "publicationCounts": [
+        {
+          "value": 66,
+          "url": "https://www.swansea.ac.uk/staff/e.i.zavalacarrasco/",
+          "checkedAt": "2026-11-26",
+          "scope": "校方具名页 All Research 的 Journal Articles 栏共 67 行，核完该栏，以 DOI 或题名与年份去重。范围为校内登记的期刊发表。"
+        }
+      ],
+      "opportunities": [
+        {
+          "label": "Swansea 引力波宇宙学博士后（两年）",
+          "url": "https://inspirehep.net/jobs/3222646",
+          "type": "博士后",
+          "status": "在招，课题组公布截止 2026-12-06",
+          "deadline": "2026-12-06",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "identityNote": "官方 ORCID、本人站及 2026 heterotic orbifold 代表作互证；OpenAlex 两端不齐，另用机构期刊记录。 作者端 132，作品端 99，文章筛选端 83。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Rolling with modular symmetry: quintessence and de Sitter in heterotic orbifolds",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/JHEP04(2026)211",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Mirror quintic vacua: hierarchies and inflation",
+          "year": 2016,
+          "url": "https://doi.org/10.1007/JHEP10(2016)082",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Mathematical physics and complex geometry of string compactifications, heterotic orbifolds, Calabi–Yau moduli and cosmology",
+          "url": "https://ivonnezca.github.io/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
       "id": "nelly-villamizar",
       "name": "Nelly Villamizar",
       "aliases": [],
       "affiliations": [
         {
           "schoolId": "swansea",
-          "department": "数学系",
+          "department": "Department of Mathematics",
           "title": "Associate Professor",
           "url": "https://www.swansea.ac.uk/staff/n.y.villamizar/",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
-      "tags": [
-        "(splines, homological algebra, algebraic geometry)",
-        "Applied algebraic geometry and spline geometry"
-      ],
+      "tags": [],
       "homepage": "https://sites.google.com/site/nvillami",
       "homepageStatus": null,
-      "cvUrl": "https://drive.google.com/file/d/0B9WV7xAaIfNQaC1FUFZIUnNuNDQ/view",
-      "cvType": "主页所链公开 CV，文件可读性待核",
-      "cvStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "本人原 CV 的 Google Drive 链接返回 401；官方下载入口跳登录页，个人站 /cv 返回 404。学校具名简介和公开项目可核，未找到独立可读替代文件。",
       "publicationsUrl": "https://sites.google.com/site/nvillami/publications",
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "已用机构公开 ORCID、作者姓名与数学论文抽样核对 OpenAlex 作者档案。",
-      "metrics": [
+      "publicationCounts": [
         {
-          "source": "OpenAlex",
-          "authorId": "A5016321436",
-          "orcid": "https://orcid.org/0000-0002-8741-7225",
-          "url": "https://openalex.org/authors/A5016321436",
-          "authorApiUrl": "https://api.openalex.org/authors/A5016321436",
-          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5016321436,type:article&per_page=1&select=id",
-          "checkedAt": "2026-11-24",
-          "articles": 16,
-          "works": 33,
-          "citations": 317,
-          "hIndex": 9,
-          "articleScope": "OpenAlex type:article",
-          "citationScope": "OpenAlex 作者档案累计引用"
+          "value": 17,
+          "url": "https://www.swansea.ac.uk/staff/n.y.villamizar/",
+          "checkedAt": "2026-11-26",
+          "scope": "校方具名页 All Research 的 Journal Articles 栏共 17 行，核完该栏，以 DOI 或题名与年份去重。范围为校内登记的期刊发表。"
         }
       ],
-      "identityUrl": null,
-      "papers": [],
+      "opportunities": [
+        {
+          "label": "Swansea 数学 PhD/MPhil/MSc by Research",
+          "url": "https://www.swansea.ac.uk/postgraduate/research/maths-comp-sci/mathematics/",
+          "type": "博士",
+          "status": "常设申请",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "identityNote": "机构 ORCID 与本人出版清单、样条代表 DOI 和 Swansea/Oslo 历史匹配。作品与作者端不一致，逐项补核完整机构期刊栏。 作者端 33，作品端 28，文章筛选端 16。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5016321436",
+      "papers": [
+        {
+          "title": "Dimension and bases for geometrically continuous splines on surfaces of arbitrary topology",
+          "year": 2016,
+          "url": "https://doi.org/10.1016/j.cagd.2016.03.003",
+          "type": "期刊论文"
+        }
+      ],
       "directoryEvidence": [
         {
-          "text": "(splines, homological algebra, algebraic geometry)",
-          "url": "https://www.swansea.ac.uk/maths/research-and-impact/algebra-geometry-topology/"
-        },
-        {
-          "text": "Applied algebraic geometry and spline geometry",
+          "text": "Applied algebraic geometry, algebraic spline geometry, commutative algebra and geometric modelling",
           "url": "https://www.swansea.ac.uk/staff/n.y.villamizar/"
         },
         {
@@ -58304,7 +58621,7 @@
           "url": "https://cronfa.swansea.ac.uk/Record/cronfa71999/Details"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {

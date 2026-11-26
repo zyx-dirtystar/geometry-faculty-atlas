@@ -154,7 +154,7 @@
     "cuhk": "已提取数学系教授、副教授及助理教授等现任分组，并用 CV 和科研门户确认部分研究方向。荣休和兼职名单及数学科学研究所的合聘范围仍待对账。",
     "science-tokyo": "对照理学院数学系英日名单、日文研究生导师 28 人任职，英文 A 与日文助教校对 5 人，并补证黎曼曲面和微分几何两位具名专长。核对计算科学系导师的交叉任职，后续检查其他跨院研究组。 日文页附录另列 5 位学术研究员和 9 位特别研究员，逐名转录，并已登记需继续核实的方向。",
     "snu": "韩文数理科学部全段核录教师及协议联聘 37 条、荣休 22 条、其他任职 23 条。博士后韩英分栏分别 44 条和 32 条，按已核别名合并。补查 QSMS、BK21、RIM 与 DASOM。两语博士后名单更新不同，交叉单位任职仍按公开证据逐项核实。 数学教育系补核 7 位现任和 7 位荣休，DASOM 具名记录 7 位。基础科学研究院公布研究教员名单，其他研究身份使用院系博士后和个人来源。数学研究所 2026 年报仅给人数小计，独立名册和 QSMS 现任分栏当前未完整公开或无法稳定读取。",
-    "swansea": "已提取 Algebra, Geometry and Topology 研究组具名成员及个人方向。组页身份与个人页有冲突的记录留待确认，院系完整人员表和其他研究组仍待核。",
+    "swansea": "现行数学名册 22 项、物理 37 项、计算机 62 项，读具名研究页并对照数学六分组、PPCT 16+6 名册、Cosmology & Gravity 分栏和联合拓扑数据分析网络。以访客组／在任校／ORCID 区分顾问、荣休、访问、短期与离任；核到 Guo Liu 转入温州肯恩、Ameek Malhotra 2026-09-30 任职结束、Peter Weck 转入 Vassar、Fabian Zierler 转入 TUM，核到两家活动主办方把 Martin Helmer 标为纪念，历史资料留存。已给各相关名录和人员校级判定。个别公开 CV、论文聚合与历史合同日期的缺项另列。",
     "dtu": "已提取 Section for Mathematics 的公开人员卡，核对研究门户中的微分几何和有限域代数曲线学者。其他数学研究组与跨院任职待对账。",
     "hse": "已提取 Faculty of Mathematics 公开人员名录与自报研究关键词。部分联合研究所和兼职任职仍待逐人核对。",
     "uchile": "已提取理学院数学系 Cuerpo académico 的姓名、职级与方向。工程学院数学工程系、CMM 和跨学院任职另待核。",
@@ -459,6 +459,23 @@
         "iitd-math-scholars-b39"
       ],
       "scope": "已对账可公开核对的现任、离任、访问和科研培训含研究组及跨学院对照，覆盖主校、阿布扎比和两个延伸区。"
+    },
+    "swansea": {
+      "complete": true,
+      "sources": [
+        "swansea-math-b54",
+        "swansea-physics-b54",
+        "swansea-cs-b54",
+        "swansea-agt-b54",
+        "swansea-analysis-b54",
+        "swansea-comp-b54",
+        "swansea-bio-b54",
+        "swansea-prob-b54",
+        "swansea-edu-b54",
+        "swansea-physics-theory-b54",
+        "swansea-cosmology-b54"
+      ],
+      "scope": "现行数学、物理及计算机公开名册与数学六组、粒子物理及宇宙学理论组、宇宙学引力组和联合拓扑数据分析网络。"
     }
   },
   "cvLinkAudit": {
@@ -1737,8 +1754,8 @@
   "latestMetricRun": {
     "checkedAt": "2026-11-26",
     "reviewed": 9,
-    "accepted": 2,
-    "held": 7,
-    "scholar": 1
+    "accepted": 1,
+    "held": 8,
+    "scholar": 2
   }
 }

@@ -58,7 +58,6 @@
     "michael-wemyss": "A5038032650",
     "david-brander": "A5036757483",
     "asma-hassannezhad": "A5017585597",
-    "nelly-villamizar": "A5016321436",
     "ruadhai-dervan": "A5020993951",
     "azeb-zain-alghanemi": "A5053613182",
     "calum-spicer": "A5030338640",
@@ -802,7 +801,16 @@
     "parsa-bakhtary": "旧 KFUPM CV、同名题名 DOI 与 Google 公开从数学转数据科学的介绍一致。作品端与作者端不齐，不能合并不同阶段的引用。 作者档 14 项，作品端 11 项。",
     "m-tahir-mustafa": "Qatar 现任 CV、Leeds 学位与调和映射题名排除伊斯兰学和通信同名。同期作者端与作品端差异保留。 作者档 74 项，作品端 73 项。",
     "hassan-azad": "KFUPM 历史与 Abdus Salam 在任署名、李群和复化对称空间题名互证。其他同名档以声学和医学为主。 作者档 67 项，作品端 65 项。",
-    "abdallah-m-al-zahrani": "校方 ORCID、Alberta 学位和 Kerr 圆轨论文一致。机构 10 篇明确期刊数另存，作者端与作品端差异未决。 作者档 14 项，作品端 13 项。"
+    "abdallah-m-al-zahrani": "校方 ORCID、Alberta 学位和 Kerr 圆轨论文一致。机构 10 篇明确期刊数另存，作者端与作品端差异未决。 作者档 14 项，作品端 13 项。",
+    "nelly-villamizar": "机构 ORCID 与本人出版清单、样条代表 DOI 和 Swansea/Oslo 历史匹配。作品与作者端不一致，逐项补核完整机构期刊栏。 作者端 33，作品端 28，文章筛选端 16。",
+    "grigory-garkusha": "ORCID、Swansea 数学教授档与 framed motives 刊本一致。本人及 Swansea 官方都连接 Scholar；OpenAlex 两端数有差。 作者端 44，作品端 42，文章筛选端 31。",
+    "martin-helmer": "Cronfa 记录的作者 ORCID、历史 CV 与多篇 Whitney 分层刊本确认几何作者，两端相等。现任状态另有组网告知。 作者端 32，作品端 32，文章筛选端 28。",
+    "edwin-beggs": "Swansea 荣誉具名档和量子黎曼几何著作与署名一致；官方链接的 Scholar 可读，OA 两端不齐。 作者端 132，作品端 111，文章筛选端 72。",
+    "tomasz-brzezinski": "以 Swansea ORCID、Hopf algebra 与 corings 著作及几何研究历史核实。至少两个其他同名档含相近合作者或再录，暂不合并引用。 作者端 216，作品端 166，文章筛选端 111。",
+    "daniel-thompson": "官方 ORCID、具名 Royal Society 任聘和 Generalised Kähler / twistor 刊本一致。OpenAlex 两端有异，按完整校方期刊栏补量。 作者端 70，作品端 62，文章筛选端 50。",
+    "carlos-nunez": "Swansea ORCID、校方链接的 INSPIRE 与 CY 超引力刊本互证。OpenAlex 两端不一致，机构期刊栏保留。 作者端 163，作品端 132，文章筛选端 116。",
+    "ivonne-zavala-carrasco": "官方 ORCID、本人站及 2026 heterotic orbifold 代表作互证；OpenAlex 两端不齐，另用机构期刊记录。 作者端 132，作品端 99，文章筛选端 83。",
+    "feng-yu-wang": "天津大学在任、Swansea 荣休、IMRN 文献共同作者与曲率估计代表作互证。公开作者及作品端有差异，另查天津个人成果范围。 作者端 362，作品端 361，文章筛选端 282。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -905,9 +913,59 @@
       "https://doi.org/10.1093/imrn/rnx117",
       "https://doi.org/10.1112/blms.13005"
     ],
-    "nelly-villamizar": [
-      "https://cronfa.swansea.ac.uk/Record/cronfa71999/Details"
-    ],
+    "nelly-villamizar": {
+      "name": "Nelly Villamizar",
+      "checkedAt": "2026-11-26",
+      "status": "held",
+      "note": "机构 ORCID 与本人出版清单、样条代表 DOI 和 Swansea/Oslo 历史匹配。作品与作者端不一致，逐项补核完整机构期刊栏。 作者端 33，作品端 28，文章筛选端 16。",
+      "authorId": "A5016321436",
+      "candidate_url": "https://openalex.org/authors/A5016321436",
+      "authorApiUrl": "https://api.openalex.org/authors/A5016321436",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5016321436&per_page=200&select=id,doi,display_name,type,publication_year,cited_by_count,authorships,primary_location",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5016321436,type:article&per_page=1&select=id",
+      "worksCount": 33,
+      "indexedWorksCount": 28,
+      "articles": 16,
+      "citations": 314,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "Survey on 3D Reconstruction Techniques: Large-Scale Urban City Reconstruction and Requirements",
+          "url": "https://doi.org/10.1109/tvcg.2025.3540669"
+        },
+        {
+          "title": "Dimension and bases for geometrically continuous splines on surfaces of arbitrary topology",
+          "url": "https://doi.org/10.1016/j.cagd.2016.03.003"
+        },
+        {
+          "title": "G 1 -smooth splines on quad meshes with 4-split macro-patch elements",
+          "url": "https://doi.org/10.1016/j.cagd.2017.03.003"
+        },
+        {
+          "title": "A general formulation of reweighted least squares fitting",
+          "url": "https://doi.org/10.1016/j.matcom.2024.04.029"
+        },
+        {
+          "title": "Planar linkages following a prescribed motion",
+          "url": "https://doi.org/10.1090/mcom/3120"
+        }
+      ],
+      "previousPublicSnapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5016321436",
+        "orcid": "https://orcid.org/0000-0002-8741-7225",
+        "url": "https://openalex.org/authors/A5016321436",
+        "authorApiUrl": "https://api.openalex.org/authors/A5016321436",
+        "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5016321436,type:article&per_page=1&select=id",
+        "checkedAt": "2026-11-24",
+        "articles": 16,
+        "works": 33,
+        "citations": 317,
+        "hIndex": 9,
+        "articleScope": "OpenAlex type:article",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
     "michael-wemyss": [
       "https://www.gla.ac.uk/schools/mathematicsstatistics/staff/michaelwemyss/",
       "https://doi.org/10.1353/ajm.2019.0018",
@@ -6319,6 +6377,326 @@
         }
       ],
       "note": "校方 ORCID、Alberta 学位和 Kerr 圆轨论文一致。机构 10 篇明确期刊数另存，作者端与作品端差异未决。 作者档 14 项，作品端 13 项。"
+    },
+    "grigory-garkusha": {
+      "name": "Grigory Garkusha",
+      "checkedAt": "2026-11-26",
+      "status": "held",
+      "note": "ORCID、Swansea 数学教授档与 framed motives 刊本一致。本人及 Swansea 官方都连接 Scholar；OpenAlex 两端数有差。 作者端 44，作品端 42，文章筛选端 31。",
+      "authorId": "A5086130780",
+      "candidate_url": "https://openalex.org/authors/A5086130780",
+      "authorApiUrl": "https://api.openalex.org/authors/A5086130780",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5086130780&per_page=200&select=id,doi,display_name,type,publication_year,cited_by_count,authorships,primary_location",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5086130780,type:article&per_page=1&select=id",
+      "worksCount": 44,
+      "indexedWorksCount": 42,
+      "articles": 31,
+      "citations": 572,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "Framed motives of algebraic varieties (after V. Voevodsky)",
+          "url": "https://doi.org/10.1090/jams/958"
+        },
+        {
+          "title": "Homotopy invariant presheaves with framed transfers",
+          "url": "https://doi.org/10.4310/cjm.2020.v8.n1.a1"
+        },
+        {
+          "title": "Cancellation theorem for framed motives of algebraic varieties",
+          "url": "https://doi.org/10.1016/j.aim.2021.107681"
+        },
+        {
+          "title": "Framed motives of relative motivic spheres",
+          "url": "https://doi.org/10.1090/tran/8386"
+        },
+        {
+          "title": "Triangulated Categories and the Ziegler Spectrum",
+          "url": "https://doi.org/10.1007/s10468-005-8147-2"
+        }
+      ],
+      "scholarEvidence": {
+        "source": "https://www.swansea.ac.uk/staff/g.garkusha/",
+        "profile": "https://scholar.google.com/citations?hl=en&user=Emg-aMIAAAAJ",
+        "citations": 841,
+        "note": "大学官网具名链接与官网出版物题名一致。"
+      }
+    },
+    "martin-helmer": {
+      "name": "Martin Helmer",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "Cronfa 记录的作者 ORCID、历史 CV 与多篇 Whitney 分层刊本确认几何作者，两端相等。现任状态另有组网告知。 作者端 32，作品端 32，文章筛选端 28。",
+      "authorId": "A5018927033",
+      "candidate_url": "https://openalex.org/authors/A5018927033",
+      "authorApiUrl": "https://api.openalex.org/authors/A5018927033",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5018927033&per_page=200&select=id,doi,display_name,type,publication_year,cited_by_count,authorships,primary_location",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5018927033,type:article&per_page=1&select=id",
+      "worksCount": 32,
+      "indexedWorksCount": 32,
+      "articles": 28,
+      "citations": 374,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "The maximum likelihood degree of toric varieties",
+          "url": "https://doi.org/10.1016/j.jsc.2018.04.016"
+        },
+        {
+          "title": "Landau singularities from Whitney stratifications",
+          "url": "https://doi.org/10.1103/8tk7-3gkn"
+        },
+        {
+          "title": "Symbol alphabets from the Landau singular locus",
+          "url": "https://doi.org/10.1007/jhep10(2023)161"
+        },
+        {
+          "title": "Cohen-Macaulay Property of Feynman Integrals",
+          "url": "https://doi.org/10.1007/s00220-022-04569-6"
+        },
+        {
+          "title": "Conormal Spaces and Whitney Stratifications",
+          "url": "https://doi.org/10.1007/s10208-022-09574-8"
+        }
+      ]
+    },
+    "edwin-beggs": {
+      "name": "Edwin Beggs",
+      "checkedAt": "2026-11-26",
+      "status": "held",
+      "note": "Swansea 荣誉具名档和量子黎曼几何著作与署名一致；官方链接的 Scholar 可读，OA 两端不齐。 作者端 132，作品端 111，文章筛选端 72。",
+      "authorId": "A5037523032",
+      "candidate_url": "https://openalex.org/authors/A5037523032",
+      "authorApiUrl": "https://api.openalex.org/authors/A5037523032",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5037523032&per_page=200&select=id,doi,display_name,type,publication_year,cited_by_count,authorships,primary_location",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5037523032,type:article&per_page=1&select=id",
+      "worksCount": 132,
+      "indexedWorksCount": 111,
+      "articles": 72,
+      "citations": 1635,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "Quantum Riemannian Geometry",
+          "url": "https://doi.org/10.1007/978-3-030-30294-8"
+        },
+        {
+          "title": "∗ -compatible connections in noncommutative Riemannian geometry",
+          "url": "https://doi.org/10.1016/j.geomphys.2010.09.002"
+        },
+        {
+          "title": "Gravity induced from quantum spacetime",
+          "url": "https://doi.org/10.1088/0264-9381/31/3/035020"
+        },
+        {
+          "title": "Semiclassical differential structures",
+          "url": "https://doi.org/10.2140/pjm.2006.224.1"
+        },
+        {
+          "title": "Non-commutative complex differential geometry",
+          "url": "https://doi.org/10.1016/j.geomphys.2013.03.018"
+        }
+      ],
+      "scholarEvidence": {
+        "source": "https://www.swansea.ac.uk/staff/e.j.beggs/",
+        "profile": "https://scholar.google.com/citations?hl=en&user=eG5q--cAAAAJ",
+        "citations": 2110,
+        "note": "大学官网具名链接与官网出版物题名一致。"
+      }
+    },
+    "tomasz-brzezinski": {
+      "name": "Tomasz Brzezinski",
+      "checkedAt": "2026-11-26",
+      "status": "held",
+      "note": "以 Swansea ORCID、Hopf algebra 与 corings 著作及几何研究历史核实。至少两个其他同名档含相近合作者或再录，暂不合并引用。 作者端 216，作品端 166，文章筛选端 111。",
+      "authorId": "A5068736348",
+      "candidate_url": "https://openalex.org/authors/A5068736348",
+      "authorApiUrl": "https://api.openalex.org/authors/A5068736348",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5068736348&per_page=200&select=id,doi,display_name,type,publication_year,cited_by_count,authorships,primary_location",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5068736348,type:article&per_page=1&select=id",
+      "worksCount": 216,
+      "indexedWorksCount": 166,
+      "articles": 111,
+      "citations": 3606,
+      "alternatives": [
+        "https://openalex.org/authors/A5061307451",
+        "https://openalex.org/authors/A5080749771",
+        "https://openalex.org/authors/A5059514936"
+      ],
+      "sample": [
+        {
+          "title": "Corings and Comodules",
+          "url": "https://doi.org/10.1017/cbo9780511546495"
+        },
+        {
+          "title": "Coalgebra Bundles",
+          "url": "https://doi.org/10.1007/s002200050274"
+        },
+        {
+          "title": "Trusses: Between braces and rings",
+          "url": "https://doi.org/10.1090/tran/7705"
+        },
+        {
+          "title": "The Chern–Galois character",
+          "url": "https://doi.org/10.1016/j.crma.2003.11.009"
+        },
+        {
+          "title": "Quantum Geometry of Algebra Factorisations¶and Coalgebra Bundles",
+          "url": "https://doi.org/10.1007/pl00005530"
+        }
+      ]
+    },
+    "daniel-thompson": {
+      "name": "Daniel Thompson",
+      "checkedAt": "2026-11-26",
+      "status": "held",
+      "note": "官方 ORCID、具名 Royal Society 任聘和 Generalised Kähler / twistor 刊本一致。OpenAlex 两端有异，按完整校方期刊栏补量。 作者端 70，作品端 62，文章筛选端 50。",
+      "authorId": "A5065101114",
+      "candidate_url": "https://openalex.org/authors/A5065101114",
+      "authorApiUrl": "https://api.openalex.org/authors/A5065101114",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5065101114&per_page=200&select=id,doi,display_name,type,publication_year,cited_by_count,authorships,primary_location",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5065101114,type:article&per_page=1&select=id",
+      "worksCount": 70,
+      "indexedWorksCount": 62,
+      "articles": 50,
+      "citations": 2560,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "Duality symmetric string and M-theory",
+          "url": "https://doi.org/10.1016/j.physrep.2014.11.007"
+        },
+        {
+          "title": "On non-abelian T-dual geometries with Ramond fluxes",
+          "url": "https://doi.org/10.1016/j.nuclphysb.2010.12.013"
+        },
+        {
+          "title": "Generalised integrable λ- and η-deformations and their relation",
+          "url": "https://doi.org/10.1016/j.nuclphysb.2015.08.015"
+        },
+        {
+          "title": "Duality invariant M-theory: gauged supergravities and Scherk-Schwarz reductions",
+          "url": "https://doi.org/10.1007/jhep10(2012)174"
+        },
+        {
+          "title": "Non-abelian T-duality, Ramond fields and coset geometries",
+          "url": "https://doi.org/10.1007/jhep06(2011)106"
+        }
+      ]
+    },
+    "carlos-nunez": {
+      "name": "Carlos Nunez",
+      "checkedAt": "2026-11-26",
+      "status": "held",
+      "note": "Swansea ORCID、校方链接的 INSPIRE 与 CY 超引力刊本互证。OpenAlex 两端不一致，机构期刊栏保留。 作者端 163，作品端 132，文章筛选端 116。",
+      "authorId": "A5006939041",
+      "candidate_url": "https://openalex.org/authors/A5006939041",
+      "authorApiUrl": "https://api.openalex.org/authors/A5006939041",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5006939041&per_page=200&select=id,doi,display_name,type,publication_year,cited_by_count,authorships,primary_location",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5006939041,type:article&per_page=1&select=id",
+      "worksCount": 163,
+      "indexedWorksCount": 132,
+      "articles": 116,
+      "citations": 8398,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "SUPERGRAVITY DESCRIPTION OF FIELD THEORIES ON CURVED MANIFOLDS AND A NO GO THEOREM",
+          "url": "https://doi.org/10.1142/s0217751x01003937"
+        },
+        {
+          "title": "Towards the Large N Limit of Pure N=1 Super Yang-Mills Theory",
+          "url": "https://doi.org/10.1103/physrevlett.86.588"
+        },
+        {
+          "title": "Fake supergravity and domain wall stability",
+          "url": "https://doi.org/10.1103/physrevd.69.104027"
+        },
+        {
+          "title": "Towards the string dual of N=1 supersymmetric QCD-like theories",
+          "url": "https://doi.org/10.1103/physrevd.73.086005"
+        },
+        {
+          "title": "Unquenched Flavor in the Gauge/Gravity Correspondence",
+          "url": "https://doi.org/10.1155/2010/196714"
+        }
+      ]
+    },
+    "ivonne-zavala-carrasco": {
+      "name": "Ivonne Zavala Carrasco",
+      "checkedAt": "2026-11-26",
+      "status": "held",
+      "note": "官方 ORCID、本人站及 2026 heterotic orbifold 代表作互证；OpenAlex 两端不齐，另用机构期刊记录。 作者端 132，作品端 99，文章筛选端 83。",
+      "authorId": "A5018557554",
+      "candidate_url": "https://openalex.org/authors/A5018557554",
+      "authorApiUrl": "https://api.openalex.org/authors/A5018557554",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5018557554&per_page=200&select=id,doi,display_name,type,publication_year,cited_by_count,authorships,primary_location",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5018557554,type:article&per_page=1&select=id",
+      "worksCount": 132,
+      "indexedWorksCount": 99,
+      "articles": 83,
+      "citations": 4710,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics",
+          "url": "https://doi.org/10.1016/j.dark.2025.101965"
+        },
+        {
+          "title": "String cosmology: From the early universe to today",
+          "url": "https://doi.org/10.1016/j.physrep.2024.01.002"
+        },
+        {
+          "title": "Mechanisms for primordial black hole production in string theory",
+          "url": "https://doi.org/10.1088/1475-7516/2018/07/005"
+        },
+        {
+          "title": "Cosmological constraints on curved quintessence",
+          "url": "https://doi.org/10.1088/1475-7516/2024/09/073"
+        },
+        {
+          "title": "Lifshitz solutions in supergravity and string theory",
+          "url": "https://doi.org/10.1007/jhep12(2010)047"
+        }
+      ]
+    },
+    "feng-yu-wang": {
+      "name": "Feng-yu Wang",
+      "checkedAt": "2026-11-26",
+      "status": "held",
+      "note": "天津大学在任、Swansea 荣休、IMRN 文献共同作者与曲率估计代表作互证。公开作者及作品端有差异，另查天津个人成果范围。 作者端 362，作品端 361，文章筛选端 282。",
+      "authorId": "A5043138062",
+      "candidate_url": "https://openalex.org/authors/A5043138062",
+      "authorApiUrl": "https://api.openalex.org/authors/A5043138062",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5043138062&per_page=200&select=id,doi,display_name,type,publication_year,cited_by_count,authorships,primary_location",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5043138062,type:article&per_page=1&select=id",
+      "worksCount": 362,
+      "indexedWorksCount": 361,
+      "articles": 282,
+      "citations": 8636,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "Distribution dependent SDEs for Landau type equations",
+          "url": "https://doi.org/10.1016/j.spa.2017.05.006"
+        },
+        {
+          "title": "Logarithmic Sobolev inequalities on noncompact Riemannian manifolds",
+          "url": "https://doi.org/10.1007/s004400050137"
+        },
+        {
+          "title": "Functional inequalities, Markov semigroups and spectral theory",
+          "url": "https://openalex.org/W631895449"
+        },
+        {
+          "title": "Weak Poincaré Inequalities and L2-Convergence Rates of Markov Semigroups",
+          "url": "https://doi.org/10.1006/jfan.2001.3776"
+        },
+        {
+          "title": "Distribution dependent SDEs with singular coefficients",
+          "url": "https://doi.org/10.1016/j.spa.2018.12.012"
+        }
+      ]
     }
   }
 }
