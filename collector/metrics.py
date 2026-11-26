@@ -76,23 +76,28 @@ def inspect(anchor):
     institution_matches = sorted(i for i in institutions if name_key(i) in aliases)
     if not institution_matches and len(dois) < 2:
         return {"status":"identity_review","author_id":identifier,"reason":"当前与历史机构缺少可核对的匹配。"}
-    articles = api("/works",filter=f"authorships.author.id:{identifier},type:article",per_page=1,select="id")
-    top = api("/works",filter=f"authorships.author.id:{identifier}",per_page=5,
-              select="display_name,doi,primary_topic",sort="cited_by_count:desc")
+    author_filter = f"authorships.author.id:{identifier}"
+    article_filter = f"{author_filter},type:article"
+    articles = api("/works",filter=article_filter,corpus="core",per_page=1,select="id")
+    # Author totals include both corpora and entries omitted by the default works search.
+    top = api("/works",filter=author_filter,corpus="all",include_parts="true",include_pulled="true",
+              per_page=5,select="display_name,doi,primary_topic",sort="cited_by_count:desc")
     work_samples = [{"title":w.get("display_name"),"doi":w.get("doi"),
                      "field":(w.get("primary_topic") or {}).get("field",{}).get("display_name")} for w in top["results"]]
     return {
         "status":"review_ready", "author_id":identifier, "match_name":profile.get("display_name"),"institutions":institution_matches,
         "papers":papers, "sample":work_samples, "source":anchor["source"],
+        "indexed_works_count":top["meta"]["count"],
+        "works_api_url":f"{API}/works?filter={author_filter}&corpus=all&include_parts=true&include_pulled=true",
         "cv":anchor.get("cv") or None, "homepage":anchor.get("homepage") or None,
         "snapshot":{
             "source":"OpenAlex","authorId":identifier,"orcid":profile.get("orcid"),
             "url":f"https://openalex.org/authors/{identifier}",
             "authorApiUrl":f"{API}/authors/{identifier}",
-            "articleApiUrl":f"{API}/works?filter=authorships.author.id:{identifier},type:article&per_page=1&select=id",
+            "articleApiUrl":f"{API}/works?filter={article_filter}&corpus=core&per_page=1&select=id",
             "checkedAt":now_date(),"articles":articles["meta"]["count"],"works":profile["works_count"],
             "citations":profile["cited_by_count"],"hIndex":profile["summary_stats"]["h_index"],
-            "articleScope":"OpenAlex type:article","citationScope":"OpenAlex 作者档案累计引用",
+            "articleScope":"OpenAlex 核心语料 type:article","citationScope":"OpenAlex 作者档案累计引用（含扩展语料）",
         },
     }
 

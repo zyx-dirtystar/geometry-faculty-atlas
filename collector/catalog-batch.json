@@ -4031,18 +4031,66 @@
     {
       "id": "bielefeld",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，5 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 1。",
+      "coverageNote": "已解析 12/14 个登记来源，226 条任职或方向待核。 已收录 10 位学者，个人主页 10、CV 2、指标 9。 数学官方名册公开脚本提取全员 251、学术人员 238、教授栏具名 35、原教授／荣休 15、行政 13。读系内七个研究分栏、代数与算术几何组、几何群组、BIREP、联合 TRR 358 项目和物理三组。本人具名来源核明 Crawley-Boevey 退休、Floccari 转入柏林洪堡、Stadler 与 Letz 当前属 Paderborn。eKVV 直取返回 403，校级机构成果库返回 Anubis 挑战或拒绝。综合学术人员名册缺区分博士生、短期与持续聘任的逐人资料。CRC 跨校人员和技术学院组尚待逐任职来源归属，当前保留工作名单。",
       "rosterLinks": [
         [
-          "Algebraic and Arithmetic Geometry",
+          "Algebraic and Arithmetic Geometry · current and historical groups",
           "https://www.math.uni-bielefeld.de/arithgeo/"
         ],
         [
-          "Groups and Geometry",
+          "Bielefeld Representation Theory Group",
+          "https://www.math.uni-bielefeld.de/birep/people.php"
+        ],
+        [
+          "Physics · Astroparticle Physics, Cosmology and Gravitation",
+          "https://www.uni-bielefeld.de/fakultaeten/physik/forschung/cosmology/"
+        ],
+        [
+          "Groups and Geometry · working groups",
           "https://www.math.uni-bielefeld.de/groupsgeometry/index.php"
+        ],
+        [
+          "Physics · High Energy Physics research groups",
+          "https://www.uni-bielefeld.de/fakultaeten/physik/forschung/hochenergiephysik/"
+        ],
+        [
+          "Faculty of Mathematics · 技术及行政类别",
+          "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/mtv/"
+        ],
+        [
+          "Faculty of Mathematics · 各任职类别合并表",
+          "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/"
+        ],
+        [
+          "Faculty of Mathematics · 原教授和荣休类别",
+          "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/emeriti/"
+        ],
+        [
+          "Faculty of Mathematics · 教授类别",
+          "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/profs-1/"
+        ],
+        [
+          "Faculty of Mathematics · 7 research-area tables",
+          "https://www.uni-bielefeld.de/fakultaeten/mathematik/forschung/forschungsgebiete/"
+        ],
+        [
+          "Faculty of Mathematics · 学术人员栏目",
+          "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/akademische_mitarbeitende/"
+        ],
+        [
+          "Physics · Mathematical Physics Group",
+          "https://www.uni-bielefeld.de/fakultaeten/physik/forschung/mathphys/"
+        ],
+        [
+          "Faculty of Technology · Research Groups",
+          "https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/"
+        ],
+        [
+          "TRR 358 · cross-institution investigators",
+          "https://trr358.math.uni-bielefeld.de/People"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-26"
     },
     {
       "id": "cornell",
@@ -13082,32 +13130,169 @@
       "recordStatus": "directory"
     },
     {
+      "id": "alexander-grigor-yan",
+      "name": "Alexander Grigor'yan",
+      "aliases": [
+        "Alexander Grigoryan"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "bielefeld",
+          "department": "Faculty of Mathematics",
+          "title": "Professor of Mathematics",
+          "url": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/profs-1/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.uni-bielefeld.de/~grigor/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "核对本人主页 https://www.math.uni-bielefeld.de/~grigor/、清华大学丘成桐数学科学中心短履历、机构索引及姓名配合 CV／Lebenslauf 搜索。公开材料可核研究与任职；未找到独立公开 CV。",
+      "publicationsUrl": "https://www.math.uni-bielefeld.de/~grigor/pubs.htm",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "校方带几何分析方向的具名主页及 Riemannian 热核论文对应。搜索另有共享相同 ORCID 的生物作者，排除微生物及石油主题档。 扩展收录本人热核专著及早期论文。已排除 ORCID 误挂在生物档，当前数学档的高引结果与本人论文和书目一致。 作者端 177，默认作品端 164，作品全语料含附材及撤回项查询 177。核心语料 article 120，全语料 article 125。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5066524478",
+          "url": "https://openalex.org/authors/A5066524478",
+          "articles": 120,
+          "checkedAt": "2026-11-26",
+          "authorApiUrl": "https://api.openalex.org/authors/A5066524478",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5066524478,type:article&corpus=core&per_page=1&select=id",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "works": 177,
+          "citations": 9188,
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        },
+        {
+          "source": "Google Scholar",
+          "authorId": "GD5L9z0AAAAJ",
+          "url": "https://scholar.google.com/citations?user=GD5L9z0AAAAJ&hl=en",
+          "citations": 10950,
+          "checkedAt": "2026-11-26",
+          "citationScope": "Google Scholar All 列累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Analytic and geometric background of recurrence and non-explosion of the Brownian motion on Riemannian manifolds",
+          "year": 1999,
+          "url": "https://doi.org/10.1090/s0273-0979-99-00776-4",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, geometric analysis on Riemannian manifolds and metric spaces, Laplacians and heat kernel estimates",
+          "url": "https://www.math.uni-bielefeld.de/~grigor/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ana-maria-botero",
+      "name": "Ana María Botero",
+      "aliases": [
+        "Ana Maria Botero",
+        "Ana Botero"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "bielefeld",
+          "department": "Faculty of Mathematics",
+          "title": "Junior Professor of Mathematics",
+          "url": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/profs-1/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://trr358.math.uni-bielefeld.de/people/view/1581",
+      "homepageStatus": "公开可读的 CRC 具名研究档；学校 eKVV 直取 403，未发现独立个人主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查学校任命公告、eKVV、TRR 具名页、本人校域 /~abotero/、同名 GitHub 主页和姓名 CV／Lebenslauf 搜索。eKVV 返回 403，两处个人站返回 404，校方公告是任命简介。",
+      "publicationsUrl": "https://trr358.math.uni-bielefeld.de/people/view/1581",
+      "publicationCounts": [],
+      "opportunities": [
+        {
+          "label": "TRR 358 A1 · 涉及非阿基米德与热带几何的博士后",
+          "url": "https://trr358.math.uni-bielefeld.de/JobOpenings",
+          "type": "博士后",
+          "status": "已截止",
+          "deadline": "2026-11-15",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "identityNote": "当前教授名册、校方任命及 TRR B7 档案签署对应。2024 年 Springer 论文通讯署名与学校一致，排除环境化学 Ana Botero-Coy 和记载乳腺癌的同名字档。 扩展语料出现机构通用占位记录 “New Quick And Easy Publication” 和 Contributors 类附材。作者全档案数与引文保留复核。逐看核心语料 9 条 article 均为该数学作者。 作者端 19，默认作品端 14，作品全语料含附材及撤回项查询 19。核心语料 article 9，全语料 article 10。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5029079985",
+          "url": "https://openalex.org/authors/A5029079985",
+          "articles": 9,
+          "checkedAt": "2026-11-26",
+          "authorApiUrl": "https://api.openalex.org/authors/A5029079985",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5029079985,type:article&corpus=core&per_page=1&select=id",
+          "articleScope": "OpenAlex 核心语料 type:article"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On Chow groups of toric schemes over a DVR",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/s00229-024-01597-5",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and arithmetic geometry, toric and tropical varieties, Chow groups and non-Archimedean Arakelov intersection theory",
+          "url": "https://trr358.math.uni-bielefeld.de/people/view/1581"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
       "id": "charles-vial",
       "name": "Charles Vial",
       "aliases": [],
       "affiliations": [
         {
           "schoolId": "bielefeld",
-          "department": "数学系",
-          "title": "Professor",
-          "url": "https://www.math.uni-bielefeld.de/arithgeo/",
+          "department": "Faculty of Mathematics",
+          "title": "Professor of Mathematics",
+          "url": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/profs-1/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
-        "algebraic"
+        "algebraic",
+        "complex"
       ],
-      "tags": [
-        "Algebraic and Arithmetic Geometry",
-        "Algebraic geometry, motives and algebraic cycles"
-      ],
+      "tags": [],
       "homepage": "https://www.math.uni-bielefeld.de/~vial/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvStatus": "核对本人主页 https://www.math.uni-bielefeld.de/~vial/、TRR C1、C7 和 C8 具名档、机构索引及姓名配合 CV／Lebenslauf 搜索。公开材料可核研究与任职；未找到独立公开 CV。",
+      "publicationsUrl": "https://www.math.uni-bielefeld.de/~vial/",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "已用论文 DOI、机构与数学论文抽样核对 OpenAlex 作者档案。",
@@ -13126,23 +13311,38 @@
           "hIndex": 20,
           "articleScope": "OpenAlex type:article",
           "citationScope": "OpenAlex 作者档案累计引用"
+        },
+        {
+          "source": "OpenAlex",
+          "authorId": "A5089099792",
+          "url": "https://openalex.org/authors/A5089099792",
+          "articles": 36,
+          "checkedAt": "2026-11-26",
+          "authorApiUrl": "https://api.openalex.org/authors/A5089099792",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5089099792,type:article&corpus=core&per_page=1&select=id",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "works": 49,
+          "citations": 1067,
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
         }
       ],
-      "identityUrl": null,
+      "identityUrl": "https://openalex.org/authors/A5089099792",
       "papers": [
         {
           "title": "Multiplicative Chow–Künneth decompositions and varieties of cohomological K3 type",
           "year": 2021,
           "url": "https://doi.org/10.1007/s10231-021-01070-0"
+        },
+        {
+          "title": "The Fourier Transform for Certain HyperKähler Fourfolds",
+          "year": 2016,
+          "url": "https://doi.org/10.1090/memo/1139",
+          "type": "期刊论文"
         }
       ],
       "directoryEvidence": [
         {
-          "text": "Algebraic and Arithmetic Geometry",
-          "url": "https://www.math.uni-bielefeld.de/arithgeo/"
-        },
-        {
-          "text": "Algebraic geometry, motives and algebraic cycles",
+          "text": "Algebraic geometry and complex geometry, algebraic cycles, Chow motives and hyper-Kähler varieties",
           "url": "https://www.math.uni-bielefeld.de/~vial/"
         },
         {
@@ -13150,7 +13350,442 @@
           "url": "https://www.math.uni-bielefeld.de/~vial/MCK-K3type.pdf"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "eike-lau",
+      "name": "Eike Lau",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "bielefeld",
+          "department": "Faculty of Mathematics",
+          "title": "Professor of Mathematics (Algebra and Number Theory)",
+          "url": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/profs-1/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.uni-bielefeld.de/~lau/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "核对本人主页 https://www.math.uni-bielefeld.de/~lau/、校方任命公告及 TRR 具名页、机构索引及姓名配合 CV／Lebenslauf 搜索。公开材料可核研究与任职；未找到独立公开 CV。",
+      "publicationsUrl": "https://www.math.uni-bielefeld.de/~lau/publ.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "现任教授名册与学校 2018 年任命公告，Deligne–Mumford 栈和 Dieudonné displays 论文共同核对。 数论几何及 displays 论文已确认。较早的分形和复动力系统条目需要核完独立署名及其本人履历再接受累计指标。 作者端 22，默认作品端 19，作品全语料含附材及撤回项查询 22。核心语料 article 16，全语料 article 16。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The Balmer spectrum of certain Deligne–Mumford stacks",
+          "year": 2023,
+          "url": "https://doi.org/10.1112/s0010437x23007200",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry, Deligne–Mumford stacks, crystalline Dieudonné theory, displays and p-divisible groups",
+          "url": "https://www.math.uni-bielefeld.de/~lau/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "henning-krause",
+      "name": "Henning Krause",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "bielefeld",
+          "department": "Faculty of Mathematics",
+          "title": "Professor of Mathematics",
+          "url": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/profs-1/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.uni-bielefeld.de/~hkrause/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.math.uni-bielefeld.de/~hkrause/cv-krause.pdf",
+      "cvType": "公开 CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.uni-bielefeld.de/~hkrause/publications.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "本人教授档、代表作及 CV 与 OpenAlex 合作者、Bielefeld 及 Paderborn 轨迹相符。全语料端索引 203，读首 200 条并抽查高引表示论和几何论文。 作者端 203，默认作品端 185，作品全语料含附材及撤回项查询 203。核心语料 article 123，全语料 article 129。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5042319087",
+          "url": "https://openalex.org/authors/A5042319087",
+          "articles": 123,
+          "checkedAt": "2026-11-26",
+          "authorApiUrl": "https://api.openalex.org/authors/A5042319087",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5042319087,type:article&corpus=core&per_page=1&select=id",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "works": 203,
+          "citations": 5597,
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The stable derived category of a noetherian scheme",
+          "year": 2005,
+          "url": "https://doi.org/10.1112/S0010437X05001375",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of derived categories of schemes and coherent sheaves, derived splinters, representation theory and homological algebra",
+          "url": "https://trr358.math.uni-bielefeld.de/Projects/view/C7"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "irfan-glogic",
+      "name": "Irfan Glogić",
+      "aliases": [
+        "Irfan Glogic"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "bielefeld",
+          "department": "Faculty of Mathematics",
+          "title": "Junior Professor of Mathematics",
+          "url": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/profs-1/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.uni-bielefeld.de/~glogic/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.math.uni-bielefeld.de/~glogic/Irfan_Glogic_CV.pdf",
+      "cvType": "公开 CV（2026-08）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.uni-bielefeld.de/~glogic/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "学校主页、2026-08 CV 与 wave maps、Yang–Mills 刊本及俄亥俄州立/Vienna 过往轨迹互证。 扩展两项为本人 wave maps 或 wave equations 作品。来源类型存在书籍或预印本。 作者端 24，默认作品端 22，作品全语料含附材及撤回项查询 24。核心语料 article 17，全语料 article 18。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5020613414",
+          "url": "https://openalex.org/authors/A5020613414",
+          "articles": 17,
+          "checkedAt": "2026-11-26",
+          "authorApiUrl": "https://api.openalex.org/authors/A5020613414",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5020613414,type:article&corpus=core&per_page=1&select=id",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "works": 24,
+          "citations": 326,
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Globally stable blowup profile for supercritical wave maps in all dimensions",
+          "year": 2025,
+          "url": "https://doi.org/10.1007/s00526-024-02901-7",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis, harmonic map heat flow, wave maps and Yang–Mills fields",
+          "url": "https://www.math.uni-bielefeld.de/~glogic/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "lukas-kuhne",
+      "name": "Lukas Kühne",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "bielefeld",
+          "department": "Faculty of Mathematics",
+          "title": "Junior Professor for Combinatorial Algebra",
+          "url": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/profs-1/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.uni-bielefeld.de/~lkuehne/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "本人官网 About 有短履历与博士生分栏。查其主页、TRR 具名项目和姓名 CV 搜索，未发现单独 CV。",
+      "publicationsUrl": "https://www.math.uni-bielefeld.de/~lkuehne/",
+      "publicationCounts": [],
+      "opportunities": [
+        {
+          "label": "TRR 358 研究生招聘 · 组合代数与几何",
+          "url": "https://trr358.math.uni-bielefeld.de/JobOpenings",
+          "type": "博士",
+          "status": "已截止",
+          "deadline": "2026-11-15",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "identityNote": "本人校方页、TRR 项目及 IMRN 椭圆模曲面论文互证，排除 Freiburg 医学同名档。 全语料含数据与 Oberwolfach 短报告，核心文章数沿用数据库的严格类型过滤。 作者端 35，默认作品端 30，作品全语料含附材及撤回项查询 35。核心语料 article 22，全语料 article 25。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5058200401",
+          "url": "https://openalex.org/authors/A5058200401",
+          "articles": 22,
+          "checkedAt": "2026-11-26",
+          "authorApiUrl": "https://api.openalex.org/authors/A5058200401",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5058200401,type:article&corpus=core&per_page=1&select=id",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "works": 35,
+          "citations": 267,
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        },
+        {
+          "source": "Google Scholar",
+          "authorId": "jrl_vgsAAAAJ",
+          "url": "https://scholar.google.com/citations?user=jrl_vgsAAAAJ&hl=en",
+          "citations": 285,
+          "checkedAt": "2026-11-26",
+          "citationScope": "Google Scholar All 列累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Regular polygons, line operators, and elliptic modular surfaces as realization spaces of matroids",
+          "year": 2025,
+          "url": "https://doi.org/10.1093/imrn/rnaf367",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of hyperplane arrangements and moduli of matroid realizations, elliptic modular surfaces and geometric combinatorics",
+          "url": "https://www.math.uni-bielefeld.de/~lkuehne/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "matthias-erbar",
+      "name": "Matthias Erbar",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "bielefeld",
+          "department": "Faculty of Mathematics",
+          "title": "Professor of Mathematics (Analysis)",
+          "url": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/profs-1/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/erbar/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "核对本人主页 https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/erbar/、https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/erbar/matthias-erbar/、机构索引及姓名配合 CV／Lebenslauf 搜索。公开材料可核研究与任职；未找到独立公开 CV。",
+      "publicationsUrl": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/erbar/publications/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "数学系官网与正式任命互证，学校直接链接 Scholar；校方出版物中 JEMS 热流及 Bochner 论文与数学作者一致。 核对扩展条目 arXiv:1012.2718 的作者为本人，热流与 Ricci 研究亦相符。 作者端 38，默认作品端 31，作品全语料含附材及撤回项查询 38。核心语料 article 25，全语料 article 26。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5113876577",
+          "url": "https://openalex.org/authors/A5113876577",
+          "articles": 25,
+          "checkedAt": "2026-11-26",
+          "authorApiUrl": "https://api.openalex.org/authors/A5113876577",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5113876577,type:article&corpus=core&per_page=1&select=id",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "works": 38,
+          "citations": 1364,
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        },
+        {
+          "source": "Google Scholar",
+          "authorId": "YVsTSNoAAAAJ",
+          "url": "https://scholar.google.com/citations?user=YVsTSNoAAAAJ&hl=en",
+          "citations": 1902,
+          "checkedAt": "2026-11-26",
+          "citationScope": "Google Scholar All 列累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On the equivalence of the entropic curvature-dimension condition and Bochner’s inequality on metric measure spaces",
+          "year": 2015,
+          "url": "https://doi.org/10.1007/s00222-014-0563-7",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis of metric measure spaces, Ricci curvature, non-smooth Ricci flow and optimal transport",
+          "url": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/erbar/research/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "michael-spie",
+      "name": "Michael Spieß",
+      "aliases": [
+        "Michael Spiess"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "bielefeld",
+          "department": "Faculty of Mathematics",
+          "title": "Professor of Mathematics",
+          "url": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/profs-1/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.uni-bielefeld.de/~mspiess/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "核对本人主页 https://www.math.uni-bielefeld.de/~mspiess/、eKVV 与 TRR 项目页、机构索引及姓名配合 CV／Lebenslauf 搜索。公开材料可核研究与任职；未找到独立公开 CV。",
+      "publicationsUrl": "https://trr358.math.uni-bielefeld.de/people/view/206",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "数学系、TRR B6 项目、Shimura 相关代表作和 Bielefeld 数学作者匹配；排除 Saskatchewan 骨科、Aachen 医疗信息及 Chico 教育。 扩展档包含本人署名的数论章节、同题预印本和附材。核心语料单独查 article。 作者端 32，默认作品端 28，作品全语料含附材及撤回项查询 32。核心语料 article 20，全语料 article 21。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5111477072",
+          "url": "https://openalex.org/authors/A5111477072",
+          "articles": 20,
+          "checkedAt": "2026-11-26",
+          "authorApiUrl": "https://api.openalex.org/authors/A5111477072",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5111477072,type:article&corpus=core&per_page=1&select=id",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "works": 32,
+          "citations": 455,
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On the Albanese map for smooth quasi-projective varieties",
+          "year": 2003,
+          "url": "https://doi.org/10.1007/s00208-002-0359-8",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and arithmetic geometry, Shimura varieties, zero-cycles, p-adic L-functions and equivariant cohomology",
+          "url": "https://trr358.math.uni-bielefeld.de/people/view/206"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "stefan-bauer",
+      "name": "Stefan Bauer",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "bielefeld",
+          "department": "Faculty of Mathematics",
+          "title": "Professor of Mathematics",
+          "url": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/profs-1/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.uni-bielefeld.de/~bauer/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "核对本人主页 https://www.math.uni-bielefeld.de/~bauer/、校方几何与拓扑研究组、机构索引及姓名配合 CV／Lebenslauf 搜索。公开材料可核研究与任职；未找到独立公开 CV。",
+      "publicationsUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5062654588",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "Bielefeld 学校名册、本人及几何组署名与 Inventiones Bauer–Furuta 系列、JDG 四维流形论文互证。排除慕尼黑机器学习和 Marburg 免疫学的同名者。 扩展条目含论文预印本和博士论文章节。核心 article 为数据库类型口径。 作者端 26，默认作品端 22，作品全语料含附材及撤回项查询 26。核心语料 article 17，全语料 article 17。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5062654588",
+          "url": "https://openalex.org/authors/A5062654588",
+          "articles": 17,
+          "checkedAt": "2026-11-26",
+          "authorApiUrl": "https://api.openalex.org/authors/A5062654588",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5062654588,type:article&corpus=core&per_page=1&select=id",
+          "articleScope": "OpenAlex 核心语料 type:article",
+          "works": 26,
+          "citations": 566,
+          "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "A stable cohomotopy refinement of Seiberg-Witten invariants: I",
+          "year": 2004,
+          "url": "https://doi.org/10.1007/s00222-003-0288-5",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of smooth four-manifolds, Seiberg–Witten gauge theory, almost complex four-manifolds and differential topology",
+          "url": "https://www.math.uni-bielefeld.de/~geotop/startseite.htm"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {

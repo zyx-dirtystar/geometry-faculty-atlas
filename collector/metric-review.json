@@ -810,7 +810,28 @@
     "daniel-thompson": "官方 ORCID、具名 Royal Society 任聘和 Generalised Kähler / twistor 刊本一致。OpenAlex 两端有异，按完整校方期刊栏补量。 作者端 70，作品端 62，文章筛选端 50。",
     "carlos-nunez": "Swansea ORCID、校方链接的 INSPIRE 与 CY 超引力刊本互证。OpenAlex 两端不一致，机构期刊栏保留。 作者端 163，作品端 132，文章筛选端 116。",
     "ivonne-zavala-carrasco": "官方 ORCID、本人站及 2026 heterotic orbifold 代表作互证；OpenAlex 两端不齐，另用机构期刊记录。 作者端 132，作品端 99，文章筛选端 83。",
-    "feng-yu-wang": "天津大学在任、Swansea 荣休、IMRN 文献共同作者与曲率估计代表作互证。公开作者及作品端有差异，另查天津个人成果范围。 作者端 362，作品端 361，文章筛选端 282。"
+    "feng-yu-wang": "天津大学在任、Swansea 荣休、IMRN 文献共同作者与曲率估计代表作互证。公开作者及作品端有差异，另查天津个人成果范围。 作者端 362，作品端 361，文章筛选端 282。",
+    "ana-maria-botero": "当前教授名册、校方任命及 TRR B7 档案签署对应。2024 年 Springer 论文通讯署名与学校一致，排除环境化学 Ana Botero-Coy 和记载乳腺癌的同名字档。 扩展语料出现机构通用占位记录 “New Quick And Easy Publication” 和 Contributors 类附材。作者全档案数与引文保留复核。逐看核心语料 9 条 article 均为该数学作者。 作者端 19，默认作品端 14，作品全语料含附材及撤回项查询 19。核心语料 article 9，全语料 article 10。",
+    "stefan-bauer": "Bielefeld 学校名册、本人及几何组署名与 Inventiones Bauer–Furuta 系列、JDG 四维流形论文互证。排除慕尼黑机器学习和 Marburg 免疫学的同名者。 扩展条目含论文预印本和博士论文章节。核心 article 为数据库类型口径。 作者端 26，默认作品端 22，作品全语料含附材及撤回项查询 26。核心语料 article 17，全语料 article 17。",
+    "matthias-erbar": "数学系官网与正式任命互证，学校直接链接 Scholar；校方出版物中 JEMS 热流及 Bochner 论文与数学作者一致。 核对扩展条目 arXiv:1012.2718 的作者为本人，热流与 Ricci 研究亦相符。 作者端 38，默认作品端 31，作品全语料含附材及撤回项查询 38。核心语料 article 25，全语料 article 26。",
+    "alexander-grigor-yan": "校方带几何分析方向的具名主页及 Riemannian 热核论文对应。搜索另有共享相同 ORCID 的生物作者，排除微生物及石油主题档。 扩展收录本人热核专著及早期论文。已排除 ORCID 误挂在生物档，当前数学档的高引结果与本人论文和书目一致。 作者端 177，默认作品端 164，作品全语料含附材及撤回项查询 177。核心语料 article 120，全语料 article 125。",
+    "lukas-kuhne": "本人校方页、TRR 项目及 IMRN 椭圆模曲面论文互证，排除 Freiburg 医学同名档。 全语料含数据与 Oberwolfach 短报告，核心文章数沿用数据库的严格类型过滤。 作者端 35，默认作品端 30，作品全语料含附材及撤回项查询 35。核心语料 article 22，全语料 article 25。",
+    "eike-lau": "现任教授名册与学校 2018 年任命公告，Deligne–Mumford 栈和 Dieudonné displays 论文共同核对。 数论几何及 displays 论文已确认。较早的分形和复动力系统条目需要核完独立署名及其本人履历再接受累计指标。 作者端 22，默认作品端 19，作品全语料含附材及撤回项查询 22。核心语料 article 16，全语料 article 16。",
+    "michael-spie": "数学系、TRR B6 项目、Shimura 相关代表作和 Bielefeld 数学作者匹配；排除 Saskatchewan 骨科、Aachen 医疗信息及 Chico 教育。 扩展档包含本人署名的数论章节、同题预印本和附材。核心语料单独查 article。 作者端 32，默认作品端 28，作品全语料含附材及撤回项查询 32。核心语料 article 20，全语料 article 21。",
+    "charles-vial": "本人校方主页的代数循环及 hyper-Kähler 高引条目同作者档，Bielefeld 任职和 TRR C1 对应；排除北非历史同名者及 Charles-Éloi Vial。 扩展语料中同题版多数为本人预印本或附材，刊本注重按 DOI。给出数据库原作品定义。 作者端 49，默认作品端 44，作品全语料含附材及撤回项查询 49。核心语料 article 36，全语料 article 36。",
+    "thomas-zink": "Leopoldina 具名履历、本人正式发表页与 Rapoport 合著的 p-可除群作品互证；与波士顿骨科和生物化学同名作者区分。 扩展中有图书索引、附录和重录预印本，核心文章过滤明确。 作者端 48，默认作品端 39，作品全语料含附材及撤回项查询 48。核心语料 article 25，全语料 article 28。",
+    "william-crawley-boevey": "本人学校主页专门的 Scholar 链接、Bielefeld/Leeds 任职、moment map 及 Kleinian 论文互证。 扩展条目含已确认的本人讲义、论文重录及零引文字片段。核心文章和 Scholar 分别登记。 作者端 80，默认作品端 70，作品全语料含附材及撤回项查询 80。核心语料 article 61，全语料 article 68。",
+    "claudia-alfes-neumann": "学校教授具名页及连续 Maaß forms、theta lifts 高引条目互证，与出版页的作者变体对应。 全语料仅增一条本人 harmonic weak Maaß 成果。邻域身份保留在审核记录。 作者端 41，默认作品端 40，作品全语料含附材及撤回项查询 41。核心语料 article 20，全语料 article 20。",
+    "irfan-glogic": "学校主页、2026-08 CV 与 wave maps、Yang–Mills 刊本及俄亥俄州立/Vienna 过往轨迹互证。 扩展两项为本人 wave maps 或 wave equations 作品。来源类型存在书籍或预印本。 作者端 24，默认作品端 22，作品全语料含附材及撤回项查询 24。核心语料 article 17，全语料 article 18。",
+    "matthias-ostermann": "学校导师页、本人原学位论文及合作者 Glogić 符合，扩展学位论文归属已核。 作者端 9，默认作品端 8，作品全语料含附材及撤回项查询 9。核心语料 article 5，全语料 article 5。",
+    "patrick-bieker": "公开 ORCID 的 Bielefeld 邮箱和 Shtukas 论文刊本，与 MIT 和 Bielefeld 履历互证。 作者端 8，默认作品端 6，作品全语料含附材及撤回项查询 8。核心语料 article 3，全语料 article 3。",
+    "thomas-agugliaro": "CRC/Bielefeld 卡、原 Strasbourg 履历和 Documenta Mathematica 刊本对应。核心 article 暂为零，全语料另有一篇已确认刊本。 作者端 4，默认作品端 2，作品全语料含附材及撤回项查询 4。核心语料 article 0，全语料 article 1。",
+    "salvatore-floccari": "新 Humboldt 个人页、旧 Bielefeld 主页和 hyper-Kähler 代数循环刊本互证。 作者端 13，默认作品端 12，作品全语料含附材及撤回项查询 13。核心语料 article 8，全语料 article 9。",
+    "pablo-magni": "本人研究页与 Radboud 学位论文、Martinelli 等合署 nodal singularities 刊本相符。 作者端 3，默认作品端 2，作品全语料含附材及撤回项查询 3。核心语料 article 1，全语料 article 1。",
+    "manuel-hoff": "同组名册及本人关于 Shimura 模型的学位论文和 parahoric displays 具名署名对应。 作者端 7，默认作品端 6，作品全语料含附材及撤回项查询 7。核心语料 article 2，全语料 article 2。",
+    "henning-krause": "本人教授档、代表作及 CV 与 OpenAlex 合作者、Bielefeld 及 Paderborn 轨迹相符。全语料端索引 203，读首 200 条并抽查高引表示论和几何论文。 作者端 203，默认作品端 185，作品全语料含附材及撤回项查询 203。核心语料 article 123，全语料 article 129。",
+    "luigi-martinelli": "本人 CV 及主页证实 Bielefeld 代数几何作者。OpenAlex 扩展语料把 O’Grady 预印本与大量心外科文献归到 A5107834765，结节奇点刊本作者署名未连 ID。Princeton 的同名作者从事流体力学。Google Scholar 未找到可核的本人档。",
+    "haitao-zou": "以本人校方主页 ORCID 和 2026-11-01 CV 确认同名数学作者。OpenAlex 本人档 6 项含两篇期刊刊本，只覆盖本人站五个独立刊本的一部分。作者完整累计引文未核到可信来源。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -6695,6 +6716,897 @@
         {
           "title": "Distribution dependent SDEs with singular coefficients",
           "url": "https://doi.org/10.1016/j.spa.2018.12.012"
+        }
+      ]
+    },
+    "ana-maria-botero": {
+      "name": "Ana María Botero",
+      "checkedAt": "2026-11-26",
+      "status": "articles",
+      "note": "当前教授名册、校方任命及 TRR B7 档案签署对应。2024 年 Springer 论文通讯署名与学校一致，排除环境化学 Ana Botero-Coy 和记载乳腺癌的同名字档。 扩展语料出现机构通用占位记录 “New Quick And Easy Publication” 和 Contributors 类附材。作者全档案数与引文保留复核。逐看核心语料 9 条 article 均为该数学作者。 作者端 19，默认作品端 14，作品全语料含附材及撤回项查询 19。核心语料 article 9，全语料 article 10。",
+      "authorId": "A5029079985",
+      "candidate_url": "https://openalex.org/authors/A5029079985",
+      "authorApiUrl": "https://api.openalex.org/authors/A5029079985",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5029079985&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5029079985&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5029079985,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5029079985,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 19,
+      "indexedWorksCount": 19,
+      "coreWorksCount": 14,
+      "articles": 9,
+      "allCorpusArticles": 10,
+      "citations": 75,
+      "alternatives": [
+        "https://openalex.org/authors/A5025483821",
+        "https://openalex.org/authors/A5109193445"
+      ],
+      "sample": [
+        {
+          "title": "Chern–Weil and Hilbert–Samuel formulae for singular Hermitian line bundles",
+          "url": "https://doi.org/10.4171/dm/x36"
+        },
+        {
+          "title": "Intersection theory of toric 𝑏-divisors in toric varieties",
+          "url": "https://doi.org/10.1090/jag/721"
+        },
+        {
+          "title": "Rings of Siegel–Jacobi forms of bounded relative index are not finitely generated",
+          "url": "https://doi.org/10.1215/00127094-2023-0059"
+        },
+        {
+          "title": "Toroidal b-divisors and Monge–Ampère measures",
+          "url": "https://doi.org/10.1007/s00209-021-02789-5"
+        },
+        {
+          "title": "Convex analysis on polyhedral spaces",
+          "url": "https://doi.org/10.1007/s00209-021-02869-6"
+        }
+      ]
+    },
+    "stefan-bauer": {
+      "name": "Stefan Bauer",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "Bielefeld 学校名册、本人及几何组署名与 Inventiones Bauer–Furuta 系列、JDG 四维流形论文互证。排除慕尼黑机器学习和 Marburg 免疫学的同名者。 扩展条目含论文预印本和博士论文章节。核心 article 为数据库类型口径。 作者端 26，默认作品端 22，作品全语料含附材及撤回项查询 26。核心语料 article 17，全语料 article 17。",
+      "authorId": "A5062654588",
+      "candidate_url": "https://openalex.org/authors/A5062654588",
+      "authorApiUrl": "https://api.openalex.org/authors/A5062654588",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5062654588&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5062654588&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5062654588,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5062654588,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 26,
+      "indexedWorksCount": 26,
+      "coreWorksCount": 22,
+      "articles": 17,
+      "allCorpusArticles": 17,
+      "citations": 566,
+      "alternatives": [
+        "https://openalex.org/authors/A5083708821",
+        "https://openalex.org/authors/A5018488407"
+      ],
+      "sample": [
+        {
+          "title": "A stable cohomotopy refinement of Seiberg-Witten invariants: I",
+          "url": "https://doi.org/10.1007/s00222-003-0288-5"
+        },
+        {
+          "title": "A stable cohomotopy refinement of Seiberg-Witten invariants: II",
+          "url": "https://doi.org/10.1007/s00222-003-0289-4"
+        },
+        {
+          "title": "Parabolic bundles, elliptic surfaces andSU(2)-representation spaces of genus zero Fuchsian groups",
+          "url": "https://doi.org/10.1007/bf01459257"
+        },
+        {
+          "title": "Almost complex 4-manifolds with vanishing first Chern class",
+          "url": "https://doi.org/10.4310/jdg/1207834656"
+        },
+        {
+          "title": "Refined Seiberg-Witten Invariants",
+          "url": "https://doi.org/10.1007/0-306-48658-x_1"
+        }
+      ]
+    },
+    "matthias-erbar": {
+      "name": "Matthias Erbar",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "数学系官网与正式任命互证，学校直接链接 Scholar；校方出版物中 JEMS 热流及 Bochner 论文与数学作者一致。 核对扩展条目 arXiv:1012.2718 的作者为本人，热流与 Ricci 研究亦相符。 作者端 38，默认作品端 31，作品全语料含附材及撤回项查询 38。核心语料 article 25，全语料 article 26。",
+      "authorId": "A5113876577",
+      "candidate_url": "https://openalex.org/authors/A5113876577",
+      "authorApiUrl": "https://api.openalex.org/authors/A5113876577",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5113876577&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5113876577&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5113876577,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5113876577,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 38,
+      "indexedWorksCount": 38,
+      "coreWorksCount": 31,
+      "articles": 25,
+      "allCorpusArticles": 26,
+      "citations": 1364,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "On the equivalence of the entropic curvature-dimension condition and Bochner’s inequality on metric measure spaces",
+          "url": "https://doi.org/10.1007/s00222-014-0563-7"
+        },
+        {
+          "title": "The heat equation on manifolds as a gradient flow in the Wasserstein space",
+          "url": "https://doi.org/10.1214/08-aihp306"
+        },
+        {
+          "title": "Gradient flow structures for discrete porous medium equations",
+          "url": "https://doi.org/10.3934/dcds.2014.34.1355"
+        },
+        {
+          "title": "Gradient flows of the entropy for jump processes",
+          "url": "https://doi.org/10.1214/12-aihp537"
+        },
+        {
+          "title": "Optimal transport, Cheeger energies and contractivity of dynamic transport distances in extended spaces",
+          "url": "https://doi.org/10.1016/j.na.2015.12.006"
+        }
+      ],
+      "scholarEvidence": {
+        "source": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/erbar/publications/",
+        "profile": "https://scholar.google.com/citations?user=YVsTSNoAAAAJ&hl=en",
+        "citations": 1902,
+        "note": "院校具名页面直链作者档，与本人代表作和机构互证。"
+      }
+    },
+    "alexander-grigor-yan": {
+      "name": "Alexander Grigor'yan",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "校方带几何分析方向的具名主页及 Riemannian 热核论文对应。搜索另有共享相同 ORCID 的生物作者，排除微生物及石油主题档。 扩展收录本人热核专著及早期论文。已排除 ORCID 误挂在生物档，当前数学档的高引结果与本人论文和书目一致。 作者端 177，默认作品端 164，作品全语料含附材及撤回项查询 177。核心语料 article 120，全语料 article 125。",
+      "authorId": "A5066524478",
+      "candidate_url": "https://openalex.org/authors/A5066524478",
+      "authorApiUrl": "https://api.openalex.org/authors/A5066524478",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5066524478&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5066524478&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5066524478,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5066524478,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 177,
+      "indexedWorksCount": 177,
+      "coreWorksCount": 164,
+      "articles": 120,
+      "allCorpusArticles": 125,
+      "citations": 9188,
+      "alternatives": [
+        "https://openalex.org/authors/A5049445222"
+      ],
+      "sample": [
+        {
+          "title": "Analytic and geometric background of recurrence and non-explosion of the Brownian motion on Riemannian manifolds",
+          "url": "https://doi.org/10.1090/s0273-0979-99-00776-4"
+        },
+        {
+          "title": "Heat kernel and analysis on manifolds",
+          "url": "https://openalex.org/W7074616160"
+        },
+        {
+          "title": "THE HEAT EQUATION ON NONCOMPACT RIEMANNIAN MANIFOLDS",
+          "url": "https://doi.org/10.1070/sm1992v072n01abeh001410"
+        },
+        {
+          "title": "Heat kernels on weighted manifolds and applications",
+          "url": "https://doi.org/10.1090/conm/398/07486"
+        },
+        {
+          "title": "Heat kernel upper bounds on a complete non-compact manifold",
+          "url": "https://doi.org/10.4171/rmi/157"
+        }
+      ],
+      "scholarEvidence": {
+        "source": "https://www.math.uni-bielefeld.de/~grigor/pubs.htm",
+        "profile": "https://scholar.google.com/citations?user=GD5L9z0AAAAJ&hl=en",
+        "citations": 10950,
+        "note": "院校具名页面直链作者档，与本人代表作和机构互证。"
+      }
+    },
+    "lukas-kuhne": {
+      "name": "Lukas Kühne",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "本人校方页、TRR 项目及 IMRN 椭圆模曲面论文互证，排除 Freiburg 医学同名档。 全语料含数据与 Oberwolfach 短报告，核心文章数沿用数据库的严格类型过滤。 作者端 35，默认作品端 30，作品全语料含附材及撤回项查询 35。核心语料 article 22，全语料 article 25。",
+      "authorId": "A5058200401",
+      "candidate_url": "https://openalex.org/authors/A5058200401",
+      "authorApiUrl": "https://api.openalex.org/authors/A5058200401",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5058200401&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5058200401&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5058200401,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5058200401,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 35,
+      "indexedWorksCount": 35,
+      "coreWorksCount": 30,
+      "articles": 22,
+      "allCorpusArticles": 25,
+      "citations": 267,
+      "alternatives": [
+        "https://openalex.org/authors/A5112875769"
+      ],
+      "sample": [
+        {
+          "title": "Likelihood degenerations",
+          "url": "https://doi.org/10.1016/j.aim.2023.108863"
+        },
+        {
+          "title": "Computing Characteristic Polynomials of Hyperplane Arrangements with Symmetries",
+          "url": "https://doi.org/10.1007/s00454-023-00557-2"
+        },
+        {
+          "title": "The Universality of the Resonance Arrangement and Its Betti Numbers",
+          "url": "https://doi.org/10.1007/s00493-023-00006-x"
+        },
+        {
+          "title": "Computing the nonfree locus of the moduli space of arrangements and Terao’s freeness conjecture",
+          "url": "https://doi.org/10.1090/mcom/3812"
+        },
+        {
+          "title": "On entropic and almost multilinear representability of matroids",
+          "url": "https://doi.org/10.1215/00127094-2025-0047"
+        }
+      ],
+      "scholarEvidence": {
+        "source": "https://www.math.uni-bielefeld.de/~lkuehne/",
+        "profile": "https://scholar.google.com/citations?user=jrl_vgsAAAAJ&hl=en",
+        "citations": 285,
+        "note": "院校具名页面直链作者档，与本人代表作和机构互证。"
+      }
+    },
+    "eike-lau": {
+      "name": "Eike Lau",
+      "checkedAt": "2026-11-26",
+      "status": "held",
+      "note": "现任教授名册与学校 2018 年任命公告，Deligne–Mumford 栈和 Dieudonné displays 论文共同核对。 数论几何及 displays 论文已确认。较早的分形和复动力系统条目需要核完独立署名及其本人履历再接受累计指标。 作者端 22，默认作品端 19，作品全语料含附材及撤回项查询 22。核心语料 article 16，全语料 article 16。",
+      "authorId": "A5084965715",
+      "candidate_url": "https://openalex.org/authors/A5084965715",
+      "authorApiUrl": "https://api.openalex.org/authors/A5084965715",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5084965715&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5084965715&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5084965715,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5084965715,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 22,
+      "indexedWorksCount": 22,
+      "coreWorksCount": 19,
+      "articles": 16,
+      "allCorpusArticles": 16,
+      "citations": 439,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "Smoothness of the truncated display functor",
+          "url": "https://doi.org/10.1090/s0894-0347-2012-00744-9"
+        },
+        {
+          "title": "Symmetries of fractals revisited",
+          "url": "https://doi.org/10.1007/bf03024816"
+        },
+        {
+          "title": "Displays and formal p-divisible groups",
+          "url": "https://doi.org/10.1007/s00222-007-0090-x"
+        },
+        {
+          "title": "Frames and finite group schemes over complete regular local rings",
+          "url": "https://doi.org/10.4171/dm/306"
+        },
+        {
+          "title": "Dieudonné theory over semiperfect rings and perfectoid rings",
+          "url": "https://doi.org/10.1112/s0010437x18007352"
+        }
+      ]
+    },
+    "michael-spie": {
+      "name": "Michael Spieß",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "数学系、TRR B6 项目、Shimura 相关代表作和 Bielefeld 数学作者匹配；排除 Saskatchewan 骨科、Aachen 医疗信息及 Chico 教育。 扩展档包含本人署名的数论章节、同题预印本和附材。核心语料单独查 article。 作者端 32，默认作品端 28，作品全语料含附材及撤回项查询 32。核心语料 article 20，全语料 article 21。",
+      "authorId": "A5111477072",
+      "candidate_url": "https://openalex.org/authors/A5111477072",
+      "authorApiUrl": "https://api.openalex.org/authors/A5111477072",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5111477072&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5111477072&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5111477072,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5111477072,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 32,
+      "indexedWorksCount": 32,
+      "coreWorksCount": 28,
+      "articles": 20,
+      "allCorpusArticles": 21,
+      "citations": 455,
+      "alternatives": [
+        "https://openalex.org/authors/A5011838406",
+        "https://openalex.org/authors/A5047257573",
+        "https://openalex.org/authors/A5158830118"
+      ],
+      "sample": [
+        {
+          "title": "On the Albanese map for smooth quasi-projective varieties",
+          "url": "https://doi.org/10.1007/s00208-002-0359-8"
+        },
+        {
+          "title": "On special zeros of p-adic L-functions of Hilbert modular forms",
+          "url": "https://doi.org/10.1007/s00222-013-0465-0"
+        },
+        {
+          "title": "Milnor K-Groups and Zero-Cycles on Products of Curves over p-Adic Fields",
+          "url": "https://doi.org/10.1023/a:1001734817103"
+        },
+        {
+          "title": "Derivatives of p-adic L-functions, Heegner cycles and monodromy modules attached to modular forms",
+          "url": "https://doi.org/10.1007/s00222-003-0306-7"
+        },
+        {
+          "title": "Shintani cocycles and the order of vanishing of $$p$$ p -adic Hecke $$L$$ L -series at $$s=0$$ s = 0",
+          "url": "https://doi.org/10.1007/s00208-013-0983-5"
+        }
+      ]
+    },
+    "charles-vial": {
+      "name": "Charles Vial",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "本人校方主页的代数循环及 hyper-Kähler 高引条目同作者档，Bielefeld 任职和 TRR C1 对应；排除北非历史同名者及 Charles-Éloi Vial。 扩展语料中同题版多数为本人预印本或附材，刊本注重按 DOI。给出数据库原作品定义。 作者端 49，默认作品端 44，作品全语料含附材及撤回项查询 49。核心语料 article 36，全语料 article 36。",
+      "authorId": "A5089099792",
+      "candidate_url": "https://openalex.org/authors/A5089099792",
+      "authorApiUrl": "https://api.openalex.org/authors/A5089099792",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5089099792&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5089099792&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5089099792,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5089099792,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 49,
+      "indexedWorksCount": 49,
+      "coreWorksCount": 44,
+      "articles": 36,
+      "allCorpusArticles": 36,
+      "citations": 1067,
+      "alternatives": [
+        "https://openalex.org/authors/A5034675927",
+        "https://openalex.org/authors/A5088309096"
+      ],
+      "sample": [
+        {
+          "title": "Algebraic cycles and fibrations",
+          "url": "https://doi.org/10.4171/dm/435"
+        },
+        {
+          "title": "The Fourier Transform for Certain HyperKähler Fourfolds",
+          "url": "https://doi.org/10.1090/memo/1139"
+        },
+        {
+          "title": "Motivic hyper-Kähler resolution conjecture, I : Generalized Kummer varieties",
+          "url": "https://doi.org/10.2140/gt.2019.23.427"
+        },
+        {
+          "title": "The generalized Franchetta conjecture for some hyper-Kähler varieties",
+          "url": "https://doi.org/10.1016/j.matpur.2019.01.018"
+        },
+        {
+          "title": "Remarks on motives of abelian type",
+          "url": "https://doi.org/10.2748/tmj/1498269623"
+        }
+      ]
+    },
+    "thomas-zink": {
+      "name": "Thomas Zink",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "Leopoldina 具名履历、本人正式发表页与 Rapoport 合著的 p-可除群作品互证；与波士顿骨科和生物化学同名作者区分。 扩展中有图书索引、附录和重录预印本，核心文章过滤明确。 作者端 48，默认作品端 39，作品全语料含附材及撤回项查询 48。核心语料 article 25，全语料 article 28。",
+      "authorId": "A5112059348",
+      "candidate_url": "https://openalex.org/authors/A5112059348",
+      "authorApiUrl": "https://api.openalex.org/authors/A5112059348",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5112059348&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5112059348&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5112059348,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5112059348,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 48,
+      "indexedWorksCount": 48,
+      "coreWorksCount": 39,
+      "articles": 25,
+      "allCorpusArticles": 28,
+      "citations": 1547,
+      "alternatives": [
+        "https://openalex.org/authors/A5057968123",
+        "https://openalex.org/authors/A5049934459",
+        "https://openalex.org/authors/A5059579092"
+      ],
+      "sample": [
+        {
+          "title": "Period Spaces for \"p\"-divisible Groups (AM-141)",
+          "url": "https://doi.org/10.1515/9781400882601"
+        },
+        {
+          "title": "The display of a formal p-divisible group",
+          "url": "https://openalex.org/W73225072"
+        },
+        {
+          "title": "DE RHAM–WITT COHOMOLOGY FOR A PROPER AND SMOOTH MORPHISM",
+          "url": "https://doi.org/10.1017/s1474748004000088"
+        },
+        {
+          "title": "Cartiertheorie kommutativer formaler Gruppen",
+          "url": "https://openalex.org/W1558369252"
+        },
+        {
+          "title": "Windows for Displays of p-Divisible Groups",
+          "url": "https://doi.org/10.1007/978-3-0348-8303-0_17"
+        }
+      ]
+    },
+    "william-crawley-boevey": {
+      "name": "William Crawley-Boevey",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "本人学校主页专门的 Scholar 链接、Bielefeld/Leeds 任职、moment map 及 Kleinian 论文互证。 扩展条目含已确认的本人讲义、论文重录及零引文字片段。核心文章和 Scholar 分别登记。 作者端 80，默认作品端 70，作品全语料含附材及撤回项查询 80。核心语料 article 61，全语料 article 68。",
+      "authorId": "A5032893378",
+      "candidate_url": "https://openalex.org/authors/A5032893378",
+      "authorApiUrl": "https://api.openalex.org/authors/A5032893378",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5032893378&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5032893378&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5032893378,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5032893378,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 80,
+      "indexedWorksCount": 80,
+      "coreWorksCount": 70,
+      "articles": 61,
+      "allCorpusArticles": 68,
+      "citations": 4176,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "Decomposition of pointwise finite-dimensional persistence modules",
+          "url": "https://doi.org/10.1142/s0219498815500668"
+        },
+        {
+          "title": "Geometry of the Moment Map for Representations of Quivers",
+          "url": "https://doi.org/10.1023/a:1017558904030"
+        },
+        {
+          "title": "Noncommutative deformations of Kleinian singularities",
+          "url": "https://doi.org/10.1215/s0012-7094-98-09218-3"
+        },
+        {
+          "title": "Locally finitely presented additive categories",
+          "url": "https://doi.org/10.1080/00927879408824927"
+        },
+        {
+          "title": "On Tame Algebras and Bocses",
+          "url": "https://doi.org/10.1112/plms/s3-56.3.451"
+        }
+      ],
+      "scholarEvidence": {
+        "source": "https://www.math.uni-bielefeld.de/~wcrawley/",
+        "profile": "https://scholar.google.com/citations?user=Ozh9p84AAAAJ&hl=en",
+        "citations": 5715,
+        "note": "院校具名页面直链作者档，与本人代表作和机构互证。"
+      }
+    },
+    "claudia-alfes-neumann": {
+      "name": "Claudia Alfes-Neumann",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "学校教授具名页及连续 Maaß forms、theta lifts 高引条目互证，与出版页的作者变体对应。 全语料仅增一条本人 harmonic weak Maaß 成果。邻域身份保留在审核记录。 作者端 41，默认作品端 40，作品全语料含附材及撤回项查询 41。核心语料 article 20，全语料 article 20。",
+      "authorId": "A5058848195",
+      "candidate_url": "https://openalex.org/authors/A5058848195",
+      "authorApiUrl": "https://api.openalex.org/authors/A5058848195",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5058848195&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5058848195&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5058848195,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5058848195,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 41,
+      "indexedWorksCount": 41,
+      "coreWorksCount": 40,
+      "articles": 20,
+      "allCorpusArticles": 20,
+      "citations": 254,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "Twisted traces of CM values of weak Maass forms",
+          "url": "https://doi.org/10.1016/j.jnt.2012.10.008"
+        },
+        {
+          "title": "Weierstrass mock modular forms and elliptic curves",
+          "url": "https://doi.org/10.1007/s40993-015-0026-2"
+        },
+        {
+          "title": "Formulas for the coefficients of half-integral weight harmonic Maaß forms",
+          "url": "https://doi.org/10.1007/s00209-014-1278-6"
+        },
+        {
+          "title": "The mock modular data of a family of superalgebras",
+          "url": "https://doi.org/10.1090/s0002-9939-2014-11959-9"
+        },
+        {
+          "title": "On a theta lift related to the Shintani lift",
+          "url": "https://doi.org/10.1016/j.aim.2018.02.015"
+        }
+      ]
+    },
+    "irfan-glogic": {
+      "name": "Irfan Glogić",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "学校主页、2026-08 CV 与 wave maps、Yang–Mills 刊本及俄亥俄州立/Vienna 过往轨迹互证。 扩展两项为本人 wave maps 或 wave equations 作品。来源类型存在书籍或预印本。 作者端 24，默认作品端 22，作品全语料含附材及撤回项查询 24。核心语料 article 17，全语料 article 18。",
+      "authorId": "A5020613414",
+      "candidate_url": "https://openalex.org/authors/A5020613414",
+      "authorApiUrl": "https://api.openalex.org/authors/A5020613414",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5020613414&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5020613414&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5020613414,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5020613414,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 24,
+      "indexedWorksCount": 24,
+      "coreWorksCount": 22,
+      "articles": 17,
+      "allCorpusArticles": 18,
+      "citations": 326,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "Mode Stability of Self-Similar Wave Maps in Higher Dimensions",
+          "url": "https://doi.org/10.1007/s00220-016-2776-7"
+        },
+        {
+          "title": "On the Stability of Self-Similar Solutions to Nonlinear Wave Equations",
+          "url": "https://doi.org/10.1007/s00220-016-2588-9"
+        },
+        {
+          "title": "Stable blowup for the supercritical hyperbolic Yang-Mills equations",
+          "url": "https://doi.org/10.1016/j.aim.2022.108633"
+        },
+        {
+          "title": "Co-dimension one stable blowup for the supercritical cubic wave equation",
+          "url": "https://doi.org/10.1016/j.aim.2021.107930"
+        },
+        {
+          "title": "Stable Singularity Formation for the Keller–Segel System in Three Dimensions",
+          "url": "https://doi.org/10.1007/s00205-023-01947-9"
+        }
+      ]
+    },
+    "matthias-ostermann": {
+      "name": "Matthias Ostermann",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "学校导师页、本人原学位论文及合作者 Glogić 符合，扩展学位论文归属已核。 作者端 9，默认作品端 8，作品全语料含附材及撤回项查询 9。核心语料 article 5，全语料 article 5。",
+      "authorId": "A5043780455",
+      "candidate_url": "https://openalex.org/authors/A5043780455",
+      "authorApiUrl": "https://api.openalex.org/authors/A5043780455",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5043780455&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5043780455&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5043780455,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5043780455,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 9,
+      "indexedWorksCount": 9,
+      "coreWorksCount": 8,
+      "articles": 5,
+      "allCorpusArticles": 5,
+      "citations": 192,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "Lagrangian theory of structure formation in relativistic cosmology: Lagrangian framework and definition of a nonperturbative approximation",
+          "url": "https://doi.org/10.1103/physrevd.86.023520"
+        },
+        {
+          "title": "Direct Minkowski Functional analysis of large redshift surveys: a new high-speed code tested on the luminous red galaxy Sloan Digital Sky Survey-DR7 catalogue",
+          "url": "https://doi.org/10.1093/mnras/stu1118"
+        },
+        {
+          "title": "Stable blowup for focusing semilinear wave equations in all dimensions",
+          "url": "https://doi.org/10.1090/tran/9069"
+        },
+        {
+          "title": "A Globally Stable Self-Similar Blowup Profile in Energy Supercritical Yang-Mills Theory",
+          "url": "https://doi.org/10.1080/03605302.2023.2263208"
+        },
+        {
+          "title": "A characterization of the subspace of radially symmetric functions in Sobolev spaces",
+          "url": "https://doi.org/10.1142/s0219199724500184"
+        }
+      ]
+    },
+    "patrick-bieker": {
+      "name": "Patrick Bieker",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "公开 ORCID 的 Bielefeld 邮箱和 Shtukas 论文刊本，与 MIT 和 Bielefeld 履历互证。 作者端 8，默认作品端 6，作品全语料含附材及撤回项查询 8。核心语料 article 3，全语料 article 3。",
+      "authorId": "A5008846744",
+      "candidate_url": "https://openalex.org/authors/A5008846744",
+      "authorApiUrl": "https://api.openalex.org/authors/A5008846744",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5008846744&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5008846744&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5008846744,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5008846744,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 8,
+      "indexedWorksCount": 8,
+      "coreWorksCount": 6,
+      "articles": 3,
+      "allCorpusArticles": 3,
+      "citations": 20,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "Integral Models of Moduli Spaces of Shtukas with Deep Bruhat-Tits Level Structures",
+          "url": "https://doi.org/10.1093/imrn/rnae091"
+        },
+        {
+          "title": "Invariants for the Weil representation and modular units for orthogonal groups of signature (2,2)",
+          "url": "https://doi.org/10.1016/j.jnt.2023.03.002"
+        },
+        {
+          "title": "Compactification of level maps of moduli spaces of Drinfeld shtukas",
+          "url": "https://doi.org/10.1016/j.jalgebra.2023.07.033"
+        },
+        {
+          "title": "Normality of Schubert varieties in affine Grassmannians",
+          "url": "https://doi.org/10.48550/arxiv.2312.11154"
+        },
+        {
+          "title": "A converse theorem for Borcherds products in signature $(2,2)$",
+          "url": "https://doi.org/10.48550/arxiv.2407.06610"
+        }
+      ]
+    },
+    "thomas-agugliaro": {
+      "name": "Thomas Agugliaro",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "CRC/Bielefeld 卡、原 Strasbourg 履历和 Documenta Mathematica 刊本对应。核心 article 暂为零，全语料另有一篇已确认刊本。 作者端 4，默认作品端 2，作品全语料含附材及撤回项查询 4。核心语料 article 0，全语料 article 1。",
+      "authorId": "A5093845317",
+      "candidate_url": "https://openalex.org/authors/A5093845317",
+      "authorApiUrl": "https://api.openalex.org/authors/A5093845317",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5093845317&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5093845317&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5093845317,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5093845317,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 4,
+      "indexedWorksCount": 4,
+      "coreWorksCount": 2,
+      "articles": 0,
+      "allCorpusArticles": 1,
+      "citations": 6,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "Examples for the standard conjecture of Hodge type",
+          "url": "https://doi.org/10.4171/dm/1057"
+        },
+        {
+          "title": "Standard conjecture of Hodge type for powers of abelian varieties",
+          "url": "https://doi.org/10.48550/arxiv.2510.21562"
+        },
+        {
+          "title": "Autour de la conjecture standard de type Hodge pour les variétés abéliennes",
+          "url": "https://doi.org/10.70675/ab5261fcz985fz4193zb0b2z1a8ee9332673"
+        },
+        {
+          "title": "On the standard conjecture of Hodge type for abelian varieties",
+          "url": "https://openalex.org/W7164250616"
+        }
+      ]
+    },
+    "salvatore-floccari": {
+      "name": "Salvatore Floccari",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "新 Humboldt 个人页、旧 Bielefeld 主页和 hyper-Kähler 代数循环刊本互证。 作者端 13，默认作品端 12，作品全语料含附材及撤回项查询 13。核心语料 article 8，全语料 article 9。",
+      "authorId": "A5072182469",
+      "candidate_url": "https://openalex.org/authors/A5072182469",
+      "authorApiUrl": "https://api.openalex.org/authors/A5072182469",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5072182469&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5072182469&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5072182469,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5072182469,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 13,
+      "indexedWorksCount": 13,
+      "coreWorksCount": 12,
+      "articles": 8,
+      "allCorpusArticles": 9,
+      "citations": 107,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "On the motive of O’Grady’s ten-dimensional hyper-Kähler varieties",
+          "url": "https://doi.org/10.1142/s0219199720500340"
+        },
+        {
+          "title": "Sixfolds of generalized Kummer type and K3 surfaces",
+          "url": "https://doi.org/10.1112/s0010437x23007625"
+        },
+        {
+          "title": "On the Mumford–Tate conjecture for hyperkähler varieties",
+          "url": "https://doi.org/10.1007/s00229-021-01316-4"
+        },
+        {
+          "title": "The Hodge conjecture for Weil fourfolds with discriminant 1 via singular OG6-varieties",
+          "url": "https://doi.org/10.1016/j.matpur.2026.103876"
+        },
+        {
+          "title": "On the motive of O'Grady's six dimensional hyper-K\\\"{a}hler varieties",
+          "url": "https://doi.org/10.46298/epiga.2022.9758"
+        }
+      ]
+    },
+    "pablo-magni": {
+      "name": "Pablo Magni",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "本人研究页与 Radboud 学位论文、Martinelli 等合署 nodal singularities 刊本相符。 作者端 3，默认作品端 2，作品全语料含附材及撤回项查询 3。核心语料 article 1，全语料 article 1。",
+      "authorId": "A5037888434",
+      "candidate_url": "https://openalex.org/authors/A5037888434",
+      "authorApiUrl": "https://api.openalex.org/authors/A5037888434",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5037888434&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5037888434&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5037888434,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5037888434,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 3,
+      "indexedWorksCount": 3,
+      "coreWorksCount": 2,
+      "articles": 1,
+      "allCorpusArticles": 1,
+      "citations": 20,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "Kernels of categorical resolutions of nodal singularities",
+          "url": "https://doi.org/10.1007/s12215-023-00895-3"
+        },
+        {
+          "title": "Derived equivalences of generalized Kummer varieties",
+          "url": "https://doi.org/10.48550/arxiv.2208.11183"
+        },
+        {
+          "title": "\\nDerived Equivalences of Generalized Kummer Varieties",
+          "url": "https://openalex.org/W7058493563"
+        }
+      ]
+    },
+    "manuel-hoff": {
+      "name": "Manuel Hoff",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "同组名册及本人关于 Shimura 模型的学位论文和 parahoric displays 具名署名对应。 作者端 7，默认作品端 6，作品全语料含附材及撤回项查询 7。核心语料 article 2，全语料 article 2。",
+      "authorId": "A5052576388",
+      "candidate_url": "https://openalex.org/authors/A5052576388",
+      "authorApiUrl": "https://api.openalex.org/authors/A5052576388",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5052576388&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5052576388&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5052576388,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5052576388,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 7,
+      "indexedWorksCount": 7,
+      "coreWorksCount": 6,
+      "articles": 2,
+      "allCorpusArticles": 2,
+      "citations": 21,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "The EKOR-stratification on the Siegel modular variety with parahoric level structure",
+          "url": "https://doi.org/10.46298/epiga.2025.10263"
+        },
+        {
+          "title": "On parahoric $(\\mathcal{G}, μ)$-displays",
+          "url": "https://doi.org/10.48550/arxiv.2311.00127"
+        },
+        {
+          "title": "Moduli Spaces of Nilpotent Displays",
+          "url": "https://doi.org/10.1093/imrn/rnaf005"
+        },
+        {
+          "title": "On the Right Derived Functors of Ordinary Parts",
+          "url": "https://doi.org/10.48550/arxiv.2508.14598"
+        },
+        {
+          "title": "On parahoric (G, mu)-displays and the EKOR stratification for Shimura varieties of Hodge type",
+          "url": "https://doi.org/10.17185/duepublico/79070"
+        }
+      ]
+    },
+    "henning-krause": {
+      "name": "Henning Krause",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "本人教授档、代表作及 CV 与 OpenAlex 合作者、Bielefeld 及 Paderborn 轨迹相符。全语料端索引 203，读首 200 条并抽查高引表示论和几何论文。 作者端 203，默认作品端 185，作品全语料含附材及撤回项查询 203。核心语料 article 123，全语料 article 129。",
+      "authorId": "A5042319087",
+      "candidate_url": "https://openalex.org/authors/A5042319087",
+      "authorApiUrl": "https://api.openalex.org/authors/A5042319087",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5042319087&corpus=all&include_parts=true&include_pulled=true",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5042319087&corpus=core",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5042319087,type:article&corpus=core&per_page=1&select=id",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5042319087,type:article&corpus=all&per_page=1&select=id",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 203,
+      "indexedWorksCount": 203,
+      "coreWorksCount": 185,
+      "articles": 123,
+      "allCorpusArticles": 129,
+      "citations": 5597,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "the stable derived category of a noetherian scheme",
+          "url": "https://doi.org/10.1112/s0010437x05001375"
+        },
+        {
+          "title": "Localization theory for triangulated categories",
+          "url": "https://doi.org/10.1017/cbo9781139107075.005"
+        },
+        {
+          "title": "Krull–Schmidt categories and projective covers",
+          "url": "https://doi.org/10.1016/j.exmath.2015.10.001"
+        },
+        {
+          "title": "Local cohomology and support for triangulated categories",
+          "url": "https://doi.org/10.24033/asens.2076"
+        },
+        {
+          "title": "Smashing subcategories and the telescope conjecture – an algebraic approach",
+          "url": "https://doi.org/10.1007/s002229900022"
+        }
+      ]
+    },
+    "luigi-martinelli": {
+      "name": "Luigi Martinelli",
+      "checkedAt": "2026-11-26",
+      "status": "held",
+      "note": "本人 CV 及主页证实 Bielefeld 代数几何作者。OpenAlex 扩展语料把 O’Grady 预印本与大量心外科文献归到 A5107834765，结节奇点刊本作者署名未连 ID。Princeton 的同名作者从事流体力学。Google Scholar 未找到可核的本人档。",
+      "authorId": "A5107834765",
+      "candidate_url": "https://openalex.org/authors/A5107834765",
+      "worksCount": 181,
+      "citations": 4773,
+      "alternatives": [
+        "https://openalex.org/authors/A5043716841"
+      ],
+      "sample": [
+        {
+          "title": "HIGHER-DIMENSIONAL O'GRADY'S RESOLUTIONS AND THEIR EXCEPTIONAL LOCUS",
+          "url": "https://openalex.org/W7169643172"
+        }
+      ]
+    },
+    "haitao-zou": {
+      "name": "Haitao Zou",
+      "checkedAt": "2026-11-26",
+      "status": "held",
+      "note": "以本人校方主页 ORCID 和 2026-11-01 CV 确认同名数学作者。OpenAlex 本人档 6 项含两篇期刊刊本，只覆盖本人站五个独立刊本的一部分。作者完整累计引文未核到可信来源。",
+      "authorId": "A5051861901",
+      "candidate_url": "https://openalex.org/authors/A5051861901",
+      "authorApiUrl": "https://api.openalex.org/authors/https://orcid.org/0000-0003-1929-913X",
+      "worksCount": 6,
+      "articles": 2,
+      "citations": 9,
+      "sample": [
+        {
+          "title": "Supersingular O’Grady Varieties of Dimension Six",
+          "url": "https://doi.org/10.1093/imrn/rnaa349"
+        },
+        {
+          "title": "A note on Fourier–Mukai partners of abelian varieties over positive characteristic fields",
+          "url": "https://doi.org/10.1215/21562261-2023-0008"
         }
       ]
     }

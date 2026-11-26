@@ -1,8 +1,8 @@
 # 几何学者库进度
 
 更新日期 2026-11-26。QS 2026 数学 200 所，软科 GRAS 2026 数学 100 所，两榜合并去重 222 所。已登记来源 222 所，至少有一个已解析来源 222 所。
-目录去重后共 20659 条学者与学校记录，来源外的任职或研究交叉需要继续复核。
-网页收录 1308 位，覆盖 220 所。有个人主页 824 位、公开 CV 422 位、发表列表 609 位、代表作 499 位、机构或作者计数 234 位、OpenAlex 指标 371 位、Google Scholar 指标 24 位。
+目录去重后共 21083 条学者与学校记录，来源外的任职或研究交叉需要继续复核。
+网页收录 1317 位，覆盖 220 所。有个人主页 833 位、公开 CV 424 位、发表列表 619 位、代表作 508 位、机构或作者计数 234 位、OpenAlex 指标 379 位、Google Scholar 指标 27 位。
 有 6738 个个人页面的可读访问记录。校级全名单对账完成 16 所。
 
 ## 公开 CV 链接复核
@@ -15,7 +15,7 @@
 
 ## 最近一轮作者档案复核
 
-2026-11-26 逐项核对 9 位学者的 ORCID、具名论文和机构资料。确认 1 个 OpenAlex 作者档案，搁置 8 个有身份或作品争议的 OpenAlex 档案，另确认 2 个 Google Scholar 作者档案。归属证据、替代计量和检索结果见学者字段复核表。
+2026-11-26 逐项核对 21 位学者的 ORCID、具名论文和机构资料。确认 17 个 OpenAlex 作者档案，搁置 4 个有身份或作品争议的 OpenAlex 档案，另确认 4 个 Google Scholar 作者档案。归属证据、替代计量和检索结果见学者字段复核表。
 
 ## 原待查批次
 
@@ -106,7 +106,7 @@
 | 苏黎世大学 | =109 | 51-75 | 工作名单 | [Applied Algebra Group · members](https://www.math.uzh.ch/aa/members) · [Number Theory and Dynamics · Claire Burrin group](https://user.math.uzh.ch/burrin/) · [Institute of Mathematics · guest listing](https://www.math.uzh.ch/en/guests/) · [Institute of Mathematics · German member listing](https://www.math.uzh.ch/mitglieder?type=0) · [Institute of Mathematics · Members (academic personnel)](https://www.math.uzh.ch/en/members/) · [SwissMAP · UZH Cattaneo profile](https://www.nccr-swissmap.ch/members/profile/view/27) · [Institute of Mathematics · Mathematical Physics Group](https://www.math.uzh.ch/cattaneogroup/members) · [Institute of Mathematics · ProfessorInnen](https://www.math.uzh.ch/professuren?type=0) | 4 | 4 / 3 / 4 | 1 |
 | 浙江师范大学 | — | 51-75 | 工作名单 | [数学科学学院师资队伍](https://sxxy.zjnu.edu.cn/16531/list.htm) · [数学科学学院数学学科](https://sxxy.zjnu.edu.cn/2023/0922/c16670a447649/page.htm) · [数学科学学院学科导师介绍](https://sxxy.zjnu.edu.cn/2022/0318/c16672a414540/page.htm) | 2 | 0 / 0 / 1 | 108 |
 | 巴塞罗那自治大学 | 151-200 | 76-100 | 工作名单 | [Departament de Matemàtiques · Personal docent](https://mat.uab.cat/departament/uab/totpersonal.php?cat=unit&lang=eng&tipus=prof) · [Departament de Matemàtiques · Professors by category](https://mat.uab.cat/departament/uab/totpersonal_nou.php?cat=cate&lang=eng&tipus=prof) · [Personal del Departament de Matemàtiques](https://mat.uab.cat/departament/uab/totpersonal.php?cat=unit&lang=esp&tipus=prof) · [Geometria Aritmètica · People](https://mat.uab.cat/geoarit/index.php/people) · [Departament de Matemàtiques · Portal de Recerca](https://portalrecerca.uab.cat/ca/organisations/departament-de-matem%C3%A0tiques/persons/) | 6 | 4 / 0 / 1 | 71 |
-| 比勒费尔德大学 | — | 76-100 | 工作名单 | [Algebraic and Arithmetic Geometry](https://www.math.uni-bielefeld.de/arithgeo/) · [Groups and Geometry](https://www.math.uni-bielefeld.de/groupsgeometry/index.php) | 1 | 1 / 0 / 1 | 5 |
+| 比勒费尔德大学 | — | 76-100 | 工作名单 | [Algebraic and Arithmetic Geometry · current and historical groups](https://www.math.uni-bielefeld.de/arithgeo/) · [Bielefeld Representation Theory Group](https://www.math.uni-bielefeld.de/birep/people.php) · [Physics · Astroparticle Physics, Cosmology and Gravitation](https://www.uni-bielefeld.de/fakultaeten/physik/forschung/cosmology/) · [Groups and Geometry · working groups](https://www.math.uni-bielefeld.de/groupsgeometry/index.php) · [Physics · High Energy Physics research groups](https://www.uni-bielefeld.de/fakultaeten/physik/forschung/hochenergiephysik/) · [Faculty of Mathematics · 技术及行政类别](https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/mtv/) · [Faculty of Mathematics · 各任职类别合并表](https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/) · [Faculty of Mathematics · 原教授和荣休类别](https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/emeriti/) · [Faculty of Mathematics · 教授类别](https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/profs-1/) · [Faculty of Mathematics · 7 research-area tables](https://www.uni-bielefeld.de/fakultaeten/mathematik/forschung/forschungsgebiete/) · [Faculty of Mathematics · 学术人员栏目](https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/akademische_mitarbeitende/) · [Physics · Mathematical Physics Group](https://www.uni-bielefeld.de/fakultaeten/physik/forschung/mathphys/) · [Faculty of Technology · Research Groups](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/) · [TRR 358 · cross-institution investigators](https://trr358.math.uni-bielefeld.de/People) | 10 | 10 / 2 / 9 | 226 |
 | 康奈尔大学 | =32 | 76-100 | 工作名单 | [数学系 Department Faculty](https://math.cornell.edu/faculty) · [Geometry](https://math.cornell.edu/research/geometry) | 4 | 3 / 2 / 2 | 20 |
 | 哈尔滨工业大学 | 95 | 76-100 | 工作名单 | [数学学院副教授](https://math.hit.edu.cn/fjs/list.htm) · [数学学院教授](https://math.hit.edu.cn/js/list.htm) · [数学学院研究方向](https://math.hit.edu.cn/10291/list.htm) | 2 | 0 / 0 / 0 | 7 |
 | 巴黎综合理工学院联盟 | 24 | 76-100 | 工作名单 | [Department of Mathematics](https://www.ip-paris.fr/en/research/research-departments-laboratories-centers-and-projects/departments/department-mathematics) · [École Polytechnique CMLS](https://portail.polytechnique.edu/cmls/presentation) · [CMLS · Géométrie et Dynamique](https://portail.polytechnique.edu/cmls/recherche/geometrie-et-dynamique) · [CMLS · Organigramme](https://portail.polytechnique.edu/cmls/presentation/organigramme) | 2 | 2 / 0 / 0 | 8 |
@@ -304,6 +304,7 @@
 - 苏黎世大学。上轮从校方可读快照登记 14 位现任、3 位访问及 9 位荣休或 titular。2026-11-25 重查教授总表、英德人员入口、访客入口均返回 Anubis 验证页，保留前次可读证据。替代来源涵盖本人的学校主页、Cattaneo 组、应用代数组、SwissMAP 具名档案、ZGSM 和任命公告。Christoph Kehle 的 UZH 主职及 MIT 在编休假已核，原误作 MIT 离任已更正。Nima Moshayedi 的校方教学项目与 PD 身份已查，仍缺现任科研聘用类型。研究站其余人员及访客覆盖仍待官方替代入口补核。
 - 浙江师范大学。已查数学科学学院现任师资队伍、校方学术报告与近期出版社署名，确认复几何和整体微分几何。博士招生名单包含跨单位合作，个人归属仍需对照。
 - 巴塞罗那自治大学。已从院系 People 分类页面提取 138 条人员记录，并从 Geometria Aritmètica 核对本校组员。职级及细分方向以学校档案为准。
+- 比勒费尔德大学。数学官方名册公开脚本提取全员 251、学术人员 238、教授栏具名 35、原教授／荣休 15、行政 13。读系内七个研究分栏、代数与算术几何组、几何群组、BIREP、联合 TRR 358 项目和物理三组。本人具名来源核明 Crawley-Boevey 退休、Floccari 转入柏林洪堡、Stadler 与 Letz 当前属 Paderborn。eKVV 直取返回 403，校级机构成果库返回 Anubis 挑战或拒绝。综合学术人员名册缺区分博士生、短期与持续聘任的逐人资料。CRC 跨校人员和技术学院组尚待逐任职来源归属，当前保留工作名单。
 - 巴黎综合理工学院联盟。已查 CMLS 几何与动力小组的常任／非常任入口及 École polytechnique 个人档案。IP Paris 其他成员研究单位及 CNRS 共同归属待核。
 - 让·莫内大学。已核录学校官方 Saint-Étienne 校区 ICJ 成员分栏；方向与个人资料未公开的项目仍待核。
 - 约翰斯·霍普金斯大学。读完数学系 50 张和应用数学与统计系常规 50、次聘与研究兼职 31、博士后 15 张卡片。交叉查看 MINDS 常任和 Research Faculty、AMS 研究分组与 DSAI 新任名单。补记不变量理论、黎曼优化、形状统计和计算几何的交叉人员。 MINDS 另核录常规 40、科研 5、Fellows 4、博士后 2 位，分辨旧校名和现任。DSAI 巡查了 22 位新聘公告及其分页目录，截至本批完整分页人员仍需复核。 续核 DSAI 目录第 1–15 页 180 张具名卡。截至本次校方目录报告 24 页 280 条，公开命令行入口返回 HTTP 403，公开网页索引第 16–24 页也无法读取；剩余 100 条成员卡未查全。补查 DSAI 2026–27 在岗博士后 5 人、关联中心总表、物理的宇宙学与引力 15 人及理论粒子 7 人。确认 Bah、Berti 和 Carroll 的交叉方向。Chi Li 的 2026-08-12 CV 同时列 Rutgers Professor 和 JHU Research Professor；保留已证双任职。复核八位已入库学者的公开 CV、论文书目和引用归属，有访问失败和同名混入的字段保留逐人记录。
@@ -436,7 +437,8 @@
 - 巴斯大学 · Algebra, geometry, and number theory members。已保存网页，目录为动态列表或结构尚未对账。 [Algebra, geometry, and number theory members](https://www.bath.ac.uk/teams/algebra-geometry-and-number-theory-members/)
 - 北京航空航天大学 · 科研方向-北京航空航天大学 数学科学学院。已保存网页，目录为动态列表或结构尚未对账。 [科研方向-北京航空航天大学 数学科学学院](https://math.buaa.edu.cn/jxky/kyfx.htm)
 - 加州大学伯克利分校 · 数学系 Geometry/Topology。已保存网页，目录为动态列表或结构尚未对账。 [数学系 Geometry/Topology](https://math.berkeley.edu/research/areas/geometry-topology)
-- 比勒费尔德大学 · Groups and Geometry。已保存网页，目录为动态列表或结构尚未对账。 [Groups and Geometry](https://www.math.uni-bielefeld.de/groupsgeometry/index.php)
+- 比勒费尔德大学 · Physics · High Energy Physics research groups。尚未取得网页。 [Physics · High Energy Physics research groups](https://www.uni-bielefeld.de/fakultaeten/physik/forschung/hochenergiephysik/)
+- 比勒费尔德大学 · Faculty of Technology · Research Groups。尚未取得网页。 [Faculty of Technology · Research Groups](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/)
 - 伯明翰大学 · Geometry and Mathematical Physics。已保存网页，目录为动态列表或结构尚未对账。 [Geometry and Mathematical Physics](https://www.birmingham.ac.uk/research/centres-institutes/research-in-mathematics/geometry-and-mathematical-physics-research-group)
 - 伯明翰大学 · 数学系或所属学院人员入口。已保存网页，目录为动态列表或结构尚未对账。 [数学系或所属学院人员入口](https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-sciences/mathematics/people/academic)
 - 北京理工大学 · 数学系-北京理工大学数学与统计学院。网页请求超时。 [数学系-北京理工大学数学与统计学院](https://math.bit.edu.cn/szdw/jgml/sxx/index.htm)
