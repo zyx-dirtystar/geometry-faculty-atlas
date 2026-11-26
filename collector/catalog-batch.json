@@ -815,23 +815,103 @@
     {
       "id": "eth",
       "coverage": "sample",
-      "coverageNote": "已解析 7/7 个登记来源，28 条任职或方向待核。 已收录 6 位学者，个人主页 2、CV 2、指标 0。 D-MATH 4 类主聘教授及总 Faculty and Lecturers 87 项，交叉核 FIM Weyl 博士后 10 项与当前访问 21 项。另对照几何分析、辛与代数几何专题页。全体讲师、荣休与机构联合任职方向仍逐一核。",
+      "coverageNote": "已解析 9/30 个登记来源，0 条任职或方向待核。 已收录 14 位学者，个人主页 11、CV 7、指标 0。 数学教授四单位 20、4、4、4 人，组织独立教授 28，混合 Faculty and Lecturers 87，德文荣休 38。分组比对几何分析、辛与代数几何、几何与动力学，并核 ETH 2026 组织法。FIM 十名 Hermann Weyl 博士后，全年 231 次访问及 214 人，核对日 23 在访、200 次结束、8 次未开始。理论物理 15 位教授和 6 位荣休，查弦论、数学物理、ETH-ITS 和计算机图形。Stryker 已从 Stanford 转到 ETH，Aitor Iribar López 现主聘 Leiden、访 ETH。部分教师、联合研究单位和物理及计算方向未证完整。",
       "rosterLinks": [
+        [
+          "D-MATH · Faculty and lecturers",
+          "https://math.ethz.ch/the-department/people/faculty-and-lecturers.html"
+        ],
+        [
+          "D-MATH · Independent Chairs",
+          "https://math.ethz.ch/the-department/people/faculty-and-lecturers/professors.html"
+        ],
+        [
+          "D-MATH · Institute for Operations Research",
+          "https://math.ethz.ch/the-department/people/faculty-and-lecturers/professors.html"
+        ],
+        [
+          "D-MATH · Seminar for Applied Mathematics",
+          "https://math.ethz.ch/the-department/people/faculty-and-lecturers/professors.html"
+        ],
+        [
+          "D-MATH · Seminar for Statistics",
+          "https://math.ethz.ch/the-department/people/faculty-and-lecturers/professors.html"
+        ],
+        [
+          "D-MATH · Emeritierte",
+          "https://math.ethz.ch/de/das-departement/personen/emeritierte.html"
+        ],
         [
           "D-MATH · faculty and lecturers",
           "https://math.ethz.ch/the-department/people/faculty-and-lecturers.html"
+        ],
+        [
+          "FIM · Current Visitors",
+          "https://math.ethz.ch/fim/visitors/current-visitors.html"
+        ],
+        [
+          "FIM · Current Hermann Weyl Instructors",
+          "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html"
         ],
         [
           "FIM · Current visitors",
           "https://math.ethz.ch/fim/visitors/current-visitors.html"
         ],
         [
+          "FIM · Hermann Weyl Instructorship terms",
+          "https://math.ethz.ch/fim/postdocs.html"
+        ],
+        [
           "FIM · current Hermann–Weyl Instructors",
           "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html"
         ],
         [
+          "FIM · Annual Visit Schedule",
+          "https://math.ethz.ch/fim/visitors/current-visitors.html?year=2026"
+        ],
+        [
           "D-MATH Geometric Analysis and PDE",
           "https://math.ethz.ch/research/geometric-analysis-pde.html"
+        ],
+        [
+          "ETH Computer Graphics Laboratory · Faculty",
+          "https://cgl.ethz.ch/people/faculty.php"
+        ],
+        [
+          "D-MATH · Geometric Analysis and PDE",
+          "https://math.ethz.ch/research/geometric-analysis-pde.html"
+        ],
+        [
+          "D-MATH · Geometry, Groups and Dynamics",
+          "https://math.ethz.ch/research/geometry-groups-dynamics.html"
+        ],
+        [
+          "D-MATH · Symplectic and Algebraic Geometry and Topology",
+          "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology.html"
+        ],
+        [
+          "D-MATH · Independent professorships",
+          "https://math.ethz.ch/the-department/organisation/independent-professorships.html"
+        ],
+        [
+          "Institute for Theoretical Physics · Current Faculty",
+          "https://itp.phys.ethz.ch/people/professors.html"
+        ],
+        [
+          "Institute for Theoretical Physics · Emeriti",
+          "https://itp.phys.ethz.ch/people/emeriti.html"
+        ],
+        [
+          "Department of Physics · Professors by institute",
+          "https://www.phys.ethz.ch/the-department/people/professsors-by-institute.html"
+        ],
+        [
+          "Institute for Theoretical Physics · Mathematical Physics",
+          "https://itp.phys.ethz.ch/research/mathphys.html"
+        ],
+        [
+          "Institute for Theoretical Physics · Quantum Field Theory and Strings",
+          "https://itp.phys.ethz.ch/research/qftstrings.html"
         ],
         [
           "D-MATH · professors in 4 institutional units",
@@ -842,11 +922,23 @@
           "https://math.ethz.ch/the-department/people/faculty-and-lecturers/professors.html"
         ],
         [
+          "D-MATH · 2026 departmental regulations",
+          "https://ethz.ch/content/dam/ethz/main/eth-zurich/organisation/rechtssammlung/320.22.pdf"
+        ],
+        [
           "D-MATH Symplectic and Algebraic Geometry and Topology",
           "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology.html"
+        ],
+        [
+          "ETH Zurich · obituary for Dietmar Salamon",
+          "https://ethz.ch/content/dam/ethz/main/eth-zurich/ArbeitenLehrenundForschen/professuren/nachrufe/2025/251117_Nachruf_Salamon_final.pdf"
+        ],
+        [
+          "ETH Institute for Theoretical Studies",
+          "https://eth-its.ethz.ch/"
         ]
       ],
-      "checkedAt": "2026-11-25"
+      "checkedAt": "2026-11-26"
     },
     {
       "id": "epfl",
@@ -19460,42 +19552,49 @@
       "affiliations": [
         {
           "schoolId": "eth",
-          "department": "数学系",
-          "title": "Professor",
+          "department": "D-MATH",
+          "title": "Professor of Mathematics",
           "url": "https://math.ethz.ch/the-department/people.html?u=afigalli",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
-      "tags": [
-        "Geometry"
-      ],
+      "tags": [],
       "homepage": "https://people.math.ethz.ch/~afigalli/",
       "homepageStatus": null,
       "cvUrl": "https://people.math.ethz.ch/~afigalli/cv-pdf/cv-pdf.pdf",
-      "cvType": "公开学术 CV",
+      "cvType": "公开学术 CV（17 页）",
       "cvStatus": null,
       "publicationsUrl": "https://people.math.ethz.ch/~afigalli/papers",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 159,
+          "url": "https://people.math.ethz.ch/~afigalli/papers",
+          "scope": "本人完整 Published/accepted papers 分册，网页和 CV 同为编号 1–159。按编号及题名去重。包含已刊、已接受、会议论文和跨学科期刊条目，覆盖该分册 2006–2026。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "OpenAlex 具名档与本人 ETH 简介、ORCID、研究作品相符。作者端 288 包含跨年份与作品类型，采用本人双源一致的完整已发表或接受列表。累计引用的署名覆盖继续核对。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Regularity theory for nonlocal obstacle problems with critical and subcritical scaling",
+          "year": 2023,
+          "url": "https://arxiv.org/abs/2306.16008"
+        }
+      ],
       "directoryEvidence": [
         {
-          "text": "Geometry",
-          "url": "https://math.ethz.ch/research/geometric-analysis-pde.html"
-        },
-        {
-          "text": "Geometric analysis, geometric measure theory, free boundary problems, optimal transport and Monge–Ampère equations",
+          "text": "Differential geometry and geometric analysis, geometric measure theory, free boundaries, optimal transport and Monge–Ampère equations",
           "url": "https://people.math.ethz.ch/~afigalli/research"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -19505,42 +19604,43 @@
       "affiliations": [
         {
           "schoolId": "eth",
-          "department": "数学系",
-          "title": "Senior Scientist",
-          "url": "https://math.ethz.ch/the-department/organisation/independent-professorships.html",
+          "department": "D-MATH",
+          "title": "Titular Professor and Senior Scientist",
+          "url": "https://math.ethz.ch/the-department/people.html?u=acannas",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
-      "tags": [
-        "Geometry"
-      ],
+      "tags": [],
       "homepage": "https://people.math.ethz.ch/~acannas/",
       "homepageStatus": null,
       "cvUrl": "https://people.math.ethz.ch/~acannas/cv_cannas.pdf",
-      "cvType": "公开学术 CV",
+      "cvType": "公开学术 CV（6 页）",
       "cvStatus": null,
-      "publicationsUrl": null,
-      "publicationCounts": [],
+      "publicationsUrl": "https://people.math.ethz.ch/~acannas/",
+      "publicationCounts": [
+        {
+          "value": 6,
+          "url": "https://people.math.ethz.ch/~acannas/cv_cannas.pdf",
+          "scope": "本人 CV 第 4 页 Scientific Publications 全分栏 13 项，剔除专书、书章及会议文集后 6 篇期刊研究论文，1996–2018。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 88 条，作品筛选端 83 条。差异影响累计引用的覆盖核对。 书章为多数，并含书籍分章和前言，改按 CV 正式期刊分项。",
       "metrics": [],
       "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Geometry",
-          "url": "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology.html"
-        },
-        {
-          "text": "Differential geometry of symplectic manifolds, symplectic topology, toric geometry and geometry of group actions",
-          "url": "https://people.math.ethz.ch/~acannas/"
+          "text": "Differential geometry of symplectic and folded symplectic manifolds, toric geometry and Lagrangian submanifolds",
+          "url": "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology/ana-cannas-da-silva.html"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -19550,43 +19650,36 @@
       "affiliations": [
         {
           "schoolId": "eth",
-          "department": "数学系",
-          "title": "Professor",
-          "url": "https://math.ethz.ch/research/geometric-analysis-pde/francesca-da-lio.html",
+          "department": "D-MATH",
+          "title": "Titular Professor and Senior Scientist",
+          "url": "https://math.ethz.ch/the-department/people.html?u=fdalio",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
-      "tags": [
-        "Geometry",
-        "Geometric analysis"
-      ],
-      "homepage": null,
-      "homepageStatus": "现有链接由不同学者共用，未核实到独立个人主页。",
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "tags": [],
+      "homepage": "https://people.math.ethz.ch/~fdalio/",
+      "homepageStatus": null,
+      "cvUrl": "https://people.math.ethz.ch/~fdalio/cv.pdf",
+      "cvType": "公开学术 CV（11 页）",
+      "cvStatus": null,
+      "publicationsUrl": "https://people.math.ethz.ch/~fdalio/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
+      "identityNote": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 80 条，作品筛选端 58 条。差异影响累计引用的覆盖核对。",
       "metrics": [],
       "identityUrl": "https://openalex.org/A5110928738",
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Geometry",
-          "url": "https://math.ethz.ch/research/geometric-analysis-pde.html"
-        },
-        {
-          "text": "Geometric analysis",
-          "url": "https://math.ethz.ch/research/geometric-analysis-pde.html"
+          "text": "Differential geometry, geometric analysis, geometric variational problems, nonlocal harmonic maps and free-boundary surfaces",
+          "url": "https://math.ethz.ch/research/geometric-analysis-pde/francesca-da-lio.html"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -19596,43 +19689,182 @@
       "affiliations": [
         {
           "schoolId": "eth",
-          "department": "数学系",
-          "title": "Professor",
-          "url": "https://math.ethz.ch/research/geometric-analysis-pde/joaquim-serra.html",
+          "department": "D-MATH",
+          "title": "Associate Professor of Mathematics",
+          "url": "https://math.ethz.ch/the-department/people.html?u=serraj",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
-      "tags": [
-        "Geometry",
-        "Geometric analysis and elliptic PDE"
+      "tags": [],
+      "homepage": "https://people.math.ethz.ch/~serraj/",
+      "homepageStatus": null,
+      "cvUrl": "https://people.math.ethz.ch/~serraj/cv.pdf",
+      "cvType": "公开学术 CV（近版，3 页）",
+      "cvStatus": null,
+      "publicationsUrl": "https://people.math.ethz.ch/~serraj/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 69 条，作品筛选端 58 条。差异影响累计引用的覆盖核对。 A5103434835 的八条为重症和外科同名作者。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/A5103855818",
+      "papers": [
+        {
+          "title": "Obstacle problems for integro-differential operators: Regularity of solutions and free boundaries",
+          "year": 2017,
+          "url": "https://arxiv.org/abs/1601.05843"
+        },
+        {
+          "title": "Nonlocal Approximation of Minimal Surfaces: Optimal Estimates From Stability",
+          "year": 2026,
+          "url": "https://doi.org/10.1002/cpa.70063"
+        }
       ],
+      "directoryEvidence": [
+        {
+          "text": "Geometric analysis of free boundaries, minimal surfaces, variational PDE and singularities",
+          "url": "https://math.ethz.ch/research/geometric-analysis-pde/joaquim-serra.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "matthias-gaberdiel",
+      "name": "Matthias Gaberdiel",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "eth",
+          "department": "Institute for Theoretical Physics",
+          "title": "Full Professor of Physics",
+          "url": "https://itp.phys.ethz.ch/people/professors/gaberdiel.html",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "complex"
+      ],
+      "tags": [],
       "homepage": null,
-      "homepageStatus": "现有链接由不同学者共用，未核实到独立个人主页。",
+      "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
+      "identityNote": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 280 条，作品筛选端 226 条。差异影响累计引用的覆盖核对。 已读取作品查询两页。期刊、书章、预印本和较新条目混在作者总数。",
       "metrics": [],
-      "identityUrl": "https://openalex.org/A5103855818",
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Mathieu Moonshine in the elliptic genus of K3",
+          "year": 2010,
+          "url": "https://doi.org/10.1007/JHEP10(2010)062"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic and complex geometry of K3 compactifications and their automorphisms, string theory and chiral algebras",
+          "url": "https://itp.phys.ethz.ch/people/professors/gaberdiel.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "norbert-hungerbuhler",
+      "name": "Norbert Hungerbühler",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "eth",
+          "department": "D-MATH",
+          "title": "Professor of Mathematics",
+          "url": "https://math.ethz.ch/the-department/people.html?u=buhler",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.math.ch/norbert.hungerbuehler/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.math.ch/norbert.hungerbuehler/cv/",
+      "cvType": "公开学术 CV（HTML）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.math.ch/norbert.hungerbuehler/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 192 条，作品筛选端 170 条。差异影响累计引用的覆盖核对。",
+      "metrics": [],
+      "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Geometry",
-          "url": "https://math.ethz.ch/research/geometric-analysis-pde.html"
-        },
-        {
-          "text": "Geometric analysis and elliptic PDE",
-          "url": "https://math.ethz.ch/research/geometric-analysis-pde.html"
+          "text": "Differential geometry and geometric analysis, harmonic maps, geometric flows and development of mathematical models",
+          "url": "https://math.ethz.ch/the-department/people.html?u=buhler"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "paul-biran",
+      "name": "Paul Biran",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "eth",
+          "department": "D-MATH",
+          "title": "Professor of Mathematics",
+          "url": "https://math.ethz.ch/the-department/people.html?u=biranp",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "现有链接由不同学者共用，未核实到独立个人主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "院系具名研究卡与个人用户名的重定向均未列独立公开 CV。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 40 条，作品筛选端 35 条。差异影响累计引用的覆盖核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Geometry of symplectic intersections",
+          "year": 2002,
+          "url": "https://www.mathunion.org/fileadmin/ICM/Proceedings/ICM2002.2/ICM2002.2.ocr.pdf"
+        },
+        {
+          "title": "Lagrangian Non-Intersections",
+          "year": 2004,
+          "url": "https://arxiv.org/abs/math/0412110"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Symplectic geometry of Kähler manifolds, Lagrangian geometry in complex projective varieties, and algebraic geometry of Lagrangian skeleta",
+          "url": "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology/paul-biran.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -19642,20 +19874,67 @@
       "affiliations": [
         {
           "schoolId": "eth",
-          "department": "数学系",
-          "title": "Professor",
-          "url": "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology/rahul-pandharipande.html",
+          "department": "D-MATH",
+          "title": "Professor of Mathematics",
+          "url": "https://math.ethz.ch/the-department/people.html?u=rahul",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
-      "tags": [
-        "Geometry",
-        "Algebraic geometry, moduli, Gromov–Witten theory"
+      "tags": [],
+      "homepage": "https://people.math.ethz.ch/~rahul/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://people.math.ethz.ch/~rahul/papers.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 214 条，作品筛选端 166 条。差异影响累计引用的覆盖核对。 A5022648071 是美国医学重症与围手术期同姓作者档。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/A5061805366",
+      "papers": [
+        {
+          "title": "The moduli space of stable quotients",
+          "year": 2011,
+          "url": "https://doi.org/10.2140/gt.2011.15.1651"
+        },
+        {
+          "title": "The κ ring of the moduli of curves of compact type",
+          "year": 2012,
+          "url": "https://doi.org/10.1007/s11511-012-0078-2"
+        }
       ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of moduli spaces, algebraic cycles, Gromov–Witten and Donaldson–Thomas theory",
+          "url": "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology/rahul-pandharipande.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "sarah-zerbes",
+      "name": "Sarah Zerbes",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "eth",
+          "department": "D-MATH",
+          "title": "Professor of Mathematics",
+          "url": "https://math.ethz.ch/the-department/people.html?u=zerbess",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
       "homepage": null,
       "homepageStatus": "现有链接由不同学者共用，未核实到独立个人主页。",
       "cvUrl": null,
@@ -19664,21 +19943,103 @@
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
       "metrics": [],
-      "identityUrl": "https://openalex.org/A5061805366",
+      "identityUrl": null,
       "papers": [],
       "directoryEvidence": [
         {
-          "text": "Geometry",
-          "url": "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology.html"
-        },
-        {
-          "text": "Algebraic geometry, moduli, Gromov–Witten theory",
-          "url": "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology.html"
+          "text": "Arithmetic geometry, Euler systems, motives and the arithmetic of automorphic representations",
+          "url": "https://math.ethz.ch/the-department/people.html?u=zerbess"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "svitlana-mayboroda",
+      "name": "Svitlana Mayboroda",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "eth",
+          "department": "D-MATH",
+          "title": "Professor of Mathematics",
+          "url": "https://math.ethz.ch/the-department/people.html?u=smayboroda",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://people.math.ethz.ch/~smayboroda/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://people.math.ethz.ch/~smayboroda/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 130 条，作品筛选端 120 条。差异影响累计引用的覆盖核对。 A5076327499 的高被引条目集中于代谢组及临床生化，与本人 PDE 方向不符。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Geometric analysis, quantitative rectifiability, harmonic measure and geometric properties of elliptic PDE",
+          "url": "https://math.ethz.ch/research/geometric-analysis-pde/svitlana-mayboroda.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "thomas-hans-willwacher",
+      "name": "Thomas Hans Willwacher",
+      "aliases": [
+        "Thomas Willwacher"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "eth",
+          "department": "D-MATH",
+          "title": "Professor of Mathematics",
+          "url": "https://math.ethz.ch/the-department/people.html?u=wilthoma",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://people.math.ethz.ch/~wilthoma/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "独立 CV 待核对。",
+      "publicationsUrl": "https://people.math.ethz.ch/~wilthoma/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 138 条，作品筛选端 110 条。差异影响累计引用的覆盖核对。 具名档混入高被引光学成像论文及相关会议作品。整档的累计引用不能归本人。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "M. Kontsevich’s graph complex and the Grothendieck–Teichmüller Lie algebra",
+          "year": 2015,
+          "url": "https://doi.org/10.1007/s00222-014-0528-x"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and topology of moduli spaces of curves, graph complexes and connections with deformation quantization",
+          "url": "https://math.ethz.ch/the-department/people.html?u=wilthoma"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -19688,43 +20049,147 @@
       "affiliations": [
         {
           "schoolId": "eth",
-          "department": "数学系",
-          "title": "Professor",
-          "url": "https://math.ethz.ch/research/geometric-analysis-pde/tristan-riviere.html",
+          "department": "D-MATH",
+          "title": "Professor of Mathematics",
+          "url": "https://math.ethz.ch/the-department/people.html?u=triviere",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "differential"
       ],
-      "tags": [
-        "Geometry",
-        "Geometric analysis"
+      "tags": [],
+      "homepage": "https://people.math.ethz.ch/~triviere/",
+      "homepageStatus": null,
+      "cvUrl": "https://people.math.ethz.ch/~triviere/cv",
+      "cvType": "公开学术 CV（HTML）",
+      "cvStatus": null,
+      "publicationsUrl": "https://people.math.ethz.ch/~triviere/publications-all",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "OpenAlex 具名档以 ETH、ORCID 及 Willmore 正式论文互证。作者端 165 与作品端 151 不一致。本人网站全书目 129 条含论文、学位章节、报告及待刊，继续核对分类型。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/A5030592089",
+      "papers": [
+        {
+          "title": "Conservation laws for conformally invariant variational problems",
+          "year": 2007,
+          "url": "https://doi.org/10.1007/s00222-006-0023-0"
+        }
       ],
-      "homepage": null,
-      "homepageStatus": "现有链接由不同学者共用，未核实到独立个人主页。",
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis of minimal surfaces, harmonic maps and conformally invariant variational problems",
+          "url": "https://math.ethz.ch/research/geometric-analysis-pde/tristan-riviere.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "urs-lang",
+      "name": "Urs Lang",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "eth",
+          "department": "D-MATH",
+          "title": "Professor of Mathematics",
+          "url": "https://math.ethz.ch/the-department/people.html?u=lang",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://people.math.ethz.ch/~lang/",
+      "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5030592089",
-      "papers": [],
-      "directoryEvidence": [
+      "publicationsUrl": "https://people.math.ethz.ch/~lang/publications.html",
+      "publicationCounts": [
         {
-          "text": "Geometry",
-          "url": "https://math.ethz.ch/research/geometric-analysis-pde.html"
-        },
-        {
-          "text": "Geometric analysis",
-          "url": "https://math.ethz.ch/research/geometric-analysis-pde.html"
+          "value": 33,
+          "url": "https://openalex.org/A5010880979",
+          "scope": "具名作品查询所得不同正式期刊 DOI。排除明显报告、更正、非正式预印本及无 DOI。",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "opportunities": [],
+      "identityNote": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 52 条，作品筛选端 39 条。差异影响累计引用的覆盖核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Local currents in metric spaces",
+          "year": 2011,
+          "url": "https://www.research-collection.ethz.ch/entities/publication/d0ca0e05-1baf-490a-92f4-57bce3297389"
+        },
+        {
+          "title": "Injective hulls of certain discrete metric spaces and groups",
+          "year": 2013,
+          "url": "https://arxiv.org/abs/1107.5971"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, metric geometry, geometric measure theory and analysis on singular metric spaces",
+          "url": "https://math.ethz.ch/research/geometry-groups-dynamics/urs-lang.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "yilin-wang",
+      "name": "Yilin Wang",
+      "aliases": [
+        "王藝霖",
+        "王艺霖"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "eth",
+          "department": "D-MATH",
+          "title": "Associate Professor of Mathematics",
+          "url": "https://math.ethz.ch/the-department/people.html?u=yilwang",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://yilwang.weebly.com/",
+      "homepageStatus": null,
+      "cvUrl": "https://yilwang.weebly.com/cv.html",
+      "cvType": "公开学术 CV（HTML）",
+      "cvStatus": null,
+      "publicationsUrl": "https://yilwang.weebly.com/research.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "Loewner 链 JEMS 正式论文中的 ETH 和 ORCID 锁定正确档 A5100449856。作者端 34 与作品端 30 不一致，后者含访谈、学位论文与同题预印本。其余近名档属工程、生物和计算机领域。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The energy of a deterministic Loewner chain: reversibility and interpretation via SLE₀₊",
+          "year": 2019,
+          "url": "https://doi.org/10.4171/JEMS/876"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry, conformal geometry, Teichmüller theory, Loewner energy and conformally invariant probability",
+          "url": "https://math.ethz.ch/news-and-events/news/d-math-news/2025/07/yilin-wang-appointed-associate-professor.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {

@@ -677,7 +677,24 @@
     "daniil-rudenko": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
     "akhil-mathew": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
     "benson-farb": "OpenAlex 主档夹有教学资料、演讲、会议与书章，作者端 182 与作品端口径不同。改用作者完整书目计算明确期刊范围，累计引用留待找到可核验来源。",
-    "kazuya-kato": "候选主档混入癌症、手术和材料研究同名记录。校方指南和署名期刊可证数学身份。尚未找到身份明晰的累计作者档或独立完整书目。"
+    "kazuya-kato": "候选主档混入癌症、手术和材料研究同名记录。校方指南和署名期刊可证数学身份。尚未找到身份明晰的累计作者档或独立完整书目。",
+    "paul-biran": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 40 条，作品筛选端 35 条。差异影响累计引用的覆盖核对。",
+    "urs-lang": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 52 条，作品筛选端 39 条。差异影响累计引用的覆盖核对。",
+    "francesca-da-lio": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 80 条，作品筛选端 58 条。差异影响累计引用的覆盖核对。",
+    "joaquim-serra": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 69 条，作品筛选端 58 条。差异影响累计引用的覆盖核对。 A5103434835 的八条为重症和外科同名作者。",
+    "svitlana-mayboroda": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 130 条，作品筛选端 120 条。差异影响累计引用的覆盖核对。 A5076327499 的高被引条目集中于代谢组及临床生化，与本人 PDE 方向不符。",
+    "thomas-hans-willwacher": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 138 条，作品筛选端 110 条。差异影响累计引用的覆盖核对。 具名档混入高被引光学成像论文及相关会议作品。整档的累计引用不能归本人。",
+    "norbert-hungerbuhler": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 192 条，作品筛选端 170 条。差异影响累计引用的覆盖核对。",
+    "ana-cannas-da-silva": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 88 条，作品筛选端 83 条。差异影响累计引用的覆盖核对。 书章为多数，并含书籍分章和前言，改按 CV 正式期刊分项。",
+    "rahul-pandharipande": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 214 条，作品筛选端 166 条。差异影响累计引用的覆盖核对。 A5022648071 是美国医学重症与围手术期同姓作者档。",
+    "matthias-gaberdiel": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 280 条，作品筛选端 226 条。差异影响累计引用的覆盖核对。 已读取作品查询两页。期刊、书章、预印本和较新条目混在作者总数。",
+    "sobhan-seyfaddini": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 39 条，作品筛选端 35 条。差异影响累计引用的覆盖核对。",
+    "alessandro-giacchetto": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 27 条，作品筛选端 23 条。差异影响累计引用的覆盖核对。",
+    "douglas-stryker": "2026 ETH CV、FIM 当前名册和合著论文确定作者与新机构。OpenAlex 具名 ID 的 14 项中有误标为 paratext 的正式刊本并缺 Annals 论文。CV 取两段完整书目。",
+    "alessio-figalli": "OpenAlex 具名档与本人 ETH 简介、ORCID、研究作品相符。作者端 288 包含跨年份与作品类型，采用本人双源一致的完整已发表或接受列表。累计引用的署名覆盖继续核对。",
+    "tristan-riviere": "OpenAlex 具名档以 ETH、ORCID 及 Willmore 正式论文互证。作者端 165 与作品端 151 不一致。本人网站全书目 129 条含论文、学位章节、报告及待刊，继续核对分类型。",
+    "yilin-wang": "Loewner 链 JEMS 正式论文中的 ETH 和 ORCID 锁定正确档 A5100449856。作者端 34 与作品端 30 不一致，后者含访谈、学位论文与同题预印本。其余近名档属工程、生物和计算机领域。",
+    "denis-nesterov": "ETH 任聘、作者材料、JAMS 文章和合作者核定两个同人 OpenAlex 档。A5038303953 列五条带正式期刊 DOI，A5122021508 列四条另行的预印本。高位近名 A5041558892 是化学研究者。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -3450,6 +3467,221 @@
       "url": "https://openalex.org/A5105889775",
       "alternativeAuthorIds": [
         "A5013290477"
+      ]
+    },
+    "paul-biran": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 40 条，作品筛选端 35 条。差异影响累计引用的覆盖核对。",
+      "identitySources": [
+        "https://math.ethz.ch/the-department/people.html?u=biranp",
+        "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology/paul-biran.html",
+        "https://www.mathunion.org/fileadmin/ICM/Proceedings/ICM2002.2/ICM2002.2.ocr.pdf",
+        "https://arxiv.org/abs/math/0412110"
+      ],
+      "authorId": "A5036380338",
+      "url": "https://openalex.org/A5036380338"
+    },
+    "urs-lang": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 52 条，作品筛选端 39 条。差异影响累计引用的覆盖核对。",
+      "identitySources": [
+        "https://math.ethz.ch/the-department/people.html?u=lang",
+        "https://math.ethz.ch/research/geometry-groups-dynamics/urs-lang.html",
+        "https://www.research-collection.ethz.ch/entities/publication/d0ca0e05-1baf-490a-92f4-57bce3297389",
+        "https://arxiv.org/abs/1107.5971"
+      ],
+      "authorId": "A5010880979",
+      "url": "https://openalex.org/A5010880979"
+    },
+    "francesca-da-lio": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 80 条，作品筛选端 58 条。差异影响累计引用的覆盖核对。",
+      "identitySources": [
+        "https://math.ethz.ch/the-department/people.html?u=fdalio",
+        "https://math.ethz.ch/research/geometric-analysis-pde/francesca-da-lio.html"
+      ],
+      "authorId": "A5110928738",
+      "url": "https://openalex.org/A5110928738"
+    },
+    "joaquim-serra": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 69 条，作品筛选端 58 条。差异影响累计引用的覆盖核对。 A5103434835 的八条为重症和外科同名作者。",
+      "identitySources": [
+        "https://math.ethz.ch/the-department/people.html?u=serraj",
+        "https://math.ethz.ch/research/geometric-analysis-pde/joaquim-serra.html",
+        "https://arxiv.org/abs/1601.05843",
+        "https://doi.org/10.1002/cpa.70063"
+      ],
+      "authorId": "A5103855818",
+      "url": "https://openalex.org/A5103855818",
+      "alternativeAuthorIds": [
+        "A5103434835"
+      ]
+    },
+    "svitlana-mayboroda": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 130 条，作品筛选端 120 条。差异影响累计引用的覆盖核对。 A5076327499 的高被引条目集中于代谢组及临床生化，与本人 PDE 方向不符。",
+      "identitySources": [
+        "https://math.ethz.ch/the-department/people.html?u=smayboroda",
+        "https://math.ethz.ch/research/geometric-analysis-pde/svitlana-mayboroda.html"
+      ],
+      "authorId": "A5085165654",
+      "url": "https://openalex.org/A5085165654",
+      "alternativeAuthorIds": [
+        "A5076327499"
+      ]
+    },
+    "thomas-hans-willwacher": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 138 条，作品筛选端 110 条。差异影响累计引用的覆盖核对。 具名档混入高被引光学成像论文及相关会议作品。整档的累计引用不能归本人。",
+      "identitySources": [
+        "https://math.ethz.ch/the-department/people.html?u=wilthoma",
+        "https://math.ethz.ch/the-department/people.html?u=wilthoma",
+        "https://doi.org/10.1007/s00222-014-0528-x"
+      ],
+      "authorId": "A5005254307",
+      "url": "https://openalex.org/A5005254307"
+    },
+    "norbert-hungerbuhler": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 192 条，作品筛选端 170 条。差异影响累计引用的覆盖核对。",
+      "identitySources": [
+        "https://math.ethz.ch/the-department/people.html?u=buhler",
+        "https://math.ethz.ch/the-department/people.html?u=buhler"
+      ],
+      "authorId": "A5051847827",
+      "url": "https://openalex.org/A5051847827"
+    },
+    "ana-cannas-da-silva": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 88 条，作品筛选端 83 条。差异影响累计引用的覆盖核对。 书章为多数，并含书籍分章和前言，改按 CV 正式期刊分项。",
+      "identitySources": [
+        "https://math.ethz.ch/the-department/people.html?u=acannas",
+        "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology/ana-cannas-da-silva.html"
+      ],
+      "authorId": "A5057189640",
+      "url": "https://openalex.org/A5057189640"
+    },
+    "rahul-pandharipande": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 214 条，作品筛选端 166 条。差异影响累计引用的覆盖核对。 A5022648071 是美国医学重症与围手术期同姓作者档。",
+      "identitySources": [
+        "https://math.ethz.ch/the-department/people.html?u=rahul",
+        "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology/rahul-pandharipande.html",
+        "https://doi.org/10.2140/gt.2011.15.1651",
+        "https://doi.org/10.1007/s11511-012-0078-2"
+      ],
+      "authorId": "A5061805366",
+      "url": "https://openalex.org/A5061805366",
+      "alternativeAuthorIds": [
+        "A5022648071"
+      ]
+    },
+    "matthias-gaberdiel": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 280 条，作品筛选端 226 条。差异影响累计引用的覆盖核对。 已读取作品查询两页。期刊、书章、预印本和较新条目混在作者总数。",
+      "identitySources": [
+        "https://itp.phys.ethz.ch/people/professors/gaberdiel.html",
+        "https://itp.phys.ethz.ch/people/professors/gaberdiel.html",
+        "https://doi.org/10.1007/JHEP10(2010)062"
+      ],
+      "authorId": "A5056302975",
+      "url": "https://openalex.org/A5056302975"
+    },
+    "sobhan-seyfaddini": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 39 条，作品筛选端 35 条。差异影响累计引用的覆盖核对。",
+      "identitySources": [
+        "https://math.ethz.ch/the-department/people.html?u=sseyfaddini",
+        "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology/sobhan-seyfaddini.html"
+      ],
+      "authorId": "A5018608331",
+      "url": "https://openalex.org/A5018608331"
+    },
+    "alessandro-giacchetto": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "具名 OpenAlex 档与校方任职、研究专题和作品交叉。作者端 27 条，作品筛选端 23 条。差异影响累计引用的覆盖核对。",
+      "identitySources": [
+        "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "https://sites.google.com/view/alessandrogiacchetto"
+      ],
+      "authorId": "A5064232914",
+      "url": "https://openalex.org/A5064232914"
+    },
+    "douglas-stryker": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "2026 ETH CV、FIM 当前名册和合著论文确定作者与新机构。OpenAlex 具名 ID 的 14 项中有误标为 paratext 的正式刊本并缺 Annals 论文。CV 取两段完整书目。",
+      "identitySources": [
+        "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "https://people.math.ethz.ch/~dstryker/",
+        "https://doi.org/10.4007/annals.2026.204.1.5"
+      ],
+      "authorId": "A5070726875",
+      "url": "https://openalex.org/A5070726875"
+    },
+    "alessio-figalli": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 具名档与本人 ETH 简介、ORCID、研究作品相符。作者端 288 包含跨年份与作品类型，采用本人双源一致的完整已发表或接受列表。累计引用的署名覆盖继续核对。",
+      "identitySources": [
+        "https://math.ethz.ch/the-department/people.html?u=afigalli",
+        "https://people.math.ethz.ch/~afigalli/research",
+        "https://arxiv.org/abs/2306.16008"
+      ],
+      "authorId": "A5021329629",
+      "url": "https://openalex.org/A5021329629"
+    },
+    "tristan-riviere": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 具名档以 ETH、ORCID 及 Willmore 正式论文互证。作者端 165 与作品端 151 不一致。本人网站全书目 129 条含论文、学位章节、报告及待刊，继续核对分类型。",
+      "identitySources": [
+        "https://math.ethz.ch/the-department/people.html?u=triviere",
+        "https://math.ethz.ch/research/geometric-analysis-pde/tristan-riviere.html",
+        "https://doi.org/10.1007/s00222-006-0023-0"
+      ],
+      "authorId": "A5030592089",
+      "url": "https://openalex.org/A5030592089"
+    },
+    "yilin-wang": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "Loewner 链 JEMS 正式论文中的 ETH 和 ORCID 锁定正确档 A5100449856。作者端 34 与作品端 30 不一致，后者含访谈、学位论文与同题预印本。其余近名档属工程、生物和计算机领域。",
+      "identitySources": [
+        "https://math.ethz.ch/the-department/people.html?u=yilwang",
+        "https://math.ethz.ch/news-and-events/news/d-math-news/2025/07/yilin-wang-appointed-associate-professor.html",
+        "https://doi.org/10.4171/JEMS/876"
+      ],
+      "authorId": "A5100449856",
+      "url": "https://openalex.org/A5100449856"
+    },
+    "denis-nesterov": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "ETH 任聘、作者材料、JAMS 文章和合作者核定两个同人 OpenAlex 档。A5038303953 列五条带正式期刊 DOI，A5122021508 列四条另行的预印本。高位近名 A5041558892 是化学研究者。",
+      "identitySources": [
+        "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "https://sites.google.com/view/denisnesterov/home",
+        "https://doi.org/10.1090/jams/1088"
+      ],
+      "authorId": "A5038303953",
+      "url": "https://openalex.org/A5038303953",
+      "alternativeAuthorIds": [
+        "A5122021508",
+        "A5041558892"
       ]
     }
   }

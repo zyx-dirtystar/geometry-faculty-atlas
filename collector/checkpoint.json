@@ -2732,6 +2732,66 @@
       "note": ""
     },
     {
+      "id": "eth-all-lecturers-b46",
+      "school": "eth",
+      "url": "https://math.ethz.ch/the-department/people/faculty-and-lecturers.html",
+      "label": "D-MATH · Faculty and lecturers",
+      "status": "reference",
+      "count": 87,
+      "checked_at": "2026-11-26",
+      "note": "全表 87 名具名人员，无后页。包含常任教授、职衔教授、资深研究员、教师、Privatdozent 和联属。按具名身份核对，混合名册不证明同一职级。"
+    },
+    {
+      "id": "eth-dmath-independent-chairs-b46",
+      "school": "eth",
+      "url": "https://math.ethz.ch/the-department/people/faculty-and-lecturers/professors.html",
+      "label": "D-MATH · Independent Chairs",
+      "status": "reference",
+      "count": 20,
+      "checked_at": "2026-11-26",
+      "note": "现行 Professors 页面该单位分区 20 位。人员与个人档交叉核对，实际职级与研究另有证据。"
+    },
+    {
+      "id": "eth-dmath-institute-for-operations-research-b46",
+      "school": "eth",
+      "url": "https://math.ethz.ch/the-department/people/faculty-and-lecturers/professors.html",
+      "label": "D-MATH · Institute for Operations Research",
+      "status": "reference",
+      "count": 4,
+      "checked_at": "2026-11-26",
+      "note": "现行 Professors 页面该单位分区 4 位。人员与个人档交叉核对，实际职级与研究另有证据。"
+    },
+    {
+      "id": "eth-dmath-seminar-for-applied-mathematics-b46",
+      "school": "eth",
+      "url": "https://math.ethz.ch/the-department/people/faculty-and-lecturers/professors.html",
+      "label": "D-MATH · Seminar for Applied Mathematics",
+      "status": "reference",
+      "count": 4,
+      "checked_at": "2026-11-26",
+      "note": "现行 Professors 页面该单位分区 4 位。人员与个人档交叉核对，实际职级与研究另有证据。"
+    },
+    {
+      "id": "eth-dmath-seminar-for-statistics-b46",
+      "school": "eth",
+      "url": "https://math.ethz.ch/the-department/people/faculty-and-lecturers/professors.html",
+      "label": "D-MATH · Seminar for Statistics",
+      "status": "reference",
+      "count": 4,
+      "checked_at": "2026-11-26",
+      "note": "现行 Professors 页面该单位分区 4 位。人员与个人档交叉核对，实际职级与研究另有证据。"
+    },
+    {
+      "id": "eth-emeriti-b46",
+      "school": "eth",
+      "url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+      "label": "D-MATH · Emeritierte",
+      "status": "parsed",
+      "count": 38,
+      "checked_at": "2026-11-26",
+      "note": "德文官方荣休名册 38 位，英语猜测路径均返回 404。对照系研究组、个人履历以及最近荣休和讣告。"
+    },
+    {
       "id": "eth-faculty31",
       "school": "eth",
       "url": "https://math.ethz.ch/the-department/people/faculty-and-lecturers.html",
@@ -2740,6 +2800,26 @@
       "count": 87,
       "checked_at": "2026-11-25",
       "note": "共 87 项，和 4 个单位的主聘教授名单逐名对照。新增条目用校方个人页核对职位。"
+    },
+    {
+      "id": "eth-fim-current-b46",
+      "school": "eth",
+      "url": "https://math.ethz.ch/fim/visitors/current-visitors.html",
+      "label": "FIM · Current Visitors",
+      "status": "reference",
+      "count": 23,
+      "checked_at": "2026-11-26",
+      "note": "官方开放表 23 次访问，23 个具名人员。同名重复访问按起讫核对。核对日的 23 条与年度明细完全一致。"
+    },
+    {
+      "id": "eth-fim-current-weyl-b46",
+      "school": "eth",
+      "url": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+      "label": "FIM · Current Hermann Weyl Instructors",
+      "status": "parsed",
+      "count": 10,
+      "checked_at": "2026-11-26",
+      "note": "十名具名博士后，分别核研究与任期。Douglas Stryker 的 ETH 本人新 CV 同时写明过往 Stanford 及 2026–2029 ETH。"
     },
     {
       "id": "eth-fim-visitors31",
@@ -2752,6 +2832,16 @@
       "note": "21 条具名访问任职，保留本单位和官网访问时间。"
     },
     {
+      "id": "eth-fim-weyl-terms-b46",
+      "school": "eth",
+      "url": "https://math.ethz.ch/fim/postdocs.html",
+      "label": "FIM · Hermann Weyl Instructorship terms",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "官方 Call 和职位条件给出固定期、教学责任及拟入职方式。具名名单另行核对。"
+    },
+    {
       "id": "eth-fim-weyl31",
       "school": "eth",
       "url": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
@@ -2762,6 +2852,16 @@
       "note": "校方定义的十位固定期博士后。"
     },
     {
+      "id": "eth-fim-year-2026-b46",
+      "school": "eth",
+      "url": "https://math.ethz.ch/fim/visitors/current-visitors.html?year=2026",
+      "label": "FIM · Annual Visit Schedule",
+      "status": "reference",
+      "count": 231,
+      "checked_at": "2026-11-26",
+      "note": "官方开放表 231 次访问，214 个具名人员。同名重复访问按起讫核对。 截至 2026-11-26，全年已结束 200、在访 23、未来 8。"
+    },
+    {
       "id": "eth-geometric-analysis",
       "school": "eth",
       "url": "https://math.ethz.ch/research/geometric-analysis-pde.html",
@@ -2770,6 +2870,106 @@
       "count": 6,
       "checked_at": "2026-11-23",
       "note": ""
+    },
+    {
+      "id": "eth-graphics-b46",
+      "school": "eth",
+      "url": "https://cgl.ethz.ch/people/faculty.php",
+      "label": "ETH Computer Graphics Laboratory · Faculty",
+      "status": "reference",
+      "count": 3,
+      "checked_at": "2026-11-26",
+      "note": "People 另分 Faculty、Staff、Postdocs、PhD 和 Alumni。当前教师分册三人，按研究任务与三类基础几何分别判定。早先 geometry.ethz.ch 无法解析。"
+    },
+    {
+      "id": "eth-group-geometric-analysis-pde-b46",
+      "school": "eth",
+      "url": "https://math.ethz.ch/research/geometric-analysis-pde.html",
+      "label": "D-MATH · Geometric Analysis and PDE",
+      "status": "reference",
+      "count": 7,
+      "checked_at": "2026-11-26",
+      "note": "研究页 7 位按常任、资深研究员或荣休分别辨别。个人课题与正式任职独立互校。"
+    },
+    {
+      "id": "eth-group-geometry-groups-dynamics-b46",
+      "school": "eth",
+      "url": "https://math.ethz.ch/research/geometry-groups-dynamics.html",
+      "label": "D-MATH · Geometry, Groups and Dynamics",
+      "status": "reference",
+      "count": 4,
+      "checked_at": "2026-11-26",
+      "note": "研究页 4 位按常任、资深研究员或荣休分别辨别。个人课题与正式任职独立互校。"
+    },
+    {
+      "id": "eth-group-symplectic-algebraic-geometry-topology-b46",
+      "school": "eth",
+      "url": "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology.html",
+      "label": "D-MATH · Symplectic and Algebraic Geometry and Topology",
+      "status": "reference",
+      "count": 5,
+      "checked_at": "2026-11-26",
+      "note": "研究页 5 位按常任、资深研究员或荣休分别辨别。个人课题与正式任职独立互校。"
+    },
+    {
+      "id": "eth-independent-b46",
+      "school": "eth",
+      "url": "https://math.ethz.ch/the-department/organisation/independent-professorships.html",
+      "label": "D-MATH · Independent professorships",
+      "status": "reference",
+      "count": 28,
+      "checked_at": "2026-11-26",
+      "note": "组织表 28 位。与 20 人主聘分类和 87 人混合名单交叉。额外的项目或职衔教授逐人依当前任命。"
+    },
+    {
+      "id": "eth-physics-current-b46",
+      "school": "eth",
+      "url": "https://itp.phys.ethz.ch/people/professors.html",
+      "label": "Institute for Theoretical Physics · Current Faculty",
+      "status": "reference",
+      "count": 15,
+      "checked_at": "2026-11-26",
+      "note": "具名教授总页 15 条。数学物理与弦理论组依正式任职、作品和组成员角色校正。"
+    },
+    {
+      "id": "eth-physics-emeriti-b46",
+      "school": "eth",
+      "url": "https://itp.phys.ethz.ch/people/emeriti.html",
+      "label": "Institute for Theoretical Physics · Emeriti",
+      "status": "reference",
+      "count": 6,
+      "checked_at": "2026-11-26",
+      "note": "独立荣休分栏六位，根据具名校方详情核查退休和历史研究。"
+    },
+    {
+      "id": "eth-physics-groups-b46",
+      "school": "eth",
+      "url": "https://www.phys.ethz.ch/the-department/people/professsors-by-institute.html",
+      "label": "Department of Physics · Professors by institute",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "四所跨院物理研究机构分别核对。数学物理及弦方向去理论物理所具名名单与课题原文。"
+    },
+    {
+      "id": "eth-physics-mathphys-b46",
+      "school": "eth",
+      "url": "https://itp.phys.ethz.ch/research/mathphys.html",
+      "label": "Institute for Theoretical Physics · Mathematical Physics",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "公开研究分组用于确认主方向。教授、科研助理、博士后和校外协作另按组织名册。"
+    },
+    {
+      "id": "eth-physics-qftstrings-b46",
+      "school": "eth",
+      "url": "https://itp.phys.ethz.ch/research/qftstrings.html",
+      "label": "Institute for Theoretical Physics · Quantum Field Theory and Strings",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "公开研究分组用于确认主方向。教授、科研助理、博士后和校外协作另按组织名册。"
     },
     {
       "id": "eth-prof31",
@@ -2792,6 +2992,16 @@
       "note": ""
     },
     {
+      "id": "eth-regulations-b46",
+      "school": "eth",
+      "url": "https://ethz.ch/content/dam/ethz/main/eth-zurich/organisation/rechtssammlung/320.22.pdf",
+      "label": "D-MATH · 2026 departmental regulations",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "现行组织条例附录自 2026-09-01 生效，支持组织及人事口径。具名职位由院系卡和任聘／本人 CV 核验。"
+    },
+    {
       "id": "eth-sagt",
       "school": "eth",
       "url": "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology.html",
@@ -2800,6 +3010,26 @@
       "count": 4,
       "checked_at": "2026-11-23",
       "note": ""
+    },
+    {
+      "id": "eth-salamon-2025-b46",
+      "school": "eth",
+      "url": "https://ethz.ch/content/dam/ethz/main/eth-zurich/ArbeitenLehrenundForschen/professuren/nachrufe/2025/251117_Nachruf_Salamon_final.pdf",
+      "label": "ETH Zurich · obituary for Dietmar Salamon",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "官方讣告用于历史身份核对。科研主页或旧研究组成员表保留的身份不能覆盖死亡公告。"
+    },
+    {
+      "id": "eth-theoretical-studies-b46",
+      "school": "eth",
+      "url": "https://eth-its.ethz.ch/",
+      "label": "ETH Institute for Theoretical Studies",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-26",
+      "note": "研究所官方站公开活动及部分跨聘线索。错误泛用 /people 路径为 404，继续查人员分类与任职期限。"
     },
     {
       "id": "exeter-full-audit-source",
@@ -79540,6 +79770,614 @@
       }
     },
     {
+      "source": "eth-emeriti-b46",
+      "person_key": "alainsolsznitman",
+      "school": "eth",
+      "record": {
+        "name": "Alain-Sol Sznitman",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=alains",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "alessandraiozzi",
+      "school": "eth",
+      "record": {
+        "name": "Alessandra Iozzi",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=aiozzi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "aloisgisler",
+      "school": "eth",
+      "record": {
+        "name": "Alois Gisler",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=agisler",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "arminbarth",
+      "school": "eth",
+      "record": {
+        "name": "Armin Barth",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=barthar",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "corneliuconstantinescu",
+      "school": "eth",
+      "record": {
+        "name": "Corneliu Constantinescu",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=constant",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "danielstoffer",
+      "school": "eth",
+      "record": {
+        "name": "Daniel Stoffer",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=stoffer",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "demetrioschristodoulou",
+      "school": "eth",
+      "record": {
+        "name": "Demetrios Christodoulou",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=dchristo",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "eugenetrubowitz",
+      "school": "eth",
+      "record": {
+        "name": "Eugene Trubowitz",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=trubowit",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "freddydelbaen",
+      "school": "eth",
+      "record": {
+        "name": "Freddy Delbaen",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=delbaen",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "giovannifelder",
+      "school": "eth",
+      "record": {
+        "name": "Giovanni Felder",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=felder",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "gisbertwustholz",
+      "school": "eth",
+      "record": {
+        "name": "Gisbert Wüstholz",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=wgisbert",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "guidomislin",
+      "school": "eth",
+      "record": {
+        "name": "Guido Mislin",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=mislin",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "halilmetesoner",
+      "school": "eth",
+      "record": {
+        "name": "Halil Mete Soner",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=hmsoner",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "hansbuhlmann",
+      "school": "eth",
+      "record": {
+        "name": "Hans Bühlmann",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=hbuhl",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "hansjakobluthi",
+      "school": "eth",
+      "record": {
+        "name": "Hans-Jakob Lüthi",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=hluethi",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "hansrudolfkunsch",
+      "school": "eth",
+      "record": {
+        "name": "Hans-Rudolf Künsch",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=hkuensch",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "horstknorrer",
+      "school": "eth",
+      "record": {
+        "name": "Horst Knörrer",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=khorst",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "jorgwaldvogel",
+      "school": "eth",
+      "record": {
+        "name": "Jörg Waldvogel",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=joergw",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "jurgmarti",
+      "school": "eth",
+      "record": {
+        "name": "Jürg Marti",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=jmarti",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "kasparnipp",
+      "school": "eth",
+      "record": {
+        "name": "Kaspar Nipp",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=nipp",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "kristinebarro",
+      "school": "eth",
+      "record": {
+        "name": "Kristine Barro",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=barrok",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "marcburger",
+      "school": "eth",
+      "record": {
+        "name": "Marc Burger",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=burger",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "martingutknecht",
+      "school": "eth",
+      "record": {
+        "name": "Martin Gutknecht",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=mhg",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "martinmachler",
+      "school": "eth",
+      "record": {
+        "name": "Martin Mächler",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=maechler",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "martinschweizer",
+      "school": "eth",
+      "record": {
+        "name": "Martin Schweizer",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=mschweiz",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "mauricecochand",
+      "school": "eth",
+      "record": {
+        "name": "Maurice Cochand",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=cochand",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "maxalbertknus",
+      "school": "eth",
+      "record": {
+        "name": "Max Albert Knus",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=mknus",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "michaelstruwe",
+      "school": "eth",
+      "record": {
+        "name": "Michael Struwe",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=struwe",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "nicolaimeinshausen",
+      "school": "eth",
+      "record": {
+        "name": "Nicolai Meinshausen",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=nicolai",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "paulembrechts",
+      "school": "eth",
+      "record": {
+        "name": "Paul Embrechts",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=embrecht",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "peterthurnheer",
+      "school": "eth",
+      "record": {
+        "name": "Peter Thurnheer",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=tpeter",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "renesperb",
+      "school": "eth",
+      "record": {
+        "name": "René Sperb",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=sperb",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "richardpink",
+      "school": "eth",
+      "record": {
+        "name": "Richard Pink",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=pinkri",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "saravandegeer",
+      "school": "eth",
+      "record": {
+        "name": "Sara van de Geer",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=vsara",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "urskirchgraber",
+      "school": "eth",
+      "record": {
+        "name": "Urs Kirchgraber",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=kurs",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "ursstammbach",
+      "school": "eth",
+      "record": {
+        "name": "Urs Stammbach",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=stammb",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "wernerstahel",
+      "school": "eth",
+      "record": {
+        "name": "Werner Stahel",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=stahel",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-emeriti-b46",
+      "person_key": "wesleypetersen",
+      "school": "eth",
+      "record": {
+        "name": "Wesley Petersen",
+        "title": "Professor Emeritus",
+        "research": "",
+        "profile": "https://math.ethz.ch/de/the-department/people.html?u=wpp",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/de/das-departement/personen/emeritierte.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
       "source": "eth-faculty31",
       "person_key": "afonsosousabandeira",
       "school": "eth",
@@ -80929,6 +81767,166 @@
         "source_kind": "department",
         "source_url": "https://math.ethz.ch/the-department/people/faculty-and-lecturers.html",
         "checked_at": "2026-11-25"
+      }
+    },
+    {
+      "source": "eth-fim-current-weyl-b46",
+      "person_key": "alessandrogiacchetto",
+      "school": "eth",
+      "record": {
+        "name": "Alessandro Giacchetto",
+        "title": "Hermann Weyl Instructor · postdoctoral appointment",
+        "research": "Enumerative algebraic geometry of moduli spaces of curves and topological recursion",
+        "profile": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "homepage": "https://sites.google.com/view/alessandrogiacchetto",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-fim-current-weyl-b46",
+      "person_key": "camillobrena",
+      "school": "eth",
+      "record": {
+        "name": "Camillo Brena",
+        "title": "Hermann Weyl Instructor · postdoctoral appointment",
+        "research": "Geometric analysis on metric measure spaces, curvature bounds and synthetic differential geometry",
+        "profile": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "homepage": "https://sites.google.com/view/camillobrena",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-fim-current-weyl-b46",
+      "person_key": "damarismeier",
+      "school": "eth",
+      "record": {
+        "name": "Damaris Meier",
+        "title": "Hermann Weyl Instructor · postdoctoral appointment",
+        "research": "Geometric analysis of metric surfaces, Sobolev mappings and quasiconformal uniformization",
+        "profile": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "homepage": "https://people.math.ethz.ch/~damameier/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-fim-current-weyl-b46",
+      "person_key": "denisnesterov",
+      "school": "eth",
+      "record": {
+        "name": "Denis Nesterov",
+        "title": "Hermann Weyl Instructor · postdoctoral appointment",
+        "research": "Algebraic geometry of moduli spaces, Gromov–Witten theory and stable pair invariants",
+        "profile": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "homepage": "https://sites.google.com/view/denisnesterov/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-fim-current-weyl-b46",
+      "person_key": "douglasstryker",
+      "school": "eth",
+      "record": {
+        "name": "Douglas Stryker",
+        "title": "Hermann Weyl Instructor · postdoctoral appointment",
+        "research": "Differential geometry and geometric analysis of minimal hypersurfaces, min-max and scalar curvature",
+        "profile": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "homepage": "https://people.math.ethz.ch/~dstryker/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-fim-current-weyl-b46",
+      "person_key": "istvankadar",
+      "school": "eth",
+      "record": {
+        "name": "Istvan Kadar",
+        "title": "Hermann Weyl Instructor · postdoctoral appointment",
+        "research": "Geometric analysis and Lorentzian geometry of nonlinear wave equations in general relativity",
+        "profile": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "homepage": "https://istisk.github.io/website/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-fim-current-weyl-b46",
+      "person_key": "martirosetjulia",
+      "school": "eth",
+      "record": {
+        "name": "Marti Roset Julià",
+        "title": "Hermann Weyl Instructor · postdoctoral appointment",
+        "research": "Arithmetic geometry, number theory and modular forms",
+        "profile": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "homepage": "https://sites.google.com/view/martirosetjulia",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-fim-current-weyl-b46",
+      "person_key": "noahstevenson",
+      "school": "eth",
+      "record": {
+        "name": "Noah Stevenson",
+        "title": "Hermann Weyl Instructor · postdoctoral appointment",
+        "research": "Applied PDE, waves and fluid dynamics",
+        "profile": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "homepage": "https://people.math.ethz.ch/~nstevenson/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-fim-current-weyl-b46",
+      "person_key": "petervanhintum",
+      "school": "eth",
+      "record": {
+        "name": "Peter van Hintum",
+        "title": "Hermann Weyl Instructor · postdoctoral appointment",
+        "research": "Geometric inequalities, convexity and analysis",
+        "profile": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "homepage": "https://sites.google.com/view/petervanhintum/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eth-fim-current-weyl-b46",
+      "person_key": "sahardiskin",
+      "school": "eth",
+      "record": {
+        "name": "Sahar Diskin",
+        "title": "Hermann Weyl Instructor · postdoctoral appointment",
+        "research": "Probabilistic combinatorics and random graphs",
+        "profile": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "homepage": "https://sites.google.com/mail.tau.ac.il/sahar-diskin/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://math.ethz.ch/fim/postdocs/current-hermann-weyl-instructors.html",
+        "checked_at": "2026-11-26"
       }
     },
     {
@@ -448224,58 +449222,6 @@
       "record": {
         "research": "Analysis Geometry",
         "homepage": "https://sites.google.com/view/zhihanw",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://math.ethz.ch/research/geometric-analysis-pde/francesca-da-lio.html",
-      "cache_id": "profile-9261bf20f9c4613b",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "https://math.ethz.ch/",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://math.ethz.ch/research/geometric-analysis-pde/joaquim-serra.html",
-      "cache_id": "profile-fb8f46fe5d2f4028",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "https://math.ethz.ch/",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://math.ethz.ch/research/geometric-analysis-pde/tristan-riviere.html",
-      "cache_id": "profile-eeb90333dbd9c0c0",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "https://math.ethz.ch/",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-23"
-      },
-      "checked_at": "2026-11-23"
-    },
-    {
-      "url": "https://math.ethz.ch/research/symplectic-algebraic-geometry-topology/rahul-pandharipande.html",
-      "cache_id": "profile-7745910e88793188",
-      "status": "parsed",
-      "record": {
-        "research": "",
-        "homepage": "https://math.ethz.ch/",
         "cv": "",
         "publications": "",
         "checked_at": "2026-11-23"
