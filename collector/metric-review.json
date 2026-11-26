@@ -393,7 +393,7 @@
     "jason-d-lotay": "已核对个人公开作品并排查两个 DOI。OpenAlex 作品署名未能稳定落到一个唯一作者档案。",
     "haesong-seo": "IMRN 论文与 SNU 任职确认身份。OpenAlex 尚未提供足够的当前和历史机构信息验证整个作者档案。",
     "takeshi-ikeda": "至少一个公开 DOI 在 OpenAlex 请求未返回作品。需按公开 ORCID、姓名与第二个唯一匹配代表作再消歧。",
-    "hong-hansol": "匹配两所任职及几何代表作，但 OpenAlex 档案还包含关于分子对接、细胞毒性的高引研究，未证实该论文来自同一位数学学者。总数和引用量待核。",
+    "hong-hansol": "OpenAlex 对应 ORCID 的作者档有生化和病理同名作品，例如 10.1016/j.bioorg.2019.103445，累计引用不可归属。Google Scholar 具名作者查找未验证到公开档。另列 CV Published 和机构范围。",
     "andrei-teleman": "已核其几何代表作，但 OpenAlex 同一作者档案包括非本人主编的 Several Complex Variables 合辑，需核对合辑层级的条目归属和计量。",
     "jingyi-chen": "已核 UBC 研究任职和 Hopf 曲面论文。OpenAlex 同作者档还包含卫星海洋资料及地震反演等高引成果，无法确认同一作者，累计值待核。",
     "ya-deng": "核对 IMJ–PRG 现任与个人公开 ORCID。两篇已核论文指向不同 OpenAlex 作者档案，作者主页链接的 Google Scholar 当前返回 403，累计引用待核。",
@@ -639,7 +639,17 @@
     "randall-kamien": "OpenAlex 有同人分档，第二档含编辑任内的 Introducing GSOFT 及若干数据。主档 type:article 收录更正和媒体稿，不能直接作期刊论文总数。使用 2026 CV 限定完整分栏和 INSPIRE 的小范围计量。Scholar 只返回登录页。",
     "jean-h-gallier": "OpenAlex 主档把课程讲义、书和无标题页码分类为 article，另一个同名档还混有法国 NMR 生医研究及本人格式错误内容。2026 CV 有可复核的完整期刊分栏。Scholar 只返回登录页。",
     "shani-nadir-meynet": "INSPIRE ORCID、Penn 与 Uppsala 论文单位及合作者核实为同一作者。 作者端总作品 19，作品查询端当日解析 19，各用其明确范围。",
-    "burt-ovrut": "OpenAlex 作者端和作品查询端总作品相差 100。以 ORCID 和 Penn 具名论文确认 INSPIRE 文献范围，避免沿用该跨端不一致的数字。"
+    "burt-ovrut": "OpenAlex 作者端和作品查询端总作品相差 100。以 ORCID 和 Penn 具名论文确认 INSPIRE 文献范围，避免沿用该跨端不一致的数字。",
+    "choi-sung-rak": "OpenAlex 主档混入空气质量深度学习、陶瓷和体育研究，另一档的 2026 年 Advances 论文为本人且单独收录。Google Scholar 作者查找未验证到公开具名档。用作者完整发表分栏加期刊 DOI 给出范围明示的 20 篇。",
+    "lim-woonam": "逐条检查 10 条索引成果，以 ORCID、作者个人研究页、合作者及作者地址定人。本人研究页完整正式期刊范围有四条，OpenAlex 的 type:article 当日为三条。",
+    "seung-joo-lee": "匹配 ORCID 的 OpenAlex 档含材料工程同名误归，78 个 article 与 107 条全作品均不可整体采用。按 INSPIRE 专属作者号和 ORCID 重新计算其索引覆盖范围。",
+    "jiakang-bao": "OpenAlex 正确 ORCID 档仍有同名混入 W4400145338 锂电池预热实验及同作的 arXiv/期刊版本。用 ORCID 相符的 INSPIRE 具名案重新核算。",
+    "seungjoon-hyun": "OpenAlex 同名作者索引 115 部作品，当前具名作品查询只返回 70 条，前排还列入外组非线性电动力学论文。已核对期刊具名论文与 INSPIRE 作者号，暂不采用索引总量。",
+    "xian-wu": "利用 Grassmannian 论文反查匹配作者身份，OpenAlex 档含经核对属于较早同名学者的 On an infinitesimal invariant of normal functions 和 Refined intersection products；未采用作者总计量。",
+    "hyenho-lho": "ORCID、作者研究主题、Yonsei 访问及忠南大学主聘可确认同一人。OpenAlex 把论文 Comparison of two desingularizations 的预印本与期刊版两计，累计引用无法当作去重数，保留核对后九项期刊范围。",
+    "hobum-kim": "同名或近名作者档散布多份，当前旧 Yonsei 荣休卡未指向 ORCID 或个人完整书目。现有论文可核个别题名，未验证作者累计。",
+    "jong-woo-lee": "OpenAlex 用曾用缩写、韩文姓名和校名查询遇多份同名自然科学与工程作者，未有可归属的完整档。Yonsei Pure 具名路径 404，旧数学页无发表列表。",
+    "dohyun-kwon": "OpenAlex 的具名 A5081743149 由两篇几何流 DOI 和 ORCID 对应，但 29 条中混入两项同一 DASH 论文的英韩记录和无线网络同名作者。Google Scholar 由本人站直链，姓名、Yonsei 与代表作吻合；其公开 All 引用为 617。正文以作者完整列表逐项核实 12 篇期刊论文。"
   },
   "evidence": {
     "ravi-vakil": [
@@ -2764,6 +2774,172 @@
         "articles": 240,
         "works": 324,
         "citations": 17423
+      }
+    },
+    "choi-sung-rak": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 主档混入空气质量深度学习、陶瓷和体育研究，另一档的 2026 年 Advances 论文为本人且单独收录。Google Scholar 作者查找未验证到公开具名档。用作者完整发表分栏加期刊 DOI 给出范围明示的 20 篇。",
+      "identitySources": [
+        "https://math.yonsei.ac.kr/math/math/faculty.do",
+        "https://birational.yonsei.ac.kr/",
+        "https://doi.org/10.1016/j.aim.2026.111307",
+        "https://doi.org/10.1007/s00208-015-1317-6",
+        "https://doi.org/10.1093/imrn/rnac336"
+      ],
+      "authorId": "A5102493933",
+      "url": "https://openalex.org/A5102493933",
+      "alternativeAuthorIds": [
+        "A5119967938"
+      ]
+    },
+    "lim-woonam": {
+      "status": "accepted",
+      "checkedAt": "2026-11-26",
+      "note": "逐条检查 10 条索引成果，以 ORCID、作者个人研究页、合作者及作者地址定人。本人研究页完整正式期刊范围有四条，OpenAlex 的 type:article 当日为三条。",
+      "identitySources": [
+        "https://math.yonsei.ac.kr/math/math/faculty.do",
+        "https://sites.google.com/view/woonamlim/research",
+        "https://doi.org/10.1007/s00222-024-01245-5",
+        "https://arxiv.org/abs/2609.08323"
+      ],
+      "authorId": "A5082262489",
+      "url": "https://openalex.org/A5082262489"
+    },
+    "hong-hansol": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 对应 ORCID 的作者档有生化和病理同名作品，例如 10.1016/j.bioorg.2019.103445，累计引用不可归属。Google Scholar 具名作者查找未验证到公开档。另列 CV Published 和机构范围。",
+      "identitySources": [
+        "https://math.yonsei.ac.kr/math/math/faculty.do",
+        "https://sites.google.com/view/hansolhongmath/",
+        "https://doi.org/10.1112/jlms.70179",
+        "https://doi.org/10.4310/jdg/1747064192",
+        "https://doi.org/10.1016/j.geomphys.2026.105927"
+      ],
+      "authorId": "A5101577274",
+      "url": "https://openalex.org/A5101577274"
+    },
+    "seung-joo-lee": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "匹配 ORCID 的 OpenAlex 档含材料工程同名误归，78 个 article 与 107 条全作品均不可整体采用。按 INSPIRE 专属作者号和 ORCID 重新计算其索引覆盖范围。",
+      "identitySources": [
+        "https://physics.yonsei.ac.kr/people/professor?idx=61&return_url=%2Fpeople%2Fprofessor",
+        "https://slee.yonsei.ac.kr/publications",
+        "https://slee.yonsei.ac.kr/publications",
+        "https://doi.org/10.1007/JHEP08(2024)240",
+        "https://doi.org/10.1007/JHEP09(2022)143"
+      ],
+      "authorId": "A5100621700",
+      "url": "https://openalex.org/A5100621700",
+      "alternative": {
+        "source": "INSPIRE HEP",
+        "id": "1273957",
+        "articles": 36,
+        "works": 40,
+        "citations": 2380
+      }
+    },
+    "jiakang-bao": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 正确 ORCID 档仍有同名混入 W4400145338 锂电池预热实验及同作的 arXiv/期刊版本。用 ORCID 相符的 INSPIRE 具名案重新核算。",
+      "identitySources": [
+        "https://slee.yonsei.ac.kr/members",
+        "https://arxiv.org/abs/2611.19856",
+        "https://arxiv.org/abs/2611.19856",
+        "https://api.openalex.org/works/W4415738153"
+      ],
+      "authorId": "A5005986352",
+      "url": "https://openalex.org/A5005986352",
+      "alternative": {
+        "source": "INSPIRE HEP",
+        "id": "1774793",
+        "articles": 23,
+        "works": 29,
+        "citations": 346
+      }
+    },
+    "seungjoon-hyun": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 同名作者索引 115 部作品，当前具名作品查询只返回 70 条，前排还列入外组非线性电动力学论文。已核对期刊具名论文与 INSPIRE 作者号，暂不采用索引总量。",
+      "identitySources": [
+        "https://physics.yonsei.ac.kr/people/professor?idx=26&return_url=%2Fpeople%2Fprofessor",
+        "https://physics.yonsei.ac.kr/people/professor?idx=26&return_url=%2Fpeople%2Fprofessor",
+        "https://arxiv.org/abs/hep-th/0411013"
+      ],
+      "authorId": "A5102135735",
+      "url": "https://openalex.org/A5102135735"
+    },
+    "xian-wu": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "利用 Grassmannian 论文反查匹配作者身份，OpenAlex 档含经核对属于较早同名学者的 On an infinitesimal invariant of normal functions 和 Refined intersection products；未采用作者总计量。",
+      "identitySources": [
+        "https://math.yonsei.ac.kr/math/math/Postdoc.do",
+        "https://xianwood.github.io/index/",
+        "https://arxiv.org/abs/1909.13333",
+        "https://arxiv.org/abs/2603.00386"
+      ],
+      "authorId": "A5101800228",
+      "url": "https://openalex.org/A5101800228"
+    },
+    "hyenho-lho": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "ORCID、作者研究主题、Yonsei 访问及忠南大学主聘可确认同一人。OpenAlex 把论文 Comparison of two desingularizations 的预印本与期刊版两计，累计引用无法当作去重数，保留核对后九项期刊范围。",
+      "identitySources": [
+        "https://math.yonsei.ac.kr/math/math/visitors.do",
+        "https://doi.org/10.1016/j.aim.2018.05.020",
+        "https://doi.org/10.1016/j.aim.2018.05.020",
+        "https://doi.org/10.1007/s00229-021-01361-z"
+      ],
+      "authorId": "A5075451249",
+      "url": "https://openalex.org/A5075451249"
+    },
+    "hobum-kim": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "同名或近名作者档散布多份，当前旧 Yonsei 荣休卡未指向 ORCID 或个人完整书目。现有论文可核个别题名，未验证作者累计。",
+      "identitySources": [
+        "https://math.yonsei.ac.kr/math/math/faculty.do?srCategoryId1=560",
+        "https://doi.org/10.1016/S0034-4877(19)30069-2"
+      ],
+      "authorId": "A5037837775",
+      "url": "https://openalex.org/A5037837775",
+      "alternativeAuthorIds": [
+        "A5055089070",
+        "A5008013231"
+      ]
+    },
+    "jong-woo-lee": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 用曾用缩写、韩文姓名和校名查询遇多份同名自然科学与工程作者，未有可归属的完整档。Yonsei Pure 具名路径 404，旧数学页无发表列表。",
+      "identitySources": [
+        "https://ymath.yonsei.ac.kr/ymath/faculty/emeritus.do",
+        "https://sw.yonsei.ac.kr/prof"
+      ]
+    },
+    "dohyun-kwon": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "authorId": "A5081743149",
+      "url": "https://openalex.org/A5081743149",
+      "note": "OpenAlex 的具名 A5081743149 由两篇几何流 DOI 和 ORCID 对应，但 29 条中混入两项同一 DASH 论文的英韩记录和无线网络同名作者。Google Scholar 由本人站直链，姓名、Yonsei 与代表作吻合；其公开 All 引用为 617。正文以作者完整列表逐项核实 12 篇期刊论文。",
+      "identitySources": [
+        "https://cse.yonsei.ac.kr/cse/people/faculty.do",
+        "https://www.dohyunkwon.com/",
+        "https://scholar.google.com/citations?user=dBxpstQAAAAJ&hl=en",
+        "https://doi.org/10.1007/s00208-021-02286-4"
+      ],
+      "alternative": {
+        "source": "Google Scholar",
+        "id": "dBxpstQAAAAJ",
+        "citations": 617,
+        "hIndex": 11
       }
     }
   }

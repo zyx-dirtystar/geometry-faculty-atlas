@@ -4507,14 +4507,118 @@
     {
       "id": "yonsei",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 2、指标 0。  官方韩语教师名册与学术主页核对 Hansol Hong，列辛几何与镜像对称相关人员。",
+      "coverageNote": "已解析 5/27 个登记来源，0 条任职或方向待核。 已收录 5 位学者，个人主页 5、CV 5、指标 3。 首尔数学 18 位现任、16 位荣休、14 位博士后、13 位客座与固定分栏教师、1 位有日期的访问、66 张研究生卡。Researchers/Lecturers 总表 31 卡含重复及往期记录，当前分栏优先。确认 Xian Wu 新聘、Hyenho Lho 当年访问、Donghyeon Kim 和 Shin-young Kim 去向。未来校区旧数学五人及两条荣休，与现行 Software 30 人、Data Science 八人、校级 FIS 五人和 2026 手册核对。三名旧列已于 2022–2025 退休。物理三栏 26、6、19，研究人员 20，核对具名物理卡与弦论组；计算科学工程六人及 PDE & AI Lab，Kwon 的职位、CV 和曲率流论文逐项核实。新增有独立文献支持的复几何、微分几何和 Calabi–Yau 方向。部分博士后、客座及旧总表的研究或当前归属仍欠具名证据。旧物理组站无法读取；保留已复核的正式替代页面。",
       "rosterLinks": [
+        [
+          "Computational Science and Engineering · Research Labs",
+          "https://rus.yonsei.ac.kr/cse/research/research_labs.do"
+        ],
+        [
+          "Yonsei Geometry Seminar",
+          "https://sites.google.com/yonsei.ac.kr/yonseigeometry"
+        ],
+        [
+          "Seoul Mathematics · Emeriti",
+          "https://math.yonsei.ac.kr/math/math/faculty.do?srCategoryId1=560"
+        ],
+        [
+          "Seoul Mathematics · Faculty and Emeriti",
+          "https://math.yonsei.ac.kr/math/math/faculty.do?srCategoryId1=9999"
+        ],
+        [
+          "Seoul Mathematics · Lecturers, Visiting and Research Professors",
+          "https://math.yonsei.ac.kr/math/math/Postdoc.do?srCategoryId1=1648"
+        ],
+        [
+          "Seoul Mathematics · Postdoctoral Researchers",
+          "https://math.yonsei.ac.kr/math/math/Postdoc.do"
+        ],
+        [
+          "Seoul Mathematics · Researchers and Lecturers, all",
+          "https://math.yonsei.ac.kr/math/math/Postdoc.do?srCategoryId1=9999"
+        ],
+        [
+          "Seoul Mathematics · graduate portal mirror",
+          "https://graduate.yonsei.ac.kr/math/math/Postdoc.do"
+        ],
+        [
+          "Seoul Mathematics · Research by Area",
+          "https://chaplain.yonsei.ac.kr/math/math/research.do"
+        ],
+        [
+          "Seoul Mathematics · Graduate Students",
+          "https://math.yonsei.ac.kr/math/math/grad.do"
+        ],
+        [
+          "Seoul Mathematics · Visitors",
+          "https://math.yonsei.ac.kr/math/math/visitors.do"
+        ],
+        [
+          "MIRAE · 2026 curriculum handbook",
+          "https://mirae.yonsei.ac.kr/bbs/wj/104/1011713/download.do"
+        ],
+        [
+          "MIRAE · Division of Data Science",
+          "https://wjdorm.yonsei.ac.kr/ds/intro/faculty.do"
+        ],
+        [
+          "MIRAE · Mathematics Emeriti",
+          "https://ymath.yonsei.ac.kr/ymath/faculty/emeritus.do"
+        ],
+        [
+          "MIRAE · Data Science Faculty Information System",
+          "https://civil.yonsei.ac.kr/faculty/depMember.do?campus=wonju&co=1002150&type=departMent"
+        ],
+        [
+          "MIRAE · legacy graduate Mathematics catalog",
+          "https://economics.yonsei.ac.kr/graduate/department/technology/mathematics.do"
+        ],
+        [
+          "MIRAE · legacy Mathematics Faculty",
+          "https://ymath.yonsei.ac.kr/ymath/faculty/faculty.do"
+        ],
+        [
+          "MIRAE · Division of Software Faculty",
+          "https://sw.yonsei.ac.kr/prof"
+        ],
+        [
+          "Seoul Physics · Research areas",
+          "https://physics.yonsei.ac.kr/research/field"
+        ],
+        [
+          "Seoul Physics · Researchers",
+          "https://physics.yonsei.ac.kr/people/research"
+        ],
+        [
+          "Seoul Physics · Emeritus and retired",
+          "https://physics.yonsei.ac.kr/people/professor"
+        ],
+        [
+          "Seoul Physics · Special, research and affiliated",
+          "https://physics.yonsei.ac.kr/people/professor"
+        ],
+        [
+          "Seoul Physics · Standing faculty",
+          "https://physics.yonsei.ac.kr/people/professor"
+        ],
         [
           "数学系韩文教师名录",
           "https://math.yonsei.ac.kr/math/math/faculty.do"
+        ],
+        [
+          "Seoul · Computational Science and Engineering Faculty",
+          "https://cse.yonsei.ac.kr/cse/people/faculty.do"
+        ],
+        [
+          "Yonsei String Theory · Group Members",
+          "https://slee.yonsei.ac.kr/members"
+        ],
+        [
+          "Seoul Mathematics · Visiting Faculty recruitment, spring 2027",
+          "https://math.yonsei.ac.kr/math/math/notice.do?mode=view&articleNo=484301"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-26"
     },
     {
       "id": "monash",
@@ -74218,83 +74322,368 @@
     {
       "id": "choi-sung-rak",
       "name": "Choi, Sung Rak",
-      "aliases": [],
+      "aliases": [
+        "Sung Rak Choi",
+        "최성락"
+      ],
       "affiliations": [
         {
           "schoolId": "yonsei",
-          "department": "数学系",
-          "title": "Academic Faculty",
+          "department": "Seoul · Department of Mathematics",
+          "title": "Associate Professor of Mathematics",
           "url": "https://math.yonsei.ac.kr/math/math/faculty.do",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
-      "tags": [
-        "Algebraic Geometry"
-      ],
-      "homepage": "https://birational.yonsei.ac.kr",
+      "tags": [],
+      "homepage": "https://birational.yonsei.ac.kr/",
       "homepageStatus": null,
-      "cvUrl": "https://drive.google.com/file/d/1w7sTrHY2JDV4DyY-DHgPhy4qH33SoaQN/view?usp=sharing",
-      "cvType": null,
+      "cvUrl": "https://drive.google.com/file/d/1w7sTrHY2JDV4DyY-DHgPhy4qH33SoaQN/view",
+      "cvType": "公开学术 CV（3 页）",
       "cvStatus": null,
-      "publicationsUrl": null,
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "OpenAlex 请求或返回数据失败。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "publicationsUrl": "https://birational.yonsei.ac.kr/",
+      "publicationCounts": [
         {
-          "text": "Algebraic Geometry",
-          "url": "https://math.yonsei.ac.kr/math/math/faculty.do"
+          "value": 20,
+          "scope": "本人 Research Papers 完整分栏。CV 正式发表编号 1–19，加上 2026 年 Advances DOI 已正式刊出的一项。仅接收而未找到正式刊本的 Fano type 一项、学位论文、预印本和译著另列。",
+          "url": "https://birational.yonsei.ac.kr/",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "opportunities": [],
+      "identityNote": "OpenAlex 主档混入空气质量深度学习、陶瓷和体育研究，另一档的 2026 年 Advances 论文为本人且单独收录。Google Scholar 作者查找未验证到公开具名档。用作者完整发表分栏加期刊 DOI 给出范围明示的 20 篇。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "A valuative approach to the anticanonical minimal model program",
+          "year": 2026,
+          "url": "https://doi.org/10.1016/j.aim.2026.111307"
+        },
+        {
+          "title": "Potentially non-klt locus and its applications",
+          "year": 2016,
+          "url": "https://doi.org/10.1007/s00208-015-1317-6"
+        },
+        {
+          "title": "On Subadditivity of Okounkov bodies for algebraic fiber spaces",
+          "year": 2023,
+          "url": "https://doi.org/10.1093/imrn/rnac336"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Birational geometry, algebraic geometry, singularities, minimal model program, and Okounkov bodies",
+          "url": "https://birational.yonsei.ac.kr/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "dohyun-kwon",
+      "name": "Dohyun Kwon",
+      "aliases": [
+        "권도현"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "yonsei",
+          "department": "Seoul · School of Mathematics and Computing",
+          "title": "Assistant Professor of Computational Science and Engineering",
+          "url": "https://cse.yonsei.ac.kr/cse/people/faculty.do",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.dohyunkwon.com/",
+      "homepageStatus": null,
+      "cvUrl": "https://drive.google.com/file/d/10dRhUT97GVXLg46NrHF7KYSQB9mEev82/view?usp=drive_link",
+      "cvType": "公开学术 CV（7 页，含 2026 年职位）",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.dohyunkwon.com/publications",
+      "publicationCounts": [
+        {
+          "value": 12,
+          "scope": "本人完整 Publications 分栏的 12 项正式期刊论文，按出版题名和 DOI 合并预印本。另列同页会议论文、已接收项目及学位论文。",
+          "url": "https://www.dohyunkwon.com/publications",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "OpenAlex 的具名 A5081743149 由两篇几何流 DOI 和 ORCID 对应，但 29 条中混入两项同一 DASH 论文的英韩记录和无线网络同名作者。Google Scholar 由本人站直链，姓名、Yonsei 与代表作吻合；其公开 All 引用为 617。正文以作者完整列表逐项核实 12 篇期刊论文。",
+      "metrics": [
+        {
+          "source": "Google Scholar",
+          "authorId": "dBxpstQAAAAJ",
+          "url": "https://scholar.google.com/citations?user=dBxpstQAAAAJ&hl=en",
+          "checkedAt": "2026-11-26",
+          "citations": 617,
+          "hIndex": 11,
+          "citationScope": "Google Scholar 作者页 All 列总引用，含其计入的期刊、会议、预印本文献等。"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Area-preserving anisotropic mean curvature flow in two dimensions",
+          "year": 2025,
+          "url": "https://doi.org/10.1007/s00526-024-02859-6"
+        },
+        {
+          "title": "On volume-preserving crystalline mean curvature flow",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s00208-021-02286-4"
+        },
+        {
+          "title": "Level-set forced mean curvature flow with the Neumann boundary condition",
+          "year": 2022,
+          "url": "https://doi.org/10.1016/j.matpur.2022.11.002"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis of mean curvature flow, anisotropic geometric flows, optimal transport and gradient flows",
+          "url": "https://www.dohyunkwon.com/publications"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "hong-hansol",
+      "name": "Hong, Hansol",
+      "aliases": [
+        "Hansol Hong",
+        "홍한솔"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "yonsei",
+          "department": "Seoul · Department of Mathematics",
+          "title": "Associate Professor of Mathematics",
+          "url": "https://math.yonsei.ac.kr/math/math/faculty.do",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/view/hansolhongmath/",
+      "homepageStatus": null,
+      "cvUrl": "https://drive.google.com/file/d/1E0eCjxMuTL6EkTTotPjVk2zNbf4003ng/view",
+      "cvType": "公开学术 CV（3 页）",
+      "cvStatus": null,
+      "publicationsUrl": "https://yonsei.elsevierpure.com/en/persons/hansol-hong/",
+      "publicationCounts": [
+        {
+          "value": 15,
+          "scope": "公开 CV 的 Published 分栏完整 15 项，按论文标题去重。2024 年后另有待刊或原预印本正式发表，未并入此 CV 的已刊分栏统计。",
+          "url": "https://drive.google.com/file/d/1E0eCjxMuTL6EkTTotPjVk2zNbf4003ng/view",
+          "checkedAt": "2026-11-26"
+        },
+        {
+          "value": 10,
+          "scope": "延世大学 Pure 个人档案显示的 Research Outputs 总数。",
+          "url": "https://yonsei.elsevierpure.com/en/persons/hansol-hong/",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "OpenAlex 对应 ORCID 的作者档有生化和病理同名作品，例如 10.1016/j.bioorg.2019.103445，累计引用不可归属。Google Scholar 具名作者查找未验证到公开档。另列 CV Published 和机构范围。",
+      "metrics": [],
+      "identityUrl": "https://openalex.org/authors/A5101577274",
+      "papers": [
+        {
+          "title": "Orbifold Kodaira–Spencer maps and closed-string mirror symmetry for punctured Riemann surfaces",
+          "year": 2025,
+          "url": "https://doi.org/10.1112/jlms.70179"
+        },
+        {
+          "title": "Scattering diagrams from holomorphic discs in log Calabi–Yau surfaces",
+          "year": 2025,
+          "url": "https://doi.org/10.4310/jdg/1747064192"
+        },
+        {
+          "title": "Morse superpotentials and blowups of surfaces",
+          "year": 2026,
+          "url": "https://doi.org/10.1016/j.geomphys.2026.105927"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry via mirror symmetry, complex Landau–Ginzburg mirrors of punctured Riemann surfaces, log Calabi–Yau surfaces and symplectic geometry",
+          "url": "https://sites.google.com/view/hansolhongmath/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
       "id": "lim-woonam",
       "name": "Lim, Woonam",
-      "aliases": [],
+      "aliases": [
+        "Woonam Lim",
+        "임우남"
+      ],
       "affiliations": [
         {
           "schoolId": "yonsei",
-          "department": "数学系",
-          "title": "Academic Faculty",
+          "department": "Seoul · Department of Mathematics",
+          "title": "Assistant Professor of Mathematics",
           "url": "https://math.yonsei.ac.kr/math/math/faculty.do",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
-      "tags": [
-        "Algebraic Geometry"
-      ],
+      "tags": [],
       "homepage": "https://sites.google.com/view/woonamlim/",
       "homepageStatus": null,
-      "cvUrl": "https://drive.google.com/file/d/12oUzkwwlC78B5lhLv2J_wA4VaOHsA-0p/view?usp=sharing",
-      "cvType": null,
+      "cvUrl": "https://drive.google.com/file/d/12oUzkwwlC78B5lhLv2J_wA4VaOHsA-0p/view",
+      "cvType": "公开学术 CV（10 页，含 2026 年项目）",
       "cvStatus": null,
-      "publicationsUrl": null,
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
-      "identityUrl": "https://openalex.org/A5082262489",
-      "papers": [],
-      "directoryEvidence": [
+      "publicationsUrl": "https://sites.google.com/view/woonamlim/research",
+      "publicationCounts": [
         {
-          "text": "Algebraic Geometry",
-          "url": "https://math.yonsei.ac.kr/math/math/faculty.do"
+          "value": 4,
+          "scope": "本人完整研究页四项带正式期刊链接；预印本与刊本合并，另有书籍和当日仅接收论文。",
+          "url": "https://sites.google.com/view/woonamlim/research",
+          "checkedAt": "2026-11-26"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "opportunities": [],
+      "identityNote": "逐条检查 10 条索引成果，以 ORCID、作者个人研究页、合作者及作者地址定人。本人研究页完整正式期刊范围有四条，OpenAlex 的 type:article 当日为三条。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5082262489",
+          "orcid": "0000-0001-9488-0384",
+          "url": "https://openalex.org/A5082262489",
+          "authorApiUrl": "https://api.openalex.org/authors/A5082262489",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5082262489,type:article&per_page=1&select=id",
+          "articles": 3,
+          "works": 10,
+          "citations": 87,
+          "hIndex": 5,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "identityUrl": "https://openalex.org/A5082262489",
+      "papers": [
+        {
+          "title": "Virasoro constraints for moduli of sheaves and vertex algebras",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/s00222-024-01245-5"
+        },
+        {
+          "title": "Cohomological Hall algebras and Quot schemes of curves",
+          "year": 2026,
+          "url": "https://arxiv.org/abs/2609.08323",
+          "type": "preprint"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, moduli of sheaves, cohomology rings, enumerative invariants, and geometry of Quot schemes",
+          "url": "https://sites.google.com/view/woonamlim/research"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "seung-joo-lee",
+      "name": "Seung-Joo Lee",
+      "aliases": [
+        "이승주"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "yonsei",
+          "department": "Seoul · Department of Physics",
+          "title": "Associate Professor of Physics",
+          "url": "https://physics.yonsei.ac.kr/people/professor?idx=61&return_url=%2Fpeople%2Fprofessor",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex",
+        "differential"
+      ],
+      "tags": [
+        "geometric engineering in F-theory"
+      ],
+      "homepage": "https://slee.yonsei.ac.kr/pi",
+      "homepageStatus": null,
+      "cvUrl": "https://slee.yonsei.ac.kr/pi/curriculum-vitae",
+      "cvType": "公开学术 CV（HTML）",
+      "cvStatus": null,
+      "publicationsUrl": "https://slee.yonsei.ac.kr/publications",
+      "publicationCounts": [
+        {
+          "value": 36,
+          "scope": "INSPIRE HEP 完整具名作品查询端 40 条。仅纳入明确有期刊标记的 article，按 DOI 或唯一条目去重；覆盖所列索引范围。",
+          "url": "https://inspirehep.net/authors/1273957",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "匹配 ORCID 的 OpenAlex 档含材料工程同名误归，78 个 article 与 107 条全作品均不可整体采用。按 INSPIRE 专属作者号和 ORCID 重新计算其索引覆盖范围。",
+      "metrics": [
+        {
+          "source": "INSPIRE HEP",
+          "authorId": "1273957",
+          "url": "https://inspirehep.net/authors/1273957",
+          "checkedAt": "2026-11-26",
+          "articles": 36,
+          "works": 40,
+          "citations": 2380,
+          "articleScope": "INSPIRE 具名作者、期刊标记与 article 同时成立，按 DOI 或唯一记录计数",
+          "citationScope": "INSPIRE HEP 该具名作者全部索引作品的逐条引用计数累计"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Approximate Ricci-Flat Metrics for Calabi–Yau Manifolds",
+          "year": 2026,
+          "url": "https://doi.org/10.1002/prop.70129"
+        },
+        {
+          "title": "Non-minimal elliptic threefolds at infinite distance. Part I. Log Calabi-Yau resolutions",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/JHEP08(2024)240"
+        },
+        {
+          "title": "Elliptic K3 surfaces at infinite complex structure and their refined Kulikov models",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/JHEP09(2022)143"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, complex geometry, and differential geometry of elliptic and log Calabi–Yau spaces; geometric engineering in F-theory",
+          "url": "https://slee.yonsei.ac.kr/publications"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
