@@ -1311,11 +1311,27 @@
     {
       "id": "tokyo",
       "coverage": "sample",
-      "coverageNote": "已解析 9/16 个登记来源，0 条任职或方向待核。 已逐条核对 数理科学研究科 Faculty Members、Kavli IPMU · Faculty Members。 已收录 30 位学者，个人主页 10、CV 7、指标 1。 核对数理科学研究科英文名录及 Kavli IPMU，另查日文 2026 手册、现任目录、17 条特任或特别教授职务，以及数理科学连携基盘中心三个分栏。日文别名、方向和跨单位任职继续逐项对账。 已转录特任与特别教授 17 条、连携中心 17 条兼任或专任记录，查到日法联合研究室与 IPMU 访问分册。区分访问计划与现任。荣休群体和各机构研究院的有名额全名单仍需逐一核对。 英日名录补核特任 8 位专长。日法实验室全页 27 条任职、Kavli IPMU 高级 5 位、在岗研究员 12 位、联属 31 位已转录。跨机构及联属的准确专长和荣休仍逐项识别。 三位法国侧 PI 由 IHÉS、IMJ-PRG 和 Versailles 机构页逐名核对，留作合作研究身份。 新核日语五十音当前 67 条、2027 引导中的日英名册及四方向名录，补足复流形叶状结构。追加校级名誉教授年度公报，历史及荣休总名册仍分开复核。",
+      "coverageNote": "已解析 9/34 个登记来源，0 条任职或方向待核。 已逐条核对 数理科学研究科 Faculty Members、Kavli IPMU · Faculty Members。 已收录 32 位学者，个人主页 28、CV 8、指标 17。 日文现任五十音、2026–27 指导、英文现任及四研究领域与特任、特别教授、客员四名、连携中心三分栏和日法实验室交叉。本批补入学校 2024–26 三届名誉教授公报与 2026-11 荣休公告，区分退休后特任及标有期限的短访。核对数理科学研究科当年访客 68 次和 Kavli IPMU 2026 全表 649 次，按具体期间处理。IPMU 数据库的所有职类、联属与学生分栏以及 7 位数学教师、5 位数学 Senior Fellow、12 位数学项目研究员、31 位数学 Affiliate 均已核复。逐项核实小林俊行当前教授和 IHÉS 访问，以及英文和日文作者档案的同名或拆档问题。各历史届累计荣休总表公开时段不齐，部分 2026 后续数理科学研究科访客没有出现在现行页面，仍需校方年度与独立个人档核查。",
       "rosterLinks": [
+        [
+          "Graduate School of Mathematical Sciences · visitors published this academic year",
+          "https://www.ms.u-tokyo.ac.jp/visit_researchers/"
+        ],
+        [
+          "University of Tokyo · 2024 grant of emeritus title",
+          "https://www.u-tokyo.ac.jp/content/400243658.pdf"
+        ],
+        [
+          "University of Tokyo · 2025 grant of emeritus title",
+          "https://www.u-tokyo.ac.jp/content/400266472.pdf"
+        ],
         [
           "東京大学 · 令和8年度名誉教授の称号授与",
           "https://www.u-tokyo.ac.jp/focus/ja/articles/z1401_00002.html"
+        ],
+        [
+          "University of Tokyo · 2026 grant of emeritus title",
+          "https://www.u-tokyo.ac.jp/content/400290964.pdf"
         ],
         [
           "数理科学研究科 Faculty Members",
@@ -1324,6 +1340,10 @@
         [
           "CNRS 与东京大学 · 日法数学联合实验室成员",
           "https://fj-lmi.cnrs.fr/members/"
+        ],
+        [
+          "Graduate School of Mathematical Sciences · designated foreign visiting academics",
+          "https://www.ms.u-tokyo.ac.jp/activity/visit_researcher.html"
         ],
         [
           "数理科学连携基盘中心 · 组织任职",
@@ -1336,6 +1356,46 @@
         [
           "Kavli IPMU · Affiliate Members",
           "https://db.ipmu.jp/member/memberen.html"
+        ],
+        [
+          "Kavli IPMU · Affiliate Members",
+          "https://db.ipmu.jp/member/memberen.html"
+        ],
+        [
+          "Kavli IPMU · Cross Appointments (in the past two years)",
+          "https://db.ipmu.jp/member/memberen.html"
+        ],
+        [
+          "Kavli IPMU · Deputy Directors",
+          "https://db.ipmu.jp/member/memberen.html"
+        ],
+        [
+          "Kavli IPMU · Director",
+          "https://db.ipmu.jp/member/memberen.html"
+        ],
+        [
+          "Kavli IPMU · Faculty Members",
+          "https://db.ipmu.jp/member/memberen.html"
+        ],
+        [
+          "Kavli IPMU · Graduate Students",
+          "https://db.ipmu.jp/member/memberen.html"
+        ],
+        [
+          "Kavli IPMU · Project Researchers",
+          "https://db.ipmu.jp/member/memberen.html"
+        ],
+        [
+          "Kavli IPMU · Senior Fellows",
+          "https://db.ipmu.jp/member/memberen.html"
+        ],
+        [
+          "Kavli IPMU · dated visitors and purposes (2026)",
+          "https://db.ipmu.jp/visitor/2026visitor.html"
+        ],
+        [
+          "Kavli IPMU · Mathematics and geometry research",
+          "https://www.ipmu.jp/en/research-activities/research-program/mathematics"
         ],
         [
           "Kavli IPMU · Faculty Members",
@@ -1370,12 +1430,24 @@
           "https://www.ms.u-tokyo.ac.jp/teacher/ichiran_gojyuon.html"
         ],
         [
+          "Graduate School of Mathematical Sciences · visiting professors",
+          "https://www.ms.u-tokyo.ac.jp/teacher/visiting_professor.html"
+        ],
+        [
           "数理科学研究科 · 2026 官方手册",
           "https://www.ms.u-tokyo.ac.jp/Suri_Pamphlet2026.pdf"
         ],
         [
           "数理科学研究科 · 特任与特别教授",
           "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html"
+        ],
+        [
+          "Graduate School of Mathematical Sciences · current dated emeritus news",
+          "https://www.ms.u-tokyo.ac.jp/news/12187.html"
+        ],
+        [
+          "School of Science · Graduate School of Mathematical Sciences faculty",
+          "https://www.s.u-tokyo.ac.jp/ja/people/l/ms/"
         ]
       ],
       "checkedAt": "2026-11-25"
@@ -54520,7 +54592,7 @@
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/takatsu_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -54530,18 +54602,45 @@
         "Geometric Analysis",
         "Geometric Analysis from the viewpoint of Optimal Transport"
       ],
-      "homepage": null,
+      "homepage": "https://www.ms.u-tokyo.ac.jp/teacher_e/takatsu_e.html",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查东京数理具名档、研究生指导资料、个人姓名与期刊公开档；找到研究概要，未见独立学术 CV。",
       "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/publication_e/index_e.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
+      "identityNote": "核对官方任职或研究档与已核 DOI 的作者 ID，并抽查高引条目。 著作查询与作者端覆盖总量有差别，文章用独立 type:article，累计引用采用同一作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5072445133",
+          "url": "https://openalex.org/A5072445133",
+          "orcid": "https://orcid.org/0000-0002-9654-6133",
+          "authorApiUrl": "https://api.openalex.org/authors/A5072445133",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5072445133,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 28,
+          "works": 50,
+          "citations": 693,
+          "hIndex": 12,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": "https://openalex.org/A5072445133",
-      "papers": [],
+      "papers": [
+        {
+          "title": "Wasserstein geometry of Gaussian measures",
+          "year": 2011,
+          "url": "https://doi.org/10.18910/4973"
+        },
+        {
+          "title": "Displacement convexity of generalized relative entropies",
+          "year": 2011,
+          "url": "https://doi.org/10.1016/j.aim.2011.06.029"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Geometric Analysis",
@@ -54552,7 +54651,7 @@
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/takatsu_e.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -54566,7 +54665,7 @@
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/shiho_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -54577,18 +54676,45 @@
         "数論幾何学",
         "Study of p-adic objects in arithmetic geometry"
       ],
-      "homepage": null,
+      "homepage": "https://www.ms.u-tokyo.ac.jp/teacher_e/shiho_e.html",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查东京数学研究档、院系年报和本人原始论文；未见独立 CV。",
       "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/publication_e/index_e.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
+      "identityNote": "核对官方任职或研究档与已核 DOI 的作者 ID，并抽查高引条目。 著作查询与作者端覆盖总量有差别，文章用独立 type:article，累计引用采用同一作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5045774305",
+          "url": "https://openalex.org/A5045774305",
+          "orcid": null,
+          "authorApiUrl": "https://api.openalex.org/authors/A5045774305",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5045774305,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 17,
+          "works": 37,
+          "citations": 516,
+          "hIndex": 11,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": "https://openalex.org/A5045774305",
-      "papers": [],
+      "papers": [
+        {
+          "title": "Relative log convergent cohomology and relative rigid cohomology I",
+          "year": 2007,
+          "url": "https://arxiv.org/abs/0707.1742"
+        },
+        {
+          "title": "Relative log convergent cohomology and relative rigid cohomology II",
+          "year": 2007,
+          "url": "https://arxiv.org/abs/0707.1743"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Arithmetic Geometry",
@@ -54603,7 +54729,7 @@
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/shiho_e.html"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -54617,7 +54743,7 @@
           "title": "Professor（Kavli IPMU）",
           "url": "https://db.ipmu.jp/member/personal/608en.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -54627,18 +54753,45 @@
       "tags": [
         "Mathematics Mathematics Quantum Field Theory"
       ],
-      "homepage": null,
+      "homepage": "https://db.ipmu.jp/member/personal/608en.html",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "https://www.ipmu.jp/en/publication",
+      "cvStatus": "查 IPMU 具名档、东京研修资料和学界公开履历。现任具名档已确认，独立公开 CV 尚未核实。",
+      "publicationsUrl": "https://www.ipmu.jp/en/research-activities/research-program/mathematics",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
+      "identityNote": "核对官方任职或研究档与已核 DOI 的作者 ID，并抽查高引条目。 著作查询与作者端覆盖总量有差别，文章用独立 type:article，累计引用采用同一作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5004997810",
+          "url": "https://openalex.org/A5004997810",
+          "orcid": "https://orcid.org/0000-0002-6060-758X",
+          "authorApiUrl": "https://api.openalex.org/authors/A5004997810",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5004997810,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 52,
+          "works": 135,
+          "citations": 9469,
+          "hIndex": 45,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": "https://openalex.org/A5004997810",
-      "papers": [],
+      "papers": [
+        {
+          "title": "Instantons on ALE spaces, quiver varieties, and Kac-Moody algebras",
+          "year": 1994,
+          "url": "https://doi.org/10.1215/s0012-7094-94-07613-8"
+        },
+        {
+          "title": "Quiver varieties and Kac-Moody algebras",
+          "year": 1998,
+          "url": "https://doi.org/10.1215/s0012-7094-98-09120-7"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Representation Theory, Algebraic Geometry, Differential Geometry",
@@ -54649,7 +54802,7 @@
           "url": "https://db.ipmu.jp/member/personal/608en.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -54663,7 +54816,7 @@
           "title": "Associate Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/konno.hokuto_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -54680,13 +54833,49 @@
       "cvUrl": "https://www.ms.u-tokyo.ac.jp/~konno/eng_CV.html",
       "cvType": null,
       "cvStatus": null,
-      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/publication_e/index_e.html",
+      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/~konno/eng_Papers.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
+      "identityNote": "核对官方任职或研究档与已核 DOI 的作者 ID，并抽查高引条目。 著作查询与作者端覆盖总量有差别，文章用独立 type:article，累计引用采用同一作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5039219891",
+          "url": "https://openalex.org/A5039219891",
+          "orcid": "https://orcid.org/0000-0002-0640-4861",
+          "authorApiUrl": "https://api.openalex.org/authors/A5039219891",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5039219891,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 21,
+          "works": 39,
+          "citations": 394,
+          "hIndex": 12,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        },
+        {
+          "source": "Google Scholar",
+          "authorId": "1RKcQToAAAAJ",
+          "url": "https://scholar.google.co.jp/citations?user=1RKcQToAAAAJ&hl=ja&oi=ao",
+          "checkedAt": "2026-11-26",
+          "citations": 463,
+          "hIndex": 13,
+          "citationScope": "Google Scholar 作者档案 All 栏"
+        }
+      ],
       "identityUrl": "https://openalex.org/A5039219891",
-      "papers": [],
+      "papers": [
+        {
+          "title": "On the Bauer–Furuta and Seiberg–Witten invariants of families of 4-manifolds",
+          "year": 2022,
+          "url": "https://doi.org/10.1112/topo.12229"
+        },
+        {
+          "title": "Characteristic classes via 4-dimensional gauge theory",
+          "year": 2021,
+          "url": "https://doi.org/10.2140/gt.2021.25.711"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Geometry and Topology",
@@ -54705,7 +54894,7 @@
           "url": "https://www.ms.u-tokyo.ac.jp/~konno/eng_index.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -54719,7 +54908,7 @@
           "title": "Associate Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ueda_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -54733,20 +54922,47 @@
       "cvUrl": "https://www.ms.u-tokyo.ac.jp/~kazushi/cv.html",
       "cvType": null,
       "cvStatus": null,
-      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/publication_e/index_e.html",
+      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/~kazushi/publications.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 请求或返回数据失败。",
-      "metrics": [],
+      "identityNote": "核对官方任职或研究档与已核 DOI 的作者 ID，并抽查高引条目。 著作查询与作者端覆盖总量有差别，文章用独立 type:article，累计引用采用同一作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5055224108",
+          "url": "https://openalex.org/A5055224108",
+          "orcid": "https://orcid.org/0000-0001-9568-0827",
+          "authorApiUrl": "https://api.openalex.org/authors/A5055224108",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5055224108,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 50,
+          "works": 94,
+          "citations": 1419,
+          "hIndex": 23,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Stability Conditions on An-Singularities",
+          "year": 2010,
+          "url": "https://doi.org/10.4310/jdg/1271271794"
+        },
+        {
+          "title": "Homological mirror symmetry for Brieskorn–Pham singularities",
+          "year": 2011,
+          "url": "https://doi.org/10.1007/s00029-010-0055-6"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic geometry,Symplectic geometry,Mathematical physics",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -54760,7 +54976,7 @@
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/oguiso_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -54770,18 +54986,29 @@
         "Algebraic Geometry",
         "Calabi-Yau manifolds in wider sense"
       ],
-      "homepage": null,
+      "homepage": "https://www.ms.u-tokyo.ac.jp/teacher_e/oguiso_e.html",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查现行教师名录、KIAS 与 NTU 合作活动及具名论著。找到任职与研究概要，未见独立公开 CV。",
       "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/publication_e/index_e.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 请求或返回数据失败。",
+      "identityNote": "英文 A5022763651 与汉字 A5076207843 均含代数几何与 K3 工作。本人档、所列代表作及其他学校合作页可辨人，现未核实全生涯文章计数和引用。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "On algebraic fiber space structures on a Calabi-Yau 3-fold",
+          "year": 1993,
+          "url": "https://doi.org/10.1142/s0129167x93000248"
+        },
+        {
+          "title": "Calabi–Yau threefolds of quotient type",
+          "year": 2001,
+          "url": "https://doi.org/10.4310/ajm.2001.v5.n1.a5"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic Geometry",
@@ -54792,7 +55019,7 @@
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/oguiso_e.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -54806,7 +55033,7 @@
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher/hirachi.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -54823,13 +55050,40 @@
       "cvUrl": "https://www.ms.u-tokyo.ac.jp/~hirachi/cv.html",
       "cvType": null,
       "cvStatus": null,
-      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/~hirachi/papers.html",
+      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/~hirachi/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
+      "identityNote": "核对官方任职或研究档与已核 DOI 的作者 ID，并抽查高引条目。 著作查询与作者端覆盖总量有差别，文章用独立 type:article，累计引用采用同一作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5045889102",
+          "url": "https://openalex.org/A5045889102",
+          "orcid": "https://orcid.org/0000-0002-8457-7389",
+          "authorApiUrl": "https://api.openalex.org/authors/A5045889102",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5045889102,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 19,
+          "works": 44,
+          "citations": 488,
+          "hIndex": 10,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": "https://openalex.org/A5045889102",
-      "papers": [],
+      "papers": [
+        {
+          "title": "Logarithmic singularity of the Szegő kernel and a global invariant of strictly pseudoconvex domains",
+          "year": 2006,
+          "url": "https://doi.org/10.4007/annals.2006.163.499"
+        },
+        {
+          "title": "Variation of total Q-prime curvature on CR manifolds",
+          "year": 2016,
+          "url": "https://doi.org/10.1016/j.aim.2016.11.005"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Several Complex Variables, CR geometry",
@@ -54848,7 +55102,7 @@
           "url": "https://www.ms.u-tokyo.ac.jp/~hirachi/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -54862,7 +55116,7 @@
           "title": "Assistant Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/enokizono.makoto_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -54872,18 +55126,45 @@
         "Algebraic Geometry",
         "Algebraic surfaces, moduli spaces"
       ],
-      "homepage": null,
+      "homepage": "https://www.ms.u-tokyo.ac.jp/teacher_e/enokizono.makoto_e.html",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查院系具名档、数学论文作者和院系研究方向页及名称 CV 搜索；未确认独立公开简历。",
       "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/publication_e/index_e.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
+      "identityNote": "核对官方任职或研究档与已核 DOI 的作者 ID，并抽查高引条目。 著作查询与作者端覆盖总量有差别，文章用独立 type:article，累计引用采用同一作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5037771232",
+          "url": "https://openalex.org/A5037771232",
+          "orcid": null,
+          "authorApiUrl": "https://api.openalex.org/authors/A5037771232",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5037771232,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 13,
+          "works": 21,
+          "citations": 88,
+          "hIndex": 6,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": "https://openalex.org/A5037771232",
-      "papers": [],
+      "papers": [
+        {
+          "title": "Semistable reduction for complex analytic spaces",
+          "year": 2025,
+          "url": "https://doi.org/10.1090/tran/9365"
+        },
+        {
+          "title": "An integral version of Zariski decompositions on normal surfaces",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/s40879-024-00750-4"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic Geometry",
@@ -54894,7 +55175,7 @@
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/enokizono.makoto_e.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -54906,9 +55187,9 @@
           "schoolId": "tokyo",
           "department": "数理科学研究科",
           "title": "Professor（Kavli IPMU）",
-          "url": "http://db.ipmu.jp/member/personal/2760en.html",
+          "url": "https://db.ipmu.jp/member/personal/2760en.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -54917,25 +55198,52 @@
       "tags": [
         "Algebra, Algebraic Geometry and Category Theory"
       ],
-      "homepage": null,
+      "homepage": "https://db.ipmu.jp/member/personal/2760en.html",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查 IPMU 具名一览及校级档案、个人论文、机构公开履历介绍；未发现独立公开 CV。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 请求或返回数据失败。",
-      "metrics": [],
+      "identityNote": "核对官方任职或研究档与已核 DOI 的作者 ID，并抽查高引条目。 著作查询与作者端覆盖总量有差别，文章用独立 type:article，累计引用采用同一作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5027075877",
+          "url": "https://openalex.org/A5027075877",
+          "orcid": null,
+          "authorApiUrl": "https://api.openalex.org/authors/A5027075877",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5027075877,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 75,
+          "works": 174,
+          "citations": 12718,
+          "hIndex": 50,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "On the derived categories of coherent sheaves on some homogeneous spaces",
+          "year": 1988,
+          "url": "https://doi.org/10.1007/bf01393744"
+        },
+        {
+          "title": "Chow quotients of Grassmannians. I",
+          "year": 1993,
+          "url": "https://doi.org/10.1090/advsov/016.2/02"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebra, Algebraic Geometry and Category Theory",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -54949,7 +55257,7 @@
           "title": "Associate Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -54958,25 +55266,36 @@
       "tags": [
         "Arithmetic Geometry"
       ],
-      "homepage": null,
-      "homepageStatus": null,
+      "homepage": "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202501014478209880",
+      "homepageStatus": "J-GLOBAL 具名科研档的索引可读，直连 503。校方 2026 指导资料可用作任职与研究交叉。",
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查东京数理具名研究介绍、校级教师名录、J-GLOBAL 可索引个人档和论文。J-GLOBAL 直连 503，未核实 CV。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 请求或返回数据失败。",
+      "identityNote": "东京数学的 Shimura 与有限平坦群论文归本人。OpenAlex A5047394977 另收实验性肝切除及装置声学成果。J-GLOBAL 具名端直连 503，校方研究介绍未列完整论文数或引用。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Dualizing complexes on the moduli of parabolic bundles",
+          "year": 2025,
+          "url": "https://doi.org/10.1515/crelle-2025-0031"
+        },
+        {
+          "title": "On the connected components of moduli spaces of finite flat models",
+          "year": 2010,
+          "url": "https://doi.org/10.1353/ajm.2010.0006"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Arithmetic Geometry",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -54990,7 +55309,7 @@
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/kawazumi_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -55005,13 +55324,31 @@
       "cvUrl": "https://www.ms.u-tokyo.ac.jp/~kawazumi/CV.pdf",
       "cvType": null,
       "cvStatus": null,
-      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/publication_e/index_e.html",
-      "publicationCounts": [],
+      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/~kawazumi/list.html",
+      "publicationCounts": [
+        {
+          "value": 26,
+          "scope": "本人 1989–2026 具名 refereed 分栏的已刊期刊研究文章，排除综述、书章与会议分册，合并 preprint 链接",
+          "url": "https://www.ms.u-tokyo.ac.jp/~kawazumi/list.html",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
+      "identityNote": "同一人有英文与原文档 A5009900773、A5036800661，保留不合并的结论。本人 1989–2026 refereed 表可读，已依出版类型与发表版本去重计数。",
       "metrics": [],
       "identityUrl": "https://openalex.org/A5009900773",
-      "papers": [],
+      "papers": [
+        {
+          "title": "The logarithms of Dehn twists",
+          "year": 2014,
+          "url": "https://doi.org/10.4171/qt/54"
+        },
+        {
+          "title": "A topological proof of Wolpert's formula for the Weil-Petersson symplectic form in terms of the Fenchel-Nielsen coordinates",
+          "year": 2025,
+          "url": "https://doi.org/10.1007/s10711-025-01016-3"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Differential Topology, Complex Analysis",
@@ -55026,7 +55363,7 @@
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/kawazumi_e.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -55040,7 +55377,7 @@
           "title": "Associate Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/kelly_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -55049,18 +55386,24 @@
       "tags": [
         "algebraic geometry"
       ],
-      "homepage": null,
+      "homepage": "https://www.ms.u-tokyo.ac.jp/~kelly/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/publication_e/index_e.html",
+      "cvStatus": "核本人公开学术站、东京具名教师页和课程／发表分栏。找到发表列表，未见独立公开 CV。",
+      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/~kelly/",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
       "metrics": [],
       "identityUrl": "https://openalex.org/A5091682001",
-      "papers": [],
+      "papers": [
+        {
+          "title": "Two new motivic complexes for non-smooth schemes",
+          "year": 2024,
+          "url": "https://arxiv.org/abs/2405.14340"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "algebraic geometry",
@@ -55071,7 +55414,7 @@
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/kelly_e.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -55085,7 +55428,7 @@
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -55095,24 +55438,35 @@
         "Complex Geometry"
       ],
       "homepage": null,
-      "homepageStatus": null,
+      "homepageStatus": "现有链接由不同学者共用，未核实到独立个人主页。",
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查东京数理现任列表、日语具名学术资料及公开论文索引，独立 CV 尚未确认。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
+      "identityNote": "OpenAlex 英文 A5089776899、日文 A5029394343 都出现本人的 Hodge／Kähler 分类或同科论文，未把档案合算。",
       "metrics": [],
       "identityUrl": "https://openalex.org/A5089776899",
-      "papers": [],
+      "papers": [
+        {
+          "title": "Pluricanonical systems on algebraic varieties of general type",
+          "year": 2006,
+          "url": "https://doi.org/10.1007/s00222-006-0503-2"
+        },
+        {
+          "title": "Extension of twisted Hodge metrics for Kähler morphisms",
+          "year": 2009,
+          "url": "https://doi.org/10.4310/jdg/1253804353"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Complex Geometry",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -55123,10 +55477,10 @@
         {
           "schoolId": "tokyo",
           "department": "数学系",
-          "title": "Project Professor · Emeritus Professor",
-          "url": "https://www.u-tokyo.ac.jp/focus/en/people/k0001_04557.html",
+          "title": "Project Professor · Professor Emeritus",
+          "url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -55137,11 +55491,11 @@
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查校级日文个人档、本人英文学术页和院系特任名单。找到旧履历正文与研究作品，未确认公开独立 CV。",
       "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/~shihoko/Publications.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "英文 A5112446610、汉字 A5026880117 及合著姓名型 A5117722013 有分档证据。本人主页可查研究成果，机构文献并非经确认的完整去重范围。",
       "metrics": [],
       "identityUrl": null,
       "papers": [],
@@ -55151,7 +55505,7 @@
           "url": "https://www.ms.u-tokyo.ac.jp/~shihoko/index.en.html"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -55165,7 +55519,7 @@
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/honda_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -55174,18 +55528,29 @@
       "tags": [
         "Geometric Analysis"
       ],
-      "homepage": null,
-      "homepageStatus": null,
+      "homepage": "https://researchmap.jp/7000014678?lang=en",
+      "homepageStatus": "院系个人主页链接指 researchmap。作品子页直连 403，使用东京大学校级档和具名 DOI 核对。",
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查东京本科校级英语档、数理具名档、researchmap（作品子页 403）及学术论文，未见独立公开 CV。",
       "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/publication_e/index_e.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
+      "identityNote": "OpenAlex 数学档 A5102331710 和 A5126185220 都出现本人 RCD 与东京署名。Researchmap 发表子页 403。未汇总两档，待核本人完整篇数和引用。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Weakly non-collapsed RCD spaces are strongly non-collapsed",
+          "year": 2022,
+          "url": "https://doi.org/10.1515/crelle-2022-0071"
+        },
+        {
+          "title": "New differential operator and noncollapsed RCD spaces",
+          "year": 2020,
+          "url": "https://doi.org/10.2140/gt.2020.24.2127"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Geometric Analysis",
@@ -55196,7 +55561,7 @@
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/honda_e.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -55210,7 +55575,7 @@
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/stakagi_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -55219,18 +55584,45 @@
       "tags": [
         "Algebraic Geometry, Commutative Algebra"
       ],
-      "homepage": null,
+      "homepage": "https://www.ms.u-tokyo.ac.jp/teacher_e/stakagi_e.html",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查东京数理具名档、时期教师手册和具名论文。公开介绍可读，未见 CV。",
       "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/publication_e/index_e.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 请求或返回数据失败。",
-      "metrics": [],
+      "identityNote": "核对官方任职或研究档与已核 DOI 的作者 ID，并抽查高引条目。 著作查询与作者端覆盖总量有差别，文章用独立 type:article，累计引用采用同一作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5101660281",
+          "url": "https://openalex.org/A5101660281",
+          "orcid": "https://orcid.org/0000-0002-3940-9175",
+          "authorApiUrl": "https://api.openalex.org/authors/A5101660281",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5101660281,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 34,
+          "works": 47,
+          "citations": 1250,
+          "hIndex": 22,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "An interpretation of multiplier ideals via tight closure",
+          "year": 2003,
+          "url": "https://doi.org/10.1090/s1056-3911-03-00366-7"
+        },
+        {
+          "title": "F-singularities of pairs and Inversion of Adjunction of arbitrary codimension",
+          "year": 2004,
+          "url": "https://doi.org/10.1007/s00222-003-0350-3"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic Geometry, Commutative Algebra",
@@ -55241,7 +55633,7 @@
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/stakagi_e.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -55255,7 +55647,7 @@
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/tsaito_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -55271,13 +55663,24 @@
       "cvUrl": "https://www.ms.u-tokyo.ac.jp/~t-saito/vita.html",
       "cvType": null,
       "cvStatus": null,
-      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/publication_e/index_e.html",
+      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/~t-saito/publ.html",
       "publicationCounts": [],
       "opportunities": [],
       "identityNote": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Ramification theory for varieties over a local field",
+          "year": 2013,
+          "url": "https://doi.org/10.1007/s10240-013-0048-z"
+        },
+        {
+          "title": "On the conductor formula of Bloch",
+          "year": 2004,
+          "url": "https://doi.org/10.1007/s10240-004-0026-6"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Arithmetic and algebraic geometry",
@@ -55292,7 +55695,7 @@
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/tsaito_e.html"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -55306,7 +55709,7 @@
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -55316,18 +55719,45 @@
         "Number Theory, Arithmetic Geometry",
         "数論幾何学"
       ],
-      "homepage": null,
+      "homepage": "https://www.ms.u-tokyo.ac.jp/~t-tsuji/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查本人东京旧主页、2026 教员名单、校方数理研究报告和公开学术活动，未确认独立 CV。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
-      "metrics": [],
+      "identityNote": "核对官方任职或研究档与已核 DOI 的作者 ID，并抽查高引条目。 著作查询与作者端覆盖总量有差别，文章用独立 type:article，累计引用采用同一作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5087358090",
+          "url": "https://openalex.org/A5087358090",
+          "orcid": "https://orcid.org/0000-0002-6556-3627",
+          "authorApiUrl": "https://api.openalex.org/authors/A5087358090",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5087358090,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 18,
+          "works": 31,
+          "citations": 879,
+          "hIndex": 14,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "p-adic étale cohomology and crystalline cohomology in the semi-stable reduction case",
+          "year": 1999,
+          "url": "https://doi.org/10.1007/s002220050330"
+        },
+        {
+          "title": "Saturated morphisms of logarithmic schemes",
+          "year": 2019,
+          "url": "https://doi.org/10.2140/tunis.2019.1.185"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Number Theory, Arithmetic Geometry",
@@ -55338,7 +55768,7 @@
           "url": "https://www.ms.u-tokyo.ac.jp/icms/members.html"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -55429,7 +55859,7 @@
           "title": "Associate Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/kawakami_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -55448,13 +55878,40 @@
       "cvUrl": "https://sites.google.com/view/tatsurokawakami/home/cv",
       "cvType": null,
       "cvStatus": null,
-      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/publication_e/index_e.html",
+      "publicationsUrl": "https://sites.google.com/view/tatsurokawakami/home/papers",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
+      "identityNote": "核对官方任职或研究档与已核 DOI 的作者 ID，并抽查高引条目。 著作查询与作者端覆盖总量有差别，文章用独立 type:article，累计引用采用同一作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5013199081",
+          "url": "https://openalex.org/A5013199081",
+          "orcid": "https://orcid.org/0000-0002-8947-9665",
+          "authorApiUrl": "https://api.openalex.org/authors/A5013199081",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5013199081,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 19,
+          "works": 41,
+          "citations": 354,
+          "hIndex": 12,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": "https://openalex.org/A5013199081",
-      "papers": [],
+      "papers": [
+        {
+          "title": "Quasi-F-splittings in birational geometry",
+          "year": 2025,
+          "url": "https://doi.org/10.24033/asens.2614"
+        },
+        {
+          "title": "Pathologies and liftability of Du Val del Pezzo surfaces in positive characteristic",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s00209-022-02998-6"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic Geometry",
@@ -55473,7 +55930,7 @@
           "url": "https://sites.google.com/view/tatsurokawakami/home"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -55485,9 +55942,9 @@
           "schoolId": "tokyo",
           "department": "数理科学研究科",
           "title": "Professor（Kavli IPMU）",
-          "url": "http://db.ipmu.jp/member/personal/597en.html",
+          "url": "https://db.ipmu.jp/member/personal/597en.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -55496,25 +55953,52 @@
       "tags": [
         "Representation Theory, Algebraic Geometry"
       ],
-      "homepage": null,
+      "homepage": "https://db.ipmu.jp/member/personal/597en.html",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查 IPMU 具名科学成员、东京官方分组、研究介绍和公开发表档，未见独立 CV。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
+      "identityNote": "核对官方任职或研究档与已核 DOI 的作者 ID，并抽查高引条目。 著作查询与作者端覆盖总量有差别，文章用独立 type:article，累计引用采用同一作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5078978867",
+          "url": "https://openalex.org/A5078978867",
+          "orcid": null,
+          "authorApiUrl": "https://api.openalex.org/authors/A5078978867",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5078978867,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 27,
+          "works": 46,
+          "citations": 560,
+          "hIndex": 14,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": "https://openalex.org/A5078978867",
-      "papers": [],
+      "papers": [
+        {
+          "title": "The spaces of Laurent polynomials, Gromov–Witten theory of ℙ¹-orbifolds and integrable hierarchies",
+          "year": 2008,
+          "url": "https://doi.org/10.1515/crelle.2008.069"
+        },
+        {
+          "title": "Gromov–Witten theory of Fano orbifold curves, Gamma integral structures and ADE-Toda hierarchies",
+          "year": 2016,
+          "url": "https://doi.org/10.2140/gt.2016.20.2135"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Representation Theory, Algebraic Geometry",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -55526,9 +56010,9 @@
           "schoolId": "tokyo",
           "department": "数理科学研究科",
           "title": "Professor（Kavli IPMU）",
-          "url": "http://db.ipmu.jp/member/personal/1417en.html",
+          "url": "https://db.ipmu.jp/member/personal/1417en.html",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -55537,25 +56021,31 @@
       "tags": [
         "Arithmetic geometry"
       ],
-      "homepage": null,
+      "homepage": "https://db.ipmu.jp/member/personal/1417en.html",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查 IPMU 名册、校方本人研究说明与具名历史研究简报，均为履历或研究概要。未核实独立公开 CV。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名及机构检索未取得唯一吻合档案。",
+      "identityNote": "由 Langlands 同晶论文定位 A5054203101。档内高引并入同名医学作者的外科、癌症和细胞作品。已核 IPMU 具名机构与刊物，未核实本人完整文章与累计引用。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Langlands correspondence for isocrystals and the existence of crystalline companions for curves",
+          "year": 2013,
+          "url": "https://arxiv.org/abs/1310.0528"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Arithmetic geometry",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -55566,10 +56056,10 @@
         {
           "schoolId": "tokyo",
           "department": "数理科学研究科",
-          "title": "Assistant Professor",
+          "title": "Assistant Professor · Graduate School of Mathematical Sciences",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -55579,24 +56069,51 @@
         "Differential Geometry"
       ],
       "homepage": null,
-      "homepageStatus": null,
+      "homepageStatus": "现有链接由不同学者共用，未核实到独立个人主页。",
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查东京英日现任名录、具名期刊论文和研究名录。学校现行目录提供行内学术资料，未找到独立 CV。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
+      "identityNote": "核对官方任职或研究档与已核 DOI 的作者 ID，并抽查高引条目。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5083212945",
+          "url": "https://openalex.org/A5083212945",
+          "orcid": null,
+          "authorApiUrl": "https://api.openalex.org/authors/A5083212945",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5083212945,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 5,
+          "works": 5,
+          "citations": 44,
+          "hIndex": 2,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": "https://openalex.org/A5083212945",
-      "papers": [],
+      "papers": [
+        {
+          "title": "Einstein-Hermitian connections on Hyper-Kähler quotients",
+          "year": 1992,
+          "url": "https://doi.org/10.2969/jmsj/04410043"
+        },
+        {
+          "title": "The topological invariant of three-manifolds based on the U(1) gauge theory",
+          "year": 1990,
+          "url": "https://doi.org/10.3792/pjaa.66.237"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Differential Geometry",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -55607,10 +56124,10 @@
         {
           "schoolId": "tokyo",
           "department": "数学系",
-          "title": "Project Professor",
+          "title": "Project Professor · Graduate School of Mathematical Sciences",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -55621,21 +56138,167 @@
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查现行特任表、J-GLOBAL 具名页（直连 503）与可读校方研究链接；未找到独立公开 CV。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
+      "identityNote": "核对官方任职或研究档与已核 DOI 的作者 ID，并抽查高引条目。 著作查询与作者端覆盖总量有差别，文章用独立 type:article，累计引用采用同一作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5052590114",
+          "url": "https://openalex.org/A5052590114",
+          "orcid": "https://orcid.org/0000-0003-4328-8887",
+          "authorApiUrl": "https://api.openalex.org/authors/A5052590114",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5052590114,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 34,
+          "works": 57,
+          "citations": 1050,
+          "hIndex": 14,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "On Fermat varieties",
+          "year": 1979,
+          "url": "https://doi.org/10.2748/tmj/1178229881"
+        },
+        {
+          "title": "On a stratification of the moduli of K3 surfaces",
+          "year": 2000,
+          "url": "https://doi.org/10.1007/s100970000021"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic geometry, algebraic surfaces in positive characteristic, K3 and Calabi–Yau varieties",
           "url": "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200901082666960313"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "toshiyuki-kobayashi",
+      "name": "Toshiyuki Kobayashi",
+      "aliases": [
+        "小林俊行"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "tokyo",
+          "department": "数理科学研究科",
+          "title": "Professor · Kavli IPMU Senior Fellow",
+          "url": "https://www.ipmu.jp/ja/20260901-IHES",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [
+        "Lie Theory",
+        "Lie theory, geometric group theory and representation theory"
+      ],
+      "homepage": "https://www.ms.u-tokyo.ac.jp/~toshi/j-index.html",
+      "homepageStatus": null,
+      "cvUrl": "https://www.ms.u-tokyo.ac.jp/~toshi/cv/TK-cv-202602.pdf",
+      "cvType": "本人公开 PDF 学术 CV，文件版 2026-02",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/~toshi/pub/TKpublications.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "OpenAlex A5041756388 识别正当数学论文，同时混入同名者全球土地覆盖测绘等高引文章。查本人完整学术表，它同收论文、综述、书章、编辑等，部分题名重复。只保留举证的发表入口，当前未核实全范围期刊数或总引用。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Proper action on a homogeneous space of reductive type",
+          "year": 1989,
+          "url": "https://doi.org/10.1007/bf01443517"
+        },
+        {
+          "title": "Discrete decomposability of the restriction of A_q(λ) with respect to reductive subgroups",
+          "year": 1998,
+          "url": "https://doi.org/10.1007/s002220050203"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Lie Theory",
+          "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
+        },
+        {
+          "text": "Lie theory, geometric group theory and representation theory",
+          "url": "https://fj-lmi.cnrs.fr/members/"
+        },
+        {
+          "text": "Differential geometry and geometric analysis of homogeneous spaces, Clifford–Klein forms and discontinuous group actions",
+          "url": "https://www.ms.u-tokyo.ac.jp/~toshi/pub/ResearchSum.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "yoichi-mieda",
+      "name": "Yoichi Mieda",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "tokyo",
+          "department": "数理科学研究科",
+          "title": "Associate Professor · Graduate School of Mathematical Sciences",
+          "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [
+        "Number theory"
+      ],
+      "homepage": "https://www.ms.u-tokyo.ac.jp/~mieda/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查东京官方人员及研究页、学术讲座和代表论文，未见独立 CV。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "英日文数学档 A5084906138 与 A5023755861 分列，同见 Shimura 和刚性空间，不合并汇总，待确认本人发表表。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Potentially good reduction loci of Shimura varieties",
+          "year": 2020,
+          "url": "https://doi.org/10.2140/tunis.2020.2.399"
+        },
+        {
+          "title": "On l-independence for the étale cohomology of rigid spaces over local fields",
+          "year": 2007,
+          "url": "https://doi.org/10.1112/s0010437x06002582"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Number theory",
+          "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
+        },
+        {
+          "text": "Arithmetic algebraic geometry of Shimura varieties and Rapoport–Zink spaces",
+          "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -55646,10 +56309,10 @@
         {
           "schoolId": "tokyo",
           "department": "数学系",
-          "title": "Project Professor",
-          "url": "https://www.u-tokyo.ac.jp/focus/en/people/people000367.html",
+          "title": "Project Professor · Professor Emeritus",
+          "url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -55663,13 +56326,19 @@
       "cvUrl": null,
       "cvType": null,
       "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/~ygiga/publication.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "英文 A5071130497、A5151694662 及原文 A5066236929 同有本人几何与 PDE 署名。本人旧体系三份论文分类可以回核限时范围，但覆盖仅更新到 2020-02 且个别临界条目当时没有期刊出版信息，累计引用未合并。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Uniqueness and existence of viscosity solutions of generalized mean curvature flow equations",
+          "year": 1991,
+          "url": "https://doi.org/10.4310/jdg/1214446564"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "非線形解析",
@@ -55680,7 +56349,7 @@
           "url": "https://www.u-tokyo.ac.jp/focus/en/people/people000367.html"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -55694,7 +56363,7 @@
           "title": "Professor",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/gongyo_e.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -55709,13 +56378,40 @@
       "cvUrl": "https://www.ms.u-tokyo.ac.jp/~gongyo/cv.html",
       "cvType": null,
       "cvStatus": null,
-      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/publication_e/index_e.html",
+      "publicationsUrl": "https://www.ms.u-tokyo.ac.jp/~gongyo/papers.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
-      "metrics": [],
+      "identityNote": "核对官方任职或研究档与已核 DOI 的作者 ID，并抽查高引条目。 著作查询与作者端覆盖总量有差别，文章用独立 type:article，累计引用采用同一作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5048624259",
+          "url": "https://openalex.org/A5048624259",
+          "orcid": null,
+          "authorApiUrl": "https://api.openalex.org/authors/A5048624259",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5048624259,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 23,
+          "works": 37,
+          "citations": 876,
+          "hIndex": 16,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": "https://openalex.org/A5048624259",
-      "papers": [],
+      "papers": [
+        {
+          "title": "Characterization of varieties of Fano type via singularities of Cox rings",
+          "year": 2014,
+          "url": "https://doi.org/10.1090/s1056-3911-2014-00641-x"
+        },
+        {
+          "title": "Rational points on log Fano threefolds over a finite field",
+          "year": 2019,
+          "url": "https://doi.org/10.4171/jems/913"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic Geometry",
@@ -55730,7 +56426,7 @@
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/gongyo_e.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -55741,25 +56437,25 @@
         {
           "schoolId": "tokyo",
           "department": "数学系",
-          "title": "University Professor",
-          "url": "https://researchmap.jp/read0067873",
+          "title": "University Professor · Office of Special Professors, Office of the President",
+          "url": "https://www.ms.u-tokyo.ac.jp/teacher/project_professor.html",
           "type": "primary",
-          "checkedAt": "2026-11-25"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [],
-      "homepage": null,
+      "homepage": "https://www.ms.u-tokyo.ac.jp/kyoumu/documents/kawamata_e.pdf",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查东京大学当前特任／特别教授名录、旧研究说明与近期本人访谈；researchmap 直连 403。旧 PDF 是研究简介，未得公开学术 CV。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "identityNote": "同一人英文 A5071187442、汉字 A5028001061 和少数附录型档分开。旧校方 PDF 为研究简介，researchmap 直连 403，未核实完整论文数与引用。",
       "metrics": [],
       "identityUrl": null,
       "papers": [],
@@ -55769,7 +56465,7 @@
           "url": "https://researchmap.jp/read0067873"
         }
       ],
-      "checkedAt": "2026-11-25",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -55780,10 +56476,10 @@
         {
           "schoolId": "tokyo",
           "department": "数理科学研究科",
-          "title": "Professor（Kavli IPMU）",
+          "title": "Professor · Deputy Director of Kavli IPMU",
           "url": "https://db.ipmu.jp/member/personal/5393en.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -55793,18 +56489,29 @@
         "Algebraic Geometry",
         "Mathematics Mathematics"
       ],
-      "homepage": null,
+      "homepage": "https://db.ipmu.jp/member/personal/5393en.html",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": "https://www.ipmu.jp/en/publication",
+      "cvStatus": "查 IPMU 和 J-GLOBAL 具名档、东京研究介绍、IAS 访学档和独立 CV 检索；目前可读的是概要与履历部分，独立 CV 未核实。",
+      "publicationsUrl": "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200901055523374530",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 请求或返回数据失败。",
+      "identityNote": "A5053296354 的 McKay 论文核符本人，研究汇总还含另一位作者的放射性生态与分子光谱论文。J-GLOBAL 具名索引可查，直连 503。IPMU 具名与 IAS 活动证实身份，未核得完整期刊数量或累计引用。",
       "metrics": [],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "McKay correspondence and Hilbert schemes in dimension three",
+          "year": 2000,
+          "url": "https://doi.org/10.1016/s0040-9383(99)00003-8"
+        },
+        {
+          "title": "McKay correspondence and Hilbert schemes",
+          "year": 1996,
+          "url": "https://doi.org/10.3792/pjaa.72.135"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic Geometry",
@@ -55815,7 +56522,7 @@
           "url": "https://db.ipmu.jp/member/personal/5393en.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
@@ -55827,9 +56534,9 @@
           "schoolId": "tokyo",
           "department": "数理科学研究科",
           "title": "Professor（Kavli IPMU）",
-          "url": "http://db.ipmu.jp/member/personal/755en.html",
+          "url": "https://db.ipmu.jp/member/personal/755en.html",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -55838,25 +56545,52 @@
       "tags": [
         "Algebraic Geometry"
       ],
-      "homepage": null,
+      "homepage": "https://db.ipmu.jp/member/personal/755en.html",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "查 IPMU 具名档及 JSPS 公布的项目履历。JSPS 文件是多年以前的项目说明附件，未核实独立公开 CV。",
       "publicationsUrl": null,
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "OpenAlex 请求或返回数据失败。",
-      "metrics": [],
+      "identityNote": "核对官方任职或研究档与已核 DOI 的作者 ID，并抽查高引条目。 著作查询与作者端覆盖总量有差别，文章用独立 type:article，累计引用采用同一作者档案。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5044197760",
+          "url": "https://openalex.org/A5044197760",
+          "orcid": "https://orcid.org/0000-0001-6340-9573",
+          "authorApiUrl": "https://api.openalex.org/authors/A5044197760",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5044197760,type:article&per_page=1&select=id",
+          "checkedAt": "2026-11-26",
+          "articles": 58,
+          "works": 105,
+          "citations": 2434,
+          "hIndex": 26,
+          "articleScope": "OpenAlex type:article",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
       "identityUrl": null,
-      "papers": [],
+      "papers": [
+        {
+          "title": "Bridgeland stability conditions on threefolds I: Bogomolov-Gieseker type inequalities",
+          "year": 2013,
+          "url": "https://doi.org/10.1090/s1056-3911-2013-00617-7"
+        },
+        {
+          "title": "Curve counting theories via stable objects I. DT/PT correspondence",
+          "year": 2010,
+          "url": "https://doi.org/10.1090/s0894-0347-10-00670-3"
+        }
+      ],
       "directoryEvidence": [
         {
           "text": "Algebraic Geometry",
           "url": "https://www.ms.u-tokyo.ac.jp/teacher_e/ichiran_gojyuon_e.html"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {
