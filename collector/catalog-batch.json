@@ -967,14 +967,218 @@
     {
       "id": "uchicago",
       "coverage": "sample",
-      "coverageNote": "已解析 1/1 个登记来源，54 条任职或方向待核。 已收录 1 位学者，个人主页 0、CV 0、指标 0。",
+      "coverageNote": "已解析 5/52 个登记来源，0 条任职或方向待核。 已收录 20 位学者，个人主页 13、CV 9、指标 4。 数学总表 175 张具名卡，核对当期 36 位教师、研究教授、30 位 Dickson、6 位访问、13 位教学及 79 位学生。逐卡核对现职与主题，另查荣休与八个研究筛选、2026–27 任职公告和几何研讨会。物理总表 277 张，Leinweber 总表 59 张，分别对照各职级、Kadanoff、弦论和引力分组。另核 CCAM、Statistics、IMSI 与计算机。公开方的个人人事起止、完整产出和 CS 跨页仍有缺口。",
       "rosterLinks": [
+        [
+          "Committee on Computational and Applied Mathematics · Affiliates",
+          "https://cam.uchicago.edu/people/#affiliates"
+        ],
+        [
+          "Committee on Computational and Applied Mathematics · Emeritus",
+          "https://cam.uchicago.edu/people/#emeritus"
+        ],
+        [
+          "Committee on Computational and Applied Mathematics · Faculty",
+          "https://cam.uchicago.edu/people/#faculty"
+        ],
+        [
+          "Committee on Computational and Applied Mathematics · Former Postdocs",
+          "https://cam.uchicago.edu/people/#former-postdocs"
+        ],
+        [
+          "Committee on Computational and Applied Mathematics · Kruskal Instructors",
+          "https://cam.uchicago.edu/people/#kruskal-instructors"
+        ],
+        [
+          "Computer Science · full-time faculty",
+          "https://cs.uchicago.edu/people/uchicago-faculty/full-time-faculty/"
+        ],
+        [
+          "Institute for Mathematical and Statistical Innovation · Directorate and Staff",
+          "https://www.imsi.institute/directors-and-staff/"
+        ],
+        [
+          "Leinweber Institute · People",
+          "https://litp.uchicago.edu/people/"
+        ],
+        [
+          "Leinweber Institute · General Relativity",
+          "https://litp.uchicago.edu/people/#general-relativity"
+        ],
+        [
+          "Leinweber Institute · Kadanoff Center",
+          "https://litp.uchicago.edu/kadanoff-center/"
+        ],
+        [
+          "Leinweber Institute · Postdocs",
+          "https://litp.uchicago.edu/people/#postdocs"
+        ],
+        [
+          "Leinweber Institute · Senior Associates",
+          "https://litp.uchicago.edu/people/#senior-associates"
+        ],
+        [
+          "Leinweber Institute · Senior Members",
+          "https://litp.uchicago.edu/people/#senior-members"
+        ],
+        [
+          "Leinweber Institute · String Theory",
+          "https://litp.uchicago.edu/people/#string-theory"
+        ],
+        [
+          "Leinweber Institute · Students",
+          "https://litp.uchicago.edu/people/#students"
+        ],
         [
           "数学系 People",
           "https://mathematics.uchicago.edu/people/"
+        ],
+        [
+          "Mathematics · Algebraic Geometry Seminar",
+          "https://sites.google.com/view/uchicago-ag/"
+        ],
+        [
+          "Physical Sciences Division · 2026–27 appointments",
+          "https://physicalsciences.uchicago.edu/news/article/introducing-new-faculty-PSD-26-27/"
+        ],
+        [
+          "Mathematics · graduate offering and course archive",
+          "https://mathematics.uchicago.edu/graduate/mathematics-phd-program/courses/"
+        ],
+        [
+          "Mathematics · L.E. Dickson Instructors",
+          "https://mathematics.uchicago.edu/people/#dickson-instructors"
+        ],
+        [
+          "Mathematics · Dickson Instructor recruitment",
+          "https://mathematics.uchicago.edu/about/job-opportunities/"
+        ],
+        [
+          "Mathematics · Emeriti Faculty",
+          "https://mathematics.uchicago.edu/people/emeriti-faculty/"
+        ],
+        [
+          "Mathematics · Geometry/Topology Seminar notice",
+          "https://math.uchicago.edu/~geometry/gt_seminar.html"
+        ],
+        [
+          "Mathematics · Graduate Students",
+          "https://mathematics.uchicago.edu/people/#graduate-students"
+        ],
+        [
+          "Mathematics · Instructional Faculty",
+          "https://mathematics.uchicago.edu/people/#instructional-faculty"
+        ],
+        [
+          "Mathematics · Professors",
+          "https://mathematics.uchicago.edu/people/#professors"
+        ],
+        [
+          "Mathematics · Research Professors",
+          "https://mathematics.uchicago.edu/people/#research-professors"
+        ],
+        [
+          "Mathematics · departmental seminars",
+          "https://math.uchicago.edu/seminars/superlist2.html"
+        ],
+        [
+          "Mathematics · Administrative Staff",
+          "https://mathematics.uchicago.edu/people/#staff"
+        ],
+        [
+          "Mathematics · Algebraic Geometry",
+          "https://mathematics.uchicago.edu/people/#algebraic-geometry"
+        ],
+        [
+          "Mathematics · Differential Geometry",
+          "https://mathematics.uchicago.edu/people/#differential-geometry"
+        ],
+        [
+          "Mathematics · Geometric Analysis",
+          "https://mathematics.uchicago.edu/people/#geometric-analysis"
+        ],
+        [
+          "Mathematics · Geometric Measure Theory",
+          "https://mathematics.uchicago.edu/people/#geometric-measure-theory"
+        ],
+        [
+          "Mathematics · Geometric Topology",
+          "https://mathematics.uchicago.edu/people/#geometric-topology"
+        ],
+        [
+          "Mathematics · Geometry",
+          "https://mathematics.uchicago.edu/people/#geometry"
+        ],
+        [
+          "Mathematics · Mathematical Physics",
+          "https://mathematics.uchicago.edu/people/#mathematical-physics"
+        ],
+        [
+          "Mathematics · Number Theory",
+          "https://mathematics.uchicago.edu/people/#number-theory"
+        ],
+        [
+          "Mathematics · Visiting Faculty",
+          "https://mathematics.uchicago.edu/people/#visiting-faculty"
+        ],
+        [
+          "Physics · Emeriti Faculty",
+          "https://physics.uchicago.edu/people/emeriti-faculty/"
+        ],
+        [
+          "Physics · Faculty",
+          "https://physics.uchicago.edu/people/#faculty"
+        ],
+        [
+          "Physics · General Relativity",
+          "https://physics.uchicago.edu/people/#general-relativity"
+        ],
+        [
+          "Physics · Graduate Students",
+          "https://physics.uchicago.edu/people/#graduate-students"
+        ],
+        [
+          "Physics · Kadanoff Center",
+          "https://physics.uchicago.edu/people/#kadanoff-center"
+        ],
+        [
+          "Physics · Leinweber Institute affiliation",
+          "https://physics.uchicago.edu/people/#leinweber-institute-for-theoretical-physics"
+        ],
+        [
+          "Physics · Postdocs",
+          "https://physics.uchicago.edu/people/#postdocs"
+        ],
+        [
+          "Physics · Research Scientists",
+          "https://physics.uchicago.edu/people/#research-scientists"
+        ],
+        [
+          "Physics · Theory",
+          "https://physics.uchicago.edu/people/#theory"
+        ],
+        [
+          "Statistics · Affiliates",
+          "https://stat.uchicago.edu/people/#affiliates"
+        ],
+        [
+          "Statistics · Emeriti",
+          "https://stat.uchicago.edu/people/#emeriti-faculty"
+        ],
+        [
+          "Statistics · Faculty",
+          "https://stat.uchicago.edu/people/#faculty"
+        ],
+        [
+          "Statistics · Postdocs and Kruskal Instructors",
+          "https://stat.uchicago.edu/people/#kruskal-instructors-and-postdocs"
+        ],
+        [
+          "Statistics · Visiting Scholars",
+          "https://stat.uchicago.edu/people/#visiting-scholars"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-26"
     },
     {
       "id": "ut-austin",
@@ -61850,17 +62054,542 @@
       "recordStatus": "directory"
     },
     {
+      "id": "akhil-mathew",
+      "name": "Akhil Mathew",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Mathematics",
+          "title": "Professor",
+          "url": "https://mathematics.uchicago.edu/people/profile/akhil-mathew/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://math.uchicago.edu/~amathew/",
+      "homepageStatus": null,
+      "cvUrl": "https://math.uchicago.edu/~amathew/amathew_cv.pdf",
+      "cvType": "公开学术 CV（早期版本，7 页）",
+      "cvStatus": null,
+      "publicationsUrl": "https://math.uchicago.edu/~amathew/",
+      "publicationCounts": [
+        {
+          "value": 28,
+          "url": "https://openalex.org/A5084432269",
+          "scope": "核对 OpenAlex 具名作品端 29 条 article，在此索引范围内按不同 DOI 统计可归属的期刊作品，排除缺期刊来源、纪念、行政或重复题录。出现在作者清单中但不在该索引范围的作品另待核。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The arc-topology",
+          "year": 2021,
+          "url": "https://doi.org/10.1215/00127094-2020-0088"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry, prismatic cohomology, algebraic K-theory and stable homotopy theory",
+          "url": "https://mathematics.uchicago.edu/people/profile/akhil-mathew/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alex-eskin",
+      "name": "Alex Eskin",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Mathematics",
+          "title": "Arthur Holly Compton Distinguished Service Professor",
+          "url": "https://mathematics.uchicago.edu/people/profile/alex-eskin/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://math.uchicago.edu/~eskin/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查系具名研究卡、当前人员名录、可见个人或机构主页及主要出版者资料。未取得可验证独立公开 CV。",
+      "publicationsUrl": "https://math.uchicago.edu/~eskin/",
+      "publicationCounts": [
+        {
+          "value": 46,
+          "url": "https://openalex.org/A5005010569",
+          "scope": "核对 OpenAlex 具名作品端 49 条 article，在此索引范围内按不同 DOI 统计可归属的期刊作品，排除缺期刊来源、纪念、行政或重复题录。出现在作者清单中但不在该索引范围的作品另待核。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "OpenAlex 作者端 90，作品端 68，并收录视频访谈和重复版本。由数学系个人卡直达 Google Scholar，核对芝加哥单位和代表题名。",
+      "metrics": [
+        {
+          "source": "Google Scholar",
+          "authorId": "waZeaSYAAAAJ",
+          "url": "https://scholar.google.com/citations?user=waZeaSYAAAAJ&hl=en",
+          "checkedAt": "2026-11-26",
+          "citations": 5587,
+          "hIndex": 36,
+          "citationScope": "Google Scholar 作者页 All 列，包含该库的公开可归属作品与版本聚合。"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Isolation, equidistribution, and orbit closures for the SL(2,R) action on moduli space",
+          "year": 2015,
+          "url": "https://doi.org/10.4007/annals.2015.182.2.7"
+        },
+        {
+          "title": "Invariant and stationary measures for the SL(2,R) action on moduli space",
+          "year": 2018,
+          "url": "https://doi.org/10.1007/s10240-018-0099-2"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and complex geometry of translation surfaces, Teichmüller dynamics and moduli of Abelian differentials",
+          "url": "https://math.uchicago.edu/~eskin/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "alexander-beilinson",
+      "name": "Alexander Beilinson",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Mathematics",
+          "title": "David and Mary Winton Green University Professor",
+          "url": "https://mathematics.uchicago.edu/people/profile/alexander-beilinson/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "系具名卡、院校人员目录与出版者资料可读。未验证独立个人学术主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查系具名研究卡、当前人员名录、可见个人或机构主页及主要出版者资料。未取得可验证独立公开 CV。",
+      "publicationsUrl": null,
+      "publicationCounts": [
+        {
+          "value": 25,
+          "url": "https://openalex.org/A5071623534",
+          "scope": "核对 OpenAlex 具名作品端 29 条 article，在此索引范围内按不同 DOI 统计可归属的期刊作品，排除缺期刊来源、纪念、行政或重复题录。出现在作者清单中但不在该索引范围的作品另待核。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Higher regulators and values of L-functions",
+          "year": 1985,
+          "url": "https://doi.org/10.1007/BF02105861"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry, motives, algebraic D-modules and geometric Langlands",
+          "url": "https://mathematics.uchicago.edu/people/profile/alexander-beilinson/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "andre-neves",
+      "name": "André Neves",
+      "aliases": [
+        "André Arroja Neves"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Mathematics",
+          "title": "Professor",
+          "url": "https://mathematics.uchicago.edu/people/profile/andre-neves/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://math.uchicago.edu/~aneves/",
+      "homepageStatus": null,
+      "cvUrl": "https://math.uchicago.edu/~aneves/cvandre.pdf",
+      "cvType": "公开学术 CV（7 页）",
+      "cvStatus": null,
+      "publicationsUrl": "https://math.uchicago.edu/~aneves/research.html",
+      "publicationCounts": [
+        {
+          "value": 29,
+          "url": "https://math.uchicago.edu/~aneves/cvandre.pdf",
+          "scope": "公开 CV List of Publications 共 31 项。正文已有 26 个正式期刊条目，三项旧待刊分别用 JDG DOI 10.4310/jdg/1685121320、10.4310/jdg/1747156792、10.4310/jdg/1747158583 核实后计入。其余两份预印本未找到正式刊本。这个数字仅覆盖该 CV 分栏。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "OpenAlex 前排为医学、生化和农业同名。通过 Annals 和 Advances 两个 DOI 均只列 André Neves 姓名、真实数学单位，作者 ID 缺失。全名对应 A5102053264 只有一条预印本，不能作为累计。使用公开 CV 与三条补登期刊原文。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Min-Max theory and the Willmore conjecture",
+          "year": 2014,
+          "url": "https://doi.org/10.4007/annals.2014.179.2.6"
+        },
+        {
+          "title": "Morse index of multiplicity one min-max minimal hypersurfaces",
+          "year": 2021,
+          "url": "https://doi.org/10.1016/j.aim.2020.107527"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis, minimal hypersurfaces, mean curvature flow and min-max theory",
+          "url": "https://math.uchicago.edu/~aneves/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "benjamin-bakker",
+      "name": "Benjamin Bakker",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Mathematics",
+          "title": "Professor",
+          "url": "https://mathematics.uchicago.edu/people/profile/benjamin-bakker/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://benjamin-bakker.github.io/",
+      "homepageStatus": null,
+      "cvUrl": "https://benjamin-bakker.github.io/cv.bakker.pdf",
+      "cvType": "公开学术 CV（2026-09-01，8 页）",
+      "cvStatus": null,
+      "publicationsUrl": "https://benjamin-bakker.github.io/",
+      "publicationCounts": [
+        {
+          "value": 22,
+          "url": "https://benjamin-bakker.github.io/cv.bakker.pdf",
+          "scope": "2026-09 学术 CV 的 Papers 两页逐项判定，共 22 篇独立正式期刊版本。单列勘误、博士论文、未刊稿、讲义和会议文集。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "正确 ORCID 的档案端 43、作品端 33，包含修正、学位论文、报告与正式版。使用本人 2026-09 学术 CV 核对期刊范围。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "o-minimal GAGA and a conjecture of Griffiths",
+          "year": 2023,
+          "url": "https://doi.org/10.1007/s00222-022-01166-1"
+        },
+        {
+          "title": "The global moduli theory of symplectic varieties",
+          "year": 2022,
+          "url": "https://doi.org/10.1515/crelle-2022-0033"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Hodge theory and algebraic geometry, period maps, symplectic varieties and K3 moduli",
+          "url": "https://physicalsciences.uchicago.edu/news/article/introducing-new-faculty-PSD-26-27/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "benson-farb",
+      "name": "Benson Farb",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Mathematics",
+          "title": "Ann Gillian Sheldon Professor",
+          "url": "https://mathematics.uchicago.edu/people/profile/benson-farb/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://math.uchicago.edu/~farb/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "数学官网、专家简介及作者站核对。猜测 cv.pdf 路径是 HTTP 404，未找到独立公开 CV。",
+      "publicationsUrl": "https://math.uchicago.edu/~farb/papers.html",
+      "publicationCounts": [
+        {
+          "value": 69,
+          "url": "https://math.uchicago.edu/~farb/papers.html",
+          "scope": "作者本人 91 项书目逐一核对，统计其中已有期刊出处的不同研究论文。排除当页标未刊的作品、书或章节、会议论文集和纪念文。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "OpenAlex 主档夹有教学资料、演讲、会议与书章，作者端 182 与作品端口径不同。改用作者完整书目计算明确期刊范围，累计引用留待找到可核验来源。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential and algebraic geometry of moduli spaces of Riemann surfaces and hypersurfaces, Teichmüller theory and geometric topology",
+          "url": "https://math.uchicago.edu/~farb/papers.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "bao-chau-ngo",
+      "name": "Bảo Châu Ngô",
+      "aliases": [
+        "Ngô Bảo Châu",
+        "Bao Chau Ngo",
+        "B. C. Ngô"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Mathematics",
+          "title": "Francis and Rose Yuen Distinguished Service Professor",
+          "url": "https://mathematics.uchicago.edu/people/profile/bo-chau-ngo/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://math.uchicago.edu/~ngo/",
+      "homepageStatus": null,
+      "cvUrl": "https://math.uchicago.edu/~ngo/cv-2018.pdf",
+      "cvType": "公开学术 CV（2018）",
+      "cvStatus": null,
+      "publicationsUrl": "https://math.uchicago.edu/~ngo/",
+      "publicationCounts": [
+        {
+          "value": 18,
+          "url": "https://math.uchicago.edu/~ngo/cv-2018.pdf",
+          "scope": "2018 版学术 CV 的 29 个编号项逐一核查。仅计已在该版 CV 给出正式期刊出处的项，会议、章节及标待刊／预印本单列。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "主档作品端 54 对作者端 62，论文类亦含明确异题同名和项目通告。数学身份由 Hitchin 原文和校方 CV 定人，保留覆盖范围。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Le lemme fondamental pour les algèbres de Lie",
+          "year": 2010,
+          "url": "https://doi.org/10.1007/s10240-010-0026-7"
+        },
+        {
+          "title": "Fibration de Hitchin et endoscopie",
+          "year": 2006,
+          "url": "https://doi.org/10.1007/s00222-005-0483-7"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic and arithmetic geometry, Hitchin fibrations, endoscopy and geometric Langlands",
+          "url": "https://math.uchicago.edu/~ngo/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "daniil-rudenko",
+      "name": "Daniil Rudenko",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Mathematics",
+          "title": "Assistant Professor",
+          "url": "https://mathematics.uchicago.edu/people/profile/daniil-rudenko/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://math.uchicago.edu/~rudenkodaniil/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "旧校版 CV_2021.pdf 为 404。核对院系及作者站，继续查独立可验证公开版本。",
+      "publicationsUrl": "https://math.uchicago.edu/~rudenkodaniil/",
+      "publicationCounts": [
+        {
+          "value": 6,
+          "url": "https://openalex.org/A5113233937",
+          "scope": "核对 OpenAlex 具名作品端 6 条 article，在此索引范围内按不同 DOI 统计可归属的期刊作品，排除缺期刊来源、纪念、行政或重复题录。出现在作者清单中但不在该索引范围的作品另待核。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Rational elliptic surfaces and the trigonometry of tetrahedra",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s00222-021-01066-w"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of rational elliptic surfaces, mixed Tate motives, polylogarithms and algebraic K-theory",
+          "url": "https://mathematics.uchicago.edu/people/profile/daniil-rudenko/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "danny-calegari",
+      "name": "Danny Calegari",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Mathematics",
+          "title": "Professor",
+          "url": "https://mathematics.uchicago.edu/people/profile/danny-calegari/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://math.uchicago.edu/~dannyc/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查系具名研究卡、当前人员名录、可见个人或机构主页及主要出版者资料。未取得可验证独立公开 CV。",
+      "publicationsUrl": "https://math.uchicago.edu/~dannyc/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of foliations, hyperbolic geometry of three-manifolds and geometric topology",
+          "url": "https://math.uchicago.edu/~dannyc/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "kazuya-kato",
+      "name": "Kazuya Kato",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Mathematics",
+          "title": "Samuel K. Allison Distinguished Service Professor",
+          "url": "https://mathematics.uchicago.edu/people/profile/kazuya-kato/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "系具名卡、院校人员目录与出版者资料可读。未验证独立个人学术主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查系具名研究卡、当前人员名录、可见个人或机构主页及主要出版者资料。未取得可验证独立公开 CV。",
+      "publicationsUrl": null,
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "候选主档混入癌症、手术和材料研究同名记录。校方指南和署名期刊可证数学身份。尚未找到身份明晰的累计作者档或独立完整书目。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry, logarithmic geometry, p-adic Hodge theory and Iwasawa theory",
+          "url": "https://mathematics.uchicago.edu/people/profile/kazuya-kato/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
       "id": "kevin-corlette",
       "name": "Kevin Corlette",
       "aliases": [],
       "affiliations": [
         {
           "schoolId": "uchicago",
-          "department": "数学系",
+          "department": "Department of Mathematics",
           "title": "George and Elizabeth Yovovich Professor, Director of the Institute for Mathematical and Statistical Innovation",
           "url": "https://mathematics.uchicago.edu/people/profile/kcorlette/",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-26"
         }
       ],
       "fields": [
@@ -61869,24 +62598,551 @@
       ],
       "tags": [],
       "homepage": null,
-      "homepageStatus": null,
+      "homepageStatus": "系具名卡、院校人员目录与出版者资料可读。未验证独立个人学术主页。",
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
+      "cvStatus": "已查系具名研究卡、当前人员名录、可见个人或机构主页及主要出版者资料。未取得可验证独立公开 CV。",
       "publicationsUrl": null,
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 11,
+          "url": "https://openalex.org/A5049001829",
+          "scope": "核对 OpenAlex 具名作品端 14 条 article，在此索引范围内按不同 DOI 统计可归属的期刊作品，排除缺期刊来源、纪念、行政或重复题录。出现在作者清单中但不在该索引范围的作品另待核。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
       "opportunities": [],
-      "identityNote": "OpenAlex 姓名与机构匹配，尚缺独立代表作或机构披露的 ORCID，累计指标待核。",
+      "identityNote": "具名档 27 条的角色与任职相符，article 类另含 NSF／IMSI 新闻和无期刊书目信息条目，现核对具名作品及独立来源范围。",
       "metrics": [],
       "identityUrl": "https://openalex.org/A5049001829",
-      "papers": [],
+      "papers": [
+        {
+          "title": "Flat G-bundles with canonical metrics",
+          "year": 1988,
+          "url": "https://doi.org/10.4310/jdg/1214442469"
+        },
+        {
+          "title": "Archimedean superrigidity and hyperbolic geometry",
+          "year": 1992,
+          "url": "https://doi.org/10.2307/2946567"
+        }
+      ],
       "directoryEvidence": [
         {
-          "text": "My research interests lie in differential and algebraic geometry. I am particularly interested in Kahler geometry and locally symmetric spaces, as well as systems of partial differential equations with geometric meaning, such as the harmonic map and Yang-Mills equations.",
+          "text": "Differential, complex and algebraic geometry, harmonic maps, Kähler geometry, and locally symmetric spaces",
           "url": "https://mathematics.uchicago.edu/people/profile/kcorlette/"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "matthew-emerton",
+      "name": "Matthew Emerton",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Mathematics",
+          "title": "Professor",
+          "url": "https://mathematics.uchicago.edu/people/profile/matthew-emerton/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://math.uchicago.edu/~emerton/",
+      "homepageStatus": null,
+      "cvUrl": "https://math.uchicago.edu/~emerton/cv_short.pdf",
+      "cvType": "公开短版学术 CV（2023-01，6 页）",
+      "cvStatus": null,
+      "publicationsUrl": "https://math.uchicago.edu/~emerton/preprints.html",
+      "publicationCounts": [
+        {
+          "value": 34,
+          "url": "https://openalex.org/A5072677897",
+          "scope": "核对 OpenAlex 具名作品端 38 条 article，在此索引范围内按不同 DOI 统计可归属的期刊作品，排除缺期刊来源、纪念、行政或重复题录。出现在作者清单中但不在该索引范围的作品另待核。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "主档 94 对作品端 62，章节多版本及同人小档。用本人完整发表页与具名 DOI 交叉，累计引用留待去重。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On the interpolation of systems of eigenvalues attached to automorphic Hecke eigenforms",
+          "year": 2006,
+          "url": "https://doi.org/10.1007/s00222-005-0448-x"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry, p-adic local Langlands correspondence, Galois representation moduli and deformation theory",
+          "url": "https://math.uchicago.edu/~emerton/preprints.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "robert-wald",
+      "name": "Robert Wald",
+      "aliases": [
+        "Robert M. Wald"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Physics and Enrico Fermi Institute",
+          "title": "Charles H. Swift Distinguished Service Professor of Physics",
+          "url": "https://physics.uchicago.edu/people/profile/robert-wald/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "系具名卡、院校人员目录与出版者资料可读。未验证独立个人学术主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查系具名研究卡、当前人员名录、可见个人或机构主页及主要出版者资料。未取得可验证独立公开 CV。",
+      "publicationsUrl": null,
+      "publicationCounts": [
+        {
+          "value": 154,
+          "url": "https://inspirehep.net/authors/984275",
+          "scope": "该 INSPIRE HEP 作者完整条目 202，仅保留有期刊刊载标记的不同 article。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "匹配 ORCID 的 OpenAlex 混入帕伦克艺术史条目，且若干近名医学档属于他人。INSPIRE 具名 ORCID、Chicago 署名和原文核对，GWTC 的 Wald 也是本人，按该库保留合作作品。",
+      "metrics": [
+        {
+          "source": "INSPIRE HEP",
+          "authorId": "984275",
+          "url": "https://inspirehep.net/authors/984275",
+          "checkedAt": "2026-11-26",
+          "articles": 154,
+          "works": 202,
+          "citations": 39142,
+          "articleScope": "INSPIRE HEP 具名查询的 article 与期刊标记同时成立，按 DOI 或唯一记录去重",
+          "citationScope": "INSPIRE HEP 对该具名作者索引作品逐项累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Black hole entropy is the Noether charge",
+          "year": 1993,
+          "url": "https://doi.org/10.1103/PhysRevD.48.R3427"
+        },
+        {
+          "title": "A rigorous derivation of gravitational self-force",
+          "year": 2008,
+          "url": "https://arxiv.org/abs/0806.3293"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of Lorentzian spacetimes, classical general relativity, black-hole mechanics and covariant field theory",
+          "url": "https://litp.uchicago.edu/people/profile/robert-wald/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "savdeep-sethi",
+      "name": "Savdeep Sethi",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Physics and Enrico Fermi Institute",
+          "title": "Professor of Physics",
+          "url": "https://physics.uchicago.edu/people/profile/savdeep-s.-sethi/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://homes.psd.uchicago.edu/~sethi/",
+      "homepageStatus": null,
+      "cvUrl": "https://homes.psd.uchicago.edu/~sethi/cv-1-3-22.pdf",
+      "cvType": "公开学术 CV（2022，9 页）",
+      "cvStatus": null,
+      "publicationsUrl": "https://arxiv.org/search/?query=sethi%2C+savdeep&searchtype=author",
+      "publicationCounts": [
+        {
+          "value": 79,
+          "url": "https://inspirehep.net/authors/989247",
+          "scope": "该 INSPIRE HEP 作者完整条目 84，仅保留有期刊刊载标记的不同 article。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "正确 ORCID 主档 74 对查询端 73，包含无刊本、技术条目及相同题名的不同出版对象；2026 新稿独立分档另含活动卡。",
+      "metrics": [
+        {
+          "source": "INSPIRE HEP",
+          "authorId": "989247",
+          "url": "https://inspirehep.net/authors/989247",
+          "checkedAt": "2026-11-26",
+          "articles": 79,
+          "works": 84,
+          "citations": 6197,
+          "articleScope": "INSPIRE HEP 具名查询的 article 与期刊标记同时成立，按 DOI 或唯一记录去重",
+          "citationScope": "INSPIRE HEP 对该具名作者索引作品逐项累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "M-theory, orientifolds and G-flux",
+          "year": 1999,
+          "url": "https://doi.org/10.1088/1126-6708/1999/08/023"
+        },
+        {
+          "title": "A real superpotential for M-theory on eight-manifolds",
+          "year": 2026,
+          "url": "https://arxiv.org/abs/2610.12439",
+          "type": "preprint"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic and differential geometry of string compactification, Calabi–Yau manifolds and M-theory on eight-manifolds",
+          "url": "https://litp.uchicago.edu/people/profile/savdeep-sethi/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "shmuel-weinberger",
+      "name": "Shmuel Weinberger",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Mathematics",
+          "title": "Andrew MacLeish Distinguished Professor of Mathematics",
+          "url": "https://mathematics.uchicago.edu/people/profile/andrew-macleish-distinguished-professor-of-mathematics/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://math.uchicago.edu/~shmuel/",
+      "homepageStatus": null,
+      "cvUrl": "https://math.uchicago.edu/~shmuel/cv.pdf",
+      "cvType": "公开学术 CV（3 页）",
+      "cvStatus": null,
+      "publicationsUrl": "https://math.uchicago.edu/~shmuel/Bibliography.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, geometric analysis, scalar curvature, index theory and geometric topology of manifolds",
+          "url": "https://math.uchicago.edu/~shmuel/Bibliography.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "simion-filip",
+      "name": "Simion Filip",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Mathematics",
+          "title": "Professor",
+          "url": "https://mathematics.uchicago.edu/people/profile/simion-filip/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://math.uchicago.edu/~sfilip/",
+      "homepageStatus": null,
+      "cvUrl": "https://math.uchicago.edu/~sfilip/CV_sfilip.pdf",
+      "cvType": "公开学术 CV（5 页）",
+      "cvStatus": null,
+      "publicationsUrl": "https://math.uchicago.edu/~sfilip/",
+      "publicationCounts": [
+        {
+          "value": 19,
+          "url": "https://math.uchicago.edu/~sfilip/CV_sfilip.pdf",
+          "scope": "作者 CV Published or Accepted 完整分栏共 22 项。按题名去重，去除 ECM 会议文集、Panoramas et Synthèses 书章和 EMS Magazine 文章，余 19 项正式期刊研究或综述。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "OpenAlex 正确作者有 39 对 34 条差异，末尾有会议报告，另一位 Filip Simion 研究医护。由系卡直达本人 Scholar，核对几何题名和机构。",
+      "metrics": [
+        {
+          "source": "Google Scholar",
+          "authorId": "wz8CKG4AAAAJ",
+          "url": "https://scholar.google.com/citations?user=wz8CKG4AAAAJ&hl=en",
+          "checkedAt": "2026-11-26",
+          "citations": 730,
+          "hIndex": 13,
+          "citationScope": "Google Scholar 作者页 All 列，包含该库的公开可归属作品与版本聚合。"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Semisimplicity and rigidity of the Kontsevich-Zorich cocycle",
+          "year": 2016,
+          "url": "https://doi.org/10.1007/s00222-015-0643-3"
+        },
+        {
+          "title": "The algebraic hull of the Kontsevich–Zorich cocycle",
+          "year": 2018,
+          "url": "https://doi.org/10.4007/annals.2018.188.1.5"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry and algebraic geometry of K3 surfaces, Hodge structures, flat surfaces and dynamics",
+          "url": "https://math.uchicago.edu/~sfilip/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "takako-fukaya",
+      "name": "Takako Fukaya",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Mathematics",
+          "title": "Research Associate Professor",
+          "url": "https://mathematics.uchicago.edu/people/profile/takako-fukaya/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "系具名卡、院校人员目录与出版者资料可读。未验证独立个人学术主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查系具名研究卡、当前人员名录、可见个人或机构主页及主要出版者资料。未取得可验证独立公开 CV。",
+      "publicationsUrl": null,
+      "publicationCounts": [
+        {
+          "value": 11,
+          "url": "https://openalex.org/A5048600829",
+          "scope": "核对 OpenAlex 具名作品端 13 条 article，在此索引范围内按不同 DOI 统计可归属的期刊作品，排除缺期刊来源、纪念、行政或重复题录。出现在作者清单中但不在该索引范围的作品另待核。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "The GL2 main conjecture for elliptic curves without complex multiplication",
+          "year": 2004,
+          "url": "https://doi.org/10.1007/s10240-004-0029-3"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry of elliptic curves, Iwasawa theory, p-adic zeta functions and K-theory",
+          "url": "https://doi.org/10.1007/s10240-004-0029-3"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "victor-ginzburg",
+      "name": "Victor Ginzburg",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Mathematics",
+          "title": "Professor",
+          "url": "https://mathematics.uchicago.edu/people/profile/victor-ginzburg/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "院系具名研究卡可读。作者 Stanford 无关同名页不作依据，math.uchicago.edu/~ginzburg/ 仅 35 字节，未取得个人学术内容。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查系具名研究卡、当前人员名录、可见个人或机构主页及主要出版者资料。未取得可验证独立公开 CV。",
+      "publicationsUrl": null,
+      "publicationCounts": [
+        {
+          "value": 55,
+          "url": "https://openalex.org/A5045450945",
+          "scope": "核对 OpenAlex 具名作品端 56 条 article，在此索引范围内按不同 DOI 统计可归属的期刊作品，排除缺期刊来源、纪念、行政或重复题录。出现在作者清单中但不在该索引范围的作品另待核。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Symplectic reflection algebras, Calogero-Moser space, and deformed Harish-Chandra homomorphism",
+          "year": 2002,
+          "url": "https://doi.org/10.1007/S002220100171"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and complex geometry of symplectic singularities, quiver varieties, D-modules and geometric representation theory",
+          "url": "https://mathematics.uchicago.edu/people/profile/victor-ginzburg/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "vincenzo-vitelli",
+      "name": "Vincenzo Vitelli",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Physics and James Franck Institute",
+          "title": "Professor of Physics",
+          "url": "https://physics.uchicago.edu/people/profile/vincenzo-vitelli/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://home.uchicago.edu/~vitelli/",
+      "homepageStatus": null,
+      "cvUrl": "https://home.uchicago.edu/~vitelli/media/CV.pdf",
+      "cvType": "公开学术 CV（2026-10-20）",
+      "cvStatus": null,
+      "publicationsUrl": "https://home.uchicago.edu/~vitelli/publications.html",
+      "publicationCounts": [
+        {
+          "value": 102,
+          "url": "https://openalex.org/A5061524700",
+          "scope": "核对 OpenAlex 具名作品端 103 条 article，在此索引范围内按不同 DOI 统计可归属的期刊作品，排除缺期刊来源、纪念、行政或重复题录。出现在作者清单中但不在该索引范围的作品另待核。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "ORCID 对应本人，OpenAlex 作者端 244 对作品端 232、会议信息重复和无 DOI 的项目居多。本人站 2026 CV 和完整发表页可限定正式出版范围。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Odd elasticity and topological waves in active surfaces",
+          "year": 2024,
+          "url": "https://doi.org/10.1103/PhysRevE.109.024608"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of curved active surfaces, geometric mechanics, defects and curvature coupling in soft matter",
+          "url": "https://home.uchicago.edu/~vitelli/publications.html"
+        }
+      ],
+      "checkedAt": "2026-11-26",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "vladimir-drinfeld",
+      "name": "Vladimir Drinfeld",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "uchicago",
+          "department": "Department of Mathematics",
+          "title": "Harry Pratt Judson Distinguished Service Professor",
+          "url": "https://mathematics.uchicago.edu/people/profile/vladimir-drinfeld1/",
+          "type": "primary",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "系具名卡、院校人员目录与出版者资料可读。未验证独立个人学术主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "已查系具名研究卡、当前人员名录、可见个人或机构主页及主要出版者资料。未取得可验证独立公开 CV。",
+      "publicationsUrl": null,
+      "publicationCounts": [
+        {
+          "value": 51,
+          "url": "https://openalex.org/A5065065712",
+          "scope": "核对 OpenAlex 具名作品端 60 条 article，在此索引范围内按不同 DOI 统计可归属的期刊作品，排除缺期刊来源、纪念、行政或重复题录。出现在作者清单中但不在该索引范围的作品另待核。",
+          "checkedAt": "2026-11-26"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Construction of instantons",
+          "year": 1978,
+          "url": "https://doi.org/10.1016/0375-9601(78)90141-x"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of moduli stacks, algebraic D-modules, and geometric Langlands",
+          "url": "https://mathematics.uchicago.edu/people/profile/vladimir-drinfeld1/"
+        }
+      ],
+      "checkedAt": "2026-11-26",
       "recordStatus": "directory"
     },
     {

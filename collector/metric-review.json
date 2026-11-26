@@ -659,7 +659,25 @@
     "ravi-vakil": "作者端 159 条、作品端当日 105 条。具名数学论文符合 ORCID，但 OpenAlex article 还包含课程讲义、Oberwolfach 活动、勘误、教学通讯及新闻。改列有归属证据的研究性期刊 DOI。",
     "ziquan-zhuang": "ORCID 0000-0002-5466-5206 与本人研究及 SIAM 作者信息一致。作者端计 42、作品端 41，已有一项章节的两版 ISBN 和无明晰题名的期刊记录。另列作者精选正式期刊数。",
     "eva-silverstein": "正确 ORCID 的作者档仍有技术报告与期刊的重复版本，作者端 274、作品端 197；以校级发表页供后续去重。",
-    "weite-pi": "Stanford 正式数学系与具名论文 DOI、作者 ORCID 和个人研究页支持，逐项检查 OpenAlex 七个作品，三条期刊 DOI、共 75 次累计引用。Szegő 固定聘任依校规则单列。"
+    "weite-pi": "Stanford 正式数学系与具名论文 DOI、作者 ORCID 和个人研究页支持，逐项检查 OpenAlex 七个作品，三条期刊 DOI、共 75 次累计引用。Szegő 固定聘任依校规则单列。",
+    "alex-eskin": "OpenAlex 作者端 90，作品端 68，并收录视频访谈和重复版本。由数学系个人卡直达 Google Scholar，核对芝加哥单位和代表题名。",
+    "simion-filip": "OpenAlex 正确作者有 39 对 34 条差异，末尾有会议报告，另一位 Filip Simion 研究医护。由系卡直达本人 Scholar，核对几何题名和机构。",
+    "andre-neves": "OpenAlex 前排为医学、生化和农业同名。通过 Annals 和 Advances 两个 DOI 均只列 André Neves 姓名、真实数学单位，作者 ID 缺失。全名对应 A5102053264 只有一条预印本，不能作为累计。使用公开 CV 与三条补登期刊原文。",
+    "benjamin-bakker": "正确 ORCID 的档案端 43、作品端 33，包含修正、学位论文、报告与正式版。使用本人 2026-09 学术 CV 核对期刊范围。",
+    "bao-chau-ngo": "主档作品端 54 对作者端 62，论文类亦含明确异题同名和项目通告。数学身份由 Hitchin 原文和校方 CV 定人，保留覆盖范围。",
+    "matthew-emerton": "主档 94 对作品端 62，章节多版本及同人小档。用本人完整发表页与具名 DOI 交叉，累计引用留待去重。",
+    "kevin-corlette": "具名档 27 条的角色与任职相符，article 类另含 NSF／IMSI 新闻和无期刊书目信息条目，现核对具名作品及独立来源范围。",
+    "savdeep-sethi": "正确 ORCID 主档 74 对查询端 73，包含无刊本、技术条目及相同题名的不同出版对象；2026 新稿独立分档另含活动卡。",
+    "vincenzo-vitelli": "ORCID 对应本人，OpenAlex 作者端 244 对作品端 232、会议信息重复和无 DOI 的项目居多。本人站 2026 CV 和完整发表页可限定正式出版范围。",
+    "robert-wald": "匹配 ORCID 的 OpenAlex 混入帕伦克艺术史条目，且若干近名医学档属于他人。INSPIRE 具名 ORCID、Chicago 署名和原文核对，GWTC 的 Wald 也是本人，按该库保留合作作品。",
+    "alexander-beilinson": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
+    "vladimir-drinfeld": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
+    "victor-ginzburg": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
+    "takako-fukaya": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
+    "daniil-rudenko": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
+    "akhil-mathew": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
+    "benson-farb": "OpenAlex 主档夹有教学资料、演讲、会议与书章，作者端 182 与作品端口径不同。改用作者完整书目计算明确期刊范围，累计引用留待找到可核验来源。",
+    "kazuya-kato": "候选主档混入癌症、手术和材料研究同名记录。校方指南和署名期刊可证数学身份。尚未找到身份明晰的累计作者档或独立完整书目。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -3154,6 +3172,284 @@
         "https://mathematics.stanford.edu/people/weite-pi",
         "https://sites.google.com/view/weitepi/",
         "https://doi.org/10.1016/j.aim.2023.109294"
+      ]
+    },
+    "alex-eskin": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 作者端 90，作品端 68，并收录视频访谈和重复版本。由数学系个人卡直达 Google Scholar，核对芝加哥单位和代表题名。",
+      "identitySources": [
+        "https://mathematics.uchicago.edu/people/profile/alex-eskin/",
+        "https://math.uchicago.edu/~eskin/",
+        "https://doi.org/10.4007/annals.2015.182.2.7",
+        "https://doi.org/10.1007/s10240-018-0099-2"
+      ],
+      "authorId": "A5005010569",
+      "url": "https://openalex.org/A5005010569",
+      "alternative": {
+        "source": "Google Scholar",
+        "id": "waZeaSYAAAAJ",
+        "citations": 5587,
+        "hIndex": 36
+      }
+    },
+    "simion-filip": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 正确作者有 39 对 34 条差异，末尾有会议报告，另一位 Filip Simion 研究医护。由系卡直达本人 Scholar，核对几何题名和机构。",
+      "identitySources": [
+        "https://mathematics.uchicago.edu/people/profile/simion-filip/",
+        "https://math.uchicago.edu/~sfilip/",
+        "https://doi.org/10.1007/s00222-015-0643-3",
+        "https://doi.org/10.4007/annals.2018.188.1.5"
+      ],
+      "authorId": "A5037911011",
+      "url": "https://openalex.org/A5037911011",
+      "alternativeAuthorIds": [
+        "A5104317566"
+      ],
+      "alternative": {
+        "source": "Google Scholar",
+        "id": "wz8CKG4AAAAJ",
+        "citations": 730,
+        "hIndex": 13
+      }
+    },
+    "andre-neves": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 前排为医学、生化和农业同名。通过 Annals 和 Advances 两个 DOI 均只列 André Neves 姓名、真实数学单位，作者 ID 缺失。全名对应 A5102053264 只有一条预印本，不能作为累计。使用公开 CV 与三条补登期刊原文。",
+      "identitySources": [
+        "https://mathematics.uchicago.edu/people/profile/andre-neves/",
+        "https://math.uchicago.edu/~aneves/",
+        "https://doi.org/10.4007/annals.2014.179.2.6",
+        "https://doi.org/10.1016/j.aim.2020.107527"
+      ],
+      "authorId": "A5102053264",
+      "url": "https://openalex.org/A5102053264",
+      "alternativeAuthorIds": [
+        "A5014594969",
+        "A5082220322",
+        "A5112591336"
+      ]
+    },
+    "benjamin-bakker": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "正确 ORCID 的档案端 43、作品端 33，包含修正、学位论文、报告与正式版。使用本人 2026-09 学术 CV 核对期刊范围。",
+      "identitySources": [
+        "https://mathematics.uchicago.edu/people/profile/benjamin-bakker/",
+        "https://physicalsciences.uchicago.edu/news/article/introducing-new-faculty-PSD-26-27/",
+        "https://doi.org/10.1007/s00222-022-01166-1",
+        "https://doi.org/10.1515/crelle-2022-0033"
+      ],
+      "authorId": "A5025838955",
+      "url": "https://openalex.org/A5025838955"
+    },
+    "bao-chau-ngo": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "主档作品端 54 对作者端 62，论文类亦含明确异题同名和项目通告。数学身份由 Hitchin 原文和校方 CV 定人，保留覆盖范围。",
+      "identitySources": [
+        "https://mathematics.uchicago.edu/people/profile/bo-chau-ngo/",
+        "https://math.uchicago.edu/~ngo/",
+        "https://doi.org/10.1007/s10240-010-0026-7",
+        "https://doi.org/10.1007/s00222-005-0483-7"
+      ],
+      "authorId": "A5110302232",
+      "url": "https://openalex.org/A5110302232",
+      "alternativeAuthorIds": [
+        "A5046477716",
+        "A5043352272"
+      ]
+    },
+    "matthew-emerton": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "主档 94 对作品端 62，章节多版本及同人小档。用本人完整发表页与具名 DOI 交叉，累计引用留待去重。",
+      "identitySources": [
+        "https://mathematics.uchicago.edu/people/profile/matthew-emerton/",
+        "https://math.uchicago.edu/~emerton/preprints.html",
+        "https://doi.org/10.1007/s00222-005-0448-x"
+      ],
+      "authorId": "A5072677897",
+      "url": "https://openalex.org/A5072677897",
+      "alternativeAuthorIds": [
+        "A5100273734",
+        "A5100273733"
+      ]
+    },
+    "kevin-corlette": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "具名档 27 条的角色与任职相符，article 类另含 NSF／IMSI 新闻和无期刊书目信息条目，现核对具名作品及独立来源范围。",
+      "identitySources": [
+        "https://mathematics.uchicago.edu/people/profile/kcorlette/",
+        "https://mathematics.uchicago.edu/people/profile/kcorlette/",
+        "https://doi.org/10.4310/jdg/1214442469",
+        "https://doi.org/10.2307/2946567"
+      ],
+      "authorId": "A5049001829",
+      "url": "https://openalex.org/A5049001829"
+    },
+    "savdeep-sethi": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "正确 ORCID 主档 74 对查询端 73，包含无刊本、技术条目及相同题名的不同出版对象；2026 新稿独立分档另含活动卡。",
+      "identitySources": [
+        "https://physics.uchicago.edu/people/profile/savdeep-s.-sethi/",
+        "https://litp.uchicago.edu/people/profile/savdeep-sethi/",
+        "https://doi.org/10.1088/1126-6708/1999/08/023",
+        "https://arxiv.org/abs/2610.12439"
+      ],
+      "authorId": "A5047484182",
+      "url": "https://openalex.org/A5047484182",
+      "alternativeAuthorIds": [
+        "A5129502199"
+      ],
+      "alternative": {
+        "source": "INSPIRE HEP",
+        "id": "989247",
+        "articles": 79,
+        "works": 84,
+        "citations": 6197
+      }
+    },
+    "vincenzo-vitelli": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "ORCID 对应本人，OpenAlex 作者端 244 对作品端 232、会议信息重复和无 DOI 的项目居多。本人站 2026 CV 和完整发表页可限定正式出版范围。",
+      "identitySources": [
+        "https://physics.uchicago.edu/people/profile/vincenzo-vitelli/",
+        "https://home.uchicago.edu/~vitelli/publications.html",
+        "https://doi.org/10.1103/PhysRevE.109.024608"
+      ],
+      "authorId": "A5061524700",
+      "url": "https://openalex.org/A5061524700",
+      "alternativeAuthorIds": [
+        "A5164192152",
+        "A5009141169"
+      ]
+    },
+    "robert-wald": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "匹配 ORCID 的 OpenAlex 混入帕伦克艺术史条目，且若干近名医学档属于他人。INSPIRE 具名 ORCID、Chicago 署名和原文核对，GWTC 的 Wald 也是本人，按该库保留合作作品。",
+      "identitySources": [
+        "https://physics.uchicago.edu/people/profile/robert-wald/",
+        "https://litp.uchicago.edu/people/profile/robert-wald/",
+        "https://doi.org/10.1103/PhysRevD.48.R3427",
+        "https://arxiv.org/abs/0806.3293"
+      ],
+      "authorId": "A5053873303",
+      "url": "https://openalex.org/A5053873303",
+      "alternativeAuthorIds": [
+        "A5041568994",
+        "A5038240425"
+      ],
+      "alternative": {
+        "source": "INSPIRE HEP",
+        "id": "984275",
+        "articles": 154,
+        "works": 202,
+        "citations": 39142
+      }
+    },
+    "alexander-beilinson": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
+      "identitySources": [
+        "https://mathematics.uchicago.edu/people/profile/alexander-beilinson/",
+        "https://mathematics.uchicago.edu/people/profile/alexander-beilinson/",
+        "https://doi.org/10.1007/BF02105861"
+      ],
+      "authorId": "A5071623534",
+      "url": "https://openalex.org/A5071623534"
+    },
+    "vladimir-drinfeld": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
+      "identitySources": [
+        "https://mathematics.uchicago.edu/people/profile/vladimir-drinfeld1/",
+        "https://mathematics.uchicago.edu/people/profile/vladimir-drinfeld1/",
+        "https://doi.org/10.1016/0375-9601(78)90141-x"
+      ],
+      "authorId": "A5065065712",
+      "url": "https://openalex.org/A5065065712"
+    },
+    "victor-ginzburg": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
+      "identitySources": [
+        "https://mathematics.uchicago.edu/people/profile/victor-ginzburg/",
+        "https://mathematics.uchicago.edu/people/profile/victor-ginzburg/",
+        "https://doi.org/10.1007/S002220100171"
+      ],
+      "authorId": "A5045450945",
+      "url": "https://openalex.org/A5045450945"
+    },
+    "takako-fukaya": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
+      "identitySources": [
+        "https://mathematics.uchicago.edu/people/profile/takako-fukaya/",
+        "https://doi.org/10.1007/s10240-004-0029-3",
+        "https://doi.org/10.1007/s10240-004-0029-3"
+      ],
+      "authorId": "A5048600829",
+      "url": "https://openalex.org/A5048600829"
+    },
+    "daniil-rudenko": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
+      "identitySources": [
+        "https://mathematics.uchicago.edu/people/profile/daniil-rudenko/",
+        "https://mathematics.uchicago.edu/people/profile/daniil-rudenko/",
+        "https://doi.org/10.1007/s00222-021-01066-w"
+      ],
+      "authorId": "A5113233937",
+      "url": "https://openalex.org/A5113233937"
+    },
+    "akhil-mathew": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "已逐项核对当前 OpenAlex 明示期刊 DOI 和校方身份。作者端、作品端分档或出版分类仍有差异，引用总量未验证。",
+      "identitySources": [
+        "https://mathematics.uchicago.edu/people/profile/akhil-mathew/",
+        "https://mathematics.uchicago.edu/people/profile/akhil-mathew/",
+        "https://doi.org/10.1215/00127094-2020-0088"
+      ],
+      "authorId": "A5084432269",
+      "url": "https://openalex.org/A5084432269"
+    },
+    "benson-farb": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "OpenAlex 主档夹有教学资料、演讲、会议与书章，作者端 182 与作品端口径不同。改用作者完整书目计算明确期刊范围，累计引用留待找到可核验来源。",
+      "identitySources": [
+        "https://mathematics.uchicago.edu/people/profile/benson-farb/",
+        "https://math.uchicago.edu/~farb/papers.html"
+      ],
+      "authorId": "A5031320327",
+      "url": "https://openalex.org/A5031320327"
+    },
+    "kazuya-kato": {
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "候选主档混入癌症、手术和材料研究同名记录。校方指南和署名期刊可证数学身份。尚未找到身份明晰的累计作者档或独立完整书目。",
+      "identitySources": [
+        "https://mathematics.uchicago.edu/people/profile/kazuya-kato/",
+        "https://mathematics.uchicago.edu/people/profile/kazuya-kato/"
+      ],
+      "authorId": "A5105889775",
+      "url": "https://openalex.org/A5105889775",
+      "alternativeAuthorIds": [
+        "A5013290477"
       ]
     }
   }
