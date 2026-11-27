@@ -867,7 +867,11 @@
     "ruud-pellikaan": "几何曲线与奇点 DOI 校清本人。但按姓名存在其他记录 A5138338434 与 A5164093837，仍须逐 DOI 查清是否是同作者拆分。校方正式任期、本人站与机构成果另记。 当前另核 A5138338434 的详情报 7 项且作品接口返回两条。论文原文和机构库显示均非本人合著，至少一篇把论文集编者误写成作者。A5164093837 详情报 1 项且具体作品端无可复核明细，未与主档合并。按本人书目完整编号范围排除会议及其他体裁并去重后得 38 条期刊论文，校方 Pure 具名档的 Scopus 当期快照为 1445 次，h 指数 22。",
     "annika-bach": "按两篇具名正式论文查 OpenAlex，几何变分作者的署名行没有分配作者 ID。姓名搜索前三档分别为代谢神经科学、外科及传播学。保留机构旧版 12 条期刊论文披露，累计引用未见可用作者档。",
     "ansook-shin": "2025 正式卷期（2024 线上）的 World Scientific 原文携带同一 ORCID，五条 OpenAlex 文章经 DOI 和延世数学合作署名核对。Scholar 姓名搜索转登录。",
-    "dong-hyeop-lee": "OpenAlex A5033588914 混入 1998 年且无 DOI 的正交多项式记录，A5157867051 是另一位同名半导体作者。A5137782599 仅收一篇几何论文，另一篇真实文章在第一档。完整返回的三个同名档逐条读过，已保存两条可归属期刊记录。未采用任一作者档的累计引用。Scholar 姓名检索转登录。"
+    "dong-hyeop-lee": "OpenAlex A5033588914 混入 1998 年且无 DOI 的正交多项式记录，A5157867051 是另一位同名半导体作者。A5137782599 仅收一篇几何论文，另一篇真实文章在第一档。完整返回的三个同名档逐条读过，已保存两条可归属期刊记录。未采用任一作者档的累计引用。Scholar 姓名检索转登录。",
+    "joseph-maciejko": "两份同名 OpenAlex 均归本人。主档 A5058900956 显示 130 成果及 5940 累计引用，作品查询返回 116 项，其中存在同题预印本、期刊及会议摘要。A5163905313 仅收 CV 第 88 项预印本。两档数据未合并，Scholar 姓名检索转登录，当前累计引用未能安全采用。按本人 1–88 书目扣除 2 条预印本和 1 篇论文集后核实 85 项期刊成果。",
+    "igor-boettcher": "ORCID、现任校级档、APS 代表作与高引条目互证。OA 作品查询可见 54 项，49 条 type:article，作者档报告 59 成果。另核本人学术站所链 Google Scholar All 3,017 次。",
+    "saeed-rastgoo": "CV 公布 ORCID 和 Scholar。OpenAlex 代表作与前三篇大型合著经期刊 Crossref 署名复核。作品查询可见 45 项、文章查询 32 条，作者档报告 52 成果。另核 Scholar All 3,363 次。",
+    "giulio-sanzeni": "三篇不同正式论文 DOI 均核实，ORCID 和学校/PIMS 具名研究主题相符。作者档报告 5 成果，作品查询可见 4，其中 3 条是不同期刊论文。Scholar 按名入口转登录。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -9234,6 +9238,134 @@
         "https://openalex.org/A5157867051",
         "https://openalex.org/A5137782599"
       ]
+    },
+    "joseph-maciejko": {
+      "name": "Joseph Maciejko",
+      "status": "held",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5058900956",
+      "url": "https://openalex.org/A5058900956",
+      "note": "两份同名 OpenAlex 均归本人。主档 A5058900956 显示 130 成果及 5940 累计引用，作品查询返回 116 项，其中存在同题预印本、期刊及会议摘要。A5163905313 仅收 CV 第 88 项预印本。两档数据未合并，Scholar 姓名检索转登录，当前累计引用未能安全采用。按本人 1–88 书目扣除 2 条预印本和 1 篇论文集后核实 85 项期刊成果。",
+      "identitySources": [
+        "https://apps.ualberta.ca/directory/person/maciejko",
+        "https://sites.ualberta.ca/~maciejko/documents/CV.pdf",
+        "https://pub.orcid.org/v3.0/0000-0002-6946-1492/record",
+        "https://api.openalex.org/works?filter=authorships.author.id:A5058900956&per-page=150",
+        "https://api.openalex.org/works?filter=authorships.author.id:A5163905313&per-page=150",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8892281/"
+      ],
+      "alternatives": [
+        "https://openalex.org/A5163905313"
+      ],
+      "fallbackPublicationCount": {
+        "value": 85,
+        "url": "https://sites.ualberta.ca/~maciejko/documents/CV.pdf",
+        "checkedAt": "2026-11-27",
+        "scope": "本人 CV 完整 Publications 第 1–88 项，2005–2026。排除 2 篇仅 arXiv 预印本及 1 篇会议论文集文章，按期刊卷和条目、标准化题名去重得到 85 项正式期刊成果（含期刊综述）。"
+      }
+    },
+    "igor-boettcher": {
+      "name": "Igor Boettcher",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5082472170",
+      "url": "https://openalex.org/A5082472170",
+      "note": "ORCID、现任校级档、APS 代表作与高引条目互证。OA 作品查询可见 54 项，49 条 type:article，作者档报告 59 成果。另核本人学术站所链 Google Scholar All 3,017 次。",
+      "identitySources": [
+        "https://apps.ualberta.ca/directory/person/iboettch",
+        "https://pub.orcid.org/v3.0/0000-0002-1634-4022/record",
+        "https://api.openalex.org/works?filter=authorships.author.id:A5082472170&per-page=150",
+        "https://api.openalex.org/works?filter=authorships.author.id:A5082472170,type:article&per-page=1",
+        "https://doi.org/10.1103/PhysRevB.105.125118",
+        "https://scholar.google.com/citations?user=V0TAl-kAAAAJ&hl=en"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5082472170",
+        "url": "https://openalex.org/A5082472170",
+        "checkedAt": "2026-11-27",
+        "articles": 49,
+        "works": 59,
+        "citations": 2718,
+        "hIndex": 28,
+        "articleScope": "OpenAlex type:article 查询，核对可读文章与具名原作",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      },
+      "scholarSnapshot": {
+        "source": "Google Scholar",
+        "authorId": "V0TAl-kAAAAJ",
+        "url": "https://scholar.google.com/citations?user=V0TAl-kAAAAJ&hl=en",
+        "checkedAt": "2026-11-27",
+        "citations": 3017,
+        "hIndex": 30,
+        "citationScope": "Google Scholar 作者档案 All 栏"
+      }
+    },
+    "saeed-rastgoo": {
+      "name": "Saeed Rastgoo",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5080679859",
+      "url": "https://openalex.org/A5080679859",
+      "note": "CV 公布 ORCID 和 Scholar。OpenAlex 代表作与前三篇大型合著经期刊 Crossref 署名复核。作品查询可见 45 项、文章查询 32 条，作者档报告 52 成果。另核 Scholar All 3,363 次。",
+      "identitySources": [
+        "https://apps.ualberta.ca/directory/person/srastgoo",
+        "https://www.srastgoo.com/_files/ugd/31ccfb_2007ca83d8ab4b6bb0b6f50d48a1c353.pdf",
+        "https://api.openalex.org/works?filter=authorships.author.id:A5080679859&per-page=150",
+        "https://api.openalex.org/works?filter=authorships.author.id:A5080679859,type:article&per-page=1",
+        "https://api.crossref.org/works/10.1016/j.dark.2025.101965",
+        "https://api.crossref.org/works/10.1007/s41114-023-00045-2",
+        "https://api.crossref.org/works/10.1016/j.ppnp.2022.103948",
+        "https://scholar.google.com/citations?user=9UXmBzsAAAAJ&hl=en"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5080679859",
+        "url": "https://openalex.org/A5080679859",
+        "checkedAt": "2026-11-27",
+        "articles": 32,
+        "works": 52,
+        "citations": 3327,
+        "hIndex": 19,
+        "articleScope": "OpenAlex type:article 查询，核对可读文章与具名原作",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      },
+      "scholarSnapshot": {
+        "source": "Google Scholar",
+        "authorId": "9UXmBzsAAAAJ",
+        "url": "https://scholar.google.com/citations?user=9UXmBzsAAAAJ&hl=en",
+        "checkedAt": "2026-11-27",
+        "citations": 3363,
+        "hIndex": 21,
+        "citationScope": "Google Scholar 作者档案 All 栏"
+      }
+    },
+    "giulio-sanzeni": {
+      "name": "Giulio Sanzeni",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5092671753",
+      "url": "https://openalex.org/A5092671753",
+      "note": "三篇不同正式论文 DOI 均核实，ORCID 和学校/PIMS 具名研究主题相符。作者档报告 5 成果，作品查询可见 4，其中 3 条是不同期刊论文。Scholar 按名入口转登录。",
+      "identitySources": [
+        "https://apps.ualberta.ca/directory/person/sanzeni",
+        "https://pub.orcid.org/v3.0/0009-0001-8226-8486/record",
+        "https://api.openalex.org/works?filter=authorships.author.id:A5092671753&per-page=50",
+        "https://api.openalex.org/works?filter=authorships.author.id:A5092671753,type:article&per-page=1",
+        "https://ucrisportal.univie.ac.at/de/publications/geodesic-causality-in-kerr-spacetimes-with-am-2/"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5092671753",
+        "url": "https://openalex.org/A5092671753",
+        "checkedAt": "2026-11-27",
+        "articles": 3,
+        "works": 5,
+        "citations": 10,
+        "hIndex": 2,
+        "articleScope": "OpenAlex type:article 查询，核对可读文章与具名原作",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     }
   }
 }
