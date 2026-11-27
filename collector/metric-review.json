@@ -894,7 +894,21 @@
     "nicolas-ivan-libedinsky-silva": "现任教职、本人 CV、ORCID 和记名 Soergel 期刊。OpenAlex 24 article，35 项档案成果，累计 479。",
     "aram-bingham": "姓名、导师、现任及历年论文跨机构匹配，含作者自己明确列出的代数几何与表示。OpenAlex 11 项 article，档案 17 项成果、累计 21。",
     "katherine-ormeno-bastias": "作者、前导师、本人两篇相同主题及署名互证，1 篇正式期刊；另 1 件 arXiv 已被期刊接受但未找到正式期刊记录。累计档案 2。",
-    "valentina-moreno-vega": "校方 2026-10 公示博士生，Linköping 具名报告、当前合作者与同一正式论文 DOI 指向本人。可核一篇正式期刊，作者档报 1 次引用。"
+    "valentina-moreno-vega": "校方 2026-10 公示博士生，Linköping 具名报告、当前合作者与同一正式论文 DOI 指向本人。可核一篇正式期刊，作者档报 1 次引用。",
+    "nikola-angelov-kamburov": "现任、CV、已鉴别几何论文的作者与 DOI 互证。可见 11 项，文章分类 10，作者总 12，累计 144。",
+    "pedro-henrique-gaspar-marques-da-silva": "本人 CV、公开 ORCID、三条正式 DOI 锚定作者。材料、物理、外科同名不取。OpenAlex 9 篇 article / 261 引用，Scholar All 313。",
+    "carlos-roman": "音符或全名检索空结果，用 2026 DOI 找到作者号。本人 CV 和早晚两篇原作锚定。12 篇 article 和 96 引用。",
+    "mircea-petrache": "作者主页和 OpenAlex ORCID、数学及工程现任档互证，30 项 article。总作品含同题预印本和会议版本，引用采用本人直链 Scholar 848。",
+    "mauricio-bustamante-londono": "主要索引合并了社会学构作和几何作者，另一位同名物理索引为相对论教稿。204 累计引用不能归属。作者学术页面核得 11 篇期刊，查 Scholar 按姓名转登录。",
+    "jesse-huang": "数学预印本错误连到主档的医学作者。该 ORCID 与医学资料相连，不在数学学者信息采用。按本人发表段核得 4 篇。未找到可确认归属的公开 Scholar 累计引用。",
+    "natalia-cristina-garcia-fritz": "公开 ORCID 与两个期刊正式 DOI，及本校具名和合作方向相符。档案 23 成果，文章查询 14，累计 87。",
+    "hector-hardy-pasten-vasquez": "有效期刊 article 48；同一期刊亦有预印本版本，文献类型分开查询。引用保持 OpenAlex 作者原档累计范围，含该来源的预印本引用。排除医学名字。",
+    "ricardo-menares-valencia": "实名本站、任职、以前与近期合作者一致。校内当前机构汇集 15 个可见作品，8 条文章、125 引用。",
+    "mariel-ines-aura-saez-trumper": "CV 上的当前方向、校职、公开唯一 ORCID 及 2026 正式期刊匹配。28 篇 article，累计 386。",
+    "martin-skandar-chuaqui-farru": "主档 70 条 article 和 876 引用，部分历史无 DOI、重复预印本、同作者 Farrú 分档。按作者年代全书目取 63 项正式期刊。未核实能归属该学者的公共 Scholar。",
+    "giancarlo-urzua": "现任姓名变化与完整 CV 的作者、合著及题录一致。作者档 44 成果，41 项可见、32 条文章，累计 473。",
+    "anibal-patricio-velozo-ruiz": "负曲率与测地流期刊、学校职位和主档 ORCID 一致。另一个同人档只有数学物理预印本，单列且不并入累计。",
+    "benjamin-pablo-palacios-farias": "ORCID、本人 CV 和逆问题正式期刊，与本校同作者匹配。另同名 USACH 作者未并入。14 篇 article，120 次档案累计。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -10007,6 +10021,408 @@
         "articleScope": "OpenAlex type:article，逐项核对该作者可读作品与出版记录",
         "citationScope": "OpenAlex 作者档案累计引用"
       }
+    },
+    "nikola-angelov-kamburov": {
+      "name": "Nikola Angelov Kamburov",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5005948652",
+      "url": "https://openalex.org/A5005948652",
+      "note": "现任、CV、已鉴别几何论文的作者与 DOI 互证。可见 11 项，文章分类 10，作者总 12，累计 144。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/nikamburov",
+        "https://www.mat.uc.cl/~nikamburov/",
+        "https://www.mat.uc.cl/~nikamburov/NK_CV_extended.pdf",
+        "https://www.mat.uc.cl/~nikamburov/papers.html",
+        "https://api.openalex.org/works?filter=author.id:A5005948652&sort=cited_by_count:desc&per-page=125&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5005948652,type:article&per-page=1&select=id"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5005948652",
+        "url": "https://openalex.org/A5005948652",
+        "checkedAt": "2026-11-27",
+        "articles": 10,
+        "works": 12,
+        "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+        "citations": 144,
+        "hIndex": 7,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "pedro-henrique-gaspar-marques-da-silva": {
+      "name": "Pedro Henrique Gaspar Marques Da Silva",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5020959419",
+      "url": "https://openalex.org/A5020959419",
+      "note": "本人 CV、公开 ORCID、三条正式 DOI 锚定作者。材料、物理、外科同名不取。OpenAlex 9 篇 article / 261 引用，Scholar All 313。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/pedro.gaspar",
+        "https://sites.google.com/view/pedrogaspar",
+        "https://drive.google.com/file/d/1F1bkSvY_lA8gOyDpPuF1yqLgUI25QbgJ/view?usp=sharing",
+        "https://sites.google.com/view/pedrogaspar/research",
+        "https://scholar.google.com/citations?user=apqo998AAAAJ",
+        "https://gaandes.com/",
+        "https://api.openalex.org/works?filter=author.id:A5020959419&sort=cited_by_count:desc&per-page=125&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5020959419,type:article&per-page=1&select=id"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5020959419",
+        "url": "https://openalex.org/A5020959419",
+        "checkedAt": "2026-11-27",
+        "articles": 9,
+        "works": 12,
+        "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+        "citations": 261,
+        "hIndex": 6,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      },
+      "scholarSnapshot": {
+        "source": "Google Scholar",
+        "authorId": "apqo998AAAAJ",
+        "url": "https://scholar.google.com/citations?user=apqo998AAAAJ",
+        "checkedAt": "2026-11-27",
+        "citations": 313,
+        "hIndex": 6,
+        "citationScope": "作者本人主页直链的 Scholar All 栏"
+      }
+    },
+    "carlos-roman": {
+      "name": "Carlos Román",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5005061691",
+      "url": "https://openalex.org/A5005061691",
+      "note": "音符或全名检索空结果，用 2026 DOI 找到作者号。本人 CV 和早晚两篇原作锚定。12 篇 article 和 96 引用。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/carlos.roman",
+        "https://www.mat.uc.cl/~roman/index_files/CVCarlosRoman.pdf",
+        "https://www.mat.uc.cl/~roman/publications.html",
+        "https://api.openalex.org/works/https://doi.org/10.1007/s00526-026-03383-5",
+        "https://api.openalex.org/works?filter=author.id:A5005061691&sort=cited_by_count:desc&per-page=125&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5005061691,type:article&per-page=1&select=id"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5005061691",
+        "url": "https://openalex.org/A5005061691",
+        "checkedAt": "2026-11-27",
+        "articles": 12,
+        "works": 17,
+        "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+        "citations": 96,
+        "hIndex": 6,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "mircea-petrache": {
+      "name": "Mircea Petrache",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5064793780",
+      "url": "https://openalex.org/A5064793780",
+      "note": "作者主页和 OpenAlex ORCID、数学及工程现任档互证，30 项 article。总作品含同题预印本和会议版本，引用采用本人直链 Scholar 848。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/mpetrache",
+        "https://sites.google.com/site/mircpetrache/home",
+        "https://www.ing.uc.cl/academicos-e-investigadores/mircea-petrache/",
+        "https://scholar.google.com/citations?hl=en&user=HiYZ-6MAAAAJ",
+        "https://api.openalex.org/works?filter=author.id:A5064793780&sort=cited_by_count:desc&per-page=125&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5064793780,type:article&per-page=1&select=id"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5064793780",
+        "url": "https://openalex.org/A5064793780",
+        "checkedAt": "2026-11-27",
+        "articles": 30,
+        "works": 72,
+        "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI"
+      },
+      "scholarSnapshot": {
+        "source": "Google Scholar",
+        "authorId": "HiYZ-6MAAAAJ",
+        "url": "https://scholar.google.com/citations?hl=en&user=HiYZ-6MAAAAJ",
+        "checkedAt": "2026-11-27",
+        "citations": 848,
+        "hIndex": 16,
+        "citationScope": "作者本人主页直链的 Scholar All 栏"
+      }
+    },
+    "mauricio-bustamante-londono": {
+      "name": "Mauricio Bustamante Londoño",
+      "status": "held",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5101912974",
+      "url": "https://openalex.org/A5101912974",
+      "note": "主要索引合并了社会学构作和几何作者，另一位同名物理索引为相对论教稿。204 累计引用不能归属。作者学术页面核得 11 篇期刊，查 Scholar 按姓名转登录。",
+      "identitySources": [
+        "https://sites.google.com/view/mbustamante/",
+        "https://sites.google.com/view/mbustamante/art%C3%ADculos",
+        "https://api.openalex.org/works/https://doi.org/10.4310/jdg/1645207478",
+        "https://researchprofiles.ku.dk/da/persons/mauricio-bustamante/",
+        "https://api.openalex.org/works?filter=author.id:A5075621808&per-page=30",
+        "https://scholar.google.com/citations?view_op=search_authors&mauthors=Mauricio+Bustamante+Londo%C3%B1o",
+        "https://api.openalex.org/works?filter=author.id:A5101912974&sort=cited_by_count:desc&per-page=125&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5101912974,type:article&per-page=1"
+      ],
+      "fallbackPublicationCount": {
+        "value": 11,
+        "url": "https://sites.google.com/view/mbustamante/art%C3%ADculos",
+        "checkedAt": "2026-11-27",
+        "scope": "本人 Artículos de investigación 2016–2025 出刊全部 11 条，逐一按规范化题名及期刊书目信息去重。四条只列 arXiv 的新稿、教程、翻译和活动报告分列。"
+      },
+      "alternatives": [
+        "https://openalex.org/A5075621808"
+      ]
+    },
+    "jesse-huang": {
+      "name": "Jesse Huang",
+      "status": "held",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5004785518",
+      "url": "https://openalex.org/A5004785518",
+      "note": "数学预印本错误连到主档的医学作者。该 ORCID 与医学资料相连，不在数学学者信息采用。按本人发表段核得 4 篇。未找到可确认归属的公开 Scholar 累计引用。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/jesse.huang1",
+        "https://www.jessehuang.org/",
+        "https://www.jessehuang.org/research",
+        "https://cmsa.fas.harvard.edu/event/agst-3724/",
+        "https://doi.org/10.1007/s40879-023-00686-1",
+        "https://api.openalex.org/works/https://doi.org/10.48550/arxiv.2501.00130",
+        "https://pub.orcid.org/v3.0/0000-0001-8368-998X/record",
+        "https://api.openalex.org/works?filter=author.id:A5004785518&sort=cited_by_count:desc&per-page=125&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5004785518,type:article&per-page=1&select=id"
+      ],
+      "fallbackPublicationCount": {
+        "value": 4,
+        "url": "https://www.jessehuang.org/research",
+        "checkedAt": "2026-11-27",
+        "scope": "作者公开 Publications 2022–2025 全段四条，每条有期刊和预印本配对。按正式期刊及题名去重；一篇单列预印本和一篇索取稿都排除。"
+      }
+    },
+    "natalia-cristina-garcia-fritz": {
+      "name": "Natalia Cristina García Fritz",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5091874309",
+      "url": "https://openalex.org/A5091874309",
+      "note": "公开 ORCID 与两个期刊正式 DOI，及本校具名和合作方向相符。档案 23 成果，文章查询 14，累计 87。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/natalia.garcia",
+        "https://www.mat.uc.cl/~natalia.garcia/",
+        "https://www.mat.uc.cl/~natalia.garcia/Research.html",
+        "https://api.openalex.org/works?filter=author.id:A5091874309&sort=cited_by_count:desc&per-page=125&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5091874309,type:article&per-page=1&select=id"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5091874309",
+        "url": "https://openalex.org/A5091874309",
+        "checkedAt": "2026-11-27",
+        "articles": 14,
+        "works": 23,
+        "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+        "citations": 87,
+        "hIndex": 4,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "hector-hardy-pasten-vasquez": {
+      "name": "Héctor Hardy Pastén Vásquez",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5012806097",
+      "url": "https://openalex.org/A5012806097",
+      "note": "有效期刊 article 48；同一期刊亦有预印本版本，文献类型分开查询。引用保持 OpenAlex 作者原档累计范围，含该来源的预印本引用。排除医学名字。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/hector.pasten",
+        "https://www.mat.uc.cl/~hector.pasten/papers.html",
+        "https://investigadores.anid.cl/es/public_search/researcher?id=31870",
+        "https://api.openalex.org/works?filter=author.id:A5012806097&sort=cited_by_count:desc&per-page=125&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5012806097,type:article&per-page=1&select=id"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5012806097",
+        "url": "https://openalex.org/A5012806097",
+        "checkedAt": "2026-11-27",
+        "articles": 48,
+        "works": 77,
+        "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+        "citations": 372,
+        "hIndex": 10,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "ricardo-menares-valencia": {
+      "name": "Ricardo Menares Valencia",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5047421625",
+      "url": "https://openalex.org/A5047421625",
+      "note": "实名本站、任职、以前与近期合作者一致。校内当前机构汇集 15 个可见作品，8 条文章、125 引用。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/rmenares",
+        "https://www.mat.uc.cl/~rmenares/Research.html",
+        "https://www.mat.uc.cl/~rmenares/Santas/santas.html",
+        "https://api.openalex.org/works?filter=author.id:A5047421625&sort=cited_by_count:desc&per-page=125&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5047421625,type:article&per-page=1&select=id"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5047421625",
+        "url": "https://openalex.org/A5047421625",
+        "checkedAt": "2026-11-27",
+        "articles": 8,
+        "works": 15,
+        "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+        "citations": 125,
+        "hIndex": 7,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "mariel-ines-aura-saez-trumper": {
+      "name": "Mariel Inés Aura Sáez Trumper",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5021859505",
+      "url": "https://openalex.org/A5021859505",
+      "note": "CV 上的当前方向、校职、公开唯一 ORCID 及 2026 正式期刊匹配。28 篇 article，累计 386。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/mariel",
+        "https://www.mat.uc.cl/~mariel/",
+        "https://www.mat.uc.cl/~mariel/CVmariel2025short.pdf",
+        "https://api.openalex.org/works?filter=author.id:A5021859505&sort=cited_by_count:desc&per-page=125&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5021859505,type:article&per-page=1&select=id"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5021859505",
+        "url": "https://openalex.org/A5021859505",
+        "checkedAt": "2026-11-27",
+        "articles": 28,
+        "works": 34,
+        "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+        "citations": 386,
+        "hIndex": 10,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "martin-skandar-chuaqui-farru": {
+      "name": "Martín Skandar Chuaqui Farru",
+      "status": "held",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5085462748",
+      "url": "https://openalex.org/A5085462748",
+      "note": "主档 70 条 article 和 876 引用，部分历史无 DOI、重复预印本、同作者 Farrú 分档。按作者年代全书目取 63 项正式期刊。未核实能归属该学者的公共 Scholar。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/mchuaqui",
+        "https://www.mat.uc.cl/~mchuaqui/",
+        "https://www.mat.uc.cl/~mchuaqui/#cv",
+        "https://api.openalex.org/works?filter=author.id:A5057960098&sort=cited_by_count:desc&per-page=125&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5085462748&sort=cited_by_count:desc&per-page=125&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5085462748,type:article&per-page=1&select=id"
+      ],
+      "fallbackPublicationCount": {
+        "value": 63,
+        "url": "https://www.mat.uc.cl/~mchuaqui/",
+        "checkedAt": "2026-11-27",
+        "scope": "本人 Publications 1990–2025 完整 67 条。排除 1 条待刊，1 章会议文集、1 章 Contemporary Mathematics、1 篇博士论文，题名与期刊卷页去重后有 63 项正式期刊。另分栏的预印本不计。"
+      },
+      "alternatives": [
+        "https://openalex.org/A5057960098"
+      ]
+    },
+    "giancarlo-urzua": {
+      "name": "Giancarlo Urzúa",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5020485326",
+      "url": "https://openalex.org/A5020485326",
+      "note": "现任姓名变化与完整 CV 的作者、合著及题录一致。作者档 44 成果，41 项可见、32 条文章，累计 473。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/urzua",
+        "https://www.mat.uc.cl/~urzua/",
+        "https://www.mat.uc.cl/~urzua/giancv.pdf",
+        "https://api.openalex.org/works?filter=author.id:A5020485326&sort=cited_by_count:desc&per-page=125&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5020485326,type:article&per-page=1&select=id"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5020485326",
+        "url": "https://openalex.org/A5020485326",
+        "checkedAt": "2026-11-27",
+        "articles": 32,
+        "works": 44,
+        "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+        "citations": 473,
+        "hIndex": 12,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "anibal-patricio-velozo-ruiz": {
+      "name": "Anibal Patricio Velozo Ruiz",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5036680189",
+      "url": "https://openalex.org/A5036680189",
+      "note": "负曲率与测地流期刊、学校职位和主档 ORCID 一致。另一个同人档只有数学物理预印本，单列且不并入累计。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/apvelozo",
+        "https://sites.google.com/view/apvelozo/research",
+        "https://api.openalex.org/works?filter=author.id:A5069200065&sort=cited_by_count:desc&per-page=125&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5036680189&sort=cited_by_count:desc&per-page=125&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5036680189,type:article&per-page=1&select=id"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5036680189",
+        "url": "https://openalex.org/A5036680189",
+        "checkedAt": "2026-11-27",
+        "articles": 14,
+        "works": 20,
+        "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+        "citations": 242,
+        "hIndex": 9,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      },
+      "alternatives": [
+        "https://openalex.org/A5069200065"
+      ]
+    },
+    "benjamin-pablo-palacios-farias": {
+      "name": "Benjamin Pablo Palacios Farias",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5091157003",
+      "url": "https://openalex.org/A5091157003",
+      "note": "ORCID、本人 CV 和逆问题正式期刊，与本校同作者匹配。另同名 USACH 作者未并入。14 篇 article，120 次档案累计。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/benjamin.palacios",
+        "https://drive.google.com/file/d/13lTWO6KcdRRFk2mWEUCO45YakkHzZao_/view?usp=drive_link",
+        "https://sites.google.com/view/bpalacios/research",
+        "https://api.openalex.org/works/https://doi.org/10.48550/arxiv.2610.26760",
+        "https://api.openalex.org/works?filter=author.id:A5091157003&sort=cited_by_count:desc&per-page=125&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5091157003,type:article&per-page=1&select=id"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5091157003",
+        "url": "https://openalex.org/A5091157003",
+        "checkedAt": "2026-11-27",
+        "articles": 14,
+        "works": 19,
+        "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+        "citations": 120,
+        "hIndex": 7,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      },
+      "alternatives": [
+        "https://openalex.org/A5053100392"
+      ]
     }
   }
 }

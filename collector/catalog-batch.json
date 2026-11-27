@@ -9455,18 +9455,58 @@
     {
       "id": "puc-chile",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，28 条任职或方向待核。 已收录 4 位学者，个人主页 2、CV 2、指标 0。 已查数学学院 Geometría 研究组、教师个人页和晋升公告，复核代数几何和几何分析教师。组员及其他研究单位仍待对账。",
+      "coverageNote": "已解析 1/12 个登记来源，21 条任职或方向待核。 已收录 13 位学者，个人主页 13、CV 6、指标 10。 本期数学系 51 位全职，校全学院 88 位（另含统计），兼职 25，博士后 5，两组几何各六和 PDE 七位。核对公开个人档、本人 CV、具名聘任和论文署名，订正 Petrache 与 Kamburov 职级，补录微分、复和代数几何研究。Jesse Huang 的 OpenAlex 医学混档、Bustamante 的数学与社会学混档及 Chuaqui 拆档，分别以本人书目计数。查物理、数学工程和 MiDaS 当期入口，并定位访问名单 49 页。短访、数学工程与物理有关的跨聘、兼职及博士后个档仍待继续对账。",
       "rosterLinks": [
         [
           "Facultad de Matemáticas · Geometría",
           "https://www.mat.uc.cl/geometria.html"
         ],
         [
+          "Matemáticas UC · Geometría Aritmética y Algebraica",
+          "https://www.mat.uc.cl/geometria-aritmetica-y-algebraica.html"
+        ],
+        [
+          "Instituto de Ingeniería Matemática y Computacional · faculty links",
+          "https://imc.uc.cl/"
+        ],
+        [
+          "Facultad de Matemáticas · académicos de jornada completa",
+          "https://www.mat.uc.cl/personas/profes"
+        ],
+        [
           "数学系或所属学院人员入口",
           "https://www.mat.uc.cl/personas/profes/matematica"
+        ],
+        [
+          "MiDaS Millenium Nucleus · public team",
+          "https://midas.mat.uc.cl/team/team.html"
+        ],
+        [
+          "Matemáticas UC · académicos de jornada parcial",
+          "https://www.mat.uc.cl/personas/parcial"
+        ],
+        [
+          "Matemáticas UC · Ecuaciones en Derivadas Parciales",
+          "https://www.mat.uc.cl/ecuaciones-en-derivadas-parciales.html"
+        ],
+        [
+          "Geometric Analysis by the Andes · 2026 host organizers",
+          "https://gaandes.com/"
+        ],
+        [
+          "Instituto de Física · Cuerpo Académico",
+          "https://fisica.uc.cl/planta-academica/cuerpo-docente/"
+        ],
+        [
+          "Matemáticas UC · postdoctorados",
+          "https://www.mat.uc.cl/personas/postdoc"
+        ],
+        [
+          "Matemáticas UC · profesores visitantes",
+          "https://www.mat.uc.cl/personas/visitas"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-27"
     },
     {
       "id": "spbu",
@@ -53199,44 +53239,333 @@
       "recordStatus": "directory"
     },
     {
-      "id": "giancarlo-urzua",
-      "name": "Giancarlo Urzúa",
-      "aliases": [],
+      "id": "anibal-patricio-velozo-ruiz",
+      "name": "Anibal Patricio Velozo Ruiz",
+      "aliases": [
+        "Aníbal Velozo",
+        "Aníbal Velozo Ruiz"
+      ],
       "affiliations": [
         {
           "schoolId": "puc-chile",
-          "department": "数学系",
-          "title": "Profesor Titular",
-          "url": "https://www.mat.uc.cl/noticias/2024-09-03/giancarlo-urzua-es-nombrado-profesor-titular-uc.html",
+          "department": "Departamento de Matemática · Facultad de Matemáticas",
+          "title": "Profesor Asistente",
+          "url": "https://www.mat.uc.cl/personas/perfil/apvelozo",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-27"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/view/apvelozo",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查校个人档、本人主页和研究页、ORCID 与具名近期论文，未取得可公开读取且可归属本人的来源。",
+      "publicationsUrl": "https://sites.google.com/view/apvelozo/research",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "负曲率与测地流期刊、学校职位和主档 ORCID 一致。另一个同人档只有数学物理预印本，单列且不并入累计。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5036680189",
+          "url": "https://openalex.org/A5036680189",
+          "checkedAt": "2026-11-27",
+          "articles": 14,
+          "works": 20,
+          "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+          "citations": 242,
+          "hIndex": 9,
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Entropy in the cusp and phase transitions for geodesic flows",
+          "year": 2018,
+          "url": "https://doi.org/10.1007/s11856-018-1670-8",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Ergodic Optimization and Zero Temperature Limits in Negative Curvature",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s00023-022-01161-5",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry of negatively curved Riemannian manifolds, geodesic flows, thermodynamic formalism and hyperbolic dynamics",
+          "url": "https://sites.google.com/view/apvelozo/research"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "carlos-roman",
+      "name": "Carlos Román",
+      "aliases": [
+        "Carlos Román Parra"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "puc-chile",
+          "department": "Departamento de Matemática · Facultad de Matemáticas",
+          "title": "Profesor Asistente · Instituto de Ingeniería Matemática y Computacional",
+          "url": "https://www.mat.uc.cl/personas/perfil/carlos.roman",
+          "type": "primary",
+          "checkedAt": "2026-11-27"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.mat.uc.cl/~roman/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.mat.uc.cl/~roman/index_files/CVCarlosRoman.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://www.mat.uc.cl/~roman/publications.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "音符或全名检索空结果，用 2026 DOI 找到作者号。本人 CV 和早晚两篇原作锚定。12 篇 article 和 96 引用。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5005061691",
+          "url": "https://openalex.org/A5005061691",
+          "checkedAt": "2026-11-27",
+          "articles": 12,
+          "works": 17,
+          "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+          "citations": 96,
+          "hIndex": 6,
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Large conformal metrics with prescribed sign-changing Gauss curvature",
+          "year": 2014,
+          "url": "https://doi.org/10.1007/s00526-014-0805-y",
+          "type": "期刊论文"
+        },
+        {
+          "title": "First critical field in the pinned three-dimensional Ginzburg–Landau model of superconductivity",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s00526-026-03383-5",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis, conformal metrics with prescribed curvature, Ginzburg–Landau vortices and singularities",
+          "url": "https://www.mat.uc.cl/~roman/publications.html"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "giancarlo-urzua",
+      "name": "Giancarlo Urzúa",
+      "aliases": [
+        "Giancarlo Andrés Urzúa Elia"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "puc-chile",
+          "department": "Departamento de Matemática · Facultad de Matemáticas",
+          "title": "Profesor Titular",
+          "url": "https://www.mat.uc.cl/personas/perfil/urzua",
+          "type": "primary",
+          "checkedAt": "2026-11-27"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://www.mat.uc.cl/~urzua/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.mat.uc.cl/~urzua/giancv.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://www.mat.uc.cl/~urzua/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "现任姓名变化与完整 CV 的作者、合著及题录一致。作者档 44 成果，41 项可见、32 条文章，累计 473。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5020485326",
+          "url": "https://openalex.org/A5020485326",
+          "checkedAt": "2026-11-27",
+          "articles": 32,
+          "works": 44,
+          "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+          "citations": 473,
+          "hIndex": 12,
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On wormholes in the moduli space of surfaces",
+          "year": 2022,
+          "url": "https://doi.org/10.14231/ag-2022-002",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Exotic surfaces",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/s00208-024-02916-7",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and complex geometry of surfaces, singularities, degenerations, moduli and elliptic surfaces",
+          "url": "https://www.mat.uc.cl/~urzua/"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "hector-hardy-pasten-vasquez",
+      "name": "Héctor Hardy Pastén Vásquez",
+      "aliases": [
+        "Héctor Pastén",
+        "Hector Pasten"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "puc-chile",
+          "department": "Departamento de Matemática · Facultad de Matemáticas",
+          "title": "Profesor Asociado",
+          "url": "https://www.mat.uc.cl/personas/perfil/hector.pasten",
+          "type": "primary",
+          "checkedAt": "2026-11-27"
         }
       ],
       "fields": [
         "algebraic"
       ],
-      "tags": [
-        "Algebraic geometry, algebraic surfaces and singularities"
-      ],
-      "homepage": null,
+      "tags": [],
+      "homepage": "https://www.mat.uc.cl/~hector.pasten/",
       "homepageStatus": null,
-      "cvUrl": "https://www.mat.uc.cl/~urzua/giancv2019.pdf",
+      "cvUrl": null,
       "cvType": null,
-      "cvStatus": null,
-      "publicationsUrl": null,
+      "cvStatus": "查校组合档、本人 About 和 Research、ANID 教育及学术任职、历史 Harvard 站，未取得可公开读取且可归属本人的来源。",
+      "publicationsUrl": "https://www.mat.uc.cl/~hector.pasten/papers.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "有效期刊 article 48；同一期刊亦有预印本版本，文献类型分开查询。引用保持 OpenAlex 作者原档累计范围，含该来源的预印本引用。排除医学名字。",
+      "metrics": [
         {
-          "text": "Algebraic geometry, algebraic surfaces and singularities",
-          "url": "https://www.mat.uc.cl/geometria.html"
+          "source": "OpenAlex",
+          "authorId": "A5012806097",
+          "url": "https://openalex.org/A5012806097",
+          "checkedAt": "2026-11-27",
+          "articles": 48,
+          "works": 77,
+          "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+          "citations": 372,
+          "hIndex": 10,
+          "citationScope": "OpenAlex 作者档案累计引用"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "A Chabauty–Coleman bound for surfaces",
+          "year": 2023,
+          "url": "https://doi.org/10.1007/s00222-023-01217-1",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Non-thin rank jumps for double elliptic K3 surfaces",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/s00229-024-01554-2",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry, Diophantine approximation, elliptic K3 surfaces, rational points and Chabauty–Coleman bounds",
+          "url": "https://www.mat.uc.cl/~hector.pasten/papers.html"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "jesse-huang",
+      "name": "Jesse Huang",
+      "aliases": [],
+      "affiliations": [
+        {
+          "schoolId": "puc-chile",
+          "department": "Departamento de Matemática · Facultad de Matemáticas",
+          "title": "Profesora Asistente",
+          "url": "https://www.mat.uc.cl/personas/perfil/jesse.huang1",
+          "type": "primary",
+          "checkedAt": "2026-11-27"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.jessehuang.org/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查本人站、校人员卡、PIMS 与滑铁卢历史学术记录，未取得可公开读取且可归属本人的来源。",
+      "publicationsUrl": "https://www.jessehuang.org/research",
+      "publicationCounts": [
+        {
+          "value": 4,
+          "url": "https://www.jessehuang.org/research",
+          "checkedAt": "2026-11-27",
+          "scope": "作者公开 Publications 2022–2025 全段四条，每条有期刊和预印本配对。按正式期刊及题名去重；一篇单列预印本和一篇索取稿都排除。"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "数学预印本错误连到主档的医学作者。该 ORCID 与医学资料相连，不在数学学者信息采用。按本人发表段核得 4 篇。未找到可确认归属的公开 Scholar 累计引用。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Rouquier dimension is Krull dimension for normal toric varieties",
+          "year": 2023,
+          "url": "https://doi.org/10.1007/s40879-023-00686-1",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Variation of GIT and Variation of Lagrangian Skeletons II: Quasi-symmetric Case",
+          "year": 2022,
+          "url": "https://doi.org/10.1016/j.aim.2022.108597",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry of toric varieties, coherent derived categories, noncommutative crepant resolutions, and homological mirror symmetry",
+          "url": "https://www.jessehuang.org/research"
+        }
+      ],
+      "checkedAt": "2026-11-27",
       "recordStatus": "directory"
     },
     {
@@ -53248,42 +53577,62 @@
       "affiliations": [
         {
           "schoolId": "puc-chile",
-          "department": "数学系",
+          "department": "Departamento de Matemática · Facultad de Matemáticas",
           "title": "Profesora Asociada",
           "url": "https://www.mat.uc.cl/personas/perfil/mariel",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-27"
         }
       ],
       "fields": [
         "differential"
       ],
-      "tags": [
-        "Análisis Geométrico"
-      ],
-      "homepage": "https://mat.uc.cl/~mariel/",
+      "tags": [],
+      "homepage": "https://www.mat.uc.cl/~mariel/",
       "homepageStatus": null,
       "cvUrl": "https://www.mat.uc.cl/~mariel/CVmariel2025short.pdf",
       "cvType": "公开 CV（简版）",
       "cvStatus": null,
-      "publicationsUrl": null,
+      "publicationsUrl": "https://www.mat.uc.cl/~mariel/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "CV 上的当前方向、校职、公开唯一 ORCID 及 2026 正式期刊匹配。28 篇 article，累计 386。",
+      "metrics": [
         {
-          "text": "Geometric analysis and geometric flows, Allen-Cahn equation and mean curvature flow",
-          "url": "https://www.mat.uc.cl/personas/perfil/mariel"
-        },
-        {
-          "text": "Análisis Geométrico",
-          "url": "https://www.mat.uc.cl/personas/perfil/mariel"
+          "source": "OpenAlex",
+          "authorId": "A5021859505",
+          "url": "https://openalex.org/A5021859505",
+          "checkedAt": "2026-11-27",
+          "articles": 28,
+          "works": 34,
+          "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+          "citations": 386,
+          "hIndex": 10,
+          "citationScope": "OpenAlex 作者档案累计引用"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Uniqueness of entire graphs evolving by mean curvature flow",
+          "year": 2023,
+          "url": "https://doi.org/10.1515/crelle-2022-0085",
+          "type": "期刊论文"
+        },
+        {
+          "title": "The Mean Curvature Flow of Subgroups on Lie Groups of Dimension Three",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s12220-026-02521-x",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis, mean curvature flow, minimal surfaces and nonlinear geometric evolution",
+          "url": "https://www.mat.uc.cl/~mariel/"
+        }
+      ],
+      "checkedAt": "2026-11-27",
       "recordStatus": "directory"
     },
     {
@@ -53296,75 +53645,474 @@
       "affiliations": [
         {
           "schoolId": "puc-chile",
-          "department": "数学系",
+          "department": "Departamento de Matemática · Facultad de Matemáticas",
           "title": "Profesor Titular",
-          "url": "https://mat.uc.cl/personas/perfil/mchuaqui",
+          "url": "https://www.mat.uc.cl/personas/perfil/mchuaqui",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-27"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.mat.uc.cl/~mchuaqui/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.mat.uc.cl/~mchuaqui/#cv",
+      "cvType": "公开 HTML CV",
+      "cvStatus": null,
+      "publicationsUrl": "https://www.mat.uc.cl/~mchuaqui/",
+      "publicationCounts": [
+        {
+          "value": 63,
+          "url": "https://www.mat.uc.cl/~mchuaqui/",
+          "checkedAt": "2026-11-27",
+          "scope": "本人 Publications 1990–2025 完整 67 条。排除 1 条待刊，1 章会议文集、1 章 Contemporary Mathematics、1 篇博士论文，题名与期刊卷页去重后有 63 项正式期刊。另分栏的预印本不计。"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "主档 70 条 article 和 876 引用，部分历史无 DOI、重复预印本、同作者 Farrú 分档。按作者年代全书目取 63 项正式期刊。未核实能归属该学者的公共 Scholar。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Ahlfors–Weill extensions in several complex variables",
+          "year": 2015,
+          "url": "https://doi.org/10.1515/crelle-2012-0098",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Curvature Properties of Planar Harmonic Mappings",
+          "year": 2004,
+          "url": "https://doi.org/10.1007/bf03321060",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and complex geometry of conformal metrics, minimal surfaces, harmonic maps and the Schwarzian derivative",
+          "url": "https://www.mat.uc.cl/~mchuaqui/"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "mauricio-bustamante-londono",
+      "name": "Mauricio Bustamante Londoño",
+      "aliases": [
+        "Mauricio Bustamante"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "puc-chile",
+          "department": "Departamento de Matemática · Facultad de Matemáticas",
+          "title": "Profesor Asistente",
+          "url": "https://www.mat.uc.cl/personas/perfil/mauricio.bustamante",
+          "type": "primary",
+          "checkedAt": "2026-11-27"
         }
       ],
       "fields": [
         "differential"
       ],
       "tags": [],
-      "homepage": "https://www.mat.uc.cl/~mchuaqui/",
+      "homepage": "https://sites.google.com/view/mbustamante/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "cvStatus": "查本人数学站、院系卡、Münster 旧学术目录和具名期刊。入检的丹麦物理同名 CV 属另一人，未取得可公开读取且可归属本人的来源。",
+      "publicationsUrl": "https://sites.google.com/view/mbustamante/art%C3%ADculos",
+      "publicationCounts": [
         {
-          "text": "Differential geometry, minimal surfaces, conformal mappings and geometric complex analysis",
-          "url": "https://mat.uc.cl/personas/perfil/mchuaqui"
+          "value": 11,
+          "url": "https://sites.google.com/view/mbustamante/art%C3%ADculos",
+          "checkedAt": "2026-11-27",
+          "scope": "本人 Artículos de investigación 2016–2025 出刊全部 11 条，逐一按规范化题名及期刊书目信息去重。四条只列 arXiv 的新稿、教程、翻译和活动报告分列。"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "opportunities": [],
+      "identityNote": "主要索引合并了社会学构作和几何作者，另一位同名物理索引为相对论教稿。204 累计引用不能归属。作者学术页面核得 11 篇期刊，查 Scholar 按姓名转登录。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Symmetries of exotic negatively curved manifolds",
+          "year": 2022,
+          "url": "https://doi.org/10.4310/jdg/1645207478",
+          "type": "期刊论文"
+        },
+        {
+          "title": "On the topology of the space of pinched negatively curved metrics with finite volume and identical ends",
+          "year": 2016,
+          "url": "https://doi.org/10.1112/blms/bdw021",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric topology of negatively curved manifolds, spaces of Riemannian metrics and hyperbolization",
+          "url": "https://sites.google.com/view/mbustamante/art%C3%ADculos"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "mircea-petrache",
+      "name": "Mircea Petrache",
+      "aliases": [
+        "Mircea Alexandru Petrache"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "puc-chile",
+          "department": "Departamento de Matemática · Facultad de Matemáticas",
+          "title": "Profesor Asociado",
+          "url": "https://www.mat.uc.cl/personas/perfil/mpetrache",
+          "type": "primary",
+          "checkedAt": "2026-11-27"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/site/mircpetrache/home",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查本人学术站、数学与工程具名卡、ORCID 和作者 Scholar，未取得可公开读取且可归属本人的来源。",
+      "publicationsUrl": "https://sites.google.com/site/mircpetrache/home",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "作者主页和 OpenAlex ORCID、数学及工程现任档互证，30 项 article。总作品含同题预印本和会议版本，引用采用本人直链 Scholar 848。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5064793780",
+          "url": "https://openalex.org/A5064793780",
+          "checkedAt": "2026-11-27",
+          "articles": 30,
+          "works": 72,
+          "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI"
+        },
+        {
+          "source": "Google Scholar",
+          "authorId": "HiYZ-6MAAAAJ",
+          "url": "https://scholar.google.com/citations?hl=en&user=HiYZ-6MAAAAJ",
+          "checkedAt": "2026-11-27",
+          "citations": 848,
+          "hIndex": 16,
+          "citationScope": "作者本人主页直链的 Scholar All 栏"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Continuum limits of discrete isoperimetric problems and Wulff shapes in lattices and quasicrystal tilings",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s00526-022-02318-0",
+          "type": "期刊论文"
+        },
+        {
+          "title": "NEXT ORDER ASYMPTOTICS AND RENORMALIZED ENERGY FOR RIESZ INTERACTIONS",
+          "year": 2015,
+          "url": "https://doi.org/10.1017/s1474748015000201",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry, geometric measure theory, metric geometry, variational problems, singularities in gauge theory and discrete isoperimetry",
+          "url": "https://www.mat.uc.cl/personas/perfil/mpetrache"
+        }
+      ],
+      "checkedAt": "2026-11-27",
       "recordStatus": "directory"
     },
     {
       "id": "natalia-cristina-garcia-fritz",
       "name": "Natalia Cristina García Fritz",
-      "aliases": [],
+      "aliases": [
+        "Natalia Garcia-Fritz"
+      ],
       "affiliations": [
         {
           "schoolId": "puc-chile",
-          "department": "数学系",
-          "title": ". Profesora Asociada,Departamento de Matemática.",
+          "department": "Departamento de Matemática · Facultad de Matemáticas",
+          "title": "Profesora Asociada",
           "url": "https://www.mat.uc.cl/personas/perfil/natalia.garcia",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-27"
         }
       ],
       "fields": [
         "algebraic"
       ],
       "tags": [],
-      "homepage": null,
+      "homepage": "https://www.mat.uc.cl/~natalia.garcia/",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvStatus": "查校个人档、本人研究和教学站、ORCID 与具名论文的作者档，未取得可公开读取且可归属本人的来源。",
+      "publicationsUrl": "https://www.mat.uc.cl/~natalia.garcia/Research.html",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "公开 ORCID 与两个期刊正式 DOI，及本校具名和合作方向相符。档案 23 成果，文章查询 14，累计 87。",
+      "metrics": [
         {
-          "text": "Teoría de números: Geometría aritmética, conexiones con métodos explícitos, teoría de Nevanlinna, definibilidad y decidibilidad en teoría de números.",
-          "url": "https://www.mat.uc.cl/personas/perfil/natalia.garcia"
+          "source": "OpenAlex",
+          "authorId": "A5091874309",
+          "url": "https://openalex.org/A5091874309",
+          "checkedAt": "2026-11-27",
+          "articles": 14,
+          "works": 23,
+          "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+          "citations": 87,
+          "hIndex": 4,
+          "citationScope": "OpenAlex 作者档案累计引用"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Elliptic Curves with Long Arithmetic Progressions Have Large Rank",
+          "year": 2020,
+          "url": "https://doi.org/10.1093/imrn/rnaa061",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Families of explicit quasi-hyperbolic and hyperbolic surfaces",
+          "year": 2019,
+          "url": "https://doi.org/10.1007/s00209-019-02439-x",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry, elliptic curves, rational and integral points, diophantine geometry, and hyperbolicity",
+          "url": "https://www.mat.uc.cl/~natalia.garcia/Research.html"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "nikola-angelov-kamburov",
+      "name": "Nikola Angelov Kamburov",
+      "aliases": [
+        "Nikola Kamburov"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "puc-chile",
+          "department": "Departamento de Matemática · Facultad de Matemáticas",
+          "title": "Profesor Asociado",
+          "url": "https://www.mat.uc.cl/personas/perfil/nikamburov",
+          "type": "primary",
+          "checkedAt": "2026-11-27"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.mat.uc.cl/~nikamburov/",
+      "homepageStatus": null,
+      "cvUrl": "https://www.mat.uc.cl/~nikamburov/NK_CV_extended.pdf",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://www.mat.uc.cl/~nikamburov/papers.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "现任、CV、已鉴别几何论文的作者与 DOI 互证。可见 11 项，文章分类 10，作者总 12，累计 144。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5005948652",
+          "url": "https://openalex.org/A5005948652",
+          "checkedAt": "2026-11-27",
+          "articles": 10,
+          "works": 12,
+          "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+          "citations": 144,
+          "hIndex": 7,
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Structure of One-Phase Free Boundaries in the Plane",
+          "year": 2015,
+          "url": "https://doi.org/10.1093/imrn/rnv339",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Nondegeneracy for stable solutions to the one-phase free boundary problem",
+          "year": 2023,
+          "url": "https://doi.org/10.1007/s00208-023-02591-0",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis of free boundaries, minimal surfaces, and Bernoulli free-boundary problems",
+          "url": "https://www.mat.uc.cl/~nikamburov/papers.html"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "pedro-henrique-gaspar-marques-da-silva",
+      "name": "Pedro Henrique Gaspar Marques Da Silva",
+      "aliases": [
+        "Pedro Gaspar"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "puc-chile",
+          "department": "Departamento de Matemática · Facultad de Matemáticas",
+          "title": "Profesor Asistente",
+          "url": "https://www.mat.uc.cl/personas/perfil/pedro.gaspar",
+          "type": "primary",
+          "checkedAt": "2026-11-27"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/view/pedrogaspar",
+      "homepageStatus": null,
+      "cvUrl": "https://drive.google.com/file/d/1F1bkSvY_lA8gOyDpPuF1yqLgUI25QbgJ/view?usp=sharing",
+      "cvType": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://sites.google.com/view/pedrogaspar/research",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "本人 CV、公开 ORCID、三条正式 DOI 锚定作者。材料、物理、外科同名不取。OpenAlex 9 篇 article / 261 引用，Scholar All 313。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5020959419",
+          "url": "https://openalex.org/A5020959419",
+          "checkedAt": "2026-11-27",
+          "articles": 9,
+          "works": 12,
+          "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+          "citations": 261,
+          "hIndex": 6,
+          "citationScope": "OpenAlex 作者档案累计引用"
+        },
+        {
+          "source": "Google Scholar",
+          "authorId": "apqo998AAAAJ",
+          "url": "https://scholar.google.com/citations?user=apqo998AAAAJ",
+          "checkedAt": "2026-11-27",
+          "citations": 313,
+          "hIndex": 6,
+          "citationScope": "作者本人主页直链的 Scholar All 栏"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Solutions of the Allen–Cahn equation on closed manifolds in the presence of symmetry",
+          "year": 2023,
+          "url": "https://doi.org/10.4310/cag.2023.v31.n8.a2",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Allen-Cahn equation and degenerate minimal hypersurfaces",
+          "year": 2026,
+          "url": "https://doi.org/10.1512/iumj.2026.75.240806",
+          "type": "期刊论文"
+        },
+        {
+          "title": "When can minimal hypersurfaces be connected by mean curvature flow?",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s00208-026-03479-5",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis, Allen–Cahn phase transitions, minimal hypersurfaces and mean curvature flow",
+          "url": "https://sites.google.com/view/pedrogaspar/research"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "ricardo-menares-valencia",
+      "name": "Ricardo Menares Valencia",
+      "aliases": [
+        "Ricardo Menares"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "puc-chile",
+          "department": "Departamento de Matemática · Facultad de Matemáticas",
+          "title": "Profesor Asociado",
+          "url": "https://www.mat.uc.cl/personas/perfil/rmenares",
+          "type": "primary",
+          "checkedAt": "2026-11-27"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://www.mat.uc.cl/~rmenares/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查数学系具名卡、本人研究站、旧资料和正式论文作者入口，未取得可公开读取且可归属本人的来源。",
+      "publicationsUrl": "https://www.mat.uc.cl/~rmenares/Research.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "实名本站、任职、以前与近期合作者一致。校内当前机构汇集 15 个可见作品，8 条文章、125 引用。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5047421625",
+          "url": "https://openalex.org/A5047421625",
+          "checkedAt": "2026-11-27",
+          "articles": 8,
+          "works": 15,
+          "articleScope": "OpenAlex type:article，已核具名作者、作品及代表作 DOI",
+          "citations": 125,
+          "hIndex": 7,
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "p-adic distribution of CM points and Hecke orbits, I : Convergence towards the Gauss point",
+          "year": 2020,
+          "url": "https://doi.org/10.2140/ant.2020.14.1239",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Statistical properties of Hecke correspondences",
+          "year": 2026,
+          "url": "https://doi.org/10.48550/arxiv.2607.21505",
+          "type": "预印本"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry of modular curves, Hecke correspondences, CM points and non-Archimedean heights",
+          "url": "https://www.mat.uc.cl/~rmenares/Research.html"
+        }
+      ],
+      "checkedAt": "2026-11-27",
       "recordStatus": "directory"
     },
     {

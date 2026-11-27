@@ -12166,10 +12166,40 @@
       "school": "puc-chile",
       "url": "https://www.mat.uc.cl/geometria.html",
       "label": "Facultad de Matemáticas · Geometría",
-      "status": "needs_adapter",
+      "status": "reference",
+      "count": 6,
+      "checked_at": "2026-11-27",
+      "note": "当前几何组六位。与数学系职称、PDE 七人及具名论文交叉；García-Huidobro 有组联属及独立非线性 PDE 方向。"
+    },
+    {
+      "id": "puc-chile-ageo-b65",
+      "school": "puc-chile",
+      "url": "https://www.mat.uc.cl/geometria-aritmetica-y-algebraica.html",
+      "label": "Matemáticas UC · Geometría Aritmética y Algebraica",
+      "status": "reference",
+      "count": 6,
+      "checked_at": "2026-11-27",
+      "note": "六个具名组员。对照其数论、组合、代数与微分几何分工。"
+    },
+    {
+      "id": "puc-chile-cmiA-b65",
+      "school": "puc-chile",
+      "url": "https://imc.uc.cl/",
+      "label": "Instituto de Ingeniería Matemática y Computacional · faculty links",
+      "status": "reference",
       "count": 0,
-      "checked_at": "2026-11-24",
-      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+      "checked_at": "2026-11-27",
+      "note": "研究所主页公开人员、科研成果、团队及研究项，详细教师与团队网页直访 403，另用个人履历互证。"
+    },
+    {
+      "id": "puc-chile-full-b65",
+      "school": "puc-chile",
+      "url": "https://www.mat.uc.cl/personas/profes",
+      "label": "Facultad de Matemáticas · académicos de jornada completa",
+      "status": "reference",
+      "count": 88,
+      "checked_at": "2026-11-27",
+      "note": "全学院 88 位具名，数学和统计分栏独立，数学系优先逐方向。"
     },
     {
       "id": "puc-chile-math-source",
@@ -12178,8 +12208,78 @@
       "label": "数学系或所属学院人员入口",
       "status": "parsed",
       "count": 51,
-      "checked_at": "2026-11-23",
-      "note": ""
+      "checked_at": "2026-11-27",
+      "note": "当前数学系全职分栏 51 张具名卡；官方个人页提供职级、学位，研究方向缺项由具名书目和其他官网逐人核。"
+    },
+    {
+      "id": "puc-chile-midas-b65",
+      "school": "puc-chile",
+      "url": "https://midas.mat.uc.cl/team/team.html",
+      "label": "MiDaS Millenium Nucleus · public team",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "团队页可读，按主要、联属、博士后和学生分列。数理基础属随机与统计方向，具体几何交叉按来源核。"
+    },
+    {
+      "id": "puc-chile-part-b65",
+      "school": "puc-chile",
+      "url": "https://www.mat.uc.cl/personas/parcial",
+      "label": "Matemáticas UC · académicos de jornada parcial",
+      "status": "reference",
+      "count": 25,
+      "checked_at": "2026-11-27",
+      "note": "学院兼职 25 位，含博士后兼教、Adjuntos 和原博士生。Yazmín Rivera 现兼教且有独立几何成果；其他候选继续对账。"
+    },
+    {
+      "id": "puc-chile-pde-b65",
+      "school": "puc-chile",
+      "url": "https://www.mat.uc.cl/ecuaciones-en-derivadas-parciales.html",
+      "label": "Matemáticas UC · Ecuaciones en Derivadas Parciales",
+      "status": "reference",
+      "count": 7,
+      "checked_at": "2026-11-27",
+      "note": "当前研究分组具名七位，对照几何、主聘以及 Carlos Román 的几何分析名卡。"
+    },
+    {
+      "id": "puc-chile-pgEvent-b65",
+      "school": "puc-chile",
+      "url": "https://gaandes.com/",
+      "label": "Geometric Analysis by the Andes · 2026 host organizers",
+      "status": "reference",
+      "count": 3,
+      "checked_at": "2026-11-27",
+      "note": "共同主办的六位组织者有三位明确 PUC 任职，即 Gaspar、Kamburov、Sáez。日期与本人及校方具名资料交叉。"
+    },
+    {
+      "id": "puc-chile-phyfac-b65",
+      "school": "puc-chile",
+      "url": "https://fisica.uc.cl/planta-academica/cuerpo-docente/",
+      "label": "Instituto de Física · Cuerpo Académico",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "已读物理、天文当前院系的角色入口。物理学具名教师、荣休、访学及博士后继续逐项核对。"
+    },
+    {
+      "id": "puc-chile-post-b65",
+      "school": "puc-chile",
+      "url": "https://www.mat.uc.cl/personas/postdoc",
+      "label": "Matemáticas UC · postdoctorados",
+      "status": "reference",
+      "count": 5,
+      "checked_at": "2026-11-27",
+      "note": "可读当前五位博士后，具名导师和本人研究入口。另查有日期基金及历史项目分栏。"
+    },
+    {
+      "id": "puc-chile-visits-b65",
+      "school": "puc-chile",
+      "url": "https://www.mat.uc.cl/personas/visitas",
+      "label": "Matemáticas UC · profesores visitantes",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "可读官方 49 页部分历史数据。已定位当前前页、第二至第五页和末页，相关几何访问任职与论文待继续按日期复核。"
     },
     {
       "id": "punjab-27-math",
@@ -349630,14 +349730,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Álvaro Daniel Coronel Soto",
-        "title": ". Profesor Asociado,Departamento de Matemática.",
+        "title": "Profesor Asociado",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/acoronel",
-        "homepage": "",
+        "homepage": "http://www.mat.puc.cl/~acoronel/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349646,14 +349746,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Amal Taarabt",
-        "title": ". Profesora Asistente,Departamento de Matemática.",
+        "title": "Profesora Asistente",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/amtaarabt",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349662,14 +349762,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Anibal Patricio Velozo Ruiz",
-        "title": ". Profesor Asistente,Departamento de Matemática.",
+        "title": "Profesor Asistente",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/apvelozo",
-        "homepage": "",
+        "homepage": "https://sites.google.com/view/apvelozo",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349678,14 +349778,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Antonio Francisco Behn Von Schmieden",
-        "title": ". Profesor Docente Asociado,Departamento de Matemática.",
+        "title": "Profesor Docente Asociado",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/antonio.behn",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349694,14 +349794,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Benjamin Pablo Palacios Farias",
-        "title": ". Profesor Asistente,Departamento de Matemática.",
+        "title": "Profesor Asistente",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/benjamin.palacios",
-        "homepage": "",
+        "homepage": "https://sites.google.com/view/bpalacios/home",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349710,14 +349810,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Carlos Eduardo Rojas Bruna",
-        "title": ". Profesor Docente Asistente,Departamento de Matemática.",
+        "title": "Profesor Docente Asistente",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/carojasb",
-        "homepage": "",
+        "homepage": "https://www.mat.uc.cl/~carojasb",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349726,14 +349826,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Carlos Román",
-        "title": ". Profesor Asistente,Departamento de Matemática.",
+        "title": "Profesor Asistente",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/carlos.roman",
-        "homepage": "",
+        "homepage": "http://www.mat.uc.cl/~roman/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349742,14 +349842,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Carolina Becerra Osses",
-        "title": ". Profesora Docente Asociada,Departamento de Matemática.",
+        "title": "Profesora Docente Asociada",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/cbecerra",
-        "homepage": "",
+        "homepage": "https://sites.google.com/view/carolinabecerraosses",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349758,14 +349858,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Christian Hermann Sadel",
-        "title": ". Profesor Asociado,Departamento de Matemática.",
+        "title": "Profesor Asociado",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/chsadel",
-        "homepage": "",
+        "homepage": "http://www.mat.puc.cl/~chsadel",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349774,14 +349874,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Constanza del Campo Doren",
-        "title": ". Profesora Adjunta,Departamento de Matemática.",
+        "title": "Profesora Adjunta",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/cadelcampo",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349790,14 +349890,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Cristian González",
-        "title": ". Profesor Asistente,Departamento de Matemática.",
+        "title": "Profesor Asistente",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/cgonzaler",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349806,14 +349906,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Eduardo Reyes",
-        "title": ". Profesor Asistente,Departamento de Matemática.",
+        "title": "Profesor Asistente",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/eduardoreyes",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349822,14 +349922,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Federico Castillo Castillo",
-        "title": ". Profesor Asistente,Departamento de Matemática.",
+        "title": "Profesor Asistente",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/federico.castillo",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349838,14 +349938,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Gabriela Verónica Fernández Lamilla",
-        "title": ". Profesora Docente Asociada,Departamento de Matemática.",
+        "title": "Profesora Docente Asociada",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/gfernand",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349854,14 +349954,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Giancarlo Andrés Urzúa Elia",
-        "title": ". Profesor Titular,Departamento de Matemática.",
+        "title": "Profesor Titular",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/urzua",
-        "homepage": "",
+        "homepage": "http://www.mat.uc.cl/~urzua/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349870,14 +349970,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Gianmarco Sperone",
-        "title": ". Profesor Asistente,Departamento de Matemática.",
+        "title": "Profesor Asistente",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/gianmarco.sperone",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349886,14 +349986,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Giuseppe de Nittis",
-        "title": ". Profesor Asociado,Departamento de Matemática.",
+        "title": "Profesor Asociado",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/gidenittis",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349902,14 +350002,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Godofredo Iommi Echeverria",
-        "title": ". Profesor Titular,Departamento de Matemática.",
+        "title": "Profesor Titular",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/giommi",
-        "homepage": "",
+        "homepage": "http://www.mat.puc.cl/~giommi",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349918,14 +350018,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Gregorio Rolando Moreno Flores",
-        "title": ". Profesor Asociado,Departamento de Matemática.",
+        "title": "Profesor Asociado",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/grmoreno",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349934,14 +350034,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Héctor Hardy Pastén Vásquez",
-        "title": ". Profesor Asociado,Departamento de Matemática.",
+        "title": "Profesor Asociado",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/hector.pasten",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349950,14 +350050,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Hugo Maturana",
-        "title": ". Profesor Docente Asistente,Departamento de Matemática.",
+        "title": "Profesor Docente Asistente",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/hugo.maturana",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349966,14 +350066,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Ivan Patricio Huerta Gil",
-        "title": ". Profesor Adjunto,Departamento de Matemática.",
+        "title": "Profesor Adjunto",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/ihuerta",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349982,14 +350082,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Jan Beno Kiwi Krauskopf",
-        "title": ". Profesor Titular,Departamento de Matemática.",
+        "title": "Profesor Titular",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/jkiwi",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -349998,14 +350098,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Jesse Huang",
-        "title": ". Profesora Asistente,Departamento de Matemática.",
+        "title": "Profesora Asistente",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/jesse.huang1",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350014,14 +350114,14 @@
       "school": "puc-chile",
       "record": {
         "name": "José Alejandro Samper Casas",
-        "title": ". Profesor Asistente,Departamento de Matemática.",
+        "title": "Profesor Asistente",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/jsamper",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350030,14 +350130,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Mahsa Allahbakhshi",
-        "title": ". Profesora Docente Asociada,Departamento de Matemática.",
+        "title": "Profesora Docente Asociada",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/maallahbakhshi",
-        "homepage": "",
+        "homepage": "https://www.mat.uc.cl/~maallahbakhshi",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350046,14 +350146,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Manuel Antonio Cabezas Parra",
-        "title": ". Profesor Asociado,Departamento de Matemática.",
+        "title": "Profesor Asociado",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/mncabeza",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350062,14 +350162,14 @@
       "school": "puc-chile",
       "record": {
         "name": "María Isabel Cortez Muñoz",
-        "title": ". Profesora Asociada,Departamento de Matemática.",
+        "title": "Profesora Asociada",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/maria.cortez",
-        "homepage": "",
+        "homepage": "https://sites.google.com/view/mariaisabelcortez/home",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350078,14 +350178,14 @@
       "school": "puc-chile",
       "record": {
         "name": "María Isabel Rauld Vásquez",
-        "title": ". Profesora Adjunta,Departamento de Matemática.",
+        "title": "Profesora Adjunta",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/mirauld",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350094,14 +350194,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Maria Jose Moreno Silva",
-        "title": ". Profesora Docente Asistente,Departamento de Matemática.",
+        "title": "Profesora Docente Asistente",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/mmors",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350110,14 +350210,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Mariel Inés Aura Sáez Trumper",
-        "title": ". Profesora Asociada,Departamento de Matemática.",
+        "title": "Profesora Asociada",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/mariel",
-        "homepage": "",
+        "homepage": "http://www.mat.puc.cl/~mariel/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350126,14 +350226,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Mario Andres Ponce Acevedo",
-        "title": ". Profesor Titular,Departamento de Matemática.",
+        "title": "Profesor Titular",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/mponcea",
-        "homepage": "",
+        "homepage": "http://www.mat.puc.cl/~mponcea/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350142,14 +350242,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Marta Eugenia García-Huidobro Campos",
-        "title": ". Profesora Titular,Departamento de Matemática.",
+        "title": "Profesora Titular",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/mgarcia",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350158,14 +350258,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Martín Skandar Chuaqui Farru",
-        "title": ". Profesor Titular,Departamento de Matemática.",
+        "title": "Profesor Titular",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/mchuaqui",
-        "homepage": "",
+        "homepage": "http://www.mat.puc.cl/~mchuaqui",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350174,14 +350274,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Matías Alejandro Courdurier Bettancourt",
-        "title": ". Profesor Asociado,Departamento de Matemática.",
+        "title": "Profesor Asociado",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/mcourdurier",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350190,14 +350290,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Mauricio Bustamante Londoño",
-        "title": ". Profesor Asistente,Departamento de Matemática.",
+        "title": "Profesor Asistente",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/mauricio.bustamante",
-        "homepage": "",
+        "homepage": "https://sites.google.com/view/mbustamante",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350206,14 +350306,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Mircea Petrache",
-        "title": ". Profesor Asociado,Departamento de Matemática.",
+        "title": "Profesor Asociado",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/mpetrache",
-        "homepage": "",
+        "homepage": "https://sites.google.com/site/mircpetrache/home",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350222,14 +350322,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Natalia Cristina García Fritz",
-        "title": ". Profesora Asociada,Departamento de Matemática.",
+        "title": "Profesora Asociada",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/natalia.garcia",
-        "homepage": "",
+        "homepage": "http://www.mat.uc.cl/~natalia.garcia/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350238,14 +350338,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Nikola Angelov Kamburov",
-        "title": ". Profesor Asociado,Departamento de Matemática.",
+        "title": "Profesor Asociado",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/nikamburov",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350254,14 +350354,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Norbert Heuer",
-        "title": ". Profesor Titular,Departamento de Matemática.",
+        "title": "Profesor Titular",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/nheuer",
-        "homepage": "",
+        "homepage": "http://www.mat.uc.cl/~nheuer",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350270,14 +350370,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Olivier Christian Francois Bourget",
-        "title": ". Profesor Asociado,Departamento de Matemática.",
+        "title": "Profesor Asociado",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/bourget",
-        "homepage": "",
+        "homepage": "http://www.mat.puc.cl/~bourget",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350286,14 +350386,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Pedro Henrique Gaspar Marques Da Silva",
-        "title": ". Profesor Asistente,Departamento de Matemática.",
+        "title": "Profesor Asistente",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/pedro.gaspar",
-        "homepage": "",
+        "homepage": "https://sites.google.com/view/pedrogaspar ",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350302,14 +350402,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Raimundo José Briceño Domínguez",
-        "title": ". Profesor Asociado,Departamento de Matemática.",
+        "title": "Profesor Asociado",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/raimundo.briceno",
-        "homepage": "",
+        "homepage": "http://www.mat.uc.cl/~raimundo.briceno",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350318,14 +350418,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Ricardo Menares Valencia",
-        "title": ". Profesor Asociado,Departamento de Matemática.",
+        "title": "Profesor Asociado",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/rmenares",
-        "homepage": "",
+        "homepage": "http://www.mat.uc.cl/~rmenares/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350334,14 +350434,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Rodrigo Vargas",
-        "title": ". Profesor Docente Asistente,Departamento de Matemática.",
+        "title": "Profesor Docente Asistente",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/rsvargas",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350350,14 +350450,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Santiago Saglietti",
-        "title": ". Profesor Asociado,Departamento de Matemática.",
+        "title": "Profesor Asociado",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/sasaglietti",
-        "homepage": "",
+        "homepage": "https://sites.google.com/view/santiago-saglietti/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350366,14 +350466,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Thomas Führer",
-        "title": ". Profesor Asociado,Departamento de Matemática.",
+        "title": "Profesor Asociado",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/tofuhrer",
-        "homepage": "",
+        "homepage": "http://www.mat.uc.cl/~tofuhrer/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350382,14 +350482,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Vania Rosa Ramírez Bustamante",
-        "title": ". Profesora Adjunta,Departamento de Matemática.",
+        "title": "Profesora Adjunta",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/vrramire",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350398,14 +350498,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Víctor Hugo Cortés Momberg",
-        "title": ". Profesor Adjunto,Departamento de Matemática.",
+        "title": "Profesor Adjunto",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/vcortes",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350414,14 +350514,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Wolfgang Claudio Rivera de Vera",
-        "title": ". Profesor Docente Asociado,Departamento de Matemática.",
+        "title": "Profesor Docente Asociado",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/wcrivera",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -350430,14 +350530,14 @@
       "school": "puc-chile",
       "record": {
         "name": "Yulieth K. Prieto Montañez",
-        "title": ". Profesora Asistente,Departamento de Matemática.",
+        "title": "Profesora Asistente",
         "research": "",
         "profile": "https://www.mat.uc.cl/personas/perfil/yulieth.prieto",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://www.mat.uc.cl/personas/profes/matematica",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
