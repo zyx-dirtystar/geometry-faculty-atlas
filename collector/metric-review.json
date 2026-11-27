@@ -859,7 +859,13 @@
     "person-8d678025f502": "现任中心负责人和 2026 硕士教师、具名 ORCID、与 Bronnikov 合作的 Brans–Dicke 曲面刊本互证。 OpenAlex 全语料作品 57，core article 48，累计引用 1032。",
     "person-86b61be54311": "RUDN 中心及 2026 刊本和 ORCID 一致。高引正规黑洞、标量场喉部条目与 INSPIRE 对照。排除 ITMO 光学同名 0000-0001-5107-0111。 OpenAlex 全语料作品 295，core article 214，累计引用 9392。",
     "person-496890de9216": "RUDN 具名副教授、Pleiades 编辑页 ORCID、学位库和 2024 独著匹配。2010–22 高引旧文的同合作者 Bronnikov 以及机构署名连续。 OpenAlex 全语料作品 50，core article 32，累计引用 1344。",
-    "person-e5ac43a674f5": "RUDN 项目和论文署名、Rostest 双联属、ORCID 与圆测地线等刊本一致。外部声学同名另一档。 OpenAlex 全语料作品 244，core article 138，累计引用 2860。"
+    "person-e5ac43a674f5": "RUDN 项目和论文署名、Rostest 双联属、ORCID 与圆测地线等刊本一致。外部声学同名另一档。 OpenAlex 全语料作品 244，core article 138，累计引用 2860。",
+    "jim-w-portegies": "该 ORCID 在 A5018184060 和 A5079577202 各有本人作品，校方身份、DOI 10.1002/cpa.21565 和 10.1007/s10851-022-01114-x 匹配不同作者档。Jorg M. Portegies 是不同作者。Google Scholar 姓名检索转登录，ORCID 本身零公开作品条目，保留机构论文栏 36 篇。",
+    "max-goering": "TU/e 认证 ORCID 与 2026 JEMS 的 ORCID、本人旧 Jyväskylä 项目、Finsler 导数及曲率 DOI 交叉核对。另一档为 1930–1941 年的同名艺术史作者。",
+    "vahid-shahverdi": "SIAM DOIs 10.1137/23M1565504、10.1137/24M166053X 与 KTH 学位库授权 ORCID、个人及 DIAMANT TU/e 名录相符。",
+    "jan-cees-van-der-meer": "学校 ORCID 与几何作者相符，但该档高引 CMOS 传感器论文 10.1109/ISSCC.2005.1493961 属 TU Delft 的 Jeroen C. van der Meer。校方公开期刊栏 18 条回退；累计引文待可靠作者档。",
+    "ruud-pellikaan": "几何曲线与奇点 DOI 校清本人。但按姓名存在其他记录 A5138338434 与 A5164093837，仍须逐 DOI 查清是否是同作者拆分。校方正式任期、本人站与机构成果另记。",
+    "annika-bach": "按两篇具名正式论文查 OpenAlex，几何变分作者的署名行没有分配作者 ID。姓名搜索前三档分别为代谢神经科学、外科及传播学。保留机构旧版 12 条期刊论文披露，累计引用未见可用作者档。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -8817,6 +8823,322 @@
           "title": "Integrable pseudo-Euclidean Toda-like systems in multidimensional cosmology with multicomponent perfect fluid",
           "url": "https://doi.org/10.1063/1.531290"
         }
+      ]
+    },
+    "jim-w-portegies": {
+      "name": "Jim W. Portegies",
+      "checkedAt": "2026-11-26",
+      "status": "held",
+      "note": "该 ORCID 在 A5018184060 和 A5079577202 各有本人作品，校方身份、DOI 10.1002/cpa.21565 和 10.1007/s10851-022-01114-x 匹配不同作者档。Jorg M. Portegies 是不同作者。Google Scholar 姓名检索转登录，ORCID 本身零公开作品条目，保留机构论文栏 36 篇。",
+      "authorId": "A5018184060",
+      "candidate_url": "https://openalex.org/authors/A5018184060",
+      "authorApiUrl": "https://api.openalex.org/authors/A5018184060",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5018184060&corpus=all&include_parts=true&include_pulled=true&per_page=200&select=id,doi,display_name,publication_year,type,cited_by_count,primary_location,is_xpac",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5018184060,type:article&corpus=core&per_page=1&select=id",
+      "worksCount": 35,
+      "indexedWorksCount": 35,
+      "articles": 23,
+      "citations": 279,
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "sample": [
+        {
+          "title": "Embeddings of Riemannian Manifolds with Heat Kernels and Eigenfunctions",
+          "url": "https://doi.org/10.1002/cpa.21565"
+        },
+        {
+          "title": "Embedding of RCD⁎(K,N) spaces in L2 via eigenfunctions",
+          "url": "https://doi.org/10.1016/j.jfa.2021.108968"
+        },
+        {
+          "title": "Intrinsic Flat and Gromov-Hausdorff Convergence of Manifolds with Ricci Curvature Bounded Below",
+          "url": "https://doi.org/10.1007/s12220-016-9742-7"
+        },
+        {
+          "title": "Well-posedness of a parabolic moving-boundary problem in the setting of Wasserstein gradient ﬂows",
+          "url": "https://doi.org/10.4171/ifb/229"
+        },
+        {
+          "title": "Semicontinuity of eigenvalues under intrinsic flat convergence",
+          "url": "https://doi.org/10.1007/s00526-015-0842-1"
+        }
+      ],
+      "alternatives": [
+        "https://openalex.org/authors/A5079577202",
+        "https://openalex.org/authors/A5056138839"
+      ],
+      "otherIndexEvidence": [
+        {
+          "authorId": "A5079577202",
+          "candidate_url": "https://openalex.org/authors/A5079577202",
+          "authorApiUrl": "https://api.openalex.org/authors/A5079577202",
+          "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5079577202&corpus=all&include_parts=true&include_pulled=true&per_page=200&select=id,doi,display_name,publication_year,type,cited_by_count,primary_location,is_xpac",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5079577202,type:article&corpus=core&per_page=1&select=id",
+          "worksCount": 39,
+          "indexedWorksCount": 39,
+          "articles": 12,
+          "citations": 357,
+          "countScopeSource": "https://help.openalex.org/how-to/counting/",
+          "sample": [
+            {
+              "title": "PDE-Based Group Equivariant Convolutional Neural Networks",
+              "url": "https://doi.org/10.1007/s10851-022-01114-x"
+            },
+            {
+              "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+              "url": "https://doi.org/10.5281/zenodo.20302943"
+            },
+            {
+              "title": "A model for vortical plumes in rotating convection",
+              "url": "https://doi.org/10.1063/1.2936313"
+            },
+            {
+              "title": "Waterproof: Educational Software for Learning How to Write Mathematical Proofs",
+              "url": "https://doi.org/10.4204/eptcs.400.7"
+            },
+            {
+              "title": "Gaussian Processes for Advanced Motion Control",
+              "url": "https://doi.org/10.1541/ieejjia.21011492"
+            }
+          ]
+        },
+        {
+          "authorId": "A5056138839",
+          "candidate_url": "https://openalex.org/authors/A5056138839",
+          "authorApiUrl": "https://api.openalex.org/authors/A5056138839",
+          "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5056138839&corpus=all&include_parts=true&include_pulled=true&per_page=200&select=id,doi,display_name,publication_year,type,cited_by_count,primary_location,is_xpac",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5056138839,type:article&corpus=core&per_page=1&select=id",
+          "worksCount": 13,
+          "indexedWorksCount": 13,
+          "articles": 8,
+          "citations": 290,
+          "countScopeSource": "https://help.openalex.org/how-to/counting/",
+          "sample": [
+            {
+              "title": "Optimal Paths for Variants of the 2D and 3D Reeds–Shepp Car with Applications in Image Analysis",
+              "url": "https://doi.org/10.1007/s10851-018-0795-z"
+            },
+            {
+              "title": "Hamiltonian Fast Marching: A Numerical Solver for Anisotropic and Non-Holonomic Eikonal PDEs",
+              "url": "https://doi.org/10.5201/ipol.2019.227"
+            },
+            {
+              "title": "Improving Fiber Alignment in HARDI by Combining Contextual PDE Flow with Constrained Spherical Deconvolution",
+              "url": "https://doi.org/10.1371/journal.pone.0138122"
+            },
+            {
+              "title": "Nilpotent Approximations of Sub-Riemannian Distances for Fast Perceptual Grouping of Blood Vessels in 2D and 3D",
+              "url": "https://doi.org/10.1007/s10851-018-0787-z"
+            },
+            {
+              "title": "New Approximation of a Scale Space Kernel on SE(3) and Applications in Neuroimaging",
+              "url": "https://doi.org/10.1007/978-3-319-18461-6_4"
+            }
+          ]
+        }
+      ]
+    },
+    "max-goering": {
+      "name": "Max Goering",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "TU/e 认证 ORCID 与 2026 JEMS 的 ORCID、本人旧 Jyväskylä 项目、Finsler 导数及曲率 DOI 交叉核对。另一档为 1930–1941 年的同名艺术史作者。",
+      "authorId": "A5044330906",
+      "candidate_url": "https://openalex.org/authors/A5044330906",
+      "authorApiUrl": "https://api.openalex.org/authors/A5044330906",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5044330906&corpus=all&include_parts=true&include_pulled=true&per_page=200&select=id,doi,display_name,publication_year,type,cited_by_count,primary_location,is_xpac",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5044330906,type:article&corpus=core&per_page=1&select=id",
+      "worksCount": 17,
+      "indexedWorksCount": 17,
+      "articles": 8,
+      "citations": 71,
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "sample": [
+        {
+          "title": "Modulus of families of walks on graphs",
+          "url": "https://doi.org/10.1090/conm/699/14080"
+        },
+        {
+          "title": "Characterizations of countably $n$-rectifiable radon measures by higher-dimensional Menger curvatures",
+          "url": "https://doi.org/10.14321/realanalexch.46.1.0001"
+        },
+        {
+          "title": "Numerical investigation of metrics for epidemic processes on graphs",
+          "url": "https://doi.org/10.1109/acssc.2015.7421356"
+        },
+        {
+          "title": "Two phase free boundary problem for Poisson kernels",
+          "url": "https://doi.org/10.1512/iumj.2022.71.8771"
+        },
+        {
+          "title": "Menger curvatures and $$\\varvec{C^{1,\\alpha }}$$ rectifiability of measures",
+          "url": "https://doi.org/10.1007/s00013-019-01414-6"
+        }
+      ],
+      "alternatives": [
+        "https://openalex.org/authors/A5008672690"
+      ],
+      "otherIndexEvidence": [
+        {
+          "authorId": "A5008672690",
+          "candidate_url": "https://openalex.org/authors/A5008672690",
+          "authorApiUrl": "https://api.openalex.org/authors/A5008672690",
+          "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5008672690&corpus=all&include_parts=true&include_pulled=true&per_page=200&select=id,doi,display_name,publication_year,type,cited_by_count,primary_location,is_xpac",
+          "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5008672690,type:article&corpus=core&per_page=1&select=id",
+          "worksCount": 14,
+          "indexedWorksCount": 14,
+          "articles": 9,
+          "citations": 1,
+          "countScopeSource": "https://help.openalex.org/how-to/counting/",
+          "sample": [
+            {
+              "title": "L'Arte di Giovanni Battista Piazzetta",
+              "url": "https://doi.org/10.2307/1480785"
+            },
+            {
+              "title": "Barocktheater und barocke Kunst",
+              "url": "https://doi.org/10.2307/1481187"
+            },
+            {
+              "title": "Giovanni Battista Tiepolo. Die Kunst Italiens, Band II",
+              "url": "https://doi.org/10.2307/1481180"
+            },
+            {
+              "title": "Die Kunst des Rokoko. Propylaen Kunstgeschichte XIII",
+              "url": "https://doi.org/10.2307/1481097"
+            },
+            {
+              "title": "Cosmas Damian Asam. Band IV",
+              "url": "https://doi.org/10.2307/1481212"
+            }
+          ]
+        }
+      ]
+    },
+    "vahid-shahverdi": {
+      "name": "Vahid Shahverdi",
+      "checkedAt": "2026-11-26",
+      "status": "accepted",
+      "note": "SIAM DOIs 10.1137/23M1565504、10.1137/24M166053X 与 KTH 学位库授权 ORCID、个人及 DIAMANT TU/e 名录相符。",
+      "authorId": "A5028857219",
+      "candidate_url": "https://openalex.org/authors/A5028857219",
+      "authorApiUrl": "https://api.openalex.org/authors/A5028857219",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5028857219&corpus=all&include_parts=true&include_pulled=true&per_page=200&select=id,doi,display_name,publication_year,type,cited_by_count,primary_location,is_xpac",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5028857219,type:article&corpus=core&per_page=1&select=id",
+      "worksCount": 13,
+      "indexedWorksCount": 13,
+      "articles": 3,
+      "citations": 135,
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "sample": [
+        {
+          "title": "Algebra Unveils Deep Learning -- An Invitation to Neuroalgebraic Geometry",
+          "url": "https://doi.org/10.48550/arxiv.2501.18915"
+        },
+        {
+          "title": "Function Space and Critical Points of Linear Convolutional Networks",
+          "url": "https://doi.org/10.1137/23m1565504"
+        },
+        {
+          "title": "Learning on a Razor's Edge: Identifiability and Singularity of Polynomial Neural Networks",
+          "url": "https://doi.org/10.48550/arxiv.2505.11846"
+        },
+        {
+          "title": "On the Geometry and Optimization of Polynomial Convolutional Networks",
+          "url": "https://doi.org/10.48550/arxiv.2410.00722"
+        },
+        {
+          "title": "Algebraic complexity and neurovariety of linear convolutional networks",
+          "url": "https://doi.org/10.1007/s44426-025-00002-2"
+        }
+      ]
+    },
+    "jan-cees-van-der-meer": {
+      "name": "Jan-Cees van der Meer",
+      "checkedAt": "2026-11-26",
+      "status": "held",
+      "note": "学校 ORCID 与几何作者相符，但该档高引 CMOS 传感器论文 10.1109/ISSCC.2005.1493961 属 TU Delft 的 Jeroen C. van der Meer。校方公开期刊栏 18 条回退；累计引文待可靠作者档。",
+      "authorId": "A5006874877",
+      "candidate_url": "https://openalex.org/authors/A5006874877",
+      "authorApiUrl": "https://api.openalex.org/authors/A5006874877",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5006874877&corpus=all&include_parts=true&include_pulled=true&per_page=200&select=id,doi,display_name,publication_year,type,cited_by_count,primary_location,is_xpac",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5006874877,type:article&corpus=core&per_page=1&select=id",
+      "worksCount": 43,
+      "indexedWorksCount": 43,
+      "articles": 25,
+      "citations": 961,
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "sample": [
+        {
+          "title": "The Hamiltonian Hopf Bifurcation",
+          "url": "https://doi.org/10.1007/bfb0080357"
+        },
+        {
+          "title": "Autocatalytic Equation Describing the Change in Molecular Weight during Hydrolytic Degradation of Aliphatic Polyesters",
+          "url": "https://doi.org/10.1021/bm100125b"
+        },
+        {
+          "title": "Improved Mathematical Model for the Hydrolytic Degradation of Aliphatic Polyesters",
+          "url": "https://doi.org/10.1021/ma802222m"
+        },
+        {
+          "title": "A fully integrated CMOS hall sensor with a 3.65μT 3σ offset for compass applications",
+          "url": "https://doi.org/10.1109/isscc.2005.1493961"
+        },
+        {
+          "title": "The Hamiltonian Hopf bifurcation",
+          "url": "https://doi.org/10.1007/bfb0080362"
+        }
+      ]
+    },
+    "ruud-pellikaan": {
+      "name": "Ruud Pellikaan",
+      "checkedAt": "2026-11-26",
+      "status": "held",
+      "note": "几何曲线与奇点 DOI 校清本人。但按姓名存在其他记录 A5138338434 与 A5164093837，仍须逐 DOI 查清是否是同作者拆分。校方正式任期、本人站与机构成果另记。",
+      "authorId": "A5073459171",
+      "candidate_url": "https://openalex.org/authors/A5073459171",
+      "authorApiUrl": "https://api.openalex.org/authors/A5073459171",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5073459171&corpus=all&include_parts=true&include_pulled=true&per_page=200&select=id,doi,display_name,publication_year,type,cited_by_count,primary_location,is_xpac",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5073459171,type:article&corpus=core&per_page=1&select=id",
+      "worksCount": 132,
+      "indexedWorksCount": 132,
+      "articles": 45,
+      "citations": 2690,
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "sample": [
+        {
+          "title": "Linear Codes Over $\\mathbb F_q$ Are Equivalent to LCD Codes for $q>3$",
+          "url": "https://doi.org/10.1109/tit.2018.2789347"
+        },
+        {
+          "title": "Generalized Hamming weights of q-ary Reed-Muller codes",
+          "url": "https://doi.org/10.1109/18.651015"
+        },
+        {
+          "title": "The minimum distance of codes in an array coming from telescopic semigroups",
+          "url": "https://doi.org/10.1109/18.476245"
+        },
+        {
+          "title": "On decoding by error location and dependent sets of error positions",
+          "url": "https://doi.org/10.1016/0012-365x(92)90567-y"
+        },
+        {
+          "title": "Fitting ideals and multiple points of analytic mappings",
+          "url": "https://doi.org/10.1007/bfb0090254"
+        }
+      ]
+    },
+    "annika-bach": {
+      "name": "Annika Bach",
+      "status": "held",
+      "checkedAt": "2026-11-26",
+      "note": "按两篇具名正式论文查 OpenAlex，几何变分作者的署名行没有分配作者 ID。姓名搜索前三档分别为代谢神经科学、外科及传播学。保留机构旧版 12 条期刊论文披露，累计引用未见可用作者档。",
+      "authorSource": "https://research.tue.nl/p/en/persons/annika-bach",
+      "representativeDOI": "https://doi.org/10.3934/mine.2025026",
+      "alternatives": [
+        "https://openalex.org/authors/A5007486254",
+        "https://openalex.org/authors/A5108279247",
+        "https://openalex.org/authors/A5112204705"
       ]
     }
   }
