@@ -1252,6 +1252,16 @@
       "note": "公开分区列秘书及五位研究人员；Former Members 与校内跨组或外部任职独立判断。"
     },
     {
+      "id": "bielefeld-lauBibliography-b79",
+      "school": "bielefeld",
+      "url": "https://www.math.uni-bielefeld.de/~lau/publ.html",
+      "label": "Eike Lau · full self-listed bibliography",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-27",
+      "note": "完整页面共 18 个条目，15 篇列期刊卷页、2 篇当时仅列 arXiv（各从 Crossref 确认 2023、2026 期刊版本）、1 本 2004 博士专著。期刊范围内共 17 篇。OpenAlex 共 22 条，缺 Cais 合著期刊作品并有占位和可能的双重收录。Scholar 作者检索重定向登录。"
+    },
+    {
       "id": "bielefeld-math-admin-b55",
       "school": "bielefeld",
       "url": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/mtv/",
@@ -1340,6 +1350,16 @@
       "count": 13,
       "checked_at": "2026-11-27",
       "note": "逐一读当前 13 名具名人员。按个人公开 CV、2026 学术署名和课程核对组页的职级及时间冲突。Storn 现单位 Leipzig，Nowak 的 Kaßmann 旧组记录对应 BI.discrete 现任；博士生按独立分栏。"
+    },
+    {
+      "id": "bielefeld-openAlexScan-b79",
+      "school": "bielefeld",
+      "url": "https://api.openalex.org/institutions?search=Bielefeld%20University&per-page=5&select=id,display_name,ror,type",
+      "label": "Bielefeld · exact-name author affiliation and topic screening",
+      "status": "reference",
+      "count": 37,
+      "checked_at": "2026-11-27",
+      "note": "前批的全部 135 个待核姓名逐一查询 OpenAlex。以 Bielefeld University I20121455 按历史机构相关查到 45 个作者候选，并逐查其 2022 年以来最新作品及具体论文的署名。该机构 ID 不包含 Hochschule Bielefeld。作者端同名及早年任用不能替代现任证据。转录下方已经有具名结论的条目。"
     },
     {
       "id": "bielefeld-paderPartners-b77",

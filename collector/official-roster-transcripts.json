@@ -188330,5 +188330,285 @@
     "checkedAt": "2026-11-27",
     "scope": "页面本身可读，实际花名册由页面链接的 eKVV 公开脚本载入。该脚本直连返回 403。本次以可直读研究团队和可核日期的博士项目名单补证，保留未公开部分。",
     "entries": []
+  },
+  "bielefeld-openAlexScan-b79": {
+    "url": "https://api.openalex.org/institutions?search=Bielefeld%20University&per-page=5&select=id,display_name,ror,type",
+    "checkedAt": "2026-11-27",
+    "scope": "前批的全部 135 个待核姓名逐一查询 OpenAlex。以 Bielefeld University I20121455 按历史机构相关查到 45 个作者候选，并逐查其 2022 年以来最新作品及具体论文的署名。该机构 ID 不包含 Hochschule Bielefeld。作者端同名及早年任用不能替代现任证据。转录下方已经有具名结论的条目。",
+    "entries": [
+      {
+        "name": "Fatma Akkaya-Willis",
+        "title": "Group Secretary",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/physik/forschung/mathphys/",
+        "homepage": "",
+        "research": "Mathematical physics group administration"
+      },
+      {
+        "name": "Can Atacan",
+        "title": "Mathematical Physics Group Member · exact rank not stated",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/physik/forschung/mathphys/",
+        "homepage": "",
+        "research": "Random matrix theory, products of induced symplectic Ginibre matrices"
+      },
+      {
+        "name": "Georg Angermann",
+        "title": "Mathematical Physics Group Member · exact rank not stated",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/physik/forschung/mathphys/",
+        "homepage": "",
+        "research": "Non-Hermitian random matrices, Pfaffian identities"
+      },
+      {
+        "name": "Noah Aygün",
+        "title": "Mathematical Physics Group Member · CRC C6 investigator",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/physik/forschung/mathphys/",
+        "homepage": "",
+        "research": "Non-Hermitian random matrix ensembles, complex spectral spacing distributions"
+      },
+      {
+        "name": "Patricia Päßler",
+        "title": "Mathematical Physics Group Member · exact rank not stated",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/physik/forschung/mathphys/",
+        "homepage": "",
+        "research": "Non-Hermitian random matrices and beta ensembles"
+      },
+      {
+        "name": "Tobias Winkler",
+        "title": "Mathematical Physics Group Member · exact rank not stated",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/physik/forschung/mathphys/",
+        "homepage": "",
+        "research": "Non-Hermitian random matrices and spectral edge statistics"
+      },
+      {
+        "name": "Andrew Hubery",
+        "title": "Wissenschaftlicher Assistent, BIREP",
+        "profile": "https://www.math.uni-bielefeld.de/birep/contact.php",
+        "homepage": "",
+        "research": "Representation theory of finite-dimensional algebras, hereditary algebras and preprojective algebras"
+      },
+      {
+        "name": "Maximilian Kaipel",
+        "title": "BIREP Postdoctoral Researcher",
+        "profile": "https://www.math.uni-bielefeld.de/birep/contact.php",
+        "homepage": "",
+        "research": "Representation theory of finite-dimensional algebras, tau-tilting and morphism categories"
+      },
+      {
+        "name": "Juan Omar Gomez Rodriguez",
+        "title": "BIREP Postdoctoral Researcher",
+        "profile": "https://www.math.uni-bielefeld.de/birep/contact.php",
+        "homepage": "",
+        "research": "Homotopy theory, tensor triangular geometry and stable module categories"
+      },
+      {
+        "name": "Wassilij Gnedin",
+        "title": "BIREP Research Assistant",
+        "profile": "https://www.math.uni-bielefeld.de/birep/contact.php",
+        "homepage": "",
+        "research": "Representation theory of algebras, derived invariants, silting and gentle orders"
+      },
+      {
+        "name": "Sebastian Eckert",
+        "title": "BIREP Research Assistant",
+        "profile": "https://www.math.uni-bielefeld.de/birep/contact.php",
+        "homepage": "",
+        "research": "Representation theory, amenability of path algebras and clannish algebras"
+      },
+      {
+        "name": "Elisa Hartmann",
+        "title": "Working Group Bux · Researcher",
+        "profile": "https://www.math.uni-bielefeld.de/groupsgeometry/index.php",
+        "homepage": "",
+        "research": "Coarse geometry, geometric group theory and topological invariants of locally compact groups"
+      },
+      {
+        "name": "Marc Rouveyrol",
+        "title": "Former Bielefeld Postdoctoral Researcher (2025–26)",
+        "profile": "https://sites.google.com/view/marc-rouveyrol/",
+        "homepage": "",
+        "research": "Geometric analysis, spectral estimates on hyperbolic surfaces, Riemannian manifolds and control of PDE"
+      },
+      {
+        "name": "Philipp Sürig",
+        "title": "Academic Staff Directory Entry · appointment grade unverified",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/",
+        "homepage": "",
+        "research": "Differential geometry and geometric analysis, nonlinear parabolic equations, Riemannian manifolds, heat kernels"
+      },
+      {
+        "name": "Marco Rehmeier",
+        "title": "W3 Substitute Professor (since October 2026)",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/profs-1/",
+        "homepage": "",
+        "research": "Stochastic analysis, nonlinear Markov processes, Fokker–Planck equations and Brownian motion"
+      },
+      {
+        "name": "Nikita Elizarov",
+        "title": "Doctoral Researcher · CRC B10",
+        "profile": "https://www.sfb1283.uni-bielefeld.de/Hostings/member",
+        "homepage": "",
+        "research": "Probability, branching processes in random environments, random walks in cones"
+      },
+      {
+        "name": "Lakshmi Ramesh",
+        "title": "Doctoral Researcher, Martin Wahl group",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/",
+        "homepage": "",
+        "research": "Algebraic geometry and commutative algebra in algebraic statistics, invariant theory and semialgebraic geometry"
+      },
+      {
+        "name": "Florian Grube",
+        "title": "Postdoctoral Researcher, DFG–AEI nonlocality project",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/kassmann/mitarbeiter/",
+        "homepage": "",
+        "research": "Nonlocal partial differential equations, regularity theory and stable operators"
+      },
+      {
+        "name": "Harsh Prasad",
+        "title": "Postdoctoral Researcher, Kaßmann group",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/kassmann/mitarbeiter/",
+        "homepage": "",
+        "research": "Regularity theory, nonlocal elliptic and parabolic equations"
+      },
+      {
+        "name": "Luke Schleef",
+        "title": "Doctoral Researcher (since July 2025)",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/kassmann/mitarbeiter/",
+        "homepage": "",
+        "research": "Nonlocal partial differential equations and regularity"
+      },
+      {
+        "name": "Chrizaldy Neil Manibo",
+        "title": "Privatdozent and Postdoctoral Research Associate",
+        "profile": "https://www.sfb1283.uni-bielefeld.de/Hostings/member",
+        "homepage": "",
+        "research": "Aperiodic order, spectral theory, mathematical physics and dynamical systems"
+      },
+      {
+        "name": "Franz Gähler",
+        "title": "Research Centre Member · exact appointment grade not stated",
+        "profile": "https://www.uni-bielefeld.de/zwe/fspm/mitglieder/",
+        "homepage": "",
+        "research": "Aperiodic order, substitution tilings, tiling spaces and topological dynamics"
+      },
+      {
+        "name": "Michael Hinz",
+        "title": "Mathematics Academic Staff · exact grade not confirmed",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/",
+        "homepage": "",
+        "research": "Analysis on fractals, Dirichlet forms, irregular sets and nonlocal boundary problems"
+      },
+      {
+        "name": "Phillip Harris",
+        "title": "Postdoctoral Researcher at University of Bonn · TRR partner",
+        "profile": "https://people.math.uni-bonn.de/members?language=en",
+        "homepage": "",
+        "research": "Analytic number theory, automorphic forms and periods of Maass forms"
+      },
+      {
+        "name": "Noam von Rotberg",
+        "title": "Doctoral Researcher, AG Voll (since 2023)",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/voll/people/",
+        "homepage": "",
+        "research": "Asymptotic algebra, enumerating representations, affine buildings and group theory"
+      },
+      {
+        "name": "Solveig Hepp",
+        "title": "Former Bielefeld Doctoral Researcher (degree 2026)",
+        "profile": "https://irtg.math.uni-bielefeld.de/alumni",
+        "homepage": "",
+        "research": "Quadratic forms with singular measures and nonlocal counterparts of the divergence theorem"
+      },
+      {
+        "name": "Sebastian Grube",
+        "title": "Postdoctoral Researcher, CRC 1283",
+        "profile": "https://www.sfb1283.uni-bielefeld.de/Hostings/member",
+        "homepage": "",
+        "research": "Stochastic analysis, degenerate stochastic PDE and McKean–Vlasov dynamics"
+      },
+      {
+        "name": "Martina Conte",
+        "title": "AG Voll Postdoctoral Member · affiliation change under review",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/voll/people/",
+        "homepage": "",
+        "research": "Profinite group theory, word maps and first-order logic"
+      },
+      {
+        "name": "Donatus Coerdt",
+        "title": "Former seconded primary teacher · 2026 mathematics education contributor",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/",
+        "homepage": "",
+        "research": "Mathematics education and early visual-spatial skills"
+      },
+      {
+        "name": "Jan-Henrik Steg",
+        "title": "Academic Staff Directory Entry · exact rank not stated",
+        "profile": "https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=182054",
+        "homepage": "",
+        "research": "Game theory and economics, cheap talk and strategic investment"
+      },
+      {
+        "name": "Lasse Mononen",
+        "title": "Academic Staff Directory Entry · exact rank not stated",
+        "profile": "https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=427383677",
+        "homepage": "",
+        "research": "Economic decision theory, risk and subjective utility"
+      },
+      {
+        "name": "Julius Frank",
+        "title": "Academic Staff Directory Entry · exact rank not stated",
+        "profile": "https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=461768902",
+        "homepage": "",
+        "research": "Cyclic homology and differential graded algebras"
+      },
+      {
+        "name": "Reza Salarian",
+        "title": "Academic Staff Directory Entry · exact rank not stated",
+        "profile": "https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=597800356",
+        "homepage": "",
+        "research": "Algebraic graph theory, Cayley graphs and graph automorphism groups"
+      },
+      {
+        "name": "Petr Zamolodtchikov",
+        "title": "Academic Staff Directory Entry · exact rank not stated",
+        "profile": "https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=489660653",
+        "homepage": "",
+        "research": "Nonparametric regression, transfer learning and generative modelling"
+      },
+      {
+        "name": "Tsiry Avisoa Randrianasolo",
+        "title": "Academic Staff Directory Entry · exact rank not stated",
+        "profile": "https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=114004016",
+        "homepage": "",
+        "research": "Numerical analysis of reaction–diffusion equations and stochastic PDE"
+      },
+      {
+        "name": "Victor Saunier",
+        "title": "Academic Staff Directory Entry · exact rank not stated",
+        "profile": "https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=597766309",
+        "homepage": "",
+        "research": "Stable infinity-categories and algebraic K-theory"
+      },
+      {
+        "name": "Emanuela Gussetti",
+        "title": "Postdoctoral Researcher, Hofmanová group",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/hofmanova/mitarbeiter/",
+        "homepage": "",
+        "research": "Differential geometry and geometric analysis in stochastic Schrödinger maps, curvature flow and sphere-valued equations"
+      }
+    ]
+  },
+  "bielefeld-lauBibliography-b79": {
+    "url": "https://www.math.uni-bielefeld.de/~lau/publ.html",
+    "checkedAt": "2026-11-27",
+    "scope": "完整页面共 18 个条目，15 篇列期刊卷页、2 篇当时仅列 arXiv（各从 Crossref 确认 2023、2026 期刊版本）、1 本 2004 博士专著。期刊范围内共 17 篇。OpenAlex 共 22 条，缺 Cais 合著期刊作品并有占位和可能的双重收录。Scholar 作者检索重定向登录。",
+    "entries": [
+      {
+        "name": "Eike Lau",
+        "title": "Professor · 17 journal articles in self-listed scope",
+        "profile": "https://www.math.uni-bielefeld.de/~lau/publ.html",
+        "homepage": "",
+        "research": "Arithmetic algebraic geometry"
+      }
+    ]
   }
 }

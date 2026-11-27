@@ -7078,9 +7078,9 @@
     },
     "eike-lau": {
       "name": "Eike Lau",
-      "checkedAt": "2026-11-26",
+      "checkedAt": "2026-11-27",
       "status": "held",
-      "note": "现任教授名册与学校 2018 年任命公告，Deligne–Mumford 栈和 Dieudonné displays 论文共同核对。 数论几何及 displays 论文已确认。较早的分形和复动力系统条目需要核完独立署名及其本人履历再接受累计指标。 作者端 22，默认作品端 19，作品全语料含附材及撤回项查询 22。核心语料 article 16，全语料 article 16。",
+      "note": "2026-11-27 重查 OpenAlex 作者 A5084965715 与 22 条全语料记录。缺本人书目独立已刊作品 10.1112/plms.12021 和 Klein surfaces 论文。Mandelbrot 无 DOI 项另有同题预印本；“Algebra & Number Theory” 占位被归 article。早期分形署名和统一作者口径仍未全部厘清。Google Scholar 精确姓名查询实际跳到登录，未获得公开累计引文。已另用本人书目及 Crossref 已刊版得到范围内 17 篇期刊作品，不将其作全生涯数量。",
       "authorId": "A5084965715",
       "candidate_url": "https://openalex.org/authors/A5084965715",
       "authorApiUrl": "https://api.openalex.org/authors/A5084965715",
@@ -7094,7 +7094,7 @@
       "coreWorksCount": 19,
       "articles": 16,
       "allCorpusArticles": 16,
-      "citations": 439,
+      "citations": 440,
       "alternatives": [],
       "sample": [
         {
@@ -7116,6 +7116,14 @@
         {
           "title": "Dieudonné theory over semiperfect rings and perfectoid rings",
           "url": "https://doi.org/10.1112/s0010437x18007352"
+        },
+        {
+          "title": "Dieudonné crystals and Wach modules for p-divisible groups",
+          "url": "https://doi.org/10.1112/plms.12021"
+        },
+        {
+          "title": "Divided Dieudonné crystals",
+          "url": "https://doi.org/10.1515/crelle-2026-0072"
         }
       ]
     },
@@ -11247,6 +11255,49 @@
         "https://doi.org/10.1038/s41598-024-77282-0"
       ],
       "note": "OpenAlex A5060014300 的 6 篇逐条与 NUST、GCU Lahore 及 Qalam 核对。Qalam 另含 2025 DOI 10.1016/j.aej.2025.02.053，出版机构和 OpenAlex 将名字作 Sirda Shafiq 并缺作者 ID。A5090587066 是植物学，A5003507890 是计算机作者，A5073131857 是医学同名。Scholar 导向登录。Qalam 7 个 DOI 期刊档可核；跨档案累计引用未确认。"
+    },
+    "emanuela-gussetti": {
+      "name": "Emanuela Gussetti",
+      "checkedAt": "2026-11-27",
+      "status": "accepted",
+      "note": "本人公开 ORCID 的 Bielefeld 博士后任职与期刊通讯作者 ORCID 完全一致，现任数学组和 CRC 具名。完整核读此 OpenAlex 档 5 条期刊 article 及 1 条博士论文，按数据库原范围记录。博士后单列。",
+      "authorId": "A5079365820",
+      "candidate_url": "https://openalex.org/authors/A5079365820",
+      "authorApiUrl": "https://api.openalex.org/authors/A5079365820",
+      "worksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5079365820&corpus=all&include_parts=true&include_pulled=true&per-page=50&select=id,display_name,doi,type",
+      "coreWorksApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5079365820&corpus=core&per-page=50&select=id,display_name,doi,type",
+      "articleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5079365820,type:article&corpus=core&per-page=50&select=id,display_name,doi,type",
+      "allArticleApiUrl": "https://api.openalex.org/works?filter=authorships.author.id:A5079365820,type:article&corpus=all&per-page=50&select=id,display_name,doi,type",
+      "countScopeSource": "https://help.openalex.org/how-to/counting/",
+      "worksCount": 6,
+      "indexedWorksCount": 6,
+      "coreWorksCount": 5,
+      "articles": 5,
+      "allCorpusArticles": 5,
+      "citations": 36,
+      "alternatives": [],
+      "sample": [
+        {
+          "title": "A pathwise stochastic Landau-Lifshitz-Gilbert equation with application to large deviations",
+          "url": "https://doi.org/10.1016/j.jfa.2023.110094"
+        },
+        {
+          "title": "Pathwise central limit theorem and moderate deviations via rough paths for SPDEs with multiplicative noise",
+          "url": "https://doi.org/10.1214/25-ejp1343"
+        },
+        {
+          "title": "On ergodic invariant measures for the stochastic Landau-Lifschitz-Gilbert equation in 1D",
+          "url": "https://doi.org/10.1007/s40072-025-00388-7"
+        },
+        {
+          "title": "Statistical solutions to the Schrödinger map equation in 1D, via the randomly forced Landau-Lifschitz-Gilbert equation",
+          "url": "https://doi.org/10.1080/03605302.2025.2584807"
+        },
+        {
+          "title": "On Properties of Statistically Stationary Solutions to the One-Dimensional Schrödinger Map Equation.",
+          "url": "https://doi.org/10.1007/s10884-026-10526-x"
+        }
+      ]
     }
   }
 }

@@ -2327,5 +2327,7 @@
   {"id":"bielefeld-irtgArchive-b78","school":"bielefeld","name":"Bielefeld IRTG 2235 · four funding cohorts and thesis defence list","url":"https://irtg.math.uni-bielefeld.de/people/phd_students_in_bielefeld","kind":"campus","parser":"pending"},
   {"id":"bielefeld-bgts-doctoral-b78","school":"bielefeld","name":"Bielefeld BGTS · Doctoral Students","url":"https://www.uni-bielefeld.de/einrichtungen/bgts/bgts-community/members/doctoral-students/","kind":"campus","parser":"pending"},
   {"id":"bielefeld-bgts-scientific-b78","school":"bielefeld","name":"Bielefeld BGTS · Scientific Members","url":"https://www.uni-bielefeld.de/einrichtungen/bgts/bgts-community/members/scientific-members/","kind":"campus","parser":"pending"},
-  {"id":"bielefeld-bgts-professors-b78","school":"bielefeld","name":"Bielefeld BGTS · Professors","url":"https://www.uni-bielefeld.de/einrichtungen/bgts/bgts-community/members/professors/","kind":"campus","parser":"pending"}
+  {"id":"bielefeld-bgts-professors-b78","school":"bielefeld","name":"Bielefeld BGTS · Professors","url":"https://www.uni-bielefeld.de/einrichtungen/bgts/bgts-community/members/professors/","kind":"campus","parser":"pending"},
+  {"id":"bielefeld-openAlexScan-b79","school":"bielefeld","name":"Bielefeld · exact-name author affiliation and topic screening","url":"https://api.openalex.org/institutions?search=Bielefeld%20University&per-page=5&select=id,display_name,ror,type","kind":"campus","parser":"pending"},
+  {"id":"bielefeld-lauBibliography-b79","school":"bielefeld","name":"Eike Lau · full self-listed bibliography","url":"https://www.math.uni-bielefeld.de/~lau/publ.html","kind":"campus","parser":"pending"}
 ]

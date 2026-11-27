@@ -4031,7 +4031,7 @@
     {
       "id": "bielefeld",
       "coverage": "sample",
-      "coverageNote": "已解析 12/41 个登记来源，135 条任职或方向待核。 已收录 10 位学者，个人主页 10、CV 2、指标 9。 数学官方名册公开脚本提取全员 251、学术人员 238、教授栏具名 35、原教授／荣休 15、行政 13。读系内七个研究分栏、代数与算术几何组、几何群组、BIREP、联合 TRR 358 项目和物理三组。本人具名来源核明 Crawley-Boevey 退休、Floccari 转入柏林洪堡、Stadler 与 Letz 当前属 Paderborn。eKVV 直取返回 403，校级机构成果库返回 Anubis 挑战或拒绝。综合学术人员名册缺区分博士生、短期与持续聘任的逐人资料。CRC 跨校人员和技术学院组尚待逐任职来源归属，当前保留工作名单。 复读当前院系全员 251、学术分栏 238、教授分栏 35 和 TRR 358 当期 112 张具名档。TRR 角色分为 27 PI、2 Mercator Fellow 与 83 Investigator。Paderborn 具名任职 35 位在其当期数学系分栏交叉核实，另核 Milan、EPFL、Antwerp、Bonn 及其他跨校资料。BIREP 现行任课和课题组资料补核若干校内身份及姓名异写。联合访问日期单列。其余学术人员继续按研究组、任课及个档逐人核对。 继续核读 IDM 数学教育七个课题组入口，另读 Alfes、Erbar、Herr、Kaßmann 和 BI.discrete。本批 52 位 CRC 1283 项目成员、24 位 RCM² 成员与 6 位顾问按各自口径记录，另转录 IRTG 2235 受资助四届博士与答辩历史。查明 Sonnleitner 跨校博士后、Zihui He 与 Spitz 的现任博士后、Li 博士生及 Abedi、Jalowy、Meglioli、Storn 的机构变动。BGTS 的三类公共目录载入脚本和抽查 eKVV 个档返回 403，继续用院系具名档与日期明确的公开成果逐名补证。",
+      "coverageNote": "已解析 12/43 个登记来源，97 条任职或方向待核。 已收录 10 位学者，个人主页 10、CV 2、指标 9。 数学官方名册公开脚本提取全员 251、学术人员 238、教授栏具名 35、原教授／荣休 15、行政 13。读系内七个研究分栏、代数与算术几何组、几何群组、BIREP、联合 TRR 358 项目和物理三组。本人具名来源核明 Crawley-Boevey 退休、Floccari 转入柏林洪堡、Stadler 与 Letz 当前属 Paderborn。eKVV 直取返回 403，校级机构成果库返回 Anubis 挑战或拒绝。综合学术人员名册缺区分博士生、短期与持续聘任的逐人资料。CRC 跨校人员和技术学院组尚待逐任职来源归属，当前保留工作名单。 复读当前院系全员 251、学术分栏 238、教授分栏 35 和 TRR 358 当期 112 张具名档。TRR 角色分为 27 PI、2 Mercator Fellow 与 83 Investigator。Paderborn 具名任职 35 位在其当期数学系分栏交叉核实，另核 Milan、EPFL、Antwerp、Bonn 及其他跨校资料。BIREP 现行任课和课题组资料补核若干校内身份及姓名异写。联合访问日期单列。其余学术人员继续按研究组、任课及个档逐人核对。 继续核读 IDM 数学教育七个课题组入口，另读 Alfes、Erbar、Herr、Kaßmann 和 BI.discrete。本批 52 位 CRC 1283 项目成员、24 位 RCM² 成员与 6 位顾问按各自口径记录，另转录 IRTG 2235 受资助四届博士与答辩历史。查明 Sonnleitner 跨校博士后、Zihui He 与 Spitz 的现任博士后、Li 博士生及 Abedi、Jalowy、Meglioli、Storn 的机构变动。BGTS 的三类公共目录载入脚本和抽查 eKVV 个档返回 403，继续用院系具名档与日期明确的公开成果逐名补证。 本轮逐名查上轮 135 个待核姓名的 OpenAlex 作者入口。45 个带 Bielefeld University 历史机构的候选再看近期作品和具名任职。已分清独立数学物理组成员、博士及合作单位，并记录同名混合。Eike Lau 的全部本人清单核得 17 篇期刊论文，累计引文仍有索引覆盖和身份冲突。",
       "rosterLinks": [
         [
           "CRC 1283 A8 · probability-space geometry and variational structures",
@@ -4110,6 +4110,10 @@
           "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/kassmann/mitarbeiter/"
         ],
         [
+          "Eike Lau · full self-listed bibliography",
+          "https://www.math.uni-bielefeld.de/~lau/publ.html"
+        ],
+        [
           "Faculty of Mathematics · 技术及行政类别",
           "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/mtv/"
         ],
@@ -4144,6 +4148,10 @@
         [
           "Bielefeld BI.discrete · professor, researcher, doctoral and former groups",
           "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/numerik/members/"
+        ],
+        [
+          "Bielefeld · exact-name author affiliation and topic screening",
+          "https://api.openalex.org/institutions?search=Bielefeld%20University&per-page=5&select=id,display_name,ror,type"
         ],
         [
           "Paderborn Mathematics · 35 named TRR 358 cross-appointments",
@@ -14855,7 +14863,7 @@
           "title": "Professor of Mathematics (Algebra and Number Theory)",
           "url": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/profs-1/",
           "type": "primary",
-          "checkedAt": "2026-11-26"
+          "checkedAt": "2026-11-27"
         }
       ],
       "fields": [
@@ -14866,9 +14874,16 @@
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "核对本人主页 https://www.math.uni-bielefeld.de/~lau/、校方任命公告及 TRR 具名页、机构索引及姓名配合 CV／Lebenslauf 搜索。公开材料可核研究与任职；未找到独立公开 CV。",
+      "cvStatus": "核对本人主页 https://www.math.uni-bielefeld.de/~lau/、校方任命公告及 TRR 具名页、机构索引及姓名配合 CV／Lebenslauf 搜索。公开材料可核研究与任职；未找到独立公开 CV。 2026-11-27 重读校域首页和发表目录，并查精确姓名与履历关键词，只找到可核的任命与作品资料。",
       "publicationsUrl": "https://www.math.uni-bielefeld.de/~lau/publ.html",
-      "publicationCounts": [],
+      "publicationCounts": [
+        {
+          "value": 17,
+          "scope": "本人校域发表清单逐项核对的 2007–2026 期刊论文。原页 18 个独立条目，15 篇页载期刊项加两篇已出版预印本，排除 2004 年博士专著。已有单列预印本链接与正式版合并。范围仅为本人此公开清单。",
+          "url": "https://www.math.uni-bielefeld.de/~lau/publ.html",
+          "checkedAt": "2026-11-27"
+        }
+      ],
       "opportunities": [],
       "identityNote": "现任教授名册与学校 2018 年任命公告，Deligne–Mumford 栈和 Dieudonné displays 论文共同核对。 数论几何及 displays 论文已确认。较早的分形和复动力系统条目需要核完独立署名及其本人履历再接受累计指标。 作者端 22，默认作品端 19，作品全语料含附材及撤回项查询 22。核心语料 article 16，全语料 article 16。",
       "metrics": [],
@@ -14879,6 +14894,18 @@
           "year": 2023,
           "url": "https://doi.org/10.1112/s0010437x23007200",
           "type": "期刊论文"
+        },
+        {
+          "title": "Divided Dieudonné crystals",
+          "year": 2026,
+          "url": "https://doi.org/10.1515/crelle-2026-0072",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Dieudonné crystals and Wach modules for p-divisible groups",
+          "year": 2017,
+          "url": "https://doi.org/10.1112/plms.12021",
+          "type": "期刊论文"
         }
       ],
       "directoryEvidence": [
@@ -14887,7 +14914,7 @@
           "url": "https://www.math.uni-bielefeld.de/~lau/"
         }
       ],
-      "checkedAt": "2026-11-26",
+      "checkedAt": "2026-11-27",
       "recordStatus": "directory"
     },
     {
