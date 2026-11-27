@@ -3132,6 +3132,26 @@
       "note": "荷文网站可索引的 5 人。直连人员旧页返回 403，逐人用现行科研门户和校方研究者页面核实名字及职级。"
     },
     {
+      "id": "eindhoven-aidaofficial-b59",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/p/en/persons/aida-abiad-monge",
+      "label": "TU/e · Aida Abiad Monge current appointment",
+      "status": "parsed",
+      "count": 1,
+      "checked_at": "2026-11-27",
+      "note": "校方当前常任副教授并领衔代数组合组，2026 年赴 Berkeley 访问。"
+    },
+    {
+      "id": "eindhoven-aidateam-b59",
+      "school": "eindhoven",
+      "url": "https://aidaabiad.win.tue.nl/team.html",
+      "label": "Algebraic Combinatorics · group leader’s roster",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "团队页面列 4 名在读博士、3 位历任博士后、2 位已毕业博士与 4 位有年份访问生。与组长当前任职档、名册范围互证。"
+    },
+    {
       "id": "eindhoven-algo-parent-b58",
       "school": "eindhoven",
       "url": "https://research.tue.nl/p/en/organisations/algorithms-3",
@@ -3160,6 +3180,26 @@
       "count": 0,
       "checked_at": "2026-11-26",
       "note": "已核 10 人旧团队名单。Olga Mula 的现任与离职年月须以维也纳大学档案及本人 CV 为准。"
+    },
+    {
+      "id": "eindhoven-aq-b59",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/p/en/organisations/algebraic-combinatorics",
+      "label": "Algebraic Combinatorics · current unit and team profile",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "校方现行组织档披露有限几何和代数组合范围，由组长当前公开团队名册核对。"
+    },
+    {
+      "id": "eindhoven-arrist-b59",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/p/en/persons/arris-s-tijsseling",
+      "label": "TU/e · Named CASA affiliations and research",
+      "status": "reference",
+      "count": 12,
+      "checked_at": "2026-11-27",
+      "note": "逐名核对 CASA 教师表当期岗位与方向。校级具名任期显示 12 位学者的职类、时间和负责分组。"
     },
     {
       "id": "eindhoven-assoc-cur-b58",
@@ -3402,6 +3442,16 @@
       "note": "校方组织页、荷语人员索引和科学计算组比对。并行求解、流体模型、数值线性代数为主体。"
     },
     {
+      "id": "eindhoven-kust-b59",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/p/en/persons/roel-hacking",
+      "label": "Computational Optics · Roel Hacking doctoral appointment",
+      "status": "parsed",
+      "count": 1,
+      "checked_at": "2026-11-27",
+      "note": "CASA 计算光学博士生身份与期刊论文作者核对。"
+    },
+    {
       "id": "eindhoven-math-hierarchy26",
       "school": "eindhoven",
       "url": "https://research.tue.nl/p/en/organisations/mathematics",
@@ -3442,6 +3492,16 @@
       "note": "校方具名个人页任期对象 VISITING_SCHOLAR，applied-analysis，13/07/2026 至 31/08/2027。页面短传可能保留旧职级。"
     },
     {
+      "id": "eindhoven-meerCV-b59",
+      "school": "eindhoven",
+      "url": "https://wsgbjvdm.win.tue.nl/homepage/cv.html",
+      "label": "Jan-Cees van der Meer · author curriculum vitae",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "本人框架导航公开的教育与职务履历正文，保留可直接打开的子页。"
+    },
+    {
       "id": "eindhoven-mia-profiles26",
       "school": "eindhoven",
       "url": "https://research.tue.nl/en/organisations/mathematical-image-analysis/persons/",
@@ -3460,6 +3520,16 @@
       "count": 0,
       "checked_at": "2026-11-27",
       "note": "核对公开领域及合作，聚焦多尺度材料与分子模拟。"
+    },
+    {
+      "id": "eindhoven-mox-b59",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/nl/publications/a-neural-network-approach-for-solving-the-mongeamp%C3%A8re-equation-wi/",
+      "label": "Computational Optics · published Monge–Ampère paper",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "机构成果库与 DOI 确认为 2025 年期刊论文，供核对计算光学成员的几何交叉研究。"
     },
     {
       "id": "eindhoven-nano-b58",
@@ -3490,6 +3560,16 @@
       "count": 0,
       "checked_at": "2026-11-27",
       "note": "组页和实验室项目明确自由曲面光学、数学分析及工程计算；查看具体负责人。"
+    },
+    {
+      "id": "eindhoven-opticsReport-b59",
+      "school": "eindhoven",
+      "url": "https://filelist.tudelft.nl/TUDelft/Research%20sites/JMBC/JM%20Burgerscentrum%20-%20Annual%20Report%202025.pdf",
+      "label": "Burgerscentrum · collaborators and cross-department annual report 2025",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "院系报告列 CASA 研究分工与合作机构。Maxim Pisarenco 具名列 ASML Research，CASA 教师图册未注明 TU/e 职称，校方具名旧标准路径 404。"
     },
     {
       "id": "eindhoven-physics-org-b58",
@@ -3572,6 +3652,16 @@
       "note": "校方具名个人页任期对象 VISITING_SCHOLAR，coding-theory-and-cryptology，01/08/2026 至 31/07/2031。页面短传可能保留旧职级。"
     },
     {
+      "id": "eindhoven-ruudpub-b59",
+      "school": "eindhoven",
+      "url": "https://ruudp.win.tue.nl/publications.html",
+      "label": "Ruud Pellikaan · author’s complete numbered bibliography",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "可直接读取本人编号 1–98 的书目，提取 38 条期刊论文并按卷期、题名与 DOI 去重。"
+    },
+    {
       "id": "eindhoven-sc-wp-b58",
       "school": "eindhoven",
       "url": "https://casa.win.tue.nl/home/scientific-computing/",
@@ -3600,6 +3690,16 @@
       "count": 0,
       "checked_at": "2026-11-27",
       "note": "现行校方科研具名卡可读，岗位由 DIAMANT 当前机构分栏与本人现职核对。"
+    },
+    {
+      "id": "eindhoven-wilbert-b59",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/p/en/persons/wilbert-l-ijzerman",
+      "label": "Computational Optics · Wilbert IJzerman current appointment",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-27",
+      "note": "现段访问任用 2025-04-01 至 2028-09-30，与个人页中旧教席标题并列。"
     },
     {
       "id": "ens-lyon-27-annuaire",
@@ -116766,6 +116866,22 @@
       }
     },
     {
+      "source": "eindhoven-aidaofficial-b59",
+      "person_key": "aidaabiadmonge",
+      "school": "eindhoven",
+      "record": {
+        "name": "Aida Abiad Monge",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/aida-abiad-monge",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://research.tue.nl/p/en/persons/aida-abiad-monge",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
       "source": "eindhoven-casa-faculty-b58",
       "person_key": "andreafuster",
       "school": "eindhoven",
@@ -117675,6 +117791,22 @@
         "source_kind": "department",
         "source_url": "https://research.tue.nl/en/organisations/geometric-learning-differential-geometry/persons/",
         "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-kust-b59",
+      "person_key": "roelhacking",
+      "school": "eindhoven",
+      "record": {
+        "name": "Roel Hacking",
+        "title": "Doctoral Candidate",
+        "research": "",
+        "profile": "https://research.tue.nl/p/en/persons/roel-hacking",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://research.tue.nl/p/en/persons/roel-hacking",
+        "checked_at": "2026-11-27"
       }
     },
     {

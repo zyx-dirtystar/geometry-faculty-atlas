@@ -860,11 +860,11 @@
     "person-86b61be54311": "RUDN 中心及 2026 刊本和 ORCID 一致。高引正规黑洞、标量场喉部条目与 INSPIRE 对照。排除 ITMO 光学同名 0000-0001-5107-0111。 OpenAlex 全语料作品 295，core article 214，累计引用 9392。",
     "person-496890de9216": "RUDN 具名副教授、Pleiades 编辑页 ORCID、学位库和 2024 独著匹配。2010–22 高引旧文的同合作者 Bronnikov 以及机构署名连续。 OpenAlex 全语料作品 50，core article 32，累计引用 1344。",
     "person-e5ac43a674f5": "RUDN 项目和论文署名、Rostest 双联属、ORCID 与圆测地线等刊本一致。外部声学同名另一档。 OpenAlex 全语料作品 244，core article 138，累计引用 2860。",
-    "jim-w-portegies": "该 ORCID 在 A5018184060 和 A5079577202 各有本人作品，校方身份、DOI 10.1002/cpa.21565 和 10.1007/s10851-022-01114-x 匹配不同作者档。Jorg M. Portegies 是不同作者。Google Scholar 姓名检索转登录，ORCID 本身零公开作品条目，保留机构论文栏 36 篇。",
+    "jim-w-portegies": "该 ORCID 在 A5018184060 和 A5079577202 各有本人作品，校方身份、DOI 10.1002/cpa.21565 和 10.1007/s10851-022-01114-x 匹配不同作者档。Jorg M. Portegies 是不同作者。Google Scholar 姓名检索转登录，ORCID 本身零公开作品条目，保留机构论文栏 36 篇。 校方 Pure 具名档的 Scopus 当期快照为 336 次，h 指数 12。保留 OpenAlex 两档拆分核查结果，校方口径单独显示。",
     "max-goering": "TU/e 认证 ORCID 与 2026 JEMS 的 ORCID、本人旧 Jyväskylä 项目、Finsler 导数及曲率 DOI 交叉核对。另一档为 1930–1941 年的同名艺术史作者。",
     "vahid-shahverdi": "SIAM DOIs 10.1137/23M1565504、10.1137/24M166053X 与 KTH 学位库授权 ORCID、个人及 DIAMANT TU/e 名录相符。",
-    "jan-cees-van-der-meer": "学校 ORCID 与几何作者相符，但该档高引 CMOS 传感器论文 10.1109/ISSCC.2005.1493961 属 TU Delft 的 Jeroen C. van der Meer。校方公开期刊栏 18 条回退；累计引文待可靠作者档。",
-    "ruud-pellikaan": "几何曲线与奇点 DOI 校清本人。但按姓名存在其他记录 A5138338434 与 A5164093837，仍须逐 DOI 查清是否是同作者拆分。校方正式任期、本人站与机构成果另记。",
+    "jan-cees-van-der-meer": "学校 ORCID 与几何作者相符，但该档高引 CMOS 传感器论文 10.1109/ISSCC.2005.1493961 属 TU Delft 的 Jeroen C. van der Meer。校方公开期刊栏 18 条回退；累计引文待可靠作者档。 新增本人主页导航里的公开 CV 与书目，保留机构 18 条期刊披露。校方 Pure 具名档的 Scopus 当期快照为 408 次，h 指数 9。",
+    "ruud-pellikaan": "几何曲线与奇点 DOI 校清本人。但按姓名存在其他记录 A5138338434 与 A5164093837，仍须逐 DOI 查清是否是同作者拆分。校方正式任期、本人站与机构成果另记。 当前另核 A5138338434 的详情报 7 项且作品接口返回两条。论文原文和机构库显示均非本人合著，至少一篇把论文集编者误写成作者。A5164093837 详情报 1 项且具体作品端无可复核明细，未与主档合并。按本人书目完整编号范围排除会议及其他体裁并去重后得 38 条期刊论文，校方 Pure 具名档的 Scopus 当期快照为 1445 次，h 指数 22。",
     "annika-bach": "按两篇具名正式论文查 OpenAlex，几何变分作者的署名行没有分配作者 ID。姓名搜索前三档分别为代谢神经科学、外科及传播学。保留机构旧版 12 条期刊论文披露，累计引用未见可用作者档。"
   },
   "evidence": {
@@ -8829,7 +8829,7 @@
       "name": "Jim W. Portegies",
       "checkedAt": "2026-11-26",
       "status": "held",
-      "note": "该 ORCID 在 A5018184060 和 A5079577202 各有本人作品，校方身份、DOI 10.1002/cpa.21565 和 10.1007/s10851-022-01114-x 匹配不同作者档。Jorg M. Portegies 是不同作者。Google Scholar 姓名检索转登录，ORCID 本身零公开作品条目，保留机构论文栏 36 篇。",
+      "note": "该 ORCID 在 A5018184060 和 A5079577202 各有本人作品，校方身份、DOI 10.1002/cpa.21565 和 10.1007/s10851-022-01114-x 匹配不同作者档。Jorg M. Portegies 是不同作者。Google Scholar 姓名检索转登录，ORCID 本身零公开作品条目，保留机构论文栏 36 篇。 校方 Pure 具名档的 Scopus 当期快照为 336 次，h 指数 12。保留 OpenAlex 两档拆分核查结果，校方口径单独显示。",
       "authorId": "A5018184060",
       "candidate_url": "https://openalex.org/authors/A5018184060",
       "authorApiUrl": "https://api.openalex.org/authors/A5018184060",
@@ -8935,7 +8935,17 @@
             }
           ]
         }
-      ]
+      ],
+      "fallbackReviewedAt": "2026-11-27",
+      "fallbackCitation": {
+        "source": "Scopus（TU/e 科研门户）",
+        "authorId": "jim-w-portegies",
+        "url": "https://research.tue.nl/p/en/persons/jim-w-portegies",
+        "checkedAt": "2026-11-27",
+        "citations": 336,
+        "hIndex": 12,
+        "citationScope": "TU/e Pure 具名人员卡披露的 Scopus All time 累计引用"
+      }
     },
     "max-goering": {
       "name": "Max Goering",
@@ -9056,7 +9066,7 @@
       "name": "Jan-Cees van der Meer",
       "checkedAt": "2026-11-26",
       "status": "held",
-      "note": "学校 ORCID 与几何作者相符，但该档高引 CMOS 传感器论文 10.1109/ISSCC.2005.1493961 属 TU Delft 的 Jeroen C. van der Meer。校方公开期刊栏 18 条回退；累计引文待可靠作者档。",
+      "note": "学校 ORCID 与几何作者相符，但该档高引 CMOS 传感器论文 10.1109/ISSCC.2005.1493961 属 TU Delft 的 Jeroen C. van der Meer。校方公开期刊栏 18 条回退；累计引文待可靠作者档。 新增本人主页导航里的公开 CV 与书目，保留机构 18 条期刊披露。校方 Pure 具名档的 Scopus 当期快照为 408 次，h 指数 9。",
       "authorId": "A5006874877",
       "candidate_url": "https://openalex.org/authors/A5006874877",
       "authorApiUrl": "https://api.openalex.org/authors/A5006874877",
@@ -9088,13 +9098,23 @@
           "title": "The Hamiltonian Hopf bifurcation",
           "url": "https://doi.org/10.1007/bfb0080362"
         }
-      ]
+      ],
+      "fallbackReviewedAt": "2026-11-27",
+      "fallbackCitation": {
+        "source": "Scopus（TU/e 科研门户）",
+        "authorId": "jc-jan-cees-van-der-meer",
+        "url": "https://research.tue.nl/p/en/persons/jc-jan-cees-van-der-meer",
+        "checkedAt": "2026-11-27",
+        "citations": 408,
+        "hIndex": 9,
+        "citationScope": "TU/e Pure 具名人员卡披露的 Scopus All time 累计引用"
+      }
     },
     "ruud-pellikaan": {
       "name": "Ruud Pellikaan",
       "checkedAt": "2026-11-26",
       "status": "held",
-      "note": "几何曲线与奇点 DOI 校清本人。但按姓名存在其他记录 A5138338434 与 A5164093837，仍须逐 DOI 查清是否是同作者拆分。校方正式任期、本人站与机构成果另记。",
+      "note": "几何曲线与奇点 DOI 校清本人。但按姓名存在其他记录 A5138338434 与 A5164093837，仍须逐 DOI 查清是否是同作者拆分。校方正式任期、本人站与机构成果另记。 当前另核 A5138338434 的详情报 7 项且作品接口返回两条。论文原文和机构库显示均非本人合著，至少一篇把论文集编者误写成作者。A5164093837 详情报 1 项且具体作品端无可复核明细，未与主档合并。按本人书目完整编号范围排除会议及其他体裁并去重后得 38 条期刊论文，校方 Pure 具名档的 Scopus 当期快照为 1445 次，h 指数 22。",
       "authorId": "A5073459171",
       "candidate_url": "https://openalex.org/authors/A5073459171",
       "authorApiUrl": "https://api.openalex.org/authors/A5073459171",
@@ -9126,7 +9146,28 @@
           "title": "Fitting ideals and multiple points of analytic mappings",
           "url": "https://doi.org/10.1007/bfb0090254"
         }
-      ]
+      ],
+      "fallbackReviewedAt": "2026-11-27",
+      "fallbackCitation": {
+        "source": "Scopus（TU/e 科研门户）",
+        "authorId": "gr-ruud-pellikaan",
+        "url": "https://research.tue.nl/p/en/persons/gr-ruud-pellikaan",
+        "checkedAt": "2026-11-27",
+        "citations": 1445,
+        "hIndex": 22,
+        "citationScope": "TU/e Pure 具名人员卡披露的 Scopus All time 累计引用"
+      },
+      "fallbackPublicationCount": {
+        "value": 38,
+        "url": "https://ruudp.win.tue.nl/publications.html",
+        "checkedAt": "2026-11-27",
+        "scope": "本人完整编号书目 1–98（1981–2025）按正式期刊来源逐条核验，38 条不同期刊论文。排除论文集、会议摘要、编者说明、学位论文和同题预印本。"
+      },
+      "alternatives": [
+        "https://api.openalex.org/authors/A5138338434",
+        "https://api.openalex.org/authors/A5164093837"
+      ],
+      "editorRoleSource": "https://research.tue.nl/en/publications/occurrence-of-patterns-in-random-fields/"
     },
     "annika-bach": {
       "name": "Annika Bach",
