@@ -3302,6 +3302,16 @@
       "note": "荷文网站可索引的 5 人。直连人员旧页返回 403，逐人用现行科研门户和校方研究者页面核实名字及职级。"
     },
     {
+      "id": "eindhoven-afrouzUU-b70",
+      "school": "eindhoven",
+      "url": "https://www.uu.nl/medewerkers/AJabalAmeli1",
+      "label": "Utrecht University · Afrouz Jabal Ameli research appointment",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "校档为研究员，个人站交代 2025-06 开始博士后、仍以 Guest 身份与 TU/e 联属。"
+    },
+    {
       "id": "eindhoven-aidaofficial-b59",
       "school": "eindhoven",
       "url": "https://research.tue.nl/p/en/persons/aida-abiad-monge",
@@ -3460,6 +3470,16 @@
       "count": 12,
       "checked_at": "2026-11-27",
       "note": "年报可索引正文的 TUE-AP-FF 分栏列 12 个岗位。此处保存 2025 披露名册，2026 任期由当前具名卡及组表复核。"
+    },
+    {
+      "id": "eindhoven-co-b70",
+      "school": "eindhoven",
+      "url": "https://spor.win.tue.nl/research/co/",
+      "label": "SPOR · Combinatorial Optimization group roster",
+      "status": "reference",
+      "count": 21,
+      "checked_at": "2026-11-27",
+      "note": "对照所属研究分组公开的 21 个去重图册条目、研究说明与公开发表。具名职务和访问任期以当前人员页核查。"
     },
     {
       "id": "eindhoven-coherence-b58",
@@ -3862,6 +3882,16 @@
       "note": "现行校级组档的 8 个子组及公开项目。对照 Burgerscentrum 年报中本组 12 个具名教职与荣休岗位，Toschi 的跨系引力课程和研究方向另有具名证据。"
     },
     {
+      "id": "eindhoven-pimGeom-b70",
+      "school": "eindhoven",
+      "url": "https://sites.google.com/view/networksgraphsprobability/research/geometry-in-networks",
+      "label": "Pim van der Hoorn · geometry of networks research and papers",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "本人分栏给出流形 Ricci 曲率恢复、双曲网络与随机图的项目。实际发表及 OpenAlex 作者域验证。"
+    },
+    {
       "id": "eindhoven-portegies-nl-b58",
       "school": "eindhoven",
       "url": "https://research.tue.nl/nl/persons/jim-w-portegies/",
@@ -3870,6 +3900,16 @@
       "count": 1,
       "checked_at": "2026-11-27",
       "note": "校方具名个人页任期对象 STAFF，applied-analysis，01/01/2022 至 无截止日标记。页面短传可能保留旧职级。"
+    },
+    {
+      "id": "eindhoven-prob-b70",
+      "school": "eindhoven",
+      "url": "https://spor.win.tue.nl/research/probability/",
+      "label": "SPOR · Probability group roster",
+      "status": "reference",
+      "count": 10,
+      "checked_at": "2026-11-27",
+      "note": "对照所属研究分组公开的 10 个去重图册条目、研究说明与公开发表。具名职务和访问任期以当前人员页核查。"
     },
     {
       "id": "eindhoven-qte-team-b58",
@@ -3952,6 +3992,16 @@
       "note": "独立研究组目录图册 7 张。校方 Pure 英荷旧版人员路径部分返回 403，直接读取研究组确认名录和研究分栏。"
     },
     {
+      "id": "eindhoven-sor-b70",
+      "school": "eindhoven",
+      "url": "https://spor.win.tue.nl/research/sor/",
+      "label": "SPOR · Stochastic Operations Research group roster",
+      "status": "reference",
+      "count": 16,
+      "checked_at": "2026-11-27",
+      "note": "对照所属研究分组公开的 16 个去重图册条目、研究说明与公开发表。具名职务和访问任期以当前人员页核查。"
+    },
+    {
       "id": "eindhoven-spo-b58",
       "school": "eindhoven",
       "url": "https://research.tue.nl/p/en/organisations/statistics-probability-and-operations-research",
@@ -3970,6 +4020,26 @@
       "count": 68,
       "checked_at": "2026-11-27",
       "note": "校方子站图册当前列 30 个 Faculty、3 个支持、31 位在读博士和 4 位 Research and Teaching Fellows。原图册标题保存在逐人行，教师部分含旧职称与荣休。以业务分组及具名近期任期核对几何邻接名单。"
+    },
+    {
+      "id": "eindhoven-statistics-b70",
+      "school": "eindhoven",
+      "url": "https://spor.win.tue.nl/research/statistics/",
+      "label": "SPOR · Statistics group roster",
+      "status": "reference",
+      "count": 22,
+      "checked_at": "2026-11-27",
+      "note": "对照所属研究分组公开的 22 个去重图册条目、研究说明与公开发表。具名职务和访问任期以当前人员页核查。"
+    },
+    {
+      "id": "eindhoven-timPure-b70",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/p/en/persons/tim-ae-ophelders",
+      "label": "TU/e · Tim Ophelders ongoing Applied Geometric Algorithms appointment",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "当前任期和本人首页、CV 核对，先前 Utrecht 的并聘在 2026-02 结束。"
     },
     {
       "id": "eindhoven-tueStaff-b69",

@@ -930,7 +930,8 @@
     "fidel-fernandez-villasenor": "出版社 Crossref DOI 作者 ORCID、TU/e 库的 UCLM 署名与 Granada 博士论文相合。作者统计有 8 项；可读取作品接口列 6 项，按 DOI 或条目 ID 去重有 4 条 type:article。篇数限于本次有逐项明细的范围，引用取作者累计。",
     "frank-rottger": "本人主页、特文特学校个档、TU/e 同一 ORCID 及 Gaussian double Markovian 论文跨对。作者统计有 22 项；可读取作品接口列 20 项，按 DOI 或条目 ID 去重有 14 条 type:article。篇数限于本次有逐项明细的范围，引用取作者累计。",
     "alessandro-saccon": "TU/e、ORCID 和 IEEE 李群控制论文的作者相同。作者统计有 126 项；可读取作品接口列 103 项，按 DOI 或条目 ID 去重有 38 条 type:article。篇数限于本次有逐项明细的范围，引用取作者累计。",
-    "andrei-c-jalba": "TU/e 具名档 ORCID 和可视化组已核实。匹配曲面重建、几何分割及曲率图像论文。作者统计有 88 项；可读取作品接口列 80 项，按 DOI 或条目 ID 去重有 41 条 type:article。篇数限于本次有逐项明细的范围，引用取作者累计。"
+    "andrei-c-jalba": "TU/e 具名档 ORCID 和可视化组已核实。匹配曲面重建、几何分割及曲率图像论文。作者统计有 88 项；可读取作品接口列 80 项，按 DOI 或条目 ID 去重有 41 条 type:article。篇数限于本次有逐项明细的范围，引用取作者累计。",
+    "pim-van-der-hoorn": "作者主页、TU/e 具名 ORCID 与曲率论文 DOI 10.1007/s00454-023-00507-y 同一归属。独立 type:article 查询 25；可读作者作品 33 条，作者总成果字段 36，累计引用 681。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -11044,6 +11045,27 @@
         "hIndex": 19,
         "articleScope": "OpenAlex 作品接口可读 80 项内 type:article，按 DOI 或条目 ID 去重",
         "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+      }
+    },
+    "pim-van-der-hoorn": {
+      "checkedAt": "2026-11-27",
+      "status": "accepted",
+      "note": "作者主页、TU/e 具名 ORCID 与曲率论文 DOI 10.1007/s00454-023-00507-y 同一归属。独立 type:article 查询 25；可读作者作品 33 条，作者总成果字段 36，累计引用 681。",
+      "authorId": "A5050093240",
+      "authorSource": "https://api.openalex.org/authors/https%3A%2F%2Forcid.org%2F0000-0002-2250-1274",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5050093240",
+        "url": "https://openalex.org/authors/A5050093240",
+        "authorApiUrl": "https://api.openalex.org/authors/https%3A%2F%2Forcid.org%2F0000-0002-2250-1274",
+        "articleApiUrl": "https://api.openalex.org/works?filter=author.id:A5050093240,type:article&per-page=1&select=id",
+        "checkedAt": "2026-11-27",
+        "articles": 25,
+        "works": 36,
+        "citations": 681,
+        "hIndex": 13,
+        "articleScope": "OpenAlex type:article 的作者独立筛选",
+        "citationScope": "OpenAlex 作者累计引用（含扩展语料）"
       }
     }
   }
