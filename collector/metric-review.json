@@ -933,7 +933,11 @@
     "andrei-c-jalba": "TU/e 具名档 ORCID 和可视化组已核实。匹配曲面重建、几何分割及曲率图像论文。作者统计有 88 项；可读取作品接口列 80 项，按 DOI 或条目 ID 去重有 41 条 type:article。篇数限于本次有逐项明细的范围，引用取作者累计。",
     "pim-van-der-hoorn": "作者主页、TU/e 具名 ORCID 与曲率论文 DOI 10.1007/s00454-023-00507-y 同一归属。独立 type:article 查询 25；可读作者作品 33 条，作者总成果字段 36，累计引用 681。",
     "lilia-alanis-lopez": "校方及本人主页的 ORCID 与 A5103275650 相同，档案作品却混入管理学同名作者。期刊原文 10.22579/23463910.159 第三作者为 Lilia Alanís Gómez。已检索 OpenAlex 姓名档和 Google Scholar，后者公开姓名搜索转登录，作者自报 Scopus ID 的档案和出版商公开作者页面均返回 403。期刊数改用本人完整公开发表分栏的 7 篇口径；暂未核得公开累计引用。 作者 ORCID 公共记录的 Crossref 来源也自动收录同一管理学 DOI，原文作者是 Lilia Alanís Gómez。本人公开书目核实的范围独立可追溯。",
-    "manuel-alejandro-ucan-puc": "VIVO ORCID 与 A5037695305 一致。论文 10.1080/10586458.2022.2093802、10.1007/s00574-017-0035-y 及具名 UNAM 履历支持身份。A5159331372 的 arXiv:2603.04625 由本人和 Tec 同事 Carlos Astengo 合著，确为一人分档。保留主档 4 个已核期刊 DOI 的篇数。Google Scholar 转登录，累计引用暂不合并发布。 ORCID 公共作品接口的 18 组按 DOI 与出版类型核对。可证当前正式期刊 DOI 对应 OpenAlex 主档的 4 篇。有三篇会议论文集章的部分第三方类型标为期刊，预印本另计。"
+    "manuel-alejandro-ucan-puc": "VIVO ORCID 与 A5037695305 一致。论文 10.1080/10586458.2022.2093802、10.1007/s00574-017-0035-y 及具名 UNAM 履历支持身份。A5159331372 的 arXiv:2603.04625 由本人和 Tec 同事 Carlos Astengo 合著，确为一人分档。保留主档 4 个已核期刊 DOI 的篇数。Google Scholar 转登录，累计引用暂不合并发布。 ORCID 公共作品接口的 18 组按 DOI 与出版类型核对。可证当前正式期刊 DOI 对应 OpenAlex 主档的 4 篇。有三篇会议论文集章的部分第三方类型标为期刊，预印本另计。",
+    "mubasher-jamil": "SNS、TWAS、本人 ORCID 和近期论文 10.1016/j.aop.2024.169911 互证。A5103773440 的两个日译题名与主档中两个有 DOI 的原作相同，分别为 10.1103/PhysRevD.94.084042 和 10.1103/PhysRevD.99.024050，无重复合并。A5104015427 是马来西亚从事激光加工的同名。主档类型过滤 130 条，含数据库标成文章的一条 Comments。",
+    "muhammad-zubair-ali-moughal": "CEME 数学任职、Waikato 博士论文、两个 DOI 与 publisher ORCID 0000-0002-6409-3475 互证。可见 9 个唯一研究记录，8 期刊、1 预印本。",
+    "safia-taj": "CEME 具名任职与 Nuclear Physics B 的作者 ORCID 0009-0006-0714-1350 一致。可读作品端 32 条，其中 23 为 article；作者快照计总成果 33。",
+    "bushra-majeed": "A5017424339 正常收入 CEME 引力作者论文，但 2026 机构已列的 10.1140/epjc/s10052-025-15166-x 被收进 A5073939661。后者以另一 ORCID 发布伊拉克沉积、地质及环境论文；A5087378363 的云安全与软件工程也属于另一同名。Google Scholar 公开姓名入口转登录。此人期刊篇数用 CEME 完整公开分栏的 16 条，累计引用暂未取得同一作者的可信整体值。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -11114,6 +11118,104 @@
         "articleScope": "OpenAlex 主档经 DOI 核实的 4 条 type:article。本人第二档只收一条预印本，累计引用仍待核。"
       },
       "orcidPublicWorks": "https://pub.orcid.org/v3.0/0000-0002-0037-9394/works"
+    },
+    "mubasher-jamil": {
+      "checkedAt": "2026-11-27",
+      "status": "accepted",
+      "authorId": "A5071640448",
+      "note": "SNS、TWAS、本人 ORCID 和近期论文 10.1016/j.aop.2024.169911 互证。A5103773440 的两个日译题名与主档中两个有 DOI 的原作相同，分别为 10.1103/PhysRevD.94.084042 和 10.1103/PhysRevD.99.024050，无重复合并。A5104015427 是马来西亚从事激光加工的同名。主档类型过滤 130 条，含数据库标成文章的一条 Comments。",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5071640448",
+        "url": "https://openalex.org/authors/A5071640448",
+        "authorApiUrl": "https://api.openalex.org/authors/A5071640448",
+        "articleApiUrl": "https://api.openalex.org/works?filter=author.id:A5071640448,type:article&per-page=1&select=id",
+        "checkedAt": "2026-11-27",
+        "articles": 130,
+        "works": 163,
+        "citations": 7011,
+        "hIndex": 52,
+        "articleScope": "OpenAlex 独立 type:article 筛选，按数据库类型分类",
+        "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+      },
+      "identitySources": [
+        "https://sns.nust.edu.pk/faculty/mubasher-jamil/",
+        "https://link.springer.com/article/10.1140/epjc/s10052-025-15147-0",
+        "https://orcid.org/0000-0001-9662-1546",
+        "https://api.openalex.org/works?filter=author.id:A5103773440&per-page=20&select=id,doi,display_name,publication_year,authorships,type,cited_by_count",
+        "https://api.openalex.org/works?filter=author.id:A5104015427&per-page=30&select=id,doi,display_name,publication_year,authorships,type,cited_by_count"
+      ]
+    },
+    "muhammad-zubair-ali-moughal": {
+      "checkedAt": "2026-11-27",
+      "status": "accepted",
+      "authorId": "A5082933261",
+      "note": "CEME 数学任职、Waikato 博士论文、两个 DOI 与 publisher ORCID 0000-0002-6409-3475 互证。可见 9 个唯一研究记录，8 期刊、1 预印本。",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5082933261",
+        "url": "https://openalex.org/authors/A5082933261",
+        "authorApiUrl": "https://api.openalex.org/authors?search=Muhammad%20Zubair%20Ali%20Moughal&per-page=12",
+        "articleApiUrl": "https://api.openalex.org/works?filter=author.id:A5082933261,type:article&per-page=1&select=id",
+        "checkedAt": "2026-11-27",
+        "articles": 8,
+        "works": 9,
+        "citations": 58,
+        "hIndex": 4,
+        "articleScope": "OpenAlex 独立 type:article 筛选，按数据库类型分类",
+        "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+      },
+      "identitySources": [
+        "https://ceme.nust.edu.pk/faculty/muhammad-zubair-ali-moughal/",
+        "https://researchcommons.waikato.ac.nz/entities/publication/dde5191c-0cd9-47ab-aee3-7d1bc0a319d6",
+        "https://pub.orcid.org/v3.0/0000-0002-6409-3475/works",
+        "https://api.crossref.org/works?query.bibliographic=Back-reaction+effects+of+matter+accretion+onto+a+modified+Schwarzschild+black+hole&rows=2"
+      ]
+    },
+    "safia-taj": {
+      "checkedAt": "2026-11-27",
+      "status": "accepted",
+      "authorId": "A5108699238",
+      "note": "CEME 具名任职与 Nuclear Physics B 的作者 ORCID 0009-0006-0714-1350 一致。可读作品端 32 条，其中 23 为 article；作者快照计总成果 33。",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5108699238",
+        "url": "https://openalex.org/authors/A5108699238",
+        "authorApiUrl": "https://api.openalex.org/authors?search=Safia%20Taj&per-page=12",
+        "articleApiUrl": "https://api.openalex.org/works?filter=author.id:A5108699238,type:article&per-page=1&select=id",
+        "checkedAt": "2026-11-27",
+        "articles": 23,
+        "works": 33,
+        "citations": 286,
+        "hIndex": 9,
+        "articleScope": "OpenAlex 独立 type:article 筛选，按数据库类型分类",
+        "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+      },
+      "identitySources": [
+        "https://ceme.nust.edu.pk/faculty/safia-taj/",
+        "https://ceme.nust.edu.pk/faculty/safia-taj/",
+        "https://pub.orcid.org/v3.0/0009-0006-0714-1350/person",
+        "https://api.crossref.org/works?query.bibliographic=Quasi-homogeneous+geometrothermodynamics+of+Hayward+anti-de+Sitter+black+hole+surrounded+by+a+cloud+of+strings&rows=2"
+      ]
+    },
+    "bushra-majeed": {
+      "checkedAt": "2026-11-27",
+      "status": "held",
+      "authorId": "A5017424339",
+      "note": "A5017424339 正常收入 CEME 引力作者论文，但 2026 机构已列的 10.1140/epjc/s10052-025-15166-x 被收进 A5073939661。后者以另一 ORCID 发布伊拉克沉积、地质及环境论文；A5087378363 的云安全与软件工程也属于另一同名。Google Scholar 公开姓名入口转登录。此人期刊篇数用 CEME 完整公开分栏的 16 条，累计引用暂未取得同一作者的可信整体值。",
+      "authorSource": "https://api.openalex.org/authors?search=Bushra%20Majeed&per-page=12",
+      "alternativeSources": [
+        "https://api.openalex.org/works?filter=author.id:A5073939661&per-page=100&select=id,doi,display_name,publication_year,authorships,type,cited_by_count",
+        "https://api.openalex.org/works?filter=author.id:A5087378363&per-page=100&select=id,doi,display_name,publication_year,authorships,type,cited_by_count",
+        "https://scholar.google.com/citations?view_op=search_authors&mauthors=Bushra%20Majeed"
+      ],
+      "conflictSource": "https://doi.org/10.1140/epjc/s10052-025-15166-x",
+      "fallbackPublicationCount": {
+        "value": 16,
+        "url": "https://ceme.nust.edu.pk/faculty/bushra-majeed/",
+        "checkedAt": "2026-11-27",
+        "scope": "校方具名 Publications 栏的全部 16 条 2012–2026 期刊条目，逐条核对题名、期刊和卷期或文号。单独会议分栏不计；口径限公开校档。"
+      }
     }
   }
 }

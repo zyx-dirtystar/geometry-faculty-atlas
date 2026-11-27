@@ -2269,5 +2269,17 @@
   {"id":"tec-monterrey-jenyRdf-b73","school":"tec-monterrey","name":"TEC VIVO RDF · Jeny Alexandra Rincón Aguirre academic identity","url":"https://research.tec.mx/vivo-tec/individual/PID_503002/PID_503002.rdf","kind":"campus","parser":"pending"},
   {"id":"tec-monterrey-jenyOaPaper-b73","school":"tec-monterrey","name":"Food Chemistry · author and Tec affiliation","url":"https://api.openalex.org/works/https://doi.org/10.1016/j.foodchem.2026.151387","kind":"campus","parser":"pending"},
   {"id":"tec-monterrey-castilloRdf-b73","school":"tec-monterrey","name":"TEC VIVO RDF · Guillermo Castillo Olvera academic identity","url":"https://research.tec.mx/vivo-tec/individual/PID_518477/PID_518477.rdf","kind":"campus","parser":"pending"},
-  {"id":"tec-monterrey-castilloWorks-b73","school":"tec-monterrey","name":"OpenAlex · Guillermo Castillo Olvera namesake author check","url":"https://api.openalex.org/works?filter=author.id:A5018589721&per-page=50&select=id,doi,display_name,publication_year,authorships,type","kind":"campus","parser":"pending"}
+  {"id":"tec-monterrey-castilloWorks-b73","school":"tec-monterrey","name":"OpenAlex · Guillermo Castillo Olvera namesake author check","url":"https://api.openalex.org/works?filter=author.id:A5018589721&per-page=50&select=id,doi,display_name,publication_year,authorships,type","kind":"campus","parser":"pending"},
+  {"id":"nust-sns-b74","school":"nust","name":"NUST SNS · current all-appointment faculty cards","url":"https://sns.nust.edu.pk/faculty/","kind":"campus","parser":"pending"},
+  {"id":"nust-snsMath-b74","school":"nust","name":"NUST SNS · current Department of Mathematics","url":"https://sns.nust.edu.pk/faculty?depart=SNS-MATH","kind":"department","parser":"pending"},
+  {"id":"nust-sines-b74","school":"nust","name":"NUST SINES · full faculty roster","url":"https://sines.nust.edu.pk/faculty/","kind":"campus","parser":"pending"},
+  {"id":"nust-sinesNew-b74","school":"nust","name":"NUST SINES · profiled faculty and heads","url":"https://sines.nust.edu.pk/sines-faculty/","kind":"campus","parser":"pending"},
+  {"id":"nust-ceme-b74","school":"nust","name":"NUST CEME · full college staff roster","url":"https://ceme.nust.edu.pk/faculty/","kind":"campus","parser":"pending"},
+  {"id":"nust-cae-b74","school":"nust","name":"NUST CAE Risalpur · faculty","url":"https://cae.nust.edu.pk/faculty/","kind":"campus","parser":"pending"},
+  {"id":"nust-mce-b74","school":"nust","name":"NUST MCE Risalpur · faculty","url":"https://mce.nust.edu.pk/faculty/","kind":"campus","parser":"pending"},
+  {"id":"nust-astroGroup-b74","school":"nust","name":"NUST CEME · Astrophysics and Cosmology","url":"https://ceme.nust.edu.pk/research/astrophysics-and-cosmology-groups/","kind":"campus","parser":"pending"},
+  {"id":"nust-snsOldCourse-b74","school":"nust","name":"NUST SNS · 2025 Differential Geometry teaching assignment","url":"https://sns.nust.edu.pk/wp-content/uploads/2023/08/UG-Courses-Spring-2025-Course.pdf","kind":"campus","parser":"pending"},
+  {"id":"nust-snsSpring-b74","school":"nust","name":"NUST SNS · spring 2026 Differential Geometry course listing","url":"https://sns.nust.edu.pk/wp-content/uploads/2023/08/UG-Spring-2026-Course-2.pdf","kind":"campus","parser":"pending"},
+  {"id":"nust-jamilTwas-b74","school":"nust","name":"TWAS · Mubasher Jamil research identity and public CV","url":"https://twas.org/directory/jamil-mubasher","kind":"campus","parser":"pending"},
+  {"id":"nust-mThesis-b74","school":"nust","name":"Waikato · Moughal mathematics doctorate and Einstein geometry","url":"https://researchcommons.waikato.ac.nz/entities/publication/dde5191c-0cd9-47ab-aee3-7d1bc0a319d6","kind":"campus","parser":"pending"}
 ]
