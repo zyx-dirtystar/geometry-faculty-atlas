@@ -164672,8 +164672,296 @@
   "puc-chile-phyfac-b65": {
     "url": "https://fisica.uc.cl/planta-academica/cuerpo-docente/",
     "checkedAt": "2026-11-27",
-    "scope": "已读物理、天文当前院系的角色入口。物理学具名教师、荣休、访学及博士后继续逐项核对。",
-    "entries": []
+    "scope": "以学校网页公开分页请求的西语 language=21 参数读取 41 个具名正、副、助理教授。原宽查询混含同人的 37 个英语镜像。五人具名数学物理、七人具名高能，目标几何内容再用个人卡和发表核对。",
+    "entries": [
+      {
+        "name": "Edward Arévalo",
+        "profile": "https://fisica.uc.cl/academico/edward-arevalo/",
+        "title": "Profesor/a Asociado",
+        "research": "Física Matemática, Física No Lineal, Materia Condensada Sintética",
+        "homepage": ""
+      },
+      {
+        "name": "Máximo Bañados",
+        "profile": "https://fisica.uc.cl/academico/maximo-banados/",
+        "title": "Profesor/a Titular",
+        "research": "Física de Altas Energías",
+        "homepage": ""
+      },
+      {
+        "name": "Heman Bhuyan",
+        "profile": "https://fisica.uc.cl/academico/heman-bhuyan/",
+        "title": "Profesor/a Asociado",
+        "research": "Física de Plasmas",
+        "homepage": ""
+      },
+      {
+        "name": "Hilde Harb Buzzá",
+        "profile": "https://fisica.uc.cl/academico/hilde-buzza/",
+        "title": "Profesora Asistente",
+        "research": "Física Médica",
+        "homepage": ""
+      },
+      {
+        "name": "Paola Caprile",
+        "profile": "https://fisica.uc.cl/academico/paola-caprile/",
+        "title": "Profesora Asociado",
+        "research": "Física Médica",
+        "homepage": ""
+      },
+      {
+        "name": "María Daniela Cornejo",
+        "profile": "https://fisica.uc.cl/academico/maria-daniela-cornejo/",
+        "title": "Profesora Asistente",
+        "research": "Física Médica",
+        "homepage": ""
+      },
+      {
+        "name": "Giovanna Cottin",
+        "profile": "https://fisica.uc.cl/academico/giovanna-cottin/",
+        "title": "Profesora Asociado",
+        "research": "Física de Altas Energías",
+        "homepage": ""
+      },
+      {
+        "name": "Giuseppe De Nittis",
+        "profile": "https://fisica.uc.cl/academico/giuseppe-de-nittis/",
+        "title": "Profesor/a Asociado",
+        "research": "Física Matemática",
+        "homepage": ""
+      },
+      {
+        "name": "Donovan Díaz",
+        "profile": "https://fisica.uc.cl/academico/donovan-diaz/",
+        "title": "Profesor/a Asociado",
+        "research": "Física de Materia Condensada Experimental",
+        "homepage": ""
+      },
+      {
+        "name": "Macarena Domínguez",
+        "profile": "https://fisica.uc.cl/academico/macarena-dominguez/",
+        "title": "Profesora Asistente",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Gustavo Düring",
+        "profile": "https://fisica.uc.cl/academico/gustavo-during/",
+        "title": "Profesor/a Asociado",
+        "research": "Física de Materia Condensada Teórica",
+        "homepage": ""
+      },
+      {
+        "name": "Ignacio Espinoza",
+        "profile": "https://fisica.uc.cl/academico/ignacio-espinoza/",
+        "title": "Profesor/a Asociado",
+        "research": "Física Médica",
+        "homepage": ""
+      },
+      {
+        "name": "Alberto Faraggi",
+        "profile": "https://fisica.uc.cl/academico/alberto-faraggi/",
+        "title": "Profesor/a Asociado",
+        "research": "Física de Altas Energías",
+        "homepage": ""
+      },
+      {
+        "name": "Francisca Garay",
+        "profile": "https://fisica.uc.cl/academico/francisca-garay/",
+        "title": "Profesora Asociado",
+        "research": "Física de Altas Energías",
+        "homepage": ""
+      },
+      {
+        "name": "Griselda García",
+        "profile": "https://fisica.uc.cl/academico/griselda-garcia/",
+        "title": "Profesora Asociado",
+        "research": "Física de Materia Condensada Teórica",
+        "homepage": ""
+      },
+      {
+        "name": "Claudio González",
+        "profile": "https://fisica.uc.cl/academico/claudio-gonzalez/",
+        "title": "Profesor/a Asistente",
+        "research": "Física de Materia Condensada Experimental",
+        "homepage": ""
+      },
+      {
+        "name": "Dardo Goyeneche",
+        "profile": "https://fisica.uc.cl/academico/dardo-goyeneche/",
+        "title": "Profesor/a Asociado",
+        "research": "Óptica Cuántica",
+        "homepage": ""
+      },
+      {
+        "name": "Samuel Hevia",
+        "profile": "https://fisica.uc.cl/academico/samuel-hevia/",
+        "title": "Profesor/a Asociado",
+        "research": "Física de Materia Condensada Experimental",
+        "homepage": ""
+      },
+      {
+        "name": "Benjamin Loewe",
+        "profile": "https://fisica.uc.cl/academico/benjamin-loewe/",
+        "title": "Profesor/a Asistente",
+        "research": "Física de Materia Condensada Teórica",
+        "homepage": ""
+      },
+      {
+        "name": "Melissa Maldonado",
+        "profile": "https://fisica.uc.cl/academico/melissa-maldonado/",
+        "title": "Profesora Asistente",
+        "research": "Óptica Cuántica",
+        "homepage": ""
+      },
+      {
+        "name": "Jerónimo Maze",
+        "profile": "https://fisica.uc.cl/academico/jeronimo-maze/",
+        "title": "Profesor/a Asociado",
+        "research": "Física de Materia Condensada Experimental, Óptica Cuántica",
+        "homepage": ""
+      },
+      {
+        "name": "José Mejía López",
+        "profile": "https://fisica.uc.cl/academico/jose-mejia-lopez/",
+        "title": "Profesor/a Titular",
+        "research": "Física de Materia Condensada Teórica",
+        "homepage": ""
+      },
+      {
+        "name": "Pamela Mena",
+        "profile": "https://fisica.uc.cl/academico/pamela-mena/",
+        "title": "Profesora Asistente",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Francisco Molina",
+        "profile": "https://fisica.uc.cl/academico/francisco-molina/",
+        "title": "Profesor/a Asistente",
+        "research": "Física de Altas Energías",
+        "homepage": ""
+      },
+      {
+        "name": "Luis Morales",
+        "profile": "https://fisica.uc.cl/academico/luis-morales/",
+        "title": "Profesor/a Asociado",
+        "research": "Física Matemática",
+        "homepage": ""
+      },
+      {
+        "name": "Enrique Muñoz",
+        "profile": "https://fisica.uc.cl/academico/enrique-munoz/",
+        "title": "Profesor/a Titular",
+        "research": "Física de Altas Energías, Física de Materia Condensada Teórica",
+        "homepage": ""
+      },
+      {
+        "name": "Nicolás Neill",
+        "profile": "https://fisica.uc.cl/academico/nicolas-neill/",
+        "title": "Profesor/a Asistente",
+        "research": "Física de Altas Energías",
+        "homepage": ""
+      },
+      {
+        "name": "Esteban Ramos",
+        "profile": "https://fisica.uc.cl/academico/esteban-ramos/",
+        "title": "Profesor/a Asociado",
+        "research": "Física de Materia Condensada Experimental",
+        "homepage": ""
+      },
+      {
+        "name": "Sebastian Reyes",
+        "profile": "https://fisica.uc.cl/academico/sebastian-reyes/",
+        "title": "Profesor/a Asociado",
+        "research": "Física de Materia Condensada Teórica",
+        "homepage": ""
+      },
+      {
+        "name": "Sergio Rica",
+        "profile": "https://fisica.uc.cl/academico/sergio-rica/",
+        "title": "Profesor/a Titular",
+        "research": "Física Matemática",
+        "homepage": ""
+      },
+      {
+        "name": "Roberto Rodríguez",
+        "profile": "https://fisica.uc.cl/academico/roberto-rodriguez/",
+        "title": "Profesor/a Asociado",
+        "research": "Física de Materia Condensada Experimental",
+        "homepage": ""
+      },
+      {
+        "name": "Andrea Russomando",
+        "profile": "https://fisica.uc.cl/academico/andrea-russomando/",
+        "title": "Profesor/a Asistente",
+        "research": "Física Médica",
+        "homepage": ""
+      },
+      {
+        "name": "Beatriz Sánchez",
+        "profile": "https://fisica.uc.cl/academico/beatriz-sanchez/",
+        "title": "Profesora Asociado",
+        "research": "Física Médica",
+        "homepage": ""
+      },
+      {
+        "name": "Birger Seifert",
+        "profile": "https://fisica.uc.cl/academico/birger-seifert/",
+        "title": "Profesor/a Asociado",
+        "research": "Óptica Cuántica",
+        "homepage": ""
+      },
+      {
+        "name": "Rodrigo Soto",
+        "profile": "https://fisica.uc.cl/academico/rodrigo-soto/",
+        "title": "Profesor/a Asociado",
+        "research": "Física de Materia Condensada Teórica",
+        "homepage": ""
+      },
+      {
+        "name": "Edgardo Stockmeyer",
+        "profile": "https://fisica.uc.cl/academico/edgardo-stockmeyer/",
+        "title": "Profesor/a Asociado",
+        "research": "Física Matemática",
+        "homepage": ""
+      },
+      {
+        "name": "Julio Valenzuela",
+        "profile": "https://fisica.uc.cl/academico/julio-valenzuela/",
+        "title": "Profesor/a Asociado",
+        "research": "Física de Plasmas",
+        "homepage": ""
+      },
+      {
+        "name": "Felipe Veloso",
+        "profile": "https://fisica.uc.cl/academico/felipe-veloso/",
+        "title": "Profesor/a Asociado",
+        "research": "Física de Plasmas",
+        "homepage": ""
+      },
+      {
+        "name": "German Vogel",
+        "profile": "https://fisica.uc.cl/academico/german-vogel/",
+        "title": "Profesor/a Asistente",
+        "research": "Física de Plasmas",
+        "homepage": ""
+      },
+      {
+        "name": "Ulrich Volkmann",
+        "profile": "https://fisica.uc.cl/academico/ulrich-volkmann/",
+        "title": "Profesor/a Titular",
+        "research": "Física de Materia Condensada Experimental, Física de Superficies",
+        "homepage": ""
+      },
+      {
+        "name": "Sascha Wallentowitz",
+        "profile": "https://fisica.uc.cl/academico/sascha-wallentowitz/",
+        "title": "Profesor/a Asociado",
+        "research": "Óptica Cuántica",
+        "homepage": ""
+      }
+    ]
   },
   "puc-chile-midas-b65": {
     "url": "https://midas.mat.uc.cl/team/team.html",
@@ -164760,6 +165048,1063 @@
         "title": "Doctoral examination · PUCV-UTFSM-UV, 2022",
         "research": "Geometric and smooth dynamics on manifolds, partial hyperbolicity, ergodic theory and dynamics on nilmanifolds",
         "profile": "https://ima.ucv.cl/event/examen-de-grado-de-doctor-en-matematica-en-consorcio-pucv-utfsm-uv-sr-sebastian-ramirez-duarte/",
+        "homepage": ""
+      }
+    ]
+  },
+  "puc-chile-phyMath-b67": {
+    "url": "https://fisica.uc.cl/investigacion/areas-de-investigacion/fisica-matematica/",
+    "checkedAt": "2026-11-27",
+    "scope": "官网分组脚本调用的数学物理主题与具名个人档交叉。",
+    "entries": [
+      {
+        "name": "Edward Arévalo",
+        "profile": "https://fisica.uc.cl/academico/edward-arevalo/",
+        "title": "Profesor/a Asociado",
+        "research": "Física Matemática, Física No Lineal, Materia Condensada Sintética",
+        "homepage": ""
+      },
+      {
+        "name": "Giuseppe De Nittis",
+        "profile": "https://fisica.uc.cl/academico/giuseppe-de-nittis/",
+        "title": "Profesor/a Asociado",
+        "research": "Física Matemática",
+        "homepage": ""
+      },
+      {
+        "name": "Luis Morales",
+        "profile": "https://fisica.uc.cl/academico/luis-morales/",
+        "title": "Profesor/a Asociado",
+        "research": "Física Matemática",
+        "homepage": ""
+      },
+      {
+        "name": "Sergio Rica",
+        "profile": "https://fisica.uc.cl/academico/sergio-rica/",
+        "title": "Profesor/a Titular",
+        "research": "Física Matemática",
+        "homepage": ""
+      },
+      {
+        "name": "Edgardo Stockmeyer",
+        "profile": "https://fisica.uc.cl/academico/edgardo-stockmeyer/",
+        "title": "Profesor/a Asociado",
+        "research": "Física Matemática",
+        "homepage": ""
+      }
+    ]
+  },
+  "puc-chile-phyHigh-b67": {
+    "url": "https://fisica.uc.cl/investigacion/areas-de-investigacion/fisica-de-altas-energias/",
+    "checkedAt": "2026-11-27",
+    "scope": "官网具名高能组。当前研究方向包括非交换空间、广义相对论、黑洞和实验粒子物理，结合具名论文作边界判断。",
+    "entries": [
+      {
+        "name": "Máximo Bañados",
+        "profile": "https://fisica.uc.cl/academico/maximo-banados/",
+        "title": "Profesor/a Titular",
+        "research": "Física de Altas Energías",
+        "homepage": ""
+      },
+      {
+        "name": "Giovanna Cottin",
+        "profile": "https://fisica.uc.cl/academico/giovanna-cottin/",
+        "title": "Profesora Asociado",
+        "research": "Física de Altas Energías",
+        "homepage": ""
+      },
+      {
+        "name": "Alberto Faraggi",
+        "profile": "https://fisica.uc.cl/academico/alberto-faraggi/",
+        "title": "Profesor/a Asociado",
+        "research": "Física de Altas Energías",
+        "homepage": ""
+      },
+      {
+        "name": "Francisca Garay",
+        "profile": "https://fisica.uc.cl/academico/francisca-garay/",
+        "title": "Profesora Asociado",
+        "research": "Física de Altas Energías",
+        "homepage": ""
+      },
+      {
+        "name": "Francisco Molina",
+        "profile": "https://fisica.uc.cl/academico/francisco-molina/",
+        "title": "Profesor/a Asistente",
+        "research": "Física de Altas Energías",
+        "homepage": ""
+      },
+      {
+        "name": "Enrique Muñoz",
+        "profile": "https://fisica.uc.cl/academico/enrique-munoz/",
+        "title": "Profesor/a Titular",
+        "research": "Física de Altas Energías, Física de Materia Condensada Teórica",
+        "homepage": ""
+      },
+      {
+        "name": "Nicolás Neill",
+        "profile": "https://fisica.uc.cl/academico/nicolas-neill/",
+        "title": "Profesor/a Asistente",
+        "research": "Física de Altas Energías",
+        "homepage": ""
+      }
+    ]
+  },
+  "puc-chile-phyvis-b67": {
+    "url": "https://fisica.uc.cl/planta-academica/profesores-visitantes/",
+    "checkedAt": "2026-11-27",
+    "scope": "公开具名角色分栏，区分现任常规教职、访问、荣休及荣誉，Benguria 在两个荣誉表为同一人。",
+    "entries": [
+      {
+        "name": "Christopher Feuillade",
+        "profile": "https://fisica.uc.cl/planta-academica/profesores-visitantes/",
+        "title": "Profesor/a visitante",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "María Araceli Gago",
+        "profile": "https://fisica.uc.cl/planta-academica/profesores-visitantes/",
+        "title": "Profesor/a visitante",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Benjamín Koch",
+        "profile": "https://fisica.uc.cl/planta-academica/profesores-visitantes/",
+        "title": "Profesor/a visitante",
+        "research": "Lorentzian geometry in gravitational theory, scale-dependent black hole spacetimes, quantum geodesics and quantum gravity",
+        "homepage": ""
+      },
+      {
+        "name": "Juan Pedro Ochoa",
+        "profile": "https://fisica.uc.cl/planta-academica/profesores-visitantes/",
+        "title": "Profesor/a visitante",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Edmund Wyndham",
+        "profile": "https://fisica.uc.cl/planta-academica/profesores-visitantes/",
+        "title": "Profesor/a visitante",
+        "research": "",
+        "homepage": ""
+      }
+    ]
+  },
+  "puc-chile-phyret-b67": {
+    "url": "https://fisica.uc.cl/planta-academica/profesores-emeritos/",
+    "checkedAt": "2026-11-27",
+    "scope": "公开具名角色分栏，区分现任常规教职、访问、荣休及荣誉，Benguria 在两个荣誉表为同一人。",
+    "entries": [
+      {
+        "name": "Ricardo Ramírez",
+        "profile": "https://fisica.uc.cl/planta-academica/profesores-emeritos/",
+        "title": "Profesor/a emérito/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Miguel Orszag",
+        "profile": "https://fisica.uc.cl/planta-academica/profesores-emeritos/",
+        "title": "Profesor/a emérito/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Rafael Benguria",
+        "profile": "https://fisica.uc.cl/planta-academica/profesores-emeritos/",
+        "title": "Profesor/a emérito/a",
+        "research": "Differential geometry and spectral geometry of Laplacians and Dirac operators, isoperimetric inequalities, geometric bounds for eigenvalues and elliptic equations",
+        "homepage": ""
+      }
+    ]
+  },
+  "puc-chile-physHon-b67": {
+    "url": "https://fisica.uc.cl/planta-academica/profesores-titulares-honorarios/",
+    "checkedAt": "2026-11-27",
+    "scope": "公开具名角色分栏，区分现任常规教职、访问、荣休及荣誉，Benguria 在两个荣誉表为同一人。",
+    "entries": [
+      {
+        "name": "Rafael Benguria",
+        "profile": "https://fisica.uc.cl/planta-academica/profesores-titulares-honorarios/",
+        "title": "Profesor/a titular honorario/a",
+        "research": "Differential geometry and spectral geometry of Laplacians and Dirac operators, isoperimetric inequalities, geometric bounds for eigenvalues and elliptic equations",
+        "homepage": ""
+      },
+      {
+        "name": "Alejandro Cabrera",
+        "profile": "https://fisica.uc.cl/planta-academica/profesores-titulares-honorarios/",
+        "title": "Profesor/a titular honorario/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "María Cristina Depassier",
+        "profile": "https://fisica.uc.cl/planta-academica/profesores-titulares-honorarios/",
+        "title": "Profesor/a titular honorario/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Mario Favre",
+        "profile": "https://fisica.uc.cl/planta-academica/profesores-titulares-honorarios/",
+        "title": "Profesor/a titular honorario/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Marcelo Loewe",
+        "profile": "https://fisica.uc.cl/planta-academica/profesores-titulares-honorarios/",
+        "title": "Profesor/a titular honorario/a",
+        "research": "",
+        "homepage": ""
+      }
+    ]
+  },
+  "puc-chile-postEmbed-b67": {
+    "url": "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+    "checkedAt": "2026-11-27",
+    "scope": "与物理学院博士后网页链接的现任 Gallery 共同核对，共 14 个具名公开在列人员。只转录学术姓名、公开学术链接和研究，自述的高能、凝聚态等方向保留。",
+    "entries": [
+      {
+        "name": "Rafael Fernando Bravo Guerraty",
+        "profile": "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral",
+        "research": "High-energy physics, theoretical cosmology and gravitational waves",
+        "homepage": "https://rguerraty.github.io"
+      },
+      {
+        "name": "Daniel Andrés Castillo Castro",
+        "profile": "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral",
+        "research": "Simulaciones de nanomateriales, aplicaciones de IA en física",
+        "homepage": "https://dacastillo.github.io"
+      },
+      {
+        "name": "Bastián Jaime Díaz Sáez",
+        "profile": "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral",
+        "research": "Física de partículas",
+        "homepage": ""
+      },
+      {
+        "name": "Debankita Ghosh",
+        "profile": "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral",
+        "research": "Density Functional Theory (DFT)",
+        "homepage": "https://scholar.google.com/citations?hl=en&user=qR-m8x8AAAAJ"
+      },
+      {
+        "name": "Alexis Rafael Legon Oropeza",
+        "profile": "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral",
+        "research": "Quantum Optics, Open Quantum Systems, and Quantum Control",
+        "homepage": ""
+      },
+      {
+        "name": "Pablo Enmanuel León Torres",
+        "profile": "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral",
+        "research": "Física Teórica de altas energías, Teoría de Cuerdas y Membranas, Gravitación",
+        "homepage": "https://orcid.org/0000-0003-2518-067X"
+      },
+      {
+        "name": "Víctor Rodolfo Manríquez Manríquez",
+        "profile": "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral",
+        "research": "Radiobiología Traslacional / Desarrollo de biomarcadores de radiosensibilidad en organoides mediante bioimagen cuantitativa e inteligencia artificial",
+        "homepage": ""
+      },
+      {
+        "name": "Ricardo Andrés Martínez Von Dossow",
+        "profile": "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral",
+        "research": "Teoría cuántica de campos aplicada a la física de la materia condensada.",
+        "homepage": ""
+      },
+      {
+        "name": "Andreas Mathwieser",
+        "profile": "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral",
+        "research": "Neutral-atom-based quantum computing",
+        "homepage": ""
+      },
+      {
+        "name": "Iván Ignacio Muñoz Sandoval",
+        "profile": "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral",
+        "research": "Altas energías en AdS/CFT",
+        "homepage": ""
+      },
+      {
+        "name": "Cristian Alberto Romanque Albornoz",
+        "profile": "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral",
+        "research": "Física de Materia Condensada Experimental",
+        "homepage": ""
+      },
+      {
+        "name": "Ashish Sehrawat",
+        "profile": "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral",
+        "research": "Experimental High Energy Particle Physics (ATLAS Experiment)",
+        "homepage": ""
+      },
+      {
+        "name": "Diego Andrés Tancara Álvarez",
+        "profile": "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral",
+        "research": "Computación cuántica",
+        "homepage": ""
+      },
+      {
+        "name": "Boris Wareppam",
+        "profile": "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral",
+        "research": "Plasma Physics",
+        "homepage": "https://www.researchgate.net/profile/Boris-Wareppam"
+      }
+    ]
+  },
+  "puc-chile-postArchive-b67": {
+    "url": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+    "checkedAt": "2026-11-27",
+    "scope": "公开历史嵌入档 51 条，地区、邮件、头像等对名册无用的字段未转录。按年份维护历史名单，空或非年份保持缺项。",
+    "entries": [
+      {
+        "name": "Jaime Andrés Clark Pinto",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2023 → 2026",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Miguel Benito Escalona Alvarez",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2023 → 2026",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Felipe Andrés Isaule Rodríguez",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2023 → 2026",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Faustino Wahaia",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2022 → 2026",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Jorge David Castaño Yepes",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2021 → 2025",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Pedro Salvador Urrejola Pereira",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2022 → 2025",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Robert Alastair Wheatley",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2016 → 2025",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Mohan Chandra Mathpal",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2019 → 2024",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Mourad Boutahir",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2020 → 2023",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Andrea Maricel León Sandoval",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2022 → 2023",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Siphephile Ncube",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2022 → 2023",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Giovanna Francesca Cottin Buracchio",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2019 → 2022",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Juan Jesús Díaz Guevara",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2019 → 2022",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Leuman Fernández Izquierdo",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2021 → 2022",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "José Antonio García Merino",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2019 → 2022",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Roberto Milán Villarroel Bolcic",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2019 → 2022",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Francisca Monserrat Garay Walls",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2018 → 2021",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Mohan Raj Subramaniam",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2019 → 2021",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Boris Guido Durán Lagos",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2016 → 2020",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Sebastian Andres Olivares Pino",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2017 → 2020",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Bedrich Roskovec",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2017 → 2020",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Hossein Tavakoli Dinani",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2017 → 2020",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Raúl Coto",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2015 → 2018",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Ivan Alonso Gonzalez Pavez",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2015 → 2018",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Graham Richard Lee",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2017 → 2018",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Victor Alejandro Montenegro Tobar",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2015 → 2018",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Maria Paz Raveau Morales",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2015 → 2018",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Partha Saikia",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2015 → 2018",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Abraham Isaac Solar Pirquilaf",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2015 → 2018",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Julien Armijo Cabrera",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2014 → 2017",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Daniella Fabri Genskowsky",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · – → 2017",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Fernando Alfredo Guzmán Olivos",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2016 → 2017",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Yury Malyshkin",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2014 → 2017",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Pablo Alexander Medina Sánchez",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2017 → 2017",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "David Sebastián René Valenzuela Díaz",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2017 → 2017",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Ever Alberto Velasquez Sierra",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2013 → 2017",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Alberto Tomás Faraggi Ugalde",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2014 → 2016",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Maria Araceli Gago Arias",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2014 → 2016",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Daniel Martín De Blas",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2013 → 2016",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Andreas Rosenkranz",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2015 → 2016",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Hugo Ruiz Araya",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · – → 2016",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Amal Taarabt",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2014 → 2016",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Nicolás Viaux Maira",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2014 → 2016",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Saheed Adekunle Adewinbi",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2023 → –",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Paola Carolina Arias Reyes",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · – → –",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Edson Leonardo Carquín Lopez",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · – → –",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Nathalie Valeska Casanova Morales",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · – → –",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Sebastián Alfonso Michea Mora",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · – → –",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Ciobanu Nellu",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · – → –",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Luis Alfredo Osorio Rojas",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · 2024 → –",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Marcelo Alonso Vogel Gonzalez",
+        "profile": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+        "title": "Investigador/a postdoctoral anterior · – → –",
+        "research": "",
+        "homepage": ""
+      }
+    ]
+  },
+  "puc-chile-astroResearch-b67": {
+    "url": "https://astro.uc.cl/investigacion/",
+    "checkedAt": "2026-11-27",
+    "scope": "现期研究分工名单 16 位。独立聘任公告再证 2026 年 8 月入职的 Escala 和 Garavito。公开对象为星系、观测引力透镜、恒星或数值宇宙学，本组未见目标三方向主聘。",
+    "entries": [
+      {
+        "name": "Claudia Aguilera",
+        "profile": "https://astro.uc.cl/investigacion/",
+        "title": "Academic research roster",
+        "research": "Stellar Structure and Evolution, Stellar Characterization and Abundances, Lithium in the Universe, Planet-Star Connection",
+        "homepage": ""
+      },
+      {
+        "name": "Felipe Barrientos",
+        "profile": "https://astro.uc.cl/investigacion/",
+        "title": "Academic research roster",
+        "research": "Evolution of Galaxies and Clusters of Galaxies; Gravitational Lensing.",
+        "homepage": ""
+      },
+      {
+        "name": "Márcio Catelan",
+        "profile": "https://astro.uc.cl/investigacion/",
+        "title": "Academic research roster",
+        "research": "Stellar Evolution; Globular Clusters; Variable Stars.",
+        "homepage": ""
+      },
+      {
+        "name": "Julio Chanamé",
+        "profile": "https://astro.uc.cl/investigacion/",
+        "title": "Academic research roster",
+        "research": "Stellar Dynamics; Stellar Structure and Evolution; Stellar Populations in the Local Group.",
+        "homepage": ""
+      },
+      {
+        "name": "Alejandro Clocchiatti",
+        "profile": "https://astro.uc.cl/investigacion/",
+        "title": "Academic research roster",
+        "research": "Supernovae; Cosmological Distance Relations.",
+        "homepage": ""
+      },
+      {
+        "name": "Rolando Dünner",
+        "profile": "https://astro.uc.cl/investigacion/",
+        "title": "Academic research roster",
+        "research": "Experimental Astronomy and Instrumentation; Large Scale Structure and Cosmology.",
+        "homepage": ""
+      },
+      {
+        "name": "Ivanna Escala",
+        "profile": "https://astro.uc.cl/investigacion/",
+        "title": "Academic research roster",
+        "research": "Resolved Stellar Populations; Local Group; Galaxy Assembly; Chemical Abundances; Star Formation Histories; Dwarf Galaxies.",
+        "homepage": ""
+      },
+      {
+        "name": "Gaspar Galaz",
+        "profile": "https://astro.uc.cl/investigacion/",
+        "title": "Academic research roster",
+        "research": "Stellar Content in Galaxies; Low Surface Brightness Galaxies; Statistical Properties of the Galaxy Distribution; Galaxy Evolution; Cosmology.",
+        "homepage": ""
+      },
+      {
+        "name": "Nicolas Garavito",
+        "profile": "https://astro.uc.cl/investigacion/",
+        "title": "Academic research roster",
+        "research": "Near Field Cosmology; Galactic Dynamics; Galaxy Simulations; Computational Astrophysics.",
+        "homepage": ""
+      },
+      {
+        "name": "Jorge González-López",
+        "profile": "https://astro.uc.cl/investigacion/",
+        "title": "Academic research roster",
+        "research": "Galaxy Formation and Evolution; Gravitational Lensing and distant Galaxies.",
+        "homepage": ""
+      },
+      {
+        "name": "Viviana Guzmán",
+        "profile": "https://astro.uc.cl/investigacion/",
+        "title": "Academic research roster",
+        "research": "Astrochemistry; Interstellar Medium; Star-Forming Regions; Protoplanetary Disks.",
+        "homepage": ""
+      },
+      {
+        "name": "Leopoldo Infante",
+        "profile": "https://astro.uc.cl/investigacion/",
+        "title": "Academic research roster",
+        "research": "Large Scale Structure, Galaxy Formation and Evolution; Large Surveys.",
+        "homepage": ""
+      },
+      {
+        "name": "Gijs D. Mulders",
+        "profile": "https://astro.uc.cl/investigacion/",
+        "title": "Academic research roster",
+        "research": "Exoplanet Demographics; Planet Formation Models; Protoplanetary Disks.",
+        "homepage": ""
+      },
+      {
+        "name": "Thomas H. Puzia",
+        "profile": "https://astro.uc.cl/investigacion/",
+        "title": "Academic research roster",
+        "research": "Galaxy Formation and Evolution; Star Cluster Systems and Stellar Populations in Galaxies.",
+        "homepage": ""
+      },
+      {
+        "name": "Patricia Tissera",
+        "profile": "https://astro.uc.cl/investigacion/",
+        "title": "Academic research roster",
+        "research": "Computational Astrophysics; Models and Simulations of the Formation of Galaxies.",
+        "homepage": ""
+      },
+      {
+        "name": "Manuela Zoccali",
+        "profile": "https://astro.uc.cl/investigacion/",
+        "title": "Academic research roster",
+        "research": "Galactic Bulge; Stellar Populations; Chemical Abundances; Galactic Globular Clusters; The Initial Mass Function.",
+        "homepage": ""
+      }
+    ]
+  },
+  "puc-chile-astroDirectory-b67": {
+    "url": "https://www3.astro.puc.cl/DUDA",
+    "checkedAt": "2026-11-27",
+    "scope": "Directorio identificado desde el portal central. Tiene 17 personas en Académicos, 14 en Postdocs y 5 en Visitantes. La lista de áreas 16 no incluye Hernán Quintana; su disciplina extragaláctica y cosmología constan en las fuentes del instituto.",
+    "entries": [
+      {
+        "name": "Claudia AGUILERA",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=1",
+        "title": "Académico/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Felipe BARRIENTOS",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=2",
+        "title": "Académico/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Marcio CATELAN",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=4",
+        "title": "Académico/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Julio CHANAME",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=5",
+        "title": "Académico/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Alejandro CLOCCHIATTI",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=6",
+        "title": "Académico/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Rolando DUNNER",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=7",
+        "title": "Académico/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Ivanna ESCALA",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=368",
+        "title": "Académico/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Gaspar GALAZ",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=8",
+        "title": "Académico/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Juan Nicolás GARAVITO",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=369",
+        "title": "Académico/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Jorge GONZÁLEZ",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=237",
+        "title": "Académico/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Viviana GUZMAN",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=9",
+        "title": "Académico/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Leopoldo INFANTE",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=76",
+        "title": "Académico/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Gijs MULDERS",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=278",
+        "title": "Académico/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Thomas PUZIA",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=11",
+        "title": "Académico/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Hernán QUINTANA",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=78",
+        "title": "Académico/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Patricia TISSERA",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=77",
+        "title": "Académico/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Manuela ZOCCALI",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=13",
+        "title": "Académico/a",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Elizabeth ARTUR",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=61",
+        "title": "Postdoctoral researcher",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Catalina CASANUEVA",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=310",
+        "title": "Postdoctoral researcher",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Carolina CHARALAMBOUS",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=140",
+        "title": "Postdoctoral researcher",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Claudia DANTI",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=366",
+        "title": "Postdoctoral researcher",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Felipe GRAN",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=342",
+        "title": "Postdoctoral researcher",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Carlos HERVIAS",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=90",
+        "title": "Postdoctoral researcher",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Ajay KUMAR",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=374",
+        "title": "Postdoctoral researcher",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Maria Luiza LINHARES",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=239",
+        "title": "Postdoctoral researcher",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Arturo LIRA",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=365",
+        "title": "Postdoctoral researcher",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Camila ORDENES",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=319",
+        "title": "Postdoctoral researcher",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Osmar RODRÍGUEZ",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=244",
+        "title": "Postdoctoral researcher",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Saroon SASI",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=373",
+        "title": "Postdoctoral researcher",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Emanuel SILLERO",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=95",
+        "title": "Postdoctoral researcher",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Kseniia TELIKOVA",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=322",
+        "title": "Postdoctoral researcher",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Manuel ARAVENA",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=354",
+        "title": "Visitante",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Luc DESSART",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=349",
+        "title": "Visitante",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Cristóbal MOYA",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=376",
+        "title": "Visitante",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Harshitha MYSORE",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=292",
+        "title": "Visitante",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Scarlett ROYLE",
+        "profile": "https://www3.astro.puc.cl/DUDA/index.php?vista=view_person&idcp=350",
+        "title": "Visitante",
+        "research": "",
         "homepage": ""
       }
     ]

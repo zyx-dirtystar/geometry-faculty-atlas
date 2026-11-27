@@ -913,7 +913,16 @@
     "amal-taarabt": "校学术卡、本人 ORCID 及院方专题与选取的两篇光谱论文署名一致。OpenAlex 九篇 article，作者档 81 次累计；结果还含预印本与不同记录的博士论文。",
     "alvaro-daniel-coronel-soto": "本校具名、副教授及 2026 专题组织身份，与两篇 DOI 及作者名 Daniel Coronel 互证；职业档案和文章分项范围分别记录。同名 Daniel Arruda Coronel 属经济及农业研究。",
     "sebastian-alfonso-ramirez-duarte": "全名检索误落其他院校同名档，用 Nonlinearity 正式 DOI、共同作者和原所在 PUCV 的署名 ORCID 定位；匹配索引一篇、累计 8 引用。",
-    "joachim-asch": "CPT 团队、出版者、本人书目和访问名册可交叉确认。39 个可返回成果中 28 个 article，作者档累计 382。另一个倒序姓名零引档不合并。"
+    "joachim-asch": "CPT 团队、出版者、本人书目和访问名册可交叉确认。39 个可返回成果中 28 个 article，作者档累计 382。另一个倒序姓名零引档不合并。",
+    "giuseppe-de-nittis": "两院具名、本人及 ORCID 及该校两件代表作相符。77 个可读取结果中 46 项文章，作者档累计 748 引用。",
+    "maximo-banados": "从校具名 ORCID 找到作者号，核对恒曲率、BTZ 以及与本校 Faraggi 合著的两代出版记录。88 个可见成果中的 75 项 article，作者档累计 10773。",
+    "rafael-benguria": "学校具名 ORCID、CV、早期谱几何及本校 Dirac 域论文匹配。185 个可见成果中 130 项 article，作者档累计 4250。",
+    "alberto-faraggi": "物理学院 ORCID、Michigan 培养背景和 PUC、UNAB 署名的职业轨迹相符；26 项 article，作者档累计 590。",
+    "edgardo-stockmeyer": "校 ORCID、本人站及其与 Benguria 共同署名正式论文互证。41 个可检查的作品中 34 项 article，作者档累计 601。",
+    "benjamin-koch": "校访学与 TU Wien 成果库、本人期刊书目、2025 与 2026 DOI 相符。本档 63 项 article，累计 2297。另一 OpenAlex 作者 A5009288080 是含医学及儿童体能同名项的不同档。",
+    "pablo-enmanuel-leon-torres": "学校公开表中的 ORCID 与 ANID 具名、两篇超膜和结或环面的原作互证。当前索引 21 项 article，累计 435。",
+    "ivan-ignacio-munoz-sandoval": "具名论文与作者 ORCID 对到物理研究者，OpenAlex 此档另外合并医学和材料同名文章。核对本人公开作品栏三条及各正式 DOI，全部属于同一物理学者。未找到可归属 Scholar 累计，拒绝索引累计 73。",
+    "rafael-fernando-bravo-guerraty": "本人主页直链、PUC 当期博士后和 Research 书目确认身份；Scholar All 为 268 引用。正确 OpenAlex ID 的三条总作品少于作者书目列的正式期刊，依本人可核完整范围按 DOI 取五条。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -10567,6 +10576,261 @@
         "hIndex": 11,
         "articleScope": "OpenAlex type:article，具名作者、成果及代表作 DOI 已交叉核验",
         "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "giuseppe-de-nittis": {
+      "name": "Giuseppe de Nittis",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5009176042",
+      "url": "https://openalex.org/A5009176042",
+      "note": "两院具名、本人及 ORCID 及该校两件代表作相符。77 个可读取结果中 46 项文章，作者档累计 748 引用。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/gidenittis",
+        "https://fisica.uc.cl/academico/giuseppe-de-nittis/",
+        "https://gdenittis.wordpress.com/research/",
+        "https://msp.org/agt/2023/23-7/agt-v23-n7-p01-p.pdf",
+        "https://api.openalex.org/works?filter=author.id:A5009176042&per-page=200&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5009176042,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5009176042",
+        "url": "https://openalex.org/A5009176042",
+        "checkedAt": "2026-11-27",
+        "articles": 46,
+        "works": 80,
+        "articleScope": "OpenAlex type:article，已核作者号、机构与代表作 DOI",
+        "citations": 748,
+        "hIndex": 17,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "maximo-banados": {
+      "name": "Máximo Bañados",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5003225950",
+      "url": "https://openalex.org/A5003225950",
+      "note": "从校具名 ORCID 找到作者号，核对恒曲率、BTZ 以及与本校 Faraggi 合著的两代出版记录。88 个可见成果中的 75 项 article，作者档累计 10773。",
+      "identitySources": [
+        "https://fisica.uc.cl/academico/maximo-banados/",
+        "https://fisica.uc.cl/2025/09/12/rafael-benguria-y-maximo-banados-son-distinguidos-por-su-trayectoria-en-la-uc/",
+        "https://journals.aps.org/prd/abstract/10.1103/PhysRevD.57.1068",
+        "https://doi.org/10.1103/PhysRevD.48.1506",
+        "https://airtable.com/embed/shr1a76FIMf3aRvYU?backgroundColor=cyanLight&viewControls=on",
+        "https://api.openalex.org/works?filter=author.id:A5003225950&per-page=200&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5003225950,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5003225950",
+        "url": "https://openalex.org/A5003225950",
+        "checkedAt": "2026-11-27",
+        "articles": 75,
+        "works": 109,
+        "articleScope": "OpenAlex type:article，已核作者号、机构与代表作 DOI",
+        "citations": 10773,
+        "hIndex": 36,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "rafael-benguria": {
+      "name": "Rafael Benguria",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5040589882",
+      "url": "https://openalex.org/A5040589882",
+      "note": "学校具名 ORCID、CV、早期谱几何及本校 Dirac 域论文匹配。185 个可见成果中 130 项 article，作者档累计 4250。",
+      "identitySources": [
+        "https://fisica.uc.cl/planta-academica/profesores-emeritos/",
+        "https://fisica.uc.cl/academico/rafael-benguria-3/",
+        "https://www.fis.uc.cl/~rbenguri/vita.html",
+        "https://www.fis.uc.cl/~rbenguri/pubs-rb.htm",
+        "https://fisica.uc.cl/2025/09/12/rafael-benguria-y-maximo-banados-son-distinguidos-por-su-trayectoria-en-la-uc/",
+        "https://api.openalex.org/works?filter=author.id:A5040589882&per-page=200&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5040589882,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5040589882",
+        "url": "https://openalex.org/A5040589882",
+        "checkedAt": "2026-11-27",
+        "articles": 130,
+        "works": 217,
+        "articleScope": "OpenAlex type:article，已核作者号、机构与代表作 DOI",
+        "citations": 4250,
+        "hIndex": 34,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "alberto-faraggi": {
+      "name": "Alberto Faraggi",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5062297551",
+      "url": "https://openalex.org/A5062297551",
+      "note": "物理学院 ORCID、Michigan 培养背景和 PUC、UNAB 署名的职业轨迹相符；26 项 article，作者档累计 590。",
+      "identitySources": [
+        "https://fisica.uc.cl/academico/alberto-faraggi/",
+        "https://fisica.uc.cl/2026/08/18/que-tienen-en-comun-los-agujeros-negros-las-cuerdas-y-los-hologramas/",
+        "https://bv.fapesp.br/pt/pesquisador/171243/alberto-tomas-faraggi-ugalde/",
+        "https://airtable.com/embed/app1mjNJt2D7O9koT/shrrweDtX86UUVtzI?backgroundColor=cyanLight&viewControls=on",
+        "https://api.openalex.org/works?filter=author.id:A5062297551&per-page=200&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5062297551,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5062297551",
+        "url": "https://openalex.org/A5062297551",
+        "checkedAt": "2026-11-27",
+        "articles": 26,
+        "works": 31,
+        "articleScope": "OpenAlex type:article，已核作者号、机构与代表作 DOI",
+        "citations": 590,
+        "hIndex": 12,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "edgardo-stockmeyer": {
+      "name": "Edgardo Stockmeyer",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5042819233",
+      "url": "https://openalex.org/A5042819233",
+      "note": "校 ORCID、本人站及其与 Benguria 共同署名正式论文互证。41 个可检查的作品中 34 项 article，作者档累计 601。",
+      "identitySources": [
+        "https://fisica.uc.cl/academico/edgardo-stockmeyer/",
+        "https://www.fis.uc.cl/~stock/",
+        "https://www.fis.uc.cl/~stock/papers.html",
+        "https://api.openalex.org/works?filter=author.id:A5042819233&per-page=200&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5042819233,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5042819233",
+        "url": "https://openalex.org/A5042819233",
+        "checkedAt": "2026-11-27",
+        "articles": 34,
+        "works": 50,
+        "articleScope": "OpenAlex type:article，已核作者号、机构与代表作 DOI",
+        "citations": 601,
+        "hIndex": 14,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "benjamin-koch": {
+      "name": "Benjamín Koch",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5088539495",
+      "url": "https://openalex.org/A5088539495",
+      "note": "校访学与 TU Wien 成果库、本人期刊书目、2025 与 2026 DOI 相符。本档 63 项 article，累计 2297。另一 OpenAlex 作者 A5009288080 是含医学及儿童体能同名项的不同档。",
+      "identitySources": [
+        "https://fisica.uc.cl/planta-academica/profesores-visitantes/",
+        "https://www.tuwien.at/en/phy/itp/research/fundamental-interactions/gravitation",
+        "https://repositum.tuwien.at/cris/rp/rp82104",
+        "https://journals.aps.org/prd/cited-by/10.1103/w1sd-v69d",
+        "https://www.fis.uc.cl/~bkoch/Dokumente/publications23.pdf",
+        "https://api.openalex.org/works?filter=author.id:A5088539495&per-page=200&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5088539495,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5088539495",
+        "url": "https://openalex.org/A5088539495",
+        "checkedAt": "2026-11-27",
+        "articles": 63,
+        "works": 92,
+        "articleScope": "OpenAlex type:article，已核作者号、机构与代表作 DOI",
+        "citations": 2297,
+        "hIndex": 24,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      },
+      "alternatives": [
+        "https://openalex.org/A5009288080"
+      ]
+    },
+    "pablo-enmanuel-leon-torres": {
+      "name": "Pablo Enmanuel León Torres",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5019491607",
+      "url": "https://openalex.org/A5019491607",
+      "note": "学校公开表中的 ORCID 与 ANID 具名、两篇超膜和结或环面的原作互证。当前索引 21 项 article，累计 435。",
+      "identitySources": [
+        "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+        "https://investigadores.anid.cl/es/public_search/researcher?id=43628",
+        "https://orcid.org/0000-0003-2518-067X",
+        "https://doi.org/10.1007/jhep10(2021)212",
+        "https://api.openalex.org/works?filter=author.id:A5019491607&per-page=100&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5019491607,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5019491607",
+        "url": "https://openalex.org/A5019491607",
+        "checkedAt": "2026-11-27",
+        "articles": 21,
+        "works": 23,
+        "articleScope": "OpenAlex type:article，已核作者号、机构与代表作 DOI",
+        "citations": 435,
+        "hIndex": 11,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "ivan-ignacio-munoz-sandoval": {
+      "name": "Iván Ignacio Muñoz Sandoval",
+      "status": "held",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5071596191",
+      "url": "https://openalex.org/A5071596191",
+      "note": "具名论文与作者 ORCID 对到物理研究者，OpenAlex 此档另外合并医学和材料同名文章。核对本人公开作品栏三条及各正式 DOI，全部属于同一物理学者。未找到可归属 Scholar 累计，拒绝索引累计 73。",
+      "identitySources": [
+        "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+        "https://repositorio.udec.cl/server/api/core/bitstreams/e382a51e-a7d2-4f1e-82ab-a5291a84a920/content",
+        "https://journals.aps.org/prd/pdf/10.1103/PhysRevD.107.L021901",
+        "https://cl.linkedin.com/in/ivan-munoz-sandoval-285a19163",
+        "https://api.openalex.org/works/https://doi.org/10.1103/PhysRevD.107.L021901",
+        "https://api.openalex.org/works?filter=author.id:A5071596191&per-page=100&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5071596191,type:article&per-page=1"
+      ],
+      "fallbackPublicationCount": {
+        "value": 3,
+        "url": "https://cl.linkedin.com/in/ivan-munoz-sandoval-285a19163",
+        "checkedAt": "2026-11-27",
+        "scope": "作者本人公开 Publications 栏 2015–2025，可见完整三条期刊论文，逐篇按正式 DOI 去重；仅覆盖该来源。"
+      }
+    },
+    "rafael-fernando-bravo-guerraty": {
+      "name": "Rafael Fernando Bravo Guerraty",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "SCurOT4AAAAJ",
+      "url": "https://scholar.google.cl/citations?user=SCurOT4AAAAJ&hl=en",
+      "note": "本人主页直链、PUC 当期博士后和 Research 书目确认身份；Scholar All 为 268 引用。正确 OpenAlex ID 的三条总作品少于作者书目列的正式期刊，依本人可核完整范围按 DOI 取五条。",
+      "identitySources": [
+        "https://rguerraty.github.io/",
+        "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+        "https://rguerraty.github.io/myresearch/",
+        "https://scholar.google.cl/citations?user=SCurOT4AAAAJ&hl=en",
+        "https://api.openalex.org/authors?filter=orcid:0000-0003-1598-9061",
+        "https://api.openalex.org/works/https://doi.org/10.1103/PhysRevD.107.043524"
+      ],
+      "scholarSnapshot": {
+        "source": "Google Scholar",
+        "authorId": "SCurOT4AAAAJ",
+        "url": "https://scholar.google.cl/citations?user=SCurOT4AAAAJ&hl=en",
+        "checkedAt": "2026-11-27",
+        "citations": 268,
+        "hIndex": 5,
+        "citationScope": "本人主页直链 Scholar All 栏"
+      },
+      "fallbackPublicationCount": {
+        "value": 5,
+        "url": "https://rguerraty.github.io/myresearch/",
+        "checkedAt": "2026-11-27",
+        "scope": "本人 Research 完整可见 Publications 列表共六条，限 2016–2023 有正式 DOI 的五篇期刊成果，DOI 去重。一条在列表只有预印本。"
       }
     }
   }

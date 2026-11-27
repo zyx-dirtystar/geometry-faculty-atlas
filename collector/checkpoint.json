@@ -12182,6 +12182,26 @@
       "note": "六个具名组员。对照其数论、组合、代数与微分几何分工。"
     },
     {
+      "id": "puc-chile-astroDirectory-b67",
+      "school": "puc-chile",
+      "url": "https://www3.astro.puc.cl/DUDA",
+      "label": "Instituto de Astrofísica · directorio por rol",
+      "status": "reference",
+      "count": 36,
+      "checked_at": "2026-11-27",
+      "note": "Directorio identificado desde el portal central. Tiene 17 personas en Académicos, 14 en Postdocs y 5 en Visitantes. La lista de áreas 16 no incluye Hernán Quintana; su disciplina extragaláctica y cosmología constan en las fuentes del instituto."
+    },
+    {
+      "id": "puc-chile-astroResearch-b67",
+      "school": "puc-chile",
+      "url": "https://astro.uc.cl/investigacion/",
+      "label": "Instituto de Astrofísica · áreas y 16 profesores",
+      "status": "reference",
+      "count": 16,
+      "checked_at": "2026-11-27",
+      "note": "现期研究分工名单 16 位。独立聘任公告再证 2026 年 8 月入职的 Escala 和 Garavito。公开对象为星系、观测引力透镜、恒星或数值宇宙学，本组未见目标三方向主聘。"
+    },
+    {
       "id": "puc-chile-cmiA-b65",
       "school": "puc-chile",
       "url": "https://imc.uc.cl/",
@@ -12272,14 +12292,64 @@
       "note": "共同主办的六位组织者有三位明确 PUC 任职，即 Gaspar、Kamburov、Sáez。日期与本人及校方具名资料交叉。"
     },
     {
+      "id": "puc-chile-phyHigh-b67",
+      "school": "puc-chile",
+      "url": "https://fisica.uc.cl/investigacion/areas-de-investigacion/fisica-de-altas-energias/",
+      "label": "Instituto de Física · Física de Altas Energías · 7",
+      "status": "reference",
+      "count": 7,
+      "checked_at": "2026-11-27",
+      "note": "官网具名高能组。当前研究方向包括非交换空间、广义相对论、黑洞和实验粒子物理，结合具名论文作边界判断。"
+    },
+    {
+      "id": "puc-chile-phyMath-b67",
+      "school": "puc-chile",
+      "url": "https://fisica.uc.cl/investigacion/areas-de-investigacion/fisica-matematica/",
+      "label": "Instituto de Física · Física Matemática · 5",
+      "status": "reference",
+      "count": 5,
+      "checked_at": "2026-11-27",
+      "note": "官网分组脚本调用的数学物理主题与具名个人档交叉。"
+    },
+    {
       "id": "puc-chile-phyfac-b65",
       "school": "puc-chile",
       "url": "https://fisica.uc.cl/planta-academica/cuerpo-docente/",
-      "label": "Instituto de Física · Cuerpo Académico",
+      "label": "Instituto de Física · Cuerpo Académico · 41",
       "status": "reference",
-      "count": 0,
+      "count": 41,
       "checked_at": "2026-11-27",
-      "note": "已读物理、天文当前院系的角色入口。物理学具名教师、荣休、访学及博士后继续逐项核对。"
+      "note": "以学校网页公开分页请求的西语 language=21 参数读取 41 个具名正、副、助理教授。原宽查询混含同人的 37 个英语镜像。五人具名数学物理、七人具名高能，目标几何内容再用个人卡和发表核对。"
+    },
+    {
+      "id": "puc-chile-phyret-b67",
+      "school": "puc-chile",
+      "url": "https://fisica.uc.cl/planta-academica/profesores-emeritos/",
+      "label": "Instituto de Física · Eméritos",
+      "status": "reference",
+      "count": 3,
+      "checked_at": "2026-11-27",
+      "note": "公开具名角色分栏，区分现任常规教职、访问、荣休及荣誉，Benguria 在两个荣誉表为同一人。"
+    },
+    {
+      "id": "puc-chile-physHon-b67",
+      "school": "puc-chile",
+      "url": "https://fisica.uc.cl/planta-academica/profesores-titulares-honorarios/",
+      "label": "Instituto de Física · Titulares Honorarios",
+      "status": "reference",
+      "count": 5,
+      "checked_at": "2026-11-27",
+      "note": "公开具名角色分栏，区分现任常规教职、访问、荣休及荣誉，Benguria 在两个荣誉表为同一人。"
+    },
+    {
+      "id": "puc-chile-phyvis-b67",
+      "school": "puc-chile",
+      "url": "https://fisica.uc.cl/planta-academica/profesores-visitantes/",
+      "label": "Instituto de Física · Visitantes",
+      "status": "reference",
+      "count": 5,
+      "checked_at": "2026-11-27",
+      "note": "公开具名角色分栏，区分现任常规教职、访问、荣休及荣誉，Benguria 在两个荣誉表为同一人。"
     },
     {
       "id": "puc-chile-post-b65",
@@ -12290,6 +12360,26 @@
       "count": 5,
       "checked_at": "2026-11-27",
       "note": "可读当前五位博士后，具名导师和本人研究入口。另查有日期基金及历史项目分栏。"
+    },
+    {
+      "id": "puc-chile-postArchive-b67",
+      "school": "puc-chile",
+      "url": "https://airtable.com/embed/shrkwVCKbmKXeUujz?backgroundColor=teal&viewControls=on",
+      "label": "Instituto de Física · Postdoctorados años anteriores · 51",
+      "status": "reference",
+      "count": 51,
+      "checked_at": "2026-11-27",
+      "note": "公开历史嵌入档 51 条，地区、邮件、头像等对名册无用的字段未转录。按年份维护历史名单，空或非年份保持缺项。"
+    },
+    {
+      "id": "puc-chile-postEmbed-b67",
+      "school": "puc-chile",
+      "url": "https://airtable.com/embed/shrMudkXTD2aeRguz?backgroundColor=teal&viewControls=on",
+      "label": "Instituto de Física · Postdoctorados actuales · 14",
+      "status": "reference",
+      "count": 14,
+      "checked_at": "2026-11-27",
+      "note": "与物理学院博士后网页链接的现任 Gallery 共同核对，共 14 个具名公开在列人员。只转录学术姓名、公开学术链接和研究，自述的高能、凝聚态等方向保留。"
     },
     {
       "id": "puc-chile-srdThesis-b66",
