@@ -9455,7 +9455,7 @@
     {
       "id": "puc-chile",
       "coverage": "sample",
-      "coverageNote": "已解析 1/12 个登记来源，21 条任职或方向待核。 已收录 13 位学者，个人主页 13、CV 6、指标 10。 本期数学系 51 位全职，校全学院 88 位（另含统计），兼职 25，博士后 5，两组几何各六和 PDE 七位。核对公开个人档、本人 CV、具名聘任和论文署名，订正 Petrache 与 Kamburov 职级，补录微分、复和代数几何研究。Jesse Huang 的 OpenAlex 医学混档、Bustamante 的数学与社会学混档及 Chuaqui 拆档，分别以本人书目计数。查物理、数学工程和 MiDaS 当期入口，并定位访问名单 49 页。短访、数学工程与物理有关的跨聘、兼职及博士后个档仍待继续对账。",
+      "coverageNote": "已解析 1/15 个登记来源，0 条任职或方向待核。 已收录 14 位学者，个人主页 14、CV 7、指标 11。 数学系全职 51（全院 88），兼职 25，公开在列博士后 5，几何与算术代数组各六、PDE 七。已核全部现有数学教师方向待核记录。Prieto 本人 CV、2026 基金及 DOI 确认 K3 与超凯勒几何。校访问档共 49 页、980 条记录，2 条当期、3 条未来、19 条历史日期颠倒。José Perez 可核日期及外校，无法从院系、讲座和作者索引确定同人档。Petrache、Kamburov 职级订正；Huang 医学混档、Bustamante 社会学混档及 Chuaqui 同人拆档分别取公开本人书目。Sebastián Ramírez Duarte 的当前公开博士后卡与研究成果相符；Till Hauser 在列且公开来访期截至 2026-10-01，尚需检查独立续聘档。公开物理、工程及 MiDaS 入口已定位，跨系与部分兼职条目继续核。",
       "rosterLinks": [
         [
           "Facultad de Matemáticas · Geometría",
@@ -9476,6 +9476,14 @@
         [
           "数学系或所属学院人员入口",
           "https://www.mat.uc.cl/personas/profes/matematica"
+        ],
+        [
+          "Matemáticas UC · Fondecyt 2026",
+          "https://www.mat.uc.cl/noticias/2026-01-26/facultad-de-matematicas-uc-encabeza-adjudicaciones-de-proyectos-matematicos-seleccionados-por-fondecyt-regular-2026.html"
+        ],
+        [
+          "Matemáticas UC · visitantes con estancia vigente",
+          "https://www.mat.uc.cl/personas/visitas?page=42"
         ],
         [
           "MiDaS Millenium Nucleus · public team",
@@ -9502,7 +9510,11 @@
           "https://www.mat.uc.cl/personas/postdoc"
         ],
         [
-          "Matemáticas UC · profesores visitantes",
+          "PUCV · doctoral archive for Sebastián Ramírez Duarte",
+          "https://ima.ucv.cl/event/examen-de-grado-de-doctor-en-matematica-en-consorcio-pucv-utfsm-uv-sr-sebastian-ramirez-duarte/"
+        ],
+        [
+          "Matemáticas UC · visitantes · 49 páginas",
           "https://www.mat.uc.cl/personas/visitas"
         ]
       ],
@@ -54110,6 +54122,81 @@
         {
           "text": "Arithmetic algebraic geometry of modular curves, Hecke correspondences, CM points and non-Archimedean heights",
           "url": "https://www.mat.uc.cl/~rmenares/Research.html"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "yulieth-k-prieto-montanez",
+      "name": "Yulieth K. Prieto Montañez",
+      "aliases": [
+        "Yulieth Prieto Montañez",
+        "Yulieth Prieto-M"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "puc-chile",
+          "department": "Departamento de Matemática · Facultad de Matemáticas",
+          "title": "Profesora Asistente",
+          "url": "https://www.mat.uc.cl/personas/perfil/yulieth.prieto",
+          "type": "primary",
+          "checkedAt": "2026-11-27"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://yulieth-prieto.github.io/index.html",
+      "homepageStatus": null,
+      "cvUrl": "https://yulieth-prieto.github.io/cv.html",
+      "cvType": "公开 HTML CV（简版）",
+      "cvStatus": null,
+      "publicationsUrl": "https://yulieth-prieto.github.io/research.html",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "学校具名和本人短 CV 与 K3、Hyperkähler 的 2024 和 2026 正式期刊、OpenAlex ORCID 互证。可见七篇 article、作者档案累计引用 37。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5037351292",
+          "url": "https://openalex.org/A5037351292",
+          "checkedAt": "2026-11-27",
+          "articles": 7,
+          "works": 8,
+          "citations": 37,
+          "hIndex": 3,
+          "articleScope": "OpenAlex type:article，具名作者、成果及代表作 DOI 已交叉核验",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On Symplectic Birational Self-Maps of Projective Hyperkähler Manifolds of K3[n]-Type",
+          "year": 2024,
+          "url": "https://doi.org/10.1093/imrn/rnae112",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Generalized Shioda–Inose structures of order 3",
+          "year": 2024,
+          "url": "https://doi.org/10.1515/advgeom-2024-0005",
+          "type": "期刊论文"
+        },
+        {
+          "title": "On hyperkähler manifolds of K3[n]-type with large Picard number",
+          "year": 2026,
+          "url": "https://doi.org/10.1016/j.jpaa.2026.108267",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex and algebraic geometry of K3 surfaces, hyperkähler manifolds, Fano varieties, and derived categories",
+          "url": "https://yulieth-prieto.github.io/research.html"
         }
       ],
       "checkedAt": "2026-11-27",

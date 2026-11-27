@@ -908,7 +908,12 @@
     "martin-skandar-chuaqui-farru": "主档 70 条 article 和 876 引用，部分历史无 DOI、重复预印本、同作者 Farrú 分档。按作者年代全书目取 63 项正式期刊。未核实能归属该学者的公共 Scholar。",
     "giancarlo-urzua": "现任姓名变化与完整 CV 的作者、合著及题录一致。作者档 44 成果，41 项可见、32 条文章，累计 473。",
     "anibal-patricio-velozo-ruiz": "负曲率与测地流期刊、学校职位和主档 ORCID 一致。另一个同人档只有数学物理预印本，单列且不并入累计。",
-    "benjamin-pablo-palacios-farias": "ORCID、本人 CV 和逆问题正式期刊，与本校同作者匹配。另同名 USACH 作者未并入。14 篇 article，120 次档案累计。"
+    "benjamin-pablo-palacios-farias": "ORCID、本人 CV 和逆问题正式期刊，与本校同作者匹配。另同名 USACH 作者未并入。14 篇 article，120 次档案累计。",
+    "yulieth-k-prieto-montanez": "学校具名和本人短 CV 与 K3、Hyperkähler 的 2024 和 2026 正式期刊、OpenAlex ORCID 互证。可见七篇 article、作者档案累计引用 37。",
+    "amal-taarabt": "校学术卡、本人 ORCID 及院方专题与选取的两篇光谱论文署名一致。OpenAlex 九篇 article，作者档 81 次累计；结果还含预印本与不同记录的博士论文。",
+    "alvaro-daniel-coronel-soto": "本校具名、副教授及 2026 专题组织身份，与两篇 DOI 及作者名 Daniel Coronel 互证；职业档案和文章分项范围分别记录。同名 Daniel Arruda Coronel 属经济及农业研究。",
+    "sebastian-alfonso-ramirez-duarte": "全名检索误落其他院校同名档，用 Nonlinearity 正式 DOI、共同作者和原所在 PUCV 的署名 ORCID 定位；匹配索引一篇、累计 8 引用。",
+    "joachim-asch": "CPT 团队、出版者、本人书目和访问名册可交叉确认。39 个可返回成果中 28 个 article，作者档累计 382。另一个倒序姓名零引档不合并。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -10423,6 +10428,146 @@
       "alternatives": [
         "https://openalex.org/A5053100392"
       ]
+    },
+    "yulieth-k-prieto-montanez": {
+      "name": "Yulieth K. Prieto Montañez",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5037351292",
+      "url": "https://openalex.org/A5037351292",
+      "note": "学校具名和本人短 CV 与 K3、Hyperkähler 的 2024 和 2026 正式期刊、OpenAlex ORCID 互证。可见七篇 article、作者档案累计引用 37。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/yulieth.prieto",
+        "https://yulieth-prieto.github.io/cv.html",
+        "https://yulieth-prieto.github.io/research.html",
+        "https://pub.orcid.org/v3.0/0000-0002-9210-7520/record",
+        "https://api.openalex.org/works?filter=author.id:A5037351292&per-page=40&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5037351292,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5037351292",
+        "url": "https://openalex.org/A5037351292",
+        "checkedAt": "2026-11-27",
+        "articles": 7,
+        "works": 8,
+        "citations": 37,
+        "hIndex": 3,
+        "articleScope": "OpenAlex type:article，具名作者、成果及代表作 DOI 已交叉核验",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "amal-taarabt": {
+      "name": "Amal Taarabt",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5079804431",
+      "url": "https://openalex.org/A5079804431",
+      "note": "校学术卡、本人 ORCID 及院方专题与选取的两篇光谱论文署名一致。OpenAlex 九篇 article，作者档 81 次累计；结果还含预印本与不同记录的博士论文。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/amtaarabt",
+        "https://orcid.org/0000-0002-7339-4827",
+        "https://investigacion.uc.cl/wp-content/uploads/2021/11/Mujeres-y-ciencia.-Cientifica-C2030.pdf",
+        "https://www.mat.uc.cl/fisica-matematica.html?lang=en",
+        "https://api.openalex.org/works?filter=author.id:A5079804431&per-page=100&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5079804431,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5079804431",
+        "url": "https://openalex.org/A5079804431",
+        "checkedAt": "2026-11-27",
+        "articles": 9,
+        "works": 20,
+        "citations": 81,
+        "hIndex": 5,
+        "articleScope": "OpenAlex type:article，具名作者、成果及代表作 DOI 已交叉核验",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "alvaro-daniel-coronel-soto": {
+      "name": "Álvaro Daniel Coronel Soto",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5086419343",
+      "url": "https://openalex.org/A5086419343",
+      "note": "本校具名、副教授及 2026 专题组织身份，与两篇 DOI 及作者名 Daniel Coronel 互证；职业档案和文章分项范围分别记录。同名 Daniel Arruda Coronel 属经济及农业研究。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/acoronel",
+        "https://www.mat.uc.cl/~acoronel/",
+        "https://somachi2026.mat.uc.cl/",
+        "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E47F6929C07CC7E6ECC24E5A7AAE084E/S0143385722001134a.pdf/model_sets_with_euclidean_internal_space.pdf",
+        "https://api.openalex.org/works?filter=author.id:A5086419343&per-page=100&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5086419343,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5086419343",
+        "url": "https://openalex.org/A5086419343",
+        "checkedAt": "2026-11-27",
+        "articles": 14,
+        "works": 23,
+        "citations": 174,
+        "hIndex": 8,
+        "articleScope": "OpenAlex type:article，具名作者、成果及代表作 DOI 已交叉核验",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "sebastian-alfonso-ramirez-duarte": {
+      "name": "Sebastián Alfonso Ramírez Duarte",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5076049130",
+      "url": "https://openalex.org/A5076049130",
+      "note": "全名检索误落其他院校同名档，用 Nonlinearity 正式 DOI、共同作者和原所在 PUCV 的署名 ORCID 定位；匹配索引一篇、累计 8 引用。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/postdoc/sramired",
+        "https://ima.ucv.cl/event/examen-de-grado-de-doctor-en-matematica-en-consorcio-pucv-utfsm-uv-sr-sebastian-ramirez-duarte/",
+        "https://comca2023.ucn.cl/wp-content/uploads/2023/08/CONFERENCIASCOMCA.pdf",
+        "https://orcid.org/0000-0001-5075-4220",
+        "https://api.openalex.org/works/https://doi.org/10.1088/1361-6544/ac1f79",
+        "https://api.openalex.org/works?filter=author.id:A5076049130&per-page=50&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5076049130,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5076049130",
+        "url": "https://openalex.org/A5076049130",
+        "checkedAt": "2026-11-27",
+        "articles": 1,
+        "works": 1,
+        "citations": 8,
+        "hIndex": 1,
+        "articleScope": "OpenAlex type:article，具名作者、成果及代表作 DOI 已交叉核验",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "joachim-asch": {
+      "name": "Joachim Asch",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5020484236",
+      "url": "https://openalex.org/A5020484236",
+      "note": "CPT 团队、出版者、本人书目和访问名册可交叉确认。39 个可返回成果中 28 个 article，作者档累计 382。另一个倒序姓名零引档不合并。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/visitas?page=42",
+        "https://www.cpt.univ-mrs.fr/en/research/teams/5/34/",
+        "https://www.cpt.univ-mrs.fr/~asch/Research/publications.html",
+        "https://api.openalex.org/works?filter=author.id:A5020484236&per-page=100&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5020484236,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5020484236",
+        "url": "https://openalex.org/A5020484236",
+        "checkedAt": "2026-11-27",
+        "articles": 28,
+        "works": 47,
+        "citations": 382,
+        "hIndex": 11,
+        "articleScope": "OpenAlex type:article，具名作者、成果及代表作 DOI 已交叉核验",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     }
   }
 }

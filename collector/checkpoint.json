@@ -12212,6 +12212,26 @@
       "note": "当前数学系全职分栏 51 张具名卡；官方个人页提供职级、学位，研究方向缺项由具名书目和其他官网逐人核。"
     },
     {
+      "id": "puc-chile-mathproj26-b66",
+      "school": "puc-chile",
+      "url": "https://www.mat.uc.cl/noticias/2026-01-26/facultad-de-matematicas-uc-encabeza-adjudicaciones-de-proyectos-matematicos-seleccionados-por-fondecyt-regular-2026.html",
+      "label": "Matemáticas UC · Fondecyt 2026",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-27",
+      "note": "院方公开基金项目及本人简历确认 Yulieth Prieto 本期超凯勒几何项目；院系职级由具名个人档确认。"
+    },
+    {
+      "id": "puc-chile-mathvisit-42-b66",
+      "school": "puc-chile",
+      "url": "https://www.mat.uc.cl/personas/visitas?page=42",
+      "label": "Matemáticas UC · visitantes con estancia vigente",
+      "status": "reference",
+      "count": 2,
+      "checked_at": "2026-11-27",
+      "note": "在全部 49 页名册中，公示起止覆盖核查日的两条记录均在第 42 页。暂未把 ETH 姓名近似档的方向并入。"
+    },
+    {
       "id": "puc-chile-midas-b65",
       "school": "puc-chile",
       "url": "https://midas.mat.uc.cl/team/team.html",
@@ -12272,14 +12292,24 @@
       "note": "可读当前五位博士后，具名导师和本人研究入口。另查有日期基金及历史项目分栏。"
     },
     {
+      "id": "puc-chile-srdThesis-b66",
+      "school": "puc-chile",
+      "url": "https://ima.ucv.cl/event/examen-de-grado-de-doctor-en-matematica-en-consorcio-pucv-utfsm-uv-sr-sebastian-ramirez-duarte/",
+      "label": "PUCV · doctoral archive for Sebastián Ramírez Duarte",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-27",
+      "note": "正式存档的全名博士学位事件，结合原导师档及 COMCA 研究摘要识别当前 PUC 博士后。主聘与博士后角色分别保留。"
+    },
+    {
       "id": "puc-chile-visits-b65",
       "school": "puc-chile",
       "url": "https://www.mat.uc.cl/personas/visitas",
-      "label": "Matemáticas UC · profesores visitantes",
+      "label": "Matemáticas UC · visitantes · 49 páginas",
       "status": "reference",
-      "count": 0,
+      "count": 19,
       "checked_at": "2026-11-27",
-      "note": "可读官方 49 页部分历史数据。已定位当前前页、第二至第五页和末页，相关几何访问任职与论文待继续按日期复核。"
+      "note": "逐页读 49 页共 980 条，姓名与起止日期完全相同者合并有 977 条。原始 19 条起晚于止，均为历史记录，未改写。按原始记录截止 2026-11-27 有两位现期外校访客、三项 2027 年待访、956 条已结束。此处录入当期、近期几何样本与博后日期冲突项。访问身份不归入全职。"
     },
     {
       "id": "punjab-27-math",
