@@ -8839,15 +8839,63 @@
     {
       "id": "tec-monterrey",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，0 条任职或方向待核。 已收录 1 位学者，个人主页 1、CV 0、指标 0。 已检查校级 VIVO 的工程与科学学院 Professor 分栏和个人科研页，核实 Campus Monterrey 学者。其他城市的校区与学院分组仍待对账。",
+      "coverageNote": "已解析 1/14 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 1、CV 1、指标 1。 已从 TEC VIVO 读工程与科学学院全机构索引的 384 位教师和 491 位研究人员，按 875 个个人 URL 去重保留。已核数学、应用数学和理论物理的学科分栏，精确检索三类几何；索引有交叉课名和工程同词。蒙特雷校区 Alanís-López 与 Ucan-Puc 核实任职和专长。前者公开 CV 与本人书目提供 7 篇期刊口径，OpenAlex 混有同名作者。后者的 4 个 OpenAlex 期刊 DOI 已核实，累计引用涉及本人二档拆分。具名对照 Querétaro 的 Mendoza Martínez、Ciudad de México 的 Montalvo Urquizo，以及科学系、几何拓扑课程及量子态几何交叉。其他校区与学院人员、研究组织及历史分类仍在逐项对账。",
       "rosterLinks": [
         [
           "Escuela de Ingeniería y Ciencias · Profesores",
           "https://tec.mx/es/profesores/eic"
         ],
         [
+          "Sociedad Matemática Mexicana · 2026 congress invited presentation",
+          "https://www.smm.org.mx/files/congresos/2026/CongresoTlaxcala2026_v3.pdf"
+        ],
+        [
+          "TEC VIVO · Use of Geometry and Topology for Data Science",
+          "https://research.tec.mx/vivo-tec/display/Course_176"
+        ],
+        [
+          "Lilia Alanís-López · public academic curriculum vitae",
+          "https://sites.google.com/tec.mx/liliaalanislopez/curriculum-vitae"
+        ],
+        [
+          "TEC VIVO · Applied Mathematics",
+          "https://research.tec.mx/vivo-tec/display/CIPC_270301"
+        ],
+        [
           "数学系或所属学院人员入口",
           "https://tec.mx/es/profesores"
+        ],
+        [
+          "TEC VIVO · Mathematics, General",
+          "https://research.tec.mx/vivo-tec/display/CIPC_270101"
+        ],
+        [
+          "TEC VIVO · Theoretical Physics and Mathematics",
+          "https://research.tec.mx/vivo-tec/display/CIPC_400810"
+        ],
+        [
+          "TEC VIVO · Complex geometry personnel search",
+          "https://research.tec.mx/vivo-tec/search?querytext=complex%20geometry&classgroup=http%3A%2F%2Fvivoweb.org%2Fontology%23vitroClassGrouppeople"
+        ],
+        [
+          "TEC VIVO · Algebraic geometry personnel search",
+          "https://research.tec.mx/vivo-tec/search?querytext=algebraic%20geometry&classgroup=http%3A%2F%2Fvivoweb.org%2Fontology%23vitroClassGrouppeople"
+        ],
+        [
+          "TEC VIVO · Differential geometry personnel search",
+          "https://research.tec.mx/vivo-tec/search?querytext=differential%20geometry&classgroup=http%3A%2F%2Fvivoweb.org%2Fontology%23vitroClassGrouppeople"
+        ],
+        [
+          "TEC · Full-time mathematics faculty recruitment 2026",
+          "https://www.mathjobs.org/jobs/3757/PTCMATHS"
+        ],
+        [
+          "TEC VIVO · School of Engineering and Sciences full public roster",
+          "https://research.tec.mx/vivo-tec/display/School_EIC"
+        ],
+        [
+          "UNAM · Alejandro Ucan-Puc complex geometry and doctoral identity",
+          "https://www.matem.unam.mx/acerca-de/ingresos-y-visitantes/manuel-alejandro-ucan-puc-2021"
         ]
       ],
       "checkedAt": "2026-11-24"
@@ -63013,42 +63061,137 @@
     {
       "id": "lilia-alanis-lopez",
       "name": "Lilia Alanís-López",
-      "aliases": [],
+      "aliases": [
+        "Lilia Alanís López",
+        "Lilia Alanis-Lopez"
+      ],
       "affiliations": [
         {
           "schoolId": "tec-monterrey",
           "department": "School of Engineering and Sciences · Campus Monterrey",
-          "title": "Professor",
-          "url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+          "title": "Full-time Professor",
+          "url": "https://research.tec.mx/vivo-tec/display/PID_484993",
           "type": "primary",
-          "checkedAt": "2026-11-24"
+          "checkedAt": "2026-11-27"
         }
       ],
       "fields": [
         "algebraic"
       ],
-      "tags": [
-        "Algebraic geometry, singularity theory and commutative algebra"
-      ],
+      "tags": [],
       "homepage": "https://sites.google.com/tec.mx/liliaalanislopez/home",
       "homepageStatus": null,
-      "cvUrl": null,
-      "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
-      "publicationCounts": [],
-      "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "cvUrl": "https://sites.google.com/tec.mx/liliaalanislopez/curriculum-vitae",
+      "cvType": "公开学术 CV（作者网页）",
+      "cvStatus": null,
+      "publicationsUrl": "https://sites.google.com/tec.mx/liliaalanislopez/publication-list",
+      "publicationCounts": [
         {
-          "text": "Algebraic geometry, singularity theory and commutative algebra",
-          "url": "https://research.tec.mx/vivo-tec/display/PID_484993"
+          "value": 7,
+          "url": "https://sites.google.com/tec.mx/liliaalanislopez/publication-list",
+          "checkedAt": "2026-11-27",
+          "scope": "作者公开 Publication List 分栏可见的全部 8 条记录，按题名和来源核对后计 7 条不同期刊论文（2018–2025），另列 1 篇会议论文集章。该口径限于公开分栏。"
         }
       ],
-      "checkedAt": "2026-11-24",
+      "opportunities": [],
+      "identityNote": "校方及本人主页的 ORCID 与 A5103275650 相同，档案作品却混入管理学同名作者。期刊原文 10.22579/23463910.159 第三作者为 Lilia Alanís Gómez。已检索 OpenAlex 姓名档和 Google Scholar，后者公开姓名搜索转登录，作者自报 Scopus ID 的档案和出版商公开作者页面均返回 403。期刊数改用本人完整公开发表分栏的 7 篇口径；暂未核得公开累计引用。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Connectedness of square-free Groebner deformations",
+          "year": 2022,
+          "url": "https://doi.org/10.1090/proc/15820",
+          "type": "期刊论文"
+        },
+        {
+          "title": "On a quadratic form associated with a surface automorphism and its applications to Singularity Theory",
+          "year": 2022,
+          "url": "https://doi.org/10.1016/j.indag.2022.02.007",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry, singularity theory, Milnor fibers, local monodromy, commutative algebra and Gröbner deformations",
+          "url": "https://sites.google.com/tec.mx/liliaalanislopez/home"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "manuel-alejandro-ucan-puc",
+      "name": "Manuel Alejandro Ucan-Puc",
+      "aliases": [
+        "Alejandro Ucan-Puc",
+        "Manuel Alejandro Ucan Puc",
+        "A. Ucan-Puc"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "tec-monterrey",
+          "department": "School of Engineering and Sciences · Campus Monterrey",
+          "title": "Researcher and Mathematics Instructor",
+          "url": "https://research.tec.mx/vivo-tec/display/PID_318207",
+          "type": "primary",
+          "checkedAt": "2026-11-27"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "查 Tec 具名 VIVO、ORCID、UNAM 学术活动旧档、DBLP 和姓名检索。已核研究档和发表记录，未找到可归属的独立学术主页。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查学校具名档、UNAM 访问简历式摘要、ORCID、DBLP 及西英双语 CV 检索。已核学位和发表信息，未核到独立公开 CV。",
+      "publicationsUrl": "https://research.tec.mx/vivo-tec/display/PID_318207",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "VIVO ORCID 与 A5037695305 一致。论文 10.1080/10586458.2022.2093802、10.1007/s00574-017-0035-y 及具名 UNAM 履历支持身份。A5159331372 的 arXiv:2603.04625 由本人和 Tec 同事 Carlos Astengo 合著，确为一人分档。保留主档 4 个已核期刊 DOI 的篇数。Google Scholar 转登录，累计引用暂不合并发布。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5037695305",
+          "url": "https://openalex.org/authors/A5037695305",
+          "authorApiUrl": "https://api.openalex.org/authors/https%3A%2F%2Forcid.org%2F0000-0002-0037-9394",
+          "articleApiUrl": "https://api.openalex.org/works?filter=author.id:A5037695305,type:article&per-page=1&select=id",
+          "checkedAt": "2026-11-27",
+          "articles": 4,
+          "articleScope": "OpenAlex 主档经 DOI 核实的 4 条 type:article。本人第二档只收一条预印本，累计引用仍待核。"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On Classical Uniformization Theorems for Higher Dimensional Complex Kleinian Groups",
+          "year": 2017,
+          "url": "https://doi.org/10.1007/s00574-017-0035-y",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Representations of Deligne-Mostow lattices into PGL(3, C)",
+          "year": 2024,
+          "url": "https://doi.org/10.1080/10586458.2022.2093802",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Hausdorff dimension and complex hyperbolic Schottky groups: a simplification",
+          "year": 2022,
+          "url": "https://doi.org/10.1007/s10711-022-00718-2",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry, complex Kleinian groups, complex hyperbolic geometry, Schottky groups, Deligne–Mostow lattices and topological data analysis",
+          "url": "https://www.matem.unam.mx/acerca-de/ingresos-y-visitantes/manuel-alejandro-ucan-puc-2021"
+        }
+      ],
+      "checkedAt": "2026-11-27",
       "recordStatus": "directory"
     },
     {
