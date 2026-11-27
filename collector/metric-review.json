@@ -889,7 +889,12 @@
     "nelson-rene-alvarado-hinostroza": "博士论文署名、Tor Vergata 院校和 ORCID 与 ANID 全名一致。三篇确为正式期刊，另两项预印文未计；排除史学同名案。",
     "sebastian-andres-rahausen-rodriguez": "2026 任期与 ORCID 作者身份分开核。5 个成果含同一学位主题的论文库与预印本条，3 篇有不同的正式 DOI，作者档 7 次累计引用。",
     "benjamin-moraga": "UFRO 学位、两篇有具名期刊、2026 Santiago 研讨同一人；另 A5061982699 为初中心理测验条，排除。主档 2 篇期刊、1 次引用。",
-    "robert-monjo": "单一 ORCID 被拆为 69、3、1 成果三个作者档。具名 2026 洛伦兹几何期刊在第二档，第三为气候数据。跨学科来源和预印本待去重，暂留作者原始书目及正式论文；Scholar 普通入口转登录。"
+    "robert-monjo": "单一 ORCID 被拆为 69、3、1 成果三个作者档。具名 2026 洛伦兹几何期刊在第二档，第三为气候数据。跨学科来源和预印本待去重，暂留作者原始书目及正式论文；Scholar 普通入口转登录。",
+    "ginaldo-de-santana-sa": "公开档案 4 成果和 2 引用，作品可见 3，包括 2026 一篇已发表；缺 CV 具名的 2022 和 2024 期刊。已核两篇旧书目及 2026 DOI，OA 累计未采用。CV 时段计数见范围。",
+    "nicolas-ivan-libedinsky-silva": "现任教职、本人 CV、ORCID 和记名 Soergel 期刊。OpenAlex 24 article，35 项档案成果，累计 479。",
+    "aram-bingham": "姓名、导师、现任及历年论文跨机构匹配，含作者自己明确列出的代数几何与表示。OpenAlex 11 项 article，档案 17 项成果、累计 21。",
+    "katherine-ormeno-bastias": "作者、前导师、本人两篇相同主题及署名互证，1 篇正式期刊；另 1 件 arXiv 已被期刊接受但未找到正式期刊记录。累计档案 2。",
+    "valentina-moreno-vega": "校方 2026-10 公示博士生，Linköping 具名报告、当前合作者与同一正式论文 DOI 指向本人。可核一篇正式期刊，作者档报 1 次引用。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -9873,6 +9878,135 @@
         "https://openalex.org/A5109819279",
         "https://openalex.org/A5136620165"
       ]
+    },
+    "ginaldo-de-santana-sa": {
+      "name": "Ginaldo de Santana Sá",
+      "status": "held",
+      "checkedAt": "2026-11-27",
+      "url": "https://openalex.org/A5122272439",
+      "authorId": "A5122272439",
+      "note": "公开档案 4 成果和 2 引用，作品可见 3，包括 2026 一篇已发表；缺 CV 具名的 2022 和 2024 期刊。已核两篇旧书目及 2026 DOI，OA 累计未采用。CV 时段计数见范围。",
+      "identitySources": [
+        "https://ingenieria.uchile.cl/dam/jcr%3Ab42baaa7-5d2f-4d96-bf01-f91623952c37/CV_Ginaldo.pdf",
+        "https://api.openalex.org/authors/A5122272439",
+        "https://api.openalex.org/works?filter=author.id:A5122272439&per-page=50&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5122272439,type:article&per-page=1"
+      ],
+      "fallbackPublicationCount": {
+        "value": 2,
+        "url": "https://ingenieria.uchile.cl/dam/jcr%3Ab42baaa7-5d2f-4d96-bf01-f91623952c37/CV_Ginaldo.pdf",
+        "checkedAt": "2026-11-27",
+        "scope": "学院公开 CV 完整 Publications 段九条，前七条在履历中标作 Submitted，后两条是 2022 和 2024 两篇不同正式期刊。数据只对应此 CV 的已发表范围。"
+      }
+    },
+    "nicolas-ivan-libedinsky-silva": {
+      "name": "Nicolás Iván Libedinsky Silva",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5088992476",
+      "url": "https://openalex.org/A5088992476",
+      "note": "现任教职、本人 CV、ORCID 和记名 Soergel 期刊。OpenAlex 24 article，35 项档案成果，累计 479。",
+      "identitySources": [
+        "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
+        "https://nicolaslibedinsky.cl/wp-content/uploads/2026/06/cv_english.pdf",
+        "https://nicolaslibedinsky.cl/for-mathematicians/research-interests/",
+        "https://api.openalex.org/works?filter=author.id:A5088992476&per-page=100&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5088992476,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5088992476",
+        "url": "https://openalex.org/A5088992476",
+        "checkedAt": "2026-11-27",
+        "articles": 24,
+        "works": 35,
+        "citations": 479,
+        "hIndex": 13,
+        "articleScope": "OpenAlex type:article，逐项核对该作者可读作品与出版记录",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "aram-bingham": {
+      "name": "Aram Bingham",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5072144299",
+      "url": "https://openalex.org/A5072144299",
+      "note": "姓名、导师、现任及历年论文跨机构匹配，含作者自己明确列出的代数几何与表示。OpenAlex 11 项 article，档案 17 项成果、累计 21。",
+      "identitySources": [
+        "https://automathon.org/",
+        "https://automathon.org/index.php/research/",
+        "https://ciencias.uchile.cl/noticias/225456/facultad-se-adjudica-5-proyectos-fondecyt-postdoctorado",
+        "https://nicolaslibedinsky.cl/for-mathematicians/students-and-postdocs/",
+        "https://api.openalex.org/works?filter=author.id:A5072144299&per-page=60&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5072144299,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5072144299",
+        "url": "https://openalex.org/A5072144299",
+        "checkedAt": "2026-11-27",
+        "articles": 11,
+        "works": 17,
+        "citations": 21,
+        "hIndex": 3,
+        "articleScope": "OpenAlex type:article，逐项核对该作者可读作品与出版记录",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "katherine-ormeno-bastias": {
+      "name": "Katherine Ormeño Bastías",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5089262658",
+      "url": "https://openalex.org/A5089262658",
+      "note": "作者、前导师、本人两篇相同主题及署名互证，1 篇正式期刊；另 1 件 arXiv 已被期刊接受但未找到正式期刊记录。累计档案 2。",
+      "identitySources": [
+        "https://nicolaslibedinsky.cl/for-mathematicians/students-and-postdocs/",
+        "https://sites.google.com/view/steenswebsite/students/masters-students/katherine-orme%C3%B1o",
+        "https://arxiv.org/abs/2402.01890",
+        "https://sites.google.com/view/steenswebsite/publications",
+        "https://api.openalex.org/works?filter=author.id:A5089262658&per-page=45&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5089262658,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5089262658",
+        "url": "https://openalex.org/A5089262658",
+        "checkedAt": "2026-11-27",
+        "articles": 1,
+        "works": 2,
+        "citations": 2,
+        "hIndex": 1,
+        "articleScope": "OpenAlex type:article，逐项核对该作者可读作品与出版记录",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "valentina-moreno-vega": {
+      "name": "Valentina Moreno Vega",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5120060832",
+      "url": "https://openalex.org/A5120060832",
+      "note": "校方 2026-10 公示博士生，Linköping 具名报告、当前合作者与同一正式论文 DOI 指向本人。可核一篇正式期刊，作者档报 1 次引用。",
+      "identitySources": [
+        "https://liu.se/artikel/matematiska-kollokviet",
+        "https://api.openalex.org/works/https://doi.org/10.1016/j.jalgebra.2026.01.033",
+        "https://api.openalex.org/works?filter=author.id:A5120060832&per-page=25&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5120060832,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5120060832",
+        "url": "https://openalex.org/A5120060832",
+        "checkedAt": "2026-11-27",
+        "articles": 1,
+        "works": 1,
+        "citations": 1,
+        "hIndex": 1,
+        "articleScope": "OpenAlex type:article，逐项核对该作者可读作品与出版记录",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
     }
   }
 }
