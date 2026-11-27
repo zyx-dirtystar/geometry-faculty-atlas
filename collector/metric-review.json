@@ -937,7 +937,8 @@
     "mubasher-jamil": "SNS、TWAS、本人 ORCID 和近期论文 10.1016/j.aop.2024.169911 互证。A5103773440 的两个日译题名与主档中两个有 DOI 的原作相同，分别为 10.1103/PhysRevD.94.084042 和 10.1103/PhysRevD.99.024050，无重复合并。A5104015427 是马来西亚从事激光加工的同名。主档类型过滤 130 条，含数据库标成文章的一条 Comments。",
     "muhammad-zubair-ali-moughal": "CEME 数学任职、Waikato 博士论文、两个 DOI 与 publisher ORCID 0000-0002-6409-3475 互证。可见 9 个唯一研究记录，8 期刊、1 预印本。",
     "safia-taj": "CEME 具名任职与 Nuclear Physics B 的作者 ORCID 0009-0006-0714-1350 一致。可读作品端 32 条，其中 23 为 article；作者快照计总成果 33。",
-    "bushra-majeed": "A5017424339 正常收入 CEME 引力作者论文，但 2026 机构已列的 10.1140/epjc/s10052-025-15166-x 被收进 A5073939661。后者以另一 ORCID 发布伊拉克沉积、地质及环境论文；A5087378363 的云安全与软件工程也属于另一同名。Google Scholar 公开姓名入口转登录。此人期刊篇数用 CEME 完整公开分栏的 16 条，累计引用暂未取得同一作者的可信整体值。"
+    "bushra-majeed": "A5017424339 正常收入 CEME 引力作者论文，但 2026 机构已列的 10.1140/epjc/s10052-025-15166-x 被收进 A5073939661。后者以另一 ORCID 发布伊拉克沉积、地质及环境论文；A5087378363 的云安全与软件工程也属于另一同名。Google Scholar 公开姓名入口转登录。此人期刊篇数用 CEME 完整公开分栏的 16 条，累计引用暂未取得同一作者的可信整体值。",
+    "adnan-aslam": "OpenAlex 中 2012 极小超曲面、2013 Bianchi、2019 带电粒子和 2020 Schwarzschild 记录的 Adnan Aslam 作者 ID 均为空。2026 NUST 狂犬病论文另挂 A5122859553。高计量 A5024186062 与 A5121927934 指向 UET Lahore / JADARA 同名及其 ORCID，其他检索结果有商学、电子工程及医学档。ORCID 候选 0009-0005-7572-4008 自列 NUST，缺可对照作品且 OpenAlex 未映射。Scholar 登录，无确认的公开档。机构作者成果栏可核 26 条期刊；机构头部给出 159 citations，未注明引用数据库及覆盖口径，累计引用待核。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -11216,6 +11217,21 @@
         "checkedAt": "2026-11-27",
         "scope": "校方具名 Publications 栏的全部 16 条 2012–2026 期刊条目，逐条核对题名、期刊和卷期或文号。单独会议分栏不计；口径限公开校档。"
       }
+    },
+    "adnan-aslam": {
+      "status": "held",
+      "checkedAt": "2026-11-27",
+      "url": "https://openalex.org/authors/A5122859553",
+      "identitySources": [
+        "https://qalam.nust.edu.pk/faculty-profile/MzA5OA",
+        "https://seecs.nust.edu.pk/faculty/adnan-aslam/",
+        "https://doi.org/10.1155/2012/532690",
+        "https://doi.org/10.1140/epjc/s10052-020-8314-y",
+        "https://doi.org/10.1007/s13721-025-00716-w",
+        "https://orcid.org/0009-0005-7572-4008",
+        "https://www.unicesmag.edu.co/en/grupos-investigacion/rampa/productos/"
+      ],
+      "note": "OpenAlex 中 2012 极小超曲面、2013 Bianchi、2019 带电粒子和 2020 Schwarzschild 记录的 Adnan Aslam 作者 ID 均为空。2026 NUST 狂犬病论文另挂 A5122859553。高计量 A5024186062 与 A5121927934 指向 UET Lahore / JADARA 同名及其 ORCID，其他检索结果有商学、电子工程及医学档。ORCID 候选 0009-0005-7572-4008 自列 NUST，缺可对照作品且 OpenAlex 未映射。Scholar 登录，无确认的公开档。机构作者成果栏可核 26 条期刊；机构头部给出 159 citations，未注明引用数据库及覆盖口径，累计引用待核。"
     }
   }
 }
