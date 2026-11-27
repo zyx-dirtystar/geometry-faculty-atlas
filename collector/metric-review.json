@@ -871,7 +871,17 @@
     "joseph-maciejko": "两份同名 OpenAlex 均归本人。主档 A5058900956 显示 130 成果及 5940 累计引用，作品查询返回 116 项，其中存在同题预印本、期刊及会议摘要。A5163905313 仅收 CV 第 88 项预印本。两档数据未合并，Scholar 姓名检索转登录，当前累计引用未能安全采用。按本人 1–88 书目扣除 2 条预印本和 1 篇论文集后核实 85 项期刊成果。",
     "igor-boettcher": "ORCID、现任校级档、APS 代表作与高引条目互证。OA 作品查询可见 54 项，49 条 type:article，作者档报告 59 成果。另核本人学术站所链 Google Scholar All 3,017 次。",
     "saeed-rastgoo": "CV 公布 ORCID 和 Scholar。OpenAlex 代表作与前三篇大型合著经期刊 Crossref 署名复核。作品查询可见 45 项、文章查询 32 条，作者档报告 52 成果。另核 Scholar All 3,363 次。",
-    "giulio-sanzeni": "三篇不同正式论文 DOI 均核实，ORCID 和学校/PIMS 具名研究主题相符。作者档报告 5 成果，作品查询可见 4，其中 3 条是不同期刊论文。Scholar 按名入口转登录。"
+    "giulio-sanzeni": "三篇不同正式论文 DOI 均核实，ORCID 和学校/PIMS 具名研究主题相符。作者档报告 5 成果，作品查询可见 4，其中 3 条是不同期刊论文。Scholar 按名入口转登录。",
+    "anita-maria-rojas-rodriguez": "校职、本人主页 ORCID、本人 CV 与近期正式 DOI 互证。主档 20 条 article、244 引用；另两个单条索引分别为项目及发布条目，未把拆档条目并入引用。",
+    "sebastian-andres-reyes-carocca": "任职、七页 CV、近年原文与高引黎曼曲面作品相符。作品可见 33，作者档 35，23 条 article。书及书的预印本不作期刊论文。",
+    "robert-frederick-auffarth": "本人发表表的近期原作和高引期刊逐项合署名，20 条 article，作者档 27 成果，作品查询可读 26。",
+    "giancarlo-antonio-lucchini-arteche": "历史 Valparaíso 官职、当前 Universidad de Chile 符合作者学术站，三项正式 DOI 跨时段匹配，24 条 article。",
+    "angel-pardo-jaqueih": "本人站给出 ORCID 及 Scholar，和两篇平曲面期刊互证。OA 多个材料／经济同名档已排除。OA 7 条文章和 35 引用；本人 Scholar All 同为 35。",
+    "rodolfo-gutierrez-romo": "学校全名、本人主页与高引及近作几何论文匹配，OpenAlex 可见 14 项（10 条 article），作者档 15 项。排除地质领域的倒序同名。",
+    "rayssa-caju": "OpenAlex 归属可确，10 条 article 含作者未列的无 DOI 题录和同题论文不同载体，累计 62 未用于公开总量。查 ORCID、本人和 CMM 入口及 Scholar 姓名，未核实可归属且完整的作者引用。采用七篇作者表期刊加 2026 正式发表。",
+    "micha-kowalczyk": "数学主档混入区域供热预测等记录，部分期刊存在重复无 DOI 版本。检索 Scholar 姓名未能确认独立同人档，2,696 引用及 83 条 article 暂停采用。ANID 的正式 55 篇是可核的旧时段书目。",
+    "leslie-alejandra-jimenez-palma": "同 ORCID 的 A5032619497 混配美国药物化学作者；A5123871035 还挂油气工程论文，已知三篇几何未聚合。未采用两档引用。本人主页几何书目三条按题名和原刊核实。",
+    "carolina-emary-canales-gonzalez": "同名 OA 档 3 成果混入无关考古骨骼形态学，无法沿用 2 篇 article 或档案 16 次累计引用。公开检索、学位条目和原刊核定一篇具名期刊论文。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -9365,6 +9375,276 @@
         "hIndex": 2,
         "articleScope": "OpenAlex type:article 查询，核对可读文章与具名原作",
         "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "anita-maria-rojas-rodriguez": {
+      "name": "Anita María Rojas Rodríguez",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5091169944",
+      "url": "https://openalex.org/A5091169944",
+      "note": "校职、本人主页 ORCID、本人 CV 与近期正式 DOI 互证。主档 20 条 article、244 引用；另两个单条索引分别为项目及发布条目，未把拆档条目并入引用。",
+      "identitySources": [
+        "https://uchile.cl/presentacion/senado-universitario/integrantes/periodo-2026-2030/anita-rojas-rodriguez",
+        "https://sites.google.com/uchile.cl/anirojas/en",
+        "https://drive.google.com/file/d/1UM1VeEF2MEeNdhXntH70hhTqrezeO8bL/view?usp=sharing",
+        "https://api.openalex.org/works/https://doi.org/10.1016/j.jalgebra.2025.06.032",
+        "https://api.openalex.org/works?filter=author.id:A5091169944&sort=cited_by_count:desc&per-page=100&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5091169944,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5091169944",
+        "url": "https://openalex.org/A5091169944",
+        "checkedAt": "2026-11-27",
+        "articles": 20,
+        "works": 26,
+        "citations": 244,
+        "hIndex": 9,
+        "articleScope": "OpenAlex type:article，逐项核过该作者可读作品与正式 DOI",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      },
+      "alternatives": [
+        "https://openalex.org/A5025658505",
+        "https://openalex.org/A5071401042"
+      ]
+    },
+    "sebastian-andres-reyes-carocca": {
+      "name": "Sebastián Andrés Reyes Carocca",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5051525742",
+      "url": "https://openalex.org/A5051525742",
+      "note": "任职、七页 CV、近年原文与高引黎曼曲面作品相符。作品可见 33，作者档 35，23 条 article。书及书的预印本不作期刊论文。",
+      "identitySources": [
+        "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
+        "https://sites.google.com/site/sreyescarocca/",
+        "https://drive.google.com/file/d/1ArtPChSrdU8NPM97KWKkTvQkDsz51uwS/view?usp=share_link",
+        "https://api.openalex.org/works?filter=author.id:A5051525742&sort=cited_by_count:desc&per-page=150&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5051525742,type:article&per-page=1&select=id"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5051525742",
+        "url": "https://openalex.org/A5051525742",
+        "checkedAt": "2026-11-27",
+        "articles": 23,
+        "works": 35,
+        "citations": 182,
+        "hIndex": 10,
+        "articleScope": "OpenAlex type:article，逐项核过该作者可读作品与正式 DOI",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "robert-frederick-auffarth": {
+      "name": "Robert Frederick Auffarth",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5071290126",
+      "url": "https://openalex.org/A5071290126",
+      "note": "本人发表表的近期原作和高引期刊逐项合署名，20 条 article，作者档 27 成果，作品查询可读 26。",
+      "identitySources": [
+        "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
+        "https://sites.google.com/uchile.cl/rfauffar/",
+        "https://api.openalex.org/authors?filter=orcid:0000-0001-7243-0315",
+        "https://api.openalex.org/works?filter=author.id:A5071290126&sort=cited_by_count:desc&per-page=150&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5071290126,type:article&per-page=1&select=id"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5071290126",
+        "url": "https://openalex.org/A5071290126",
+        "checkedAt": "2026-11-27",
+        "articles": 20,
+        "works": 27,
+        "citations": 105,
+        "hIndex": 6,
+        "articleScope": "OpenAlex type:article，逐项核过该作者可读作品与正式 DOI",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "giancarlo-antonio-lucchini-arteche": {
+      "name": "Giancarlo Antonio Lucchini Arteche",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5074135981",
+      "url": "https://openalex.org/A5074135981",
+      "note": "历史 Valparaíso 官职、当前 Universidad de Chile 符合作者学术站，三项正式 DOI 跨时段匹配，24 条 article。",
+      "identitySources": [
+        "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
+        "https://sites.google.com/a/uchile.cl/mat-ciencias-prof-giancarlo-lucchini/home/english",
+        "https://api.openalex.org/authors?search=Giancarlo%20Lucchini%20Arteche&per-page=10",
+        "https://api.openalex.org/works?filter=author.id:A5074135981&sort=cited_by_count:desc&per-page=150&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5074135981,type:article&per-page=1&select=id"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5074135981",
+        "url": "https://openalex.org/A5074135981",
+        "checkedAt": "2026-11-27",
+        "articles": 24,
+        "works": 32,
+        "citations": 239,
+        "hIndex": 9,
+        "articleScope": "OpenAlex type:article，逐项核过该作者可读作品与正式 DOI",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "angel-pardo-jaqueih": {
+      "name": "Angel Pardo Jaqueih",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5101446282",
+      "url": "https://openalex.org/A5101446282",
+      "note": "本人站给出 ORCID 及 Scholar，和两篇平曲面期刊互证。OA 多个材料／经济同名档已排除。OA 7 条文章和 35 引用；本人 Scholar All 同为 35。",
+      "identitySources": [
+        "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
+        "https://sites.google.com/uchile.cl/angel-pardo",
+        "https://scholar.google.ca/citations?user=64ZFlVEAAAAJ",
+        "https://api.openalex.org/works?filter=author.id:A5101446282&sort=cited_by_count:desc&per-page=150&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5101446282,type:article&per-page=1&select=id"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5101446282",
+        "url": "https://openalex.org/A5101446282",
+        "checkedAt": "2026-11-27",
+        "articles": 7,
+        "works": 17,
+        "citations": 35,
+        "hIndex": 3,
+        "articleScope": "OpenAlex type:article，逐项核过该作者可读作品与正式 DOI",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      },
+      "scholarSnapshot": {
+        "source": "Google Scholar",
+        "authorId": "64ZFlVEAAAAJ",
+        "url": "https://scholar.google.ca/citations?user=64ZFlVEAAAAJ",
+        "checkedAt": "2026-11-27",
+        "citations": 35,
+        "hIndex": 4,
+        "citationScope": "本人站直链的 Google Scholar 作者 All 栏"
+      }
+    },
+    "rodolfo-gutierrez-romo": {
+      "name": "Rodolfo Gutiérrez-Romo",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5075110502",
+      "url": "https://openalex.org/A5075110502",
+      "note": "学校全名、本人主页与高引及近作几何论文匹配，OpenAlex 可见 14 项（10 条 article），作者档 15 项。排除地质领域的倒序同名。",
+      "identitySources": [
+        "https://www.dim.uchile.cl/jornada-completa/",
+        "https://www.dim.uchile.cl/~rgutierrez/",
+        "https://www.cmm.uchile.cl/en/?persona=rodolfo-gutierrez",
+        "https://api.openalex.org/works?filter=author.id:A5075110502&sort=cited_by_count:desc&per-page=150&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5075110502,type:article&per-page=1&select=id"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5075110502",
+        "url": "https://openalex.org/A5075110502",
+        "checkedAt": "2026-11-27",
+        "articles": 10,
+        "works": 15,
+        "citations": 83,
+        "hIndex": 6,
+        "articleScope": "OpenAlex type:article，逐项核过该作者可读作品与正式 DOI",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "rayssa-caju": {
+      "name": "Rayssa Caju",
+      "status": "held",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5079775750",
+      "url": "https://openalex.org/A5079775750",
+      "note": "OpenAlex 归属可确，10 条 article 含作者未列的无 DOI 题录和同题论文不同载体，累计 62 未用于公开总量。查 ORCID、本人和 CMM 入口及 Scholar 姓名，未核实可归属且完整的作者引用。采用七篇作者表期刊加 2026 正式发表。",
+      "identitySources": [
+        "https://www.dim.uchile.cl/jornada-completa/",
+        "https://sites.google.com/view/rayssacaju",
+        "https://sites.google.com/view/rayssacaju/home/research",
+        "https://doi.org/10.1112/jlms.70464",
+        "https://pub.orcid.org/v3.0/0000-0003-2918-140X/record",
+        "https://api.openalex.org/works?filter=author.id:A5079775750&sort=cited_by_count:desc&per-page=150&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5079775750,type:article&per-page=1&select=id"
+      ],
+      "fallbackPublicationCount": {
+        "value": 8,
+        "url": "https://sites.google.com/view/rayssacaju/home/research",
+        "checkedAt": "2026-11-27",
+        "scope": "作者公开 Research Papers 区 2019–2025 的七篇正式期刊论文，另取同页预印本已发表的 2026 Yamabe 论文 10.1112/jlms.70464。八个不同正式 DOI，同一预印本和博士论文版本不重计。"
+      }
+    },
+    "micha-kowalczyk": {
+      "name": "Michał Kowalczyk",
+      "status": "held",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5058048232",
+      "url": "https://openalex.org/A5058048232",
+      "note": "数学主档混入区域供热预测等记录，部分期刊存在重复无 DOI 版本。检索 Scholar 姓名未能确认独立同人档，2,696 引用及 83 条 article 暂停采用。ANID 的正式 55 篇是可核的旧时段书目。",
+      "identitySources": [
+        "https://www.dim.uchile.cl/jornada-completa/",
+        "https://investigadores.anid.cl/es/public_search/researcher?id=17942",
+        "https://doi.org/10.4310/jdg/1357141507",
+        "https://doi.org/10.1016/j.jde.2026.114604",
+        "https://gaandes.com/",
+        "https://api.openalex.org/works?filter=author.id:A5058048232&sort=cited_by_count:desc&per-page=150&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5058048232,type:article&per-page=1&select=id"
+      ],
+      "fallbackPublicationCount": {
+        "value": 55,
+        "url": "https://investigadores.anid.cl/es/public_search/researcher?id=17942",
+        "checkedAt": "2026-11-27",
+        "scope": "ANID 本人 Article 分类 1996–2019 全表，55 个具名且规范化题名互异的条目。未计同页单列的会议文和项目；2020 年及以后不在该表范围。"
+      }
+    },
+    "leslie-alejandra-jimenez-palma": {
+      "name": "Leslie Alejandra Jiménez Palma",
+      "status": "held",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5123871035",
+      "url": "https://openalex.org/A5123871035",
+      "note": "同 ORCID 的 A5032619497 混配美国药物化学作者；A5123871035 还挂油气工程论文，已知三篇几何未聚合。未采用两档引用。本人主页几何书目三条按题名和原刊核实。",
+      "identitySources": [
+        "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
+        "https://uchile.cl/agenda/246592/seminariocreacion-de-conocimiento-para-comprender-problemas-complejos",
+        "https://sites.google.com/site/lesliejimenezpalma/bienvenids",
+        "https://docs.google.com/document/d/1B4YAECsMrACnl--QVTBjTksphbUdXaiD/edit?usp=sharing",
+        "https://pub.orcid.org/v3.0/0000-0003-1414-282X/record",
+        "https://doi.org/10.4171/rmi/1084",
+        "https://api.openalex.org/works?filter=author.id:A5123871035&sort=cited_by_count:desc&per-page=150&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5123871035,type:article&per-page=1&select=id"
+      ],
+      "fallbackPublicationCount": {
+        "value": 3,
+        "url": "https://sites.google.com/site/lesliejimenezpalma/bienvenids",
+        "checkedAt": "2026-11-27",
+        "scope": "本人公布的完整几何期刊小段 2016–2019，共三篇不同题名，排除同页教育成果、预印本及章节；仅为页面内几何期刊范围。"
+      },
+      "alternatives": [
+        "https://openalex.org/A5032619497"
+      ]
+    },
+    "carolina-emary-canales-gonzalez": {
+      "name": "Carolina Emary Canales González",
+      "status": "held",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5006081922",
+      "url": "https://openalex.org/A5006081922",
+      "note": "同名 OA 档 3 成果混入无关考古骨骼形态学，无法沿用 2 篇 article 或档案 16 次累计引用。公开检索、学位条目和原刊核定一篇具名期刊论文。",
+      "identitySources": [
+        "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
+        "https://www.numdam.org/item/10.5802/aif.3139.pdf",
+        "https://ima.ucv.cl/seminarios-permanentes/dinamica-portena/",
+        "https://api.openalex.org/works?filter=author.id:A5006081922&sort=cited_by_count:desc&per-page=150&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5006081922,type:article&per-page=1&select=id"
+      ],
+      "fallbackPublicationCount": {
+        "value": 1,
+        "url": "https://www.numdam.org/item/10.5802/aif.3139.pdf",
+        "checkedAt": "2026-11-27",
+        "scope": "期刊作者及全文核实 2017 年一篇；另见相同主题博士论文，分列。此值仅代表经原刊核实的该篇，其他可核期刊范围未取得。"
       }
     }
   }

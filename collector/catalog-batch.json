@@ -8327,18 +8327,82 @@
     {
       "id": "uchile",
       "coverage": "sample",
-      "coverageNote": "已解析 1/2 个登记来源，2 条任职或方向待核。 已收录 2 位学者，个人主页 2、CV 0、指标 0。 已提取理学院数学系 Cuerpo académico 的姓名、职级与方向。工程学院数学工程系、CMM 和跨学院任职另待核。",
+      "coverageNote": "已解析 2/18 个登记来源，0 条任职或方向待核。 已收录 8 位学者，个人主页 7、CV 2、指标 6。 理学院数学系 29 个角色栏位对账为 27 人，去重同页的两位荣休兼荣誉职位。三组研究方向逐人核对。工程数学系 33 位全职、9 位兼职；理学院物理 19 位，工程学院物理博士、硕士七个研究分栏。确认几何方向 Rojas、Auffarth、Reyes、Lucchini、Pardo、Gutiérrez-Romo、Caju、Kowalczyk 共八人。更新 Jiménez Palma 主攻数学教育、Canales 教学岗及 Quezada 荣休。公开 CV 及书目经链接和内容互证。作者库中同名、拆档和重复版本在逐人项中保留，Caju 的 8 项和 Kowalczyk 的 55 项标明计数范围。CMM 当期总览只有人数统计，公开旧站具名分栏、CMM 当期 PDE 名单与校方拨款报告可用。仍需对照各角色当期任期、非线性与动力其他成员及具名交叉单位。",
       "rosterLinks": [
         [
-          "Áreas de investigación - Facultad de Ciencias - Universidad de Chile",
+          "Universidad de Chile · campus e instalaciones",
+          "https://uchile.cl/presentacion/perfil-de-la-universidad/campus-e-instalaciones"
+        ],
+        [
+          "CMM · investigadores (site overview)",
+          "https://www.cmm.uchile.cl/investigadores/"
+        ],
+        [
+          "CMM · archivo institucional · people categories",
+          "https://archivo.cmm.uchile.cl/?page_id=75"
+        ],
+        [
+          "Universidad de Chile · ANID renueva el CMM",
+          "https://uchile.cl/noticias/246445/anid-renueva-financiamiento-al-centro-de-modelamiento-matematico-uchile"
+        ],
+        [
+          "CMM · análisis no lineal y ecuaciones diferenciales parciales",
+          "https://www.cmm.uchile.cl/analisis-no-lineal-y-ecuaciones-diferenciales-parciales/"
+        ],
+        [
+          "FCFM Física · Doctorado y claustro",
+          "https://dfi.uchile.cl/docencia/doctorado-en-ciencias-mencion-fisica/lineas-de-investigacion"
+        ],
+        [
+          "FCFM Física · Magíster y claustro",
+          "https://dfi.uchile.cl/docencia/magister-en-ciencias-con-mencion-en-fisica/lineas-de-investigacion"
+        ],
+        [
+          "Facultad de Ciencias · física · despedida de Sergio Hojman",
+          "https://dfc.uchile.cl/inicio/homenajes/"
+        ],
+        [
+          "Facultad de Ciencias · Física · actuales académicos",
+          "https://ciencias.uchile.cl/departamentos/fisica/academicos"
+        ],
+        [
+          "Ingeniería Matemática · 33 profesores de jornada completa",
+          "https://www.dim.uchile.cl/jornada-completa/"
+        ],
+        [
+          "Ingeniería Matemática · 9 profesores de jornada parcial",
+          "https://www.dim.uchile.cl/jornada-parcial/"
+        ],
+        [
+          "Ingeniería Matemática · líneas de investigación",
+          "https://www.dim.uchile.cl/investigacion/"
+        ],
+        [
+          "Ingeniería Matemática · profesores eméritos",
+          "https://www.dim.uchile.cl/profesores-emeritos/"
+        ],
+        [
+          "Facultad de Ciencias · Matemáticas · Áreas de investigación",
           "https://ciencias.uchile.cl/departamentos/matematicas/investigacion-publicaciones/areas-investigacion"
+        ],
+        [
+          "Geometric Analysis by the Andes · 2026 organizing appointments",
+          "https://gaandes.com/"
+        ],
+        [
+          "FCFM Física · gravitación y cosmología",
+          "https://dfi.uchile.cl/investigacion/grupos-de-investigacion/gravitacion-y-cosmologia"
+        ],
+        [
+          "MATH-AmSud · geometry of varieties",
+          "https://sites.google.com/uchile.cl/gv-bcef"
         ],
         [
           "Facultad de Ciencias · Departamento de Matemáticas · Cuerpo académico",
           "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos"
         ]
       ],
-      "checkedAt": "2026-11-23"
+      "checkedAt": "2026-11-27"
     },
     {
       "id": "michigan-state",
@@ -69202,87 +69266,540 @@
       "recordStatus": "directory"
     },
     {
-      "id": "anita-maria-rojas-rodriguez",
-      "name": "Anita María Rojas Rodríguez",
-      "aliases": [],
+      "id": "angel-pardo-jaqueih",
+      "name": "Angel Pardo Jaqueih",
+      "aliases": [
+        "Ángel Pardo"
+      ],
       "affiliations": [
         {
           "schoolId": "uchile",
-          "department": "数学系",
-          "title": "Profesora Titular",
-          "url": "https://portafolio-academico.uchile.cl/perfil/36599-Anita-Maria-Rojas-Rodriguez",
+          "department": "Departamento de Matemáticas · Facultad de Ciencias",
+          "title": "Profesor Asistente",
+          "url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-27"
         }
       ],
       "fields": [
-        "complex"
+        "complex",
+        "differential"
       ],
-      "tags": [
-        "Área de investigación : Matemáticas"
-      ],
-      "homepage": "https://sites.google.com/uchile.cl/anirojas",
+      "tags": [],
+      "homepage": "https://sites.google.com/uchile.cl/angel-pardo",
       "homepageStatus": null,
       "cvUrl": null,
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvStatus": "查系名册、本人站的博士论文及附录、ORCID 和本人所链 Google Scholar及 https://sites.google.com/uchile.cl/angel-pardo，未找到可读取且可归属本人的独立 CV。",
+      "publicationsUrl": "https://sites.google.com/uchile.cl/angel-pardo",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "本人站给出 ORCID 及 Scholar，和两篇平曲面期刊互证。OA 多个材料／经济同名档已排除。OA 7 条文章和 35 引用；本人 Scholar All 同为 35。",
+      "metrics": [
         {
-          "text": "Área de investigación : Matemáticas; Geometría compleja Línea de investigación : Estudio del espacio de módulos de superficies de Riemann y variedades Abelianas, con particular interés en el lugar de objetos con simetrías",
-          "url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos"
+          "source": "OpenAlex",
+          "authorId": "A5101446282",
+          "url": "https://openalex.org/A5101446282",
+          "checkedAt": "2026-11-27",
+          "articles": 7,
+          "works": 17,
+          "citations": 35,
+          "hIndex": 3,
+          "articleScope": "OpenAlex type:article，逐项核过该作者可读作品与正式 DOI",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        },
+        {
+          "source": "Google Scholar",
+          "authorId": "64ZFlVEAAAAJ",
+          "url": "https://scholar.google.ca/citations?user=64ZFlVEAAAAJ",
+          "checkedAt": "2026-11-27",
+          "citations": 35,
+          "hIndex": 4,
+          "citationScope": "本人站直链的 Google Scholar 作者 All 栏"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Permutation of periodic points of Veech surfaces in H(2)",
+          "year": 2024,
+          "url": "https://doi.org/10.3934/jmd.2024010",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Permutations of periodic points of Weierstrass Prym eigenforms",
+          "year": 2025,
+          "url": "https://doi.org/10.3934/dcds.2025052",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry of Riemann surfaces and moduli of abelian differentials, Teichmüller geometry and dynamics, differential geometry of flat translation surfaces",
+          "url": "https://sites.google.com/uchile.cl/angel-pardo"
+        }
+      ],
+      "checkedAt": "2026-11-27",
       "recordStatus": "directory"
     },
     {
-      "id": "leslie-alejandra-jimenez-palma",
-      "name": "Leslie Alejandra Jiménez Palma",
-      "aliases": [],
+      "id": "anita-maria-rojas-rodriguez",
+      "name": "Anita María Rojas Rodríguez",
+      "aliases": [
+        "Anita M. Rojas"
+      ],
       "affiliations": [
         {
           "schoolId": "uchile",
-          "department": "数学系",
-          "title": "Profesora Asistente",
-          "url": "https://portafolio-academico.uchile.cl/perfil/61830-Leslie-Alejandra-Jimenez-Palma",
+          "department": "Departamento de Matemáticas · Facultad de Ciencias",
+          "title": "Profesora Titular",
+          "url": "https://uchile.cl/presentacion/senado-universitario/integrantes/periodo-2026-2030/anita-rojas-rodriguez",
           "type": "primary",
-          "checkedAt": "2026-11-23"
+          "checkedAt": "2026-11-27"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/uchile.cl/anirojas/en",
+      "homepageStatus": null,
+      "cvUrl": "https://drive.google.com/file/d/1UM1VeEF2MEeNdhXntH70hhTqrezeO8bL/view?usp=sharing",
+      "cvType": "公开 CV（简版）",
+      "cvStatus": null,
+      "publicationsUrl": "https://sites.google.com/uchile.cl/anirojas/en",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "校职、本人主页 ORCID、本人 CV 与近期正式 DOI 互证。主档 20 条 article、244 引用；另两个单条索引分别为项目及发布条目，未把拆档条目并入引用。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5091169944",
+          "url": "https://openalex.org/A5091169944",
+          "checkedAt": "2026-11-27",
+          "articles": 20,
+          "works": 26,
+          "citations": 244,
+          "hIndex": 9,
+          "articleScope": "OpenAlex type:article，逐项核过该作者可读作品与正式 DOI",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Period matrices for abelian varieties: Algorithms and applications",
+          "year": 2025,
+          "url": "https://doi.org/10.1016/j.jalgebra.2025.06.032",
+          "type": "期刊论文"
+        },
+        {
+          "title": "On Non-Normal Subvarieties of the Moduli Space of Riemann Surfaces",
+          "year": 2026,
+          "url": "https://doi.org/10.1007/s00031-024-09870-3",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry and algebraic geometry of moduli of Riemann surfaces, abelian varieties with group action, Jacobians and period matrices",
+          "url": "https://sites.google.com/uchile.cl/anirojas/en"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "giancarlo-antonio-lucchini-arteche",
+      "name": "Giancarlo Antonio Lucchini Arteche",
+      "aliases": [
+        "Giancarlo Lucchini-Arteche"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "uchile",
+          "department": "Departamento de Matemáticas · Facultad de Ciencias",
+          "title": "Profesor Asociado",
+          "url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
+          "type": "primary",
+          "checkedAt": "2026-11-27"
+        }
+      ],
+      "fields": [
+        "algebraic"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/a/uchile.cl/mat-ciencias-prof-giancarlo-lucchini/home/english",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查本人英、西语主页、校级学术组合档及 Hadamard 基金会履历及 https://sites.google.com/a/uchile.cl/mat-ciencias-prof-giancarlo-lucchini/home/english，未找到可读取且可归属本人的独立 CV。",
+      "publicationsUrl": "https://sites.google.com/a/uchile.cl/mat-ciencias-prof-giancarlo-lucchini/home/english",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "历史 Valparaíso 官职、当前 Universidad de Chile 符合作者学术站，三项正式 DOI 跨时段匹配，24 条 article。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5074135981",
+          "url": "https://openalex.org/A5074135981",
+          "checkedAt": "2026-11-27",
+          "articles": 24,
+          "works": 32,
+          "citations": 239,
+          "hIndex": 9,
+          "articleScope": "OpenAlex type:article，逐项核过该作者可读作品与正式 DOI",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Automorphisms of products of toric varieties",
+          "year": 2022,
+          "url": "https://doi.org/10.4310/mrl.2022.v29.n2.a9",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Lifting vector bundles to Witt vector bundles",
+          "year": 2025,
+          "url": "https://doi.org/10.1007/s11856-025-2775-5",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Arithmetic algebraic geometry, algebraic groups and homogeneous spaces, toric varieties, Brauer–Manin obstructions, vector bundles and rational points",
+          "url": "https://sites.google.com/a/uchile.cl/mat-ciencias-prof-giancarlo-lucchini/home/english"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "micha-kowalczyk",
+      "name": "Michał Kowalczyk",
+      "aliases": [
+        "Michal Kowalczyk"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "uchile",
+          "department": "Departamento de Ingeniería Matemática (DIM) · Facultad de Ciencias Físicas y Matemáticas",
+          "title": "Profesor Titular",
+          "url": "https://www.dim.uchile.cl/jornada-completa/",
+          "type": "primary",
+          "checkedAt": "2026-11-27"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": null,
+      "homepageStatus": "工程数学系和 CMM 只有官方人员卡，ANID 提供任职及成果。查校内站、ORCID 与近期会议，未确认独立本人站。",
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "ANID 公布教育与雇佣经历。工程数学系、CMM、ORCID 和 2026 会议页没有可读简历文件。",
+      "publicationsUrl": "https://investigadores.anid.cl/es/public_search/researcher?id=17942",
+      "publicationCounts": [
+        {
+          "value": 55,
+          "url": "https://investigadores.anid.cl/es/public_search/researcher?id=17942",
+          "checkedAt": "2026-11-27",
+          "scope": "ANID 本人 Article 分类 1996–2019 全表，55 个具名且规范化题名互异的条目。未计同页单列的会议文和项目；2020 年及以后不在该表范围。"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "数学主档混入区域供热预测等记录，部分期刊存在重复无 DOI 版本。检索 Scholar 姓名未能确认独立同人档，2,696 引用及 83 条 article 暂停采用。ANID 的正式 55 篇是可核的旧时段书目。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Entire solutions of the Allen-Cahn equation and complete embedded minimal surfaces of finite total curvature in R³",
+          "year": 2013,
+          "url": "https://doi.org/10.4310/jdg/1357141507",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Yang-Mills instanton on a four dimensional wormhole: asymptotic stability in the odd energy space",
+          "year": 2026,
+          "url": "https://doi.org/10.1016/j.jde.2026.114604",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis, minimal surfaces, Allen–Cahn equations, geometric PDE and Yang–Mills instantons",
+          "url": "https://investigadores.anid.cl/es/public_search/researcher?id=17942"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "rayssa-caju",
+      "name": "Rayssa Caju",
+      "aliases": [
+        "Rayssa Helena Aires de Lima Caju"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "uchile",
+          "department": "Departamento de Ingeniería Matemática (DIM) · Facultad de Ciencias Físicas y Matemáticas",
+          "title": "Profesora Asistente",
+          "url": "https://www.dim.uchile.cl/jornada-completa/",
+          "type": "primary",
+          "checkedAt": "2026-11-27"
+        }
+      ],
+      "fields": [
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/view/rayssacaju",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查工程数学系具名卡、CMM、公开 ORCID、巴西 UFPB 博士答辩及 Lattes 姓名检索及 https://sites.google.com/view/rayssacaju，未找到可读取且可归属本人的独立 CV。",
+      "publicationsUrl": "https://sites.google.com/view/rayssacaju/home/research",
+      "publicationCounts": [
+        {
+          "value": 8,
+          "url": "https://sites.google.com/view/rayssacaju/home/research",
+          "checkedAt": "2026-11-27",
+          "scope": "作者公开 Research Papers 区 2019–2025 的七篇正式期刊论文，另取同页预印本已发表的 2026 Yamabe 论文 10.1112/jlms.70464。八个不同正式 DOI，同一预印本和博士论文版本不重计。"
+        }
+      ],
+      "opportunities": [],
+      "identityNote": "OpenAlex 归属可确，10 条 article 含作者未列的无 DOI 题录和同题论文不同载体，累计 62 未用于公开总量。查 ORCID、本人和 CMM 入口及 Scholar 姓名，未核实可归属且完整的作者引用。采用七篇作者表期刊加 2026 正式发表。",
+      "metrics": [],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Quantitative stability for Yamabe minimizers on manifolds with boundary",
+          "year": 2026,
+          "url": "https://doi.org/10.1112/jlms.70464",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Moduli space theory for complete, constant Q-curvature metrics on finitely punctured spheres",
+          "year": 2025,
+          "url": "https://doi.org/10.1017/prm.2025.10086",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Differential geometry and geometric analysis, conformal geometry, Yamabe minimizers on manifolds with boundary, prescribed Q-curvature and Allen–Cahn minimal surfaces",
+          "url": "https://sites.google.com/view/rayssacaju/home/research"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "robert-frederick-auffarth",
+      "name": "Robert Frederick Auffarth",
+      "aliases": [
+        "Robert Auffarth"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "uchile",
+          "department": "Departamento de Matemáticas · Facultad de Ciencias",
+          "title": "Profesor Asociado",
+          "url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
+          "type": "primary",
+          "checkedAt": "2026-11-27"
+        }
+      ],
+      "fields": [
+        "algebraic",
+        "complex"
+      ],
+      "tags": [],
+      "homepage": "https://sites.google.com/uchile.cl/rfauffar/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查学院数学名册、校级学术组合档、ORCID、近年校方年报及 https://sites.google.com/uchile.cl/rfauffar/，未找到可读取且可归属本人的独立 CV。",
+      "publicationsUrl": "https://sites.google.com/uchile.cl/rfauffar/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "本人发表表的近期原作和高引期刊逐项合署名，20 条 article，作者档 27 成果，作品查询可读 26。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5071290126",
+          "url": "https://openalex.org/A5071290126",
+          "checkedAt": "2026-11-27",
+          "articles": 20,
+          "works": 27,
+          "citations": 105,
+          "hIndex": 6,
+          "articleScope": "OpenAlex type:article，逐项核过该作者可读作品与正式 DOI",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Galois subspaces for projective varieties",
+          "year": 2026,
+          "url": "https://doi.org/10.1016/j.jalgebra.2026.01.007",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Pseudoinverses of morphisms between Abelian varieties",
+          "year": 2025,
+          "url": "https://doi.org/10.56754/0719-0646.2702.179",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Algebraic geometry and complex geometry, abelian varieties, finite group actions, Galois embeddings and compact complex tori",
+          "url": "https://sites.google.com/uchile.cl/rfauffar/"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "rodolfo-gutierrez-romo",
+      "name": "Rodolfo Gutiérrez-Romo",
+      "aliases": [
+        "Rodolfo Joaquín Gutiérrez-Romo"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "uchile",
+          "department": "Departamento de Ingeniería Matemática (DIM) · Facultad de Ciencias Físicas y Matemáticas",
+          "title": "Profesor Asistente",
+          "url": "https://www.dim.uchile.cl/jornada-completa/",
+          "type": "primary",
+          "checkedAt": "2026-11-27"
+        }
+      ],
+      "fields": [
+        "complex",
+        "differential"
+      ],
+      "tags": [],
+      "homepage": "https://www.dim.uchile.cl/~rgutierrez/",
+      "homepageStatus": null,
+      "cvUrl": null,
+      "cvType": null,
+      "cvStatus": "查工程数学系目录、CMM 个档、法国 IMJ 旧站及本人学术主页及 https://www.dim.uchile.cl/~rgutierrez/，未找到可读取且可归属本人的独立 CV。",
+      "publicationsUrl": "https://www.dim.uchile.cl/~rgutierrez/",
+      "publicationCounts": [],
+      "opportunities": [],
+      "identityNote": "学校全名、本人主页与高引及近作几何论文匹配，OpenAlex 可见 14 项（10 条 article），作者档 15 项。排除地质领域的倒序同名。",
+      "metrics": [
+        {
+          "source": "OpenAlex",
+          "authorId": "A5075110502",
+          "url": "https://openalex.org/A5075110502",
+          "checkedAt": "2026-11-27",
+          "articles": 10,
+          "works": 15,
+          "citations": 83,
+          "hIndex": 6,
+          "articleScope": "OpenAlex type:article，逐项核过该作者可读作品与正式 DOI",
+          "citationScope": "OpenAlex 作者档案累计引用"
+        }
+      ],
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "Classification of Rauzy–Veech groups: proof of the Zorich conjecture",
+          "year": 2019,
+          "url": "https://doi.org/10.1007/s00222-018-0836-7",
+          "type": "期刊论文"
+        },
+        {
+          "title": "Permutations of periodic points of Weierstrass Prym eigenforms",
+          "year": 2025,
+          "url": "https://doi.org/10.3934/dcds.2025052",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry of moduli of Riemann surfaces and abelian differentials, Teichmüller dynamics and differential geometry of flat translation surfaces",
+          "url": "https://www.dim.uchile.cl/~rgutierrez/"
+        }
+      ],
+      "checkedAt": "2026-11-27",
+      "recordStatus": "directory"
+    },
+    {
+      "id": "sebastian-andres-reyes-carocca",
+      "name": "Sebastián Andrés Reyes Carocca",
+      "aliases": [
+        "Sebastián Reyes-Carocca"
+      ],
+      "affiliations": [
+        {
+          "schoolId": "uchile",
+          "department": "Departamento de Matemáticas · Facultad de Ciencias",
+          "title": "Profesor Asociado",
+          "url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
+          "type": "primary",
+          "checkedAt": "2026-11-27"
         }
       ],
       "fields": [
         "complex"
       ],
-      "tags": [
-        "Área de investigación : Didáctica de las matemáticas",
-        "Didáctica universitaria",
-        "Superficies de Riemann y variedades jacobianas"
-      ],
-      "homepage": "https://sites.google.com/site/lesliejimenezpalma",
+      "tags": [],
+      "homepage": "https://sites.google.com/site/sreyescarocca/",
       "homepageStatus": null,
-      "cvUrl": null,
+      "cvUrl": "https://drive.google.com/file/d/1ArtPChSrdU8NPM97KWKkTvQkDsz51uwS/view?usp=share_link",
       "cvType": null,
-      "cvStatus": "独立 CV 待核对。",
-      "publicationsUrl": null,
+      "cvStatus": null,
+      "publicationsUrl": "https://sites.google.com/site/sreyescarocca/",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "已从公开师资目录匹配任职与研究方向。作者 ID、文章计数和引用仍待核对。",
-      "metrics": [],
-      "identityUrl": null,
-      "papers": [],
-      "directoryEvidence": [
+      "identityNote": "任职、七页 CV、近年原文与高引黎曼曲面作品相符。作品可见 33，作者档 35，23 条 article。书及书的预印本不作期刊论文。",
+      "metrics": [
         {
-          "text": "Área de investigación : Didáctica de las matemáticas; Geometría compleja Línea de investigación : Espacios de trabajo matemático; Didáctica universitaria; Superficies de Riemann y variedades jacobianas",
-          "url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos"
+          "source": "OpenAlex",
+          "authorId": "A5051525742",
+          "url": "https://openalex.org/A5051525742",
+          "checkedAt": "2026-11-27",
+          "articles": 23,
+          "works": 35,
+          "citations": 182,
+          "hIndex": 10,
+          "articleScope": "OpenAlex type:article，逐项核过该作者可读作品与正式 DOI",
+          "citationScope": "OpenAlex 作者档案累计引用"
         }
       ],
-      "checkedAt": "2026-11-23",
+      "identityUrl": null,
+      "papers": [
+        {
+          "title": "On Dihedral Group Actions on Riemann Surfaces",
+          "year": 2026,
+          "url": "https://doi.org/10.17323/1609-4514-2026-26-1-19-50",
+          "type": "期刊论文"
+        },
+        {
+          "title": "A generalisation of the pencil of Kuribayashi-Komiya quartics",
+          "year": 2026,
+          "url": "https://doi.org/10.1016/j.jalgebra.2026.01.033",
+          "type": "期刊论文"
+        }
+      ],
+      "directoryEvidence": [
+        {
+          "text": "Complex geometry of compact Riemann surfaces, automorphism loci in moduli, Jacobian varieties and algebraic curves",
+          "url": "https://sites.google.com/site/sreyescarocca/"
+        }
+      ],
+      "checkedAt": "2026-11-27",
       "recordStatus": "directory"
     },
     {

@@ -16752,14 +16752,174 @@
       "note": "统计系公开分栏 2 张具名卡，核对数学礼聘及几何方法方向。"
     },
     {
+      "id": "uchile-campus-b62",
+      "school": "uchile",
+      "url": "https://uchile.cl/presentacion/perfil-de-la-universidad/campus-e-instalaciones",
+      "label": "Universidad de Chile · campus e instalaciones",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "大学公开校园和设施清单。先核 Juan Gómez Millas 理学院和 Beauchef 工程学院；跨院合作继续用科研单位及任职来源区分。"
+    },
+    {
+      "id": "uchile-cmmAll-b62",
+      "school": "uchile",
+      "url": "https://www.cmm.uchile.cl/investigadores/",
+      "label": "CMM · investigadores (site overview)",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "当前 CMM 公有页披露 70 多位和岗位统计但无逐人名。并行查 2026 拨款、具名研究组及官方旧站角色入口。"
+    },
+    {
+      "id": "uchile-cmmArchRoot-b62",
+      "school": "uchile",
+      "url": "https://archivo.cmm.uchile.cl/?page_id=75",
+      "label": "CMM · archivo institucional · people categories",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "官方档案有研究员、联属、科研人员、博士后、杰出教授和访问人员七类分栏，角色与任期需比对现站和本人证据。"
+    },
+    {
+      "id": "uchile-cmmFund-b62",
+      "school": "uchile",
+      "url": "https://uchile.cl/noticias/246445/anid-renueva-financiamiento-al-centro-de-modelamiento-matematico-uchile",
+      "label": "Universidad de Chile · ANID renueva el CMM",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "2026 公告确认 CMM 现阶段的范围和校级科研中心任期，与 2024 ANID 项目概览跨期对照。"
+    },
+    {
+      "id": "uchile-cmmpdeNow-b62",
+      "school": "uchile",
+      "url": "https://www.cmm.uchile.cl/analisis-no-lineal-y-ecuaciones-diferenciales-parciales/",
+      "label": "CMM · análisis no lineal y ecuaciones diferenciales parciales",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "当前分组具名 14 条，含工程数学系、UOH、博士后及一条未写角色。核过 Caju、Kowalczyk 任职，另两个博士后及跨校人员继续复核。"
+    },
+    {
+      "id": "uchile-dfiDoctor-b62",
+      "school": "uchile",
+      "url": "https://dfi.uchile.cl/docencia/doctorado-en-ciencias-mencion-fisica/lineas-de-investigacion",
+      "label": "FCFM Física · Doctorado y claustro",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "七个研究方向具名。引力组三位和一位合作，和硕士与工程学院名单交叉。"
+    },
+    {
+      "id": "uchile-dfiGrad-b62",
+      "school": "uchile",
+      "url": "https://dfi.uchile.cl/docencia/magister-en-ciencias-con-mencion-en-fisica/lineas-de-investigacion",
+      "label": "FCFM Física · Magíster y claustro",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "七个研究方向具名。Gravitación y cosmología 一组四位和一位合作，个别旧人由 2025 告别公告及本期岗位订正。"
+    },
+    {
+      "id": "uchile-dfiHoj-b62",
+      "school": "uchile",
+      "url": "https://dfc.uchile.cl/inicio/homenajes/",
+      "label": "Facultad de Ciencias · física · despedida de Sergio Hojman",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "学院有日期的 2025 公告明确智利大学正教授任期止于 2024。研究生项目仍有合作卡，独立 UAI 目录列按小时教授。"
+    },
+    {
+      "id": "uchile-dfisc-b62",
+      "school": "uchile",
+      "url": "https://ciencias.uchile.cl/departamentos/fisica/academicos",
+      "label": "Facultad de Ciencias · Física · actuales académicos",
+      "status": "reference",
+      "count": 19,
+      "checked_at": "2026-11-27",
+      "note": "理学院物理系具名 19 位，逐卡研究领域覆盖凝聚态、非线性、等离子体、量子、软物质和天体，校区和工程学院物理系分开。"
+    },
+    {
+      "id": "uchile-dim-b62",
+      "school": "uchile",
+      "url": "https://www.dim.uchile.cl/jornada-completa/",
+      "label": "Ingeniería Matemática · 33 profesores de jornada completa",
+      "status": "parsed",
+      "count": 33,
+      "checked_at": "2026-11-27",
+      "note": "三个全职表和逐人卡共 33 位。部门研究页五个基础研究组互证。当前明确的几何教师三位，合并 DIM、CMM 联属。"
+    },
+    {
+      "id": "uchile-dimpart-b62",
+      "school": "uchile",
+      "url": "https://www.dim.uchile.cl/jornada-parcial/",
+      "label": "Ingeniería Matemática · 9 profesores de jornada parcial",
+      "status": "reference",
+      "count": 9,
+      "checked_at": "2026-11-27",
+      "note": "9 位兼职教授具名卡。该页披露岗位，部分人员无研究小传；当前与研究组、学院和个人来源继续对照。"
+    },
+    {
+      "id": "uchile-dimresearch-b62",
+      "school": "uchile",
+      "url": "https://www.dim.uchile.cl/investigacion/",
+      "label": "Ingeniería Matemática · líneas de investigación",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "交叉核五个基础组，非线性 PDE 和概率动力组与几何候选相交。另列六个 CMM 应用实验室的主题和人员。"
+    },
+    {
+      "id": "uchile-dimret-b62",
+      "school": "uchile",
+      "url": "https://www.dim.uchile.cl/profesores-emeritos/",
+      "label": "Ingeniería Matemática · profesores eméritos",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "部门现网址返回无搜索结果，未取得现行独立荣休清单；使用学院名册和具名公告。"
+    },
+    {
       "id": "uchile-full-audit-source",
       "school": "uchile",
       "url": "https://ciencias.uchile.cl/departamentos/matematicas/investigacion-publicaciones/areas-investigacion",
-      "label": "Áreas de investigación - Facultad de Ciencias - Universidad de Chile",
-      "status": "needs_adapter",
+      "label": "Facultad de Ciencias · Matemáticas · Áreas de investigación",
+      "status": "reference",
       "count": 0,
-      "checked_at": "2026-11-23",
-      "note": "已保存网页，目录为动态列表或结构尚未对账。"
+      "checked_at": "2026-11-27",
+      "note": "三个具名分组 9、7、2 人。七人的代数几何与数论为合组，逐人只按本人的细分研究认定。教育为另列方向。"
+    },
+    {
+      "id": "uchile-gaandes-b62",
+      "school": "uchile",
+      "url": "https://gaandes.com/",
+      "label": "Geometric Analysis by the Andes · 2026 organizing appointments",
+      "status": "reference",
+      "count": 2,
+      "checked_at": "2026-11-27",
+      "note": "2026-09 当前六位具名委员。两位明确 DIM/CMM 的本校组织者，另四位来自 PUC 和 UTFSM。"
+    },
+    {
+      "id": "uchile-gr-b62",
+      "school": "uchile",
+      "url": "https://dfi.uchile.cl/investigacion/grupos-de-investigacion/gravitacion-y-cosmologia",
+      "label": "FCFM Física · gravitación y cosmología",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "现有组别侧重宇宙学和引力，后续需要对照当前人员任聘和具体几何论文。"
+    },
+    {
+      "id": "uchile-gv-b62",
+      "school": "uchile",
+      "url": "https://sites.google.com/uchile.cl/gv-bcef",
+      "label": "MATH-AmSud · geometry of varieties",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "查看法、巴、厄、智项目，主题群作用、模空间和曲面。各国合作成员分别核其在校现任与时间。"
     },
     {
       "id": "uchile-math-source",
@@ -16767,9 +16927,9 @@
       "url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
       "label": "Facultad de Ciencias · Departamento de Matemáticas · Cuerpo académico",
       "status": "parsed",
-      "count": 24,
-      "checked_at": "2026-11-23",
-      "note": ""
+      "count": 27,
+      "checked_at": "2026-11-27",
+      "note": "现行目录共 29 个人员栏位，27 位不同学者。Labra、Quezada 各在荣休和荣誉栏出现两次。逐人区分数论、表示、教育及几何主题。"
     },
     {
       "id": "uci-catalog",
@@ -433031,19 +433191,547 @@
       }
     },
     {
+      "source": "uchile-dim-b62",
+      "person_key": "alejandrojofre",
+      "school": "uchile",
+      "record": {
+        "name": "Alejandro Jofré",
+        "title": "Profesor Titular",
+        "research": "Optimización y equilibrio",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=2172",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "alejandromaass",
+      "school": "uchile",
+      "record": {
+        "name": "Alejandro Maass",
+        "title": "Profesor Titular",
+        "research": "Procesos estocásticos, teoría ergódica y modelamiento estocástico",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=4214",
+        "homepage": "https://sites.google.com/view/amaass/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "aveliosepulveda",
+      "school": "uchile",
+      "record": {
+        "name": "Avelio Sepúlveda",
+        "title": "Profesor Asistente",
+        "research": "Procesos estocásticos, teoría ergódica y modelamiento estocástico",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=95638",
+        "homepage": "http://www.dim.uchile.cl/~lsepulveda/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "axelosses",
+      "school": "uchile",
+      "record": {
+        "name": "Axel Osses",
+        "title": "Profesor Titular",
+        "research": "Mecánica matemática y problemas inversos",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=5541",
+        "homepage": "https://personal.cmm.uchile.cl/axosses/es/acerca/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "carlosconca",
+      "school": "uchile",
+      "record": {
+        "name": "Carlos Conca",
+        "title": "Profesor Titular",
+        "research": "Mecánica matemática y problemas inversos",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=1526",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "claudiomunoz",
+      "school": "uchile",
+      "record": {
+        "name": "Claudio Muñoz",
+        "title": "Profesor Titular",
+        "research": "Análisis no lineal y ecuaciones en derivadas parciales",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=13882",
+        "homepage": "https://sites.google.com/view/claumuno/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "danielremenik",
+      "school": "uchile",
+      "record": {
+        "name": "Daniel Remenik",
+        "title": "Profesor Titular",
+        "research": "Procesos estocásticos, teoría ergódica y modelamiento estocástico",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=13603",
+        "homepage": "http://www.dim.uchile.cl/~dremenik/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "donatovasquez",
+      "school": "uchile",
+      "record": {
+        "name": "Donato Vásquez",
+        "title": "Profesor Asistente",
+        "research": "Mecánica matemática y problemas inversos",
+        "profile": "https://ingenieria.uchile.cl/sobre-la-fcfm/organizacion/personas/cuerpo-academico/ingenieria-matematica?qui_id=2672562",
+        "homepage": "http://www.dim.uchile.cl/~dvasquez",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "gabriellenornberg",
+      "school": "uchile",
+      "record": {
+        "name": "Gabrielle Nornberg",
+        "title": "Profesora Asistente",
+        "research": "Análisis no lineal y ecuaciones en derivadas parciales",
+        "profile": "https://ingenieria.uchile.cl/sobre-la-fcfm/organizacion/personas/cuerpo-academico/ingenieria-matematica?qui_id=2661710",
+        "homepage": "https://sites.google.com/view/gabrielle-nornberg/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "hannevandenbosch",
+      "school": "uchile",
+      "record": {
+        "name": "Hanne Van Den Bosch",
+        "title": "Profesora Asistente",
+        "research": "Análisis no lineal y ecuaciones en derivadas parciales",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=1854333",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "hectorramirez",
+      "school": "uchile",
+      "record": {
+        "name": "Héctor Ramírez",
+        "title": "Profesor Titular",
+        "research": "Optimización y equilibrio",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=11183",
+        "homepage": "https://sites.google.com/site/hectorramirezhomepage/home",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "ivanrapaport",
+      "school": "uchile",
+      "record": {
+        "name": "Iván Rapaport",
+        "title": "Profesor Titular",
+        "research": "Algoritmos y combinatoria",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=3535",
+        "homepage": "http://www.dim.uchile.cl/~rapaport/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "jaimeortega",
+      "school": "uchile",
+      "record": {
+        "name": "Jaime Ortega",
+        "title": "Profesor Titular",
+        "research": "Mecánica matemática y problemas inversos",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=16359",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "jaimesanmartin",
+      "school": "uchile",
+      "record": {
+        "name": "Jaime San Martín",
+        "title": "Profesor Titular",
+        "research": "Procesos estocásticos, teoría ergódica y modelamiento estocástico",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=1657",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "joaquinfontbona",
+      "school": "uchile",
+      "record": {
+        "name": "Joaquín Fontbona",
+        "title": "Profesor Asociado",
+        "research": "Procesos estocásticos, teoría ergódica y modelamiento estocástico",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=10210",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "jorgesanmartin",
+      "school": "uchile",
+      "record": {
+        "name": "Jorge San Martín",
+        "title": "Profesor Asociado",
+        "research": "Mecánica matemática y problemas inversos",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=96",
+        "homepage": "http://www.dim.uchile.cl/~jorge/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "josesoto",
+      "school": "uchile",
+      "record": {
+        "name": "José Soto",
+        "title": "Profesor Asociado",
+        "research": "Algoritmos y combinatoria",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=13918",
+        "homepage": "http://www.dim.uchile.cl/~jsoto/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "marcoskiwi",
+      "school": "uchile",
+      "record": {
+        "name": "Marcos Kiwi",
+        "title": "Profesor Titular",
+        "research": "Algoritmos y combinatoria",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=865",
+        "homepage": "http://www.dim.uchile.cl/~mkiwi/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "mariaeugeniamartinez",
+      "school": "uchile",
+      "record": {
+        "name": "María Eugenia Martínez",
+        "title": "Profesora Asistente",
+        "research": "Análisis no lineal y ecuaciones en derivadas parciales",
+        "profile": "https://ingenieria.uchile.cl/sobre-la-fcfm/organizacion/personas/cuerpo-academico/ingenieria-matematica?qui_id=1146362",
+        "homepage": "https://sites.google.com/uchile.cl/mariaemartinez",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "martinmatamala",
+      "school": "uchile",
+      "record": {
+        "name": "Martín Matamala",
+        "title": "Profesor Titular",
+        "research": "Algoritmos y combinatoria",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=247",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "matiaspavez",
+      "school": "uchile",
+      "record": {
+        "name": "Matías Pavez",
+        "title": "Profesor Asistente",
+        "research": "Algoritmos y combinatoria",
+        "profile": "https://portafolio-academico.uchile.cl/perfil/82842-Matias-Nicolas-Pavez-Signe",
+        "homepage": "http://www.dim.uchile.cl/~mpavez",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "mayastein",
+      "school": "uchile",
+      "record": {
+        "name": "Maya Stein",
+        "title": "Profesora Titular",
+        "research": "Algoritmos y combinatoria",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=82512",
+        "homepage": "http://www.dim.uchile.cl/~mstein/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "michałkowalczyk",
+      "school": "uchile",
+      "record": {
+        "name": "Michał Kowalczyk",
+        "title": "Profesor Titular",
+        "research": "Análisis no lineal y ecuaciones en derivadas parciales",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=16794",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "patriciofelmer",
+      "school": "uchile",
+      "record": {
+        "name": "Patricio Felmer",
+        "title": "Profesor Titular",
+        "research": "Análisis no lineal y ecuaciones en derivadas parciales",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=2434",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "pedroperez",
+      "school": "uchile",
+      "record": {
+        "name": "Pedro Pérez",
+        "title": "Profesor Asociado",
+        "research": "Optimización y equilibrio",
+        "profile": "https://www.dim.uchile.cl/jornada-completa/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "rafaelcorrea",
+      "school": "uchile",
+      "record": {
+        "name": "Rafael Correa",
+        "title": "Profesor Titular",
+        "research": "Optimización y equilibrio",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=16729",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "raulgouet",
+      "school": "uchile",
+      "record": {
+        "name": "Raúl Gouet",
+        "title": "Profesor Asociado",
+        "research": "Procesos estocásticos, teoría ergódica y modelamiento estocástico",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=1544",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "raulmanasevich",
+      "school": "uchile",
+      "record": {
+        "name": "Raúl Manasevich",
+        "title": "Profesor Titular",
+        "research": "Análisis no lineal y ecuaciones en derivadas parciales",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=112",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "rayssacaju",
+      "school": "uchile",
+      "record": {
+        "name": "Rayssa Caju",
+        "title": "Profesora Asistente",
+        "research": "Geometría, análisis no lineal y ecuaciones en derivadas parciales",
+        "profile": "https://ingenieria.uchile.cl/sobre-la-fcfm/organizacion/personas/cuerpo-academico/ingenieria-matematica?qui_id=2938202",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "rodolfogutierrezromo",
+      "school": "uchile",
+      "record": {
+        "name": "Rodolfo Gutiérrez-Romo",
+        "title": "Profesor Asistente",
+        "research": "Sistemas Dinámicos y Teoría Ergódica",
+        "profile": "https://ingenieria.uchile.cl/sobre-la-fcfm/organizacion/personas/cuerpo-academico/ingenieria-matematica?qui_id=91574",
+        "homepage": "https://www.dim.uchile.cl/~rgutierrez/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "salomemartinez",
+      "school": "uchile",
+      "record": {
+        "name": "Salomé Martínez",
+        "title": "Profesora Titular",
+        "research": "Análisis no lineal y ecuaciones en derivadas parciales",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=141",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "sebastiandonoso",
+      "school": "uchile",
+      "record": {
+        "name": "Sebastián Donoso",
+        "title": "Profesor Asociado",
+        "research": "Procesos estocásticos, teoría ergódica y modelamiento estocástico",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=83813",
+        "homepage": "http://www.dim.uchile.cl/~sdonoso",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-dim-b62",
+      "person_key": "servetmartinez",
+      "school": "uchile",
+      "record": {
+        "name": "Servet Martínez",
+        "title": "Profesor Titular",
+        "research": "Procesos estocásticos, teoría ergódica y modelamiento estocástico",
+        "profile": "http://ingenieria.uchile.cl/facultad/cuerpo-academico/92409/ingenieria-matematica?qui_id=1446",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://www.dim.uchile.cl/jornada-completa/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
       "source": "uchile-math-source",
       "person_key": "aliciacarmenlabrajeldres",
       "school": "uchile",
       "record": {
         "name": "Alicia Carmen Labra Jeldres",
         "title": "Profesora Titular",
-        "research": "Área de investigación : Álgebras no asociativas Línea de investigación : Identidades polinomiales; Álgebras de evolución",
+        "research": "Álgebras no asociativas; Identidades polinomiales; Álgebras de evolución",
         "profile": "https://portafolio-academico.uchile.cl/perfil/9107-Alicia-Carmen-Labra-Jeldres",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433053,13 +433741,13 @@
       "record": {
         "name": "Álvaro Matías Bustos Gajardo",
         "title": "Profesor Asistente",
-        "research": "",
+        "research": "Sistemas Dinámicos",
         "profile": "https://portafolio-academico.uchile.cl/perfil/89656-Alvaro-Matias-Bustos-Gajardo",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433069,13 +433757,13 @@
       "record": {
         "name": "Álvaro Patricio Castañeda González",
         "title": "Profesor Titular",
-        "research": "Área de investigación : Sistemas dinámicos; Ecuaciones diferenciales ordinarias. Línea de investigación : Estabilidad asintótica global; Inyectividad global; Equivalencia topológica",
+        "research": "Sistemas dinámicos; Ecuaciones diferenciales ordinarias.; Estabilidad asintótica global; Inyectividad global; Equivalencia topológica",
         "profile": "https://portafolio-academico.uchile.cl/perfil/49610-Alvaro-Patricio-Castaneda-Gonzalez",
         "homepage": "http://sites.google.com/view/alvaro-castaneda",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433085,13 +433773,13 @@
       "record": {
         "name": "Angel Pardo Jaqueih",
         "title": "Profesor Asistente",
-        "research": "Área de investigación : Sistemas dinámicos; Geometría Línea de investigación : Billares poligonales; Superficies de traslación; Dinámica en espacios de módulos; Dinámica y geometría en espacios de Teichmüller.",
-        "profile": "",
+        "research": "Sistemas dinámicos; Geometría; Billares poligonales; Superficies de traslación; Dinámica en espacios de módulos; Dinámica y geometría en espacios de Teichmüller.",
+        "profile": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
         "homepage": "https://sites.google.com/uchile.cl/angel-pardo",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433101,13 +433789,13 @@
       "record": {
         "name": "Anita María Rojas Rodríguez",
         "title": "Profesora Titular",
-        "research": "Área de investigación : Matemáticas; Geometría compleja Línea de investigación : Estudio del espacio de módulos de superficies de Riemann y variedades Abelianas, con particular interés en el lugar de objetos con simetrías",
+        "research": "Matemáticas; Geometría compleja; Estudio del espacio de módulos de superficies de Riemann y variedades Abelianas, con particular interés en el lugar de objetos con simetrías",
         "profile": "https://portafolio-academico.uchile.cl/perfil/36599-Anita-Maria-Rojas-Rodriguez",
         "homepage": "https://sites.google.com/uchile.cl/anirojas",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433123,7 +433811,7 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433133,13 +433821,13 @@
       "record": {
         "name": "Carolina Emary Canales González",
         "title": "Profesora Asistente en Carrera Docente",
-        "research": "Línea de investigación : Foliaciones holomorfas - Experimentos matemáticos",
+        "research": "Geometría Compleja - Docencia Universitaria; Foliaciones holomorfas - Experimentos matemáticos",
         "profile": "https://portafolio-academico.uchile.cl/perfil/332556-Carolina-Emary-Canales-Gonzalez",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433149,13 +433837,29 @@
       "record": {
         "name": "Claudio Andrés Gallegos Castro",
         "title": "Profesor Asistente",
-        "research": "Área de investigación : Análisis Línea de investigación : Ecuaciones diferenciales",
+        "research": "Análisis; Ecuaciones diferenciales",
         "profile": "https://portafolio-academico.uchile.cl/perfil/623705-Claudio-Andres-Gallegos-Castro",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-math-source",
+      "person_key": "cristoballucianorivasespinosa",
+      "school": "uchile",
+      "record": {
+        "name": "Cristóbal Luciano Rivas Espinosa",
+        "title": "Profesor Asociado",
+        "research": "Sistemas Dinámicos, Teoría de Grupos; Grupos ordenables, acciones de grupos en baja dimensión, lenguajes formales",
+        "profile": "https://portafolio-academico.uchile.cl/perfil/69271-Cristobal-Luciano-Rivas-Espinosa",
+        "homepage": "https://sites.google.com/view/cristobalrivas",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433165,13 +433869,13 @@
       "record": {
         "name": "Eduardo Carlos Friedman Rafael",
         "title": "Profesor Titular",
-        "research": "Área de investigación : Teoría de números Línea de investigación : Funciones zeta; Reguladores; Unidades",
+        "research": "Teoría de números; Funciones zeta; Reguladores; Unidades",
         "profile": "https://portafolio-academico.uchile.cl/perfil/12589-Eduardo-Carlos-Friedman-Rafael",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433181,13 +433885,13 @@
       "record": {
         "name": "Giancarlo Antonio Lucchini Arteche",
         "title": "Profesor Asociado",
-        "research": "Área de investigación : Matemáticas Líneas de investigación : Grupos algebraicos; Espacios homogéneos; Cohomología de Galois; Puntos racionales; Principio de Hasse; Aproximación débil; Grupo de Brauer y obstrucción de Brauer-Manin",
+        "research": "Matemáticas; Grupos algebraicos; Espacios homogéneos; Cohomología de Galois; Puntos racionales; Principio de Hasse; Aproximación débil; Grupo de Brauer y obstrucción de Brauer-Manin",
         "profile": "https://portafolio-academico.uchile.cl/perfil/75517-Giancarlo-Antonio-Lucchini-Arteche",
         "homepage": "https://sites.google.com/a/uchile.cl/mat-ciencias-prof-giancarlo-lucchini/home",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433197,13 +433901,13 @@
       "record": {
         "name": "Gonzalo Ricardo Robledo Veloso",
         "title": "Profesor Asociado",
-        "research": "Área de investigación : Ecuaciones diferenciales; Modelamiento de sistemas biológicos Línea de investigación : Sistemas no autónomos y dicotomías",
+        "research": "Ecuaciones diferenciales; Modelamiento de sistemas biológicos; Sistemas no autónomos y dicotomías",
         "profile": "https://portafolio-academico.uchile.cl/perfil/26855-Gonzalo-Ricardo-Robledo-Veloso",
         "homepage": "https://sites.google.com/a/u.uchile.cl/mat-ciencias-prof-gonzalo-robledo",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433213,13 +433917,13 @@
       "record": {
         "name": "Ignacio Roberto Huerta Navarro",
         "title": "Profesor Asistente",
-        "research": "Área de investigación : Sistemas dinámicos; Ecuaciones diferenciales ordinarias. Línea de investigación : Tópicos en teoría cualitativa de ecuaciones diferenciales ordinarias, teoría de control y teoría de estabilidad en un contexto no autónomo.",
+        "research": "Sistemas dinámicos; Ecuaciones diferenciales ordinarias.; Tópicos en teoría cualitativa de ecuaciones diferenciales ordinarias, teoría de control y teoría de estabilidad en un contexto no autónomo.",
         "profile": "https://portafolio-academico.uchile.cl/perfil/90397-Ignacio-Roberto-Huerta-Navarro",
         "homepage": "https://sites.google.com/uchile.cl/ignacio-huerta-navarro/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433229,13 +433933,13 @@
       "record": {
         "name": "Jorge Antonio Soto Andrade",
         "title": "Profesor Titular",
-        "research": "Línea de investigación : Didáctica de las matemáticas; Teoría de representaciones; Biología sistémica; Ciencias cognitivas",
+        "research": "Matemáticas; Terreno de frontera; Didáctica de las matemáticas; Teoría de representaciones; Biología sistémica; Ciencias cognitivas",
         "profile": "https://portafolio-academico.uchile.cl/perfil/4298-Jorge-Antonio-Soto-Andrade",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433245,13 +433949,13 @@
       "record": {
         "name": "Leslie Alejandra Jiménez Palma",
         "title": "Profesora Asistente",
-        "research": "Área de investigación : Didáctica de las matemáticas; Geometría compleja Línea de investigación : Espacios de trabajo matemático; Didáctica universitaria; Superficies de Riemann y variedades jacobianas",
+        "research": "Didáctica de las matemáticas; Geometría compleja; Espacios de trabajo matemático; Didáctica universitaria; Superficies de Riemann y variedades jacobianas",
         "profile": "https://portafolio-academico.uchile.cl/perfil/61830-Leslie-Alejandra-Jimenez-Palma",
         "homepage": "https://sites.google.com/site/lesliejimenezpalma",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433261,13 +433965,29 @@
       "record": {
         "name": "Luis Ernesto Arenas Carmona",
         "title": "Profesor Asociado",
-        "research": "Área de investigación : Teoría de números; Álgebra Línea de investigación : Teoría de representaciones enteras de forma antihermitianas y órdenes maximales",
+        "research": "Teoría de números; Álgebra; Teoría de representaciones enteras de forma antihermitianas y órdenes maximales",
         "profile": "https://portafolio-academico.uchile.cl/perfil/38603-Luis-Ernesto-Arenas-Carmona",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-math-source",
+      "person_key": "nataliadelpilarhenriquezcabezas",
+      "school": "uchile",
+      "record": {
+        "name": "Natalia del Pilar Henríquez Cabezas",
+        "title": "Profesora Asociada",
+        "research": "Estadística y Probabilidad; Modelamiento Estadístico",
+        "profile": "https://portafolio-academico.uchile.cl/perfil/24899-Natalia-del-Pilar-Henriquez-Cabezas",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433277,13 +433997,13 @@
       "record": {
         "name": "Nelda Diana Jaque Tamblay",
         "title": "Profesora Asistente",
-        "research": "Área de investigación : Sistemas dinámicos y Teoría ergódica.",
+        "research": "Sistemas dinámicos y Teoría ergódica.",
         "profile": "https://portafolio-academico.uchile.cl/perfil/101916-Nelda-Diana-Jaque-Tamblay",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433293,13 +434013,13 @@
       "record": {
         "name": "Nicolás Iván Libedinsky Silva",
         "title": "Profesor Titular",
-        "research": "Área de investigación : Teoría de representaciones Línea de investigación : Teoría superior de representaciones; Acciones categóricas; Álgebra diagramática; Representaciones modulares; Grupos de trenzas",
+        "research": "Teoría de representaciones; Teoría superior de representaciones; Acciones categóricas; Álgebra diagramática; Representaciones modulares; Grupos de trenzas",
         "profile": "https://portafolio-academico.uchile.cl/perfil/60612-Nicolas-Ivan-Libedinsky-Silva",
         "homepage": "https://nicolaslibedinsky.cl",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433309,13 +434029,13 @@
       "record": {
         "name": "Paulina Alejandra Cecchi Bernales",
         "title": "Profesora Asistente",
-        "research": "Área de investigación : Sistemas Dinámicos Línea de investigación : Dinámica simbólica, Combinatoria de palabras, Teórica Ergódica y Acciones de grupo sobre el Cantor.",
+        "research": "Sistemas Dinámicos; Dinámica simbólica, Combinatoria de palabras, Teórica Ergódica y Acciones de grupo sobre el Cantor.",
         "profile": "https://portafolio-academico.uchile.cl/perfil/70366-Paulina-Alejandra-Cecchi-Bernales",
         "homepage": "https://sites.google.com/view/paulinacb",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433325,13 +434045,13 @@
       "record": {
         "name": "Robert Frederick Auffarth",
         "title": "Profesor Asociado",
-        "research": "Área de investigación : Geometría algebraica Línea de investigación : Geometría y grupos finitos",
+        "research": "Geometría algebraica; Geometría y grupos finitos",
         "profile": "https://portafolio-academico.uchile.cl/perfil/56996-Robert-Frederick-Auffarth-",
         "homepage": "https://sites.google.com/uchile.cl/rfauffar/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433341,13 +434061,13 @@
       "record": {
         "name": "Rolando Jorge Pomareda Rodríguez",
         "title": "Profesor Titular",
-        "research": "Área de investigación : Matemáticas Líneas de investigación : Teoría de grupos; Geometría finita",
+        "research": "Matemáticas; Teoría de grupos; Geometría finita",
         "profile": "https://portafolio-academico.uchile.cl/perfil/2976-Rolando-Jorge-Pomareda-Rodriguez",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433357,13 +434077,29 @@
       "record": {
         "name": "Sebastián Andrés Barbieri Lemp",
         "title": "Profesor asociado",
-        "research": "Área de investigación : Sistemas dinámicos Línea de investigación : Dinámica simbólica en grupos y computabilidad.",
+        "research": "Sistemas dinámicos; Dinámica simbólica en grupos y computabilidad.",
         "profile": "https://portafolio-academico.uchile.cl/perfil/343926-Sebastian-Andres-Barbieri-Lemp",
         "homepage": "http://www.sbarbieri.usach.cl/",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-math-source",
+      "person_key": "sebastianandresreyescarocca",
+      "school": "uchile",
+      "record": {
+        "name": "Sebastián Andrés Reyes Carocca",
+        "title": "Profesor Asociado",
+        "research": "Geometría; Superficies de Riemann y variedades abelianas",
+        "profile": "https://portafolio-academico.uchile.cl/perfil/722627-Sebastian-Andres-Reyes-Carocca",
+        "homepage": "https://sites.google.com/site/sreyescarocca/",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433373,13 +434109,13 @@
       "record": {
         "name": "Sergio Roberto Muñoz Venegas",
         "title": "Profesor Asistente en Carrera Docente",
-        "research": "Línea de investigación : Docencia de matemáticas en pregrados de ciencias naturales.",
+        "research": "Docencia universitaria.; Docencia de matemáticas en pregrados de ciencias naturales.",
         "profile": "https://portafolio-academico.uchile.cl/perfil/32293-Sergio-Roberto-Munoz-Venegas",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433389,13 +434125,13 @@
       "record": {
         "name": "Verónica Poblete Oviedo",
         "title": "Profesora Asociada",
-        "research": "Área de investigación : Análisis Línea de investigación : Análisis funcional; Ecuaciones de evolución",
+        "research": "Análisis; Análisis funcional; Ecuaciones de evolución",
         "profile": "https://portafolio-academico.uchile.cl/perfil/34331-Veronica-del-Rosario-Poblete-Oviedo",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
@@ -433405,13 +434141,13 @@
       "record": {
         "name": "Yves Leopoldo Martin González",
         "title": "Profesor Asociado",
-        "research": "Área de investigación : Teoría de números Línea de investigación : Formas modulares y formas automorfas; Series de Dirichlet en varias variables",
+        "research": "Teoría de números; Formas modulares y formas automorfas; Series de Dirichlet en varias variables",
         "profile": "https://portafolio-academico.uchile.cl/perfil/15936-Yves-Leopoldo-Martin-Gonzalez",
         "homepage": "",
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
-        "checked_at": "2026-11-23"
+        "checked_at": "2026-11-27"
       }
     },
     {
