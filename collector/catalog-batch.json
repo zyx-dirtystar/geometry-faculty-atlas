@@ -8839,7 +8839,7 @@
     {
       "id": "tec-monterrey",
       "coverage": "sample",
-      "coverageNote": "已解析 1/14 个登记来源，0 条任职或方向待核。 已收录 2 位学者，个人主页 1、CV 1、指标 1。 已从 TEC VIVO 读工程与科学学院全机构索引的 384 位教师和 491 位研究人员，按 875 个个人 URL 去重保留。已核数学、应用数学和理论物理的学科分栏，精确检索三类几何；索引有交叉课名和工程同词。蒙特雷校区 Alanís-López 与 Ucan-Puc 核实任职和专长。前者公开 CV 与本人书目提供 7 篇期刊口径，OpenAlex 混有同名作者。后者的 4 个 OpenAlex 期刊 DOI 已核实，累计引用涉及本人二档拆分。具名对照 Querétaro 的 Mendoza Martínez、Ciudad de México 的 Montalvo Urquizo，以及科学系、几何拓扑课程及量子态几何交叉。其他校区与学院人员、研究组织及历史分类仍在逐项对账。",
+      "coverageNote": "已解析 2/28 个登记来源，2 条任职或方向待核。 已收录 2 位学者，个人主页 1、CV 1、指标 1。 已从 TEC VIVO 读工程与科学学院全机构索引的 384 位教师和 491 位研究人员，按 875 个个人 URL 去重保留。已核数学、应用数学和理论物理的学科分栏，精确检索三类几何；索引有交叉课名和工程同词。蒙特雷校区 Alanís-López 与 Ucan-Puc 核实任职和专长。前者公开 CV 与本人书目提供 7 篇期刊口径，OpenAlex 混有同名作者。后者的 4 个 OpenAlex 期刊 DOI 已核实，累计引用涉及本人二档拆分。具名对照 Querétaro 的 Mendoza Martínez、Ciudad de México 的 Montalvo Urquizo，以及科学系、几何拓扑课程及量子态几何交叉。其他校区与学院人员、研究组织及历史分类仍在逐项对账。 学院具名人员批查已完整打开全部 875 张个人档，出现 19 个具名校区，8 张校园字段为空。教育项目校区表、2026 荣休公告、国家科研认证 644 人和数学物理子集 73 人已读取，确认独立研究单位和校区。数学与工程同词的逐人核验区分 Jaime Castro Pérez 的模与格拓扑、Saúl Juárez Ordóñez 的旧博士几何拓扑、引力波探测、光学和工程几何。核对 17 个无正文、学科和公开发表的薄档，两个蒙特雷 researcher 仍无可归属研究方向，已记录实名检索和实际条目。Ciudad Obregón 与 Sonora Norte 公开学程至第二学期，Obregón 校方具名教师通知随档保留，未找到两地独立现行几何研究名册。ORCID 与 DOI 复核确认两位核心学者的计数口径和累计引用缺项。",
       "rosterLinks": [
         [
           "Escuela de Ingeniería y Ciencias · Profesores",
@@ -8850,16 +8850,52 @@
           "https://www.smm.org.mx/files/congresos/2026/CongresoTlaxcala2026_v3.pdf"
         ],
         [
+          "TEC · official campus location index",
+          "https://tec.mx/es/exatec/responsables-de-atencion-por-campus"
+        ],
+        [
+          "TEC · School of Engineering and Sciences emeriti class 2026",
+          "https://conecta.tec.mx/es/noticias/nacional/institucion/22-docentes-nombrados-profesoras-y-profesores-emeritos-2026-fotos"
+        ],
+        [
           "TEC VIVO · Use of Geometry and Topology for Data Science",
           "https://research.tec.mx/vivo-tec/display/Course_176"
+        ],
+        [
+          "TEC VIVO · exact-name follow-up Castillo-Olvera, Guillermo",
+          "https://research.tec.mx/vivo-tec/search?querytext=Guillermo+Castillo+Olvera&classgroup=http%3A%2F%2Fvivoweb.org%2Fontology%23vitroClassGrouppeople"
+        ],
+        [
+          "TEC · IDM official programme and campus scope",
+          "https://tec.mx/es/ingenieria-y-ciencias/ingenieria-en-inteligencia-artificial-y-ciencia-de-datos"
+        ],
+        [
+          "TEC VIVO · exact-name follow-up Rincón-Aguirre, Jeny Alexandra",
+          "https://research.tec.mx/vivo-tec/search?querytext=Jeny+Alexandra+Rinc%C3%B3n+Aguirre&classgroup=http%3A%2F%2Fvivoweb.org%2Fontology%23vitroClassGrouppeople"
+        ],
+        [
+          "Lilia Alanís-López · ORCID contamination and bibliography evidence",
+          "https://pub.orcid.org/v3.0/0000-0002-5045-6140/works"
         ],
         [
           "Lilia Alanís-López · public academic curriculum vitae",
           "https://sites.google.com/tec.mx/liliaalanislopez/curriculum-vitae"
         ],
         [
+          "TEC · obesity research institute and bioengineering record",
+          "https://research.tec.mx/vivo-tec/display/PID_188570"
+        ],
+        [
+          "TEC · advanced materials and historical gravity research",
+          "https://research.tec.mx/vivo-tec/display/PID_507015"
+        ],
+        [
           "TEC VIVO · Applied Mathematics",
           "https://research.tec.mx/vivo-tec/display/CIPC_270301"
+        ],
+        [
+          "UNAM SIIA · Marisol Rodríguez Arcos academic evidence",
+          "https://siia.unam.mx/siia-publico/c/busqueda_individual.php?id=114269"
         ],
         [
           "数学系或所属学院人员入口",
@@ -8894,11 +8930,31 @@
           "https://research.tec.mx/vivo-tec/display/School_EIC"
         ],
         [
+          "TEC VIVO · Named scientific and geometry boundary cases",
+          "https://research.tec.mx/vivo-tec/display/School_EIC"
+        ],
+        [
+          "TEC · SNII certification index and physics/mathematics subset",
+          "https://tec.mx/es/investigacion/investigadores"
+        ],
+        [
+          "TEC · Ciudad Obregón mathematics teaching confirmation",
+          "https://conecta.tec.mx/es/noticias/ciudad-obregon/educacion/desde-sonora-docente-reconocido-como-lider-tecnologico-en-top"
+        ],
+        [
+          "Alejandro Ucan-Puc · ORCID publications and type provenance",
+          "https://pub.orcid.org/v3.0/0000-0002-0037-9394/works"
+        ],
+        [
           "UNAM · Alejandro Ucan-Puc complex geometry and doctoral identity",
           "https://www.matem.unam.mx/acerca-de/ingresos-y-visitantes/manuel-alejandro-ucan-puc-2021"
+        ],
+        [
+          "Warwick thesis · identity and computer vision",
+          "https://wrap.warwick.ac.uk/id/eprint/104211/"
         ]
       ],
-      "checkedAt": "2026-11-24"
+      "checkedAt": "2026-11-27"
     },
     {
       "id": "bnu",
@@ -63094,7 +63150,7 @@
         }
       ],
       "opportunities": [],
-      "identityNote": "校方及本人主页的 ORCID 与 A5103275650 相同，档案作品却混入管理学同名作者。期刊原文 10.22579/23463910.159 第三作者为 Lilia Alanís Gómez。已检索 OpenAlex 姓名档和 Google Scholar，后者公开姓名搜索转登录，作者自报 Scopus ID 的档案和出版商公开作者页面均返回 403。期刊数改用本人完整公开发表分栏的 7 篇口径；暂未核得公开累计引用。",
+      "identityNote": "校方及本人主页的 ORCID 与 A5103275650 相同，档案作品却混入管理学同名作者。期刊原文 10.22579/23463910.159 第三作者为 Lilia Alanís Gómez。已检索 OpenAlex 姓名档和 Google Scholar，后者公开姓名搜索转登录，作者自报 Scopus ID 的档案和出版商公开作者页面均返回 403。期刊数改用本人完整公开发表分栏的 7 篇口径；暂未核得公开累计引用。 作者 ORCID 公共记录的 Crossref 来源也自动收录同一管理学 DOI，原文作者是 Lilia Alanís Gómez。本人公开书目核实的范围独立可追溯。",
       "metrics": [],
       "identityUrl": null,
       "papers": [
@@ -63151,7 +63207,7 @@
       "publicationsUrl": "https://research.tec.mx/vivo-tec/display/PID_318207",
       "publicationCounts": [],
       "opportunities": [],
-      "identityNote": "VIVO ORCID 与 A5037695305 一致。论文 10.1080/10586458.2022.2093802、10.1007/s00574-017-0035-y 及具名 UNAM 履历支持身份。A5159331372 的 arXiv:2603.04625 由本人和 Tec 同事 Carlos Astengo 合著，确为一人分档。保留主档 4 个已核期刊 DOI 的篇数。Google Scholar 转登录，累计引用暂不合并发布。",
+      "identityNote": "VIVO ORCID 与 A5037695305 一致。论文 10.1080/10586458.2022.2093802、10.1007/s00574-017-0035-y 及具名 UNAM 履历支持身份。A5159331372 的 arXiv:2603.04625 由本人和 Tec 同事 Carlos Astengo 合著，确为一人分档。保留主档 4 个已核期刊 DOI 的篇数。Google Scholar 转登录，累计引用暂不合并发布。 ORCID 公共作品接口的 18 组按 DOI 与出版类型核对。可证当前正式期刊 DOI 对应 OpenAlex 主档的 4 篇。有三篇会议论文集章的部分第三方类型标为期刊，预印本另计。",
       "metrics": [
         {
           "source": "OpenAlex",

@@ -15082,6 +15082,26 @@
       "note": "当年官方大会报告目录的具名作者和 Tecnológico de Monterrey 署名补证研究任职。"
     },
     {
+      "id": "tec-monterrey-camlist-b72",
+      "school": "tec-monterrey",
+      "url": "https://tec.mx/es/exatec/responsables-de-atencion-por-campus",
+      "label": "TEC · official campus location index",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "校方校区索引用于区分城市与分校名称，不含全校教职列表。地区数学和科学公开任职以 VIVO、学校项目和具名校园公告比对。"
+    },
+    {
+      "id": "tec-monterrey-emeritus-b72",
+      "school": "tec-monterrey",
+      "url": "https://conecta.tec.mx/es/noticias/nacional/institucion/22-docentes-nombrados-profesoras-y-profesores-emeritos-2026-fotos",
+      "label": "TEC · School of Engineering and Sciences emeriti class 2026",
+      "status": "reference",
+      "count": 12,
+      "checked_at": "2026-11-27",
+      "note": "校方 2026 年新荣休完整大会公告中，工程与科学学院名单 12 位，分列 Monterrey 和 Estado de México。与现行人员档及数学研究组区分。"
+    },
+    {
       "id": "tec-monterrey-geometryCourse-b71",
       "school": "tec-monterrey",
       "url": "https://research.tec.mx/vivo-tec/display/Course_176",
@@ -15090,6 +15110,46 @@
       "count": 3,
       "checked_at": "2026-11-27",
       "note": "公开课程列 3 位任课教师。按具名档和独立研究材料区分复几何、代数几何与课程应用交叉。"
+    },
+    {
+      "id": "tec-monterrey-guillermoCO-b72",
+      "school": "tec-monterrey",
+      "url": "https://research.tec.mx/vivo-tec/search?querytext=Guillermo+Castillo+Olvera&classgroup=http%3A%2F%2Fvivoweb.org%2Fontology%23vitroClassGrouppeople",
+      "label": "TEC VIVO · exact-name follow-up Castillo-Olvera, Guillermo",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "VIVO 可定位研究人员卡。查过 VIVO 实名、校级目录及姓名加研究方向的检索。旧 UASLP 植物化学论文仅姓名相同，公用资料未找到可证明作者身份的 ORCID 或任职时间线。"
+    },
+    {
+      "id": "tec-monterrey-idm-b72",
+      "school": "tec-monterrey",
+      "url": "https://tec.mx/es/ingenieria-y-ciencias/ingenieria-en-inteligencia-artificial-y-ciencia-de-datos",
+      "label": "TEC · IDM official programme and campus scope",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "2027 招生表共有 19 个校区，本科数据数学原 IDM 由人工智能与数据科学名称延续。Ciudad de México、Estado de México、Guadalajara、Monterrey、Puebla、Querétaro 和 Santa Fe 提供完整学程，其他校区栏到第二学期。此为学程范围，人员需查校级档。"
+    },
+    {
+      "id": "tec-monterrey-jeny-b72",
+      "school": "tec-monterrey",
+      "url": "https://research.tec.mx/vivo-tec/search?querytext=Jeny+Alexandra+Rinc%C3%B3n+Aguirre&classgroup=http%3A%2F%2Fvivoweb.org%2Fontology%23vitroClassGrouppeople",
+      "label": "TEC VIVO · exact-name follow-up Rincón-Aguirre, Jeny Alexandra",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "VIVO 可定位这位研究人员，却未提供个人研究简介、学科标签、课程、教育或发表。已查 VIVO 精确姓名和外部学术实名检索，未核所属方向或教职。"
+    },
+    {
+      "id": "tec-monterrey-lORworks-b72",
+      "school": "tec-monterrey",
+      "url": "https://pub.orcid.org/v3.0/0000-0002-5045-6140/works",
+      "label": "Lilia Alanís-López · ORCID contamination and bibliography evidence",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "ORCID 公共 API 的第三方索引同样列同名管理学 DOI 10.22579/23463910.159，期刊原文归属 Lilia Alanís Gómez。保留本人公开书目范围，累计引用继续待核。"
     },
     {
       "id": "tec-monterrey-liliaCV-b71",
@@ -15102,6 +15162,26 @@
       "note": "阅读作者主页导航内的公开 CV 正文，包括教育、专业经历和发表分栏；参考独立书目核对篇数。"
     },
     {
+      "id": "tec-monterrey-lozano-b72",
+      "school": "tec-monterrey",
+      "url": "https://research.tec.mx/vivo-tec/display/PID_188570",
+      "label": "TEC · obesity research institute and bioengineering record",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-27",
+      "note": "官方具名档确认学校 SNII 笼统数学物理分类下的这位人员为生物工程和纳米医学研究。"
+    },
+    {
+      "id": "tec-monterrey-majari-b72",
+      "school": "tec-monterrey",
+      "url": "https://research.tec.mx/vivo-tec/display/PID_507015",
+      "label": "TEC · advanced materials and historical gravity research",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-27",
+      "note": "官方资料与国家科研认证确认 Parisa Majari 的研究所归属、现期轻质结构和过往引力模型研究。"
+    },
+    {
       "id": "tec-monterrey-mapply-b71",
       "school": "tec-monterrey",
       "url": "https://research.tec.mx/vivo-tec/display/CIPC_270301",
@@ -15110,6 +15190,16 @@
       "count": 25,
       "checked_at": "2026-11-27",
       "note": "口径为具名条目的学科索引，实际可读 25 项。校区、具体聘任与几何方向以各自公开具名档复核。"
+    },
+    {
+      "id": "tec-monterrey-matPhysAlt-b72",
+      "school": "tec-monterrey",
+      "url": "https://siia.unam.mx/siia-publico/c/busqueda_individual.php?id=114269",
+      "label": "UNAM SIIA · Marisol Rodríguez Arcos academic evidence",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "Tec 资料无个人简介，核对具名近年基础物理课程和 UNAM 公开成果，确认分子势及光谱模拟。"
     },
     {
       "id": "tec-monterrey-math-source",
@@ -15189,7 +15279,47 @@
       "status": "reference",
       "count": 875,
       "checked_at": "2026-11-27",
-      "note": "该校公开学院索引实际列 384 个 professor 与 491 个 researcher，共 875 个唯一人员档案。可见类别含不同校区、教职和研究关联，名单按源披露保留；具名任职仍需分别复核。"
+      "note": "学院全量可读 875 张具名公开卡，384 教师与 491 研究人员两分栏，全部链接已打开。实际名卡出现 19 个校区，另有 8 张无校区值。结合公开学科、授课、科研概要及实际发表核对方向。人事列表类别为 VIVO 登记类别，职级、主要任职与近期校区另按具名来源判定。"
+    },
+    {
+      "id": "tec-monterrey-schoolBoundary-b72",
+      "school": "tec-monterrey",
+      "url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+      "label": "TEC VIVO · Named scientific and geometry boundary cases",
+      "status": "parsed",
+      "count": 58,
+      "checked_at": "2026-11-27",
+      "note": "从 875 个个人档案中逐人复核数学、几何、拓扑、相对论、曲率及同词工程论文，另补查没有正文的学校档案。两项方向见具名公开资料限制。"
+    },
+    {
+      "id": "tec-monterrey-snii-b72",
+      "school": "tec-monterrey",
+      "url": "https://tec.mx/es/investigacion/investigadores",
+      "label": "TEC · SNII certification index and physics/mathematics subset",
+      "status": "reference",
+      "count": 73,
+      "checked_at": "2026-11-27",
+      "note": "机构 SNII 页面共 644 位具名条目。数学物理及地球科学 73 人，与学院 875 人公开索引按重音和姓名顺序核对；11 条不在该学院集合的另查具名校档及作者身份。SNII 认证与教职分类分别使用。"
+    },
+    {
+      "id": "tec-monterrey-sonora-b72",
+      "school": "tec-monterrey",
+      "url": "https://conecta.tec.mx/es/noticias/ciudad-obregon/educacion/desde-sonora-docente-reconocido-como-lider-tecnologico-en-top",
+      "label": "TEC · Ciudad Obregón mathematics teaching confirmation",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-27",
+      "note": "对照不在公开学院个人档校园字段中的 Ciudad Obregón 和 Sonora Norte。两地课程到第二学期。Ciudad Obregón 校方报道确认 Carlos Reyna 的数学和技术课及生物医学背景。两地未找到独立的当期几何研究名册。"
+    },
+    {
+      "id": "tec-monterrey-uORworks-b72",
+      "school": "tec-monterrey",
+      "url": "https://pub.orcid.org/v3.0/0000-0002-0037-9394/works",
+      "label": "Alejandro Ucan-Puc · ORCID publications and type provenance",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "ORCID 公共 API 可核 18 组，存在同 DOI 来源重复及论文集章被第三方标为期刊。按同 DOI 合并，核实与 OpenAlex 相符的正式期刊 DOI；单列预印本及论文集。"
     },
     {
       "id": "tec-monterrey-ucanUNAM-b71",
@@ -15200,6 +15330,16 @@
       "count": 0,
       "checked_at": "2026-11-27",
       "note": "确认同名学者 2019 年博士训练与复 Kleinian 群研究方向；2021 访问材料用于核对历史研究与作者身份。"
+    },
+    {
+      "id": "tec-monterrey-warwickLeyva-b72",
+      "school": "tec-monterrey",
+      "url": "https://wrap.warwick.ac.uk/id/eprint/104211/",
+      "label": "Warwick thesis · identity and computer vision",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "VIVO 具名资料无研究摘要。用正式博士论文资料和 Tec 现行课程核实 Marcial Roberto Leyva Fernández 的计算机视觉方向。"
     },
     {
       "id": "technion-faculty",
@@ -387954,6 +388094,934 @@
       }
     },
     {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "adrianareynalara",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Adriana Reyna Lara",
+        "title": "Researcher (VIVO)",
+        "research": "Network science, interaction models and applied data science",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_495883",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "adrianavargasmartinez",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Adriana Vargas Martínez",
+        "title": "Researcher (VIVO)",
+        "research": "Chemical engineering, environmental science and engineering optimization",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_119782",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "alejandroparrabriones",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Alejandro Parra Briones",
+        "title": "Professor (VIVO)",
+        "research": "Cybersecurity, cryptography, wireless networking and programming",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_2831",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "alfonsoisaacjaimesnajera",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Alfonso Isaac Jaimes Nájera",
+        "title": "Researcher (VIVO)",
+        "research": "Mathematical physics, structured light propagation and optical models",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_339628",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "amadorchapacardenas",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Amador Chapa Cárdenas",
+        "title": "Researcher (VIVO)",
+        "research": "Manufacturing and mechanically designed metamaterials",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_345031",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "antonioortizambriz",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Antonio Ortiz Ambriz",
+        "title": "Professor in the Department of Sciences",
+        "research": "Non-equilibrium statistical mechanics, colloidal transport and geometrical design of metamaterials",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_119260",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "armandolevidrodriguezsantiago",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Armando Levid Rodríguez Santiago",
+        "title": "Researcher (VIVO)",
+        "research": "Computer vision and three-dimensional mapping",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_522692",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "armandoromanflores",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Armando Roman Flores",
+        "title": "Researcher (VIVO)",
+        "research": "Mechanical engineering, additive manufacturing and cellular material design",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_78187",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "benjamindejesusperezgarcia",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Benjamín de Jesús Pérez García",
+        "title": "Researcher (VIVO)",
+        "research": "Structured light, optical polarization fields and geometric optics",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_177212",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "carloseduardopuentedeleon",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Carlos Eduardo Puente de León",
+        "title": "Researcher (VIVO)",
+        "research": "Microfluidics and nanotechnology",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_500498",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "cesarvargasrosales",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "César Vargas Rosales",
+        "title": "Researcher (VIVO)",
+        "research": "Wireless communications, signal processing and field pattern identification",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_1358",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "ciroangelrodriguezgonzalez",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Ciro Angel Rodríguez González",
+        "title": "Researcher (VIVO)",
+        "research": "Manufacturing, biomedical and engineering topology optimization",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_713",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "danielguillenaparicio",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Daniel Guillén Aparicio",
+        "title": "Researcher (VIVO)",
+        "research": "Electrical distribution networks and power-system modeling",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_325284",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "dianaassaelyleonvelasco",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Diana Assaely León Velasco",
+        "title": "Researcher (Tec VIVO)",
+        "research": "Numerical analysis, inverse problems, mathematical modeling and optimization",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_499261",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "diegoernestocardenasfuentes",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Diego Ernesto Cárdenas Fuentes",
+        "title": "Researcher (VIVO)",
+        "research": "Mechanical engineering, numerical simulation and geometric meshing",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_69662",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "elisavirginiavazquezlepe",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Elisa Virginia Vázquez Lepe",
+        "title": "Researcher (VIVO)",
+        "research": "Industrial engineering and mechanical optimization of biomedical implants",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_114319",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "eloinalugodelreal",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Eloina Lugo Del Real",
+        "title": "Doctoral Candidate",
+        "research": "Mechatronic design, pipeline sensing and curvature measurement",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_336411",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "enriquealejandrogarciaceja",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Enrique Alejandro Garcia Ceja",
+        "title": "Researcher (VIVO)",
+        "research": "Machine learning, activity recognition and applied topological data analysis",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_145849",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "erickguadaluperamirezcedillo",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Erick Guadalupe Ramírez Cedillo",
+        "title": "Researcher (VIVO)",
+        "research": "Manufacturing, robotics and mechanical optimization",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_141218",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "erikagarcialopez",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Erika García López",
+        "title": "Researcher (VIVO)",
+        "research": "Manufacturing engineering, topology optimization and porous biomedical structures",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_114824",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "estefanythirsachavarriaquicano",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Estefany Thirsa Chavarria Quicaño",
+        "title": "Researcher (VIVO)",
+        "research": "Microbiology-related research",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_514283",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "fernandoolivarromero",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Fernando Olivar Romero",
+        "title": "Researcher (VIVO)",
+        "research": "Mathematical physics, fractional PDEs and thermodynamics",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_339901",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "franciscojaviernavarrobarron",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Francisco Javier Navarro Barrón",
+        "title": "Professor (VIVO)",
+        "research": "Computer science, business analytics, AI and computational methods",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_488924",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "gerardoescobarvalderrama",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Gerardo Escobar Valderrama",
+        "title": "Researcher (VIVO)",
+        "research": "Power electronics, control and electrical conversion",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_327079",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "gerardojesuscamachogonzalez",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Gerardo Jesús Camacho González",
+        "title": "Professor (VIVO)",
+        "research": "Artificial intelligence and data science; perceptual robotics doctoral research",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_147594",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "guillermocastilloolvera",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Guillermo Castillo Olvera",
+        "title": "Researcher (VIVO listing)",
+        "research": "",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_518477",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "guillermosandovalbenitez",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Guillermo Sandoval Benítez",
+        "title": "Professor (VIVO)",
+        "research": "Engineering simulation of fluid manifolds, mechanics and topology optimization",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_20107",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "gustavoemiliodelarosaguerra",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Gustavo Emilio de la Rosa Guerra",
+        "title": "Professor (VIVO)",
+        "research": "Computing, computer programming and internet of things",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_64600",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "hectorrafaelmoranookuno",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Hector Rafael Morano Okuno",
+        "title": "Professor (VIVO)",
+        "research": "Mechanical engineering, CFD of fluid manifolds and engineering topology optimization",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_64401",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "hugogustavogonzalezhernandez",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Hugo Gustavo González Hernández",
+        "title": "Professor and Researcher",
+        "research": "Robotics, nonlinear control and mechatronics",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_39020",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "igorishirubiocisneros",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Igor Ishi Rubio Cisneros",
+        "title": "Researcher (VIVO)",
+        "research": "Geology and geophysics",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_509176",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "jaimecastroperez",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Jaime Castro Pérez",
+        "title": "Researcher (VIVO)",
+        "research": "Algebra, lattice and module theory, and Zariski-type topologies for modules and ideals",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_20027",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "javiermauricioantelisortiz",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Javier Mauricio Antelis Ortíz",
+        "title": "Professor and Researcher",
+        "research": "Gravitational-wave data analysis, computational statistics and neurotechnology",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_32953",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "jenyalexandrarinconaguirre",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Jeny Alexandra Rincón Aguirre",
+        "title": "Researcher (VIVO listing)",
+        "research": "",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_503002",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "jessicaizquierdoalvarez",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Jessica Izquierdo Alvarez",
+        "title": "Professor (VIVO)",
+        "research": "Cybersecurity, computer networking and telecommunications",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_2410",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "jesuseliasvaldezresendiz",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Jesús Elias Valdez Resendiz",
+        "title": "Researcher (VIVO)",
+        "research": "Power electronic converters and electrical topologies",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_299153",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "jesusrolandodelgadobalderas",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Jesus Rolando Delgado Balderas",
+        "title": "Researcher (VIVO)",
+        "research": "Biology and chemistry",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_516977",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "joseandresgarciagonzalez",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "José Andrés García González",
+        "title": "Researcher (VIVO)",
+        "research": "Observational high-energy astrophysics, data science and machine learning",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_342002",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "josefernandocamachovallejo",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "José Fernando Camacho Vallejo",
+        "title": "Researcher (VIVO)",
+        "research": "Bilevel optimization, supply chain and network design",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_139425",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "juliocesargutierrezvega",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Julio César Gutiérrez Vega",
+        "title": "Professor and Researcher",
+        "research": "Mathematical optics, integrable billiards and dynamical systems",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_974",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "julioemmanuelgonzalezperez",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Julio Emmanuel González Pérez",
+        "title": "Researcher (VIVO)",
+        "research": "Food engineering and application of topological data analysis to mass transfer",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_509981",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "luisantoniocarrillomartinez",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Luis Antonio Carrillo Martínez",
+        "title": "Researcher (VIVO)",
+        "research": "Electronics, energy harvesting and mechatronics",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_251865",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "luisenriquecamargoreyes",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Luis Enrique Camargo Reyes",
+        "title": "Professor (VIVO)",
+        "research": "Mechanical and energy engineering, energy management",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_84060",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "luismarcelolozanosanchez",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Luis Marcelo Lozano Sánchez",
+        "title": "Professor and Researcher",
+        "research": "Nanoengineering, polymer composites and complex-shaped manufactured materials",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_292864",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "marcialrobertoleyvafernandez",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Marcial Roberto Leyva Fernández",
+        "title": "Researcher (VIVO)",
+        "research": "Computer vision, action recognition and data analytics",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_482089",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "marisolbermudezmontana",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Marisol Bermúdez Montaña",
+        "title": "Researcher (VIVO)",
+        "research": "Mathematical chemistry, spectral models of molecular systems and algebraic graph methods",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_485266",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "marisolrodriguezarcos",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Marisol Rodríguez Arcos",
+        "title": "Professor (VIVO)",
+        "research": "Molecular physics, molecular potentials and algebraic methods in spectroscopy",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_480803",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "moisesjimenezmartinez",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Moisés Jiménez Martinez",
+        "title": "Researcher (VIVO)",
+        "research": "Mechanical engineering, fracture and topology optimization of materials",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_307466",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "olivermatthiasprobst",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Oliver Matthias Probst",
+        "title": "Researcher (VIVO)",
+        "research": "Optics, renewable energy, mechanical beam models and spline approximation",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_1301",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "omarmendozamontoya",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Omar Mendoza Montoya",
+        "title": "Researcher (VIVO)",
+        "research": "Automation, machine learning and applied topological data analysis",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_329487",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "pedrodanielurbinacoronado",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Pedro Daniel Urbina Coronado",
+        "title": "Researcher (VIVO)",
+        "research": "Manufacturing, additively manufactured mechanical structures and materials",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_112975",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "renatogalluzziaguilera",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Renato Galluzzi Aguilera",
+        "title": "Researcher (VIVO)",
+        "research": "Mechatronics, electric machines and damping designs",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_339629",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "robertomartinezroman",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Roberto Martínez Román",
+        "title": "Professor (VIVO)",
+        "research": "Computer science, software construction and engineering education",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_19695",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "robertorafaelfloresquintero",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Roberto Rafael Flores Quintero",
+        "title": "Researcher (VIVO)",
+        "research": "Energy harvesting and electrical engineering architectures",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_330764",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "rogeliodejesusperegrina",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Rogelio de Jesús Peregrina",
+        "title": "Professor (VIVO)",
+        "research": "Electronics, semiconductors and electrical circuits",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_41154",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "sauljuarezordonez",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Saul Juarez Ordoñez",
+        "title": "Professor of Sciences",
+        "research": "Geometric topology of hyperspaces and Hilbert manifold orbit spaces; current mathematics and statistics education",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_290419",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "victorseguraibarra",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Victor Segura Ibarra",
+        "title": "Researcher (VIVO)",
+        "research": "Biomedical and manufacturing applications of engineering topology optimization",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_211404",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "tec-monterrey-schoolBoundary-b72",
+      "person_key": "xochitlyamilesandovalcastro",
+      "school": "tec-monterrey",
+      "record": {
+        "name": "Xóchitl Yamile Sandoval Castro",
+        "title": "Researcher (VIVO)",
+        "research": "Soft robotics and intelligent system design",
+        "profile": "https://research.tec.mx/vivo-tec/display/PID_274901",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "department",
+        "source_url": "https://research.tec.mx/vivo-tec/display/School_EIC",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
       "source": "technion-faculty",
       "person_key": "alanlew",
       "school": "technion",
@@ -544128,19 +545196,6 @@
       "status": "parsed",
       "record": {
         "research": "Inteligencia artificial Robótica Ingeniería mecánica",
-        "homepage": "",
-        "cv": "",
-        "publications": "",
-        "checked_at": "2026-11-24"
-      },
-      "checked_at": "2026-11-24"
-    },
-    {
-      "url": "https://tec.mx/es/profesores/eic/julio-cesar-gutierrez-vega",
-      "cache_id": "profile-4ff049a05e47bfb4",
-      "status": "parsed",
-      "record": {
-        "research": "Ingeniería eléctrica, electrónica y de comunicaciones Ciencias ópticas Física para la ingeniería",
         "homepage": "",
         "cv": "",
         "publications": "",

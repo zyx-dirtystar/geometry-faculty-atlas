@@ -932,8 +932,8 @@
     "alessandro-saccon": "TU/e、ORCID 和 IEEE 李群控制论文的作者相同。作者统计有 126 项；可读取作品接口列 103 项，按 DOI 或条目 ID 去重有 38 条 type:article。篇数限于本次有逐项明细的范围，引用取作者累计。",
     "andrei-c-jalba": "TU/e 具名档 ORCID 和可视化组已核实。匹配曲面重建、几何分割及曲率图像论文。作者统计有 88 项；可读取作品接口列 80 项，按 DOI 或条目 ID 去重有 41 条 type:article。篇数限于本次有逐项明细的范围，引用取作者累计。",
     "pim-van-der-hoorn": "作者主页、TU/e 具名 ORCID 与曲率论文 DOI 10.1007/s00454-023-00507-y 同一归属。独立 type:article 查询 25；可读作者作品 33 条，作者总成果字段 36，累计引用 681。",
-    "lilia-alanis-lopez": "校方及本人主页的 ORCID 与 A5103275650 相同，档案作品却混入管理学同名作者。期刊原文 10.22579/23463910.159 第三作者为 Lilia Alanís Gómez。已检索 OpenAlex 姓名档和 Google Scholar，后者公开姓名搜索转登录，作者自报 Scopus ID 的档案和出版商公开作者页面均返回 403。期刊数改用本人完整公开发表分栏的 7 篇口径；暂未核得公开累计引用。",
-    "manuel-alejandro-ucan-puc": "VIVO ORCID 与 A5037695305 一致。论文 10.1080/10586458.2022.2093802、10.1007/s00574-017-0035-y 及具名 UNAM 履历支持身份。A5159331372 的 arXiv:2603.04625 由本人和 Tec 同事 Carlos Astengo 合著，确为一人分档。保留主档 4 个已核期刊 DOI 的篇数。Google Scholar 转登录，累计引用暂不合并发布。"
+    "lilia-alanis-lopez": "校方及本人主页的 ORCID 与 A5103275650 相同，档案作品却混入管理学同名作者。期刊原文 10.22579/23463910.159 第三作者为 Lilia Alanís Gómez。已检索 OpenAlex 姓名档和 Google Scholar，后者公开姓名搜索转登录，作者自报 Scopus ID 的档案和出版商公开作者页面均返回 403。期刊数改用本人完整公开发表分栏的 7 篇口径；暂未核得公开累计引用。 作者 ORCID 公共记录的 Crossref 来源也自动收录同一管理学 DOI，原文作者是 Lilia Alanís Gómez。本人公开书目核实的范围独立可追溯。",
+    "manuel-alejandro-ucan-puc": "VIVO ORCID 与 A5037695305 一致。论文 10.1080/10586458.2022.2093802、10.1007/s00574-017-0035-y 及具名 UNAM 履历支持身份。A5159331372 的 arXiv:2603.04625 由本人和 Tec 同事 Carlos Astengo 合著，确为一人分档。保留主档 4 个已核期刊 DOI 的篇数。Google Scholar 转登录，累计引用暂不合并发布。 ORCID 公共作品接口的 18 组按 DOI 与出版类型核对。可证当前正式期刊 DOI 对应 OpenAlex 主档的 4 篇。有三篇会议论文集章的部分第三方类型标为期刊，预印本另计。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -11075,7 +11075,7 @@
       "checkedAt": "2026-11-27",
       "authorId": "A5103275650",
       "authorSource": "https://api.openalex.org/authors/https%3A%2F%2Forcid.org%2F0000-0002-5045-6140",
-      "note": "校方及本人主页的 ORCID 与 A5103275650 相同，档案作品却混入管理学同名作者。期刊原文 10.22579/23463910.159 第三作者为 Lilia Alanís Gómez。已检索 OpenAlex 姓名档和 Google Scholar，后者公开姓名搜索转登录，作者自报 Scopus ID 的档案和出版商公开作者页面均返回 403。期刊数改用本人完整公开发表分栏的 7 篇口径；暂未核得公开累计引用。",
+      "note": "校方及本人主页的 ORCID 与 A5103275650 相同，档案作品却混入管理学同名作者。期刊原文 10.22579/23463910.159 第三作者为 Lilia Alanís Gómez。已检索 OpenAlex 姓名档和 Google Scholar，后者公开姓名搜索转登录，作者自报 Scopus ID 的档案和出版商公开作者页面均返回 403。期刊数改用本人完整公开发表分栏的 7 篇口径；暂未核得公开累计引用。 作者 ORCID 公共记录的 Crossref 来源也自动收录同一管理学 DOI，原文作者是 Lilia Alanís Gómez。本人公开书目核实的范围独立可追溯。",
       "conflictSource": "https://doi.org/10.22579/23463910.159",
       "alternatives": [
         "https://api.openalex.org/authors?search=Lilia%20Alanis%20Lopez&per-page=12",
@@ -11088,14 +11088,15 @@
         "url": "https://sites.google.com/tec.mx/liliaalanislopez/publication-list",
         "checkedAt": "2026-11-27",
         "scope": "作者公开 Publication List 分栏可见的全部 8 条记录，按题名和来源核对后计 7 条不同期刊论文（2018–2025），另列 1 篇会议论文集章。该口径限于公开分栏。"
-      }
+      },
+      "orcidPublicWorks": "https://pub.orcid.org/v3.0/0000-0002-5045-6140/works"
     },
     "manuel-alejandro-ucan-puc": {
       "status": "held",
       "checkedAt": "2026-11-27",
       "authorId": "A5037695305",
       "authorSource": "https://api.openalex.org/authors/https%3A%2F%2Forcid.org%2F0000-0002-0037-9394",
-      "note": "VIVO ORCID 与 A5037695305 一致。论文 10.1080/10586458.2022.2093802、10.1007/s00574-017-0035-y 及具名 UNAM 履历支持身份。A5159331372 的 arXiv:2603.04625 由本人和 Tec 同事 Carlos Astengo 合著，确为一人分档。保留主档 4 个已核期刊 DOI 的篇数。Google Scholar 转登录，累计引用暂不合并发布。",
+      "note": "VIVO ORCID 与 A5037695305 一致。论文 10.1080/10586458.2022.2093802、10.1007/s00574-017-0035-y 及具名 UNAM 履历支持身份。A5159331372 的 arXiv:2603.04625 由本人和 Tec 同事 Carlos Astengo 合著，确为一人分档。保留主档 4 个已核期刊 DOI 的篇数。Google Scholar 转登录，累计引用暂不合并发布。 ORCID 公共作品接口的 18 组按 DOI 与出版类型核对。可证当前正式期刊 DOI 对应 OpenAlex 主档的 4 篇。有三篇会议论文集章的部分第三方类型标为期刊，预印本另计。",
       "alternatives": [
         "https://api.openalex.org/authors/A5159331372",
         "https://api.openalex.org/works?filter=author.id:A5159331372&per-page=25&select=id,doi,display_name,type,publication_year,authorships,cited_by_count",
@@ -11111,7 +11112,8 @@
         "checkedAt": "2026-11-27",
         "articles": 4,
         "articleScope": "OpenAlex 主档经 DOI 核实的 4 条 type:article。本人第二档只收一条预印本，累计引用仍待核。"
-      }
+      },
+      "orcidPublicWorks": "https://pub.orcid.org/v3.0/0000-0002-0037-9394/works"
     }
   }
 }
