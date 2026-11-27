@@ -3342,6 +3342,16 @@
       "note": "公开人员页 30 张，覆盖教职、科研、博士生、访问与助理。空间算法和计算拓扑教师以具名岗位及论文核对。"
     },
     {
+      "id": "eindhoven-algoStaff-b69",
+      "school": "eindhoven",
+      "url": "https://algo.win.tue.nl/staff/",
+      "label": "ALGO · staff list recheck",
+      "status": "parsed",
+      "count": 30,
+      "checked_at": "2026-11-27",
+      "note": "重读 30 条已发布名册，包括 11 教授岗位、1 讲师、2 科研程序员、13 博士、2 访客及 1 行政。官方具名记录核对算法组的新重组、其职类和主题。"
+    },
+    {
       "id": "eindhoven-applied-data26",
       "school": "eindhoven",
       "url": "https://data-driven.pages.tue.nl/",
@@ -3440,6 +3450,16 @@
       "count": 9,
       "checked_at": "2026-11-27",
       "note": "实验室旧职及退休组共 9 张卡。该组可能保留近期回聘者，Jan-Cees van der Meer 以具名当前访问期为准。"
+    },
+    {
+      "id": "eindhoven-clockedPdf-b69",
+      "school": "eindhoven",
+      "url": "https://filelist.tudelft.nl/TUDelft/Research%20sites/JMBC/JM%20Burgerscentrum%20-%20Annual%20Report%202025.pdf",
+      "label": "Burgerscentrum · Applied Physics Fluids and Flows 2025 faculty",
+      "status": "reference",
+      "count": 12,
+      "checked_at": "2026-11-27",
+      "note": "年报可索引正文的 TUE-AP-FF 分栏列 12 个岗位。此处保存 2025 披露名册，2026 任期由当前具名卡及组表复核。"
     },
     {
       "id": "eindhoven-coherence-b58",
@@ -3562,6 +3582,26 @@
       "note": "当期组织层级公布 5 个下级单元。Coding Theory and Cryptology、Applied and Provable Security、Discrete Algebra and Geometry、Mathematical Communication Theory、Eindhoven Institute for the Protection of Systems and Information (EIPSI)。"
     },
     {
+      "id": "eindhoven-finsCourse-b69",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/p/en/courses/differential-geometry",
+      "label": "TU/e · Differential Geometry current teaching",
+      "status": "reference",
+      "count": 2,
+      "checked_at": "2026-11-27",
+      "note": "2024-09 至 2027-08 的公开课程，校方课表核对 Florack 与 Heefer。"
+    },
+    {
+      "id": "eindhoven-finsKrop-b69",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/p/en/research-outputs/einstein-kropina-metrics-and-their-application-in-finsler-gravity",
+      "label": "TU/e · Finsler paper affiliations and DOI",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-27",
+      "note": "Fuster 与 Heefer 的 TU/e 研究单位和 Villaseñor 的 UCLM 外部署名可核，期刊卷期 January 2027，2026 已登记 DOI 和公开作者稿。"
+    },
+    {
       "id": "eindhoven-finsler26",
       "school": "eindhoven",
       "url": "https://research.tue.nl/p/en/organisations/scze5rqmr9f2-fe38dd30-74bd-4a97-802c-e62e3f2ea854",
@@ -3570,6 +3610,16 @@
       "count": 2,
       "checked_at": "2026-11-26",
       "note": "由科研门户具名档案进入的现行组织单元。组织页本身只列层级，两条人员关联由其现任具名卡直接提供。"
+    },
+    {
+      "id": "eindhoven-frankTwente-b69",
+      "school": "eindhoven",
+      "url": "https://people.utwente.nl/f.rottger",
+      "label": "University of Twente · Frank Röttger current staff appointment",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-27",
+      "note": "验证 SPOR 教师分栏中的同名统计研究者。特文特校档与本人主页给出主要现职；TU/e 具名任期到 2027-10-31 为访问。"
     },
     {
       "id": "eindhoven-full-audit-source",
@@ -3600,6 +3650,16 @@
       "count": 1,
       "checked_at": "2026-11-27",
       "note": "校方具名个人页任期对象 STAFF，applied-analysis，01/08/2026 至 31/07/2027。页面短传可能保留旧职级。"
+    },
+    {
+      "id": "eindhoven-hCourse-b69",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/p/en/courses/computational-and-mathematical-physics-3",
+      "label": "TU/e · Computational and Mathematical Physics teaching",
+      "status": "reference",
+      "count": 3,
+      "checked_at": "2026-11-27",
+      "note": "当前公开课表列 Huinink、Lyulin 和 Toschi。其具名研究页分别对照多孔介质、软物质和流体统计，课程没有额外确认的三类几何研究岗位。"
     },
     {
       "id": "eindhoven-hm-comp-b58",
@@ -3650,6 +3710,26 @@
       "count": 0,
       "checked_at": "2026-11-23",
       "note": "已保存网页，目录为动态列表或结构尚未对账。"
+    },
+    {
+      "id": "eindhoven-maxPub-b69",
+      "school": "eindhoven",
+      "url": "https://sites.google.com/view/maxgoering/old-home/research",
+      "label": "Max Goering · verified personal mathematics bibliography",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "作者本人 About 页链接的学术研究分栏，按粗糙 Riemannian 空间与曲率论文链接确认同一作者。新版首页的 Resume 文件返回 404。"
+    },
+    {
+      "id": "eindhoven-mechanical-b69",
+      "school": "eindhoven",
+      "url": "https://mefd.pages.tue.nl/home/team/",
+      "label": "Mechanical Engineering · Multiscale Engineering Fluid Dynamics Team",
+      "status": "parsed",
+      "count": 26,
+      "checked_at": "2026-11-27",
+      "note": "现组 18 位，另列历史成员 8 位；PDE、几何网格、有限元等属于工程数值交叉，当前具名教授和副教授已核。"
     },
     {
       "id": "eindhoven-meer-b58",
@@ -3772,6 +3852,16 @@
       "note": "核对院系层级及科研入口，两类名称在校级门户并列。"
     },
     {
+      "id": "eindhoven-physicsFluids-b69",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/p/en/organisations/fluids-and-flows",
+      "label": "Applied Physics · Fluids and Flows research groups",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "现行校级组档的 8 个子组及公开项目。对照 Burgerscentrum 年报中本组 12 个具名教职与荣休岗位，Toschi 的跨系引力课程和研究方向另有具名证据。"
+    },
+    {
       "id": "eindhoven-portegies-nl-b58",
       "school": "eindhoven",
       "url": "https://research.tue.nl/nl/persons/jim-w-portegies/",
@@ -3812,6 +3902,16 @@
       "note": "对照代数与几何研讨会具名校内外报告者。只作几何范围与当期研究佐证。"
     },
     {
+      "id": "eindhoven-relativity-b69",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/nl/courses/general-theory-of-relativity-4/",
+      "label": "TU/e · General Theory of Relativity current teaching",
+      "status": "reference",
+      "count": 2,
+      "checked_at": "2026-11-27",
+      "note": "Heefer、Toschi 在 2024–27 学年共同教授。区分几何研究者与集中在计算流体的共同教师。"
+    },
+    {
       "id": "eindhoven-ruud-b58",
       "school": "eindhoven",
       "url": "https://research.tue.nl/p/en/persons/gr-ruud-pellikaan",
@@ -3830,6 +3930,16 @@
       "count": 0,
       "checked_at": "2026-11-27",
       "note": "可直接读取本人编号 1–98 的书目，提取 38 条期刊论文并按卷期、题名与 DOI 去重。"
+    },
+    {
+      "id": "eindhoven-saccon-b69",
+      "school": "eindhoven",
+      "url": "https://research.tue.nl/p/en/persons/alessandro-saccon",
+      "label": "Mechanical Engineering · geometric mechanics appointment",
+      "status": "reference",
+      "count": 1,
+      "checked_at": "2026-11-27",
+      "note": "对照具名现行 Robotics 与 Robotics and Perception 教席，前 Dynamics and Control 段止于 2026-06。核对李群最优控制论文与 ORCID。"
     },
     {
       "id": "eindhoven-sc-wp-b58",
@@ -3852,6 +3962,26 @@
       "note": "当期组织层级公布 11 个下级单元。Statistics、Probability、Algorithms for Complex Networks、Stochastic Operations Research、Combinatorial Optimization、SRSN、Mathematical Statistics、Teaching & Research Institute for Data Science A、Algebraic Combinatorics、Applied Statistics、Industrial Statistics。"
     },
     {
+      "id": "eindhoven-sporP-b69",
+      "school": "eindhoven",
+      "url": "https://spor.win.tue.nl/people/",
+      "label": "SPOR · official People roster",
+      "status": "parsed",
+      "count": 68,
+      "checked_at": "2026-11-27",
+      "note": "校方子站图册当前列 30 个 Faculty、3 个支持、31 位在读博士和 4 位 Research and Teaching Fellows。原图册标题保存在逐人行，教师部分含旧职称与荣休。以业务分组及具名近期任期核对几何邻接名单。"
+    },
+    {
+      "id": "eindhoven-tueStaff-b69",
+      "school": "eindhoven",
+      "url": "https://www.tue.nl/en/search-staff",
+      "label": "TU/e · public search and intranet staff directory scope",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "学校 Search Staff 的员工电话簿入口明确写明使用内部网。旧科研门户 Faculty/Researchers 卡直接读出现 403，当前组织链接的 persons 子路径重定向到组织资料。公用名册对照使用院系和研究组自营页面、官方人员卡及公开项目。"
+    },
+    {
       "id": "eindhoven-vahid-pure-b58",
       "school": "eindhoven",
       "url": "https://research.tue.nl/p/en/persons/vahid-shahverdi",
@@ -3860,6 +3990,16 @@
       "count": 0,
       "checked_at": "2026-11-27",
       "note": "现行校方科研具名卡可读，岗位由 DIAMANT 当前机构分栏与本人现职核对。"
+    },
+    {
+      "id": "eindhoven-visualTeam-b69",
+      "school": "eindhoven",
+      "url": "https://vis.win.tue.nl/team",
+      "label": "Visualization · official Team roster",
+      "status": "parsed",
+      "count": 22,
+      "checked_at": "2026-11-27",
+      "note": "组内完整当前栏目含高级分栏 4、助理教授 6、讲师 1、博士后 1、博士生 8、工程师 1，另有纪念和历史分栏。高级分栏两位为具名荣休访问。"
     },
     {
       "id": "eindhoven-wilbert-b59",
@@ -118250,6 +118390,486 @@
       }
     },
     {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "andreasreimer",
+      "school": "eindhoven",
+      "record": {
+        "name": "Andreas Reimer",
+        "title": "Guest",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "arjensimons",
+      "school": "eindhoven",
+      "record": {
+        "name": "Arjen Simons",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "arthurvangoethem",
+      "school": "eindhoven",
+      "record": {
+        "name": "Arthur van Goethem",
+        "title": "Guest",
+        "research": "",
+        "profile": "https://www.tue.nl/en/research/researchers/arthur-van-goethem/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "bartjansen",
+      "school": "eindhoven",
+      "record": {
+        "name": "Bart Jansen",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/bart-jansen/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "baspaardekooper",
+      "school": "eindhoven",
+      "record": {
+        "name": "Bas Paardekooper",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "bettinaspeckmann",
+      "school": "eindhoven",
+      "record": {
+        "name": "Bettina Speckmann",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.tue.nl/en/research/researchers/bettina-speckmann/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "daanboelhouwers",
+      "school": "eindhoven",
+      "record": {
+        "name": "Daan Boelhouwers",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "dimitrisnavramidis",
+      "school": "eindhoven",
+      "record": {
+        "name": "Dimitris N. Avramidis",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "faezehmotiei",
+      "school": "eindhoven",
+      "record": {
+        "name": "Faezeh Motiei",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "jeroenlamme",
+      "school": "eindhoven",
+      "record": {
+        "name": "Jeroen Lamme",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "juleswulms",
+      "school": "eindhoven",
+      "record": {
+        "name": "Jules Wulms",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/jules-jhm-wulms/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "kevinverbeek",
+      "school": "eindhoven",
+      "record": {
+        "name": "Kevin Verbeek",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://www.tue.nl/en/research/researchers/kevin-verbeek/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "maartendankers",
+      "school": "eindhoven",
+      "record": {
+        "name": "Maarten Dankers",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "marcelroeloffzen",
+      "school": "eindhoven",
+      "record": {
+        "name": "Marcel Roeloffzen",
+        "title": "University Lecturer",
+        "research": "",
+        "profile": "https://www.tue.nl/en/research/researchers/marcel-roeloffzen/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "markdeberg",
+      "school": "eindhoven",
+      "record": {
+        "name": "Mark de Berg",
+        "title": "Professor",
+        "research": "",
+        "profile": "https://www.tue.nl/en/research/researchers/mark-de-berg/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "markusutke",
+      "school": "eindhoven",
+      "record": {
+        "name": "Markus Utke",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "maximsnoep",
+      "school": "eindhoven",
+      "record": {
+        "name": "Maxim Snoep",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "mortezamonemizadeh",
+      "school": "eindhoven",
+      "record": {
+        "name": "Morteza Monemizadeh",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "natasjabettingvanliempt",
+      "school": "eindhoven",
+      "record": {
+        "name": "Natasja Betting-van Liempt",
+        "title": "Secretary",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "rubenverhaegh",
+      "school": "eindhoven",
+      "record": {
+        "name": "Ruben Verhaegh",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "stevenvandenbroek",
+      "school": "eindhoven",
+      "record": {
+        "name": "Steven van den Broek",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "theklahamm",
+      "school": "eindhoven",
+      "record": {
+        "name": "Thekla Hamm",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "thijsbeurskens",
+      "school": "eindhoven",
+      "record": {
+        "name": "Thijs Beurskens",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "thomascvandijk",
+      "school": "eindhoven",
+      "record": {
+        "name": "Thomas C. van Dijk",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/thomas-van-dijk-2/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "timophelders",
+      "school": "eindhoven",
+      "record": {
+        "name": "Tim Ophelders",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "tompeters",
+      "school": "eindhoven",
+      "record": {
+        "name": "Tom Peters",
+        "title": "Scientific Programmer",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/tom-peters/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "ulrikeschmidtkraepelin",
+      "school": "eindhoven",
+      "record": {
+        "name": "Ulrike Schmidt-Kraepelin",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/ulrike-schmidt-kraepelin/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "wesselvanderven",
+      "school": "eindhoven",
+      "record": {
+        "name": "Wessel van der Ven",
+        "title": "PhD Student",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "willemsonke",
+      "school": "eindhoven",
+      "record": {
+        "name": "Willem Sonke",
+        "title": "Scientific Programmer",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/willem-m-sonke/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-algoStaff-b69",
+      "person_key": "woutermeulemans",
+      "school": "eindhoven",
+      "record": {
+        "name": "Wouter Meulemans",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://www.tue.nl/en/research/researchers/wouter-meulemans/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://algo.win.tue.nl/staff/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
       "source": "eindhoven-casa-faculty-b58",
       "person_key": "andreafuster",
       "school": "eindhoven",
@@ -119178,6 +119798,422 @@
       }
     },
     {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "basgieling",
+      "school": "eindhoven",
+      "record": {
+        "name": "Bas Gieling",
+        "title": "PhD candidate",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/team/bas/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "canbozdogan",
+      "school": "eindhoven",
+      "record": {
+        "name": "Can Bozdoğan",
+        "title": "PhD candidate",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/team/can/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "clemensverhoosel",
+      "school": "eindhoven",
+      "record": {
+        "name": "Clemens Verhoosel",
+        "title": "Associate Professor",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/team/clemens/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "daanvanderwoude",
+      "school": "eindhoven",
+      "record": {
+        "name": "Daan van der Woude",
+        "title": "PhD candidate",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/team/daan/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "elisabergkamp",
+      "school": "eindhoven",
+      "record": {
+        "name": "Elisa Bergkamp",
+        "title": "",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/alumni/elisa/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "fritsdeprenter",
+      "school": "eindhoven",
+      "record": {
+        "name": "Frits de Prenter",
+        "title": "",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/alumni/frits/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "gorkemsimsek",
+      "school": "eindhoven",
+      "record": {
+        "name": "Görkem Simsek",
+        "title": "",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/alumni/gorkem/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "haraldvanbrummelen",
+      "school": "eindhoven",
+      "record": {
+        "name": "Harald van Brummelen",
+        "title": "Full Professor",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/team/harald/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "hasinigarikapati",
+      "school": "eindhoven",
+      "record": {
+        "name": "Hasini Garikapati",
+        "title": "",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/alumni/hasini/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "hugomelchers",
+      "school": "eindhoven",
+      "record": {
+        "name": "Hugo Melchers",
+        "title": "PhD candidate",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/team/hugo/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "joostprins",
+      "school": "eindhoven",
+      "record": {
+        "name": "Joost Prins",
+        "title": "PhD candidate",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/team/joost/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "maartenhodzelmans",
+      "school": "eindhoven",
+      "record": {
+        "name": "Maarten Hodzelmans",
+        "title": "PhD candidate",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/team/maarten/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "mahnazshokrpour",
+      "school": "eindhoven",
+      "record": {
+        "name": "Mahnaz Shokrpour",
+        "title": "",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/alumni/mahnaz/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "michaelabdelmalik",
+      "school": "eindhoven",
+      "record": {
+        "name": "Michael Abdelmalik",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/team/michael/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "renehiemstra",
+      "school": "eindhoven",
+      "record": {
+        "name": "Rene Hiemstra",
+        "title": "Postdoctoral Researcher",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/team/rene/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "revanthsharma",
+      "school": "eindhoven",
+      "record": {
+        "name": "Revanth Sharma",
+        "title": "PhD candidate",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/team/revanth/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "robinwillems",
+      "school": "eindhoven",
+      "record": {
+        "name": "Robin Willems",
+        "title": "PhD candidate",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/team/robin/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "rodrigosilva",
+      "school": "eindhoven",
+      "record": {
+        "name": "Rodrigo Silva",
+        "title": "PhD candidate",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/team/rodrigo/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "saichandanadivi",
+      "school": "eindhoven",
+      "record": {
+        "name": "Sai Chandana Divi",
+        "title": "",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/alumni/sai/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "steinstoter",
+      "school": "eindhoven",
+      "record": {
+        "name": "Stein Stoter",
+        "title": "Assistant Professor",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/team/stein/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "timovanopstal",
+      "school": "eindhoven",
+      "record": {
+        "name": "Timo van Opstal",
+        "title": "Hybrid teacher",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/team/timo/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "tomvansluijs",
+      "school": "eindhoven",
+      "record": {
+        "name": "Tom van Sluijs",
+        "title": "PhD Candidate",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/team/tom/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "torstenkessler",
+      "school": "eindhoven",
+      "record": {
+        "name": "Torsten Keßler",
+        "title": "Postdoctoral Researcher",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/team/torsten/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "tristandemont",
+      "school": "eindhoven",
+      "record": {
+        "name": "Tristan Demont",
+        "title": "PhD candidate",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/team/tristan/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "tuonghoang",
+      "school": "eindhoven",
+      "record": {
+        "name": "Tuong Hoang",
+        "title": "",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/alumni/tuong/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-mechanical-b69",
+      "person_key": "xunxunwu",
+      "school": "eindhoven",
+      "record": {
+        "name": "Xunxun Wu",
+        "title": "",
+        "research": "",
+        "profile": "https://mefd.pages.tue.nl/home/alumni/xunxun/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://mefd.pages.tue.nl/home/team/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
       "source": "eindhoven-mia-profiles26",
       "person_key": "andreafuster",
       "school": "eindhoven",
@@ -119223,6 +120259,1446 @@
         "source_kind": "department",
         "source_url": "https://research.tue.nl/en/organisations/mathematical-image-analysis/persons/",
         "checked_at": "2026-11-26"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "afrouzjabalameli",
+      "school": "eindhoven",
+      "record": {
+        "name": "Afrouz Jabal Ameli",
+        "title": "SPOR listing · Research and Teaching Fellows",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/afrouz-jabal-ameli",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "agnieszkajanicka",
+      "school": "eindhoven",
+      "record": {
+        "name": "Agnieszka Janicka",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/agnieszka-janicka",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "aidaabiad",
+      "school": "eindhoven",
+      "record": {
+        "name": "Aida Abiad",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://aidaabiad.win.tue.nl/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "alexandralassota",
+      "school": "eindhoven",
+      "record": {
+        "name": "Alexandra Lassota",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "anasmourahib",
+      "school": "eindhoven",
+      "record": {
+        "name": "Anas Mourahib",
+        "title": "SPOR listing · Research and Teaching Fellows",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/anas-mourahib",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "andreslopezmartinez",
+      "school": "eindhoven",
+      "record": {
+        "name": "Andres López Martínez",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/andres-l%C3%B3pez-mart%C3%ADnez",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "antoninakhramova",
+      "school": "eindhoven",
+      "record": {
+        "name": "Antonina Khramova",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/tonya-khramova",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "astridkemps",
+      "school": "eindhoven",
+      "record": {
+        "name": "Astrid Kemps",
+        "title": "SPOR listing · Secretarial Support",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "bartsmeulders",
+      "school": "eindhoven",
+      "record": {
+        "name": "Bart Smeulders",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/bart-ml-smeulders",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "bertzwart",
+      "school": "eindhoven",
+      "record": {
+        "name": "Bert Zwart",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://www.tue.nl/en/research/researchers/bert-zwart",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "cedricroy",
+      "school": "eindhoven",
+      "record": {
+        "name": "Cédric Roy",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/c%C3%A9dric-roy",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "chantalreemers",
+      "school": "eindhoven",
+      "record": {
+        "name": "Chantal Reemers",
+        "title": "SPOR listing · Secretarial Support",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "chenyanhuang",
+      "school": "eindhoven",
+      "record": {
+        "name": "Chenyan Huang",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "chrislam",
+      "school": "eindhoven",
+      "record": {
+        "name": "Chris Lam",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "christopherhojny",
+      "school": "eindhoven",
+      "record": {
+        "name": "Christopher Hojny",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/christopher-hojny",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "corhurkens",
+      "school": "eindhoven",
+      "record": {
+        "name": "Cor Hurkens",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://www.tue.nl/en/research/researchers/cor-hurkens",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "daphnewanten",
+      "school": "eindhoven",
+      "record": {
+        "name": "Daphne Wanten",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/daphne-wanten/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "elisaperrone",
+      "school": "eindhoven",
+      "record": {
+        "name": "Elisa Perrone",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "emanueljulianomoraissilva",
+      "school": "eindhoven",
+      "record": {
+        "name": "Emanuel Juliano Morais Silva",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://github.com/emanueljuliano",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "fionasloothaak",
+      "school": "eindhoven",
+      "record": {
+        "name": "Fiona Sloothaak",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/fiona-sloothaak",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "florianhenning",
+      "school": "eindhoven",
+      "record": {
+        "name": "Florian Henning",
+        "title": "SPOR listing · Research and Teaching Fellows",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/florian-henning",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "frankrottger",
+      "school": "eindhoven",
+      "record": {
+        "name": "Frank Röttger",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://sites.google.com/view/roettger/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "fritsspieksma",
+      "school": "eindhoven",
+      "record": {
+        "name": "Frits Spieksma",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://www.tue.nl/en/research/researchers/frits-spieksma/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "guidojanssen",
+      "school": "eindhoven",
+      "record": {
+        "name": "Guido Janssen",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://www.tue.nl/en/research/researchers/guido-janssen",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "hansdeferrante",
+      "school": "eindhoven",
+      "record": {
+        "name": "Hans de Ferrante",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/hans-de-ferrante",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "hrishijagtap",
+      "school": "eindhoven",
+      "record": {
+        "name": "Hrishi Jagtap",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/hrishi-jagtap/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "ignacioechavesustaeta",
+      "school": "eindhoven",
+      "record": {
+        "name": "Ignacio Echave-Sustaeta",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/ignacio-echave-sustaeta-rodr%C3%ADguez/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "isabelvandenheuvel",
+      "school": "eindhoven",
+      "record": {
+        "name": "Isabel van den Heuvel",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/isabel-l-van-den-heuvel/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "ivostoepker",
+      "school": "eindhoven",
+      "record": {
+        "name": "Ivo Stoepker",
+        "title": "SPOR listing · Research and Teaching Fellows",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/ivo-v-stoepker/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "jacquesresing",
+      "school": "eindhoven",
+      "record": {
+        "name": "Jacques Resing",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://www.tue.nl/en/research/researchers/jacques-resing",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "jaronsanders",
+      "school": "eindhoven",
+      "record": {
+        "name": "Jaron Sanders",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://www.jaronsanders.nl",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "jasperarends",
+      "school": "eindhoven",
+      "record": {
+        "name": "Jasper Arends",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/jasper-rm-arends/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "jeroenvanheijst",
+      "school": "eindhoven",
+      "record": {
+        "name": "Jeroen van Heijst",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "judithkeijsper",
+      "school": "eindhoven",
+      "record": {
+        "name": "Judith Keijsper",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://www.tue.nl/en/research/researchers/judith-keijsper",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "kaichunhuang",
+      "school": "eindhoven",
+      "record": {
+        "name": "Kai-Chun Huang",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/kai-chun-huang/similar/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "kalinabakardzhieva",
+      "school": "eindhoven",
+      "record": {
+        "name": "Kalina Bakardzhieva",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/kalina-bakardzhieva/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "koenligthart",
+      "school": "eindhoven",
+      "record": {
+        "name": "Koen Ligthart",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/koen-ligthart",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "larssickertkaram",
+      "school": "eindhoven",
+      "record": {
+        "name": "Lars Sickert Karam",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/lars-sickert-karam/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "loespeters",
+      "school": "eindhoven",
+      "record": {
+        "name": "Loes Peters",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://www.cwi.nl/en/people/loes-peters/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "lorenzogregoris",
+      "school": "eindhoven",
+      "record": {
+        "name": "Lorenzo Gregoris",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://lollox1k.github.io",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "lucasvankreveld",
+      "school": "eindhoven",
+      "record": {
+        "name": "Lucas van Kreveld",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/lucas-van-kreveld",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "luukreijnders",
+      "school": "eindhoven",
+      "record": {
+        "name": "Luuk Reijnders",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/luuk-erm-reijnders",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "mariannedebruin",
+      "school": "eindhoven",
+      "record": {
+        "name": "Marianne de Bruin",
+        "title": "SPOR listing · Secretarial Support",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "markoboon",
+      "school": "eindhoven",
+      "record": {
+        "name": "Marko Boon",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://www.tue.nl/en/research/researchers/marko-boon",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "martaregis",
+      "school": "eindhoven",
+      "record": {
+        "name": "Marta Regis",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/marta-regis/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "mauritskaptein",
+      "school": "eindhoven",
+      "record": {
+        "name": "Maurits Kaptein",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/maurits-c-kaptein/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "mikevansantvoort",
+      "school": "eindhoven",
+      "record": {
+        "name": "Mike van Santvoort",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/mike-van-santvoort",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "nellylitvak",
+      "school": "eindhoven",
+      "record": {
+        "name": "Nelly Litvak",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://people.utwente.nl/n.litvak",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "nilsvandeberg",
+      "school": "eindhoven",
+      "record": {
+        "name": "Nils van de Berg",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/nils-van-de-berg",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "noelamueller",
+      "school": "eindhoven",
+      "record": {
+        "name": "Noela Müeller",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/noela-müller",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "onnoboxma",
+      "school": "eindhoven",
+      "record": {
+        "name": "Onno Boxma",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://www.tue.nl/en/research/researchers/onno-boxma",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "pimvanderhoorn",
+      "school": "eindhoven",
+      "record": {
+        "name": "Pim van der Hoorn",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/wlf-pim-van-der-hoorn",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "pranabmandal",
+      "school": "eindhoven",
+      "record": {
+        "name": "Pranab Mandal",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/pranab-mandal/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "qiuliang",
+      "school": "eindhoven",
+      "record": {
+        "name": "Qiu Liang",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/qiu-liang/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "remcovanderhofstad",
+      "school": "eindhoven",
+      "record": {
+        "name": "Remco van der Hofstad",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://www.win.tue.nl/~rhofstad/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "rudipendavingh",
+      "school": "eindhoven",
+      "record": {
+        "name": "Rudi Pendavingh",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/rudi-a-pendavingh",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "ruicastro",
+      "school": "eindhoven",
+      "record": {
+        "name": "Rui Castro",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://www.win.tue.nl/~rmcastro/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "samanehheydari",
+      "school": "eindhoven",
+      "record": {
+        "name": "Samaneh Heydari",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "sandrakeizer",
+      "school": "eindhoven",
+      "record": {
+        "name": "Sandra Keizer",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/sandra-p-keizer/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "semborst",
+      "school": "eindhoven",
+      "record": {
+        "name": "Sem Borst",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://www.tue.nl/en/research/researchers/sem-borst",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "stanheidema",
+      "school": "eindhoven",
+      "record": {
+        "name": "Stan Heidema",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/stan-gam-heidema/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "stellakapodistria",
+      "school": "eindhoven",
+      "record": {
+        "name": "Stella Kapodistria",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://www.tue.nl/en/research/researchers/stella-kapodistria/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "stenwessel",
+      "school": "eindhoven",
+      "record": {
+        "name": "Sten Wessel",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/sten-wessel",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "thomascronk",
+      "school": "eindhoven",
+      "record": {
+        "name": "Thomas Cronk",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/thomas-n-cronk/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "thomasvanvuren",
+      "school": "eindhoven",
+      "record": {
+        "name": "Thomas van Vuren",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/thomas-pa-van-vuren",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "timbaarslag",
+      "school": "eindhoven",
+      "record": {
+        "name": "Tim Baarslag",
+        "title": "SPOR listing · Faculty",
+        "research": "",
+        "profile": "https://www.cwi.nl/en/people/tim-baarslag/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "weitingsun",
+      "school": "eindhoven",
+      "record": {
+        "name": "Wei-Ting Sun",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/wei-ting-sun",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-sporP-b69",
+      "person_key": "yvonnegootzen",
+      "school": "eindhoven",
+      "record": {
+        "name": "Yvonne Gootzen",
+        "title": "SPOR listing · PhD candidates",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://spor.win.tue.nl/people/",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "alessioarleo",
+      "school": "eindhoven",
+      "record": {
+        "name": "Alessio Arleo",
+        "title": "Visualization listing · Assistant professor",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/alessio-arleo",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "andreijalba",
+      "school": "eindhoven",
+      "record": {
+        "name": "Andrei Jalba",
+        "title": "Visualization listing · Assistant professor",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/andrei-c-jalba",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "annavilanova",
+      "school": "eindhoven",
+      "record": {
+        "name": "Anna Vilanova",
+        "title": "Visualization listing · Full and associate professor",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/anna-vilanova",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "besmosman",
+      "school": "eindhoven",
+      "record": {
+        "name": "Besm Osman",
+        "title": "Visualization listing · PhD candidate",
+        "research": "",
+        "profile": "https://research.tue.nl/nl/persons/besm-osman",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "bramcappers",
+      "school": "eindhoven",
+      "record": {
+        "name": "Bram Cappers",
+        "title": "Visualization listing · University Lecturer",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/bram-cm-cappers",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "bramkraaijeveld",
+      "school": "eindhoven",
+      "record": {
+        "name": "Bram Kraaijeveld",
+        "title": "Visualization listing · PhD candidate",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/bram-kraaijeveld",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "diedevanderhoorn",
+      "school": "eindhoven",
+      "record": {
+        "name": "Diede van der Hoorn",
+        "title": "Visualization listing · PhD candidate",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/diede-van-der-hoorn",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "fernandopaulovich",
+      "school": "eindhoven",
+      "record": {
+        "name": "Fernando Paulovich",
+        "title": "Visualization listing · Full and associate professor",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/fernando-paulovich",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "hrimmehta",
+      "school": "eindhoven",
+      "record": {
+        "name": "Hrim Mehta",
+        "title": "Visualization listing · PhD candidate",
+        "research": "",
+        "profile": "https://research.tue.nl/nl/persons/hrim-mehta",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "huubvandewetering",
+      "school": "eindhoven",
+      "record": {
+        "name": "Huub van de Wetering",
+        "title": "Visualization listing · Assistant professor",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/huub-mm-van-de-wetering",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "jackvanwijk",
+      "school": "eindhoven",
+      "record": {
+        "name": "Jack van Wijk",
+        "title": "Visualization listing · Full and associate professor",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/jack-j-van-wijk",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "jaumeros",
+      "school": "eindhoven",
+      "record": {
+        "name": "Jaume Ros",
+        "title": "Visualization listing · PhD candidate",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/jaume-ros-alonso",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "kayroggenbuck",
+      "school": "eindhoven",
+      "record": {
+        "name": "Kay Roggenbuck",
+        "title": "Visualization listing · PhD candidate",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/kay-roggenbuck",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "maximechamberland",
+      "school": "eindhoven",
+      "record": {
+        "name": "Maxime Chamberland",
+        "title": "Visualization listing · Assistant professor",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/maxime-chamberland",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "michelwestenberg",
+      "school": "eindhoven",
+      "record": {
+        "name": "Michel Westenberg",
+        "title": "Visualization listing · In Memoriam",
+        "research": "",
+        "profile": "",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "rembrandtbakker",
+      "school": "eindhoven",
+      "record": {
+        "name": "Rembrandt Bakker",
+        "title": "Visualization listing · Research Engineer",
+        "research": "",
+        "profile": "https://www.researchgate.net/profile/Rembrandt-Bakker",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "robertvanliere",
+      "school": "eindhoven",
+      "record": {
+        "name": "Robert van Liere",
+        "title": "Visualization listing · Full and associate professor",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/robert-van-liere",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "rubenvink",
+      "school": "eindhoven",
+      "record": {
+        "name": "Ruben Vink",
+        "title": "Visualization listing · PhD candidate",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/ruben-vink",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "sarahschottler",
+      "school": "eindhoven",
+      "record": {
+        "name": "Sarah Schöttler",
+        "title": "Visualization listing · Assistant professor",
+        "research": "",
+        "profile": "https://research.tue.nl/nl/persons/sarah-schöttler/",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "sharadhisuryanarayana",
+      "school": "eindhoven",
+      "record": {
+        "name": "Sharadhi Suryanarayana",
+        "title": "Visualization listing · Postdoctoral researcher",
+        "research": "",
+        "profile": "https://research.tue.nl/nl/persons/sharadhi-suryanarayana",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "stefvandenelzen",
+      "school": "eindhoven",
+      "record": {
+        "name": "Stef van den Elzen",
+        "title": "Visualization listing · Assistant professor",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/stef-van-den-elzen",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "eindhoven-visualTeam-b69",
+      "person_key": "tomhendriks",
+      "school": "eindhoven",
+      "record": {
+        "name": "Tom Hendriks",
+        "title": "Visualization listing · PhD candidate",
+        "research": "",
+        "profile": "https://research.tue.nl/en/persons/tom-hendriks",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://vis.win.tue.nl/team",
+        "checked_at": "2026-11-27"
       }
     },
     {

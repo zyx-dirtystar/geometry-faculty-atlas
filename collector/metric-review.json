@@ -926,7 +926,11 @@
     "jan-beno-kiwi-krauskopf": "官方全名及 OpenAlex ORCID 与 2026 本校署名文章一致。21 个 article 中一项是独立勘误，计 20 个研究文章，作者档累计 657。",
     "mario-andres-ponce-acevedo": "当前院系、副校长资料和本人 ORCID 区分同名学者。几何和动力系统正式 DOI，与其学校及 Herreros 合著关系一致。20 项 article，档案累计 89。",
     "godofredo-iommi-echeverria": "学校和本人链接的 ORCID、与 Velozo 署名测地流及 2026 本人预印本匹配。得 41 项 article，累计 579。Godofredo Iommi Amunátegui 姓名不同、作品与本人学术书目不符，从计量排除。",
-    "pilar-herreros-cortazar": "ANID 全名、Penn 博士论文、与磁测地流相关的正式 DOI 和 2024 原始署名确认作者，排除 Madrid 心理学及医学同名。13 项 article，累计 86；指标相符但现任聘期另保留不确定。"
+    "pilar-herreros-cortazar": "ANID 全名、Penn 博士论文、与磁测地流相关的正式 DOI 和 2024 原始署名确认作者，排除 Madrid 心理学及医学同名。13 项 article，累计 86；指标相符但现任聘期另保留不确定。",
+    "fidel-fernandez-villasenor": "出版社 Crossref DOI 作者 ORCID、TU/e 库的 UCLM 署名与 Granada 博士论文相合。作者统计有 8 项；可读取作品接口列 6 项，按 DOI 或条目 ID 去重有 4 条 type:article。篇数限于本次有逐项明细的范围，引用取作者累计。",
+    "frank-rottger": "本人主页、特文特学校个档、TU/e 同一 ORCID 及 Gaussian double Markovian 论文跨对。作者统计有 22 项；可读取作品接口列 20 项，按 DOI 或条目 ID 去重有 14 条 type:article。篇数限于本次有逐项明细的范围，引用取作者累计。",
+    "alessandro-saccon": "TU/e、ORCID 和 IEEE 李群控制论文的作者相同。作者统计有 126 项；可读取作品接口列 103 项，按 DOI 或条目 ID 去重有 38 条 type:article。篇数限于本次有逐项明细的范围，引用取作者累计。",
+    "andrei-c-jalba": "TU/e 具名档 ORCID 和可视化组已核实。匹配曲面重建、几何分割及曲率图像论文。作者统计有 88 项；可读取作品接口列 80 项，按 DOI 或条目 ID 去重有 41 条 type:article。篇数限于本次有逐项明细的范围，引用取作者累计。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -10957,6 +10961,90 @@
       "alternatives": [
         "https://openalex.org/A5111900721"
       ]
+    },
+    "fidel-fernandez-villasenor": {
+      "checkedAt": "2026-11-27",
+      "status": "accepted",
+      "note": "出版社 Crossref DOI 作者 ORCID、TU/e 库的 UCLM 署名与 Granada 博士论文相合。作者统计有 8 项；可读取作品接口列 6 项，按 DOI 或条目 ID 去重有 4 条 type:article。篇数限于本次有逐项明细的范围，引用取作者累计。",
+      "authorId": "A5064617253",
+      "authorSource": "https://api.openalex.org/authors/https%3A%2F%2Forcid.org%2F0000-0002-0754-0144",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5064617253",
+        "url": "https://openalex.org/authors/A5064617253",
+        "authorApiUrl": "https://api.openalex.org/authors/https%3A%2F%2Forcid.org%2F0000-0002-0754-0144",
+        "articleApiUrl": "https://api.openalex.org/works?filter=author.id:A5064617253&per-page=50&select=id,doi,display_name,type,publication_year,authorships,cited_by_count",
+        "checkedAt": "2026-11-27",
+        "articles": 4,
+        "works": 8,
+        "citations": 53,
+        "hIndex": 4,
+        "articleScope": "OpenAlex 作品接口可读 6 项内 type:article，按 DOI 或条目 ID 去重",
+        "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+      }
+    },
+    "frank-rottger": {
+      "checkedAt": "2026-11-27",
+      "status": "accepted",
+      "note": "本人主页、特文特学校个档、TU/e 同一 ORCID 及 Gaussian double Markovian 论文跨对。作者统计有 22 项；可读取作品接口列 20 项，按 DOI 或条目 ID 去重有 14 条 type:article。篇数限于本次有逐项明细的范围，引用取作者累计。",
+      "authorId": "A5090829202",
+      "authorSource": "https://api.openalex.org/authors/https%3A%2F%2Forcid.org%2F0000-0001-8108-4012",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5090829202",
+        "url": "https://openalex.org/authors/A5090829202",
+        "authorApiUrl": "https://api.openalex.org/authors/https%3A%2F%2Forcid.org%2F0000-0001-8108-4012",
+        "articleApiUrl": "https://api.openalex.org/works?filter=author.id:A5090829202&per-page=100&select=id,doi,display_name,type,publication_year,authorships,cited_by_count",
+        "checkedAt": "2026-11-27",
+        "articles": 14,
+        "works": 22,
+        "citations": 183,
+        "hIndex": 7,
+        "articleScope": "OpenAlex 作品接口可读 20 项内 type:article，按 DOI 或条目 ID 去重",
+        "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+      }
+    },
+    "alessandro-saccon": {
+      "checkedAt": "2026-11-27",
+      "status": "accepted",
+      "note": "TU/e、ORCID 和 IEEE 李群控制论文的作者相同。作者统计有 126 项；可读取作品接口列 103 项，按 DOI 或条目 ID 去重有 38 条 type:article。篇数限于本次有逐项明细的范围，引用取作者累计。",
+      "authorId": "A5076959215",
+      "authorSource": "https://api.openalex.org/authors?filter=orcid:0000-0001-5318-1747",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5076959215",
+        "url": "https://openalex.org/authors/A5076959215",
+        "authorApiUrl": "https://api.openalex.org/authors?filter=orcid:0000-0001-5318-1747",
+        "articleApiUrl": "https://api.openalex.org/works?filter=author.id:A5076959215&per-page=200&select=id,doi,display_name,type,publication_year,authorships,cited_by_count",
+        "checkedAt": "2026-11-27",
+        "articles": 38,
+        "works": 126,
+        "citations": 1501,
+        "hIndex": 22,
+        "articleScope": "OpenAlex 作品接口可读 103 项内 type:article，按 DOI 或条目 ID 去重",
+        "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+      }
+    },
+    "andrei-c-jalba": {
+      "checkedAt": "2026-11-27",
+      "status": "accepted",
+      "note": "TU/e 具名档 ORCID 和可视化组已核实。匹配曲面重建、几何分割及曲率图像论文。作者统计有 88 项；可读取作品接口列 80 项，按 DOI 或条目 ID 去重有 41 条 type:article。篇数限于本次有逐项明细的范围，引用取作者累计。",
+      "authorId": "A5040717536",
+      "authorSource": "https://api.openalex.org/authors/https%3A%2F%2Forcid.org%2F0000-0001-9821-0767",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5040717536",
+        "url": "https://openalex.org/authors/A5040717536",
+        "authorApiUrl": "https://api.openalex.org/authors/https%3A%2F%2Forcid.org%2F0000-0001-9821-0767",
+        "articleApiUrl": "https://api.openalex.org/works?filter=author.id:A5040717536&per-page=200&select=id,doi,display_name,type,publication_year,authorships,cited_by_count",
+        "checkedAt": "2026-11-27",
+        "articles": 41,
+        "works": 88,
+        "citations": 1412,
+        "hIndex": 19,
+        "articleScope": "OpenAlex 作品接口可读 80 项内 type:article，按 DOI 或条目 ID 去重",
+        "citationScope": "OpenAlex 作者档案累计引用（含扩展语料）"
+      }
     }
   }
 }
