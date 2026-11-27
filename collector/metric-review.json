@@ -881,7 +881,15 @@
     "rayssa-caju": "OpenAlex 归属可确，10 条 article 含作者未列的无 DOI 题录和同题论文不同载体，累计 62 未用于公开总量。查 ORCID、本人和 CMM 入口及 Scholar 姓名，未核实可归属且完整的作者引用。采用七篇作者表期刊加 2026 正式发表。",
     "micha-kowalczyk": "数学主档混入区域供热预测等记录，部分期刊存在重复无 DOI 版本。检索 Scholar 姓名未能确认独立同人档，2,696 引用及 83 条 article 暂停采用。ANID 的正式 55 篇是可核的旧时段书目。",
     "leslie-alejandra-jimenez-palma": "同 ORCID 的 A5032619497 混配美国药物化学作者；A5123871035 还挂油气工程论文，已知三篇几何未聚合。未采用两档引用。本人主页几何书目三条按题名和原刊核实。",
-    "carolina-emary-canales-gonzalez": "同名 OA 档 3 成果混入无关考古骨骼形态学，无法沿用 2 篇 article 或档案 16 次累计引用。公开检索、学位条目和原刊核定一篇具名期刊论文。"
+    "carolina-emary-canales-gonzalez": "同名 OA 档 3 成果混入无关考古骨骼形态学，无法沿用 2 篇 article 或档案 16 次累计引用。公开检索、学位条目和原刊核定一篇具名期刊论文。",
+    "hanne-van-den-bosch": "公开 ORCID、论文署同校及载体检验；可读作品 22，作者报 24；18 项 article、448 引用。CMM 合作者指向的 Scholar 404。",
+    "claudio-munoz": "同名生医学、植物、天文作者已排除。数学主档本身数项期刊与高引预印本重复；累计引用采用本人直链 Scholar All 1,804，53 条 type:article 单列为未采用数。",
+    "julien-boulanger": "OpenAlex 主档同题 Geometria Dedicata 论文还有两条预印本，另一个同名档为餐饮员工调查，与数学作者无关。主档仅 5 条 article；查 Scholar 转登录。本人完整 1–7 正式发表清单用作可核计数。",
+    "marisa-dos-reis-cantarino": "现任转出与作者独立核对。四个正式期刊 DOI 与本人 CV、Monash 及 Cambridge 对应，8 个成果另含预印本和学位，累计 20 次。",
+    "nelson-rene-alvarado-hinostroza": "博士论文署名、Tor Vergata 院校和 ORCID 与 ANID 全名一致。三篇确为正式期刊，另两项预印文未计；排除史学同名案。",
+    "sebastian-andres-rahausen-rodriguez": "2026 任期与 ORCID 作者身份分开核。5 个成果含同一学位主题的论文库与预印本条，3 篇有不同的正式 DOI，作者档 7 次累计引用。",
+    "benjamin-moraga": "UFRO 学位、两篇有具名期刊、2026 Santiago 研讨同一人；另 A5061982699 为初中心理测验条，排除。主档 2 篇期刊、1 次引用。",
+    "robert-monjo": "单一 ORCID 被拆为 69、3、1 成果三个作者档。具名 2026 洛伦兹几何期刊在第二档，第三为气候数据。跨学科来源和预印本待去重，暂留作者原始书目及正式论文；Scholar 普通入口转登录。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -9646,6 +9654,225 @@
         "checkedAt": "2026-11-27",
         "scope": "期刊作者及全文核实 2017 年一篇；另见相同主题博士论文，分列。此值仅代表经原刊核实的该篇，其他可核期刊范围未取得。"
       }
+    },
+    "hanne-van-den-bosch": {
+      "name": "Hanne Van Den Bosch",
+      "authorId": "A5004981929",
+      "url": "https://openalex.org/A5004981929",
+      "checkedAt": "2026-11-27",
+      "status": "accepted",
+      "note": "公开 ORCID、论文署同校及载体检验；可读作品 22，作者报 24；18 项 article、448 引用。CMM 合作者指向的 Scholar 404。",
+      "identitySources": [
+        "https://uchile.cl/noticias/246212/hanne-van-den-bosch-gana-la-excelencia-cientifica-adelina-gutierrez",
+        "https://investigadores.anid.cl/es/public_search/researcher?id=31759",
+        "https://doi.org/10.1112/jlms.70464",
+        "https://freidok.uni-freiburg.de/data/278350",
+        "https://scholar.google.com/citations?user=oRoL-ysAAAAJ&hl=en",
+        "https://api.openalex.org/works?filter=author.id:A5004981929&per-page=60&sort=cited_by_count:desc&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5004981929,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5004981929",
+        "url": "https://openalex.org/A5004981929",
+        "checkedAt": "2026-11-27",
+        "articles": 18,
+        "works": 24,
+        "citations": 448,
+        "hIndex": 10,
+        "articleScope": "OpenAlex type:article 查询，核对可见作品和正式论文 DOI",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "claudio-munoz": {
+      "name": "Claudio Muñoz",
+      "authorId": "A5006963626",
+      "url": "https://openalex.org/A5006963626",
+      "checkedAt": "2026-11-27",
+      "status": "held",
+      "note": "同名生医学、植物、天文作者已排除。数学主档本身数项期刊与高引预印本重复；累计引用采用本人直链 Scholar All 1,804，53 条 type:article 单列为未采用数。",
+      "identitySources": [
+        "https://www.dim.uchile.cl/jornada-completa/",
+        "https://sites.google.com/view/claumuno/home/research",
+        "https://scholar.google.com/citations?user=BIsq4V0AAAAJ&hl=en",
+        "https://investigadores.anid.cl/es/public_search/researcher?id=26897",
+        "https://api.openalex.org/works?filter=author.id:A5006963626&per-page=120&sort=cited_by_count:desc&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5006963626,type:article&per-page=1"
+      ],
+      "scholarSnapshot": {
+        "source": "Google Scholar",
+        "authorId": "BIsq4V0AAAAJ",
+        "url": "https://scholar.google.com/citations?user=BIsq4V0AAAAJ&hl=en",
+        "checkedAt": "2026-11-27",
+        "citations": 1804,
+        "hIndex": 25,
+        "citationScope": "作者本人学术站直链，Google Scholar All"
+      }
+    },
+    "julien-boulanger": {
+      "name": "Julien Boulanger",
+      "authorId": "A5018566994",
+      "url": "https://openalex.org/A5018566994",
+      "checkedAt": "2026-11-27",
+      "status": "held",
+      "note": "OpenAlex 主档同题 Geometria Dedicata 论文还有两条预印本，另一个同名档为餐饮员工调查，与数学作者无关。主档仅 5 条 article；查 Scholar 转登录。本人完整 1–7 正式发表清单用作可核计数。",
+      "identitySources": [
+        "https://archivo.cmm.uchile.cl/?cmm_people=julien-boulanger",
+        "https://julien-boulanger.github.io/webpage/",
+        "https://www.cambridge.org/core/journals/glasgow-mathematical-journal/article/abs/algebraic-interaction-strength-for-translation-surfaces-with-multiple-singularities/1B5B977BB9803EC4F162AE31D1F16DE9",
+        "https://ahl.centre-mersenne.org/articles/10.5802/ahl.211/",
+        "https://scholar.google.com/citations?view_op=search_authors&mauthors=Julien+Boulanger",
+        "https://api.openalex.org/works?filter=author.id:A5079189845&per-page=15",
+        "https://api.openalex.org/works?filter=author.id:A5018566994&sort=cited_by_count:desc&per-page=30",
+        "https://api.openalex.org/works?filter=author.id:A5018566994,type:article&per-page=1"
+      ],
+      "fallbackPublicationCount": {
+        "value": 7,
+        "url": "https://julien-boulanger.github.io/webpage/",
+        "checkedAt": "2026-11-27",
+        "scope": "本人 Publications 编号 1–7，2022–2026。七个规范题名对应七个正式期刊 DOI；第 7 项已由 Cambridge 出刊，第 8、9 项单列为预印本。预印本与期刊不重复。"
+      },
+      "alternatives": [
+        "https://openalex.org/A5079189845"
+      ]
+    },
+    "marisa-dos-reis-cantarino": {
+      "name": "Marisa dos Reis Cantarino",
+      "authorId": "A5010538970",
+      "url": "https://openalex.org/A5010538970",
+      "checkedAt": "2026-11-27",
+      "status": "accepted",
+      "note": "现任转出与作者独立核对。四个正式期刊 DOI 与本人 CV、Monash 及 Cambridge 对应，8 个成果另含预印本和学位，累计 20 次。",
+      "identitySources": [
+        "https://ingenieria.uchile.cl/postdoctorantes/investigadores-postdoctorales-por-departamento/ingenieria-matematica-centro-modelamiento-matematico",
+        "https://sites.google.com/view/mcantarino/home",
+        "https://bv.fapesp.br/pt/bolsas/244214/quantidades-e-propriedades-relacionadas-a-sistemas-dinamicos-caoticos-exploracao-teorica-e-computaci/",
+        "https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/abs/mathbf-textit-ugibbs-measure-rigidity-for-partially-hyperbolic-endomorphisms-on-surfaces/9BC8491C4577BDE50B078913A5F0457F",
+        "https://api.openalex.org/works?filter=author.id:A5010538970&per-page=40&sort=cited_by_count:desc&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5010538970,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5010538970",
+        "url": "https://openalex.org/A5010538970",
+        "checkedAt": "2026-11-27",
+        "articles": 4,
+        "works": 8,
+        "citations": 20,
+        "hIndex": 2,
+        "articleScope": "OpenAlex type:article 查询，核对可见作品和正式论文 DOI",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "nelson-rene-alvarado-hinostroza": {
+      "name": "Nelson René Alvarado Hinostroza",
+      "authorId": "A5051085806",
+      "url": "https://openalex.org/A5051085806",
+      "checkedAt": "2026-11-27",
+      "status": "accepted",
+      "note": "博士论文署名、Tor Vergata 院校和 ORCID 与 ANID 全名一致。三篇确为正式期刊，另两项预印文未计；排除史学同名案。",
+      "identitySources": [
+        "https://uchile.cl/noticias/246050/ciencias-participo-en-el-1st-chilean-polish-mathematical-meeting",
+        "https://s3.us-east-1.amazonaws.com/documentos.anid.cl/proyecto-investigacion/2026/postdoctorado/fallo/Nomina_proyectos_Aprobados_POST2026_e9d2b4a1f7c3e6d0b5a8f2c1e9d3b7.pdf",
+        "https://www.mat.uniroma2.it/dottorato/Theses/2024-25/Alvarado_tesis.pdf",
+        "https://pub.orcid.org/v3.0/0009-0003-8828-5636/record",
+        "https://www.epv.uni-hannover.de/en/department-search/staff-member-details/person/nelson-ren-alvarado-hinostroza",
+        "https://api.openalex.org/works?filter=author.id:A5051085806&per-page=40&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5051085806,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5051085806",
+        "url": "https://openalex.org/A5051085806",
+        "checkedAt": "2026-11-27",
+        "articles": 3,
+        "works": 5,
+        "citations": 10,
+        "hIndex": 3,
+        "articleScope": "OpenAlex type:article 查询，核对可见作品和正式论文 DOI",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "sebastian-andres-rahausen-rodriguez": {
+      "name": "Sebastián Andrés Rahausen Rodríguez",
+      "authorId": "A5056714742",
+      "url": "https://openalex.org/A5056714742",
+      "checkedAt": "2026-11-27",
+      "status": "accepted",
+      "note": "2026 任期与 ORCID 作者身份分开核。5 个成果含同一学位主题的论文库与预印本条，3 篇有不同的正式 DOI，作者档 7 次累计引用。",
+      "identitySources": [
+        "https://uchile.cl/noticias/246050/ciencias-participo-en-el-1st-chilean-polish-mathematical-meeting",
+        "https://s3.us-east-1.amazonaws.com/documentos.anid.cl/proyecto-investigacion/2026/postdoctorado/fallo/Nomina_proyectos_Aprobados_POST2026_e9d2b4a1f7c3e6d0b5a8f2c1e9d3b7.pdf",
+        "https://arxiv.org/abs/2406.11197",
+        "https://www.mat.uc.cl/doctorado-en-matematica-graduados-y-tesis.html",
+        "https://api.openalex.org/works?filter=author.id:A5056714742&per-page=25&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5056714742,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5056714742",
+        "url": "https://openalex.org/A5056714742",
+        "checkedAt": "2026-11-27",
+        "articles": 3,
+        "works": 5,
+        "citations": 7,
+        "hIndex": 2,
+        "articleScope": "OpenAlex type:article 查询，核对可见作品和正式论文 DOI",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "benjamin-moraga": {
+      "name": "Benjamín Moraga",
+      "authorId": "A5042972438",
+      "url": "https://openalex.org/A5042972438",
+      "checkedAt": "2026-11-27",
+      "status": "accepted",
+      "note": "UFRO 学位、两篇有具名期刊、2026 Santiago 研讨同一人；另 A5061982699 为初中心理测验条，排除。主档 2 篇期刊、1 次引用。",
+      "identitySources": [
+        "https://uchile.cl/noticias/246050/ciencias-participo-en-el-1st-chilean-polish-mathematical-meeting",
+        "https://www.mat.uc.cl/~rmenares/Santas/santas.html",
+        "https://doctoradomatematica.ufro.cl/index.php/en/students/graduates",
+        "https://www.sciencedirect.com/science/article/abs/pii/S0022404924002007",
+        "https://api.openalex.org/works?filter=author.id:A5061982699&per-page=10",
+        "https://api.openalex.org/works?filter=author.id:A5042972438&per-page=25&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5042972438,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5042972438",
+        "url": "https://openalex.org/A5042972438",
+        "checkedAt": "2026-11-27",
+        "articles": 2,
+        "works": 2,
+        "citations": 1,
+        "hIndex": 1,
+        "articleScope": "OpenAlex type:article 查询，核对可见作品和正式论文 DOI",
+        "citationScope": "OpenAlex 作者档案累计引用"
+      },
+      "alternatives": [
+        "https://openalex.org/A5061982699"
+      ]
+    },
+    "robert-monjo": {
+      "name": "Robert Monjo",
+      "authorId": "A5056965560",
+      "url": "https://openalex.org/A5056965560",
+      "checkedAt": "2026-11-27",
+      "status": "held",
+      "note": "单一 ORCID 被拆为 69、3、1 成果三个作者档。具名 2026 洛伦兹几何期刊在第二档，第三为气候数据。跨学科来源和预印本待去重，暂留作者原始书目及正式论文；Scholar 普通入口转登录。",
+      "identitySources": [
+        "https://uchile.cl/noticias/241266/existen-galaxias-con-y-sin-materia-oscura",
+        "https://www.cunef.edu/en/faculty-and-research/monjo-agut-robert/",
+        "https://orcid.org/0000-0003-3100-2394",
+        "https://api.openalex.org/works?filter=author.id:A5109819279&per-page=10",
+        "https://api.openalex.org/works?filter=author.id:A5136620165&per-page=10",
+        "https://scholar.google.com/citations?view_op=search_authors&mauthors=Robert+Monjo",
+        "https://api.openalex.org/works?filter=author.id:A5056965560&per-page=100&select=id,doi,display_name,type,publication_year,cited_by_count,authorships"
+      ],
+      "alternatives": [
+        "https://openalex.org/A5109819279",
+        "https://openalex.org/A5136620165"
+      ]
     }
   }
 }

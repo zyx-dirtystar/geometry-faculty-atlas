@@ -16752,6 +16752,76 @@
       "note": "统计系公开分栏 2 张具名卡，核对数学礼聘及几何方法方向。"
     },
     {
+      "id": "uchile-agSave-b63",
+      "school": "uchile",
+      "url": "https://archivo.cmm.uchile.cl/?p=64819",
+      "label": "CMM · AGREGA 5, January 2026",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "校方活动列三名主讲。场地和参会只作核对入口，Pardo 有单独在校现任；外校报告者另核现任。"
+    },
+    {
+      "id": "uchile-archassoc-b63",
+      "school": "uchile",
+      "url": "https://archivo.cmm.uchile.cl/?page_id=1737",
+      "label": "CMM · archivo investigadores asociados",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "旧档具名跨大学联属，以当前主聘院系和具体入职记录核对。"
+    },
+    {
+      "id": "uchile-archdist-b63",
+      "school": "uchile",
+      "url": "https://archivo.cmm.uchile.cl/?page_id=31640",
+      "label": "CMM · archivo distinguished international professors",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "官方 People 的独立杰出教授页访问失败，当前项目按个别页面区分短访和外校主聘，完整此类名单仍待核。"
+    },
+    {
+      "id": "uchile-archmain-b63",
+      "school": "uchile",
+      "url": "https://archivo.cmm.uchile.cl/?page_id=1721",
+      "label": "CMM · archivo investigadores principales",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "公开分组为 2 位中心领导、7 位 U. de Chile 和 2 位 U. de Concepción 研究员。"
+    },
+    {
+      "id": "uchile-archpost-b63",
+      "school": "uchile",
+      "url": "https://archivo.cmm.uchile.cl/?page_id=1733",
+      "label": "CMM · archivo postdoctoral",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "旧分栏 24 条，部分与 2026 学院的有期人员、现站、个人 CV 和实际去向冲突。Julien 的现任由两份具名来源确认。"
+    },
+    {
+      "id": "uchile-archsci-b63",
+      "school": "uchile",
+      "url": "https://archivo.cmm.uchile.cl/?page_id=1731",
+      "label": "CMM · archivo scientists",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "9 位在站科研和项目人员，另查主要院系现任职级。"
+    },
+    {
+      "id": "uchile-archvis-b63",
+      "school": "uchile",
+      "url": "https://archivo.cmm.uchile.cl/?page_id=1739",
+      "label": "CMM · archivo visiting researchers",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "10 位访客记录，有日期的 2026 短访、外校教授及学生分别核查。学术往来和校方持续研究聘任有独立证据。"
+    },
+    {
       "id": "uchile-campus-b62",
       "school": "uchile",
       "url": "https://uchile.cl/presentacion/perfil-de-la-universidad/campus-e-instalaciones",
@@ -16782,6 +16852,16 @@
       "note": "官方档案有研究员、联属、科研人员、博士后、杰出教授和访问人员七类分栏，角色与任期需比对现站和本人证据。"
     },
     {
+      "id": "uchile-cmmComb-b63",
+      "school": "uchile",
+      "url": "https://www.cmm.uchile.cl/investigacion/investigacion-fundamental/algoritmos-y-combinatoria/",
+      "label": "CMM · algoritmos y combinatoria",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "11 位现行成员，依院系任职和组合或算法研究区分，多校合作者并列。"
+    },
+    {
       "id": "uchile-cmmFund-b62",
       "school": "uchile",
       "url": "https://uchile.cl/noticias/246445/anid-renueva-financiamiento-al-centro-de-modelamiento-matematico-uchile",
@@ -16792,6 +16872,36 @@
       "note": "2026 公告确认 CMM 现阶段的范围和校级科研中心任期，与 2024 ANID 项目概览跨期对照。"
     },
     {
+      "id": "uchile-cmmMech-b63",
+      "school": "uchile",
+      "url": "https://www.cmm.uchile.cl/investigacion/investigacion-fundamental/mecanica-matematica-y-problemas-inversos/",
+      "label": "CMM · mecánica matemática y problemas inversos",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "现行具名分组主要研究反问题、形状优化、流体与控制，核对几何交叉的具体研究域。"
+    },
+    {
+      "id": "uchile-cmmNum-b63",
+      "school": "uchile",
+      "url": "https://www.cmm.uchile.cl/investigacion/investigacion-fundamental/analisis-numerico-de-ecuaciones-diferenciales-parciales/",
+      "label": "CMM · análisis numérico de ecuaciones diferenciales parciales",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "17 位现行分组，代表方向为有限元与数值 PDE，主要单位在 Concepción，合作按学校区分。"
+    },
+    {
+      "id": "uchile-cmmOpt-b63",
+      "school": "uchile",
+      "url": "https://www.cmm.uchile.cl/investigacion/investigacion-fundamental/optimizacion-y-equilibrio/",
+      "label": "CMM · optimización y equilibrio",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "现行具名分组含主研、联属、项目工程师和博士后，以数学工程当前全职与有期任职区分。"
+    },
+    {
       "id": "uchile-cmmpdeNow-b62",
       "school": "uchile",
       "url": "https://www.cmm.uchile.cl/analisis-no-lineal-y-ecuaciones-diferenciales-parciales/",
@@ -16800,6 +16910,56 @@
       "count": 0,
       "checked_at": "2026-11-27",
       "note": "当前分组具名 14 条，含工程数学系、UOH、博士后及一条未写角色。核过 Caju、Kowalczyk 任职，另两个博士后及跨校人员继续复核。"
+    },
+    {
+      "id": "uchile-cmmprob-b63",
+      "school": "uchile",
+      "url": "https://www.cmm.uchile.cl/probabilidad-y-teoria-ergodica/",
+      "label": "CMM · probabilidad y teoría ergódica",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "当前具名 15 项，按概率、Liouville 随机几何、符号动力和 Teichmüller 方向与作者档交叉。"
+    },
+    {
+      "id": "uchile-cosm-b63",
+      "school": "uchile",
+      "url": "https://uchile.cl/noticias/229201/uchile-inaugura-centro-pionero-en-cosmologia-transdisciplinaria",
+      "label": "Facultad de Ciencias · Centro de Estudios Cosmológicos · inauguración",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "理院宇宙学跨部门中心从 2025 成立文件和 2026 具名长期合作报告核对。Monjo 正式主要雇佣在 CUNEF，暂无中心全体当前任职清单。"
+    },
+    {
+      "id": "uchile-dccFull-b63",
+      "school": "uchile",
+      "url": "https://www.dcc.uchile.cl/pregrado/academicos/",
+      "label": "DCC · académicos de jornada completa",
+      "status": "reference",
+      "count": 26,
+      "checked_at": "2026-11-27",
+      "note": "26 张全职具名卡，交叉计算机图形、算法和研究方向。"
+    },
+    {
+      "id": "uchile-dccPart-b63",
+      "school": "uchile",
+      "url": "https://dcc.uchile.cl/nosotros/academicos/ajp/",
+      "label": "DCC · académicos de jornada parcial",
+      "status": "reference",
+      "count": 21,
+      "checked_at": "2026-11-27",
+      "note": "21 张兼职卡，含计算网格相关的 Rivara，部分人员为行业、合作或其他机构主职。"
+    },
+    {
+      "id": "uchile-dccScope-b63",
+      "school": "uchile",
+      "url": "https://dcc.uchile.cl/investigacion/areas/",
+      "label": "DCC · líneas y áreas de investigación",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "六个研究区及具名组卡。图形和网格从正教授、兼职和具名研究方向对照。"
     },
     {
       "id": "uchile-dfiDoctor-b62",
@@ -16882,6 +17042,16 @@
       "note": "部门现网址返回无搜索结果，未取得现行独立荣休清单；使用学院名册和具名公告。"
     },
     {
+      "id": "uchile-fondecyt-b63",
+      "school": "uchile",
+      "url": "https://s3.us-east-1.amazonaws.com/documentos.anid.cl/proyecto-investigacion/2026/postdoctorado/fallo/Nomina_proyectos_Aprobados_POST2026_e9d2b4a1f7c3e6d0b5a8f2c1e9d3b7.pdf",
+      "label": "ANID · concurso postdoctoral 2026",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "公开入选文件仅取相关的姓名、项目与单位。核验智利大学两位新增几何博士后，3260668 与 3260886。"
+    },
+    {
       "id": "uchile-full-audit-source",
       "school": "uchile",
       "url": "https://ciencias.uchile.cl/departamentos/matematicas/investigacion-publicaciones/areas-investigacion",
@@ -16912,6 +17082,26 @@
       "note": "现有组别侧重宇宙学和引力，后续需要对照当前人员任聘和具体几何论文。"
     },
     {
+      "id": "uchile-gradpost-b63",
+      "school": "uchile",
+      "url": "https://ingenieria.uchile.cl/postdoctorantes/investigadores-postdoctorales-por-departamento/ingenieria-matematica-centro-modelamiento-matematico",
+      "label": "FCFM · investigadores postdoctorales Ingeniería Matemática/CMM",
+      "status": "reference",
+      "count": 9,
+      "checked_at": "2026-11-27",
+      "note": "9 位具名博士后有聘期；Espinal 和 Freire 公示日期届满，Cantarino 的旧终止日由现任基金与新 CV 订正。"
+    },
+    {
+      "id": "uchile-grav-b63",
+      "school": "uchile",
+      "url": "https://dfi.uchile.cl/investigacion/grupos-de-investigacion/gravitacion-y-cosmologia",
+      "label": "FCFM Física · actual gravitación y cosmología",
+      "status": "reference",
+      "count": 3,
+      "checked_at": "2026-11-27",
+      "note": "公开三位现任主聘、博士与硕士当前各六位，往年毕业与外校指导单列。"
+    },
+    {
       "id": "uchile-gv-b62",
       "school": "uchile",
       "url": "https://sites.google.com/uchile.cl/gv-bcef",
@@ -16930,6 +17120,76 @@
       "count": 27,
       "checked_at": "2026-11-27",
       "note": "现行目录共 29 个人员栏位，27 位不同学者。Labra、Quezada 各在荣休和荣誉栏出现两次。逐人区分数论、表示、教育及几何主题。"
+    },
+    {
+      "id": "uchile-mathDr-b63",
+      "school": "uchile",
+      "url": "https://ciencias.uchile.cl/postgrados/6266/ciencias-mencion-matematicas",
+      "label": "Facultad de Ciencias · Doctorado en Matemáticas · claustro",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "现行博士项目有 18 位核心成员和 2 位合作教授，按数学系名单、几何方向、代数和数论原文对照。"
+    },
+    {
+      "id": "uchile-monjoChile-b63",
+      "school": "uchile",
+      "url": "https://uchile.cl/noticias/241266/existen-galaxias-con-y-sin-materia-oscura",
+      "label": "Centro de Estudios Cosmológicos · Robert Monjo collaboration",
+      "status": "parsed",
+      "count": 1,
+      "checked_at": "2026-11-27",
+      "note": "2026 校方具名永久合作，独立主聘由 CUNEF 校级卡、ORCID 和简版 CV 核实。"
+    },
+    {
+      "id": "uchile-nicoGroup-b63",
+      "school": "uchile",
+      "url": "https://nicolaslibedinsky.cl/for-mathematicians/students-and-postdocs/",
+      "label": "Matemáticas · Libedinsky group current and past appointees",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "本人学术站列两位 2026 新博士后及历史任期。新聘和早期课题的方向与各自当期资料继续核对。"
+    },
+    {
+      "id": "uchile-phyfull-b63",
+      "school": "uchile",
+      "url": "https://dfi.uchile.cl/academicas-y-academicos/jornada-completa",
+      "label": "FCFM Física · 19 académicos de jornada completa",
+      "status": "reference",
+      "count": 19,
+      "checked_at": "2026-11-27",
+      "note": "19 位全职具名职级；现行引力组三位均匹配，授课与当前研究计划交叉。"
+    },
+    {
+      "id": "uchile-phypart-b63",
+      "school": "uchile",
+      "url": "https://dfi.uchile.cl/academicas-y-academicos/jornada-parcial",
+      "label": "FCFM Física · 6 académicos de jornada parcial",
+      "status": "reference",
+      "count": 6,
+      "checked_at": "2026-11-27",
+      "note": "6 位兼职，含重力合作导师 Nelson Zamorano。单独荣休地址 404，相关人员按学校有日期消息核验。"
+    },
+    {
+      "id": "uchile-polish-b63",
+      "school": "uchile",
+      "url": "https://uchile.cl/noticias/246050/ciencias-participo-en-el-1st-chilean-polish-mathematical-meeting",
+      "label": "Facultad de Ciencias · 2026-10 matemáticas postdoctorales",
+      "status": "parsed",
+      "count": 4,
+      "checked_at": "2026-11-27",
+      "note": "校方公布三位理学院数学系博士后及一名相关博士生，需与导师、资金来源及现行研究核对。"
+    },
+    {
+      "id": "uchile-poster2027-b63",
+      "school": "uchile",
+      "url": "https://www.mathjobs.org/jobs/list/29510",
+      "label": "CMM · November 2026 call for 2027 postdocs",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "11 月发布至少 3 位两年制科研博士后，2026-12-18 截止。可以在智利大学或其他联属大学履职，因此招聘不推定任何现任。"
     },
     {
       "id": "uci-catalog",
@@ -434147,6 +434407,86 @@
         "topics": [],
         "source_kind": "department",
         "source_url": "https://ciencias.uchile.cl/departamentos/matematicas/sobre-departamento/academicos",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-monjoChile-b63",
+      "person_key": "robertmonjo",
+      "school": "uchile",
+      "record": {
+        "name": "Robert Monjo",
+        "title": "Colaborador permanente",
+        "research": "",
+        "profile": "https://uchile.cl/noticias/241266/existen-galaxias-con-y-sin-materia-oscura",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://uchile.cl/noticias/241266/existen-galaxias-con-y-sin-materia-oscura",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-polish-b63",
+      "person_key": "benjaminmoraga",
+      "school": "uchile",
+      "record": {
+        "name": "Benjamín Moraga",
+        "title": "Investigador Postdoctoral",
+        "research": "",
+        "profile": "https://uchile.cl/noticias/246050/ciencias-participo-en-el-1st-chilean-polish-mathematical-meeting",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://uchile.cl/noticias/246050/ciencias-participo-en-el-1st-chilean-polish-mathematical-meeting",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-polish-b63",
+      "person_key": "nelsonrenealvaradohinostroza",
+      "school": "uchile",
+      "record": {
+        "name": "Nelson René Alvarado Hinostroza",
+        "title": "Investigador Postdoctoral",
+        "research": "",
+        "profile": "https://uchile.cl/noticias/246050/ciencias-participo-en-el-1st-chilean-polish-mathematical-meeting",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://uchile.cl/noticias/246050/ciencias-participo-en-el-1st-chilean-polish-mathematical-meeting",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-polish-b63",
+      "person_key": "sebastianandresrahausenrodriguez",
+      "school": "uchile",
+      "record": {
+        "name": "Sebastián Andrés Rahausen Rodríguez",
+        "title": "Investigador Postdoctoral",
+        "research": "",
+        "profile": "https://uchile.cl/noticias/246050/ciencias-participo-en-el-1st-chilean-polish-mathematical-meeting",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://uchile.cl/noticias/246050/ciencias-participo-en-el-1st-chilean-polish-mathematical-meeting",
+        "checked_at": "2026-11-27"
+      }
+    },
+    {
+      "source": "uchile-polish-b63",
+      "person_key": "valentinamoreno",
+      "school": "uchile",
+      "record": {
+        "name": "Valentina Moreno",
+        "title": "Doctoral Student",
+        "research": "",
+        "profile": "https://uchile.cl/noticias/246050/ciencias-participo-en-el-1st-chilean-polish-mathematical-meeting",
+        "homepage": "",
+        "topics": [],
+        "source_kind": "research",
+        "source_url": "https://uchile.cl/noticias/246050/ciencias-participo-en-el-1st-chilean-polish-mathematical-meeting",
         "checked_at": "2026-11-27"
       }
     },
