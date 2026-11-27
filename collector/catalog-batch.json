@@ -4031,7 +4031,7 @@
     {
       "id": "bielefeld",
       "coverage": "sample",
-      "coverageNote": "已解析 12/14 个登记来源，226 条任职或方向待核。 已收录 10 位学者，个人主页 10、CV 2、指标 9。 数学官方名册公开脚本提取全员 251、学术人员 238、教授栏具名 35、原教授／荣休 15、行政 13。读系内七个研究分栏、代数与算术几何组、几何群组、BIREP、联合 TRR 358 项目和物理三组。本人具名来源核明 Crawley-Boevey 退休、Floccari 转入柏林洪堡、Stadler 与 Letz 当前属 Paderborn。eKVV 直取返回 403，校级机构成果库返回 Anubis 挑战或拒绝。综合学术人员名册缺区分博士生、短期与持续聘任的逐人资料。CRC 跨校人员和技术学院组尚待逐任职来源归属，当前保留工作名单。",
+      "coverageNote": "已解析 12/21 个登记来源，173 条任职或方向待核。 已收录 10 位学者，个人主页 10、CV 2、指标 9。 数学官方名册公开脚本提取全员 251、学术人员 238、教授栏具名 35、原教授／荣休 15、行政 13。读系内七个研究分栏、代数与算术几何组、几何群组、BIREP、联合 TRR 358 项目和物理三组。本人具名来源核明 Crawley-Boevey 退休、Floccari 转入柏林洪堡、Stadler 与 Letz 当前属 Paderborn。eKVV 直取返回 403，校级机构成果库返回 Anubis 挑战或拒绝。综合学术人员名册缺区分博士生、短期与持续聘任的逐人资料。CRC 跨校人员和技术学院组尚待逐任职来源归属，当前保留工作名单。 复读当前院系全员 251、学术分栏 238、教授分栏 35 和 TRR 358 当期 112 张具名档。TRR 角色分为 27 PI、2 Mercator Fellow 与 83 Investigator。Paderborn 具名任职 35 位在其当期数学系分栏交叉核实，另核 Milan、EPFL、Antwerp、Bonn 及其他跨校资料。BIREP 现行任课和课题组资料补核若干校内身份及姓名异写。联合访问日期单列。其余学术人员继续按研究组、任课及个档逐人核对。",
       "rosterLinks": [
         [
           "Algebraic and Arithmetic Geometry · current and historical groups",
@@ -4044,6 +4044,10 @@
         [
           "Physics · Astroparticle Physics, Cosmology and Gravitation",
           "https://www.uni-bielefeld.de/fakultaeten/physik/forschung/cosmology/"
+        ],
+        [
+          "TRR 358 · verified external members and Mercator Fellows",
+          "https://trr358.math.uni-bielefeld.de/People"
         ],
         [
           "Groups and Geometry · working groups",
@@ -4078,8 +4082,20 @@
           "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/akademische_mitarbeitende/"
         ],
         [
+          "Bielefeld · 251 current directory, 238 academic staff and 35 professor cards",
+          "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/akademische_mitarbeitende/"
+        ],
+        [
           "Physics · Mathematical Physics Group",
           "https://www.uni-bielefeld.de/fakultaeten/physik/forschung/mathphys/"
+        ],
+        [
+          "Paderborn Mathematics · 35 named TRR 358 cross-appointments",
+          "https://math.uni-paderborn.de/personen-institut"
+        ],
+        [
+          "Paderborn Spectral Analysis · current team role categories",
+          "https://math.uni-paderborn.de/en/ag/research-group-spectral-analysis/team"
         ],
         [
           "Faculty of Technology · Research Groups",
@@ -4088,6 +4104,18 @@
         [
           "TRR 358 · cross-institution investigators",
           "https://trr358.math.uni-bielefeld.de/People"
+        ],
+        [
+          "TRR 358 · 2026–27 doctoral and postdoctoral calls",
+          "https://trr358.math.uni-bielefeld.de/JobOpenings"
+        ],
+        [
+          "TRR 358 · current Principal Investigators, Mercator Fellows and Investigators",
+          "https://trr358.math.uni-bielefeld.de/People"
+        ],
+        [
+          "TRR 358 · guest schedule at the audit date",
+          "https://trr358.math.uni-bielefeld.de/People/guests"
         ]
       ],
       "checkedAt": "2026-11-26"
@@ -14617,7 +14645,7 @@
           "type": "博士后",
           "status": "已截止",
           "deadline": "2026-11-15",
-          "checkedAt": "2026-11-26"
+          "checkedAt": "2026-11-27"
         }
       ],
       "identityNote": "当前教授名册、校方任命及 TRR B7 档案签署对应。2024 年 Springer 论文通讯署名与学校一致，排除环境化学 Ana Botero-Coy 和记载乳腺癌的同名字档。 扩展语料出现机构通用占位记录 “New Quick And Easy Publication” 和 Contributors 类附材。作者全档案数与引文保留复核。逐看核心语料 9 条 article 均为该数学作者。 作者端 19，默认作品端 14，作品全语料含附材及撤回项查询 19。核心语料 article 9，全语料 article 10。",
@@ -14936,7 +14964,7 @@
           "type": "博士",
           "status": "已截止",
           "deadline": "2026-11-15",
-          "checkedAt": "2026-11-26"
+          "checkedAt": "2026-11-27"
         }
       ],
       "identityNote": "本人校方页、TRR 项目及 IMRN 椭圆模曲面论文互证，排除 Freiburg 医学同名档。 全语料含数据与 Oberwolfach 短报告，核心文章数沿用数据库的严格类型过滤。 作者端 35，默认作品端 30，作品全语料含附材及撤回项查询 35。核心语料 article 22，全语料 article 25。",

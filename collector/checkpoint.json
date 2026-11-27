@@ -1092,6 +1092,16 @@
       "note": "校方具名列三位教授。研究栏目分别为天体粒子物理、宇宙学和引力，读具名主题以判断与三方向的交叉。"
     },
     {
+      "id": "bielefeld-crossPi-b77",
+      "school": "bielefeld",
+      "url": "https://trr358.math.uni-bielefeld.de/People",
+      "label": "TRR 358 · verified external members and Mercator Fellows",
+      "status": "reference",
+      "count": 8,
+      "checked_at": "2026-11-27",
+      "note": "具名外校任职逐人据 Antwerp、Bonn、Milan、EPFL 和 Paderborn 现行公共指向区分。TRR 角色或 2026 科研活动可确认但合同职级不公开者沿来源口径。"
+    },
+    {
       "id": "bielefeld-gg",
       "school": "bielefeld",
       "url": "https://www.math.uni-bielefeld.de/groupsgeometry/index.php",
@@ -1172,6 +1182,16 @@
       "note": "现行官网栏目所载公开名册由官方脚本填充，逐行提取 238 个具名人员 ID，排除标题行、重复联系方式、字母导航。称谓或学位只作线索，科研聘任另核。"
     },
     {
+      "id": "bielefeld-mathStaffFollowup-b77",
+      "school": "bielefeld",
+      "url": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/akademische_mitarbeitende/",
+      "label": "Bielefeld · 251 current directory, 238 academic staff and 35 professor cards",
+      "status": "reference",
+      "count": 6,
+      "checked_at": "2026-11-27",
+      "note": "重新读取院系预先公开的三张人员表脚本，当前目录 251、学术分栏 238、教授独立分栏 35。学术名册不逐人披露合同级别。eKVV 具名卡直连对样本仍返回 403，研究组名册和具名课程用于证据补查。先核几个 PD、项目组及拼写变体，其他学术人员继续分批核。"
+    },
+    {
       "id": "bielefeld-mathphys-b55",
       "school": "bielefeld",
       "url": "https://www.uni-bielefeld.de/fakultaeten/physik/forschung/mathphys/",
@@ -1180,6 +1200,26 @@
       "count": 27,
       "checked_at": "2026-11-26",
       "note": "三块分别是具名现行团队、曾经任职人员及过往博士论文；按网页分栏保留，组协作身份另核。"
+    },
+    {
+      "id": "bielefeld-paderPartners-b77",
+      "school": "bielefeld",
+      "url": "https://math.uni-paderborn.de/personen-institut",
+      "label": "Paderborn Mathematics · 35 named TRR 358 cross-appointments",
+      "status": "reference",
+      "count": 35,
+      "checked_at": "2026-11-27",
+      "note": "校际中心名册与本校当前研究所分栏对接，35 个待核姓名逐一匹配到唯一 Paderborn 个档。九位列 Paderborn 教授，其余是学术工作人员。Spektralanalysis 的五个细角色另用具名团队页确认。保留完整短名与常用名差异，TRR 共享项目不据以计入 Bielefeld 主任职。"
+    },
+    {
+      "id": "bielefeld-paderSpectral-b77",
+      "school": "bielefeld",
+      "url": "https://math.uni-paderborn.de/en/ag/research-group-spectral-analysis/team",
+      "label": "Paderborn Spectral Analysis · current team role categories",
+      "status": "reference",
+      "count": 5,
+      "checked_at": "2026-11-27",
+      "note": "读组负责人、博士后、博士生、旧成员栏目。具名岗位与 TRR 录入对照。"
     },
     {
       "id": "bielefeld-tech-b55",
@@ -1200,6 +1240,36 @@
       "count": 112,
       "checked_at": "2026-11-26",
       "note": "结构化提取 112 条 CRC 人员卡成员，含项目负责人、研究员、国际伙伴及合作人。逐人凭院系或项目具名工作地点判断，CRC 列名只作联合名单。"
+    },
+    {
+      "id": "bielefeld-trrCall-b77",
+      "school": "bielefeld",
+      "url": "https://trr358.math.uni-bielefeld.de/JobOpenings",
+      "label": "TRR 358 · 2026–27 doctoral and postdoctoral calls",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "当前公开页注明申请期已结束。六席博士及五席博士后属于 Bielefeld、Paderborn 及莱比锡 MPI MiS 联合范围。截至 2026-11-15。各席依项目获批，并按公开公告注明跨校项目归属。"
+    },
+    {
+      "id": "bielefeld-trrCurrent-b77",
+      "school": "bielefeld",
+      "url": "https://trr358.math.uni-bielefeld.de/People",
+      "label": "TRR 358 · current Principal Investigators, Mercator Fellows and Investigators",
+      "status": "reference",
+      "count": 112,
+      "checked_at": "2026-11-27",
+      "note": "直读当期联合中心目录和全部 112 张具名卡。原始三个栏目分别 27、2、83 人。这里使用中心成员身份。任职与长期归属依据实际人员目录、院系档与个人履历对照。"
+    },
+    {
+      "id": "bielefeld-trrGuest-b77",
+      "school": "bielefeld",
+      "url": "https://trr358.math.uni-bielefeld.de/People/guests",
+      "label": "TRR 358 · guest schedule at the audit date",
+      "status": "reference",
+      "count": 10,
+      "checked_at": "2026-11-27",
+      "note": "访问目录 363 个具名档、437 次日期安排。以核对日分出 427 已结束、3 正在访问、7 尚未开始。其单位口径为校际项目。访问不自动归入 Bielefeld 当前任职。"
     },
     {
       "id": "birmingham-28-geometry-physics",
