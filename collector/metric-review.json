@@ -610,7 +610,7 @@
     "suprit-singh": "OpenAlex 虽匹配本人的 ORCID，名下混入 phage display 生物实验和其他同名作品。用本人任职史、ORCID 与论文核实 INSPIRE，保留相应来源口径。",
     "diksha-gupta": "同名档落在医学、教育、化学等不同机构。由 IIT Delhi 毕业档、UNAM 现任档与 10.1017/prm.2024.18 确证人物；目前未核实完整作者指标。",
     "shambhavi-singh": "董事会记录 2026-03-17 遴选。数学现任名单无具名，Waterloo 及同名作者只有凸优化或不相干生医。无可独立核对的主职、CV 和计量。",
-    "khalid-saifullah": "姓名、QAU 论文署名、2026 NUST 作者单位及两篇几何 DOI 对照。逐条读 32 个作品端名下记录，排除 BZU 同名工科档和医学／农业姓名变体。",
+    "khalid-saifullah": "姓名、QAU 论文署名、2026 NUST 作者单位及两篇几何 DOI 对照。逐条读 32 个作品端名下记录，排除 BZU 同名工科档和医学／农业姓名变体。 2026 NUST Qalam PDF 独立支持 MCS 当前任职及 QAU 履历。",
     "noureddine-chair": "校方 2024 CV、2025 课程大纲、ORCID 及论文归属互证。OpenAlex 的 36 条作品逐条辨识出 29 条不同 DOI 的期刊条目。CV 另有四个期刊版在该作者档缺项，合并第 33 项预印本与期刊版后，CV 完整分栏为 33 个可核期刊作品。累计引用只反映 OpenAlex 覆盖。",
     "andres-fernandez-herrero": "以论文与 Penn、Columbia 和 Cornell 履历去除同名风险。 作者端总作品 28，作品查询端当日解析 26，各用其明确范围。",
     "angela-gibney": "Penn、Rutgers、UGA 的职业记录与校方所列研究方向及本人论文一致。Notices 文章按数据库分类保留。 作者端总作品 42，作品查询端当日解析 34，各用其明确范围。",
@@ -938,7 +938,8 @@
     "muhammad-zubair-ali-moughal": "CEME 数学任职、Waikato 博士论文、两个 DOI 与 publisher ORCID 0000-0002-6409-3475 互证。可见 9 个唯一研究记录，8 期刊、1 预印本。",
     "safia-taj": "CEME 具名任职与 Nuclear Physics B 的作者 ORCID 0009-0006-0714-1350 一致。可读作品端 32 条，其中 23 为 article；作者快照计总成果 33。",
     "bushra-majeed": "A5017424339 正常收入 CEME 引力作者论文，但 2026 机构已列的 10.1140/epjc/s10052-025-15166-x 被收进 A5073939661。后者以另一 ORCID 发布伊拉克沉积、地质及环境论文；A5087378363 的云安全与软件工程也属于另一同名。Google Scholar 公开姓名入口转登录。此人期刊篇数用 CEME 完整公开分栏的 16 条，累计引用暂未取得同一作者的可信整体值。",
-    "adnan-aslam": "OpenAlex 中 2012 极小超曲面、2013 Bianchi、2019 带电粒子和 2020 Schwarzschild 记录的 Adnan Aslam 作者 ID 均为空。2026 NUST 狂犬病论文另挂 A5122859553。高计量 A5024186062 与 A5121927934 指向 UET Lahore / JADARA 同名及其 ORCID，其他检索结果有商学、电子工程及医学档。ORCID 候选 0009-0005-7572-4008 自列 NUST，缺可对照作品且 OpenAlex 未映射。Scholar 登录，无确认的公开档。机构作者成果栏可核 26 条期刊；机构头部给出 159 citations，未注明引用数据库及覆盖口径，累计引用待核。"
+    "adnan-aslam": "OpenAlex 中 2012 极小超曲面、2013 Bianchi、2019 带电粒子和 2020 Schwarzschild 记录的 Adnan Aslam 作者 ID 均为空。2026 NUST 狂犬病论文另挂 A5122859553。高计量 A5024186062 与 A5121927934 指向 UET Lahore / JADARA 同名及其 ORCID，其他检索结果有商学、电子工程及医学档。ORCID 候选 0009-0005-7572-4008 自列 NUST，缺可对照作品且 OpenAlex 未映射。Scholar 登录，无确认的公开档。机构作者成果栏可核 26 条期刊；机构头部给出 159 citations，未注明引用数据库及覆盖口径，累计引用待核。",
+    "sidra-shafiq": "OpenAlex A5060014300 的 6 篇逐条与 NUST、GCU Lahore 及 Qalam 核对。Qalam 另含 2025 DOI 10.1016/j.aej.2025.02.053，出版机构和 OpenAlex 将名字作 Sirda Shafiq 并缺作者 ID。A5090587066 是植物学，A5003507890 是计算机作者，A5073131857 是医学同名。Scholar 导向登录。Qalam 7 个 DOI 期刊档可核；跨档案累计引用未确认。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -3012,9 +3013,11 @@
         "https://www.pakms.org.pk/newsletter/Issue%20No.3%2C%20Vol%C2%A08%2C%C2%A02024.pdf",
         "https://doi.org/10.3390/sym14040647",
         "https://doi.org/10.1140/epjc/s10052-025-14731-8",
-        "https://doi.org/10.2139/ssrn.7584859"
+        "https://doi.org/10.2139/ssrn.7584859",
+        "https://qalam.nust.edu.pk/faculty-profile/MzkwNjY",
+        "https://qalam.nust.edu.pk/faculty-profile/39066/download-cv"
       ],
-      "note": "姓名、QAU 论文署名、2026 NUST 作者单位及两篇几何 DOI 对照。逐条读 32 个作品端名下记录，排除 BZU 同名工科档和医学／农业姓名变体。"
+      "note": "姓名、QAU 论文署名、2026 NUST 作者单位及两篇几何 DOI 对照。逐条读 32 个作品端名下记录，排除 BZU 同名工科档和医学／农业姓名变体。 2026 NUST Qalam PDF 独立支持 MCS 当前任职及 QAU 履历。"
     },
     "noureddine-chair": {
       "status": "accepted",
@@ -11232,6 +11235,18 @@
         "https://www.unicesmag.edu.co/en/grupos-investigacion/rampa/productos/"
       ],
       "note": "OpenAlex 中 2012 极小超曲面、2013 Bianchi、2019 带电粒子和 2020 Schwarzschild 记录的 Adnan Aslam 作者 ID 均为空。2026 NUST 狂犬病论文另挂 A5122859553。高计量 A5024186062 与 A5121927934 指向 UET Lahore / JADARA 同名及其 ORCID，其他检索结果有商学、电子工程及医学档。ORCID 候选 0009-0005-7572-4008 自列 NUST，缺可对照作品且 OpenAlex 未映射。Scholar 登录，无确认的公开档。机构作者成果栏可核 26 条期刊；机构头部给出 159 citations，未注明引用数据库及覆盖口径，累计引用待核。"
+    },
+    "sidra-shafiq": {
+      "status": "held",
+      "checkedAt": "2026-11-27",
+      "url": "https://openalex.org/authors/A5060014300",
+      "identitySources": [
+        "https://qalam.nust.edu.pk/faculty-profile/MjkzNDg",
+        "https://doi.org/10.1140/epjc/s10052-020-8314-y",
+        "https://doi.org/10.1016/j.aej.2025.02.053",
+        "https://doi.org/10.1038/s41598-024-77282-0"
+      ],
+      "note": "OpenAlex A5060014300 的 6 篇逐条与 NUST、GCU Lahore 及 Qalam 核对。Qalam 另含 2025 DOI 10.1016/j.aej.2025.02.053，出版机构和 OpenAlex 将名字作 Sirda Shafiq 并缺作者 ID。A5090587066 是植物学，A5003507890 是计算机作者，A5073131857 是医学同名。Scholar 导向登录。Qalam 7 个 DOI 期刊档可核；跨档案累计引用未确认。"
     }
   }
 }
