@@ -12182,6 +12182,16 @@
       "note": "六个具名组员。对照其数论、组合、代数与微分几何分工。"
     },
     {
+      "id": "puc-chile-allSem-b68",
+      "school": "puc-chile",
+      "url": "https://www.mat.uc.cl/seminarios",
+      "label": "Matemáticas UC · seminarios geométricos y visitantes de 2026",
+      "status": "reference",
+      "count": 3,
+      "checked_at": "2026-11-27",
+      "note": "对照当期分析及几何、代数几何、几何测度、黎曼几何、几何拓扑的学校活动与任职和学生表。主讲活动没有聘任期限，外校来讲或本科、硕士和博士的学术活动分列。"
+    },
+    {
       "id": "puc-chile-astroDirectory-b67",
       "school": "puc-chile",
       "url": "https://www3.astro.puc.cl/DUDA",
@@ -12202,6 +12212,16 @@
       "note": "现期研究分工名单 16 位。独立聘任公告再证 2026 年 8 月入职的 Escala 和 Garavito。公开对象为星系、观测引力透镜、恒星或数值宇宙学，本组未见目标三方向主聘。"
     },
     {
+      "id": "puc-chile-centralEmeriti-b68",
+      "school": "puc-chile",
+      "url": "https://www.uc.cl/universidad/nuestros-profesores/profesores-emeritos/",
+      "label": "UC · Registro de Profesores Eméritos, áreas relacionadas",
+      "status": "reference",
+      "count": 35,
+      "checked_at": "2026-11-27",
+      "note": "校级 2026-06-18 的嵌入名单全部 176 项，抽取数学、物理及工程三单位。名册兼记历史荣誉，原系公告区分已故列表与在世荣休。Rafael Benguria 经物理院在列档与谱几何书目核证。"
+    },
+    {
       "id": "puc-chile-cmiA-b65",
       "school": "puc-chile",
       "url": "https://imc.uc.cl/",
@@ -12212,6 +12232,26 @@
       "note": "研究所主页公开人员、科研成果、团队及研究项，详细教师与团队网页直访 403，另用个人履历互证。"
     },
     {
+      "id": "puc-chile-docGrad-b68",
+      "school": "puc-chile",
+      "url": "https://www.mat.uc.cl/doctorado-en-matematica-graduados-y-tesis.html",
+      "label": "Matemáticas UC · Graduados y tesis · Doctorado",
+      "status": "reference",
+      "count": 13,
+      "checked_at": "2026-11-27",
+      "note": "全部 74 条历史记录已读，转录 2025 和 2026；与兼职名册、外校调动、现职或研究生身份对照。"
+    },
+    {
+      "id": "puc-chile-docstu-b68",
+      "school": "puc-chile",
+      "url": "https://www.mat.uc.cl/personas/alumnosdoctorado",
+      "label": "Matemáticas UC · Estudiantes de Doctorado · 41 tarjetas",
+      "status": "reference",
+      "count": 41,
+      "checked_at": "2026-11-27",
+      "note": "41 位博士生卡含统计，和 2026 毕业证据按时点合并。Flores 是在学者，毕业的 Canedo、Zúñiga 和兼职 Rivera 依后续证据区分。统计学生 Pérez Zamorano 的全名具名卡独立于访客 José Perez。"
+    },
+    {
       "id": "puc-chile-full-b65",
       "school": "puc-chile",
       "url": "https://www.mat.uc.cl/personas/profes",
@@ -12220,6 +12260,36 @@
       "count": 88,
       "checked_at": "2026-11-27",
       "note": "全学院 88 位具名，数学和统计分栏独立，数学系优先逐方向。"
+    },
+    {
+      "id": "puc-chile-imcMain-b68",
+      "school": "puc-chile",
+      "url": "https://imc.uc.cl/personas/academicos-del-instituto/",
+      "label": "IMC UC · Académicos del Instituto · 25",
+      "status": "reference",
+      "count": 25,
+      "checked_at": "2026-11-27",
+      "note": "25 位具名、分别查现行职位及交叉研究。详细页机器直连 403 的情况下，学校官方网页的公共渲染和学者主页提供同一名单。Petrache 与 Román 几何常规交叉；有限元、随机图、数据几何各记其独立内容。"
+    },
+    {
+      "id": "puc-chile-imcPD-b68",
+      "school": "puc-chile",
+      "url": "https://imc.uc.cl/personas/postdoctorados/",
+      "label": "IMC UC · Postdoctorados · 2",
+      "status": "reference",
+      "count": 2,
+      "checked_at": "2026-11-27",
+      "note": "学校研究所的公开渲染列 Ignacio Labarca 和 Jasper van Doornmalen。两人均可用作者页面与公开 CV 对印。"
+    },
+    {
+      "id": "puc-chile-masterRecord-b68",
+      "school": "puc-chile",
+      "url": "https://www.mat.uc.cl/magister-en-matematica-graduados-y-tesis.html",
+      "label": "Matemáticas UC · Graduados y tesis · Magíster",
+      "status": "reference",
+      "count": 17,
+      "checked_at": "2026-11-27",
+      "note": "全部 148 条历史记录已读，转录 2025 和 2026；与兼职名册、外校调动、现职或研究生身份对照。"
     },
     {
       "id": "puc-chile-math-source",
@@ -12255,11 +12325,11 @@
       "id": "puc-chile-midas-b65",
       "school": "puc-chile",
       "url": "https://midas.mat.uc.cl/team/team.html",
-      "label": "MiDaS Millenium Nucleus · public team",
+      "label": "MiDaS · 19 senior, associate, adjunct and postdoctoral profiles",
       "status": "reference",
-      "count": 0,
+      "count": 19,
       "checked_at": "2026-11-27",
-      "note": "团队页可读，按主要、联属、博士后和学生分列。数理基础属随机与统计方向，具体几何交叉按来源核。"
+      "note": "分辨研究人员、高级、联属、年轻研究人员、博士后和训练档。查独立统计与数据科学分栏，组合优化与空间统计保持原领域。"
     },
     {
       "id": "puc-chile-part-b65",
@@ -12269,7 +12339,7 @@
       "status": "reference",
       "count": 25,
       "checked_at": "2026-11-27",
-      "note": "学院兼职 25 位，含博士后兼教、Adjuntos 和原博士生。Yazmín Rivera 现兼教且有独立几何成果；其他候选继续对账。"
+      "note": "校西语当前兼职 25 位，含博士后兼教、Adjuntos、统计或教学系列及当期毕业学者。具名研究生与导师档确认 Cortés 数学曲率、Gajardo 代数曲线及 Rivera 曲面；其他相关作者按研究重点分列。"
     },
     {
       "id": "puc-chile-pde-b65",

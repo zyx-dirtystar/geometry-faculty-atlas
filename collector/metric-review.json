@@ -922,7 +922,11 @@
     "benjamin-koch": "校访学与 TU Wien 成果库、本人期刊书目、2025 与 2026 DOI 相符。本档 63 项 article，累计 2297。另一 OpenAlex 作者 A5009288080 是含医学及儿童体能同名项的不同档。",
     "pablo-enmanuel-leon-torres": "学校公开表中的 ORCID 与 ANID 具名、两篇超膜和结或环面的原作互证。当前索引 21 项 article，累计 435。",
     "ivan-ignacio-munoz-sandoval": "具名论文与作者 ORCID 对到物理研究者，OpenAlex 此档另外合并医学和材料同名文章。核对本人公开作品栏三条及各正式 DOI，全部属于同一物理学者。未找到可归属 Scholar 累计，拒绝索引累计 73。",
-    "rafael-fernando-bravo-guerraty": "本人主页直链、PUC 当期博士后和 Research 书目确认身份；Scholar All 为 268 引用。正确 OpenAlex ID 的三条总作品少于作者书目列的正式期刊，依本人可核完整范围按 DOI 取五条。"
+    "rafael-fernando-bravo-guerraty": "本人主页直链、PUC 当期博士后和 Research 书目确认身份；Scholar All 为 268 引用。正确 OpenAlex ID 的三条总作品少于作者书目列的正式期刊，依本人可核完整范围按 DOI 取五条。",
+    "jan-beno-kiwi-krauskopf": "官方全名及 OpenAlex ORCID 与 2026 本校署名文章一致。21 个 article 中一项是独立勘误，计 20 个研究文章，作者档累计 657。",
+    "mario-andres-ponce-acevedo": "当前院系、副校长资料和本人 ORCID 区分同名学者。几何和动力系统正式 DOI，与其学校及 Herreros 合著关系一致。20 项 article，档案累计 89。",
+    "godofredo-iommi-echeverria": "学校和本人链接的 ORCID、与 Velozo 署名测地流及 2026 本人预印本匹配。得 41 项 article，累计 579。Godofredo Iommi Amunátegui 姓名不同、作品与本人学术书目不符，从计量排除。",
+    "pilar-herreros-cortazar": "ANID 全名、Penn 博士论文、与磁测地流相关的正式 DOI 和 2024 原始署名确认作者，排除 Madrid 心理学及医学同名。13 项 article，累计 86；指标相符但现任聘期另保留不确定。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -10832,6 +10836,127 @@
         "checkedAt": "2026-11-27",
         "scope": "本人 Research 完整可见 Publications 列表共六条，限 2016–2023 有正式 DOI 的五篇期刊成果，DOI 去重。一条在列表只有预印本。"
       }
+    },
+    "jan-beno-kiwi-krauskopf": {
+      "name": "Jan Beno Kiwi Krauskopf",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5080217744",
+      "url": "https://openalex.org/A5080217744",
+      "note": "官方全名及 OpenAlex ORCID 与 2026 本校署名文章一致。21 个 article 中一项是独立勘误，计 20 个研究文章，作者档累计 657。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/jkiwi",
+        "https://investigadores.anid.cl/en/public_search/researcher?id=8264",
+        "https://doi.org/10.1017/etds.2026.10327",
+        "https://orcid.org/0000-0001-7106-865X",
+        "https://arxiv.org/abs/2412.19651",
+        "https://api.openalex.org/works?filter=author.id:A5080217744&per-page=100&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5080217744,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5080217744",
+        "url": "https://openalex.org/A5080217744",
+        "checkedAt": "2026-11-27",
+        "articles": 20,
+        "works": 31,
+        "articleScope": "OpenAlex type:article 查得 21 条，另扣除 1 条正式勘误；期刊文章计 20。",
+        "citations": 657,
+        "hIndex": 14,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "mario-andres-ponce-acevedo": {
+      "name": "Mario Andres Ponce Acevedo",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5102722643",
+      "url": "https://openalex.org/A5102722643",
+      "note": "当前院系、副校长资料和本人 ORCID 区分同名学者。几何和动力系统正式 DOI，与其学校及 Herreros 合著关系一致。20 项 article，档案累计 89。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/mponcea",
+        "https://investigadores.anid.cl/es/public_search/researcher?id=26497",
+        "https://web.pdx.edu/~veerman/mediatrix-regularity.pdf",
+        "https://orcid.org/0000-0002-6617-3145",
+        "https://www.uc.cl/noticias/la-formula-del-matematico-mario-ponce-para-la-vicerrectoria-academica/",
+        "https://api.openalex.org/works?filter=author.id:A5102722643&per-page=100&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5102722643,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5102722643",
+        "url": "https://openalex.org/A5102722643",
+        "checkedAt": "2026-11-27",
+        "articles": 20,
+        "works": 28,
+        "articleScope": "OpenAlex type:article，已核作者号、机构与代表作 DOI",
+        "citations": 89,
+        "hIndex": 4,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      }
+    },
+    "godofredo-iommi-echeverria": {
+      "name": "Godofredo Iommi Echeverria",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5080537900",
+      "url": "https://openalex.org/A5080537900",
+      "note": "学校和本人链接的 ORCID、与 Velozo 署名测地流及 2026 本人预印本匹配。得 41 项 article，累计 579。Godofredo Iommi Amunátegui 姓名不同、作品与本人学术书目不符，从计量排除。",
+      "identitySources": [
+        "https://www.mat.uc.cl/personas/perfil/giommi",
+        "https://sites.google.com/view/godofredo-iommi/p%C3%A1gina-principal",
+        "https://investigadores.anid.cl/en/public_search/researcher?id=26350",
+        "https://api.openalex.org/works?search=Equidistribution%20and%20thermodynamics%20at%20infinity&per-page=4&select=id,doi,display_name,type,publication_year,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5080537900&per-page=100&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5080537900,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5080537900",
+        "url": "https://openalex.org/A5080537900",
+        "checkedAt": "2026-11-27",
+        "articles": 41,
+        "works": 56,
+        "articleScope": "OpenAlex type:article，已核作者号、机构与代表作 DOI",
+        "citations": 579,
+        "hIndex": 14,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      },
+      "alternatives": [
+        "https://openalex.org/A5025475802",
+        "https://openalex.org/A5117771301"
+      ]
+    },
+    "pilar-herreros-cortazar": {
+      "name": "Pilar Herreros Cortázar",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "authorId": "A5051868903",
+      "url": "https://openalex.org/A5051868903",
+      "note": "ANID 全名、Penn 博士论文、与磁测地流相关的正式 DOI 和 2024 原始署名确认作者，排除 Madrid 心理学及医学同名。13 项 article，累计 86；指标相符但现任聘期另保留不确定。",
+      "identitySources": [
+        "https://investigadores.anid.cl/en/public_search/researcher?id=10809",
+        "https://www2.math.upenn.edu/grad/dissertations/ThesisHerreros.pdf",
+        "https://orcid.org/0000-0002-5177-1935",
+        "https://www.mat.uc.cl/archivos/dip/soluciones-autosimilares-para-el-flujo-por-curvatura-media-en-h2.pdf",
+        "https://api.openalex.org/works?filter=author.id:A5051868903&per-page=100&select=id,doi,display_name,type,publication_year,cited_by_count,authorships",
+        "https://api.openalex.org/works?filter=author.id:A5051868903,type:article&per-page=1"
+      ],
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5051868903",
+        "url": "https://openalex.org/A5051868903",
+        "checkedAt": "2026-11-27",
+        "articles": 13,
+        "works": 18,
+        "articleScope": "OpenAlex type:article，已核作者号、机构与代表作 DOI",
+        "citations": 86,
+        "hIndex": 5,
+        "citationScope": "OpenAlex 作者档案累计引用"
+      },
+      "alternatives": [
+        "https://openalex.org/A5111900721"
+      ]
     }
   }
 }
