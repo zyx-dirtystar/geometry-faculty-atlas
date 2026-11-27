@@ -5683,15 +5683,95 @@
     {
       "id": "yonsei",
       "coverage": "sample",
-      "coverageNote": "已解析 5/27 个登记来源，0 条任职或方向待核。 已收录 5 位学者，个人主页 5、CV 5、指标 3。 首尔数学 18 位现任、16 位荣休、14 位博士后、13 位客座与固定分栏教师、1 位有日期的访问、66 张研究生卡。Researchers/Lecturers 总表 31 卡含重复及往期记录，当前分栏优先。确认 Xian Wu 新聘、Hyenho Lho 当年访问、Donghyeon Kim 和 Shin-young Kim 去向。未来校区旧数学五人及两条荣休，与现行 Software 30 人、Data Science 八人、校级 FIS 五人和 2026 手册核对。三名旧列已于 2022–2025 退休。物理三栏 26、6、19，研究人员 20，核对具名物理卡与弦论组；计算科学工程六人及 PDE & AI Lab，Kwon 的职位、CV 和曲率流论文逐项核实。新增有独立文献支持的复几何、微分几何和 Calabi–Yau 方向。部分博士后、客座及旧总表的研究或当前归属仍欠具名证据。旧物理组站无法读取；保留已复核的正式替代页面。",
+      "coverageNote": "已解析 6/57 个登记来源，0 条任职或方向待核。 已收录 5 位学者，个人主页 5、CV 5、指标 3。 首尔数学 18 位现任、16 位荣休、14 位博士后、13 位客座与固定分栏教师、1 位有日期的访问、66 张研究生卡。Researchers/Lecturers 总表 31 卡含重复及往期记录，当前分栏优先。确认 Xian Wu 新聘、Hyenho Lho 当年访问、Donghyeon Kim 和 Shin-young Kim 去向。未来校区旧数学五人及两条荣休，与现行 Software 30 人、Data Science 八人、校级 FIS 五人和 2026 手册核对。三名旧列已于 2022–2025 退休。物理三栏 26、6、19，研究人员 20，核对具名物理卡与弦论组；计算科学工程六人及 PDE & AI Lab，Kwon 的职位、CV 和曲率流论文逐项核实。新增有独立文献支持的复几何、微分几何和 Calabi–Yau 方向。部分博士后、客座及旧总表的研究或当前归属仍欠具名证据。旧物理组站无法读取；保留已复核的正式替代页面。 追加数学系列出的 BK21 24 名教师和 13 名有项目期的研究人员，以及 BRL 19 个具名条目。公开学院名录补查首尔物理 BK21 20 人，天文两个语种教师 11 个具名档、4 位退休、10 位研究教授、10 位博士后和十个科研组，另读国际学院和未来校区物理四人及退休分栏。现可区分 Dong Hyeop Lee 的历史 BK21 任期和当前无续聘日期的人员卡，识别两篇几何论文所分属的 OpenAlex 档。另核实 Ansook Shin 的访问身份及五篇论文、Hyenho Lho 在忠南主聘的具名证据。首尔数理科学研究所的当前组织图、章程、研究人员任用和 BK21 招聘信息可读，研究所公开页面仅列管理人员及任用流程，未披露全体研究员，继续保留机构覆盖缺口。少数数学访问教师、博士后的公示卡未附方向，已在逐人表注明查找和同名冲突。",
       "rosterLinks": [
+        [
+          "Seoul Astronomy · distinguished and emeritus appointments",
+          "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher06.do"
+        ],
+        [
+          "Seoul Astronomy · named faculty and study areas",
+          "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher01.do"
+        ],
+        [
+          "Seoul Astronomy · March 2026 department composition",
+          "https://astro.yonsei.ac.kr/galaxy/intro_us.do"
+        ],
+        [
+          "Seoul Astronomy · research groups",
+          "https://astro.yonsei.ac.kr/galaxy/research.do"
+        ],
+        [
+          "Seoul Astronomy · postdoctoral researchers",
+          "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher02.do"
+        ],
+        [
+          "Seoul Astronomy · research professors",
+          "https://astro.yonsei.ac.kr/galaxy/research_prof.do"
+        ],
+        [
+          "Seoul Astronomy · retired faculty",
+          "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher05.do"
+        ],
+        [
+          "BK21 current research areas",
+          "https://cse.yonsei.ac.kr/cse/BK21/bk21_research_area.do"
+        ],
+        [
+          "BK21 Mathematical Sciences and Computation · participating faculty",
+          "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do"
+        ],
+        [
+          "Seoul Physics · BK21 participating faculty",
+          "https://physicsyonsei.kr/bk4/about_group"
+        ],
+        [
+          "BK21 Mathematical Sciences and Computation · dated research roster",
+          "https://cse.yonsei.ac.kr/cse/BK21/bk21_researcher.do"
+        ],
+        [
+          "BRL Kinetic Dynamics and Continuum Mechanics · group members",
+          "https://sites.google.com/view/kdcm/people/members"
+        ],
+        [
+          "BRL · research activities and visits",
+          "https://sites.google.com/view/kdcm/research/activities"
+        ],
+        [
+          "Seoul Mathematics · linked departments and centers",
+          "https://math.yonsei.ac.kr/math/math/centers.do"
+        ],
+        [
+          "Chungnam National University · current home appointment for Hyenho Lho",
+          "https://math.cnu.ac.kr/math/people/faculty01.do"
+        ],
+        [
+          "Seoul HEP-COSMO · lab members",
+          "https://hepcosmo.yonsei.ac.kr/members/"
+        ],
         [
           "Computational Science and Engineering · Research Labs",
           "https://rus.yonsei.ac.kr/cse/research/research_labs.do"
         ],
         [
+          "Yonsei algebraic geometry · Dong Hyeop Lee and coauthors",
+          "https://arxiv.org/abs/2509.09383"
+        ],
+        [
+          "Department of Mathematics · research portal overview",
+          "https://yonsei.elsevierpure.com/en/organisations/department-of-mathematics/"
+        ],
+        [
           "Yonsei Geometry Seminar",
           "https://sites.google.com/yonsei.ac.kr/yonseigeometry"
+        ],
+        [
+          "KIAS HCMC · In-Kyun Kim’s current self-reported affiliation",
+          "https://soulcraw.github.io/inkyun/"
+        ],
+        [
+          "BRL · member research output",
+          "https://sites.google.com/view/kdcm/research/publications"
         ],
         [
           "Seoul Mathematics · Emeriti",
@@ -5758,6 +5838,34 @@
           "https://sw.yonsei.ac.kr/prof"
         ],
         [
+          "MIRAE · Physics and Engineering Physics emeritus roster",
+          "https://phys.yonsei.ac.kr/ymphys/intro/professor2.do"
+        ],
+        [
+          "MIRAE · Physics and Engineering Physics faculty",
+          "https://phys.yonsei.ac.kr/ymphys/intro/professor.do"
+        ],
+        [
+          "Institute of Mathematical Sciences · BK21 academic research professor hiring",
+          "https://ghe.yonsei.ac.kr/cse/notice/job_wanted.do?article.offset=0&articleLimit=10&articleNo=219803&mode=view"
+        ],
+        [
+          "Institute of Mathematical Sciences · spring 2026 appointments",
+          "https://research.yonsei.ac.kr/math/math/notice.do?articleNo=464873&mode=view"
+        ],
+        [
+          "Institute of Natural Sciences · public news and appointment procedures",
+          "https://nsri.yonsei.ac.kr/nslab/board/notice.do"
+        ],
+        [
+          "Institute of Natural Sciences · organization and subinstitute directors",
+          "https://nsri.yonsei.ac.kr/nslab/intro/organi.do"
+        ],
+        [
+          "Institute of Natural Sciences · appointment statute and subunits",
+          "https://nsri.yonsei.ac.kr/nslab/nature/rule.do"
+        ],
+        [
           "Seoul Physics · Research areas",
           "https://physics.yonsei.ac.kr/research/field"
         ],
@@ -5790,11 +5898,23 @@
           "https://slee.yonsei.ac.kr/members"
         ],
         [
+          "International Campus · Underwood International College faculty",
+          "https://uic.yonsei.ac.kr/about.php?mid=m01_02_01"
+        ],
+        [
+          "Underwood International College · graduate research streams",
+          "https://uic.yonsei.ac.kr/graduate.php?mid=m03_02"
+        ],
+        [
           "Seoul Mathematics · Visiting Faculty recruitment, spring 2027",
           "https://math.yonsei.ac.kr/math/math/notice.do?mode=view&articleNo=484301"
+        ],
+        [
+          "BRL · compressible and geometric flows workshop, November 2026",
+          "https://sites.google.com/yonsei.ac.kr/iym/iym-workshop/4th-iym-workshop"
         ]
       ],
-      "checkedAt": "2026-11-26"
+      "checkedAt": "2026-11-27"
     },
     {
       "id": "monash",

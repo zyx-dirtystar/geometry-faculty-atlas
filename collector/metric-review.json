@@ -637,7 +637,7 @@
     "jiakang-bao": "OpenAlex 正确 ORCID 档仍有同名混入 W4400145338 锂电池预热实验及同作的 arXiv/期刊版本。用 ORCID 相符的 INSPIRE 具名案重新核算。",
     "seungjoon-hyun": "OpenAlex 同名作者索引 115 部作品，当前具名作品查询只返回 70 条，前排还列入外组非线性电动力学论文。已核对期刊具名论文与 INSPIRE 作者号，暂不采用索引总量。",
     "xian-wu": "利用 Grassmannian 论文反查匹配作者身份，OpenAlex 档含经核对属于较早同名学者的 On an infinitesimal invariant of normal functions 和 Refined intersection products；未采用作者总计量。",
-    "hyenho-lho": "ORCID、作者研究主题、Yonsei 访问及忠南大学主聘可确认同一人。OpenAlex 把论文 Comparison of two desingularizations 的预印本与期刊版两计，累计引用无法当作去重数，保留核对后九项期刊范围。",
+    "hyenho-lho": "具名访客表、忠南大学现任教师详细页与 ORCID 核对同人。OA 有 16 项、9 条 type:article、182 引用，其成果数和引用包含一篇预印本与期刊版。2021、2023、2026 至少三篇正式文章在 KCI／忠南个人页可证，未在同一 OA 档 type:article 返回。保留数据库九项的明示口径，作者合并累计引用未取得。Scholar 姓名检索转登录。",
     "hobum-kim": "同名或近名作者档散布多份，当前旧 Yonsei 荣休卡未指向 ORCID 或个人完整书目。现有论文可核个别题名，未验证作者累计。",
     "jong-woo-lee": "OpenAlex 用曾用缩写、韩文姓名和校名查询遇多份同名自然科学与工程作者，未有可归属的完整档。Yonsei Pure 具名路径 404，旧数学页无发表列表。",
     "dohyun-kwon": "OpenAlex 的具名 A5081743149 由两篇几何流 DOI 和 ORCID 对应，但 29 条中混入两项同一 DASH 论文的英韩记录和无线网络同名作者。Google Scholar 由本人站直链，姓名、Yonsei 与代表作吻合；其公开 All 引用为 617。正文以作者完整列表逐项核实 12 篇期刊论文。",
@@ -865,7 +865,9 @@
     "vahid-shahverdi": "SIAM DOIs 10.1137/23M1565504、10.1137/24M166053X 与 KTH 学位库授权 ORCID、个人及 DIAMANT TU/e 名录相符。",
     "jan-cees-van-der-meer": "学校 ORCID 与几何作者相符，但该档高引 CMOS 传感器论文 10.1109/ISSCC.2005.1493961 属 TU Delft 的 Jeroen C. van der Meer。校方公开期刊栏 18 条回退；累计引文待可靠作者档。 新增本人主页导航里的公开 CV 与书目，保留机构 18 条期刊披露。校方 Pure 具名档的 Scopus 当期快照为 408 次，h 指数 9。",
     "ruud-pellikaan": "几何曲线与奇点 DOI 校清本人。但按姓名存在其他记录 A5138338434 与 A5164093837，仍须逐 DOI 查清是否是同作者拆分。校方正式任期、本人站与机构成果另记。 当前另核 A5138338434 的详情报 7 项且作品接口返回两条。论文原文和机构库显示均非本人合著，至少一篇把论文集编者误写成作者。A5164093837 详情报 1 项且具体作品端无可复核明细，未与主档合并。按本人书目完整编号范围排除会议及其他体裁并去重后得 38 条期刊论文，校方 Pure 具名档的 Scopus 当期快照为 1445 次，h 指数 22。",
-    "annika-bach": "按两篇具名正式论文查 OpenAlex，几何变分作者的署名行没有分配作者 ID。姓名搜索前三档分别为代谢神经科学、外科及传播学。保留机构旧版 12 条期刊论文披露，累计引用未见可用作者档。"
+    "annika-bach": "按两篇具名正式论文查 OpenAlex，几何变分作者的署名行没有分配作者 ID。姓名搜索前三档分别为代谢神经科学、外科及传播学。保留机构旧版 12 条期刊论文披露，累计引用未见可用作者档。",
+    "ansook-shin": "2025 正式卷期（2024 线上）的 World Scientific 原文携带同一 ORCID，五条 OpenAlex 文章经 DOI 和延世数学合作署名核对。Scholar 姓名搜索转登录。",
+    "dong-hyeop-lee": "OpenAlex A5033588914 混入 1998 年且无 DOI 的正交多项式记录，A5157867051 是另一位同名半导体作者。A5137782599 仅收一篇几何论文，另一篇真实文章在第一档。完整返回的三个同名档逐条读过，已保存两条可归属期刊记录。未采用任一作者档的累计引用。Scholar 姓名检索转登录。"
   },
   "evidence": {
     "ravi-vakil": {
@@ -3360,14 +3362,18 @@
       "url": "https://openalex.org/A5101800228"
     },
     "hyenho-lho": {
+      "name": "Hyenho Lho",
       "status": "held",
-      "checkedAt": "2026-11-26",
-      "note": "ORCID、作者研究主题、Yonsei 访问及忠南大学主聘可确认同一人。OpenAlex 把论文 Comparison of two desingularizations 的预印本与期刊版两计，累计引用无法当作去重数，保留核对后九项期刊范围。",
+      "checkedAt": "2026-11-27",
+      "note": "具名访客表、忠南大学现任教师详细页与 ORCID 核对同人。OA 有 16 项、9 条 type:article、182 引用，其成果数和引用包含一篇预印本与期刊版。2021、2023、2026 至少三篇正式文章在 KCI／忠南个人页可证，未在同一 OA 档 type:article 返回。保留数据库九项的明示口径，作者合并累计引用未取得。Scholar 姓名检索转登录。",
       "identitySources": [
         "https://math.yonsei.ac.kr/math/math/visitors.do",
-        "https://doi.org/10.1016/j.aim.2018.05.020",
-        "https://doi.org/10.1016/j.aim.2018.05.020",
-        "https://doi.org/10.1007/s00229-021-01361-z"
+        "https://math.cnu.ac.kr/math/people/faculty01.do?mode=view&key=LZStrEwBlEYRA2AOI%20&pager.offset=0&pagerLimit=10",
+        "https://api.openalex.org/works?filter=authorships.author.id:A5075451249&per-page=50",
+        "https://api.openalex.org/works?filter=authorships.author.id:A5075451249,type:article&per-page=1",
+        "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003332877",
+        "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002683544",
+        "https://pub.orcid.org/v3.0/0000-0002-6365-5704/record"
       ],
       "authorId": "A5075451249",
       "url": "https://openalex.org/A5075451249"
@@ -9180,6 +9186,53 @@
         "https://openalex.org/authors/A5007486254",
         "https://openalex.org/authors/A5108279247",
         "https://openalex.org/authors/A5112204705"
+      ]
+    },
+    "ansook-shin": {
+      "name": "Ansook Shin",
+      "status": "accepted",
+      "checkedAt": "2026-11-27",
+      "note": "2025 正式卷期（2024 线上）的 World Scientific 原文携带同一 ORCID，五条 OpenAlex 文章经 DOI 和延世数学合作署名核对。Scholar 姓名搜索转登录。",
+      "identitySources": [
+        "https://math.yonsei.ac.kr/math/math/Postdoc.do?srCategoryId1=1648",
+        "https://api.crossref.org/works/10.1142/S0219887824502554",
+        "https://api.openalex.org/works?filter=authorships.author.id:A5025680580&per-page=50",
+        "https://api.openalex.org/works?filter=authorships.author.id:A5025680580,type:article&per-page=1",
+        "https://pub.orcid.org/v3.0/0000-0002-9245-1647/record"
+      ],
+      "authorId": "A5025680580",
+      "url": "https://openalex.org/A5025680580",
+      "snapshot": {
+        "source": "OpenAlex",
+        "authorId": "A5025680580",
+        "url": "https://openalex.org/A5025680580",
+        "checkedAt": "2026-11-27",
+        "articles": 5,
+        "works": 5,
+        "citations": 4,
+        "articleScope": "OpenAlex type:article 查询的五条数学期刊论文，已据 DOI 逐条核对",
+        "citationScope": "OpenAlex 作者档案累计引用",
+        "hIndex": 1
+      }
+    },
+    "dong-hyeop-lee": {
+      "name": "Dong Hyeop Lee",
+      "status": "held",
+      "checkedAt": "2026-11-27",
+      "note": "OpenAlex A5033588914 混入 1998 年且无 DOI 的正交多项式记录，A5157867051 是另一位同名半导体作者。A5137782599 仅收一篇几何论文，另一篇真实文章在第一档。完整返回的三个同名档逐条读过，已保存两条可归属期刊记录。未采用任一作者档的累计引用。Scholar 姓名检索转登录。",
+      "identitySources": [
+        "https://api.openalex.org/authors?search=Donghyeop%20Lee&per-page=8",
+        "https://api.openalex.org/works?filter=authorships.author.id:A5033588914&per-page=50",
+        "https://api.openalex.org/works?filter=authorships.author.id:A5157867051&per-page=50",
+        "https://api.openalex.org/works?filter=authorships.author.id:A5137782599&per-page=50",
+        "https://doi.org/10.1093/imrn/rnaf071",
+        "https://api.crossref.org/works/10.1016/j.jalgebra.2026.05.025",
+        "https://www.kias.re.kr/kias/activities/seminars/view.do?edate=&menuNo=402021&mjrcdnm=&pageIndex=1&schoolsCd=M&sdate=2026-04-26&seqno=PGN1720260324-0004"
+      ],
+      "alternatives": [
+        "https://openalex.org/A5033588914",
+        "https://openalex.org/A5157867051",
+        "https://openalex.org/A5137782599"
       ]
     }
   }

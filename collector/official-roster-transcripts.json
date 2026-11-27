@@ -160005,5 +160005,755 @@
     "checkedAt": "2026-11-27",
     "scope": "可直接读取本人编号 1–98 的书目，提取 38 条期刊论文并按卷期、题名与 DOI 去重。",
     "entries": []
+  },
+  "yonsei-bkpost-b60": {
+    "url": "https://cse.yonsei.ac.kr/cse/BK21/bk21_researcher.do",
+    "checkedAt": "2026-11-27",
+    "scope": "七个方向分栏 13 位研究人员，原文公开具体项目期。2025-02-29 为机构源误写，未推断实际日期。项目结束日期不必然是学校其他聘任的终止日期。",
+    "entries": [
+      {
+        "name": "Zhou Chu Yu",
+        "title": "BK21 research appointment · 2023-10-15 至 2024-10-14",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_researcher.do",
+        "research": "Algebraic geometry",
+        "homepage": ""
+      },
+      {
+        "name": "In-Kyun Kim",
+        "title": "BK21 research appointment · 2021-03-01 至 2023-08-31",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_researcher.do",
+        "research": "Algebraic geometry",
+        "homepage": ""
+      },
+      {
+        "name": "Kwangwoo Lee",
+        "title": "BK21 research appointment · 2021-03-01 至 2023-02-28",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_researcher.do",
+        "research": "Algebraic geometry",
+        "homepage": ""
+      },
+      {
+        "name": "Dong Hyeop Lee",
+        "title": "BK21 research appointment · 2025-09-01 至 2026-08-31",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_researcher.do",
+        "research": "Algebraic geometry",
+        "homepage": ""
+      },
+      {
+        "name": "Shin-young Kim",
+        "title": "BK21 research appointment · 2024-03-01 至 2025-08-31",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_researcher.do",
+        "research": "Complex geometry",
+        "homepage": ""
+      },
+      {
+        "name": "김지구",
+        "title": "BK21 research appointment · 2023-03-01 起，终止日原页记为不存在的 2025-02-29",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_researcher.do",
+        "research": "Number theory",
+        "homepage": ""
+      },
+      {
+        "name": "한재호",
+        "title": "BK21 research appointment · 2021-03-01 至 2023-02-28",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_researcher.do",
+        "research": "Number theory",
+        "homepage": ""
+      },
+      {
+        "name": "Jae Yong Shin",
+        "title": "BK21 research appointment · 2024-03-02 至 2026-02-28",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_researcher.do",
+        "research": "Partial differential equations",
+        "homepage": ""
+      },
+      {
+        "name": "Woo Jae Lee",
+        "title": "BK21 research appointment · 2023-03-01 至 2024-02-28",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_researcher.do",
+        "research": "Partial differential equations",
+        "homepage": ""
+      },
+      {
+        "name": "Eric Dolores Cuenca",
+        "title": "BK21 research appointment · 2021-09-18 至 2023-09-17",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_researcher.do",
+        "research": "Geometry",
+        "homepage": ""
+      },
+      {
+        "name": "백진언",
+        "title": "BK21 research appointment · 2024-09-01 至 2025-08-31",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_researcher.do",
+        "research": "Combinatorics",
+        "homepage": ""
+      },
+      {
+        "name": "박혁주",
+        "title": "BK21 research appointment · 2024-03-01 至 2025-02-28",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_researcher.do",
+        "research": "Numerical analysis",
+        "homepage": ""
+      },
+      {
+        "name": "Krishan Kumar",
+        "title": "BK21 research appointment · 2025-11-01 至 2026-10-30",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_researcher.do",
+        "research": "Numerical analysis",
+        "homepage": ""
+      }
+    ]
+  },
+  "yonsei-bkfac-b60": {
+    "url": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+    "checkedAt": "2026-11-27",
+    "scope": "八类合计 24 位参与教师；几何分栏为 Sung Rak Choi、Hansol Hong、Woonam Lim，对照数学系正式名单。Dohyun Kwon 列为应用数学，独立曲率流发表由原任职档保留。",
+    "entries": [
+      {
+        "name": "기하서",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Algebra and number theory",
+        "homepage": ""
+      },
+      {
+        "name": "김병한",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Algebra and number theory",
+        "homepage": ""
+      },
+      {
+        "name": "서수길",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Algebra and number theory",
+        "homepage": ""
+      },
+      {
+        "name": "손재범",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Algebra and number theory",
+        "homepage": ""
+      },
+      {
+        "name": "유명준",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Algebra and number theory",
+        "homepage": ""
+      },
+      {
+        "name": "강경근",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Analysis",
+        "homepage": ""
+      },
+      {
+        "name": "김세익",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Analysis",
+        "homepage": ""
+      },
+      {
+        "name": "김준일",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Analysis",
+        "homepage": ""
+      },
+      {
+        "name": "양민석",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Analysis",
+        "homepage": ""
+      },
+      {
+        "name": "최영필",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Analysis",
+        "homepage": ""
+      },
+      {
+        "name": "박재민",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Analysis",
+        "homepage": ""
+      },
+      {
+        "name": "최성락",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Geometry and topology",
+        "homepage": ""
+      },
+      {
+        "name": "홍한솔",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Geometry and topology",
+        "homepage": ""
+      },
+      {
+        "name": "임우남",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Geometry and topology",
+        "homepage": ""
+      },
+      {
+        "name": "김선우",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Probability",
+        "homepage": ""
+      },
+      {
+        "name": "박은재",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Applied mathematics",
+        "homepage": ""
+      },
+      {
+        "name": "이은정",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Applied mathematics",
+        "homepage": ""
+      },
+      {
+        "name": "이지현",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Applied mathematics",
+        "homepage": ""
+      },
+      {
+        "name": "허영미",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Applied mathematics",
+        "homepage": ""
+      },
+      {
+        "name": "권도현",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Applied mathematics",
+        "homepage": ""
+      },
+      {
+        "name": "이승철",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Financial mathematics",
+        "homepage": ""
+      },
+      {
+        "name": "신원용",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Machine learning",
+        "homepage": ""
+      },
+      {
+        "name": "윤경호",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Machine learning",
+        "homepage": ""
+      },
+      {
+        "name": "최정일",
+        "title": "BK21 participating professor",
+        "profile": "https://cse.yonsei.ac.kr/cse/BK21/bk21_faculty.do",
+        "research": "Fluid dynamics",
+        "homepage": ""
+      }
+    ]
+  },
+  "yonsei-bkareas-b60": {
+    "url": "https://cse.yonsei.ac.kr/cse/BK21/bk21_research_area.do",
+    "checkedAt": "2026-11-27",
+    "scope": "核对双有理几何、辛几何、枚举几何和合作方向。",
+    "entries": []
+  },
+  "yonsei-centers-b60": {
+    "url": "https://math.yonsei.ac.kr/math/math/centers.do",
+    "checkedAt": "2026-11-27",
+    "scope": "系站相关单位页明确列计算科学工程、BK21 与 BRL。逐页读取其人员与方向。",
+    "entries": []
+  },
+  "yonsei-brlm-b60": {
+    "url": "https://sites.google.com/view/kdcm/people/members",
+    "checkedAt": "2026-11-27",
+    "scope": "公开成员页具名 19 人。核对校内外负责人、博士后和学生分栏，并由近年的报告、成果及数学系名录确定身份。",
+    "entries": [
+      {
+        "name": "Young-Pil Choi",
+        "title": "BRL principal investigator",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Kyungkeun Kang",
+        "title": "BRL investigator",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "In-Jee Jeong",
+        "title": "BRL investigator · Seoul National University",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Yoonjung lee",
+        "title": "BRL researcher",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Bora Moon",
+        "title": "BRL researcher",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Jae Yong Shin",
+        "title": "BRL researcher",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Ga Young An",
+        "title": "BRL researcher",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Xushan Huang",
+        "title": "BRL researcher",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "김우진",
+        "title": "BRL student or graduate member",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "민찬홍",
+        "title": "BRL student or graduate member",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "송시현",
+        "title": "BRL student or graduate member",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "유영석",
+        "title": "BRL student or graduate member",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "이승재",
+        "title": "BRL student or graduate member",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "이원석",
+        "title": "BRL student or graduate member",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "최재완",
+        "title": "BRL student or graduate member",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "현주환",
+        "title": "BRL student or graduate member",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "구도완",
+        "title": "Listed separately in the BRL group directory",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "최규언",
+        "title": "Listed separately in the BRL group directory",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "심준엽",
+        "title": "Listed separately in the BRL group directory",
+        "profile": "https://sites.google.com/view/kdcm/people/members",
+        "research": "",
+        "homepage": ""
+      }
+    ]
+  },
+  "yonsei-kdpub-b60": {
+    "url": "https://sites.google.com/view/kdcm/research/publications",
+    "checkedAt": "2026-11-27",
+    "scope": "以 BRL 项目成果和组报告原文核定动力学、偏微分方程和流体主题。",
+    "entries": []
+  },
+  "yonsei-brlresearch-b60": {
+    "url": "https://sites.google.com/view/kdcm/research/activities",
+    "checkedAt": "2026-11-27",
+    "scope": "当期活动包括 2026-11 华沙及波兰流体专题，可与组目录、成员身份和主题交叉证实。",
+    "entries": []
+  },
+  "yonsei-yoonNow-b60": {
+    "url": "https://sites.google.com/yonsei.ac.kr/iym/iym-workshop/4th-iym-workshop",
+    "checkedAt": "2026-11-27",
+    "scope": "2026-11-27 院系活动原文确认三名组织人员。外校报告人按具名单位记录。",
+    "entries": [
+      {
+        "name": "Kyungkeun Kang",
+        "title": "Workshop organizer",
+        "profile": "https://sites.google.com/yonsei.ac.kr/iym/iym-workshop/4th-iym-workshop",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Young-Pil Choi",
+        "title": "Workshop organizer",
+        "profile": "https://sites.google.com/yonsei.ac.kr/iym/iym-workshop/4th-iym-workshop",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Yoonjung lee",
+        "title": "Workshop organizer",
+        "profile": "https://sites.google.com/yonsei.ac.kr/iym/iym-workshop/4th-iym-workshop",
+        "research": "",
+        "homepage": ""
+      }
+    ]
+  },
+  "yonsei-nsriorg-b60": {
+    "url": "https://nsri.yonsei.ac.kr/nslab/intro/organi.do",
+    "checkedAt": "2026-11-27",
+    "scope": "2026-08-01 起组织表指明数学系 Seick Kim 现任数理科学研究所主任；物理和应用物理研究所、宇宙科学研究所主任另列。组织表限管理成员。",
+    "entries": [
+      {
+        "name": "Kim, Seick",
+        "title": "Director of Institute of Mathematical Sciences",
+        "profile": "https://nsri.yonsei.ac.kr/nslab/intro/organi.do",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Hwidong Yoo",
+        "title": "Director of Physics and Applied Physics Research Center",
+        "profile": "https://nsri.yonsei.ac.kr/nslab/intro/organi.do",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Aeree Chung",
+        "title": "Director of Institute of Space Science",
+        "profile": "https://nsri.yonsei.ac.kr/nslab/intro/organi.do",
+        "research": "",
+        "homepage": ""
+      }
+    ]
+  },
+  "yonsei-nsrirule-b60": {
+    "url": "https://nsri.yonsei.ac.kr/nslab/nature/rule.do",
+    "checkedAt": "2026-11-27",
+    "scope": "章程明确该机构设独立的访问、研究教授与专业研究职类。核对院系名册，机构章程与人事公告无全体现聘姓名。",
+    "entries": []
+  },
+  "yonsei-nsrihire-b60": {
+    "url": "https://research.yonsei.ac.kr/math/math/notice.do?articleNo=464873&mode=view",
+    "checkedAt": "2026-11-27",
+    "scope": "数学系公开任用通知确认研究所管理访问研究员、专业研究员、研究员和研究助理，公布类型与申请期，未公布获聘名单。",
+    "entries": []
+  },
+  "yonsei-nsriBK-b60": {
+    "url": "https://ghe.yonsei.ac.kr/cse/notice/job_wanted.do?article.offset=0&articleLimit=10&articleNo=219803&mode=view",
+    "checkedAt": "2026-11-27",
+    "scope": "计算科学工程系旧 BK21 招募页列数理科学研究所为任用单位。与数学系研究人员分栏互证，未发现结果公告。",
+    "entries": []
+  },
+  "yonsei-nsrino-b60": {
+    "url": "https://nsri.yonsei.ac.kr/nslab/board/notice.do",
+    "checkedAt": "2026-11-27",
+    "scope": "读研究所公告与研究教授任用手续。公开表格是程序材料，资料室未列全员名册。",
+    "entries": []
+  },
+  "yonsei-fismath-b60": {
+    "url": "https://yonsei.elsevierpure.com/en/organisations/department-of-mathematics/",
+    "checkedAt": "2026-11-27",
+    "scope": "官方科研门户数学系入口能读取，概览披露 Profiles (18)。具名列表后缀直取 403。已用独立正式数学系师资目录和 BK21 对照。",
+    "entries": []
+  },
+  "yonsei-bkphys-b60": {
+    "url": "https://physicsyonsei.kr/bk4/about_group",
+    "checkedAt": "2026-11-27",
+    "scope": "物理 BK21 具名 20 位教职者按核／粒子／天体、凝聚态和应用物理分栏。已用学院现行人员表及组档复核边界。",
+    "entries": []
+  },
+  "yonsei-uicfaculty-b60": {
+    "url": "https://uic.yonsei.ac.kr/about.php?mid=m01_02_01",
+    "checkedAt": "2026-11-27",
+    "scope": "国际学院教学由本科共同课程和综合科学工程覆盖。核对校方教师及研究生项目分栏，所列综合科学工程方向为纳米、环境能源及生物融合。",
+    "entries": []
+  },
+  "yonsei-uicgrad-b60": {
+    "url": "https://uic.yonsei.ac.kr/graduate.php?mid=m03_02",
+    "checkedAt": "2026-11-27",
+    "scope": "公开研究生项目及计划的分科范围，未见独立几何研究教师名单。",
+    "entries": []
+  },
+  "yonsei-mirphysfa-b60": {
+    "url": "https://phys.yonsei.ac.kr/ymphys/intro/professor.do",
+    "checkedAt": "2026-11-27",
+    "scope": "目前教职四位，另列行政人员。对照 FIS 四名与方向：智能材料、光电子、材料及计算粒子物理。",
+    "entries": [
+      {
+        "name": "Jiwon Seo",
+        "title": "Faculty member",
+        "profile": "https://phys.yonsei.ac.kr/ymphys/intro/professor.do",
+        "research": "Smart materials",
+        "homepage": ""
+      },
+      {
+        "name": "Tae Keun Choi",
+        "title": "Faculty member",
+        "profile": "https://phys.yonsei.ac.kr/ymphys/intro/professor.do",
+        "research": "Theoretical and computational particle physics",
+        "homepage": ""
+      },
+      {
+        "name": "Soohaeng Cho",
+        "title": "Faculty member",
+        "profile": "https://phys.yonsei.ac.kr/ymphys/intro/professor.do",
+        "research": "Optoelectronic materials and surface physics",
+        "homepage": ""
+      },
+      {
+        "name": "Sang Wan Cho",
+        "title": "Faculty member",
+        "profile": "https://phys.yonsei.ac.kr/ymphys/intro/professor.do",
+        "research": "Materials physics and semiconductors",
+        "homepage": ""
+      }
+    ]
+  },
+  "yonsei-mirphysem-b60": {
+    "url": "https://phys.yonsei.ac.kr/ymphys/intro/professor2.do",
+    "checkedAt": "2026-11-27",
+    "scope": "检查物理/工程物理退休来源与现任独立分栏。",
+    "entries": []
+  },
+  "yonsei-astrfac-b60": {
+    "url": "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher01.do",
+    "checkedAt": "2026-11-27",
+    "scope": "双语具名教师分栏各 11 人。另参照 2026-03 系况 14 位教职、名誉特聘和退休分栏。核对涉及引力、李群轨道与几何光学的研究。",
+    "entries": [
+      {
+        "name": "Yong-Ik Byun",
+        "title": "Faculty member",
+        "profile": "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher01.do",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Yong-Cheol Kim",
+        "title": "Faculty member",
+        "profile": "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher01.do",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Young-Jong Sohn",
+        "title": "Faculty member",
+        "profile": "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher01.do",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Sukyoung Yi",
+        "title": "Faculty member",
+        "profile": "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher01.do",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Suk-Jin Yoon",
+        "title": "Faculty member",
+        "profile": "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher01.do",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Aeree Chung",
+        "title": "Faculty member",
+        "profile": "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher01.do",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Chandeok Park",
+        "title": "Faculty member",
+        "profile": "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher01.do",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "M. James Jee",
+        "title": "Faculty member",
+        "profile": "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher01.do",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Taysun Kimm",
+        "title": "Faculty member",
+        "profile": "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher01.do",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "June Gyu Park",
+        "title": "Faculty member",
+        "profile": "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher01.do",
+        "research": "",
+        "homepage": ""
+      },
+      {
+        "name": "Minjin Kim",
+        "title": "Faculty member",
+        "profile": "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher01.do",
+        "research": "",
+        "homepage": ""
+      }
+    ]
+  },
+  "yonsei-astrintro-b60": {
+    "url": "https://astro.yonsei.ac.kr/galaxy/intro_us.do",
+    "checkedAt": "2026-11-27",
+    "scope": "系况给出 2026-03 14 名常任和 4 名荣休，教师目录页仅显示 11 名。另检名誉特聘、研究教授、博士后和各课题组解释公开范围。",
+    "entries": []
+  },
+  "yonsei-astrres-b60": {
+    "url": "https://astro.yonsei.ac.kr/galaxy/research_prof.do",
+    "checkedAt": "2026-11-27",
+    "scope": "具名研究教授 10 位，方向由逐人同页分栏提供。",
+    "entries": []
+  },
+  "yonsei-astroemer-b60": {
+    "url": "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher02.do",
+    "checkedAt": "2026-11-27",
+    "scope": "具名博士后 10 位，主题为天体和观测研究。",
+    "entries": []
+  },
+  "yonsei-astrdist-b60": {
+    "url": "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher06.do",
+    "checkedAt": "2026-11-27",
+    "scope": "本分栏单列 Young-Wook Lee 的荣誉教职与星系演化研究中心角色。",
+    "entries": []
+  },
+  "yonsei-astrret-b60": {
+    "url": "https://astro.yonsei.ac.kr/galaxy/galaxy01/teacher05.do",
+    "checkedAt": "2026-11-27",
+    "scope": "退休分栏具名四位，与院系 2026-03 系况互证。",
+    "entries": []
+  },
+  "yonsei-astrlabs-b60": {
+    "url": "https://astro.yonsei.ac.kr/galaxy/research.do",
+    "checkedAt": "2026-11-27",
+    "scope": "具名研究组十个，核对轨道动力学、观测宇宙学和引力。",
+    "entries": []
+  },
+  "yonsei-cosmom-b60": {
+    "url": "https://hepcosmo.yonsei.ac.kr/members/",
+    "checkedAt": "2026-11-27",
+    "scope": "校内高能物理、宇宙学组按教授、研究教授和学生披露，组负责人研究为宇宙学与粒子物理。",
+    "entries": []
+  },
+  "yonsei-cnufac-b60": {
+    "url": "https://math.cnu.ac.kr/math/people/faculty01.do",
+    "checkedAt": "2026-11-27",
+    "scope": "忠南大学数学系现行教师完整分栏及具名详情确认主聘和枚举几何方向；延世访问期结束日见访客表。",
+    "entries": [
+      {
+        "name": "Hyenho Lho",
+        "title": "Chungnam National University faculty",
+        "profile": "https://math.cnu.ac.kr/math/people/faculty01.do?mode=view&key=LZStrEwBlEYRA2AOI%20&pager.offset=0&pagerLimit=10",
+        "research": "",
+        "homepage": ""
+      }
+    ]
+  },
+  "yonsei-in-b60": {
+    "url": "https://soulcraw.github.io/inkyun/",
+    "checkedAt": "2026-11-27",
+    "scope": "当前作者主页给出 KIAS HCMC Fellow，延世 BK21 期已结束。",
+    "entries": [
+      {
+        "name": "In-Kyun Kim",
+        "title": "Former Yonsei postdoc · KIAS fellow",
+        "profile": "https://soulcraw.github.io/inkyun/",
+        "research": "",
+        "homepage": ""
+      }
+    ]
+  },
+  "yonsei-dug-b60": {
+    "url": "https://arxiv.org/abs/2509.09383",
+    "checkedAt": "2026-11-27",
+    "scope": "两条期刊 DOI 与本校报告、Korea University 学位和公开署名互证，同名 OpenAlex 档已拆核。",
+    "entries": [
+      {
+        "name": "Dong Hyeop Lee",
+        "title": "Listed Postdoctoral Researcher",
+        "profile": "https://math.yonsei.ac.kr/math/math/Postdoc.do",
+        "research": "",
+        "homepage": ""
+      }
+    ]
   }
 }
