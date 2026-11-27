@@ -1162,6 +1162,46 @@
       "note": "页面本身可读，实际花名册由页面链接的 eKVV 公开脚本载入。该脚本直连返回 403。本次以可直读研究团队和可核日期的博士项目名单补证，保留未公开部分。"
     },
     {
+      "id": "bielefeld-bgts23-b80",
+      "school": "bielefeld",
+      "url": "https://www.uni-bielefeld.de/einrichtungen/bgts/events/bgts-doctoral-day/doctoral-day-2023/",
+      "label": "BGTS Doctoral Day 2023",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "2023 公开活动日程可读，历史研究报告和工作坊按活动口径。"
+    },
+    {
+      "id": "bielefeld-bgts24-b80",
+      "school": "bielefeld",
+      "url": "https://www.uni-bielefeld.de/einrichtungen/bgts/events/bgts-doctoral-day/doctoral-day-2024/",
+      "label": "BGTS Doctoral Day 2024",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "2024 公开活动日程和节目 PDF，分开标明博士报告、组织委员会和其他活动。"
+    },
+    {
+      "id": "bielefeld-bgts25-b80",
+      "school": "bielefeld",
+      "url": "https://www.uni-bielefeld.de/einrichtungen/bgts/events/bgts-doctoral-day/doctoral-day-2025/",
+      "label": "BGTS Doctoral Day 2025",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "2025 公开活动日程可读，作用限于具名报告身份和历史日期。"
+    },
+    {
+      "id": "bielefeld-bgts26-b80",
+      "school": "bielefeld",
+      "url": "https://www.uni-bielefeld.de/einrichtungen/bgts/events/bgts-doctoral-day/bgts-doctoral-day-2026/",
+      "label": "BGTS Doctoral Day 2026",
+      "status": "reference",
+      "count": 0,
+      "checked_at": "2026-11-27",
+      "note": "2026-10-16 日程含具名博士讲者等栏目，公开日期和组委会可读。该范围为当日活动，不能覆盖现任博士档案。"
+    },
+    {
       "id": "bielefeld-birep-b55",
       "school": "bielefeld",
       "url": "https://www.math.uni-bielefeld.de/birep/people.php",
@@ -1216,10 +1256,10 @@
       "school": "bielefeld",
       "url": "https://www.uni-bielefeld.de/fakultaeten/physik/forschung/hochenergiephysik/",
       "label": "Physics · High Energy Physics research groups",
-      "status": "pending",
+      "status": "reference",
       "count": 0,
-      "checked_at": null,
-      "note": "尚未取得网页。"
+      "checked_at": "2026-11-27",
+      "note": "主入口可读，列出重离子碰撞唯象、非平衡重离子物理、计算和格点场论三组直链。左栏数学物理、天体与引力的交叉入口另查。"
     },
     {
       "id": "bielefeld-herrGroup-b78",
@@ -1392,6 +1432,16 @@
       "note": "核对 24 名当前成员及 6 名顾问。三个负责人另表重复；按个人岗位区分经济、技术、物理、数学和外部机构。中心成员身份不代替学校长期教职。Hüls 名字在这页省写字母，按具名主页。"
     },
     {
+      "id": "bielefeld-researchRole-b80",
+      "school": "bielefeld",
+      "url": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/",
+      "label": "Bielefeld · named academic, doctoral, postdoctoral and historical appointments",
+      "status": "reference",
+      "count": 40,
+      "checked_at": "2026-11-27",
+      "note": "交叉核读学院研究主题与课题组入口、Voll 和 Bielefeld 公开个人主页、TRR 项目、合作学校、2023–26 BGTS 活动及具名教育、学分公告。组用名录与职级冲突单独保留，历史参会与博士名单不代替当前职位。"
+    },
+    {
       "id": "bielefeld-sfb1283-b78",
       "school": "bielefeld",
       "url": "https://www.sfb1283.uni-bielefeld.de/Hostings/member",
@@ -1446,10 +1496,10 @@
       "school": "bielefeld",
       "url": "https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/",
       "label": "Faculty of Technology · Research Groups",
-      "status": "pending",
+      "status": "reference",
       "count": 0,
-      "checked_at": null,
-      "note": "尚未取得网页。"
+      "checked_at": "2026-11-27",
+      "note": "主入口可读，列智能系统、生物信息和生物技术三分栏。生物数学本人组页和校级博士研究得另行分工核对。"
     },
     {
       "id": "bielefeld-trr358-b55",

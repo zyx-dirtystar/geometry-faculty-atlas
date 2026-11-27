@@ -148750,14 +148750,14 @@
   },
   "bielefeld-hep-b55": {
     "url": "https://www.uni-bielefeld.de/fakultaeten/physik/forschung/hochenergiephysik/",
-    "scope": "校方研究入口展开重离子碰撞唯象、非平衡物理和 QCD 理论组，访问了非平衡研究组的详细主页。成员层级和其他高能方向仍需继续复核。",
-    "checkedAt": "2026-11-26",
+    "checkedAt": "2026-11-27",
+    "scope": "主入口可读，列出重离子碰撞唯象、非平衡重离子物理、计算和格点场论三组直链。左栏数学物理、天体与引力的交叉入口另查。",
     "entries": []
   },
   "bielefeld-tech-b55": {
     "url": "https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/",
-    "scope": "核到技术学院课题组索引可读。具名几何计算和跨聘个案仍须逐组复核。",
-    "checkedAt": "2026-11-26",
+    "checkedAt": "2026-11-27",
+    "scope": "主入口可读，列智能系统、生物信息和生物技术三分栏。生物数学本人组页和校级博士研究得另行分工核对。",
     "entries": []
   },
   "hu-berlin-agnes-listed-people-b56": {
@@ -188610,5 +188610,316 @@
         "research": "Arithmetic algebraic geometry"
       }
     ]
+  },
+  "bielefeld-researchRole-b80": {
+    "url": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/",
+    "checkedAt": "2026-11-27",
+    "scope": "交叉核读学院研究主题与课题组入口、Voll 和 Bielefeld 公开个人主页、TRR 项目、合作学校、2023–26 BGTS 活动及具名教育、学分公告。组用名录与职级冲突单独保留，历史参会与博士名单不代替当前职位。",
+    "entries": [
+      {
+        "name": "Guido Elsner",
+        "title": "Academic Managing Director",
+        "profile": "https://www.uni-bielefeld.de/studium/alumni/tag-fuer-absolvent_innen/fakultaeten/mathematik/",
+        "homepage": "",
+        "research": "Academic administration, historical probability and numerical integration research"
+      },
+      {
+        "name": "Eva Müller-Hill",
+        "title": "Former Gender Visiting Professor (summer 2026)",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/fakultaet/gleiko/gender-gastprofessur/",
+        "homepage": "",
+        "research": "Mathematics education and teacher education"
+      },
+      {
+        "name": "Nicole Wellensiek",
+        "title": "Academic Student Adviser, Mathematics",
+        "profile": "https://www.uni-bielefeld.de/themen/pruefungsrecht/anerkennung/Anerkennung-Zustaendigkeiten.pdf",
+        "homepage": "",
+        "research": "Mathematics teacher professional development, education and academic advising"
+      },
+      {
+        "name": "Julia Streit-Lehmann",
+        "title": "Mathematics Education Staff",
+        "profile": "https://www.uni-bielefeld.de/studium/alumni/tag-fuer-absolvent_innen/fakultaeten/mathematik/",
+        "homepage": "",
+        "research": "Early division understanding, mathematics education and assessment"
+      },
+      {
+        "name": "Juliane Wefers",
+        "title": "Mathematics Education Project Staff",
+        "profile": "https://www.bielefeld.de/sites/default/files/datei/2025/Mathespass-Projektbeschreibung-2025.pdf",
+        "homepage": "",
+        "research": "Primary mathematics education, diagnostic and learning support skills"
+      },
+      {
+        "name": "Johannes Kiskemper",
+        "title": "Academic Staff Directory Entry · mathematics education",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/akademische_mitarbeitende/",
+        "homepage": "",
+        "research": "Mathematics teaching, diagnostic and support competencies, fraction learning"
+      },
+      {
+        "name": "Lei Chen",
+        "title": "Postdoctoral Researcher, Baumeister group",
+        "profile": "https://www.math.uni-bielefeld.de/~baumeist/",
+        "homepage": "",
+        "research": "Finite group theory, coset covers and symmetric directed graphs"
+      },
+      {
+        "name": "Marcel Christoph Palmer",
+        "title": "Doctoral Researcher, Baumeister group",
+        "profile": "https://www.math.uni-bielefeld.de/~baumeist/",
+        "homepage": "",
+        "research": "Group theory and combinatorics in the Baumeister group"
+      },
+      {
+        "name": "Fenja Mehlan",
+        "title": "Doctoral Researcher, Kühne group (since 2024)",
+        "profile": "https://www.math.uni-bielefeld.de/~lkuehne/",
+        "homepage": "",
+        "research": "Combinatorics and algebraic geometry in the Kühne group"
+      },
+      {
+        "name": "Vikram Nadig",
+        "title": "Doctoral Researcher, Hebestreit group",
+        "profile": "https://www.math.uni-bielefeld.de/~hebestreit/",
+        "homepage": "",
+        "research": "Homological stability, algebraic topology and symmetric bilinear forms"
+      },
+      {
+        "name": "Jianhao Shen",
+        "title": "Postdoctoral Researcher, Voll group",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/voll/people/",
+        "homepage": "",
+        "research": "Arithmetic and asymptotic group theory, lattice-counting zeta functions and integral quiver representations"
+      },
+      {
+        "name": "Cecilia Knäbchen",
+        "title": "Doctoral Researcher, Voll group (since 2026)",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/voll/people/",
+        "homepage": "",
+        "research": "Doctoral research in the Voll group"
+      },
+      {
+        "name": "Alec Nathan Schmutz",
+        "title": "Doctoral Researcher, Voll group (since 2024)",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/voll/people/",
+        "homepage": "",
+        "research": "Asymptotic algebra and congruence questions in the Voll group"
+      },
+      {
+        "name": "Tomas Reunbrouck",
+        "title": "Doctoral Researcher, Voll group (since 2023)",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/voll/people/",
+        "homepage": "",
+        "research": "p-adic counting and algebraic enumeration"
+      },
+      {
+        "name": "Nazreen Farha Sayyid",
+        "title": "Doctoral Researcher advised at Paderborn · TRR investigator",
+        "profile": "https://www.martinulirsch.net/",
+        "homepage": "",
+        "research": "Twisted cohomology of free-group automorphism groups and tropical geometry project participation"
+      },
+      {
+        "name": "Sarah Diana Meier",
+        "title": "Postdoctoral Researcher, Spieß group",
+        "profile": "https://www.math.uni-bielefeld.de/~smeier/",
+        "homepage": "",
+        "research": "Mod p representations of p-adic algebraic groups, parabolic induction and derived functors"
+      },
+      {
+        "name": "Maissâ Boughrara",
+        "title": "Postdoctoral Researcher, Glogić group (since April 2026)",
+        "profile": "https://www.math.uni-bielefeld.de/~glogic/",
+        "homepage": "",
+        "research": "Singularities, wave and heat equations and blow-up profiles"
+      },
+      {
+        "name": "Tuan Anh Nguyen",
+        "title": "Postdoctoral Researcher, Wachtel group",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/akademische_mitarbeitende/",
+        "homepage": "",
+        "research": "Probability and applied stochastic analysis"
+      },
+      {
+        "name": "Shanshan Hu",
+        "title": "Doctoral Researcher at TU Berlin (since January 2025)",
+        "profile": "https://rg-sais.de/team/current-members/shanshan-hu/",
+        "homepage": "",
+        "research": "Stochastic differential equations, mean-field and random dynamical systems"
+      },
+      {
+        "name": "Philipp Svinger",
+        "title": "Doctoral Researcher, Kaßmann group",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/kassmann/mitarbeiter/",
+        "homepage": "",
+        "research": "Partial differential equations and nonlocal operators"
+      },
+      {
+        "name": "Tayfun Kardas",
+        "title": "Doctoral Researcher in Mathematics",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/akademische_mitarbeitende/",
+        "homepage": "",
+        "research": "Probability, martingales and random trees"
+      },
+      {
+        "name": "Yuqi Li",
+        "title": "Doctoral Researcher, stochastic analysis group",
+        "profile": "https://www.math.uni-bielefeld.de/~roeckner/people.html",
+        "homepage": "",
+        "research": "Nonlinear Fokker–Planck equations and stochastic analysis"
+      },
+      {
+        "name": "Walter Hoh",
+        "title": "Privatdozent, Stochastic Analysis Group",
+        "profile": "https://www.math.uni-bielefeld.de/~roeckner/people.html",
+        "homepage": "",
+        "research": "Pseudo-differential operators, Markov processes and stochastic analysis"
+      },
+      {
+        "name": "Tetyana Pasurek",
+        "title": "Privatdozent, CRC 1283 directory",
+        "profile": "https://www.sfb1283.uni-bielefeld.de/people/view/784",
+        "homepage": "",
+        "research": "Statistical mechanics, unbounded-spin Gibbs measures and probability"
+      },
+      {
+        "name": "Anna Klick",
+        "title": "Academic Research Group Member · exact grade not stated",
+        "profile": "https://www.math.uni-bielefeld.de/baake/",
+        "homepage": "",
+        "research": "Aperiodic order, model sets, crystal inflation and pair correlations"
+      },
+      {
+        "name": "Hannah Dopmeyer",
+        "title": "Mathematics Academic Directory · biomathematics former member",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/akademische_mitarbeitende/",
+        "homepage": "",
+        "research": "Biomathematics, stochastic genealogical models and population genetics"
+      },
+      {
+        "name": "Paul Schneider",
+        "title": "Groups and Geometry Member · exact rank not stated",
+        "profile": "https://www.math.uni-bielefeld.de/groupsgeometry/index.php",
+        "homepage": "",
+        "research": "Geometric group theory, finiteness properties of groups and graph theory"
+      },
+      {
+        "name": "Jannik Salzwedel",
+        "title": "Academic Staff, Herr group",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/herr/mitarbeiter/",
+        "homepage": "",
+        "research": "Dispersive partial differential equations and nonlinear Schrödinger scattering"
+      },
+      {
+        "name": "Salvatore Floccari",
+        "title": "Former Bielefeld Postdoctoral Researcher (2023–2025)",
+        "profile": "https://www.math.uni-bielefeld.de/~sfloccari/",
+        "homepage": "",
+        "research": "Algebraic and complex geometry, hyper-Kähler manifolds, Hodge theory and algebraic cycles"
+      },
+      {
+        "name": "Matthis Scholz",
+        "title": "Academic Staff Directory Entry · TRR B5 investigator",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/akademische_mitarbeitende/",
+        "homepage": "",
+        "research": ""
+      },
+      {
+        "name": "Andrea Gallese",
+        "title": "Mathematics Academic Staff Directory · TRR C8 · exact grade unverified",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/team/personen/akademische_mitarbeitende/",
+        "homepage": "",
+        "research": "Algebraic geometry and arithmetic geometry, abelian varieties, algebraic cycles and monodromy fields"
+      },
+      {
+        "name": "Julia Struwe",
+        "title": "Current Stochastic Analysis Group member · exact grade unverified",
+        "profile": "https://www.math.uni-bielefeld.de/~roeckner/people.html",
+        "homepage": "",
+        "research": ""
+      },
+      {
+        "name": "Benjamin Wagner",
+        "title": "Current Vial group member (since 2025) · specific grade unverified",
+        "profile": "https://www.math.uni-bielefeld.de/~vial/",
+        "homepage": "",
+        "research": "Algebraic geometry research group"
+      },
+      {
+        "name": "Silas Diembeck",
+        "title": "Current Vial group member (since 2025) · specific grade unverified",
+        "profile": "https://www.math.uni-bielefeld.de/~vial/",
+        "homepage": "",
+        "research": "Algebraic geometry research group"
+      },
+      {
+        "name": "Anne Dorothea Niesdroy",
+        "title": "Academic Staff, Herr group · exact grade unverified",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/herr/mitarbeiter/",
+        "homepage": "",
+        "research": ""
+      },
+      {
+        "name": "Lucas Krichel",
+        "title": "Academic Staff, Herr group · exact grade unverified",
+        "profile": "https://www.uni-bielefeld.de/fakultaeten/mathematik/ag/herr/mitarbeiter/",
+        "homepage": "",
+        "research": ""
+      },
+      {
+        "name": "Erdem Haksal",
+        "title": "Student Academic Adviser",
+        "profile": "https://www.math.uni-bielefeld.de/fachschaft/studienberatung/?lang=de",
+        "homepage": "",
+        "research": "Student academic advising, Mathematics and Theoretical Physics"
+      },
+      {
+        "name": "Fay Schäfer",
+        "title": "Student Academic Adviser",
+        "profile": "https://www.math.uni-bielefeld.de/fachschaft/studienberatung/?lang=de",
+        "homepage": "",
+        "research": "Student academic advising, secondary teacher education"
+      },
+      {
+        "name": "Miron Hinghaus",
+        "title": "Student Academic Adviser",
+        "profile": "https://www.math.uni-bielefeld.de/fachschaft/studienberatung/?lang=de",
+        "homepage": "",
+        "research": "Student academic advising, primary and lower secondary teacher education"
+      },
+      {
+        "name": "Nina Bardelmeier",
+        "title": "Student Academic Adviser",
+        "profile": "https://www.math.uni-bielefeld.de/fachschaft/studienberatung/?lang=de",
+        "homepage": "",
+        "research": "Student academic advising, mathematics peer consultation"
+      }
+    ]
+  },
+  "bielefeld-bgts26-b80": {
+    "url": "https://www.uni-bielefeld.de/einrichtungen/bgts/events/bgts-doctoral-day/bgts-doctoral-day-2026/",
+    "checkedAt": "2026-11-27",
+    "scope": "2026-10-16 日程含具名博士讲者等栏目，公开日期和组委会可读。该范围为当日活动，不能覆盖现任博士档案。",
+    "entries": []
+  },
+  "bielefeld-bgts25-b80": {
+    "url": "https://www.uni-bielefeld.de/einrichtungen/bgts/events/bgts-doctoral-day/doctoral-day-2025/",
+    "checkedAt": "2026-11-27",
+    "scope": "2025 公开活动日程可读，作用限于具名报告身份和历史日期。",
+    "entries": []
+  },
+  "bielefeld-bgts24-b80": {
+    "url": "https://www.uni-bielefeld.de/einrichtungen/bgts/events/bgts-doctoral-day/doctoral-day-2024/",
+    "checkedAt": "2026-11-27",
+    "scope": "2024 公开活动日程和节目 PDF，分开标明博士报告、组织委员会和其他活动。",
+    "entries": []
+  },
+  "bielefeld-bgts23-b80": {
+    "url": "https://www.uni-bielefeld.de/einrichtungen/bgts/events/bgts-doctoral-day/doctoral-day-2023/",
+    "checkedAt": "2026-11-27",
+    "scope": "2023 公开活动日程可读，历史研究报告和工作坊按活动口径。",
+    "entries": []
   }
 }
